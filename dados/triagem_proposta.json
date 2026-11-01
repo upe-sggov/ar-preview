@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-10-31T21:16",
+ "recolha": "2026-11-01T14:13",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -1205,40 +1205,130 @@
  ],
  "calendarizacao": [
   {
-   "data": "2026-11-18",
-   "diaSemana": "Quarta-feira",
-   "atividade": "Reunião Plenária (OE 2027) Conferência de Líderes",
-   "horas": "10h00 · 15h00"
-  },
-  {
-   "data": "2026-11-19",
+   "data": "2026-10-01",
    "diaSemana": "Quinta-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
-   "horas": "10h00"
-  },
-  {
-   "data": "2026-11-20",
-   "diaSemana": "Sexta-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
+   "atividade": "Jornadas Parlamentares do PCP",
    "horas": ""
   },
   {
-   "data": "2026-11-23",
+   "data": "2026-10-02",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Jornadas Parlamentares do PCP",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-05",
    "diaSemana": "Segunda-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
+   "atividade": "Feriado",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-06",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-07",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Conferência de Líderes Reunião Plenária",
+   "horas": "10h30 · 15h00"
+  },
+  {
+   "data": "2026-10-08",
+   "diaSemana": "Quinta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "14h30"
+  },
+  {
+   "data": "2026-10-09",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Reunião Plenária",
    "horas": "10h00"
   },
   {
-   "data": "2026-11-24",
+   "data": "2026-10-12",
+   "diaSemana": "Segunda-feira",
+   "atividade": "Contacto com o Eleitorado",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-13",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-14",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-10-15",
+   "diaSemana": "Quinta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-10-16",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "10h00"
+  },
+  {
+   "data": "2026-10-19",
+   "diaSemana": "Segunda-feira",
+   "atividade": "Contacto com o Eleitorado",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-20",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-21",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-10-23",
+   "diaSemana": "Sexta-feira",
+   "atividade": "OE 2027",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-26",
+   "diaSemana": "Segunda-feira",
+   "atividade": "OE 2027",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-27",
    "diaSemana": "Terça-feira",
    "atividade": "Reunião Plenária (OE 2027)",
-   "horas": "10h00"
+   "horas": "15h00"
   },
   {
-   "data": "2026-11-25",
+   "data": "2026-10-28",
    "diaSemana": "Quarta-feira",
-   "atividade": "Sessão solene 25 de Novembro",
-   "horas": "11h00"
+   "atividade": "Reunião Plenária (OE 2027)",
+   "horas": "10h00 · 15h00"
+  },
+  {
+   "data": "2026-10-29",
+   "diaSemana": "Quinta-feira",
+   "atividade": "OE 2027",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-30",
+   "diaSemana": "Sexta-feira",
+   "atividade": "OE 2027",
+   "horas": ""
   }
  ]
 }

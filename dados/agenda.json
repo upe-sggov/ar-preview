@@ -45,11 +45,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-plen-rio-debate-na-especialidade-do-or",
    "cobertura": {
-    "n": 1157,
-    "n7": 182,
-    "n7ant": 69,
+    "n": 1147,
+    "n7": 181,
+    "n7ant": 70,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "expressoes",
     "ultima": "2026-10-31 06:20",
     "ultimas": [
@@ -2511,11 +2511,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1157,
-    "n7": 182,
-    "n7ant": 69,
+    "n": 1147,
+    "n7": 181,
+    "n7ant": 70,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "expressoes",
     "ultima": "2026-10-31 06:20",
     "ultimas": [
@@ -4977,11 +4977,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1157,
-    "n7": 182,
-    "n7ant": 69,
+    "n": 1147,
+    "n7": 181,
+    "n7ant": 70,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "expressoes",
     "ultima": "2026-10-31 06:20",
     "ultimas": [
@@ -7443,11 +7443,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1157,
-    "n7": 182,
-    "n7ant": 69,
+    "n": 1147,
+    "n7": 181,
+    "n7ant": 70,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "expressoes",
     "ultima": "2026-10-31 06:20",
     "ultimas": [
@@ -9909,11 +9909,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1157,
-    "n7": 182,
-    "n7ant": 69,
+    "n": 1147,
+    "n7": 181,
+    "n7ant": 70,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "expressoes",
     "ultima": "2026-10-31 06:20",
     "ultimas": [
@@ -12370,7 +12370,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12402,7 +12402,7 @@
     "n7": 0,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -12462,40 +12462,130 @@
  ],
  "calendarizacao": [
   {
-   "data": "2026-11-18",
-   "diaSemana": "Quarta-feira",
-   "atividade": "Reunião Plenária (OE 2027) Conferência de Líderes",
-   "horas": "10h00 · 15h00"
-  },
-  {
-   "data": "2026-11-19",
+   "data": "2026-10-01",
    "diaSemana": "Quinta-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
-   "horas": "10h00"
-  },
-  {
-   "data": "2026-11-20",
-   "diaSemana": "Sexta-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
+   "atividade": "Jornadas Parlamentares do PCP",
    "horas": ""
   },
   {
-   "data": "2026-11-23",
+   "data": "2026-10-02",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Jornadas Parlamentares do PCP",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-05",
    "diaSemana": "Segunda-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
+   "atividade": "Feriado",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-06",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-07",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Conferência de Líderes Reunião Plenária",
+   "horas": "10h30 · 15h00"
+  },
+  {
+   "data": "2026-10-08",
+   "diaSemana": "Quinta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "14h30"
+  },
+  {
+   "data": "2026-10-09",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Reunião Plenária",
    "horas": "10h00"
   },
   {
-   "data": "2026-11-24",
+   "data": "2026-10-12",
+   "diaSemana": "Segunda-feira",
+   "atividade": "Contacto com o Eleitorado",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-13",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-14",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-10-15",
+   "diaSemana": "Quinta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-10-16",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "10h00"
+  },
+  {
+   "data": "2026-10-19",
+   "diaSemana": "Segunda-feira",
+   "atividade": "Contacto com o Eleitorado",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-20",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-21",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-10-23",
+   "diaSemana": "Sexta-feira",
+   "atividade": "OE 2027",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-26",
+   "diaSemana": "Segunda-feira",
+   "atividade": "OE 2027",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-27",
    "diaSemana": "Terça-feira",
    "atividade": "Reunião Plenária (OE 2027)",
-   "horas": "10h00"
+   "horas": "15h00"
   },
   {
-   "data": "2026-11-25",
+   "data": "2026-10-28",
    "diaSemana": "Quarta-feira",
-   "atividade": "Sessão solene 25 de Novembro",
-   "horas": "11h00"
+   "atividade": "Reunião Plenária (OE 2027)",
+   "horas": "10h00 · 15h00"
+  },
+  {
+   "data": "2026-10-29",
+   "diaSemana": "Quinta-feira",
+   "atividade": "OE 2027",
+   "horas": ""
+  },
+  {
+   "data": "2026-10-30",
+   "diaSemana": "Sexta-feira",
+   "atividade": "OE 2027",
+   "horas": ""
   }
  ],
  "edicao": {
@@ -12526,8 +12616,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-10-31T21:16+00:00",
-  "atualizadoLabel": "31 de outubro, 21h16",
+  "atualizado": "2026-11-01T14:13+00:00",
+  "atualizadoLabel": "1 de novembro, 14h13",
   "estado": "com triagem automática",
   "aviso": "36 matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12938,7 +13028,7 @@
    "enquadramento": "Seleção automática de 20 das 1157 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (182 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
   "2026-11-20-plen-rio-discuss-o-de-artigos-remetidos": {
-   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
    "nivel": "completa",
    "origem": "radar",
@@ -12948,19 +13038,10 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-07",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/tag/geral/oe2027/",
-     "sintese": "OE2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
      "data": "2026-09-24",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/politica/amp/ministro-da-presidencia-avisa-que-margem-negocial-do-oe2027-e-muito-limitada-e-critica-pessimistas-alertantes",
-     "sintese": "Ministro da Presidência avisa que margem negocial do OE2027 é muito limitada e critica \"pessimistas alertantes\"",
+     "fonte": "Nascer do SOL",
+     "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
+     "sintese": "AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -12994,9 +13075,18 @@
     },
     {
      "data": "2026-10-07",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/amp/economia/2026/10/07/oe2027-governo-entrega-proposta-no-parlamento-quinta-feira-a-tarde/488243/",
-     "sintese": "OE2027. Governo entrega proposta no parlamento quinta-feira à tarde",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
+     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
+     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13006,15 +13096,6 @@
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
      "sintese": "PSD espera \"tranquilidade\" e \"previsibilidade\" com o OE2027, mas PS avisa que \"compromissos são para cumprir\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/videos/orcamento-do-estado-para-2027-e-minimalista-e-tenta-passar-entre-os-pingos-da-chuva/6ac817700cf20dc52779187d",
-     "sintese": "Orçamento do Estado para 2027 \"é minimalista e tenta passar entre os pingos da chuva\"",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13048,81 +13129,90 @@
     },
     {
      "data": "2026-10-13",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/oe2027-carneiro-garante-que-ps-nao-estara-na-origem-de-qualquer-crise-politica_n1771510",
-     "sintese": "OE2027. Carneiro garante que PS \"não estará na origem de qualquer crise política\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/programa/cafe-duplo-ribau-esteves-e-frederico-rosa?ep=18139326",
-     "sintese": "Protestos, OE 2027 e Lei das Rendas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/politica/3070770/inquerito-aos-negocios-dos-incendios-suspenso-durante-debate-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Inquérito aos negócios dos incêndios suspenso durante debate do OE2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/oe2027-financiamento-as-corporacoes-de-bomberios-vai-aumentar-mais-de-5/",
-     "sintese": "OE2027: Financiamento às corporações de bomberios vai aumentar mais de 5%",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-raimundo-diz-que-chega-est-todo-contente-com-frete-do-ps",
-     "sintese": "OE2027: Raimundo diz que Chega “está todo contente” com “frete” do PS",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/artigo/convidado/2026/10/13/o-oe-2027-em-perspetiva/489028/",
+     "sintese": "O OE 2027 em perspetiva",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
     },
     {
      "data": "2026-10-23",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-justifica-viabilizacao-do-oe2027-com-crises-em-portugal-e-no-estrangeiro",
-     "sintese": "Carneiro justifica viabilização do OE2027 com crises em Portugal e no estrangeiro",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-23",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/23/carneiro-justifica-viabilizacao-do-oe2027-com-crises-em-portugal-e-no-estrangeiro/",
-     "sintese": "OE2027. Carneiro justifica viabilização com crises mundiais",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-25",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/jaime-rocha-ey-oe2027-falta-claramente-ambicao-e-estimulo-a-competitividade-das-empresas/",
-     "sintese": "Jaime Rocha, EY: “OE2027? Falta claramente ambição e estímulo à competitividade das empresas”",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
+     "sintese": "José Luís Carneiro justifica viabilização do \"mau\" OE2027 com crises em Portugal e no estrangeiro",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
     },
     {
      "data": "2026-10-26",
+     "fonte": "Diário de Notícias",
+     "url": "http://dinheirovivo.dn.pt/economia/oe2027-rsi-chega-a-menos-de-4-dos-cidados-estrangeiros-em-portugal",
+     "sintese": "OE2027: RSI chega a menos de 4% dos cidadãos estrangeiros em Portugal",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
+     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
      "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/salario-minimo-pensoes-e-mercado-de-trabalho-palma-ramalho-defende-oe2027-no-parlamento/",
-     "sintese": "Salário mínimo, pensões e mercado de trabalho. Palma Ramalho defende OE2027 no Parlamento",
+     "url": "https://eco.sapo.pt/2026/10/28/orcamento-do-estado-para-2027-aprovado-na-generalidade-com-abstencao-do-ps/",
+     "sintese": "Orçamento do Estado para 2027 aprovado na generalidade com abstenção do PS",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
+     "sintese": "Carneiro acusa PSD e CDS de destratar, desconsiderar e atacar PS no debate do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "OE2027: Decisão da Galp \"é soberana\" e Governo cumpriu o seu papel",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-ministra-atribui-saldo-negativo-de-2-679-milhoes-do-sns-a-necessidades-de-financiamento/",
+     "sintese": "OE2027: Ministra atribui saldo negativo de 2.679 milhões do SNS a necessidades de financiamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
+     "sintese": "OE2027. Carteira Digital tem 18 mil empresas",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-31",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
+     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13130,14 +13220,14 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 979
+    "encontradas": 1147
    },
    "base": {
-    "ultima": "2026-10-26 06:38",
-    "em": "2026-10-26"
+    "ultima": "2026-10-31 06:20",
+    "em": "2026-11-01"
    },
-   "novas": 173,
-   "enquadramento": "Seleção automática de 20 das 979 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (61 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+   "novas": 0,
+   "enquadramento": "Seleção automática de 20 das 1147 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (181 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
   "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
@@ -14789,7 +14879,7 @@
     "ultima": "2026-10-30 03:51",
     "em": "2026-10-30"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Seleção automática de 20 das 43 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (5 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
   "2026-11-06-comiss-o-de-or-amento-finan-as-e-admini": {
@@ -14929,7 +15019,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -14978,7 +15068,7 @@
     "n7": 4,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -15165,7 +15255,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -15358,7 +15448,7 @@
     "n7": 3,
     "n7ant": 5,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -15552,7 +15642,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -15600,7 +15690,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -15649,7 +15739,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -15837,7 +15927,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -15886,7 +15976,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -16067,7 +16157,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -16248,7 +16338,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -16425,7 +16515,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16473,7 +16563,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16521,7 +16611,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16565,7 +16655,7 @@
     "n7": 3,
     "n7ant": 3,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 18:26",
     "ultimas": [
@@ -16737,7 +16827,7 @@
     "n7": 4,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -16922,7 +17012,7 @@
     "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 18:26",
     "ultimas": [
@@ -17007,7 +17097,7 @@
     "n7": 4,
     "n7ant": 7,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -17260,7 +17350,7 @@
     "n7": 4,
     "n7ant": 5,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -17461,11 +17551,11 @@
    ],
    "novo": "2026-10-30",
    "cobertura": {
-    "n": 32,
+    "n": 33,
     "n7": 4,
-    "n7ant": 5,
+    "n7ant": 6,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -17512,6 +17602,12 @@
       "Healthnews",
       "Informar não basta, especialistas pedem um ecossistema de literacia em saúde",
       "https://healthnews.pt/2026/10/29/informar-nao-basta-especialistas-pedem-um-ecossistema-de-literacia-em-saude/#utm_source=rss&utm_medium=rss&utm_campaign=informar-nao-basta-especialistas-pedem-um-ecossistema-de-literacia-em-saude"
+     ],
+     [
+      "2026-10-24 09:38",
+      "Healthnews",
+      "11.º Congresso Internacional dos Hospitais: Do conhecimento à criação de valor em saúde",
+      "https://healthnews.pt/2026/10/24/11-o-congresso-internacional-dos-hospitais-do-conhecimento-a-criacao-de-valor-em-saude/#utm_source=rss&utm_medium=rss&utm_campaign=11-o-congresso-internacional-dos-hospitais-do-conhecimento-a-criacao-de-valor-em-saude"
      ],
      [
       "2026-10-23 12:36",
@@ -17724,7 +17820,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -17907,7 +18003,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -17956,7 +18052,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -18138,7 +18234,7 @@
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -18213,7 +18309,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -18393,7 +18489,7 @@
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-26 18:11",
     "ultimas": [
@@ -18514,7 +18610,7 @@
     "n7": 4,
     "n7ant": 5,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -18745,34 +18841,46 @@
    ],
    "novo": "2026-10-30",
    "cobertura": {
-    "n": 42,
-    "n7": 5,
+    "n": 44,
+    "n7": 7,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
-    "ultima": "2026-10-30 03:51",
+    "ultima": "2026-11-01 11:13",
     "ultimas": [
+     {
+      "data": "2026-11-01",
+      "fonte": "Observador",
+      "titulo": "11h. Acampada. PSP garante que força usada foi proporcional",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1334/"
+     },
+     {
+      "data": "2026-11-01",
+      "fonte": "RTP Notícias",
+      "titulo": "\"A bomba da gasolina é fatal para os Governos\", assume ministro da Economia",
+      "url": "https://www.rtp.pt/noticias/economia/a-bomba-da-gasolina-e-fatal-para-os-governos-assume-ministro-da-economia_v1775724"
+     },
      {
       "data": "2026-10-30",
       "fonte": "ECO",
       "titulo": "Está a ser “mais difícil” cumprir metas de execução que impedem devolução de verbas a Bruxelas",
       "url": "https://eco.sapo.pt/2026/10/29/esta-a-ser-mais-dificil-cumprir-metas-de-execucao-que-impedem-devolucao-de-verbas-a-bruxelas/"
-     },
-     {
-      "data": "2026-10-29",
-      "fonte": "RTP Notícias",
-      "titulo": "Governo diz que PRR é \"conquista\" mas ainda falta \"trabalho cirúrgico\"",
-      "url": "https://www.rtp.pt/noticias/economia/governo-diz-que-prr-e-conquista-mas-ainda-falta-trabalho-cirurgico_n1775446"
-     },
-     {
-      "data": "2026-10-27",
-      "fonte": "Jornal Económico",
-      "titulo": "Missão portuguesa visita Venezuela para reforçar laços económicos e comerciais",
-      "url": "https://jornaleconomico.sapo.pt/noticias/missao-portuguesa-visita-venezuela-para-reforcar-lacos-economicos-e-comerciais/"
      }
     ],
     "todas": [
+     [
+      "2026-11-01 11:13",
+      "Observador",
+      "11h. Acampada. PSP garante que força usada foi proporcional",
+      "https://observador.pt/programas/noticiario/as-noticias-das-11h-1334/"
+     ],
+     [
+      "2026-11-01 09:03",
+      "RTP Notícias",
+      "\"A bomba da gasolina é fatal para os Governos\", assume ministro da Economia",
+      "https://www.rtp.pt/noticias/economia/a-bomba-da-gasolina-e-fatal-para-os-governos-assume-ministro-da-economia_v1775724"
+     ],
      [
       "2026-10-30 03:51",
       "ECO",
@@ -19054,7 +19162,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -19100,7 +19208,7 @@
     "n7": 10,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -19527,7 +19635,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -19735,11 +19843,11 @@
     }
    ],
    "cobertura": {
-    "n": 28,
+    "n": 27,
     "n7": 2,
     "n7ant": 5,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-29 22:49",
     "ultimas": [
@@ -19924,12 +20032,6 @@
       "RTP Notícias",
       "Portugal acerta apoio sobre arquivo militar com Moçambique em visita de Nuno Melo",
       "https://www.rtp.pt/noticias/mundo/portugal-acerta-apoio-sobre-arquivo-militar-com-mocambique-em-visita-de-nuno-melo_n1765109"
-     ],
-     [
-      "2026-09-01 09:27",
-      "ECO",
-      "O Pilar Europeu da NATO e a indústria de Defesa Nacional",
-      "https://eco.sapo.pt/opiniao/o-pilar-europeu-da-nato-e-a-industria-de-defesa-nacional/"
      ]
     ]
    },
@@ -19976,7 +20078,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -20207,7 +20309,7 @@
     "n7": 3,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -20389,7 +20491,7 @@
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-26 06:38",
     "ultimas": [
@@ -20452,7 +20554,7 @@
     "n7": 4,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
@@ -20641,7 +20743,7 @@
     "n7": 3,
     "n7ant": 10,
     "dias": 60,
-    "ref": "2026-10-31",
+    "ref": "2026-11-01",
     "metodo": "palavras",
     "ultima": "2026-10-30 22:06",
     "ultimas": [
