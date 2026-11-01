@@ -12630,8 +12630,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-01T21:54+00:00",
-  "atualizadoLabel": "1 de novembro, 21h54",
+  "atualizado": "2026-11-01T22:01+00:00",
+  "atualizadoLabel": "1 de novembro, 22h01",
   "estado": "com triagem automática",
   "aviso": "10 matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -13446,8 +13446,8 @@
    "enquadramento": "Seleção automática de 20 das 1150 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (184 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
-   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
-   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13456,19 +13456,10 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-07",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/tag/geral/oe2027/",
-     "sintese": "OE2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
      "data": "2026-09-24",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/politica/amp/ministro-da-presidencia-avisa-que-margem-negocial-do-oe2027-e-muito-limitada-e-critica-pessimistas-alertantes",
-     "sintese": "Ministro da Presidência avisa que margem negocial do OE2027 é muito limitada e critica \"pessimistas alertantes\"",
+     "fonte": "Nascer do SOL",
+     "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
+     "sintese": "AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13492,19 +13483,19 @@
      "naturezaLabel": "Por classificar"
     },
     {
-     "data": "2026-10-06",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
-     "sintese": "PS admite mudar viabilização do OE2027 se este tiver “medidas surpresa” gravosas | Orçamento do Estado 2027",
+     "data": "2026-10-07",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
+     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
     },
     {
-     "data": "2026-10-07",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/amp/economia/2026/10/07/oe2027-governo-entrega-proposta-no-parlamento-quinta-feira-a-tarde/488243/",
-     "sintese": "OE2027. Governo entrega proposta no parlamento quinta-feira à tarde",
+     "data": "2026-10-08",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
+     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13519,19 +13510,10 @@
      "naturezaLabel": "Por classificar"
     },
     {
-     "data": "2026-10-08",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/videos/orcamento-do-estado-para-2027-e-minimalista-e-tenta-passar-entre-os-pingos-da-chuva/6ac817700cf20dc52779187d",
-     "sintese": "Orçamento do Estado para 2027 \"é minimalista e tenta passar entre os pingos da chuva\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
      "data": "2026-10-09",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
-     "sintese": "OE2027: Professores pedem mais investimento na Educação e valorização da carreira",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
+     "sintese": "Num debate que se esperava sobre o OE2027, habitação e Centeno roubaram o palco",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13547,6 +13529,15 @@
     },
     {
      "data": "2026-10-11",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
+     "sintese": "Hospital de Gaia: PS critica Governo por ausência de financiamento no OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
      "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
@@ -13556,81 +13547,90 @@
     },
     {
      "data": "2026-10-13",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/oe2027-carneiro-garante-que-ps-nao-estara-na-origem-de-qualquer-crise-politica_n1771510",
-     "sintese": "OE2027. Carneiro garante que PS \"não estará na origem de qualquer crise política\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/programa/cafe-duplo-ribau-esteves-e-frederico-rosa?ep=18139326",
-     "sintese": "Protestos, OE 2027 e Lei das Rendas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/politica/3070770/inquerito-aos-negocios-dos-incendios-suspenso-durante-debate-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Inquérito aos negócios dos incêndios suspenso durante debate do OE2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/oe2027-financiamento-as-corporacoes-de-bomberios-vai-aumentar-mais-de-5/",
-     "sintese": "OE2027: Financiamento às corporações de bomberios vai aumentar mais de 5%",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-raimundo-diz-que-chega-est-todo-contente-com-frete-do-ps",
-     "sintese": "OE2027: Raimundo diz que Chega “está todo contente” com “frete” do PS",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-23",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-justifica-viabilizacao-do-oe2027-com-crises-em-portugal-e-no-estrangeiro",
-     "sintese": "Carneiro justifica viabilização do OE2027 com crises em Portugal e no estrangeiro",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-23",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/23/carneiro-justifica-viabilizacao-do-oe2027-com-crises-em-portugal-e-no-estrangeiro/",
-     "sintese": "OE2027. Carneiro justifica viabilização com crises mundiais",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-25",
      "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/jaime-rocha-ey-oe2027-falta-claramente-ambicao-e-estimulo-a-competitividade-das-empresas/",
-     "sintese": "Jaime Rocha, EY: “OE2027? Falta claramente ambição e estímulo à competitividade das empresas”",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
+     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa preocupação, diz Miranda Sarmento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
+     "sintese": "José Luís Carneiro justifica viabilização do \"mau\" OE2027 com crises em Portugal e no estrangeiro",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
     },
     {
      "data": "2026-10-26",
+     "fonte": "Diário de Notícias",
+     "url": "http://dinheirovivo.dn.pt/economia/oe2027-rsi-chega-a-menos-de-4-dos-cidados-estrangeiros-em-portugal",
+     "sintese": "OE2027: RSI chega a menos de 4% dos cidadãos estrangeiros em Portugal",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
+     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
+     "sintese": "Carneiro acusa PSD e CDS de destratar, desconsiderar e atacar PS no debate do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "OE2027: Decisão da Galp \"é soberana\" e Governo cumpriu o seu papel",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
+     "sintese": "OE2027. Carteira Digital tem 18 mil empresas",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-31",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
+     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-11-01",
      "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/salario-minimo-pensoes-e-mercado-de-trabalho-palma-ramalho-defende-oe2027-no-parlamento/",
-     "sintese": "Salário mínimo, pensões e mercado de trabalho. Palma Ramalho defende OE2027 no Parlamento",
+     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+     "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13638,14 +13638,14 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 979
+    "encontradas": 1150
    },
    "base": {
-    "ultima": "2026-10-26 06:38",
-    "em": "2026-10-26"
+    "ultima": "2026-11-01 17:27",
+    "em": "2026-11-01"
    },
-   "novas": 176,
-   "enquadramento": "Seleção automática de 20 das 979 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (61 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+   "novas": 0,
+   "enquadramento": "Seleção automática de 20 das 1150 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (184 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
   "2026-11-02-comiss-o-de-infraestruturas-mobilidade": {
    "titulo": "Comissão de Infraestruturas, Mobilidade e Habitação",
