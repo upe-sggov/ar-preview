@@ -707,9 +707,9 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const ind = c.metodo==='palavras' ? ' <span title="contagem pelas palavras do assunto, indicativa; fica precisa quando a matéria tem expressões de pesquisa">(indicativo)</span>' : '';
     const fonte = '<span title="Órgãos de comunicação social nacionais acompanhados pelo Radar de Notícias da UPE">OCS acompanhados pelo Radar</span>';
     if (c.n7 === undefined) return `<b>${c.n}</b> ${c.n===1?'notícia':'notícias'} em ${c.dias} dias nos ${fonte}${ind}`;   // edições antigas
-    const t = c.n7 > c.n7ant ? ['↑','a subir','sobe'] : c.n7 < c.n7ant ? ['↓','a descer','desce'] : ['→','estável','estavel'];
-    const tend = c.n7||c.n7ant ? ` <span class="tend ${t[2]}" title="${c.n7ant} nos 7 dias anteriores">${t[0]} ${t[1]}</span>` : '';
-    return `<b>${c.n7}</b> ${c.n7===1?'notícia':'notícias'} nos últimos 7 dias${tend} · ${c.n} em ${c.dias} dias · ${fonte}${ind}`;
+    const t = c.n7 > c.n7ant ? ['↑','mais do que','sobe'] : c.n7 < c.n7ant ? ['↓','menos do que','desce'] : ['→','tantas como','estavel'];
+    const tend = c.n7||c.n7ant ? ` <span class="tend ${t[2]}" title="${c.n7ant} na semana anterior">${t[0]} ${t[1]} na semana anterior (${c.n7ant})</span>` : '';
+    return `<b>${c.n}</b> ${c.n===1?'notícia':'notícias'} em ${c.dias} dias · <b>${c.n7}</b> na última semana${tend} · ${fonte}${ind}`;
   };
   const PEDIDO = 'upe@sggoverno.gov.pt';
   const pedirVarr = x => { const ass = encodeURIComponent(`AR Preview — pedido de varrimento: ${x.tema}`.slice(0,150));
@@ -780,7 +780,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     return `<div class="enq">${esc(f.enquadramento)}</div>
       ${f.atencao.length?`<h3><svg class="ic"><use href="#i-alert"/></svg>${esc(f.atencaoTitulo||'Pontos de atenção')}</h3><div class="atencao">${f.atencao.map(a=>`<div class="at">${a.titulo?`<b>${esc(a.titulo)}</b>`:''}${esc(a.texto)}</div>`).join('')}</div>`:''}
       ${f.blocos.map(b=>`<h3>${esc(b.titulo)}</h3><div class="bloco">${b.paragrafos.map(p=>`<p>${esc(p)}</p>`).join('')}${f.tabelas.filter(t=>t.titulo===b.titulo).map(t=>`<table class="simples"><thead><tr>${t.cabecalho.map(h=>`<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${t.linhas.map(l=>`<tr>${l.map(c=>`<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>`).join('')}</div>`).join('')}
-      ${f.fundo.length?`<h3><svg class="ic"><use href="#i-news"/></svg>Fundo mediático <small style="font-weight:400;color:var(--suave)">· ${f.fundo.length} notícias, ordem cronológica</small></h3>${chips}<div class="linha-tempo">${f.fundo.map(n=>`<div class="not ${esc(n.natureza)}" data-nat="${esc(n.natureza)}"><div class="n-top"><span>${esc(/^\d{4}-\d{2}-\d{2}/.test(n.data||'') ? fmtD(n.data)+' '+n.data.slice(0,4) : n.data)} · ${n.url?`<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.fonte)}</a>`:esc(n.fonte)}</span>${n.naturezaLabel==='Por classificar'?'':`<span class="nat ${esc(n.natureza)}">${esc(n.naturezaLabel)}</span>`}</div><div>${esc(n.sintese)}</div>${n.impacto?`<div class="imp"><b>Impacto para a sessão:</b> ${esc(n.impacto)}</div>`:''}</div>`).join('')}</div>`:''}`;
+      ${f.fundo.length?`<h3><svg class="ic"><use href="#i-news"/></svg>Fundo mediático <small style="font-weight:400;color:var(--suave)">· ${f.fundo.length} ${f.origem==='radar'?'notícias escolhidas':'notícias'}, por data</small></h3>${chips}<div class="linha-tempo">${f.fundo.map(n=>`<div class="not ${esc(n.natureza)}" data-nat="${esc(n.natureza)}"><div class="n-top"><span>${esc(/^\d{4}-\d{2}-\d{2}/.test(n.data||'') ? fmtD(n.data)+' '+n.data.slice(0,4) : n.data)} · ${n.url?`<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.fonte)}</a>`:esc(n.fonte)}</span>${n.naturezaLabel==='Por classificar'?'':`<span class="nat ${esc(n.natureza)}">${esc(n.naturezaLabel)}</span>`}</div><div>${esc(n.sintese)}</div>${n.impacto?`<div class="imp"><b>Impacto para a sessão:</b> ${esc(n.impacto)}</div>`:''}</div>`).join('')}</div>`:''}`;
   }
   // lista completa das notícias encontradas no Radar (sem IA), agrupada por dia
   const coberturaDe = k => pool.filter(x => !x._hist && x.varrimento===k && x.cobertura).map(x=>x.cobertura).sort((a,b)=>(b.todas||[]).length-(a.todas||[]).length)[0];
@@ -794,8 +794,8 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
       const g = {dk, titulo:n[2], url:n[3], fontes:[[n[1], n[3]]]}; vistas.set(k, g); (dias[dk] = dias[dk] || []).push(g); });
     const corpo = Object.keys(dias).sort().reverse().map(dk => `<div class="ln-dia">${esc(fmtD(dk))} · ${dias[dk].length}</div>` + dias[dk].map(g => `<div class="ln" data-t="${esc((g.fontes.map(f=>f[0]).join(' ')+' '+g.titulo).toLowerCase())}">${g.url?`<a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.titulo)}</a>`:esc(g.titulo)}<span class="ln-f">${g.fontes.map(f=>f[1]?`<a href="${esc(f[1])}" target="_blank" rel="noopener">${esc(f[0])}</a>`:esc(f[0])).join(' · ')}${g.fontes.length>1?` <i>(${g.fontes.length} órgãos)</i>`:''}</span></div>`).join('')).join('');
     const nHist = Object.values(dias).reduce((s,v)=>s+v.length,0);
-    return `<details class="todas" ${aberta?'open':''}><summary><svg class="ic"><use href="#i-news"/></svg>Notícias encontradas (${c.n}${nHist<L.length?` · ${nHist} histórias`:''})</summary>
-      <p class="ln-nota">${cobTxt(c)}${c.n > L.length ? ` · mostram-se as ${L.length} mais recentes` : ''}. Lista automática, sem análise; a mesma notícia publicada em vários órgãos aparece uma só vez.</p>
+    return `<details class="todas" ${aberta?'open':''}><summary><svg class="ic"><use href="#i-news"/></svg>Todas as notícias encontradas no Radar (${c.n})</summary>
+      <p class="ln-nota">${cobTxt(c)}${c.n > L.length ? ` · mostram-se as ${L.length} mais recentes` : ''}. Lista automática, sem análise${nHist<L.length?`; a mesma notícia publicada em vários jornais aparece numa só linha, com os jornais por baixo (${nHist} linhas)`:''}.</p>
       <input class="ln-q" type="search" placeholder="Filtrar por órgão ou palavra do título…"><div class="ln-lista">${corpo}</div></details>`;
   }
   let atual = null;
@@ -806,7 +806,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const amostra = f.amostra && f.origem!=='radar' ? `<div class="g-amostra">${f.origem==='radar'?'Seleção automática':'Amostra'} de <b>${f.amostra.analisadas}</b> notícias${f.origem==='radar'?'':' analisadas'}, de <b>${f.amostra.encontradas}</b> encontradas em 60 dias no Radar de Notícias, escolhidas ao longo do período (dias de maior cobertura, variedade de órgãos e as mais recentes).</div>` : '';
     const novas = f.novas ? `<div class="g-novas"><svg class="ic"><use href="#i-alert"/></svg> <b>${f.novas} ${f.novas===1?'notícia nova':'notícias novas'}</b> desde ${f.revista_por ? 'a revisão desta ficha' : 'que esta ficha foi feita'}${f.base && f.base.em ? ` (${esc(fmtD(f.base.em))})` : ''}. Veja-as na lista completa, no fim.</div>` : '';
     // sem análise do Amália, a seleção é redundante com a lista: mostra-se só a lista completa, aberta
-    botaoExportar(); $('#g-corpo').innerHTML = novas + amostra + (f.origem==='radar' ? `<div class="enq">${esc(f.enquadramento)}</div>` + listaHTML(c, true) : fichaHTML(f, true) + listaHTML(c, false)); $('#g-corpo').scrollTop = 0;
+    botaoExportar(); $('#g-corpo').innerHTML = novas + amostra + (f.origem==='radar' ? `<div class="enq">Todas as notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias, por dia. Lista automática, sem análise: o enquadramento e o impacto chegam quando o Amália estiver ativo. No PDF, a ficha mostra uma seleção destas notícias.</div>` + listaHTML(c, true) : fichaHTML(f, true) + listaHTML(c, false)); $('#g-corpo').scrollTop = 0;
     const i = ORD.indexOf(k);
     $('#g-nav').innerHTML = `${i>0?`<a href="#" data-ver="${ORD[i-1]}">‹ ${esc(D.fichas[ORD[i-1]].titulo)}</a>`:''}${i>0&&i<ORD.length-1?' · ':''}${i<ORD.length-1?`<a href="#" data-ver="${ORD[i+1]}">${esc(D.fichas[ORD[i+1]].titulo)} ›</a>`:''}`;
     $('#gaveta').classList.add('on'); $('#veu').classList.add('on'); $('#gaveta').setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';

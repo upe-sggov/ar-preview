@@ -58,6 +58,13 @@ def motivo(x, f):
         if novas >= 3 or (novas >= 1 and not cheia): return f'{novas} notícias novas'
     return None
 
+def texto_radar(n_sel, c, n_total=None):
+    """Frase de abertura das fichas sem Amália (aparece no PDF, por cima das notícias escolhidas)."""
+    n = c.get('n', n_total or 0); n7 = c.get('n7', 0)
+    return (f"Das {n} notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias ({n7} na última semana), "
+            f"estas são {n_sel}, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. "
+            f"A lista completa está no AR Preview. Sem análise: o enquadramento e o impacto chegam quando o Amália estiver ativo.")
+
 def alvos(d):
     """Matérias da semana (Imediato e Vigilância) e matérias Imediato das semanas seguintes, por esta ordem."""
     semana = [x for x in d['destaques'] + d['agenda'] if x['pertinencia'] in ('Imediato', 'Vigilância') and not x.get('retirado')]
@@ -116,11 +123,7 @@ def ficha(x, r, perguntar, json_da_resposta):
         for a in nots:
             f['fundo'].append({'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'url': a.get('ligacao'), 'sintese': a.get('titulo') or '',
                                'impacto': '', 'natureza': 'contexto', 'naturezaLabel': 'Por classificar'})
-        c = x.get('cobertura') or {}
-        f['enquadramento'] = (f"Seleção automática de {len(nots)} das {len(r)} notícias encontradas nos últimos 60 dias nos órgãos de comunicação social "
-                              f"acompanhados pelo Radar de Notícias ({c.get('n7', 0)} nos últimos 7 dias), escolhidas ao longo do período: dias de maior "
-                              f"cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia "
-                              f"são acrescentados automaticamente quando o Amália estiver ativo.")
+        f['enquadramento'] = texto_radar(len(nots), x.get('cobertura') or {}, len(r))
         return f
     lista = '\n'.join(f"{i+1}. [{a.get('data','')[:10]} · {a.get('fonte')}] {a.get('titulo')} — {(a.get('resumo') or '')[:300]}" for i, a in enumerate(nots))
     pedido_imp = ', "impacto": "1 frase: como pode ser usada na sessão e por quem"' if nivel == 'completa' else ''
@@ -184,6 +187,11 @@ if __name__ == '__main__':
     usadas = {x.get('varrimento') for x in todos_}
     for k in [k for k in d['fichas'] if k not in usadas and auto(k)]:
         d['fichas'].pop(k); print('ficha órfã retirada:', k)
+    # frase de abertura das fichas do Radar, sempre com os números atuais da cobertura
+    for x in todos_:
+        f = d['fichas'].get(x.get('varrimento') or '')
+        if f and f.get('origem') == 'radar' and not f.get('revista_por') and f.get('fundo'):
+            f['enquadramento'] = texto_radar(len(f['fundo']), x.get('cobertura') or {})
     trabalho = alvos(d)
     if not trabalho:
         p.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding='utf-8'); print('Nada a fazer.'); sys.exit(0)
