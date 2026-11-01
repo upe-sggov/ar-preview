@@ -12630,8 +12630,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-01T22:01+00:00",
-  "atualizadoLabel": "1 de novembro, 22h01",
+  "atualizado": "2026-11-01T22:08+00:00",
+  "atualizadoLabel": "1 de novembro, 22h08",
   "estado": "com triagem automática",
   "aviso": "10 matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -13835,27 +13835,6 @@
    "novas": 0,
    "enquadramento": "Seleção automática de 8 das 9 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (0 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
-  "2026-11-02-comiss-o-de-cultura-comunica-o-juventud": {
-   "titulo": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-   "meta": "Comissões Parlamentares · Reunião n.º 56 · Plenário · segunda, 2 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [],
-   "amostra": {
-    "analisadas": 0,
-    "encontradas": 0
-   },
-   "base": {
-    "ultima": "",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
-  },
   "2026-11-03-comiss-o-de-ambiente-e-energia": {
    "titulo": "Comissão de Ambiente e Energia",
    "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · terça, 3 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
@@ -14058,229 +14037,6 @@
    "novas": 0,
    "enquadramento": "Seleção automática de 20 das 38 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (4 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
-  "2026-11-03-comiss-o-de-assuntos-constitucionais-di": {
-   "titulo": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-   "meta": "Comissões Parlamentares · Reunião n.º 109 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "completa",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-04",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/modelo-de-ia-amalia-vai-ter-capacidades-adicionais-para-ajudar-no-atendimento-publico/",
-     "sintese": "Modelo de IA Amália vai ter capacidades adicionais para ajudar no atendimento público",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-04",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/empresas/detalhe/air-france-klm-reitera-interessa-na-tap-e-aguarda-com-expectativa-ronda-de-negociacoes",
-     "sintese": "Air France-KLM reitera interesse na TAP e aguarda com \"expectativa\" ronda de negociações",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-04",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2130/",
-     "sintese": "18h. Governo aumenta desconto no ISP em 3 cêntimos",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-14",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/09/14/politica/noticia/leitao-amaro-trabalhadores-lusa-nao-querem-voltar-atras-governacao-2187959",
-     "sintese": "Leitão Amaro diz que trabalhadores da Lusa “não querem” voltar atrás na governação",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-14",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/pais/leitao-amaro-defende-esforco-de-transformacao-na-lusa-e-na-rtp_n1765324",
-     "sintese": "Leitão Amaro defende \"esforço de transformação\" na Lusa e na RTP",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/24/oe-ministro-da-presidencia-avisa-que-margem-negocial-e-muito-limitada-e-critica-pessimistas-alertantes/",
-     "sintese": "OE: Leitão Amaro avisa que margem negocial é muito limitada",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-25",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/25/saida-de-pedro-portugal-gaspar-da-aima-foi-decidida-por-leitao-amaro-ha-dois-meses/",
-     "sintese": "Saída de presidente da AIMA foi decidida por Leitão Amaro",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-30",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/30/leitao-amaro-admite-disponibilidade-do-governo-para-melhorar-estatutos-da-lusa/",
-     "sintese": "Leitão Amaro admite disponibilidade do Governo para “melhorar” estatutos da Lusa",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3064550/confiamos-que-o-orcamento-tem-de-ser-equilibrado-diz-leitao-amaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "\"Confiamos que o orçamento tem de ser equilibrado\", diz Leitão Amaro",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-16",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/descontos-dos-servicos-da-lusa-aos-media-previsto-a-partir-de-2027/",
-     "sintese": "Descontos dos serviços da Lusa aos media previsto a partir de 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-20",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/tap-governos-de-costa-acumularam-erros-graves-acusa-ministro-da-presidencia_v1772754",
-     "sintese": "TAP: \"Governos de Costa acumularam erros graves\", acusa ministro da Presidência",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3070413/plano-de-atividades-e-orcamento-da-lusa-foi-aprovado-diz-leitao-amaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Plano de Atividades e Orçamento da Lusa foi aprovado, diz Leitão Amaro",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/21/politica/noticia/leitao-amaro-discorda-erc-rejeita-estatutos-lusa-desconformes-2192091",
-     "sintese": "Leitão Amaro discorda da ERC e rejeita que estatutos da Lusa estejam desconformes",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/habitacao-governo-aprova-diploma-que-regula-novas-regras-para-desbloquear-herancas-indivisas_n1773562",
-     "sintese": "Habitação: Governo aprova diploma que regula novas regras para desbloquear heranças indivisas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/leitao-amaro-diz-que-as-regras-quando-sao-incumpridas-tem-de-ter-consequencias/",
-     "sintese": "Leitão Amaro diz que “as regras quando são incumpridas têm de ter consequências”",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/national/article/2026-10-28/48026313/oe2027-leit%C3%A3o-amaro-critica-contas-%C3%A0-chega-e-pergunta-se-ficar%C3%A1-ao-lado-da-esquerda-na-lei-das-rendas",
-     "sintese": "OE2027: Leitão Amaro critica “contas à Chega” e pergunta se ficará ao lado da esquerda na lei das rendas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/29/governo-aprova-descida-de-irs-ate-ao-sexto-escalao/",
-     "sintese": "Governo aprova descida de IRS até ao sexto escalão",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/governo-aprova-descida-das-taxas-de-irs-de-2026-apos-autorizacao-parlamentar",
-     "sintese": "Governo aprova descida das taxas de IRS de 2026 após autorização parlamentar",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/leito-amaro-pede-responsabilidade-oposio-no-oramento-e-diz-que-ordens-polcia-cabem-aos-comandos-da-psp",
-     "sintese": "Leitão Amaro garante que decisões operacionais à PSP e apela à responsabilidade no Orçamento",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/irs/descida-do-irs/governo-aprova-descida-das-taxas-de-irs-de-2026-apos-autorizacao-parlamentar/20261029/6ae385a7d34e53c759c78968",
-     "sintese": "Governo aprova descida das taxas de IRS de 2026 após autorização parlamentar",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 20,
-    "encontradas": 38
-   },
-   "base": {
-    "ultima": "2026-10-29 22:15",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 20 das 38 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (6 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-11-03-comiss-o-de-cultura-comunica-o-juventud": {
-   "titulo": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-   "meta": "Comissões Parlamentares · Reunião n.º 57 · Plenário · terça, 3 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [],
-   "amostra": {
-    "analisadas": 0,
-    "encontradas": 0
-   },
-   "base": {
-    "ultima": "",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
-  },
   "2026-11-04-comiss-o-de-assuntos-constitucionais-di": {
    "titulo": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
    "meta": "Comissões Parlamentares · Reunião n.º 110 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
@@ -14414,100 +14170,6 @@
    },
    "novas": 0,
    "enquadramento": "Seleção automática de 2 das 2 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-11-05-comiss-o-de-trabalho-seguran-a-social-e": {
-   "titulo": "Comissão de Trabalho, Segurança Social e Inclusão",
-   "meta": "Comissões Parlamentares · Reunião n.º 76 · quinta, 5 nov, 09h00 · UO de referência: DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-29",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/orcamento-do-estado/ces/conselho-economico-e-social-alerta-para-subexecucao-do-investimento-que-contribui-para-contas-certas/20260929/6abb97efd34e9a786e75a0f5",
-     "sintese": "Conselho Económico e Social alerta para subexecução do investimento que contribui para \"contas certas\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/ces-alerta-para-subexecucao-do-investimento-que-contribui-para-contas-certas/",
-     "sintese": "CES alerta para subexecução do investimento que contribui para “contas certas”",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/29/conselho-economico-e-social-alerta-para-subexecucao-do-investimento-que-contribui-para-contas-certas/",
-     "sintese": "CES alerta para subexecução do investimento",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-30",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/30/conselho-economico-e-social-dos-acores-preocupado-com-evolucao-das-financas-da-regiao/",
-     "sintese": "Conselho Económico e Social dos Açores preocupado com evolução das finanças da região",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-01",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/01/conselho-economico-e-social-dos-acores-preocupado-com-evolucao-das-financas-da-regiao/",
-     "sintese": "CESA alerta para défice açoriano de 5% do PIB",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-01",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/conselho-economico-e-social-dos-acores-preocupado-com-evolucao-das-financas-da-regiao-380742",
-     "sintese": "Conselho Económico e Social dos Açores preocupado com evolução das finanças da região",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-20",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/cesa-defende-maior-rigor-no-orcamento-regional-e-a-manchete-do-acoriano-oriental-381274",
-     "sintese": "\"CESA defende maior rigor no orçamento regional\" é a manchete do Açoriano Oriental",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/metro-de-lisboa-com-servicos-minimos-na-greve-de-28-e-30-de-outubro-mas-algumas-estacoes-vao-estar-encerradas/",
-     "sintese": "Metro de Lisboa com serviços mínimos na greve de 28 e 30 de outubro, mas algumas estações vão estar encerradas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 8,
-    "encontradas": 9
-   },
-   "base": {
-    "ultima": "2026-10-26 18:11",
-    "em": "2026-10-30"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 8 das 9 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
   "2026-11-05-comiss-o-de-defesa-nacional": {
    "titulo": "Comissão de Defesa Nacional",
@@ -14895,741 +14557,6 @@
    "novas": 0,
    "enquadramento": "Seleção automática de 18 das 18 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (5 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
-  "2026-11-03-comiss-o-de-or-amento-finan-as-e-admini": {
-   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 134 · Plenário · terça, 3 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-04",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2130/",
-     "sintese": "18h. Governo aumenta desconto no ISP em 3 cêntimos",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-14",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/pais/leitao-amaro-defende-esforco-de-transformacao-na-lusa-e-na-rtp_n1765324",
-     "sintese": "Leitão Amaro defende \"esforço de transformação\" na Lusa e na RTP",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/24/oe-ministro-da-presidencia-avisa-que-margem-negocial-e-muito-limitada-e-critica-pessimistas-alertantes/",
-     "sintese": "OE: Leitão Amaro avisa que margem negocial é muito limitada",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/21/politica/noticia/leitao-amaro-discorda-erc-rejeita-estatutos-lusa-desconformes-2192091",
-     "sintese": "Leitão Amaro discorda da ERC e rejeita que estatutos da Lusa estejam desconformes",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/leitao-amaro-diz-que-as-regras-quando-sao-incumpridas-tem-de-ter-consequencias/",
-     "sintese": "Leitão Amaro diz que “as regras quando são incumpridas têm de ter consequências”",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/national/article/2026-10-28/48026313/oe2027-leit%C3%A3o-amaro-critica-contas-%C3%A0-chega-e-pergunta-se-ficar%C3%A1-ao-lado-da-esquerda-na-lei-das-rendas",
-     "sintese": "OE2027: Leitão Amaro critica “contas à Chega” e pergunta se ficará ao lado da esquerda na lei das rendas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/leito-amaro-pede-responsabilidade-oposio-no-oramento-e-diz-que-ordens-polcia-cabem-aos-comandos-da-psp",
-     "sintese": "Leitão Amaro garante que decisões operacionais à PSP e apela à responsabilidade no Orçamento",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/irs/descida-do-irs/governo-aprova-descida-das-taxas-de-irs-de-2026-apos-autorizacao-parlamentar/20261029/6ae385a7d34e53c759c78968",
-     "sintese": "Governo aprova descida das taxas de IRS de 2026 após autorização parlamentar",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 8,
-    "encontradas": 38
-   },
-   "base": {
-    "ultima": "2026-10-29 22:15",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 8 das 38 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (6 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-11-03-comiss-o-de-neg-cios-estrangeiros-e-com": {
-   "titulo": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-   "meta": "Comissões Parlamentares · Reunião n.º 50 · terça, 3 nov, 16h00 · UO de referência: DCIRI",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-02",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/portugal-esta-a-identificar-equipamento-energetico-nao-utilizado-para-doar-a-kiev-indicou-rangel_n1763015",
-     "sintese": "Portugal está a identificar equipamento energético não utilizado para doar a Kiev indicou Rangel",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/cultura/governo-nunca-defendera-reparacoes-historicas-as-antigas-colonias-portuguesas-diz-mne_n1775409",
-     "sintese": "Governo nunca defenderá reparações históricas às antigas colónias portuguesas diz MNE",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/30/emigrantes-vao-votar-eletronicamente-pela-primeira-vez-nas-eleicoes-do-conselho-das-comunidades-portuguesas-em-2027/",
-     "sintese": "Comunidades. Voto eletrónico testado nas elieções do CCP",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 3,
-    "encontradas": 3
-   },
-   "base": {
-    "ultima": "2026-10-30 18:26",
-    "em": "2026-10-30"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 3 das 3 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (2 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-11-02-comiss-o-de-or-amento-finan-as-e-admini": {
-   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 132 · Plenário · segunda, 2 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-22",
-     "fonte": "Açoriano Oriental",
-     "url": "http://www.acorianooriental.pt/noticia/governo-dos-acores-diz-que-melhoria-de-rating-para-bbb-revela-solidez-das-financas-publicas-380515",
-     "sintese": "Governo dos Açores diz que melhoria de ‘rating’ para BBB+ revela solidez das finanças públicas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/29/igcp-reduz-em-75-processos-de-habilitacao-de-herdeiros-num-ano/",
-     "sintese": "IGCP reduz em 75% processos de habilitação de herdeiros num ano",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/milhares-de-trabalhadores-da-administracao-publica-manifestam-se-no-ministerio-das-financas/",
-     "sintese": "Milhares de trabalhadores da administração pública manifestam-se no Ministério das Finanças",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-03",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-contra-a-reforma-que-acaba-com-o-visto-previo/",
-     "sintese": "Presidente do Tribunal de Contas admite recorrer ao Constitucional contra a reforma que acaba com o visto prévio",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-04",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/esta-reforma-traz-alguns-riscos-para-as-financas-publicas-diz-filipa-calvao",
-     "sintese": "“Esta reforma traz alguns riscos para as finanças públicas”, diz Filipa Calvão",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/agendada-nova-reuniao-entre-governo-e-sindicatos-da-funcao-publica_n1769941",
-     "sintese": "Agendada nova reunião entre Governo e sindicatos da função pública",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/21/conselho-das-financas-publicas-ouvido-no-parlamento-antes-da-mudanca-de-estatutos/",
-     "sintese": "Conselho das Finanças Públicas ouvido no Parlamento antes da mudança de estatutos",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/servico-de-estatistica-dos-acores-vai-transformar-se-em-instituto-publico-381602",
-     "sintese": "Serviço de estatística dos Açores vai transformar-se em instituto público",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 8,
-    "encontradas": 17
-   },
-   "base": {
-    "ultima": "2026-10-29 16:14",
-    "em": "2026-10-30"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 8 das 17 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-11-04-comiss-o-de-or-amento-finan-as-e-admini": {
-   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 138 · Plenário · quarta, 4 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-22",
-     "fonte": "Açoriano Oriental",
-     "url": "http://www.acorianooriental.pt/noticia/governo-dos-acores-diz-que-melhoria-de-rating-para-bbb-revela-solidez-das-financas-publicas-380515",
-     "sintese": "Governo dos Açores diz que melhoria de ‘rating’ para BBB+ revela solidez das finanças públicas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/milhares-de-trabalhadores-da-administracao-publica-manifestam-se-no-ministerio-das-financas/",
-     "sintese": "Milhares de trabalhadores da administração pública manifestam-se no Ministério das Finanças",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-03",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-contra-a-reforma-que-acaba-com-o-visto-previo/",
-     "sintese": "Presidente do Tribunal de Contas admite recorrer ao Constitucional contra a reforma que acaba com o visto prévio",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-04",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/esta-reforma-traz-alguns-riscos-para-as-financas-publicas-diz-filipa-calvao",
-     "sintese": "“Esta reforma traz alguns riscos para as finanças públicas”, diz Filipa Calvão",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/agendada-nova-reuniao-entre-governo-e-sindicatos-da-funcao-publica_n1769941",
-     "sintese": "Agendada nova reunião entre Governo e sindicatos da função pública",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/21/conselho-das-financas-publicas-ouvido-no-parlamento-antes-da-mudanca-de-estatutos/",
-     "sintese": "Conselho das Finanças Públicas ouvido no Parlamento antes da mudança de estatutos",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/servico-de-estatistica-dos-acores-vai-transformar-se-em-instituto-publico-381602",
-     "sintese": "Serviço de estatística dos Açores vai transformar-se em instituto público",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/governo-dos-acores-da-prioridade-a-saude-habitacao-e-turismo-em-2027-381629",
-     "sintese": "Governo dos Açores dá prioridade a saúde, habitação e turismo em 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 8,
-    "encontradas": 17
-   },
-   "base": {
-    "ultima": "2026-10-30 16:17",
-    "em": "2026-10-30"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 8 das 17 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (2 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-11-05-comiss-o-de-or-amento-finan-as-e-admini": {
-   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 140 · Plenário · quinta, 5 nov, 11h00 · UO de referência: DAPL · Transversal · UPE",
-   "nivel": "completa",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-22",
-     "fonte": "Açoriano Oriental",
-     "url": "http://www.acorianooriental.pt/noticia/governo-dos-acores-diz-que-melhoria-de-rating-para-bbb-revela-solidez-das-financas-publicas-380515",
-     "sintese": "Governo dos Açores diz que melhoria de ‘rating’ para BBB+ revela solidez das finanças públicas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/conselho-das-financas-publicas-reve-crescimento-de-portugal-em-alta-para-22-em-2026-mas-preve-defice-de-17-em-2030/",
-     "sintese": "Conselho das Finanças Públicas revê crescimento de Portugal em alta para 2,2% em 2026, mas prevê défice de 1,7% em 2030",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/administracao-publica/2026-09-24-melhoria-da-economia-nao-e-estrutural-alerta-conselho-das-financas-publicas-1e4c2f1a",
-     "sintese": "Melhoria da economia não é estrutural, alerta conselho das finanças públicas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/economia/crescimento/conselho-das-financas-publicas-reve-crescimento-e-diz-que-a-inflacao-deve-acelerar-em-2026/20260924/6ab536ffd34e9a786e75965f",
-     "sintese": "Conselho das Finanças Públicas revê crescimento e diz que a inflação deve acelerar em 2026",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/24/conselho-das-financas-publicas-alerta-para-situacao-preocupante-e-pede-aos-atores-politicos-responsabilidade-e-cautela/",
-     "sintese": "CFP alerta para situação preocupante e pede responsabilidade",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/milhares-de-trabalhadores-da-administracao-publica-manifestam-se-no-ministerio-das-financas/",
-     "sintese": "Milhares de trabalhadores da administração pública manifestam-se no Ministério das Finanças",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-03",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-contra-a-reforma-que-acaba-com-o-visto-previo/",
-     "sintese": "Presidente do Tribunal de Contas admite recorrer ao Constitucional contra a reforma que acaba com o visto prévio",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-04",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/esta-reforma-traz-alguns-riscos-para-as-financas-publicas-diz-filipa-calvao",
-     "sintese": "“Esta reforma traz alguns riscos para as finanças públicas”, diz Filipa Calvão",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/agendada-nova-reuniao-entre-governo-e-sindicatos-da-funcao-publica_n1769941",
-     "sintese": "Agendada nova reunião entre Governo e sindicatos da função pública",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/07/conselho-das-financas-publicas-alerta-para-falta-de-informacao-sobre-desvios-na-execucao-orcamental/",
-     "sintese": "CFP alerta para falta de informação sobre desvios",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-governo-tem-as-projecoes-mais-otimistas-para-o-crescimento-da-economia-e-a-inflacao-e-levanta-alertas-do-conselho-das-financas-publicas-43f4d916?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-governo-tem-as-projecoes-mais-otimistas-para-o-crescimento-da-economia-e-a-inflacao-e-levanta-alertas-do-conselho-das-financas-publicas-43f4d916",
-     "sintese": "Governo tem as projeções mais otimistas para o crescimento da economia e a inflação, e levanta alertas do Conselho das Finanças Públicas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-19",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/governo-antecipa-revisao-das-ajudas-de-custo-para-janeiro-de-2027/",
-     "sintese": "Governo antecipa revisão das ajudas de custo para janeiro de 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/conselho-das-financas-publicas-continua-a-prever-incumprimento-das-regras-orcamentais-de-medio-prazo/",
-     "sintese": "Conselho das Finanças Públicas continua a prever incumprimento das regras orçamentais de médio prazo",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/cfp-defice-do-estado-central-sera-o-mais-alto-desde-2017-e-seguranca-social-volta-a-nao-compensar",
-     "sintese": "CFP: Défice do Estado Central será o mais alto desde 2017 e Segurança Social volta a não compensar",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-26-conselho-das-financas-publicas-considera-excedente-plausivel-mas-apela-a-gestao-mais-eficiente-100b2efc",
-     "sintese": "Conselho das Finanças Públicas considera excedente plausível mas apela a gestão mais eficiente",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/programas/economia-expresso/2026-10-26-video-conselho-das-financas-publicas-alerta-para-risco-de-cortes-no-irs-b46112f6",
-     "sintese": "Conselho das Finanças Públicas alerta para risco de cortes no IRS",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/oe2027-conselho-de-financas-publicas-considera-excedente-plausivel-mas-alerta-para-riscos_n1774504",
-     "sintese": "OE2027. Conselho de Finanças Públicas considera excedente plausível mas alerta para riscos",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/29/economistas-antecipam-abrandamento-do-crescimento-do-pib-ate-setembro-apos-segundo-trimestre-forte/",
-     "sintese": "Economistas antecipam abrandamento do crescimento do PIB até setembro, após segundo trimestre forte",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/servico-de-estatistica-dos-acores-vai-transformar-se-em-instituto-publico-381602",
-     "sintese": "Serviço de estatística dos Açores vai transformar-se em instituto público",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/governo-dos-acores-da-prioridade-a-saude-habitacao-e-turismo-em-2027-381629",
-     "sintese": "Governo dos Açores dá prioridade a saúde, habitação e turismo em 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 20,
-    "encontradas": 58
-   },
-   "base": {
-    "ultima": "2026-10-30 16:17",
-    "em": "2026-10-31"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 20 das 58 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (9 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-11-05-comiss-o-de-economia-e-coes-o-territori": {
-   "titulo": "Comissão de Economia e Coesão Territorial",
-   "meta": "Comissões Parlamentares · Reunião n.º 21 · quinta, 5 nov, 09h00 · UO de referência: DAPL · Transversal · UPE",
-   "nivel": "completa",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-08-31",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/ps-pede-audicao-com-urgencia-do-ministro-da-economia-sobre-execucao-do-prr_n1762605",
-     "sintese": "PS pede audição com urgência do ministro da Economia sobre execução do PRR",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-02",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/cimeira-do-turismo-portugues-debate-impacto-da-geopolitica-e-futuro-dos-aeroportos/",
-     "sintese": "Cimeira do Turismo Português debate impacto da geopolítica e futuro dos aeroportos",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-07",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/governo-prepara-bonificacao-do-gasoleo-agricola-restantes-setores-ficam-em-suspenso_n1763845",
-     "sintese": "Governo prepara bonificação do gasóleo agrícola. Restantes setores ficam em suspenso",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-09",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/09/apoios-nunca-sao-suficientes-para-mitigar-aumento-do-custo-de-vida/",
-     "sintese": "Apoios “nunca” são suficientes para mitigar aumento do custo de vida",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/portugueses-estao-a-passar-dificuldades-por-causa-do-custo-dos-combustiveis/",
-     "sintese": "Portugueses estão a passar dificuldades por causa do custo dos combustíveis",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/app/tag/geral/ministro-da-economia-e-coesao-territorial/",
-     "sintese": "Ministro da Economia e Coesão Territorial",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-18",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/noticias/negocios/artigos/governo-quer-formar-100-mil-trabalhadores-em-ia-projeto-piloto-avanca-em-leiria/",
-     "sintese": "Governo quer formar 100 mil trabalhadores em IA. Projeto-piloto avança em Leiria",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-21",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/21/pedro-portugal-gaspar-sai-da-aima-e-vai-ser-ouvido-para-assumir-cargo-na-autoridade-da-concorrencia/",
-     "sintese": "Presidente da AIMA candidato a vogal da AdC",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-23",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/23/contabilidade-nao-sera-menos-humana-por-ser-mais-digital-sera-mais-estrategica-diz-helder-reis/",
-     "sintese": "“Contabilidade não será menos humana por ser mais digital. Será mais estratégica”, diz Hélder Reis",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/orcamento-do-estado/ces/conselho-economico-e-social-alerta-para-subexecucao-do-investimento-que-contribui-para-contas-certas/20260929/6abb97efd34e9a786e75a0f5",
-     "sintese": "Conselho Económico e Social alerta para subexecução do investimento que contribui para \"contas certas\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/29/conselho-economico-e-social-alerta-para-subexecucao-do-investimento-que-contribui-para-contas-certas/",
-     "sintese": "CES alerta para subexecução do investimento",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/prr-portugal-submete-ultimo-pedido-de-pagamento-no-valor-de-4672-milhoes-de-euros_n1768490",
-     "sintese": "PRR. Portugal submete último pedido de pagamento no valor de 4.672 milhões de euros",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-01",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/01/conselho-economico-e-social-dos-acores-preocupado-com-evolucao-das-financas-da-regiao/",
-     "sintese": "CESA alerta para défice açoriano de 5% do PIB",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-01",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/conselho-economico-e-social-dos-acores-preocupado-com-evolucao-das-financas-da-regiao-380742",
-     "sintese": "Conselho Económico e Social dos Açores preocupado com evolução das finanças da região",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-17",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/linha-do-norte-vai-receber-investimento-de-66-milhoes-de-euros-para-reforcar-seguranca-e-eficiencia/",
-     "sintese": "Linha do Norte vai receber investimento de 66 milhões de euros para reforçar segurança e eficiência",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/metro-de-lisboa-com-servicos-minimos-na-greve-de-28-e-30-de-outubro-mas-algumas-estacoes-vao-estar-encerradas/",
-     "sintese": "Metro de Lisboa com serviços mínimos na greve de 28 e 30 de outubro, mas algumas estações vão estar encerradas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/2026/10/27/510661-missao-portuguesa-visita-venezuela-para-reforcar-lacos-economicos-e-comerciais/",
-     "sintese": "Missão portuguesa visita Venezuela para reforçar laços económicos e comerciais",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/missao-portuguesa-visita-venezuela-para-reforcar-lacos-economicos-e-comerciais/",
-     "sintese": "Missão portuguesa visita Venezuela para reforçar laços económicos e comerciais",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/governo-diz-que-prr-e-conquista-mas-ainda-falta-trabalho-cirurgico_n1775446",
-     "sintese": "Governo diz que PRR é \"conquista\" mas ainda falta \"trabalho cirúrgico\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/29/esta-a-ser-mais-dificil-cumprir-metas-de-execucao-que-impedem-devolucao-de-verbas-a-bruxelas/",
-     "sintese": "Está a ser “mais difícil” cumprir metas de execução que impedem devolução de verbas a Bruxelas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 20,
-    "encontradas": 43
-   },
-   "base": {
-    "ultima": "2026-10-30 03:51",
-    "em": "2026-10-30"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 20 das 43 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (5 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
   "2026-11-06-comiss-o-de-or-amento-finan-as-e-admini": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
    "meta": "Comissões Parlamentares · Reunião n.º 144 · Plenário · sexta, 6 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
@@ -15831,6 +14758,302 @@
    },
    "novas": 0,
    "enquadramento": "Seleção automática de 20 das 94 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (3 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-11-03-48569-comiss-o-de-assuntos-constitucionais-direit": {
+   "titulo": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+   "meta": "Comissões Parlamentares · Reunião n.º 109 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
+   "nivel": "completa",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-04",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/modelo-de-ia-amalia-vai-ter-capacidades-adicionais-para-ajudar-no-atendimento-publico/",
+     "sintese": "Modelo de IA Amália vai ter capacidades adicionais para ajudar no atendimento público",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-04",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/empresas/detalhe/air-france-klm-reitera-interessa-na-tap-e-aguarda-com-expectativa-ronda-de-negociacoes",
+     "sintese": "Air France-KLM reitera interesse na TAP e aguarda com \"expectativa\" ronda de negociações",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-04",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2130/",
+     "sintese": "18h. Governo aumenta desconto no ISP em 3 cêntimos",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-14",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/09/14/politica/noticia/leitao-amaro-trabalhadores-lusa-nao-querem-voltar-atras-governacao-2187959",
+     "sintese": "Leitão Amaro diz que trabalhadores da Lusa “não querem” voltar atrás na governação",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-14",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/leitao-amaro-defende-esforco-de-transformacao-na-lusa-e-na-rtp_n1765324",
+     "sintese": "Leitão Amaro defende \"esforço de transformação\" na Lusa e na RTP",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-24",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/24/oe-ministro-da-presidencia-avisa-que-margem-negocial-e-muito-limitada-e-critica-pessimistas-alertantes/",
+     "sintese": "OE: Leitão Amaro avisa que margem negocial é muito limitada",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-25",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/25/saida-de-pedro-portugal-gaspar-da-aima-foi-decidida-por-leitao-amaro-ha-dois-meses/",
+     "sintese": "Saída de presidente da AIMA foi decidida por Leitão Amaro",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/09/30/leitao-amaro-admite-disponibilidade-do-governo-para-melhorar-estatutos-da-lusa/",
+     "sintese": "Leitão Amaro admite disponibilidade do Governo para “melhorar” estatutos da Lusa",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3064550/confiamos-que-o-orcamento-tem-de-ser-equilibrado-diz-leitao-amaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "\"Confiamos que o orçamento tem de ser equilibrado\", diz Leitão Amaro",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-16",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/descontos-dos-servicos-da-lusa-aos-media-previsto-a-partir-de-2027/",
+     "sintese": "Descontos dos serviços da Lusa aos media previsto a partir de 2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-20",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/tap-governos-de-costa-acumularam-erros-graves-acusa-ministro-da-presidencia_v1772754",
+     "sintese": "TAP: \"Governos de Costa acumularam erros graves\", acusa ministro da Presidência",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-21",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3070413/plano-de-atividades-e-orcamento-da-lusa-foi-aprovado-diz-leitao-amaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Plano de Atividades e Orçamento da Lusa foi aprovado, diz Leitão Amaro",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-21",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/21/politica/noticia/leitao-amaro-discorda-erc-rejeita-estatutos-lusa-desconformes-2192091",
+     "sintese": "Leitão Amaro discorda da ERC e rejeita que estatutos da Lusa estejam desconformes",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-22",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/habitacao-governo-aprova-diploma-que-regula-novas-regras-para-desbloquear-herancas-indivisas_n1773562",
+     "sintese": "Habitação: Governo aprova diploma que regula novas regras para desbloquear heranças indivisas",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-26",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/26/leitao-amaro-diz-que-as-regras-quando-sao-incumpridas-tem-de-ter-consequencias/",
+     "sintese": "Leitão Amaro diz que “as regras quando são incumpridas têm de ter consequências”",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/national/article/2026-10-28/48026313/oe2027-leit%C3%A3o-amaro-critica-contas-%C3%A0-chega-e-pergunta-se-ficar%C3%A1-ao-lado-da-esquerda-na-lei-das-rendas",
+     "sintese": "OE2027: Leitão Amaro critica “contas à Chega” e pergunta se ficará ao lado da esquerda na lei das rendas",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/29/governo-aprova-descida-de-irs-ate-ao-sexto-escalao/",
+     "sintese": "Governo aprova descida de IRS até ao sexto escalão",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/governo-aprova-descida-das-taxas-de-irs-de-2026-apos-autorizacao-parlamentar",
+     "sintese": "Governo aprova descida das taxas de IRS de 2026 após autorização parlamentar",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/pol%C3%ADtica/leito-amaro-pede-responsabilidade-oposio-no-oramento-e-diz-que-ordens-polcia-cabem-aos-comandos-da-psp",
+     "sintese": "Leitão Amaro garante que decisões operacionais à PSP e apela à responsabilidade no Orçamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/irs/descida-do-irs/governo-aprova-descida-das-taxas-de-irs-de-2026-apos-autorizacao-parlamentar/20261029/6ae385a7d34e53c759c78968",
+     "sintese": "Governo aprova descida das taxas de IRS de 2026 após autorização parlamentar",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 38
+   },
+   "base": {
+    "ultima": "2026-10-29 22:15",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 20 das 38 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (6 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-11-05-48628-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 142 · Plenário · quinta, 5 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-02",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/09/02/apoio-de-30-milhoes-para-energia-e-fertilizantes-integralmente-pago-a-agricultores-e-pescadores/",
+     "sintese": "Apoio de 30 milhões para energia e fertilizantes “integralmente pago” a agricultores e pescadores",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-11",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/governo-reduz-prazos-de-indemnizacao-aos-produtores-de-gado-atacado-pelo-lobo-iberico/",
+     "sintese": "Governo reduz prazos de indemnização aos produtores de gado atacado pelo lobo-ibérico",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-23",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/23/governo-lanca-pacote-de-40-milhoes-para-agricultores-pressionados-pelos-precos-dos-fertilizantes-e-energia/",
+     "sintese": "40 milhões para agricultores sob pressão",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-26",
+     "fonte": "Açoriano Oriental",
+     "url": "http://www.acorianooriental.pt/noticia/chega-quer-ouvir-ministro-sobre-23-milhoes-por-pagar-380616",
+     "sintese": "Chega quer ouvir ministro sobre 23 milhões por pagar",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/30/governo-vai-pagar-1-060-milhoes-aos-agricultores-ate-ao-fim-do-mes-mais-420-milhoes-do-que-a-media-recente/",
+     "sintese": "Agricultura: Governo paga 1.060 milhões até ao fim do mês",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/programa/um-dia-no-municipio?ep=18134716",
+     "sintese": "Um Dia no Município - Vila Verde - Terra natal do Ministro da Agricultura e Pescas José Manuel Fernandes",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/mau-tempo-ministro-garante-que-foram-ja-apoiados-6000-pequenos-agricultores_n1771433",
+     "sintese": "Mau tempo. Ministro garante que foram já apoiados 6.000 pequenos agricultores",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-15",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/15/ministro-da-agricultura-quer-mais-fundos-dos-programas-regionais-a-apoiar-setor/",
+     "sintese": "Agricultura. Ministro quer mais fundos europeus de apoio",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 8,
+    "encontradas": 9
+   },
+   "base": {
+    "ultima": "2026-10-15 16:31",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 8 das 9 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (0 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   }
  },
  "destaques": [
@@ -16127,7 +15350,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-03-comiss-o-de-assuntos-constitucionais-di",
    "conjunta": [
     "Comissão de Cultura, Comunicação, Juventude e Desporto",
     "Comissão de Orçamento, Finanças e Administração Pública"
@@ -16136,7 +15358,8 @@
     48569,
     48587,
     48610
-   ]
+   ],
+   "varrimento": "2026-11-03-48569-comiss-o-de-assuntos-constitucionais-direit"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -17307,8 +16530,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-02-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -17353,8 +16575,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-02-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
@@ -17829,8 +17050,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-03-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -17875,8 +17095,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-03-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
@@ -17918,8 +17137,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-03-comiss-o-de-assuntos-constitucionais-di"
+   }
   },
   {
    "tema": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
@@ -17963,8 +17181,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-03-comiss-o-de-neg-cios-estrangeiros-e-com"
+   }
   },
   {
    "tema": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
@@ -18008,8 +17225,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-03-comiss-o-de-neg-cios-estrangeiros-e-com"
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -18098,8 +17314,7 @@
       "https://www.noticiasaominuto.com/pais/3070584/oe2027-anmp-da-parcer-globalmente-positivo-mas-exige-compromissos-de-financiamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
-   },
-   "varrimento": "2026-11-04-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -18188,8 +17403,7 @@
       "http://www.acorianooriental.pt/noticia/anafre-quer-9-me-para-as-freguesias-da-regiao-380252"
      ]
     ]
-   },
-   "varrimento": "2026-11-04-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -18234,8 +17448,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-04-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -18307,7 +17520,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-04-comiss-o-de-or-amento-finan-as-e-admini",
    "alterado": "2026-10-30"
   },
   {
@@ -19023,7 +18235,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-05-comiss-o-de-trabalho-seguran-a-social-e",
    "conjunta": [
     "Comissão de Economia e Coesão Territorial",
     "Comissão de Orçamento, Finanças e Administração Pública"
@@ -19179,8 +18390,7 @@
       "https://eco.sapo.pt/2026/09/24/nazare-da-costa-cabral-pede-responsabilidade-politica-no-orcamento-do-estado-para-2027/"
      ]
     ]
-   },
-   "varrimento": "2026-11-05-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -19225,8 +18435,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-05-comiss-o-de-or-amento-finan-as-e-admini"
+   }
   },
   {
    "tema": "Comissão de Defesa Nacional",
@@ -19588,7 +18797,7 @@
      ]
     ]
    },
-   "varrimento": "2026-11-05-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-11-05-48628-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão de Trabalho, Segurança Social e Inclusão",
