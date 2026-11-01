@@ -12630,10 +12630,10 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-01T22:42+00:00",
-  "atualizadoLabel": "1 de novembro, 22h42",
+  "atualizado": "2026-11-01T22:47+00:00",
+  "atualizadoLabel": "1 de novembro, 22h47",
   "estado": "com triagem automática",
-  "aviso": "10 matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números.",
+  "aviso": "A prioridade e a unidade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
   "desdeLabel": "30 de outubro"
  },
  "fichas": {
