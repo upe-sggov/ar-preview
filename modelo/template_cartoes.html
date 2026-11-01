@@ -650,24 +650,32 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const ev = e.target.closest('[data-ir-cartao]'); if (!ev) return;
     abrirCartao(ev.dataset.irCartao);
   });
-  // «Mais à frente»: o que a AR já publicou para as semanas seguintes + calendarização mensal
-  if (futuros.length || (D.calendarizacao||[]).length) {
-    const fimSem = [...semanaIso].sort().pop();
+  // «Mais à frente»: o que a AR já publicou para DEPOIS da semana em vista (a da edição, ou a escolhida no calendário, se for posterior)
+  // + dias da calendarização mensal. Redesenhado em cada render, para acompanhar a seleção.
+  function desenharFrente() {
+    if (!(futuros.length || (D.calendarizacao||[]).length)) return;
+    const fimEd = [...semanaIso].sort().pop();
+    const fimSel = st.semana ? diasDe(st.semana)[6] : (st.dias.size ? diasDe(segDe([...st.dias].sort().pop()))[6] : '');
+    const fimSem = fimSel > fimEd ? fimSel : fimEd;
+    const fut = futuros.filter(x => x.data > fimSem);
     const semIni = d => { const x=new Date(d+'T00:00:00'); x.setDate(x.getDate()-((x.getDay()+6)%7)); return x; };
     const fmtS = x => { const f=new Date(x); f.setDate(f.getDate()+6); return `Semana de ${x.getDate()}${x.getMonth()!==f.getMonth()?' de '+MESES[x.getMonth()]:''} a ${f.getDate()} de ${MESES[f.getMonth()]}`; };
     // uma só lista: reuniões já publicadas + dias da calendarização da AR que ainda não têm reunião publicada
-    const datasPub = new Set(futuros.map(x=>x.data));
+    const datasPub = new Set(fut.map(x=>x.data));
     const soCal = (D.calendarizacao||[]).filter(c=>c.data > fimSem && !datasPub.has(c.data)).map(c=>({data:c.data, hora:(c.horas||'').split(' · ')[0], _cal:c}));
-    const linhas = futuros.concat(soCal);
+    const linhas = fut.concat(soCal);
     const grupos = {}; linhas.forEach(x=>{ const k=iso(semIni(x.data)); (grupos[k]=grupos[k]||[]).push(x); });
     const ordem = (a,b)=>(a.data+String(horaNum(a.hora)).padStart(4,'0')).localeCompare(b.data+String(horaNum(b.hora)).padStart(4,'0'));
     const linhaCal = c => `<div class="ev cal-ev"><span class="h">${esc(fmtD(c.data))}<br>${esc(c.horas||'')}</span><span class="d"></span><span class="t"><b>${esc(c.atividade)}</b><small>Calendarização da Assembleia da República · ordem de trabalhos ainda não publicada</small></span></div>`;
     const linhaPub = x => `<div class="ev"><span class="h">${esc(fmtD(x.data))}<br>${esc(x.hora||'')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${arLink(x,'vr ar')}${x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('')}<small>${esc(x.tipoLabel)}</small></span></div>`;
     const h = Object.keys(grupos).sort().map(k=>{ const g=grupos[k].sort(ordem), np=g.filter(x=>!x._cal).length, nc=g.length-np;
       return `<div class="sem">${fmtS(new Date(k+'T00:00:00'))} · ${[np?np+(np===1?' reunião publicada':' reuniões publicadas'):'', nc?nc+(nc===1?' dia previsto na calendarização':' dias previstos na calendarização'):''].filter(Boolean).join(' · ')}</div>` + g.map(x=>x._cal?linhaCal(x._cal):linhaPub(x)).join(''); }).join('');
-    $('#frente').innerHTML = h + (soCal.length ? `<div class="cal-leg" style="margin-top:10px"><span><span class="sq" style="background:var(--verde);opacity:.55"></span>dia previsto na calendarização da AR, sem ordem de trabalhos publicada</span></div>` : '');
+    const depois = fimSem > fimEd ? ` depois da semana de ${fmtD(diasDe(segDe(fimSem))[0])} a ${fmtD(fimSem)}` : '';
+    $('#frente').innerHTML = linhas.length
+      ? h + (soCal.length ? `<div class="cal-leg" style="margin-top:10px"><span><span class="sq" style="background:var(--verde);opacity:.55"></span>dia previsto na calendarização da AR, sem ordem de trabalhos publicada</span></div>` : '')
+      : `<div class="vazio-ad">A Assembleia da República ainda não publicou reuniões nem calendarização${esc(depois)}.</div>`;
     $('#frente').hidden = false; $('#t-frente').hidden = false;
-    $('#n-frente').textContent = `${futuros.length} reuniões já publicadas pela AR${soCal.length?` · ${soCal.length} dias só na calendarização`:''}`;
+    $('#n-frente').textContent = `${fut.length} ${fut.length===1?'reunião já publicada':'reuniões já publicadas'} pela AR${soCal.length?` · ${soCal.length} dias só na calendarização`:''}${depois}`;
   }
   // KPIs
   $('#kpis').addEventListener('click', e => { const b = e.target.closest('[data-kpi]'); if (!b) return; const k=b.dataset.kpi; if (k==='nov'){ st.novidades=!st.novidades; render(); return; } if (k==='varr'){ st.pert=new Set(['Imediato','Vigilância','Registo']); st.uo=null; st.dias.clear(); st.semana=null; $('.cal-wrap').scrollIntoView({behavior:'smooth'}); } else { st.pert = new Set([k]); } guardar(); render(); });
@@ -723,6 +731,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   const conjunto = () => st.dias.size ? pool.filter(x => st.dias.has(x.data)) : todos;
   function render(){
     const C = conjunto();
+    desenharFrente();
     // chips
     cUO.querySelectorAll('[data-uo]').forEach(b=>b.classList.toggle('on', (b.dataset.uo||null)===st.uo));
     cP.querySelectorAll('[data-pert]').forEach(b=>b.classList.toggle('on', st.pert.has(b.dataset.pert)));
