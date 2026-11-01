@@ -12630,8 +12630,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-01T22:37+00:00",
-  "atualizadoLabel": "1 de novembro, 22h37",
+  "atualizado": "2026-11-01T22:42+00:00",
+  "atualizadoLabel": "1 de novembro, 22h42",
   "estado": "com triagem automática",
   "aviso": "10 matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -14133,7 +14133,7 @@
   },
   "2026-11-04-comiss-o-de-educa-o-e-ci-ncia": {
    "titulo": "Comissão de Educação e Ciência",
-   "meta": "Comissões Parlamentares · Reunião n.º 59 · Plenário · quarta, 4 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -14142,34 +14142,88 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-10-23",
+     "data": "2026-09-11",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/ainda-ha-1250-horarios-completos-por-preencher-no-regresso-as-aulas-revela-ministro-da-educacao_n1764772",
+     "sintese": "Ainda há 1250 horários completos por preencher no regresso às aulas, revela ministro da Educação",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-13",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1756/",
+     "sintese": "21h. Bugalho espera desculpas do PS ao ministro da Educação",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-16",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/educacao/2026-09-16-fernando-alexandre-e-ex-ministro-da-educacao-serao-ouvidos-no-parlamento-devido-a-resultados-negativos-no-pisa-cff94ed4",
+     "sintese": "Fernando Alexandre e ex-ministro da educação serão ouvidos no parlamento devido a resultados negativos no PISA",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-18",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/politica/3053629/ministro-da-educacao-fernando-alexandre-o-passa-culpas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "\"Ministro da Educação, Fernando Alexandre, o passa-culpas\"",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-23",
+     "fonte": "Visão",
+     "url": "https://visao.pt/atualidade/politica/2026-09-23-quem-esvaziou-a-maquina-do-ministerio-da-educacao/?utm_source=rss&utm_medium=rss&utm_campaign=quem-esvaziou-a-maquina-do-ministerio-da-educacao",
+     "sintese": "Quem esvaziou a máquina do Ministério da Educação?",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-25",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/09/25/sociedade/noticia/exames-nacionais-ministro-educacao-fenprof-trocam-acusacoes-2189374",
+     "sintese": "Exames nacionais: ministro da Educação e Fenprof trocam acusações",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
      "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/23/ps-so-viabiliza-oe2027-se-houver-medidas-para-combater-o-custo-de-vida/",
-     "sintese": "PS exige medidas para combater o custo de vida no Orçamento do Estado para 2027",
+     "url": "https://eco.sapo.pt/2026/10/27/governo-quer-por-licenciados-a-dar-aulas-no-1-o-ciclo-sem-mestrado-nem-estagio/",
+     "sintese": "Governo quer pôr licenciados a dar aulas no 1.º ciclo sem mestrado nem estágio",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
     },
     {
      "data": "2026-10-30",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/empresas/detalhe/anacom-atribui-172-milhoes-para-cobertura-100-do-territorio-em-5g",
-     "sintese": "Anacom atribui 172 milhões para cobertura 100% do território em 5G",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/30/rankings-ministro-alerta-para-competicao-desigual-entre-escolas-publicas-e-privadas/",
+     "sintese": "Rankings. Ministro alerta para “competição desigual” entre escolas públicas e privadas",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
     }
    ],
    "amostra": {
-    "analisadas": 2,
-    "encontradas": 2
+    "analisadas": 8,
+    "encontradas": 66
    },
    "base": {
-    "ultima": "2026-10-30 22:06",
-    "em": "2026-10-31"
+    "ultima": "2026-10-30 13:43",
+    "em": "2026-11-01"
    },
    "novas": 0,
-   "enquadramento": "Das 66 notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias (2 na última semana), estas são 2, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. A lista completa está no AR Preview. Sem análise: o enquadramento e o impacto chegam quando o Amália estiver ativo."
+   "enquadramento": "Das 66 notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias (2 na última semana), estas são 8, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. A lista completa está no AR Preview. Sem análise: o enquadramento e o impacto chegam quando o Amália estiver ativo."
   },
   "2026-11-05-comiss-o-de-defesa-nacional": {
    "titulo": "Comissão de Defesa Nacional",
