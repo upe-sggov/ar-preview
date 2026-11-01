@@ -13637,1077 +13637,11 @@
    },
    "novas": 0,
    "enquadramento": "Das 1150 notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias (184 na última semana), estas são 20, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. A lista completa está no AR Preview. Sem análise: o enquadramento e o impacto chegam quando o Amália estiver ativo."
-  },
-  "2026-11-02-comiss-o-de-infraestruturas-mobilidade": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 71 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-10-08",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/videos/orcamento-do-estado-para-2027-e-minimalista-e-tenta-passar-entre-os-pingos-da-chuva/6ac817700cf20dc52779187d",
-     "sintese": "O Orçamento do Estado para 2027 é descrito como 'minimalista' e 'tenta passar entre os pingos da chuva'.",
-     "impacto": "Pode ser usado por críticos para argumentar contra a ambição do orçamento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/09/camara-de-coimbra-aprova-subida-de-4-nas-tarifas-de-agua-e-saneamento-para-2027-com-voto-de-qualidade-de-ana-abrunhosa/",
-     "sintese": "A Câmara de Coimbra aprovou uma subida de 4% na tarifa de água em 2027, justificada por preços cobrados pela Águas do Centro Litoral.",
-     "impacto": "Pode ser usado para discutir a alocação de fundos para infraestruturas e serviços públicos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-10",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3064823/il-quer-maior-autonomia-para-a-madeira-no-orcamento-do-estado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "A IL propõe maior autonomia para a Madeira no Orçamento do Estado.",
-     "impacto": "Pode ser usado para discutir a descentralização e a alocação de fundos para regiões autónomas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-19",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-diz-que-proposta-de-oe-2027-merecia-voto-contra-mas-dever-do-ps-e-servir-o-pais",
-     "sintese": "O líder do PS nega dar 'carta branca' ao Governo ao abster-se na votação do OE 2027.",
-     "impacto": "Pode ser usado para discutir a posição política e a responsabilidade do PS.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-25",
-     "fonte": "Dinheiro Vivo",
-     "url": "https://www.dn.pt/desporto/algarve-pode-receber-prlogo-do-rali-dakar-de-2027",
-     "sintese": "O Algarve poderá receber o prólogo do Rali Dakar de 2027, demonstrando o investimento em eventos desportivos.",
-     "impacto": "Pode ser usado para discutir a alocação de fundos para turismo e infraestruturas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/economia/oe-2027-finanas-tm-na-mo-24-mil-milhes-de-euros-em-despesa-cativada",
-     "sintese": "Finanças têm 2,4 mil milhões de euros em despesa cativada para o OE 2027.",
-     "impacto": "Pode ser usado para discutir a alocação de fundos e a gestão orçamental.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/28/orcamento-do-estado-para-2027-aprovado-na-generalidade-com-abstencao-do-ps/",
-     "sintese": "OE 2027 aprovado na generalidade com abstenção do PS.",
-     "impacto": "Ponto central para a discussão orçamental na Assembleia da República.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "RTP Notícias",
-     "url": "https://acores.rtp.pt/politica/po-2027-conselho-ilha-do-corvo-da-parecer-negativo/",
-     "sintese": "Conselho Ilha do Corvo dá parecer negativo sobre o PO 2027.",
-     "impacto": "Pode ser usado para discutir a descentralização e a gestão regional.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/edp-e-sindicatos-fecham-novo-acordo-coletivo-de-trabalho-em-vigor-a-partir-de-2027/",
-     "sintese": "EDP e sindicatos fecham novo Acordo Coletivo de Trabalho, em vigor a partir de 2027.",
-     "impacto": "Pode ser usado para discutir a gestão de recursos humanos e a alocação de fundos para o setor público.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-31",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/31/inem-devera-receber-313-milhoes-de-euros-de-receitas-de-seguros-em-2027/",
-     "sintese": "INEM deverá receber 313 milhões de euros de receitas de seguros em 2027.",
-     "impacto": "Pode ser usado para discutir a alocação de fundos para saúde e emergência médica.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 10,
-    "encontradas": 2679
-   },
-   "base": {
-    "ultima": "2026-11-01 18:26",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "A cobertura mediática evoluiu de temas periféricos para o foco central no Orçamento do Estado 2027, com discussões sobre alocação de fundos e prioridades setoriais. Inicialmente, notícias sobre eventos desportivos, económicos e regionais dominaram o panorama, mas a atenção gradualmente deslocou-se para a política orçamental. A aprovação na generalidade, com abstenção do PS, marcou um ponto de viragem, intensificando o debate sobre a proposta. A cobertura subsequente focou-se em detalhes específicos, como a despesa cativada e a distribuição de fundos, demonstrando um interesse crescente na implementação do orçamento. A natureza das notícias reflete uma mudança de contexto para a relevância política e económica."
-  },
-  "2026-11-02-comiss-o-de-assuntos-constitucionais-di": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 107 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-10-02",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2376/",
-     "sintese": "O PCP confirma que vai votar contra o Orçamento do Estado 2027.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira_n1770163",
-     "sintese": "O Governo entrega a proposta de lei do Orçamento do Estado para 2027 no parlamento.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/especial/politica/2026/10/08/veja-em-direto-a-apresentacao-da-proposta-do-orcamento-do-estado-2027/488350/",
-     "sintese": "A RTP Notícias transmite a apresentação da proposta do Orçamento do Estado 2027.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "Hugo Soares manifesta confiança no Orçamento do Estado 2027.",
-     "impacto": "",
-     "natureza": "positivo",
-     "naturezaLabel": "Contextual / positivo"
-    }
-   ],
-   "amostra": {
-    "analisadas": 4,
-    "encontradas": 36
-   },
-   "base": {
-    "ultima": "2026-10-27 14:56",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "O Orçamento do Estado 2027 é debatido na Assembleia da República, com foco na Proposta de Lei 110/XVI/2.ª para avaliar o financiamento da Cultura, Juventude e Desporto. A discussão inclui a distribuição orçamental e o impacto nas áreas governamentais."
-  },
-  "2026-11-03-comiss-o-de-ambiente-e-energia": {
-   "titulo": "Orçamento do Estado para 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-07",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-combustiveis-ministra-do-ambiente-e-energia-fala-em-ci_a1_1763918",
-     "sintese": "A Ministra do Ambiente e Energia fala sobre combustíveis e CI, indicando a sua participação na discussão orçamental.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/",
-     "sintese": "O Governo convoca parceiros sociais para discutir a proposta orçamental para 2027, incluindo a Ministra do Ambiente e Energia.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "Hugo Soares manifesta confiança no Orçamento do Estado 2027 e na atuação do Governo.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/governo-abre-leiloes-de-300-mva-de-capacidade-sobrante-e-750-mva-de-armazenamento-autonomo/",
-     "sintese": "O Governo abre leilões de capacidade sobrante e armazenamento autónomo, com impacto na transição energética.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/",
-     "sintese": "O Parlamento inicia o debate na generalidade do Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/30/novo-apoio-a-compra-de-eletricos-abrange-mais-de-15-milhoes-de-pessoas/",
-     "sintese": "A Ministra do Ambiente e Energia anuncia novos apoios à compra de elétricos para mais de 1,5 milhões de pessoas.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 6,
-    "encontradas": 75
-   },
-   "base": {
-    "ultima": "2026-10-30 06:37",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, será ouvida na Assembleia da República sobre a proposta orçamental para 2027, com foco em financiamento e políticas setoriais. A discussão conjunta com a Comissão de Orçamento, Finanças e Administração Pública marca a agenda de terça-feira, 3 de novembro, às 09h00."
-  },
-  "2026-11-04-comiss-o-de-assuntos-constitucionais-di": {
-   "titulo": "Orçamento do Estado para 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 110 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-09",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/pais/politica/2026-09-09-video-ministra-da-justica-reconhece-problemas-estruturais-nas-prisoes-e-mantem-encerramento-do-epl-ate-2028-61b23ad3",
-     "sintese": "A Ministra da Justiça reconhece problemas estruturais nas prisões e mantém o encerramento do EPL até 2028, indicando preocupações com a segurança e a reforma do sistema prisional.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/24/ministra-da-justica-reitera-total-confianca-no-diretor-da-pj/",
-     "sintese": "A Ministra da Justiça reitera a sua total confiança no diretor da PJ, após buscas realizadas pelo Ministério Público, demonstrando a sua postura de defesa institucional.",
-     "impacto": "",
-     "natureza": "positivo",
-     "naturezaLabel": "Contextual / positivo"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-operacao-influencer-ministra-da-justica-afirma-que-uma-investigacao-nao-pode-prolongar-se-indefinidamente_a1_1769162",
-     "sintese": "A Ministra da Justiça afirma que uma investigação 'não pode prolongar-se indefinidamente', sugerindo a necessidade de eficiência e controlo de prazos processuais.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "Hugo Soares manifesta confiança no PS e no Orçamento do Estado 2027, indicando o alinhamento político com a proposta orçamental.",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/sociedade/artigo/defesa-de-rui-pinto-elogia-intervencao-da-ministra-da-justica-para-repor-legalidade/18135296",
-     "sintese": "A defesa de Rui Pinto elogia a intervenção da Ministra da Justiça para repor a legalidade, demonstrando o seu papel na defesa dos direitos e garantias processuais.",
-     "impacto": "",
-     "natureza": "positivo",
-     "naturezaLabel": "Contextual / positivo"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/27/politica/noticia/montenegro-ar-dia-seguro-demarcou-accao-psp-manifestacoes-2192803",
-     "sintese": "Uma manifestação frente ao Parlamento debate a atuação da polícia e o Orçamento do Estado 2027, refletindo a preocupação pública com a segurança e a gestão de recursos.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 6,
-    "encontradas": 158
-   },
-   "base": {
-    "ultima": "2026-10-27 14:56",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "A Ministra da Justiça debate a proposta orçamental para 2027, focando-se em recursos para o sistema judicial e políticas de justiça, durante uma audição na Assembleia da República. A cobertura mediática inclui discussões sobre desafios estruturais nas prisões e a confiança no diretor da PJ."
-  },
-  "2026-11-04-comiss-o-de-educa-o-e-ci-ncia": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-09",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/2026/9/9/504845-chega-pede-audicao-parlamentar-urgente-do-director-nacional-da-pj/",
-     "sintese": "Chega pede audição parlamentar urgente do director nacional da PJ",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/especial/politica/2026/10/08/veja-em-direto-a-apresentacao-da-proposta-do-orcamento-do-estado-2027/488350/",
-     "sintese": "🔴 Veja em direto a apresentação da proposta do Orçamento do Estado 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "Proposta de Orçamento do Estado 2027 desperdiça oportunidade de acelerar a transição ecológica",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-12",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/pais/politica/2026-10-12-iniciativa-liberal-exige-audicao-parlamentar-urgente-sobre-demissao-do-secretario-geral-do-mai-ef148727",
-     "sintese": "Iniciativa Liberal exige audição parlamentar urgente sobre demissão do secretário-geral do MAI",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/politica/amp/pinto-luz-nega-conflito-de-interesses-na-aprovacao-do-novo-regime-juridico-da-urbanizacao-e-edificacao",
-     "sintese": "Pinto Luz nega conflito de interesses na aprovação do novo Regime Jurídico da Urbanização e Edificação",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/27/politica/noticia/montenegro-ar-dia-seguro-demarcou-accao-psp-manifestacoes-2192803",
-     "sintese": "Com a actuação da polícia em debate, manifestação encheu praça frente ao Parlamento | Orçamento do Estado 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/29/oe2027-rangel-destaca-sinal-politico-do-aumento-da-verba-do-ministerio-dos-negocios-estrangeiros/",
-     "sintese": "Rangel destaca \"sinal político\" do aumento da verba do MNE",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/30/todos-os-dias-e-notoria-a-forca-que-a-administracao-interna-tem-e-que-eu-tenho-diz-luis-neves/",
-     "sintese": "“Todos os dias é notória a força que a Administração Interna tem e que eu tenho”, diz Luís Neves",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 8,
-    "encontradas": 59
-   },
-   "base": {
-    "ultima": "2026-10-30 10:13",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "8 notícias analisadas no Radar de Notícias; enquadramento por gerar."
-  },
-  "2026-11-05-comiss-o-de-defesa-nacional": {
-   "titulo": "Orçamento da Defesa Nacional",
-   "meta": "Comissões Parlamentares · Reunião n.º 50 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-19",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/cds-nuno-melo-diz-que-atrasos-nas-matrculas-resultam-do-desastre-das-polticas-do-ps-na-imigrao",
-     "sintese": "CDS. Nuno Melo diz que atrasos nas matrículas resultam do \"desastre\" das políticas do PS na imigração",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-22",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/defesa-nacional/2026-09-22-fragatas-nuno-melo-revela-detalhes-do-preco-do-maior-negocio-de-sempre-na-defesa-com-310-milhoes-em-misseis-9e32f64c?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/defesa-nacional/2026-09-22-fragatas-nuno-melo-revela-detalhes-do-preco-do-maior-negocio-de-sempre-na-defesa-com-310-milhoes-em-misseis-9e32f64c",
-     "sintese": "Fragatas: Nuno Melo revela detalhes do preço do maior negócio de sempre na Defesa, com €310 milhões em mísseis",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/governo-preve-despesa-de-3800-me-para-defesa-nacional-aproximada-a-de-2026_n1770433",
-     "sintese": "O Governo prevê uma despesa de 3.800 milhões de euros para a Defesa Nacional em 2027, valor próximo do deste ano, sem flutuações significativas.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-24",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/24/nuno-melo-lamenta-tom-adjetivos-e-consideracoes-de-menezes-sobre-terreno-em-gaia/",
-     "sintese": "Nuno Melo lamenta o tom de Menezes sobre um terreno militar em Gaia, acusando o autarca de mentir sobre um processo relativo a um terreno militar que a autarquia quer para habitação.",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 4,
-    "encontradas": 152
-   },
-   "base": {
-    "ultima": "2026-10-29 22:49",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "O Ministro da Defesa Nacional irá apresentar a proposta de Orçamento do Estado para 2027 na Assembleia da República, com foco nas verbas e prioridades para o Ministério da Defesa. A discussão conjunta com a Comissão de Orçamento, Finanças e Administração Pública visa avaliar o financiamento e a eficiência das despesas militares."
-  },
-  "2026-11-06-comiss-o-de-trabalho-seguran-a-social-e": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 77 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · sexta, 6 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-16",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/",
-     "sintese": "O Governo anuncia a intenção de envolver os parceiros sociais na discussão do Orçamento do Estado 2027, com a proposta a ser apresentada formalmente no parlamento. Esta informação serve como ponto de partida para a discussão parlamentar e para a análise das prioridades do Governo.",
-     "impacto": "Pode ser utilizada pela Ministra do Trabalho, Solidariedade e Segurança Social na audição, para justificar a inclusão de medidas de proteção social e emprego.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-23",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/oramento-do-estado-2027-livre-quer-imposto-sobre-grandes-fortunas-e-passe-nico-nacional",
-     "sintese": "O partido Livre propõe um imposto sobre grandes fortunas e um passe único nacional como medidas complementares ao Orçamento do Estado 2027. Esta proposta serve como ponto de referência para a discussão sobre a distribuição de rendimentos e a mobilidade urbana.",
-     "impacto": "Pode ser utilizada por partidos de oposição para questionar a abrangência das medidas de proteção social e a equidade fiscal.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2376/",
-     "sintese": "O PCP anuncia a sua intenção de votar contra o Orçamento do Estado 2027, indicando preocupações com as políticas propostas. Esta declaração serve como um aviso para o Governo e um ponto de referência para a oposição parlamentar.",
-     "impacto": "Pode ser utilizada pelo PCP na discussão parlamentar para fundamentar a sua oposição e pressionar por alterações.",
-     "natureza": "positivo",
-     "naturezaLabel": "Contextual / positivo"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
-     "sintese": "O PS admite a possibilidade de alterar a sua viabilização do Orçamento do Estado 2027 se este contiver 'medidas surpresa' gravosas. Esta declaração demonstra flexibilidade e abertura ao diálogo, mas também a possibilidade de resistência a políticas consideradas desfavoráveis.",
-     "impacto": "Pode ser utilizada pelo PS para negociar com outros partidos e garantir o apoio à proposta orçamental.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-2027-governo-garante-nova-reducao-de-irs-com-atualizacao-de-escaloes_n1770108",
-     "sintese": "O Governo confirma uma nova redução de escalões de IRS, com o sexto desagravamento fiscal desde que o PSD e o CDS-PP estão no Governo. Esta medida serve como um ponto de destaque para a discussão sobre a política fiscal e o impacto nas famílias.",
-     "impacto": "Pode ser utilizada pelo Governo na audição para justificar a política fiscal e demonstrar o compromisso com a redução da carga fiscal.",
-     "natureza": "positivo",
-     "naturezaLabel": "Contextual / positivo"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira_n1770163",
-     "sintese": "O Governo entrega a proposta de lei do Orçamento do Estado 2027 no parlamento, dois dias antes do prazo limite. Esta ação demonstra a prontidão do Governo para iniciar o processo de discussão e negociação.",
-     "impacto": "Pode ser utilizada pela Ministra do Trabalho, Solidariedade e Segurança Social para iniciar a audição e apresentar as prioridades da Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/programa/cafe-duplo-com-angelique-da-teresa-e-bernardo-pessanha?ep=18134706",
-     "sintese": "O Governo anuncia um corte nas pensões como parte do Orçamento do Estado 2027, gerando debate sobre o impacto nas reformas. Esta medida serve como um ponto de tensão na discussão sobre a proteção social e o emprego.",
-     "impacto": "Pode ser utilizada pela oposição para criticar a política de pensões e pressionar por alternativas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/especial/politica/2026/10/08/veja-em-direto-a-apresentacao-da-proposta-do-orcamento-do-estado-2027/488350/",
-     "sintese": "A apresentação da proposta do Orçamento do Estado 2027 é transmitida em direto, permitindo o acompanhamento público do processo. Esta iniciativa serve para aumentar a transparência e a participação cívica.",
-     "impacto": "Pode ser utilizada pela Ministra do Trabalho, Solidariedade e Segurança Social para apresentar as medidas em direto e responder a perguntas.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1881/",
-     "sintese": "A CIP solicita mais medidas para tornar o investimento mais atrativo como parte do Orçamento do Estado 2027. Esta declaração serve como um ponto de referência para a discussão sobre o crescimento económico e a competitividade.",
-     "impacto": "Pode ser utilizada por representantes empresariais na discussão parlamentar para defender medidas de apoio ao investimento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "O PS manifesta confiança na viabilização do Orçamento do Estado 2027, apesar das potenciais dificuldades. Esta declaração demonstra a esperança do partido em alcançar um acordo.",
-     "impacto": "Pode ser utilizada pelo PS para reforçar a sua posição e negociar com outros partidos.",
-     "natureza": "positivo",
-     "naturezaLabel": "Contextual / positivo"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/09/economia/noticia/oe-saldo-quase-igual-ajuda-economia-2190760",
-     "sintese": "O Orçamento do Estado 2027 mantém o saldo, mas com uma ajuda menor à economia. Esta informação serve para avaliar o impacto das políticas económicas e sociais.",
-     "impacto": "Pode ser utilizada pelo Governo para justificar a política económica e demonstrar a sustentabilidade das finanças públicas.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/orcamento-de-estado-2027-para-os-acores-cumpre-com-as-expectativas-do-governo-380938",
-     "sintese": "O Governo prevê um montante de verbas para os Açores dentro das expectativas, mas solicita um reforço para a região. Esta declaração serve para avaliar a política regional e o impacto nas ilhas.",
-     "impacto": "Pode ser utilizada pelo Governo para justificar a alocação de recursos para os Açores e defender a necessidade de um reforço.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "A proposta de Orçamento do Estado 2027 é criticada por desperdiçar oportunidades de acelerar a transição ecológica. Esta crítica serve como um ponto de debate sobre a política ambiental e a sustentabilidade.",
-     "impacto": "Pode ser utilizada por partidos e organizações ambientais para pressionar por medidas mais ambiciosas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-12",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/noticias/Or%C3%A7amento-do-Estado-2027-medidas?pagina=2",
-     "sintese": "A discussão sobre o Orçamento do Estado 2027 é descrita como estando entre a inércia e a transformação. Esta afirmação serve para avaliar o potencial de mudança e o compromisso com a modernização.",
-     "impacto": "Pode ser utilizada para analisar o debate parlamentar e identificar as áreas de maior potencial de transformação.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-19",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/amp/convidado/2026/10/19/orcamento-do-estado-2027-entre-a-inercia-e-a-transformacao/489795/",
-     "sintese": "O Governo prevê uma despesa de 17.858,4 milhões de euros para a Saúde em 2027, após o fim do PRR. Esta informação serve para avaliar o impacto do fim do PRR e a sustentabilidade do sistema de saúde.",
-     "impacto": "Pode ser utilizada pelo Governo para justificar a despesa em saúde e demonstrar o compromisso com o setor.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/pensoes-conjuntas-da-cga-e-seguranca-social-estao-a-ser-atribuidas-em-25-dias/",
-     "sintese": "O tempo médio de atribuição de pensões unificadas diminui para 25 dias. Esta melhoria serve como um indicador do sucesso das políticas de proteção social.",
-     "impacto": "Pode ser utilizada pela Ministra do Trabalho, Solidariedade e Segurança Social para demonstrar o impacto positivo das medidas de proteção social.",
-     "natureza": "positivo",
-     "naturezaLabel": "Contextual / positivo"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3073374/oe2027-rsi-chega-a-menos-de-4-dos-cidadaos-estrangeiros-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Menos de 4% dos cidadãos estrangeiros são beneficiários do RSI, negando que sejam um problema para o sistema de apoio. Esta declaração serve para abordar preocupações sobre a utilização indevida do sistema de apoio social.",
-     "impacto": "Pode ser utilizada pela Ministra do Trabalho, Solidariedade e Segurança Social para defender a equidade e a justiça social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/rsi-chega-a-menos-de-4-dos-cidadaos-estrangeiros-em-portugal_n1774561",
-     "sintese": "A secretária de Estado da Segurança Social repete a informação sobre a baixa percentagem de cidadãos estrangeiros no RSI. Esta repetição serve para reforçar a mensagem e dissipar dúvidas.",
-     "impacto": "Pode ser utilizada pela Ministra do Trabalho, Solidariedade e Segurança Social para reforçar a defesa da equidade e da justiça social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/",
-     "sintese": "O Parlamento inicia o debate sobre o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR. Esta informação serve para avaliar o impacto das políticas económicas e sociais.",
-     "impacto": "Pode ser utilizada pelo Governo para justificar a despesa em saúde e demonstrar o compromisso com a sustentabilidade.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/27/politica/noticia/montenegro-ar-dia-seguro-demarcou-accao-psp-manifestacoes-2192803",
-     "sintese": "Uma manifestação em frente ao Parlamento discute a atuação da polícia durante o debate sobre o Orçamento de 2027. Esta ação serve como um ponto de tensão na discussão sobre a segurança pública e os direitos civis.",
-     "impacto": "Pode ser utilizada para levantar questões sobre a atuação da polícia e a liberdade de expressão durante o debate parlamentar.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 20,
-    "encontradas": 34
-   },
-   "base": {
-    "ultima": "2026-10-27 14:56",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "A cobertura mediática do Orçamento do Estado 2027 evoluiu de anúncios iniciais e convites a parceiros sociais para a entrega formal da proposta no parlamento, com foco crescente em debates sobre medidas de proteção social, emprego e restrições orçamentais. Inicialmente, a atenção concentrou-se na preparação e entrega do documento, com declarações do Governo sobre reduções de IRS e prazos. Posteriormente, a discussão aprofundou-se com críticas de partidos como o PCP, que confirmou a oposição, e questões levantadas por outros grupos parlamentares sobre potenciais impactos. A cobertura também destacou preocupações de setores empresariais e a necessidade de medidas para impulsionar o investimento, enquanto a Comissão de Orçamento, Finanças e Administração Pública procurava alinhar prioridades com as restrições orçamentais. A sessão plenária da Assembleia da República, marcada para 6 de novembro, representa o culminar deste processo de debate e negociação."
-  },
-  "2026-11-06-comiss-o-de-or-amento-finan-as-e-admini": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 144 · Plenário · sexta, 6 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-09",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/politica/artigo/debate-quinzenal-com-primeiro-ministro-no-penultimo-dia-do-prazo-para-entrega-do-orcamento-do-estado/18124893",
-     "sintese": "O debate quinzenal com o primeiro-ministro no penúltimo dia do prazo para entrega do Orçamento do Estado, conforme noticiado pela TSF, fornece contexto para a discussão parlamentar. Impacto: pode ser usado pelo PS para questionar a prontidão do Orçamento. Natureza: contexto",
-     "impacto": "PS",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-17",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/montenegro-fala-hoje-ao-pais-apos-conselho-de-ministros-e-vai-anunciar-novos-apoios-a-economia/",
-     "sintese": "Montenegro fala ao País após Conselho de Ministros e anuncia novos apoios à economia. Impacto: pode ser usado pelo Governo para destacar medidas económicas. Natureza: relevante",
-     "impacto": "Governo",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-26",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/politica/2026-09-26-ventura-quer-comissao-de-inquerito-a-luis-neves-a-trabalhar-antes-do-orcamento-do-estado-e51c37a2?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/politica/2026-09-26-ventura-quer-comissao-de-inquerito-a-luis-neves-a-trabalhar-antes-do-orcamento-do-estado-e51c37a2",
-     "sintese": "Ventura quer comissão de inquérito a Luís Neves a trabalhar antes do Orçamento do Estado. Impacto: pode ser usado pela oposição para pressionar a transparência. Natureza: crítica",
-     "impacto": "Oposição",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/cgtp-e-cip-lancam-criticas-ao-orcamento-do-estado-mas-divergem-quanto-aos-salarios_n1768539",
-     "sintese": "CGTP e CIP divergem quanto ao salário mínimo nacional em debate sobre o Orçamento do Estado. Impacto: pode ser usado por sindicatos para defender aumentos salariais. Natureza: relevante",
-     "impacto": "CGTP/CIP",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-01",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/?p=1269780",
-     "sintese": "Ordem dos Médicos Veterinários apresenta pacote de medidas para o Orçamento do Estado de 2027. Impacto: pode ser usado por grupos profissionais para defender financiamento. Natureza: relevante",
-     "impacto": "Ordem dos Médicos Veterinários",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/orcamento-do-estado-para-2027-vai-ser-apresentado-esta-quinta-feira",
-     "sintese": "Orçamento do Estado para 2027 será apresentado esta quinta-feira. Impacto: pode ser usado para agendar debates e votações. Natureza: contexto",
-     "impacto": "Governo",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/videos/orcamento-do-estado-para-2027-e-minimalista-e-tenta-passar-entre-os-pingos-da-chuva/6ac817700cf20dc52779187d",
-     "sintese": "Orçamento do Estado para 2027 'é minimalista e tenta passar entre os pingos da chuva'. Impacto: pode ser usado pela oposição para criticar a falta de ambição. Natureza: crítica",
-     "impacto": "Oposição",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1782/",
-     "sintese": "PS tem dúvidas sobre verbas previstas no Orçamento do Estado. Impacto: pode ser usado pelo PS para questionar a alocação orçamental. Natureza: relevante",
-     "impacto": "PS",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-10",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3064823/il-quer-maior-autonomia-para-a-madeira-no-orcamento-do-estado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "IL quer maior autonomia para a Madeira no Orçamento do Estado. Impacto: pode ser usado pela IL para defender a descentralização. Natureza: relevante",
-     "impacto": "IL",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-11",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027? Impacto: pode ser usado para desmistificar alegações falsas. Natureza: contexto",
-     "impacto": "Media",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-12",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/programa/termometro-tsf?ep=18136356",
-     "sintese": "Termómetro com Miguel Guedes: a birra de Ronaldo, o Orçamento do Estado, a coragem do Comité Nobel e dos que saíram à rua. Impacto: pode ser usado para desviar a atenção, mas não diretamente relacionado. Natureza: fora",
-     "impacto": "N/A",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Jornal de Notícias",
-     "url": "https://www.jn.pt/nacional/artigo/montenegro-ausente-do-conselho-de-ministros-fez-visita-surpresa-a-escola-em-aveiro/18139956",
-     "sintese": "Montenegro ausente do Conselho de Ministros fez visita surpresa a escola em Aveiro. Impacto: pode ser usado para destacar a imagem pública. Natureza: fora",
-     "impacto": "N/A",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/sociedade/acampada-de-lisboa-vai-montar-tendas-em-frente-ao-parlamento-aps-discusso-do-oramento-do-estado",
-     "sintese": "Acampada de Lisboa vai montar tendas em frente ao Parlamento após discussão do Orçamento do Estado. Impacto: pode ser usado para protestos contra o Orçamento. Natureza: relevante",
-     "impacto": "Oposição",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/27/video/habitacao-dividiu-parlamento-dia-debate-orcamento-estado-20261027-213623",
-     "sintese": "Habitação dividiu Parlamento em dia de debate sobre o Orçamento do Estado. Impacto: pode ser usado para destacar a crise da habitação. Natureza: relevante",
-     "impacto": "Oposição",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
-     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027. Impacto: pode ser usado para debates parlamentares. Natureza: relevante",
-     "impacto": "Governo/Oposição",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "Nascer do SOL",
-     "url": "https://sol.iol.pt/politica/noticias/psd-e-cds-pp-votam-a-favor-do-orcamento-do-estado-de-2027-e-ps-abstem-se/20261028/6ae24a860cf23b0ed4fdfc77",
-     "sintese": "PSD e CDS-PP votam a favor do Orçamento do Estado de 2027 e PS abstém-se. Impacto: pode ser usado para mostrar a divisão parlamentar. Natureza: relevante",
-     "impacto": "PSD/CDS-PP",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/28/orcamento-do-estado-para-2027-aprovado-na-generalidade-com-abstencao-do-ps/",
-     "sintese": "Orçamento do Estado para 2027 aprovado na generalidade com abstenção do PS. Impacto: pode ser usado para anunciar a aprovação. Natureza: relevante",
-     "impacto": "Governo",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/politica/2026/10/29/conselho-de-ministros-aprova-reducao-do-irs-regulamentacao-da-lei-da-nacionalidade-e-nova-lideranca-da-aima/491264/",
-     "sintese": "PSD e CDS-PP votam a favor do Orçamento do Estado de 2027 e PS abstém-se. Impacto: pode ser usado para mostrar a divisão parlamentar. Natureza: relevante",
-     "impacto": "PSD/CDS-PP",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/politica/amp/governo-avisa-que-se-oposicao-for-irresponsavel-na-discussao-do-orcamento-do-estado-quem-paga-sao-os-portugueses",
-     "sintese": "Conselho de Ministros aprova redução do IRS, regulamentação da Lei da Nacionalidade e nova liderança da AIMA. Impacto: pode ser usado para destacar medidas governamentais. Natureza: relevante",
-     "impacto": "Governo",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/2026/10/30/510974-gomes-acusa-psd-ps-e-jpp-de-trairem-a-madeira-na-votacao-do-orcamento-do-estado/",
-     "sintese": "Gomes acusa PSD, PS e JPP de 'traírem a Madeira' na votação do Orçamento do Estado. Impacto: pode ser usado para criticar a votação. Natureza: crítica",
-     "impacto": "PSD/PS/JPP",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 20,
-    "encontradas": 896
-   },
-   "base": {
-    "ultima": "2026-11-01 16:00",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 evoluiu de discussões preliminares e anúncios governamentais para debates parlamentares e votações. Inicialmente, notícias focaram-se em anúncios governamentais e críticas de partidos da oposição, como a TSF e Executive Digest. Posteriormente, a cobertura intensificou-se com debates e votações, como o Público e RTP Notícias. A natureza das notícias varia de crítica (ex: CNN Portugal) a relevante (ex: PSD e CDS-PP votam a favor), com alguns elementos de contexto (ex: IL quer maior autonomia para a Madeira)."
-  },
-  "2026-11-03-48569-comiss-o-de-assuntos-constitucionais-direit": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 109 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-24",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/national/article/2026-09-24/47831252/ministro-da-presid%C3%AAncia-avisa-que-margem-negocial-do-or%C3%A7amento-%C3%A9-muito-limitada-e-critica-pessimistas-alertantes",
-     "sintese": "O Ministro da Presidência alerta para a margem negocial limitada no Orçamento do Estado 2027, criticando pessimistas.",
-     "impacto": "Relevante para o debate orçamental na Assembleia da República",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/ministro-da-presidencia-avisa-que-margem-negocial-e-muito-limitada-e-critica-pessimistas-alertantes_n1767540",
-     "sintese": "O Ministro da Presidência repete a crítica à margem negocial limitada e nega crescimento acelerado da despesa no Orçamento.",
-     "impacto": "Relevante para o debate orçamental na Assembleia da República",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-09-28",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/politica/amp/brilhante-dias-convicto-de-que-ex-secretario-de-estado-lacerda-sales-esta-inocente-no-caso-das-gemeas-luso-brasileiras",
-     "sintese": "O Ministro da Presidência afirma que a proposta orçamental desperdiça a oportunidade de acelerar a transição ecológica.",
-     "impacto": "Relevante para o debate sobre políticas ambientais no Orçamento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "Hugo Soares manifesta confiança no Orçamento do Estado 2027, indicando apoio ao projeto.",
-     "impacto": "Relevante para o debate orçamental na Assembleia da República",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "A proposta orçamental é criticada por não aproveitar a transição ecológica.",
-     "impacto": "Relevante para o debate sobre políticas ambientais no Orçamento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/secretario-de-estado-da-economia-destaca-previsibilidade-de-portugal-para-atrair-investimento/",
-     "sintese": "O Secretário de Estado da Economia destaca a previsibilidade de Portugal para atrair investimento.",
-     "impacto": "Relevante para o debate económico no Orçamento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/portugal-oferece-previsibilidade-economica-aos-investidores-garante-o-secretario-de-estado-da-economia-joao-rui-ferreira/",
-     "sintese": "O Secretário de Estado da Economia repete a previsibilidade de Portugal para investidores.",
-     "impacto": "Relevante para o debate económico no Orçamento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/mercados/detalhe/secretario-de-estado-do-orcamento-temos-um-enguico-nos-ppr-que-importa-quebrar",
-     "sintese": "O Secretário de Estado do Orçamento identifica um 'enguiço' nos PPR, um tema fiscal.",
-     "impacto": "Relevante para o debate orçamental.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/mercados/detalhe/inscricao-automatica-em-fundos-de-pensoes-e-o-mais-desafiante-diz-secretario-de-estado-do-orcamento",
-     "sintese": "O Secretário de Estado do Orçamento menciona desafios na inscrição automática em fundos de pensões.",
-     "impacto": "Relevante para o debate orçamental.",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 9,
-    "encontradas": 281
-   },
-   "base": {
-    "ultima": "2026-11-01 18:31",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "Ao longo de 60 dias, a cobertura mediática focou-se progressivamente no Orçamento do Estado 2027, começando com discussões sobre governação e regras internas, evoluindo para avisos sobre a margem negocial limitada e críticas a pessimistas. O debate público intensificou-se com declarações sobre a transição ecológica, imigração e a atuação policial, culminando na audição do Governo na Assembleia da República. Estas notícias refletem um envolvimento crescente em torno do processo orçamental, com o Governo a defender a sua posição e os partidos a expressar preocupações."
-  },
-  "2026-11-05-48628-comiss-o-de-or-amento-finan-as-e-administra": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Comissões Parlamentares · Reunião n.º 142 · Plenário · quinta, 5 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Amália — a rever",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-30",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/09/30/politica/noticia/carneiro-propoe-abstencao-oe2027-apos-governo-dar-garantias-condicoes-ps-2189845",
-     "sintese": "O líder do Livre propõe a viabilização do OE2027 após o Governo dar garantias às condições do PS.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira_n1770163",
-     "sintese": "O Governo entrega a proposta de lei do Orçamento do Estado para 2027 no parlamento, dois dias antes do prazo limite.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "Hugo Soares manifesta confiança no PS relativamente ao Orçamento do Estado 2027.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "A proposta de Orçamento do Estado 2027 é criticada por desperdiçar a oportunidade de acelerar a transição ecológica.",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-12",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/noticias/Or%C3%A7amento-do-Estado-2027-medidas?pagina=2",
-     "sintese": "O Orçamento do Estado 2027 inclui medidas, mas não detalhadas nas notícias.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/",
-     "sintese": "O Parlamento inicia o debate na generalidade do Orçamento do Estado 2027, com a Saúde a perder 1,5% após o fim do PRR.",
-     "impacto": "",
-     "natureza": "relevante",
-     "naturezaLabel": "Muito relevante"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/27/politica/noticia/montenegro-ar-dia-seguro-demarcou-accao-psp-manifestacoes-2192803",
-     "sintese": "Uma manifestação em frente ao Parlamento debate a atuação da polícia, relacionada com o Orçamento do Estado 2027.",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 7,
-    "encontradas": 45
-   },
-   "base": {
-    "ultima": "2026-10-27 14:56",
-    "em": "2026-11-01"
-   },
-   "novas": 0,
-   "enquadramento": "O Orçamento do Estado 2027 é debatido na Assembleia da República, com foco nas verbas e medidas para os setores agrícola e marítimo. A cobertura mediática abrange 60 dias, com 45 notícias relacionadas."
   }
  },
  "destaques": [
   {
-   "tema": "Orçamento do Estado 2027",
+   "tema": "Ministro da Presidência, António Leitão Amaro: Orçamento do Estado 2027",
    "data": "2026-11-03",
    "hora": "15h00",
    "interveniente": "",
@@ -16466,7 +15400,6 @@
     48587,
     48610
    ],
-   "varrimento": "2026-11-03-48569-comiss-o-de-assuntos-constitucionais-direit",
    "amalia": {
     "assunto": "Orçamento do Estado 2027",
     "resumo": "Audição do Governo sobre a Proposta de Lei 110/XVI/2.ª para debate na especialidade.",
@@ -16482,17 +15415,10 @@
      "Comissão de Assuntos Constitucionais",
      "Secretário de Estado"
     ]
-   },
-   "expressoes": [
-    "Proposta de Lei 110/XVI/2.ª",
-    "Ministro da Presidência",
-    "Orçamento do Estado 2027",
-    "Comissão de Assuntos Constitucionais",
-    "Secretário de Estado"
-   ]
+   }
   },
   {
-   "tema": "Orçamento do Estado 2027",
+   "tema": "Ministro de Estado e das Finanças, Joaquim Miranda Sarmento: Orçamento do Estado 2027",
    "data": "2026-11-06",
    "hora": "15h00",
    "interveniente": "",
@@ -18956,7 +17882,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-06-comiss-o-de-or-amento-finan-as-e-admini",
    "amalia": {
     "assunto": "Orçamento do Estado 2027",
     "resumo": "Audição do Ministro de Estado e das Finanças sobre a Proposta de Lei n.º 110/XVII/2.ª relativa ao Orçamento do Estado para 2027. Discussão sobre as linhas orçamentais e os impactos económicos previstos.",
@@ -18972,19 +17897,12 @@
      "pegada legislativa",
      "Conselho de Ministros"
     ]
-   },
-   "expressoes": [
-    "Orçamento do Estado",
-    "Proposta de Lei n.º 110/XVII/2.ª",
-    "Ministro de Estado e das Finanças",
-    "pegada legislativa",
-    "Conselho de Ministros"
-   ]
+   }
   }
  ],
  "agenda": [
   {
-   "tema": "Orçamento do Estado 2027",
+   "tema": "Ministro das Infraestruturas e Habitação, Miguel Pinto Luz: Orçamento do Estado 2027",
    "data": "2026-11-02",
    "hora": "09h00",
    "interveniente": "",
@@ -21447,7 +20365,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-02-comiss-o-de-infraestruturas-mobilidade",
    "conjunta": [
     "Comissão de Orçamento, Finanças e Administração Pública"
    ],
@@ -21469,13 +20386,7 @@
      "Ministro das Infraestruturas e Habitação",
      "Proposta de Lei n.º 110/XVII/2.ª"
     ]
-   },
-   "expressoes": [
-    "Orçamento do Estado",
-    "2027",
-    "Ministro das Infraestruturas e Habitação",
-    "Proposta de Lei n.º 110/XVII/2.ª"
-   ]
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -21568,7 +20479,7 @@
    }
   },
   {
-   "tema": "Orçamento do Estado 2027",
+   "tema": "Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes: Orçamento do Estado 2027",
    "data": "2026-11-02",
    "hora": "15h00",
    "interveniente": "",
@@ -21847,7 +20758,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-02-comiss-o-de-assuntos-constitucionais-di",
    "conjunta": [
     "Comissão de Cultura, Comunicação, Juventude e Desporto",
     "Comissão de Orçamento, Finanças e Administração Pública"
@@ -21871,16 +20781,10 @@
      "Ministra da Cultura, Juventude e Desporto",
      "Secretário de Estado do Desporto"
     ]
-   },
-   "expressoes": [
-    "Proposta de Lei 110/XVI/2.ª",
-    "Orçamento do Estado 2027",
-    "Ministra da Cultura, Juventude e Desporto",
-    "Secretário de Estado do Desporto"
-   ]
+   }
   },
   {
-   "tema": "Orçamento do Estado para 2027",
+   "tema": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
    "data": "2026-11-03",
    "hora": "09h00",
    "interveniente": "",
@@ -22393,7 +21297,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-03-comiss-o-de-ambiente-e-energia",
    "conjunta": [
     "Comissão de Orçamento, Finanças e Administração Pública"
    ],
@@ -22412,13 +21315,7 @@
      "Ministra do Ambiente e Energia",
      "Comissão de Orçamento, Finanças e Administração Pública"
     ]
-   },
-   "expressoes": [
-    "Orçamento do Estado 2027",
-    "Proposta de Lei n.º 110/XVII/2.ª",
-    "Ministra do Ambiente e Energia",
-    "Comissão de Orçamento, Finanças e Administração Pública"
-   ]
+   }
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -22936,7 +21833,7 @@
    "alterado": "2026-10-30"
   },
   {
-   "tema": "Orçamento do Estado para 2027",
+   "tema": "Ministra da Justiça, Rita Alarcão Júdice: Orçamento do Estado para 2027",
    "data": "2026-11-04",
    "hora": "14h00",
    "interveniente": "",
@@ -23947,7 +22844,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-04-comiss-o-de-assuntos-constitucionais-di",
    "conjunta": [
     "Comissão de Orçamento, Finanças e Administração Pública"
    ],
@@ -23966,16 +22862,10 @@
      "Ministra da Justiça",
      "DAPL"
     ]
-   },
-   "expressoes": [
-    "Proposta de Lei 110/XVI/2.ª",
-    "Orçamento do Estado 2027",
-    "Ministra da Justiça",
-    "DAPL"
-   ]
+   }
   },
   {
-   "tema": "Orçamento do Estado 2027",
+   "tema": "Ministro da Educação, Ciência e Inovação, Fernando Alexandre: Orçamento do Estado 2027",
    "data": "2026-11-04",
    "hora": "18h00",
    "interveniente": "",
@@ -24392,7 +23282,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-04-comiss-o-de-educa-o-e-ci-ncia",
    "conjunta": [
     "Comissão de Orçamento, Finanças e Administração Pública"
    ],
@@ -24414,13 +23303,7 @@
      "Audição parlamentar",
      "Financiamento setorial"
     ]
-   },
-   "expressoes": [
-    "Orçamento do Estado 2027",
-    "Proposta de Lei n.º 110/XVII/2.ª",
-    "Audição parlamentar",
-    "Financiamento setorial"
-   ]
+   }
   },
   {
    "tema": "Comissão de Trabalho, Segurança Social e Inclusão",
@@ -26071,8 +24954,6 @@
    "expressoes": [
     "Lei n.º 5-A/2026",
     "RTRI",
-    "plataforma informática",
-    "transparência",
     "Registo de Transparência"
    ]
   },
@@ -26235,7 +25116,7 @@
    }
   },
   {
-   "tema": "Orçamento da Defesa Nacional",
+   "tema": "Ministro da Defesa Nacional, Nuno Melo: Orçamento da Defesa Nacional",
    "data": "2026-11-05",
    "hora": "14h00",
    "interveniente": "",
@@ -27210,7 +26091,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-05-comiss-o-de-defesa-nacional",
    "conjunta": [
     "Comissão de Orçamento, Finanças e Administração Pública"
    ],
@@ -27230,17 +26110,10 @@
      "Comissão de Orçamento, Finanças e Administração Pública",
      "Nuno Melo"
     ]
-   },
-   "expressoes": [
-    "Defesa Nacional",
-    "Orçamento do Estado 2027",
-    "Proposta de Lei n.º 110/XVII/2.ª",
-    "Comissão de Orçamento, Finanças e Administração Pública",
-    "Nuno Melo"
-   ]
+   }
   },
   {
-   "tema": "Orçamento do Estado 2027",
+   "tema": "Ministro da Agricultura e Mar, José Manuel Fernandes: Orçamento do Estado 2027",
    "data": "2026-11-05",
    "hora": "18h00",
    "interveniente": "",
@@ -27574,7 +26447,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-05-48628-comiss-o-de-or-amento-finan-as-e-administra",
    "amalia": {
     "assunto": "Orçamento do Estado 2027",
     "resumo": "Audição do Ministro da Agricultura e Mar sobre a Proposta de Lei n.º 110/XVII/2.ª para o Orçamento do Estado de 2027. Discussão sobre as verbas e medidas para os setores agrícola e marítimo.",
@@ -27589,16 +26461,10 @@
      "José Manuel Fernandes",
      "Secretário de Estado das Pescas e do Mar"
     ]
-   },
-   "expressoes": [
-    "Proposta de Lei n.º 110/XVII/2.ª",
-    "Orçamento do Estado 2027",
-    "José Manuel Fernandes",
-    "Secretário de Estado das Pescas e do Mar"
-   ]
+   }
   },
   {
-   "tema": "Orçamento do Estado 2027",
+   "tema": "Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Palma Ramalho: Orçamento do Estado 2027",
    "data": "2026-11-06",
    "hora": "09h00",
    "interveniente": "",
@@ -27865,7 +26731,6 @@
      ]
     ]
    },
-   "varrimento": "2026-11-06-comiss-o-de-trabalho-seguran-a-social-e",
    "conjunta": [
     "Comissão de Orçamento, Finanças e Administração Pública"
    ],
@@ -27884,13 +26749,7 @@
      "Secretária de Estado da Segurança Social",
      "Comissão de Trabalho, Segurança Social e Inclusão"
     ]
-   },
-   "expressoes": [
-    "Proposta de Lei n.º 110/XVII/2.ª",
-    "Orçamento do Estado 2027",
-    "Secretária de Estado da Segurança Social",
-    "Comissão de Trabalho, Segurança Social e Inclusão"
-   ]
+   }
   }
  ]
 }

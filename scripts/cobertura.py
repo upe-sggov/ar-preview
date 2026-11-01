@@ -53,7 +53,7 @@ def corpus(local=None):
 
 def so_orgao(x):
     """O tema é só o nome do órgão («Comissão de Infraestruturas, Mobilidade e Habitação»): o assunto está na ordem de trabalhos."""
-    t = (x.get('tema') or '').strip()
+    t = (x.get('orgao') or x.get('tema') or '').strip()   # o Amália reescreve o tema; o nome do órgão fica em «orgao»
     # comissões permanentes; as de inquérito e os grupos de trabalho já trazem o assunto no próprio nome
     return bool(re.match(r'(Comissão|Subcomissão)\b', t)) and 'Inquérito' not in t and not re.search(r'[:—]', t) and len(t) <= 80
 
@@ -151,6 +151,10 @@ def _procurar(x, arts, texto, nomes=True, folga=True):
         auto = expressoes_auto(x)
         if auto: x['expressoes_auto'] = auto
     exps = [norm(e).strip() for e in (x.get('expressoes') or x.get('expressoes_auto') or []) if e and e.strip()]
+    # expressões propostas pelo Amália não mandam nas audições: aí a pesquisa é por quem é ouvido (mais precisa);
+    # as da revisão humana (correcoes.csv) mandam sempre
+    if exps and x.get('amalia') and not x.get('validado') and so_orgao(x) and (membros_governo(x) or entidades(x)):
+        exps = []
     if exps:   # expressões de pesquisa definidas (pelo Amália ou pela revisão humana): muito mais precisas
         rx = re.compile(r'\b(' + '|'.join(re.escape(e) for e in exps) + r')\b')
         res = [a for a in arts if rx.search(a['_t'])]
