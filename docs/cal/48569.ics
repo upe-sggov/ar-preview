@@ -6,20 +6,26 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48569@ar-preview
-DTSTAMP:20261101T212827Z
+DTSTAMP:20261101T213924Z
 DTSTART:20261103T150000Z
 DTEND:20261103T170000Z
 SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
  s e Garantias
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 109 · Plenário\nGo
- verno: Ministro da Presidência\nSíntese: Audição no âmbito da apreci
- ação na especialidade da Proposta de Lei 110/XVI/2.ª – Orçamento do
-  Estado para 2027 \, nos termos conjugados do…\nUnidades DSSD: DACDP\, 
- DAPL\, Transversal\, UPE\nPágina na AR: https://www.parlamento.pt/sites/
- com/XVIILeg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando hou
- ver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.
- io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+LOCATION:Assembleia da República · conjunta com Comissão de Cultura\, C
+ omunicação\, Juventude e Desporto e Comissão de Orçamento\, Finanças
+  e Administração Pública
+DESCRIPTION:Comissões Parlamentares · Reunião n.º 109 · Plenário · 
+ conjunta com Comissão de Cultura\, Comunicação\, Juventude e Desporto 
+ e Comissão de Orçamento\, Finanças e Administração Pública\nGoverno
+ : Ministro da Presidência\, António Leitão Amaro · Secretário de Est
+ ado Adjunto e da Presidência e Imigração\, Rui Armindo Freitas e mais 
+ 2 membros do Governo\nSíntese: Audição no âmbito da apreciação na e
+ specialidade da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado par
+ a 2027 \, nos termos conjugados do…\nUnidades DSSD: DACDP\, DAPL\, Tran
+ sversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACD
+ LG/Paginas/default.aspx\nEmissões em direto (quando houver): https://can
+ al.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nH
+ ora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT

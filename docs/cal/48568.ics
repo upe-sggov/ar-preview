@@ -6,20 +6,24 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48568@ar-preview
-DTSTAMP:20261101T212827Z
+DTSTAMP:20261101T213924Z
 DTSTART:20261104T140000Z
 DTEND:20261104T160000Z
 SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
  s e Garantias
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 110 · Plenário\nGo
- verno: Ministra da Justiça\nSíntese: Audição no âmbito da apreciaç
- ão na especialidade da Proposta de Lei 110/XVI/2.ª – Orçamento do Es
- tado para 2027 \, nos termos conjugados do…\nUnidades DSSD: DACDP\, DAP
- L\, Transversal\, UPE\nPágina na AR: https://www.parlamento.pt/sites/com
- /XVIILeg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver
- ): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/
- ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
+ , Finanças e Administração Pública
+DESCRIPTION:Comissões Parlamentares · Reunião n.º 110 · Plenário · 
+ conjunta com Comissão de Orçamento\, Finanças e Administração Públi
+ ca\nGoverno: Ministra da Justiça\, Rita Alarcão Júdice · Secretário 
+ de Estado Adjunto e da Justiça\, Gonçalo da Cunha Pires e mais 1 membro
+  do Governo\nSíntese: Audição no âmbito da apreciação na especialid
+ ade da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 \,
+  nos termos conjugados do…\nUnidades DSSD: DACDP\, DAPL\, Transversal\n
+ Página na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Pagina
+ s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
+ ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
+ m indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT

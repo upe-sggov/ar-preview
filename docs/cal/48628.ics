@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48628@ar-preview
-DTSTAMP:20261101T212827Z
+DTSTAMP:20261101T213924Z
 DTSTART:20261105T180000Z
 DTEND:20261105T200000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -17,11 +17,11 @@ DESCRIPTION:Comissões Parlamentares · Reunião n.º 142 · Plenário\nGo
  rio de Estado das Pescas e do Mar\, Salvador Malheiro e mais 2 membros do
   Governo\nSíntese: Audição no âmbito da apreciação\, na especialida
  de\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado
-  para 2027\nUnidades DSSD: DACDP\, DAPL\, Transversal\, UPE\nPágina na A
- R: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR 
- Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\
- ; a agenda da AR pode mudar.
+  para 2027\nUnidades DSSD: DACDP\, DAPL\, Transversal\nPágina na AR: htt
+ ps://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmi
+ ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
+ w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
+ enda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-01T21:26",
+ "recolha": "2026-11-01T21:38",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -21,15 +21,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -50,15 +48,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -78,14 +74,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -105,14 +100,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -133,15 +127,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -162,15 +154,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -191,15 +181,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -220,15 +208,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -249,15 +235,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -277,14 +261,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -304,14 +287,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -332,10 +314,10 @@
    "uo": [
     "DCIRI"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«união europeia» (DCIRI)",
-    "«acordo-quadro» (DCIRI)"
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -356,15 +338,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de cliente habitual (Presidência) → Imediato"
    ],
    "validado": false
   },
@@ -385,15 +365,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de cliente habitual (Presidência) → Imediato"
    ],
    "validado": false
   },
@@ -414,10 +392,11 @@
    "uo": [
     "DCIRI"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«negócios estrangeiros» (DCIRI)",
-    "«comunidades portuguesas» (DCIRI)"
+    "«comunidades portuguesas» (DCIRI)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -438,16 +417,14 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Imediato",
    "criterio": [
     "«conselho de ministros» (DACDP)",
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de cliente habitual (Presidência) → Imediato"
    ],
    "validado": false
   },
@@ -468,10 +445,11 @@
    "uo": [
     "DCIRI"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«negócios estrangeiros» (DCIRI)",
-    "«comunidades portuguesas» (DCIRI)"
+    "«comunidades portuguesas» (DCIRI)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -491,14 +469,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -518,14 +495,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -545,14 +521,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -572,14 +547,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -600,15 +574,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -629,15 +601,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -658,15 +628,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -687,15 +655,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -715,14 +681,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -742,14 +707,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -769,14 +733,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -796,7 +759,9 @@
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
-   "criterio": [],
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
    "validado": false
   },
   {
@@ -815,14 +780,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -842,14 +806,13 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -870,15 +833,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -899,15 +860,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -928,15 +887,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -957,15 +914,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -986,15 +941,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
    "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição da ministra» (Governo na AR → DACDP)"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -1015,15 +968,13 @@
    "uo": [
     "DACDP",
     "DAPL",
-    "Transversal",
-    "UPE"
+    "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
-    "«audição do ministro» (Governo na AR → DACDP)"
+    "presença de cliente habitual (Finanças) → Imediato"
    ],
    "validado": false
   }
@@ -1044,6 +995,7 @@
    "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n Debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
    "ligacao": "",
    "uo": [
+    "DACDP",
     "DAPL",
     "Transversal",
     "UPE"
@@ -1051,8 +1003,9 @@
    "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE) → Imediato",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (UPE)",
+    "«orçamento do estado» (transversal)",
+    "Plenário: «orçamento do estado» → Imediato"
    ],
    "validado": false
   },
@@ -1071,6 +1024,7 @@
    "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
    "ligacao": "",
    "uo": [
+    "DACDP",
     "DAPL",
     "Transversal",
     "UPE"
@@ -1078,8 +1032,9 @@
    "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE) → Imediato",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (UPE)",
+    "«orçamento do estado» (transversal)",
+    "Plenário: «orçamento do estado» → Imediato"
    ],
    "validado": false
   },
@@ -1098,6 +1053,7 @@
    "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
    "ligacao": "",
    "uo": [
+    "DACDP",
     "DAPL",
     "Transversal",
     "UPE"
@@ -1105,8 +1061,9 @@
    "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE) → Imediato",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (UPE)",
+    "«orçamento do estado» (transversal)",
+    "Plenário: «orçamento do estado» → Imediato"
    ],
    "validado": false
   },
@@ -1125,6 +1082,7 @@
    "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
    "ligacao": "",
    "uo": [
+    "DACDP",
     "DAPL",
     "Transversal",
     "UPE"
@@ -1132,8 +1090,9 @@
    "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE) → Imediato",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (UPE)",
+    "«orçamento do estado» (transversal)",
+    "Plenário: «orçamento do estado» → Imediato"
    ],
    "validado": false
   },
@@ -1152,6 +1111,7 @@
    "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
    "ligacao": "",
    "uo": [
+    "DACDP",
     "DAPL",
     "Transversal",
     "UPE"
@@ -1159,8 +1119,9 @@
    "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE) → Imediato",
-    "«orçamento do estado» (transversal)"
+    "«orçamento do estado» (UPE)",
+    "«orçamento do estado» (transversal)",
+    "Plenário: «orçamento do estado» → Imediato"
    ],
    "validado": false
   },
@@ -1180,7 +1141,9 @@
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
-   "criterio": [],
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
    "validado": false
   },
   {
@@ -1199,7 +1162,9 @@
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
-   "criterio": [],
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
    "validado": false
   }
  ],
