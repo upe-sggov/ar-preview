@@ -342,6 +342,9 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   .c-foot .ver{background:none!important;color:var(--azul)!important;padding:0!important;text-decoration:underline!important;font-weight:500}
   .c-foot .ver .ic{display:none} .imp-sep{font-size:14px;font-weight:600;color:var(--azul);border-bottom:2px solid var(--azul);padding-bottom:4px;margin:0 0 10px}
   body.sel-semana #h-edicao, body.sel-semana #aviso-edicao{display:none!important} }
+
+.leg i.anel{background:transparent!important;border:2px solid #fff;box-sizing:border-box}
+.kpis{grid-template-columns:repeat(auto-fit,minmax(200px,max-content))}
 </style></head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -379,7 +382,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     <p class="lead" id="hero-lead"></p>
     <div class="hero-kpis" id="hero-kpis"></div>
     <button class="cta" id="hero-cta"><svg class="ic"><use href="#i-list"/></svg>Entrar na agenda</button>
-    <div class="leg"><span><i class="ime"></i>imediato, com varrimento</span><span><i class="vig"></i>vigilância</span><span><i></i>registo</span><span>cada lugar é uma matéria · quanto mais perto da Mesa, mais pertinente: anel interior imediato, meio vigilância, exterior registo · da esquerda para a direita, da manhã para a tarde · clique num lugar para ver a matéria</span></div>
+    <div class="leg"><span><i class="ime"></i>imediato</span><span><i class="vig"></i>vigilância</span><span><i></i>registo</span><span><i class="anel"></i>com ficha de varrimento</span><span>cada lugar é uma matéria · quanto mais perto da Mesa, mais pertinente: anel interior imediato, meio vigilância, exterior registo · da esquerda para a direita, da manhã para a tarde · clique num lugar para ver a matéria</span></div>
   </div>
   <div class="hemi"><svg id="hemi" viewBox="0 0 800 430" role="img" aria-label="AR Preview — hemiciclo da semana: uma matéria por lugar, agrupadas por dia"></svg></div>
 </div></section>
@@ -606,7 +609,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     render(); $('.cal-wrap').scrollIntoView({behavior:'smooth', block:'nearest'});
   });
   const limMin = new Date([...datasComAgenda].sort()[0]+'T00:00:00'), limMax = new Date([...datasComAgenda, ...Object.keys(calAR)].sort().pop()+'T00:00:00');
-  const visiveis = x => st.pert.has(x.pertinencia) && (!st.uo || (st.uo==='Transversal'?x.uo.includes('Transversal'):x.uo.includes(st.uo))) && (!st.q || [x.tema,x.interveniente,x.resumo,x.tipoLabel,x.ordemTrabalhos].join(' ').toLowerCase().includes(st.q));
+  const visiveis = x => (!st.novidades || x.novo || x.alterado) && (!st.semUO || !(x.uo||[]).length) && st.pert.has(x.pertinencia) && (!st.uo || (st.uo==='Transversal'?x.uo.includes('Transversal'):x.uo.includes(st.uo))) && (!st.q || [x.tema,x.interveniente,x.resumo,x.tipoLabel,x.ordemTrabalhos].join(' ').toLowerCase().includes(st.q));
   function renderCal(){
     $('#cal-mes').textContent = `${MESES[calMes.getMonth()]} ${calMes.getFullYear()}`;
     $('#cal-ant').disabled = new Date(calMes.getFullYear(), calMes.getMonth(), 0) < new Date(limMin.getFullYear(), limMin.getMonth(), 1);
@@ -692,13 +695,14 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     $('#n-frente').textContent = `${fut.length} ${fut.length===1?'reunião já publicada':'reuniões já publicadas'} pela AR${soCal.length?` · ${soCal.length} dias só na calendarização`:''}${depois}`;
   }
   // KPIs
-  $('#kpis').addEventListener('click', e => { const b = e.target.closest('[data-kpi]'); if (!b) return; const k=b.dataset.kpi; if (k==='nov'){ st.novidades=!st.novidades; render(); return; } if (k==='varr'){ st.sel.clear(); st.uo=null; st.dias.clear(); st.semana=null; $('.cal-wrap').scrollIntoView({behavior:'smooth'}); } else { st.sel = new Set([k]); } syncPert(); guardar(); render(); });
+  $('#kpis').addEventListener('click', e => { const b = e.target.closest('[data-kpi]'); if (!b) return; const k=b.dataset.kpi; if (k==='nov'){ st.novidades=!st.novidades; render(); return; } if (k==='semuo'){ st.semUO=!st.semUO; render(); return; } });
 
   function passa(x){
     if (st.uo){ const ok = st.uo==='Transversal' ? x.uo.includes('Transversal') : x.uo.includes(st.uo); if(!ok) return false; }
     if (!st.pert.has(x.pertinencia)) return false;
     if (st.dias.size && !st.dias.has(x.data)) return false;
     if (st.novidades && !(x.novo || x.alterado)) return false;
+    if (st.semUO && x.uo.length) return false;
     if (st.q){ const h = [x.tema,x.interveniente,x.resumo,x.tipoLabel,x.ordemTrabalhos].join(' ').toLowerCase(); if(!h.includes(st.q)) return false; }
     return true;
   }
@@ -755,7 +759,10 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const base = C.filter(daUO);
     const n = k => base.filter(x=>x.pertinencia===k).length;
     const nNov = C.filter(x=>x.novo||x.alterado).length;
-    $('#kpis').innerHTML = `<div class="kpi var" data-kpi="varr"><b>${base.filter(ehDestaque).length}</b><span>destaques com varrimento</span></div><div class="kpi ime" data-kpi="Imediato"><b>${n('Imediato')}</b><span>imediato${st.uo?' · '+esc(st.uo):''}</span></div><div class="kpi vig" data-kpi="Vigilância"><b>${n('Vigilância')}</b><span>em vigilância</span></div><div class="kpi reg" data-kpi="Registo"><b>${n('Registo')}</b><span>registo</span></div><div class="kpi" data-kpi="varr"><b>${C.filter(x=>!x.uo.length).length}</b><span>sem unidade atribuída</span></div>${nNov?`<div class="kpi nov ${st.novidades?'on':''}" data-kpi="nov"><b>${nNov}</b><span>novas ou alteradas${D.edicao.desdeLabel?' desde '+esc(D.edicao.desdeLabel):''}</span></div>`:''}`;
+    // atalhos de filtro que não estão noutro sítio (a prioridade já está no hemiciclo e nos botões)
+    const nSemUO = C.filter(x=>!x.uo.length).length;
+    $('#kpis').innerHTML = (nNov?`<div class="kpi nov ${st.novidades?'on':''}" data-kpi="nov" title="Mostrar só estas (carregar de novo para ver tudo)"><b>${nNov}</b><span>novas ou alteradas${D.edicao.desdeLabel?' desde '+esc(D.edicao.desdeLabel):''}</span></div>`:'')
+      + (nSemUO?`<div class="kpi ${st.semUO?'on':''}" data-kpi="semuo" title="Mostrar só estas (carregar de novo para ver tudo)"><b>${nSemUO}</b><span>sem unidade atribuída</span></div>`:'');
     renderSemanas(); renderCal(); renderAgendaDia(); desenharHemi(); filtrarHemi();
     // grelhas
     const ds = C.filter(x=>ehDestaque(x) && passa(x)), ag = C.filter(x=>!ehDestaque(x) && passa(x));
@@ -960,7 +967,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   // os filtros (unidade, pertinência, pesquisa) e os dias selecionados aplicam-se também ao hemiciclo
   function filtrarHemi(){
     const svg = $('#hemi'); let n = 0, nv = 0;
-    svg.querySelectorAll('[data-seat]').forEach(g => { const x = pool.find(y => idDe(y) === g.dataset.seat); const ok = x && visiveis(x) && (!st.dias.size || st.dias.has(x.data)) && (!st.novidades || x.novo || x.alterado); g.classList.toggle('off', !ok); n++; if (ok) nv++; });
+    svg.querySelectorAll('[data-seat]').forEach(g => { const x = pool.find(y => idDe(y) === g.dataset.seat); const ok = x && visiveis(x) && (!st.dias.size || st.dias.has(x.data)) && (!st.novidades || x.novo || x.alterado) && (!st.semUO || !x.uo.length); g.classList.toggle('off', !ok); n++; if (ok) nv++; });
     svg.querySelectorAll('[data-sd]').forEach(s => s.classList.toggle('sel', st.dias.has(s.dataset.sd)));
     const f = $('#hemi-filtro'); if (f) f.textContent = nv < n ? `${nv} de ${n} matérias correspondem aos filtros` : '';
   }
@@ -1007,13 +1014,14 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
       });
     });
     const tot = todos.length, nVar = todos.filter(x=>x.varrimento).length, nIme = todos.filter(x=>x.pertinencia==='Imediato').length;
-    h += seats + labels + `<text class="centro" x="${cx}" y="${cy-44}"><tspan class="n">${tot}</tspan></text><text class="centro t" x="${cx}" y="${cy-22}">matérias na semana</text><text class="centro t" x="${cx}" y="${cy-4}">${nVar} com varrimento · ${nIme} imediatas</text><text class="centro t" id="hemi-filtro" x="${cx}" y="${cy+14}" style="fill:#FFD200"></text>`;
+    h += seats + labels + `<text class="centro" x="${cx}" y="${cy-44}"><tspan class="n">${tot}</tspan></text><text class="centro t" x="${cx}" y="${cy-22}">matérias na semana</text><text class="centro t" x="${cx}" y="${cy-4}">clique num lugar para ver a matéria</text><text class="centro t" id="hemi-filtro" x="${cx}" y="${cy+14}" style="fill:#FFD200"></text>`;
     svg.innerHTML = h;
     // texto e contadores
-    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana que vem, triado para as unidades da DSSD, com o fundo mediático preparado para as matérias imediatas.`
+    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana, com a prioridade e a unidade da DSSD de cada matéria e as notícias do Radar; as matérias Imediato e Vigilância têm ficha de varrimento.`
       : edSel ? `Arquivo · ${edSel.semana} (${nomeEd(edSel).toLowerCase()}). A semana tal como foi acompanhada na altura; a edição completa abre a partir da agenda.`
       : `Semana de ${rotSem(semSel)}. O que a Assembleia da República já publicou para esta semana, com triagem provisória; o varrimento entra na sexta-feira anterior.`;
-    const kp = [[nVar,'var','com varrimento'],[nIme,'ime','imediatas'],[todos.filter(x=>x.pertinencia==='Vigilância').length,'vig','em vigilância'],[new Set(todos.filter(x=>x.varrimento).map(x=>x.varrimento)).size,'','fichas de leitura'],[diasSem.filter(d=>datasComAgenda.has(d)).length,'','dias com agenda'],[new Set(todos.flatMap(x=>x.uo||[]).filter(u=>u!=='Transversal')).size,'','unidades servidas']];
+    const kp = [[nIme,'ime',nIme===1?'imediata':'imediatas'],[todos.filter(x=>x.pertinencia==='Vigilância').length,'vig','em vigilância'],[todos.filter(x=>x.pertinencia==='Registo').length,'','só para registo'],
+                [nVar,'var','com ficha de varrimento'],[diasSem.filter(d=>datasComAgenda.has(d)).length,'','dias com reuniões']];
     $('#hero-kpis').innerHTML = kp.map(([n,c,l])=>`<div><b class="${c}" data-n="${n}">0</b><span>${l}</span></div>`).join('');
     const reduzido = matchMedia('(prefers-reduced-motion: reduce)').matches || hemiAnimado; hemiAnimado = true;
     $('#hero-kpis').querySelectorAll('b').forEach(b => { const alvo=+b.dataset.n; if (reduzido||!alvo){ b.textContent=alvo; return; } const t0=performance.now(); const f=t=>{ const p=Math.min(1,(t-t0)/900); b.textContent=Math.round(alvo*(1-Math.pow(1-p,3))); if(p<1) requestAnimationFrame(f); }; requestAnimationFrame(f); });

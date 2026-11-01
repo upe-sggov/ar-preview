@@ -187,7 +187,7 @@ if not nova_semana: ed['desdeLabel'] = extenso(d(ed['fecho']), False)
 ativos = [x for x in itens if not x.get('retirado')]
 por_rever = sum(1 for x in ativos if not x.get('validado') and x['pertinencia'] != 'Registo')
 if por_rever:
-    ed.update(estado='com triagem automática', aviso=f'{por_rever} matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números.')
+    ed.update(estado='com triagem automática', aviso=f'A prioridade e a unidade das {por_rever} matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.')
 else:
     ed.pop('estado', None); ed.pop('aviso', None)
 
