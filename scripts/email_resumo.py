@@ -31,9 +31,9 @@ def etiqueta(txt, cor, titulo=''):
 
 def etiquetas(x):
     """Etiqueta de cada unidade (ou «Transversal», que serve todas) a que a matéria se aplica."""
-    if 'Transversal' in x['uo']:
-        return etiqueta('Transversal', '#2B5683', 'todas as unidades da DSSD')
-    return ''.join(etiqueta(u, '#0E7433', nomes.get(u, '')) for u in ('DACDP', 'DAPL', 'UPE', 'DCIRI') if u in x['uo'])
+    # como na página: as unidades a que a matéria se aplica, e «Transversal» quando interessa a todas
+    t = etiqueta('Transversal', '#2B5683', 'todas as unidades da DSSD') if 'Transversal' in x['uo'] else ''
+    return t + ''.join(etiqueta(u, '#0E7433', nomes.get(u, '')) for u in ('DACDP', 'DAPL', 'UPE', 'DCIRI') if u in x['uo'])
 
 def linha(x):
     cor = '#D02117' if x['pertinencia'] == 'Imediato' else '#BE9C54'
@@ -111,7 +111,7 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <tr><td style="padding:16px 24px 12px;background:#fbfcfd;border-bottom:1px solid #e2e8f0">
     <span style="font:600 24px Arial,sans-serif;color:#0E7433">{len(todos)}</span>
     <span style="font:400 13px Arial,sans-serif;color:#5b6068">matérias para as unidades da DSSD:
-      <b style="color:#D02117">{n_ime}</b> imediatas, <b style="color:#BE9C54">{n_vig}</b> em vigilância; {len(d.get("fichas", {}))} com ficha de varrimento</span>
+      <b style="color:#D02117">{n_ime}</b> imediatas, <b style="color:#BE9C54">{n_vig}</b> em vigilância; {len({x["varrimento"] for x in todos if x.get("varrimento")})} com ficha de varrimento</span>
     {f'<div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5">{legenda}</div>' if legenda else ''}
   </td></tr>
 
