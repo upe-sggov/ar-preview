@@ -6,11 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48571@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261102T150000Z
 DTEND:20261102T170000Z
-SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
- s e Garantias
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Cultura\, C
  omunicação\, Juventude e Desporto e Comissão de Orçamento\, Finanças
   e Administração Pública

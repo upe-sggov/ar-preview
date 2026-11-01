@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 2 a 8 de novembro de 2026
 BEGIN:VEVENT
 UID:ar-48600@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261102T090000Z
 DTEND:20261102T110000Z
-SUMMARY:AR · Comissão de Infraestruturas\, Mobilidade e Habitação
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
  , Finanças e Administração Pública
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 71 · Plenário · c
@@ -29,11 +29,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48571@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261102T150000Z
 DTEND:20261102T170000Z
-SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
- s e Garantias
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Cultura\, C
  omunicação\, Juventude e Desporto e Comissão de Orçamento\, Finanças
   e Administração Pública
@@ -55,10 +54,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48595@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261103T090000Z
 DTEND:20261103T110000Z
-SUMMARY:AR · Comissão de Ambiente e Energia
+SUMMARY:AR · Orçamento do Estado para 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
  , Finanças e Administração Pública
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 61 · Plenário · c
@@ -78,11 +77,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48569@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261103T150000Z
 DTEND:20261103T170000Z
-SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
- s e Garantias
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Cultura\, C
  omunicação\, Juventude e Desporto e Comissão de Orçamento\, Finanças
   e Administração Pública
@@ -104,11 +102,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48568@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261104T140000Z
 DTEND:20261104T160000Z
-SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
- s e Garantias
+SUMMARY:AR · Orçamento do Estado para 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
  , Finanças e Administração Pública
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 110 · Plenário · 
@@ -128,10 +125,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48602@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
-SUMMARY:AR · Comissão de Educação e Ciência
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
  , Finanças e Administração Pública
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 59 · Plenário · c
@@ -150,10 +147,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48566@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261105T140000Z
 DTEND:20261105T160000Z
-SUMMARY:AR · Comissão de Defesa Nacional
+SUMMARY:AR · Orçamento da Defesa Nacional
 LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
  , Finanças e Administração Pública
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 50 · conjunta com C
@@ -172,11 +169,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48628@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261105T180000Z
 DTEND:20261105T200000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 142 · Plenário\nGo
  verno: Ministro da Agricultura e Mar\, José Manuel Fernandes · Secretá
@@ -194,10 +190,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48590@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261106T090000Z
 DTEND:20261106T110000Z
-SUMMARY:AR · Comissão de Trabalho\, Segurança Social e Inclusão
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
  , Finanças e Administração Pública
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 77 · conjunta com C
@@ -218,11 +214,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48630@ar-preview
-DTSTAMP:20261101T224828Z
+DTSTAMP:20261101T235235Z
 DTSTART:20261106T150000Z
 DTEND:20261106T170000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 144 · Plenário\nGo
  verno: Ministro de Estado e das Finanças\, Joaquim Miranda Sarmento · S
