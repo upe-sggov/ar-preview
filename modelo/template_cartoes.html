@@ -319,6 +319,22 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   .not{break-inside:avoid}
   a{text-decoration:none;color:var(--azul)}
 }
+
+.sobre{border:0;padding:0;border-radius:14px;width:min(760px,calc(100% - 32px));max-height:min(86vh,900px);background:var(--fundo);color:var(--texto,#171715);box-shadow:0 20px 60px rgba(0,0,0,.35)}
+.sobre::backdrop{background:rgba(23,23,21,.5)}
+.sobre[open]{display:flex;flex-direction:column}
+.sobre-top{display:flex;align-items:center;justify-content:space-between;padding:16px 22px;background:linear-gradient(90deg,#1a3f6f,#0E7433);color:#fff;border-bottom:3px solid #D02117}
+.sobre-top h2{margin:0;font-size:18px;color:#fff} .sobre-top .fechar{background:none;border:0;color:#fff;font-size:26px;line-height:1;cursor:pointer;padding:0 4px}
+.sobre-corpo{overflow:auto;padding:6px 22px 22px;font-size:13.5px;line-height:1.55}
+.sobre-corpo h3{font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--azul);margin:20px 0 6px}
+.sobre-corpo ul{margin:0;padding-left:18px} .sobre-corpo li{margin:4px 0} .sobre-corpo p{margin:6px 0}
+.sobre-lead{font-size:14.5px;margin-top:14px!important}
+.sobre-pert{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;margin:6px 0} .sobre-pert dt{margin:0} .sobre-pert dd{margin:0}
+.tag-p{display:inline-block;font-size:11.5px;font-weight:600;padding:2px 9px;border-radius:12px;color:#fff;white-space:nowrap}
+.tag-p.ime{background:var(--vermelho)} .tag-p.vig{background:var(--dourado)} .tag-p.reg{background:#6b6b68}
+.sobre a{color:var(--azul)}
+@media (max-width:600px){.sobre-pert{grid-template-columns:1fr}}
+@media print{.sobre{display:none!important}}
 </style></head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -344,7 +360,8 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 <div class="titulo"><h1 id="h-titulo">AR Preview</h1><p class="semana" id="h-semana"></p><p class="fecho" id="h-fecho"></p></div>
 <div class="hdr-side"><span class="badge-int">Uso interno · dirigentes DSSD</span><small id="h-edicao"></small><div class="hdr-btns"><select class="edicoes" id="h-edicoes" aria-label="Edição" hidden></select>
   <button class="hdr-btn" id="btn-tema" title="Modo escuro" aria-label="Alternar modo claro/escuro"><svg id="ic-tema" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
-  <button class="hdr-btn" id="btn-ecra" title="Ecrã inteiro" aria-label="Ecrã inteiro"><svg id="ic-ecra" viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg></button></div></div>
+  <button class="hdr-btn" id="btn-ecra" title="Ecrã inteiro" aria-label="Ecrã inteiro"><svg id="ic-ecra" viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg></button>
+  <button class="hdr-btn" id="btn-info" title="Sobre o AR Preview: o que faz, de onde vêm os dados e como classifica" aria-label="Sobre o AR Preview" aria-haspopup="dialog"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button></div></div>
 </div></header>
 
 
@@ -389,6 +406,54 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   <div id="impressao"></div>
 </main>
 
+<dialog class="sobre" id="sobre" aria-labelledby="sobre-t">
+  <div class="sobre-top"><h2 id="sobre-t">Sobre o AR Preview</h2><button class="fechar" id="sobre-x" aria-label="Fechar">×</button></div>
+  <div class="sobre-corpo">
+    <p class="sobre-lead">Agenda semanal da Assembleia da República para os dirigentes da DSSD: o que está marcado, para que unidade interessa, com que prioridade, e o que a comunicação social tem dito sobre cada matéria. Produzida pela Unidade de Pesquisa e Estatísticas (UPE).</p>
+
+    <h3>De onde vem a agenda</h3>
+    <ul>
+      <li><b>Agenda Parlamentar da AR</b> (agenda.parlamento.pt): todas as reuniões publicadas — Plenário, comissões, grupos de trabalho, audições e audiências — com a ordem de trabalhos.</li>
+      <li><b>Calendarização da AR</b> (dados abertos): dias de Plenário e de comissões previstos para os meses seguintes, mostrados em «Mais à frente» enquanto a ordem de trabalhos não é publicada.</li>
+      <li>Atualização automática <b>todos os dias às 7h07 e às 18h07</b>. De segunda a quinta trabalha a semana em curso; de sexta a domingo prepara a seguinte. Cada atualização assinala o que é novo, o que mudou e o que deixou de constar.</li>
+      <li>As audições que a AR publica em várias comissões à mesma hora aparecem numa só linha, com a indicação «conjunta com …».</li>
+    </ul>
+
+    <h3>Como se classifica a prioridade</h3>
+    <dl class="sobre-pert">
+      <dt><span class="tag-p ime">Imediato</span></dt>
+      <dd>Presença de um cliente habitual — Primeiro-Ministro, Ministro de Estado e das Finanças, Ministro da Presidência, Ministro da Economia e da Coesão Territorial, Ministro Adjunto e da Reforma do Estado, e os respetivos secretários de Estado; matérias que já tiveram varrimento próprio entregue pela UPE; debates do Governo no Plenário (Orçamento do Estado, interpelações, debates com o Primeiro-Ministro, estado da Nação, moções).</dd>
+      <dt><span class="tag-p vig">Vigilância</span></dt>
+      <dd>Presença de outros membros do Governo; comissões de inquérito; dossiers que cada unidade pediu para acompanhar.</dd>
+      <dt><span class="tag-p reg">Registo</span></dt>
+      <dd>O resto, só para conhecimento (oculto por omissão; mostra-se no filtro «Registo»).</dd>
+    </dl>
+    <p>A classificação é automática e indicativa. A revisão humana da UPE prevalece sempre. Em cada matéria, a linha «Classificação» diz que regra decidiu.</p>
+
+    <h3>Como se atribuem as etiquetas de unidade</h3>
+    <ul>
+      <li><b>DACDP</b>, <b>DAPL</b>, <b>UPE</b>, <b>DCIRI</b>: por palavras-chave de cada unidade e pelos dossiers que cada uma acompanha; a presença do Governo na AR atribui também a DACDP (coordenação política).</li>
+      <li><b>Transversal</b>: matérias que interessam a todas as unidades (Orçamento do Estado, Conta Geral do Estado, Reforma do Estado).</li>
+    </ul>
+
+    <h3>Onde se vão ler as notícias</h3>
+    <ul>
+      <li>Só no <b>Radar de Notícias por área governativa</b> da UPE: órgãos de comunicação social nacionais, notícias dos <b>últimos 60 dias</b>, pesquisadas no título e no resumo. As ligações abrem diretamente o artigo do jornal.</li>
+      <li>Em cada matéria procura-se o assunto, não o nome do órgão: nas audições, o membro do Governo ou a entidade ouvida, junto com o assunto (por exemplo, o Orçamento) ou com a pasta do ministro; nas restantes reuniões, as expressões distintivas da ordem de trabalhos; nas matérias recorrentes (Orçamento do Estado, Conta Geral do Estado, PRR…), expressões fixas.</li>
+      <li>Os números de notícias são indicativos: mostram-se os últimos 7 dias, a comparação com os 7 anteriores e o total em 60 dias. A lista completa exporta-se para Excel em cada matéria.</li>
+      <li><b>Fichas de varrimento</b>: seleção automática de notícias ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e as mais recentes), sem análise; completa nas matérias Imediato, curta nas de Vigilância.</li>
+    </ul>
+
+    <h3>Como ler o hemiciclo</h3>
+    <p>Cada lugar é uma matéria da semana. Quanto mais perto da Mesa, mais pertinente: anel interior Imediato, meio Vigilância, exterior Registo. Da esquerda para a direita, os dias da semana; dentro de cada dia, da manhã para a tarde. Clicar num lugar mostra a matéria; os filtros apagam os lugares que não correspondem.</p>
+
+    <h3>Email de segunda-feira</h3>
+    <p>Às 9h07 de segunda-feira, os dirigentes recebem a lista das matérias Imediato e Vigilância, com a unidade, o membro do Governo presente, uma síntese curta, a ligação à página da comissão na AR e a opção de as acrescentar ao calendário do Outlook. As emissões em direto, quando as há, estão no <a href="https://canal.parlamento.pt/" target="_blank" rel="noopener">Canal Parlamento</a>.</p>
+
+    <h3>Pedidos e correções</h3>
+    <p>Pedidos de varrimento, dossiers a acompanhar e correções de classificação: <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview">upe@sggoverno.gov.pt</a>.</p>
+  </div>
+</dialog>
 <div class="veu" id="veu"></div>
 <aside class="gaveta" id="gaveta" aria-hidden="true">
   <div class="g-top"><div><h2 id="g-titulo"></h2><p class="meta" id="g-meta"></p></div><button class="fechar" id="g-fechar" aria-label="Fechar"><svg class="ic"><use href="#i-x"/></svg></button></div>
@@ -464,6 +529,11 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   $('#btn-tema').addEventListener('click', () => aplicarTema(document.documentElement.dataset.tema !== 'escuro'));
   // ecrã inteiro
   const ENTRAR = '<path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/>', SAIR = '<path d="M8 3v3a2 2 0 0 1-2 2H3M21 8h-3a2 2 0 0 1-2-2V3M3 16h3a2 2 0 0 1 2 2v3M16 21v-3a2 2 0 0 1 2-2h3"/>';
+  // «i»: sobre o AR Preview
+  const dlgSobre = $('#sobre');
+  $('#btn-info').addEventListener('click', () => { if (dlgSobre.showModal) dlgSobre.showModal(); else dlgSobre.setAttribute('open', ''); });
+  $('#sobre-x').addEventListener('click', () => dlgSobre.close ? dlgSobre.close() : dlgSobre.removeAttribute('open'));
+  dlgSobre.addEventListener('click', e => { if (e.target === dlgSobre) dlgSobre.close(); });   // clicar fora fecha
   if (!document.fullscreenEnabled) $('#btn-ecra').hidden = true;
   $('#btn-ecra').addEventListener('click', () => document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen().catch(()=>{}));
   document.addEventListener('fullscreenchange', () => { const on = !!document.fullscreenElement; $('#ic-ecra').innerHTML = on ? SAIR : ENTRAR; $('#btn-ecra').title = on ? 'Sair do ecrã inteiro' : 'Ecrã inteiro'; });
