@@ -143,7 +143,7 @@ h2 .ic{color:var(--verde)} h2 small{font-weight:400;font-size:12.5px;color:var(-
 .tag{font-size:10.5px;font-weight:600;border-radius:4px;padding:1px 7px;background:var(--fundo3);color:var(--azul);border:1px solid #d9e3ec}
 .tag.transv{background:#eaf4ee;color:var(--verde);border-color:#cfe3d6} .tag.sem{background:#f3f3f1;color:var(--suave);border-color:#e3e3e0;font-weight:400}
 .c-foot{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:auto;padding-top:8px;border-top:1px dashed var(--borda)}
-.c-foot .ver{background:var(--azul);color:#fff;border:0;border-radius:6px;padding:6px 11px;font-size:12px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;font-weight:500}
+.c-foot .ver{text-decoration:none;background:var(--azul);color:#fff;border:0;border-radius:6px;padding:6px 11px;font-size:12px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;font-weight:500}
 .c-foot .ver:hover{background:var(--azul-esc)}
 .c-foot a.lig{font-size:12px;display:inline-flex;align-items:center;gap:4px}
 .c-foot .pedir{font-size:11.5px;color:var(--suave);font-style:italic}
@@ -303,7 +303,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 @media print{
   @page{size:A4;margin:11mm}
   body{background:var(--branco);font-size:10px}
-  .semanas,.ad-arq,.barra,.veu,.gaveta,.c-mais,.c-foot .ver,.kpi,.cal-top button,.cal-leg .limpar,.ad .mais-ad{display:none!important}
+  .semanas,.ad-arq,.barra,.veu,.gaveta,.c-mais,.kpi,.cal-top button,.cal-leg .limpar,.ad .mais-ad{display:none!important}
   .hdr{padding:6px 0} .brand img{height:34px} .titulo h1{font-size:17px} .titulo .semana{font-size:12px}
   main{max-width:none;padding:0}
   .kpis{display:none}
@@ -336,6 +336,12 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 .sobre a{color:var(--azul)}
 @media (max-width:600px){.sobre-pert{grid-template-columns:1fr}}
 @media print{.sobre{display:none!important}}
+
+.semana-imp{display:none}
+@media print{ body.sel-semana #h-semana{display:none} body.sel-semana .semana-imp{display:block} .cd .cnt{display:none}
+  .c-foot .ver{background:none!important;color:var(--azul)!important;padding:0!important;text-decoration:underline!important;font-weight:500}
+  .c-foot .ver .ic{display:none} .imp-sep{font-size:14px;font-weight:600;color:var(--azul);border-bottom:2px solid var(--azul);padding-bottom:4px;margin:0 0 10px}
+  body.sel-semana #h-edicao, body.sel-semana #aviso-edicao{display:none!important} }
 </style></head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -358,7 +364,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 
 <header><div class="hdr">
 <div class="brand"><img src="data:image/png;base64,__LOGO__" alt="Secretaria-Geral do Governo"><div class="brand-txt"><strong>SECRETARIA-GERAL DO GOVERNO</strong>Suporte à Decisão</div></div>
-<div class="titulo"><h1 id="h-titulo">AR Preview</h1><p class="semana" id="h-semana"></p><p class="fecho" id="h-fecho"></p></div>
+<div class="titulo"><h1 id="h-titulo">AR Preview</h1><p class="semana" id="h-semana"></p><p class="semana semana-imp" id="h-semana-imp"></p><p class="fecho" id="h-fecho"></p></div>
 <div class="hdr-side"><span class="badge-int">Uso interno · dirigentes DSSD</span><small id="h-edicao"></small><div class="hdr-btns"><select class="edicoes" id="h-edicoes" aria-label="Edição" hidden></select>
   <button class="hdr-btn" id="btn-tema" title="Modo escuro" aria-label="Alternar modo claro/escuro"><svg id="ic-tema" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   <button class="hdr-btn" id="btn-ecra" title="Ecrã inteiro" aria-label="Ecrã inteiro"><svg id="ic-ecra" viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg></button>
@@ -648,7 +654,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
       h += `<div class="ad-dia">${NOMES[d.getDay()]}, ${d.getDate()} de ${MESES[d.getMonth()]}${datasComAgenda.has(k)?` · ${its.length}`:cal.length?' · calendarização':' · sem agenda publicada'}</div>`;
       if (!its.length) { h += cal.length && !datasComAgenda.has(k) ? cal.map(c=>`<div class="ev cal-ev"><span class="h">${esc(c.horas||'—')}</span><span class="d"></span><span class="t"><b>${esc(c.atividade)}</b><small>Calendarização da Assembleia da República · ordem de trabalhos ainda não publicada</small></span></div>`).join('') : `<div class="vazio-ad">${datasComAgenda.has(k)?'Nada corresponde aos filtros neste dia.':'Nenhuma reunião publicada para este dia à data de fecho.'}</div>`; return; }
       total += its.length;
-      h += its.map(x => x._hist ? `<a class="ev arq" href="${esc(BASE_ED+x._hist.ficheiro)}" title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('')}${x.varrimento?`<span class="vr">com varrimento</span>`:''}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></a>` : `<div class="ev" data-ir-cartao="${esc(idDe(x))}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.novo||x.alterado?'<span class="nv" title="novo ou alterado"></span>':''}${x.uo.length?x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join(''):''}${x.varrimento?`<a href="#" class="vr" data-ver="${esc(x.varrimento)}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
+      h += its.map(x => x._hist ? `<a class="ev arq" href="${esc(BASE_ED+x._hist.ficheiro+(x.varrimento?'#'+x.varrimento:''))}"${x.varrimento?` data-f="f-${esc(x.varrimento)}"`:''} title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('')}${x.varrimento?`<span class="vr">com varrimento</span>`:''}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></a>` : `<div class="ev" data-ir-cartao="${esc(idDe(x))}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.novo||x.alterado?'<span class="nv" title="novo ou alterado"></span>':''}${x.uo.length?x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join(''):''}${x.varrimento?`<a href="#f-${esc(x.varrimento)}" class="vr" data-ver="${esc(x.varrimento)}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
     });
     $('#ad-sub').textContent = `${total} ${total===1?'matéria':'matérias'}${st.pert.has('Registo')?'':' · registo oculto'}`;
     $('#ad-lista').innerHTML = h || `<div class="vazio-ad">Nada corresponde aos filtros.</div>`;
@@ -716,9 +722,9 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const uos = x.uo.length ? x.uo.map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('') : `<span class="tag sem">sem unidade atribuída</span>`;
     const res = x.resumo||''; const longo = res.length>220 || x.ordemTrabalhos;
     const ligs = arLink(x, 'lig') + (x.ligacoes||[]).filter(l => !x.id_ar || l.titulo !== 'Agenda parlamentar').map(l=>`<a class="lig" href="${esc(l.url)}" target="_blank" rel="noopener"><svg class="ic"><use href="#i-ext"/></svg>${esc(l.titulo)}</a>`).join('');
-    const foot = x._hist ? `<a class="ver" href="${esc(BASE_ED+x._hist.ficheiro)}"><svg class="ic"><use href="#i-layers"/></svg>${x.varrimento?'Ver varrimento na ':'Abrir a '}${esc(nomeEd(x._hist).toLowerCase())}</a>${ligs}`
+    const foot = x._hist ? `<a class="ver" href="${esc(BASE_ED+x._hist.ficheiro+(x.varrimento?'#'+x.varrimento:''))}"${x.varrimento?` data-f="f-${esc(x.varrimento)}"`:''}><svg class="ic"><use href="#i-layers"/></svg>${x.varrimento?'Ver varrimento na ':'Abrir a '}${esc(nomeEd(x._hist).toLowerCase())}</a>${ligs}`
       : x._fut && !x.varrimento ? `<span class="pedir">Semana seguinte · triagem provisória, sem varrimento</span>${listaBtn(x)}${ligs}`
-      : x.varrimento ? `<button class="ver" data-ver="${esc(x.varrimento)}"><svg class="ic"><use href="#i-news"/></svg>${D.fichas[x.varrimento] && D.fichas[x.varrimento].nivel==='curta' ? 'Ver varrimento (curto)' : 'Ver varrimento'}</button>${ligs}` : (x._d ? listaBtn(x)+ligs : `${listaBtn(x)}${pedirVarr(x)}${ligs}`);
+      : x.varrimento ? `<a class="ver" href="#f-${esc(x.varrimento)}" data-ver="${esc(x.varrimento)}"><svg class="ic"><use href="#i-news"/></svg>${D.fichas[x.varrimento] && D.fichas[x.varrimento].nivel==='curta' ? 'Ver varrimento (curto)' : 'Ver varrimento'}</a>${ligs}` : (x._d ? listaBtn(x)+ligs : `${listaBtn(x)}${pedirVarr(x)}${ligs}`);
     return `<article class="cartao ${cls}" data-id="${esc(idDe(x))}">
       <div class="c-top"><span class="quando"><svg class="ic"><use href="#i-cal"/></svg>${esc(x.dataLabel)}${x.hora?` · ${esc(x.hora)}`:''}</span><span class="pert ${pc}">${esc(x.pertinencia)}</span></div>
       <h3 class="c-tema">${esc(x.tema)}</h3>
@@ -740,6 +746,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   function render(){
     const C = conjunto();
     desenharFrente();
+    desenharImpressao();
     // chips
     cUO.querySelectorAll('[data-uo]').forEach(b=>b.classList.toggle('on', (b.dataset.uo||null)===st.uo));
     cP.querySelectorAll('[data-pert]').forEach(b=>b.classList.toggle('on', st.sel.has(b.dataset.pert)));
@@ -874,8 +881,38 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   document.addEventListener('keydown', e => { if (e.key==='Escape') fechar(); });
   $('#g-corpo').addEventListener('click', e => { const b = e.target.closest('[data-nat]'); if (!b || !b.classList.contains('chip')) return; b.classList.toggle('on'); const on=[...$('#g-corpo').querySelectorAll('.chip[data-nat]')].filter(c=>c.classList.contains('on')).map(c=>c.dataset.nat); $('#g-corpo').querySelectorAll('.not').forEach(n=>n.style.display=on.includes(n.dataset.nat)?'':'none'); });
   $('#g-nav').addEventListener('click', e => { const a=e.target.closest('[data-ver]'); if(a){ e.preventDefault(); abrir(a.dataset.ver);} });
-  // versão para impressão: todas as fichas em sequência
-  $('#impressao').innerHTML = ORD.map(k=>`<section><h2>${esc(D.fichas[k].titulo)}</h2><p style="font-size:10px;color:var(--suave)">${esc(D.fichas[k].meta)}</p>${fichaHTML(D.fichas[k], false)}</section>`).join('');
+  // versão para impressão: acompanha a semana mostrada (a da edição, uma semana seguinte ou uma edição anterior) e os filtros.
+  // As fichas saem pela ordem da agenda; as ligações «varrimento ›» e «Ver varrimento» levam à ficha dentro do PDF.
+  const FICHAS_ED = {};   // fichas das edições anteriores, carregadas quando se escolhe uma semana passada
+  const fichaDe = x => x.varrimento ? (x._hist ? (FICHAS_ED[x._hist.ficheiro] || {})[x.varrimento] : D.fichas[x.varrimento]) : null;
+  function carregarFichasEd(e){
+    if (!e || e.ficheiro in FICHAS_ED || !location.protocol.startsWith('http')) return;
+    FICHAS_ED[e.ficheiro] = null;
+    fetch(BASE_ED + e.ficheiro.replace(/\.html$/, '.json'), {cache:'no-store'}).then(r => r.ok ? r.json() : null)
+      .then(j => { FICHAS_ED[e.ficheiro] = (j && j.fichas) || {}; desenharImpressao(); }).catch(() => { FICHAS_ED[e.ficheiro] = {}; });
+  }
+  function desenharImpressao(){
+    const ordem = (a,b) => (a.data + String(horaNum(a.hora)).padStart(4,'0')).localeCompare(b.data + String(horaNum(b.hora)).padStart(4,'0'));
+    const vis = conjunto().filter(visiveis).filter(x => !st.dias.size || st.dias.has(x.data)).sort(ordem);
+    vis.filter(x => x._hist).forEach(x => carregarFichasEd(x._hist));
+    const vistos = new Set();
+    const secao = (k, f) => `<section id="f-${esc(k)}"><h2>${esc(f.titulo)}</h2><p style="font-size:10px;color:var(--suave)">${esc(f.meta||'')}</p>${fichaHTML(f, false)}</section>`;
+    const daSemana = vis.map(x => { const f = fichaDe(x); if (!f || vistos.has(x.varrimento)) return ''; vistos.add(x.varrimento); return secao(x.varrimento, f); }).join('');
+    let seguintes = '';
+    if (!st.semana && !st.dias.size) {   // edição em vigor: as fichas já feitas para as semanas seguintes vão no fim
+      const fs = futuros.filter(visiveis).sort(ordem).map(x => { const f = fichaDe(x); if (!f || vistos.has(x.varrimento)) return ''; vistos.add(x.varrimento); return secao(x.varrimento, f); }).join('');
+      if (fs) seguintes = fs.replace('<section ', '<section class="imp-1seg" ').replace('<h2>', '<p class="imp-sep">Semanas seguintes — fichas já preparadas</p><h2>');
+    }
+    const aCarregar = vis.some(x => x._hist && x.varrimento && FICHAS_ED[x._hist.ficheiro] === null);
+    $('#impressao').innerHTML = daSemana + seguintes + (aCarregar ? '<p class="imp-sep">A carregar as fichas desta edição…</p>' : '');
+    // cabeçalho do PDF: a semana que se está a ver
+    let rot = '';
+    if (st.semana) {
+      const ds = diasDe(st.semana), e = HIST.find(h => h.inicio === st.semana);
+      rot = `Semana de ${fmtD(ds[0])} a ${fmtD(ds[6])}` + (e ? ` · ${nomeEd(e)}` : (ds[0] > [...semanaIso].sort().pop() ? ' · reuniões já publicadas pela AR, sem triagem completa' : ''));
+    } else if (st.dias.size) rot = 'Dias: ' + [...st.dias].sort().map(fmtD).join(', ');
+    $('#h-semana-imp').textContent = rot; document.body.classList.toggle('sel-semana', !!rot);
+  }
 
 
   // ---------- página de entrada: hemiciclo
@@ -997,6 +1034,9 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     });
   })();
 
+  // ao imprimir: as ligações das semanas passadas passam a levar à ficha dentro do PDF (no ecrã abrem a edição dessa semana)
+  window.addEventListener('beforeprint', () => document.querySelectorAll('[data-f]').forEach(a => { if (document.getElementById(a.dataset.f)) { a.dataset.hrefEcra = a.getAttribute('href'); a.setAttribute('href', '#' + a.dataset.f); } }));
+  window.addEventListener('afterprint', () => document.querySelectorAll('[data-href-ecra]').forEach(a => { a.setAttribute('href', a.dataset.hrefEcra); delete a.dataset.hrefEcra; }));
   render();
   if (location.hash && D.fichas[location.hash.slice(1)]) abrir(location.hash.slice(1));
 })();

@@ -15635,131 +15635,6 @@
    "novas": 133,
    "enquadramento": "Seleção automática de 20 das 979 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (61 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
-  "2026-10-29-comiss-o-de-neg-cios-estrangeiros-e-com": {
-   "titulo": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-   "meta": "Comissões Parlamentares · Reunião n.º 48 · Plenário · quinta, 29 out, 14h00 · UO de referência: DCIRI",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-02",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/portugal-esta-a-identificar-equipamento-energetico-nao-utilizado-para-doar-a-kiev-indicou-rangel_n1763015",
-     "sintese": "Portugal está a identificar equipamento energético não utilizado para doar a Kiev indicou Rangel",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 1,
-    "encontradas": 1
-   },
-   "base": {
-    "ultima": "2026-09-02 19:25",
-    "em": "2026-10-28"
-   },
-   "novas": 1,
-   "enquadramento": "Seleção automática de 1 das 1 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (0 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-10-29-comiss-o-de-or-amento-finan-as-e-admini": {
-   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 127 · Plenário · quinta, 29 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-22",
-     "fonte": "Açoriano Oriental",
-     "url": "http://www.acorianooriental.pt/noticia/governo-dos-acores-diz-que-melhoria-de-rating-para-bbb-revela-solidez-das-financas-publicas-380515",
-     "sintese": "Governo dos Açores diz que melhoria de ‘rating’ para BBB+ revela solidez das finanças públicas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/milhares-de-trabalhadores-da-administracao-publica-manifestam-se-no-ministerio-das-financas/",
-     "sintese": "Milhares de trabalhadores da administração pública manifestam-se no Ministério das Finanças",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/cgtp-critica-governo-nao-percebe-aquilo-que-esta-a-fazer_v1769257",
-     "sintese": "CGTP critica Governo: \"Não percebe aquilo que está a fazer\"",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-03",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-contra-a-reforma-que-acaba-com-o-visto-previo/",
-     "sintese": "Presidente do Tribunal de Contas admite recorrer ao Constitucional contra a reforma que acaba com o visto prévio",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-04",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/esta-reforma-traz-alguns-riscos-para-as-financas-publicas-diz-filipa-calvao",
-     "sintese": "“Esta reforma traz alguns riscos para as finanças públicas”, diz Filipa Calvão",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/08/salarios-da-funcao-publica-sobem-23-ou-minimo-de-6052-euros-em-2027/",
-     "sintese": "Salários da Função Pública sobem 2,3% ou mínimo de 60,52 euros em 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-20",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/antigas-fabricas-da-sinaga-voltarao-a-ser-simbolo-de-desenvolvimento-381280",
-     "sintese": "Antigas fábricas da Sinaga voltarão a ser “símbolo de desenvolvimento”",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-ps-convoca-autarcas-para-confrontar-ministros-castro-almeida-e-miranda-sarmento",
-     "sintese": "OE2027. PS convoca autarcas para confrontar ministros Castro Almeida e Miranda Sarmento",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 8,
-    "encontradas": 15
-   },
-   "base": {
-    "ultima": "2026-10-22 16:05",
-    "em": "2026-10-28"
-   },
-   "novas": 3,
-   "enquadramento": "Seleção automática de 8 das 15 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
   "2026-10-29-comiss-o-de-assuntos-europeus": {
    "titulo": "Comissão de Assuntos Europeus",
    "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · quinta, 29 out, 14h00 · UO de referência: DACDP · DAPL · DCIRI · Transversal · UPE",
@@ -16337,131 +16212,6 @@
    "novas": 0,
    "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
   },
-  "2026-10-30-comiss-o-de-or-amento-finan-as-e-admini": {
-   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 30 · Sala 1 · sexta, 30 out, 14h00 · UO de referência: DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-22",
-     "fonte": "Açoriano Oriental",
-     "url": "http://www.acorianooriental.pt/noticia/governo-dos-acores-diz-que-melhoria-de-rating-para-bbb-revela-solidez-das-financas-publicas-380515",
-     "sintese": "Governo dos Açores diz que melhoria de ‘rating’ para BBB+ revela solidez das finanças públicas",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/29/igcp-reduz-em-75-processos-de-habilitacao-de-herdeiros-num-ano/",
-     "sintese": "IGCP reduz em 75% processos de habilitação de herdeiros num ano",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/milhares-de-trabalhadores-da-administracao-publica-manifestam-se-no-ministerio-das-financas/",
-     "sintese": "Milhares de trabalhadores da administração pública manifestam-se no Ministério das Finanças",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-03",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-contra-a-reforma-que-acaba-com-o-visto-previo/",
-     "sintese": "Presidente do Tribunal de Contas admite recorrer ao Constitucional contra a reforma que acaba com o visto prévio",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-04",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/esta-reforma-traz-alguns-riscos-para-as-financas-publicas-diz-filipa-calvao",
-     "sintese": "“Esta reforma traz alguns riscos para as finanças públicas”, diz Filipa Calvão",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/agendada-nova-reuniao-entre-governo-e-sindicatos-da-funcao-publica_n1769941",
-     "sintese": "Agendada nova reunião entre Governo e sindicatos da função pública",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/21/conselho-das-financas-publicas-ouvido-no-parlamento-antes-da-mudanca-de-estatutos/",
-     "sintese": "Conselho das Finanças Públicas ouvido no Parlamento antes da mudança de estatutos",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/servico-de-estatistica-dos-acores-vai-transformar-se-em-instituto-publico-381602",
-     "sintese": "Serviço de estatística dos Açores vai transformar-se em instituto público",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 8,
-    "encontradas": 17
-   },
-   "base": {
-    "ultima": "2026-10-29 16:14",
-    "em": "2026-10-29"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 8 das 17 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
-  "2026-10-30-comiss-o-de-agricultura-e-pescas": {
-   "titulo": "Comissão de Agricultura e Pescas",
-   "meta": "Comissões Parlamentares · Reunião n.º 71 · Sala 1 · sexta, 30 out, 14h00 · UO de referência: DAPL · Transversal · UPE",
-   "nivel": "curta",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-30",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/producao-de-amendoa-em-portugal-podera-aumentar-40-este-ano/",
-     "sintese": "Produção de amêndoa em Portugal poderá aumentar 40% este ano",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    }
-   ],
-   "amostra": {
-    "analisadas": 1,
-    "encontradas": 1
-   },
-   "base": {
-    "ultima": "2026-09-30 19:10",
-    "em": "2026-10-29"
-   },
-   "novas": 0,
-   "enquadramento": "Seleção automática de 1 das 1 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (0 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
-  },
   "2026-10-30-comiss-o-da-reforma-do-estado-e-poder-l": {
    "titulo": "Comissão da Reforma do Estado e Poder Local",
    "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · sexta, 30 out, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
@@ -16531,6 +16281,1056 @@
    },
    "novas": 0,
    "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-10-29-48579-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 27 · Sala 3 · quinta, 29 out, 09h00 · UO de referência: DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-10-29-48578-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 28 · Sala 3 · quinta, 29 out, 09h45 · UO de referência: DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-10-29-48577-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 125 · Plenário · quinta, 29 out, 10h30 · UO de referência: DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-15",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/oe-tribunal-de-contas-habitacao-e-psu-os-temas-quentes-da-reentre-dos-deputados",
+     "sintese": "OE, Tribunal de Contas, habitação e PSU. Os temas quentes da reentré dos deputados",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-07",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/tce-ve-divida-da-ue-a-superar-1-biliao-em-2027-e-pressionar-futuros-orcamentos",
+     "sintese": "TCE vê dívida da UE a superar 1 bilião em 2027 e pressionar futuros orçamentos",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-07",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/07/tce-recomenda-prudencia-orcamental-a-ue-perante-riscos-de-aumento-do-endividamento/",
+     "sintese": "TCE recomenda \"prudência\" orçamental à UE",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/08/quase-4-do-orcamento-da-ue-foram-gastos-incorretamente-em-2025/",
+     "sintese": "Quase 4% do orçamento da União Europeia foi gasto incorretamente em 2025",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/tce-recomenda-prudencia-orcamental-a-ue-perante-riscos-de-aumento-do-endividamento_n1770187",
+     "sintese": "TCE recomenda \"prudência\" orçamental à UE perante riscos de aumento do endividamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/13/joao-leao-alerta-para-reducao-mais-acentuada-dos-fundos-europeus-a-partir-de-2030/",
+     "sintese": "João Leão alerta para queda dos fundos europeus em Portugal",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 6,
+    "encontradas": 6
+   },
+   "base": {
+    "ultima": "2026-10-13 22:52",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 6 das 6 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-29-48564-comiss-o-de-neg-cios-estrangeiros-e-comunid": {
+   "titulo": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+   "meta": "Comissões Parlamentares · Reunião n.º 47 · Sala 7 · quinta, 29 out, 13h45 · UO de referência: DCIRI",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-10-29-48567-comiss-o-de-neg-cios-estrangeiros-e-comunid": {
+   "titulo": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+   "meta": "Comissões Parlamentares · Reunião n.º 48 · Plenário · quinta, 29 out, 14h00 · UO de referência: DCIRI",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-05",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/09/05/politica/noticia/governo-subida-rating-passo-credibilidade-confianca-pais-2187156",
+     "sintese": "Governo diz que subida de rating é “mais um passo na credibilidade e confiança” no país",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-22",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/09/22/%f0%9f%93%b9montenegro-toca-o-sino-em-wall-street-veja-aqui-o-video/",
+     "sintese": "📹 Montenegro toca o sino em Wall Street. Veja aqui o vídeo",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/marco-rubio-se-portugal-achar-que-os-f-35-sao-a-melhor-escolha-essa-sera-a-decisao-nao-seremos-nos-a-impor-isso",
+     "sintese": "Marco Rubio: \"Se Portugal achar que os F-35 são a melhor escolha, essa será a decisão. Não seremos nós a impor isso\"",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-20",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/mundo/rangel-preocupado-com-protestos-na-europa-mas-rejeita-ligacao-entre-paises_n1773043",
+     "sintese": "Rangel preocupado com protestos na Europa mas rejeita ligação entre países",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2428/",
+     "sintese": "1h. Paulo Rangel reage às acampadas em Lisboa e no Porto",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/29/oe2027-rangel-destaca-sinal-politico-do-aumento-da-verba-do-ministerio-dos-negocios-estrangeiros/",
+     "sintese": "Rangel destaca \"sinal político\" do aumento da verba do MNE",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/cultura/governo-nunca-defendera-reparacoes-historicas-as-antigas-colonias-portuguesas-diz-mne_n1775409",
+     "sintese": "Governo nunca defenderá reparações históricas às antigas colónias portuguesas diz MNE",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Jornal de Negócios",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWRpSDZNTHdqalV5bGd4ckwtOHFoRHJfWWt4TFhwQ1NiYjVVOVMtMERjQ01PZkRWRVVPQl9YQjdYU3dNclN4anJ0VFM4MnlTUnllUXRmVkJWRWVQc3pyWHhaZ0tXTFUyWUlzeVBtTEZMc19JY1dLS21oc09pZ1lXU1FIY2tXcUF5SUthTW43TVNYb3pMWHlfU3dmM3g2ODZVbHVDQjZDajh2SjNWMWQxQjJNM25UcE04al8tTDVKVjlzd1VBU0lz0gHCAUFVX3lxTE5fdjNVZ2xlemp4enpsOTZhTlpMZ3RJQUNLTEk4WWxWT0JBMC10RnJLcUlnYkNFN0QxT3U1cTUtWVRTVWJPX01aSDlYbUktZGxEQTVsRHJFQ0dCbk56d2NCdlczcF9qZ0d4Wk84blA0RzJ6eG1qSnZETFBLRVl6WmplQzAxNmdqb3o0MkZqRUVqeUpzS1AyajgyQkxQM0ItVm9wbkFNMDZlc2I0UnFocWtKZUxwMXZTMXBzbUpOT1RRN0dn?oc=5",
+     "sintese": "Portugal defende descida para 10% nos direitos aduaneiros da UE, diz Paulo Rangel",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 8,
+    "encontradas": 20
+   },
+   "base": {
+    "ultima": "2026-10-29 22:24",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 8 das 20 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-29-48576-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 126 · Plenário · quinta, 29 out, 14h00 · UO de referência: DACDP · DAPL · DCIRI · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-05",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/09/05/politica/noticia/governo-subida-rating-passo-credibilidade-confianca-pais-2187156",
+     "sintese": "Governo diz que subida de rating é “mais um passo na credibilidade e confiança” no país",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-22",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/09/22/%f0%9f%93%b9montenegro-toca-o-sino-em-wall-street-veja-aqui-o-video/",
+     "sintese": "📹 Montenegro toca o sino em Wall Street. Veja aqui o vídeo",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/marco-rubio-se-portugal-achar-que-os-f-35-sao-a-melhor-escolha-essa-sera-a-decisao-nao-seremos-nos-a-impor-isso",
+     "sintese": "Marco Rubio: \"Se Portugal achar que os F-35 são a melhor escolha, essa será a decisão. Não seremos nós a impor isso\"",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-20",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/mundo/rangel-preocupado-com-protestos-na-europa-mas-rejeita-ligacao-entre-paises_n1773043",
+     "sintese": "Rangel preocupado com protestos na Europa mas rejeita ligação entre países",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2428/",
+     "sintese": "1h. Paulo Rangel reage às acampadas em Lisboa e no Porto",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/29/oe2027-rangel-destaca-sinal-politico-do-aumento-da-verba-do-ministerio-dos-negocios-estrangeiros/",
+     "sintese": "Rangel destaca \"sinal político\" do aumento da verba do MNE",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/cultura/governo-nunca-defendera-reparacoes-historicas-as-antigas-colonias-portuguesas-diz-mne_n1775409",
+     "sintese": "Governo nunca defenderá reparações históricas às antigas colónias portuguesas diz MNE",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Jornal de Negócios",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWRpSDZNTHdqalV5bGd4ckwtOHFoRHJfWWt4TFhwQ1NiYjVVOVMtMERjQ01PZkRWRVVPQl9YQjdYU3dNclN4anJ0VFM4MnlTUnllUXRmVkJWRWVQc3pyWHhaZ0tXTFUyWUlzeVBtTEZMc19JY1dLS21oc09pZ1lXU1FIY2tXcUF5SUthTW43TVNYb3pMWHlfU3dmM3g2ODZVbHVDQjZDajh2SjNWMWQxQjJNM25UcE04al8tTDVKVjlzd1VBU0lz0gHCAUFVX3lxTE5fdjNVZ2xlemp4enpsOTZhTlpMZ3RJQUNLTEk4WWxWT0JBMC10RnJLcUlnYkNFN0QxT3U1cTUtWVRTVWJPX01aSDlYbUktZGxEQTVsRHJFQ0dCbk56d2NCdlczcF9qZ0d4Wk84blA0RzJ6eG1qSnZETFBLRVl6WmplQzAxNmdqb3o0MkZqRUVqeUpzS1AyajgyQkxQM0ItVm9wbkFNMDZlc2I0UnFocWtKZUxwMXZTMXBzbUpOT1RRN0dn?oc=5",
+     "sintese": "Portugal defende descida para 10% nos direitos aduaneiros da UE, diz Paulo Rangel",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 8,
+    "encontradas": 20
+   },
+   "base": {
+    "ultima": "2026-10-29 22:24",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 8 das 20 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (2 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-29-48575-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 127 · Plenário · quinta, 29 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-02",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/09/02/ministro-da-economia-ambiciona-pib-per-capita-portugues-igual-a-media-europeia/",
+     "sintese": "Ministro da Economia ambiciona PIB per capita português igual à média europeia",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-18",
+     "fonte": "SAPO Tek",
+     "url": "https://tek.sapo.pt/noticias/negocios/artigos/governo-quer-formar-100-mil-trabalhadores-em-ia-projeto-piloto-avanca-em-leiria/",
+     "sintese": "Governo quer formar 100 mil trabalhadores em IA. Projeto-piloto avança em Leiria",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-26",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/mundo/ministro-da-economia-portugues-vai-visitar-a-venezuela-em-outubro_n1767846",
+     "sintese": "Ministro da Economia português vai visitar a Venezuela em outubro",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/castro-almeida-compromisso-do-governo-e-com-a-estabilidade-das-contas-publicas/",
+     "sintese": "Castro Almeida: “Compromisso do Governo” é com “a estabilidade das contas públicas”",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "Diário de Notícias da Madeira",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVU5mN1NxNXpEWTlhTE8yZ1pGRDhScS16WmN3bTc1am1ibFRCdjFick83cTBQNkZOeVB2MzR3NTZqU0tQc2ZJay1mZEJUbmJJTmptNk8wMTV6OWJlU3FTb2locDh2SlRwMTlxclJSTzFIb05tWmtWZ3hPRVFHOVREVmJSMzNOVEgtNnFZUGZRMDlFNE1pTjhPdlExWWFULTRmV18zTVNyWHMwOW5VVHVOa215NVJXa3FJajFRTGI4OA?oc=5",
+     "sintese": "Missão portuguesa visita Venezuela para reforçar laços económicos e comerciais",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Jornal de Negócios",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFdrX2pJWkVwWm8yQUxfWWRIdkdieUE1VjRjcnA0bTdIYkpORkJvYlV4Rng1aE1nTWFpeFl5ZENsMkFhODRPeWpCODFjZVk2cmFSeEpUX295My0xelZtdHdJMkplY1VLU0JWWDN1aWg5Uk9LQ21rZjhScnBvRWF1OWl4UWxYRUZiRUZrbG5NNUQyZmIwQjE4cXI0MUFTYmRhSmFadnNqNG4wX0tmaWFrS0M2NFRfZGJLZWdGbNIBvAFBVV95cUxQdFdrX2pJWkVwWm8yQUxfWWRIdkdieUE1VjRjcnA0bTdIYkpORkJvYlV4Rng1aE1nTWFpeFl5ZENsMkFhODRPeWpCODFjZVk2cmFSeEpUX295My0xelZtdHdJMkplY1VLU0JWWDN1aWg5Uk9LQ21rZjhScnBvRWF1OWl4UWxYRUZiRUZrbG5NNUQyZmIwQjE4cXI0MUFTYmRhSmFadnNqNG4wX0tmaWFrS0M2NFRfZGJLZWdGbA?oc=5",
+     "sintese": "Decisão da Galp é soberana e Governo cumpriu o seu papel, diz Castro Almeida",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "ECO",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTkxc0FqVUl0WWMwU0p4bmNhQWV1UFctRVBFSHhNWUVjcEVfT29VQTgyR2l2NVlGSHd4dENrUjgySUh1RHgzRDkyY0wza0Q1MnFZcGlPMmg2SF9SMDgwR21iSFRxbmJ2QWVRN1Z4WXVCMHpBYzdUczVBQ21JcEs0YWJQNXVxSVR5Qll1cVFraUxIYkE2aDJHakFCb0ttSjBPYkVN?oc=5",
+     "sintese": "“Ainda há espaço para medidas adicionais para acelerar oferta de casas”",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/ministro-da-ecocomia-visita-venezuela-para-estreitar-relacoes-politicas-e-empresariais/",
+     "sintese": "Ministro da Economia visita Venezuela para estreitar relações políticas e empresariais",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 8,
+    "encontradas": 44
+   },
+   "base": {
+    "ultima": "2026-11-01 15:22",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 8 das 44 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-30-48584-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 128 · Plenário · sexta, 30 out, 09h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "nivel": "completa",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-03",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/03/livre-pcp-e-be-acusam-chega-de-querer-folclore-com-mocao-de-censura-e-nao-esclarecimentos-do-ministro/",
+     "sintese": "Esquerda acusa Chega de querer \"folclore\" com moção",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-06",
+     "fonte": "SIC Notícias",
+     "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPVzRscmNNLUhzVENfLXlSS2kyYWhaVFJVYmFlVENBd2htSXVLaE80R2lJdHBQRVJ2T29TTU9leDdPM3JFLVk3R09LTGswdVB1X3NpYURqM1drTXhHbU82YjZkbGNON2cwNGR6R0wtTnZpN1JoX3J3REltU1JERzJKUklOdGdXWFdncXpPeVFyVlo0RmpnV0N4ZmdRblhDT3J1YjZEMVd4Q0xjRnZnRnFJVHFFS3ZIdXVzRXIxTllPLUhKR2dCdEtWelBnOVVteTlwbVF5N1FlOENBQ001NlJ5bnFaaWJUQmpkUGQ4NnBQWFc5ZFI4aURRV2RrQmRORlNfU1dMdGNWM0tMakk3TkJyZ1pYWjNvRTlqYkdfaFdNdEV4WThUMF9nMy1TTXZjSnJNU2pwMld5bmxSa0l1M3hBQnRnZTZBaEFtOTRBTUNpcE4zLURWOEtYLWZUdXNnNXZ0NTV3LTRDR3NId1pSZU93aWpmQ1lsa1VVdlNRSVFuR2pqbXJKa1BnTDh0SUZ4WkVtNU84ZVRTdUFwcGhIS1BLc0tDV0JXeGZwVmhTUGJsSDc5ZE0?oc=5",
+     "sintese": "\"Luís Neves não sabe que é ministro da Administração Interna\"",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-08",
+     "fonte": "Açoriano Oriental",
+     "url": "http://www.acorianooriental.pt/noticia/mocao-apresentada-pelo-chega-rejeitada-com-abstencao-do-ps-380222",
+     "sintese": "Moção apresentada pelo Chega rejeitada com abstenção do PS",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-08",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/andre-ventura-lamenta-rejeicao-da-mocao-de-censura-ao-governo/",
+     "sintese": "André Ventura lamenta rejeição da moção de censura ao Governo",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-16",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/governo/luis-neves/trafico-de-droga-e-a-primeira-ameaca-a-seguranca-interna-em-portugal-alerta-luis-neves/20260916/6aaad845d34e53c759c7269f",
+     "sintese": "RASI. Tráfico de droga é a \"primeira ameaça à segurança interna\" em Portugal, diz Luís Neves",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-17",
+     "fonte": "Diário de Notícias",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdXpfeGNhWWpQbGVRTGx4SHd3aHg0dTVkeWdCRzBEUE9GbDZieGMyV0FRRzdrcXI5X1BReWJObXA4YnEyY0V0OWgzZ0VEM0dkMXdVbUlWVXZnV3E5UkpIMmtjc2ljazVuWjdQRWdLbWlMTFpmaFlEbEY2TzFOb29VNGVVMndnUjBwZGtVdjA5U3ZrZEF5bm5hQ0hwRlVSdzNyd1RYSEJzX3BjOU5oMWhWbWFOWmNqV3JBNThYOU5kZWg0dUFLZWtqRUcyVjBxdGZNTWhUcUhVVTNqVndmdmc?oc=5",
+     "sintese": "Tráfico de droga é a maior ameaça à segurança interna em Portugal, alerta ministro Luís Neves no RASI 2025",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-12",
+     "fonte": "Visão",
+     "url": "https://visao.pt/atualidade/politica/2026-10-12-secretario-geral-do-mai-demitido-diz-que-exoneracao-foi-ato-de-retaliacao-e-fala-em-purga-politica/?utm_source=rss&utm_medium=rss&utm_campaign=secretario-geral-do-mai-demitido-diz-que-exoneracao-foi-ato-de-retaliacao-e-fala-em-purga-politica",
+     "sintese": "Secretário-geral do MAI demitido diz que exoneração foi “ato de retaliação” e fala em “purga política”",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "Renascença",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLURuR3cxUkR6UFBkaDZUNlBxSTZDLWpxdmtCRUdscnBNb2VHdUQ5TWFWcHVHUDhFekx1ZVRITG54bWJscEN0MnBMeDdTdGJiTDZCejhNdzRZSXpWek0zTmlzYW93OWlaYmxGejl1bWNrMDZOMEhPZTgzR0c3aVdKMzF5RkFTM2JDRF91Y0RNcFdMaVZRR205a1I1c2Q1bU9lQ3pxVEp5V2RWdXh3b0FVRE93dGx3WXNDdHZrWlFQNU5oN1Rxbk93cEptLVdsUWlBYkR1U0g2TTRsNDB0QlRzRDBuMVl0X3UtaEdlVE45WFM5d2x2RThLOVpVWQ?oc=5",
+     "sintese": "\"Temos uma balbúrdia no Ministério da Agitação Interna\": Luís Neves e Ricardo Carrilho vão ser ouvidos no Parlamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-15",
+     "fonte": "TSF",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEJSTERlaUI2SzZ4NnZubW1yMlh0N0NseGxPclNJQmxrM3pFT01ZdXlpSXRpQUxBTkRJYVR0blhXWkszVjEyaVRDT1BhUWt2MGxqVWVOWWNwTmFiYmxXU0gxS3psZmxMc1o2dDFDNFMtTlF3V1FLeHFDa01tWFZHYmo3T0FpaUI4d1RXNDBQZUVFaEU1dHdaaVpQVDEtTUlrbDNnRWJmR05Bd2QxMWpRQkN6N1BjTkIwM2NLQS16MWw0MVFUeDcxVnZMbTBrcVdIRkdmV2h0cjQ1RWFmQzl6enJVUHJpYWdN?oc=5",
+     "sintese": "Luís Neves critica agendas narcísicas na Administração Interna",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-16",
+     "fonte": "Executive Digest",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWnNaNjBvQ2dEVTlQYXoyOUpKcGczZ2R4MFNfVjJJdGJldXBvWFZsaVFvTkI4U1ZiZDh2VklVVG9hR3FXcWx4NUVac05jYnFDbEdGX19XX1NfZXAtV0ljVXFkMmRBNVJpMFRMNDdnZ1J1Nm1OdDRsbzRqS19SMWRnVE42WF9HMFJya0JlMXZYR1IzU1VkZE9Ed0dFRTVjc2tDQTJseWJvMzA5TjZGY1NicUtqUzJYdWFneThnTkE1S2w0T3g1ZnZUSm9VeE9MdEV3TGd3T0pmWkRFcW9GcWkyNHhjeFdHQnByaEE?oc=5",
+     "sintese": "Conflito no Ministério da Administração Interna chega à Justiça: Luís Neves apresenta queixa-crime contra Ricardo Carrilho",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-20",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/contrariando-luis-neves-acampamento-regressa-esta-quarta-feira-ao-rossio_e1772823",
+     "sintese": "Contrariando Luís Neves. Acampamento regressa esta quarta-feira ao Rossio",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-24",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/24/ministro-da-administracao-interna-recusa-braco-de-ferro-com-manifestantes/",
+     "sintese": "Ministro da Administração Interna recusa “braço de ferro” com manifestantes",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "Expresso",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONS1VMGVBOGZNSFYzTm4yZEdGXzZvLS1mTnF3UmZodHREcGhxdFgwRUhSVkZUVWdJMWFwc3ZvYnY3a2QxTV9LeUw2OVFSTTdKVmhoVlRlcWRXbzJSdjMwNnJhR1hYQnVPNHAxRThyc1R3ek5vUDRaa2xvNVVWT2pWUU9oY2gyNEttZE5yUnlRbnNJM1FvYnZyaktpNHRnOWY3NzdxV2pBQWZtNklrenAwc0dNZHlJcDZwaVo3QTAydHhfX3dXc28zUXplRFA2eDBBVk9uNEtDWEhWUTlRWEYwbHpfNjZHUQ?oc=5",
+     "sintese": "Comissão de inquérito a Luís Neves suspensa durante debate do Orçamento e audição a Ventura aprovada",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "ECO",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXBXbTA3ZHc0bG1PZk1wZWxOTjZUUnRtOFZGa2tuNWpVRE9weGhhX2FkZXREdVROOVZTbFhUSHJBSHNBZlp0NTZCTVFwYThETFM2WFdnckd3NEJ2cHhtUUdsTXI3MzgtVy1zTi11YjdKMVZReXUxY0NTdmdyQzVlWktpMHhYNW84NEFUaFhyWjJ2dGhuck91ZTQ0UUxyNUxKdUxxZGV3?oc=5",
+     "sintese": "CPI a mandatos de Luís Neves na PJ suspensa durante debate do Orçamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Correio da Manhã",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS29DYkRJSVNkWWFDa21mU0VIRmhkemhNZnpDTk8tcVVFSm9xd3dWLXdfOENLcU52SHUtQXlISDQwQmRHNFU0QUM2QlBPMEVBYnhrc1V1Q1dUZnlTRm04THhMV3VKWkE4QnRQb1lGSVVfSHdsNm5JelJFYjIwa0tJWHJUX0k3TVRTTFFfTkhia2plNlV3MVRPcWRmT01yZW94ellKZEFMUDZNRFh6NW9SZUpVRm5vR2NCSnoxcNIBvAFBVV95cUxPS29DYkRJSVNkWWFDa21mU0VIRmhkemhNZnpDTk8tcVVFSm9xd3dWLXdfOENLcU52SHUtQXlISDQwQmRHNFU0QUM2QlBPMEVBYnhrc1V1Q1dUZnlTRm04THhMV3VKWkE4QnRQb1lGSVVfSHdsNm5JelJFYjIwa0tJWHJUX0k3TVRTTFFfTkhia2plNlV3MVRPcWRmT01yZW94ellKZEFMUDZNRFh6NW9SZUpVRm5vR2NCSnoxcA?oc=5",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Sábado",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXBidDB0NndDR2RJZ1RUTVNzRmJ2SGV4NFBFN08taGc2Wks4elZHU1hGd2hOQWlacmtBRXgzLUdpelE1T2w2OEIxN3daSVdpc0MzeVNQTHBpNXFWSW5JUHpfY0ZwUnBqUkNuS2V0aDBsZ3hrRGQ2bTVhT3g2dElJU1Zpd2VPTl9JY1JWZmY3QnluV0pvbzFINGpuMlRRQW5VZ3ZQeElfRXlpV2I0VHZsNFFFMmhScEFheHdxeHVCQdIBugFBVV95cUxPR0ltMkZUX1NwYnlEU3RwWFpfZ1A3cmUxVk1PcEZNalhaRzBVRkxkY1hXRjRET19FZFhEZEZUYmJBZ3o0NHpYOXVlRjQ4WFIzR3QtSXZnQXl4TTlTUTJlTmJrWkR6SkEyTEpJZEdxNkxIS3FGSXBBc0w4MVB2d3BkbWt0X0htbWszZFppYXViakhFeVZIVDVJUkJSZWR4LXBRQnVZM3k3UHNyMmdaRU0ySHI4THM2TkF1NHc?oc=5",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Público",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDBvZHRKTGpZNW5jTDViMWczN3YtN3ZSMm9XbExIY2gxTXlsTnlxNmZFZ3JDb05rdGp3WFNwaG1Ca1ZZYjlHOFgwbWk1dkw5blRza2xJS3pSS1k0N1FZa0tsb2hxV3hKLU5Tclc0amRIbFVhVEQycXhJSDNfY1dhNEI3QkhucnhkNXptLW41UVZZOFFhSGc1ek1QSHJMakpWV2d2U21wOTBBMGJlWFpuekRGWldBQ0QwMkFZ?oc=5",
+     "sintese": "Mais uma saída no MAI: secretário-geral adjunto para a área eleitoral deixa o cargo",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/mai-pede-tranquilidade-na-manifestacao-deste-sabado_v1775753",
+     "sintese": "MAI pede tranquilidade na manifestação deste sábado",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/defesa-dos-manifestantes-vai-participar-criminalmente-contra-ministro-e-diretor-da-psp",
+     "sintese": "Defesa dos manifestantes vai participar criminalmente contra ministro e diretor da PSP",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/01/bombeiros-de-leiria-alertam-para-falta-de-apoio-as-corporacoes-os-bombeiros-nao-pedem-privilegios-nao-pedem-favores-pedem-justica/",
+     "sintese": "Bombeiros alertam para falta de apoio a corporações",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 159
+   },
+   "base": {
+    "ultima": "2026-11-01 14:58",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 20 das 159 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (7 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-30-48586-comiss-o-de-agricultura-e-pescas": {
+   "titulo": "Comissão de Agricultura e Pescas",
+   "meta": "Comissões Parlamentares · Reunião n.º 70 · Plenário · sexta, 30 out, 09h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "nivel": "completa",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-03",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/03/livre-pcp-e-be-acusam-chega-de-querer-folclore-com-mocao-de-censura-e-nao-esclarecimentos-do-ministro/",
+     "sintese": "Esquerda acusa Chega de querer \"folclore\" com moção",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-06",
+     "fonte": "SIC Notícias",
+     "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPVzRscmNNLUhzVENfLXlSS2kyYWhaVFJVYmFlVENBd2htSXVLaE80R2lJdHBQRVJ2T29TTU9leDdPM3JFLVk3R09LTGswdVB1X3NpYURqM1drTXhHbU82YjZkbGNON2cwNGR6R0wtTnZpN1JoX3J3REltU1JERzJKUklOdGdXWFdncXpPeVFyVlo0RmpnV0N4ZmdRblhDT3J1YjZEMVd4Q0xjRnZnRnFJVHFFS3ZIdXVzRXIxTllPLUhKR2dCdEtWelBnOVVteTlwbVF5N1FlOENBQ001NlJ5bnFaaWJUQmpkUGQ4NnBQWFc5ZFI4aURRV2RrQmRORlNfU1dMdGNWM0tMakk3TkJyZ1pYWjNvRTlqYkdfaFdNdEV4WThUMF9nMy1TTXZjSnJNU2pwMld5bmxSa0l1M3hBQnRnZTZBaEFtOTRBTUNpcE4zLURWOEtYLWZUdXNnNXZ0NTV3LTRDR3NId1pSZU93aWpmQ1lsa1VVdlNRSVFuR2pqbXJKa1BnTDh0SUZ4WkVtNU84ZVRTdUFwcGhIS1BLc0tDV0JXeGZwVmhTUGJsSDc5ZE0?oc=5",
+     "sintese": "\"Luís Neves não sabe que é ministro da Administração Interna\"",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-08",
+     "fonte": "Açoriano Oriental",
+     "url": "http://www.acorianooriental.pt/noticia/mocao-apresentada-pelo-chega-rejeitada-com-abstencao-do-ps-380222",
+     "sintese": "Moção apresentada pelo Chega rejeitada com abstenção do PS",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-08",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/andre-ventura-lamenta-rejeicao-da-mocao-de-censura-ao-governo/",
+     "sintese": "André Ventura lamenta rejeição da moção de censura ao Governo",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-16",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/governo/luis-neves/trafico-de-droga-e-a-primeira-ameaca-a-seguranca-interna-em-portugal-alerta-luis-neves/20260916/6aaad845d34e53c759c7269f",
+     "sintese": "RASI. Tráfico de droga é a \"primeira ameaça à segurança interna\" em Portugal, diz Luís Neves",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-17",
+     "fonte": "Diário de Notícias",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdXpfeGNhWWpQbGVRTGx4SHd3aHg0dTVkeWdCRzBEUE9GbDZieGMyV0FRRzdrcXI5X1BReWJObXA4YnEyY0V0OWgzZ0VEM0dkMXdVbUlWVXZnV3E5UkpIMmtjc2ljazVuWjdQRWdLbWlMTFpmaFlEbEY2TzFOb29VNGVVMndnUjBwZGtVdjA5U3ZrZEF5bm5hQ0hwRlVSdzNyd1RYSEJzX3BjOU5oMWhWbWFOWmNqV3JBNThYOU5kZWg0dUFLZWtqRUcyVjBxdGZNTWhUcUhVVTNqVndmdmc?oc=5",
+     "sintese": "Tráfico de droga é a maior ameaça à segurança interna em Portugal, alerta ministro Luís Neves no RASI 2025",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-12",
+     "fonte": "Visão",
+     "url": "https://visao.pt/atualidade/politica/2026-10-12-secretario-geral-do-mai-demitido-diz-que-exoneracao-foi-ato-de-retaliacao-e-fala-em-purga-politica/?utm_source=rss&utm_medium=rss&utm_campaign=secretario-geral-do-mai-demitido-diz-que-exoneracao-foi-ato-de-retaliacao-e-fala-em-purga-politica",
+     "sintese": "Secretário-geral do MAI demitido diz que exoneração foi “ato de retaliação” e fala em “purga política”",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "Renascença",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLURuR3cxUkR6UFBkaDZUNlBxSTZDLWpxdmtCRUdscnBNb2VHdUQ5TWFWcHVHUDhFekx1ZVRITG54bWJscEN0MnBMeDdTdGJiTDZCejhNdzRZSXpWek0zTmlzYW93OWlaYmxGejl1bWNrMDZOMEhPZTgzR0c3aVdKMzF5RkFTM2JDRF91Y0RNcFdMaVZRR205a1I1c2Q1bU9lQ3pxVEp5V2RWdXh3b0FVRE93dGx3WXNDdHZrWlFQNU5oN1Rxbk93cEptLVdsUWlBYkR1U0g2TTRsNDB0QlRzRDBuMVl0X3UtaEdlVE45WFM5d2x2RThLOVpVWQ?oc=5",
+     "sintese": "\"Temos uma balbúrdia no Ministério da Agitação Interna\": Luís Neves e Ricardo Carrilho vão ser ouvidos no Parlamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-15",
+     "fonte": "TSF",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEJSTERlaUI2SzZ4NnZubW1yMlh0N0NseGxPclNJQmxrM3pFT01ZdXlpSXRpQUxBTkRJYVR0blhXWkszVjEyaVRDT1BhUWt2MGxqVWVOWWNwTmFiYmxXU0gxS3psZmxMc1o2dDFDNFMtTlF3V1FLeHFDa01tWFZHYmo3T0FpaUI4d1RXNDBQZUVFaEU1dHdaaVpQVDEtTUlrbDNnRWJmR05Bd2QxMWpRQkN6N1BjTkIwM2NLQS16MWw0MVFUeDcxVnZMbTBrcVdIRkdmV2h0cjQ1RWFmQzl6enJVUHJpYWdN?oc=5",
+     "sintese": "Luís Neves critica agendas narcísicas na Administração Interna",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-16",
+     "fonte": "Executive Digest",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWnNaNjBvQ2dEVTlQYXoyOUpKcGczZ2R4MFNfVjJJdGJldXBvWFZsaVFvTkI4U1ZiZDh2VklVVG9hR3FXcWx4NUVac05jYnFDbEdGX19XX1NfZXAtV0ljVXFkMmRBNVJpMFRMNDdnZ1J1Nm1OdDRsbzRqS19SMWRnVE42WF9HMFJya0JlMXZYR1IzU1VkZE9Ed0dFRTVjc2tDQTJseWJvMzA5TjZGY1NicUtqUzJYdWFneThnTkE1S2w0T3g1ZnZUSm9VeE9MdEV3TGd3T0pmWkRFcW9GcWkyNHhjeFdHQnByaEE?oc=5",
+     "sintese": "Conflito no Ministério da Administração Interna chega à Justiça: Luís Neves apresenta queixa-crime contra Ricardo Carrilho",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-20",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/contrariando-luis-neves-acampamento-regressa-esta-quarta-feira-ao-rossio_e1772823",
+     "sintese": "Contrariando Luís Neves. Acampamento regressa esta quarta-feira ao Rossio",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-24",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/24/ministro-da-administracao-interna-recusa-braco-de-ferro-com-manifestantes/",
+     "sintese": "Ministro da Administração Interna recusa “braço de ferro” com manifestantes",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "Expresso",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONS1VMGVBOGZNSFYzTm4yZEdGXzZvLS1mTnF3UmZodHREcGhxdFgwRUhSVkZUVWdJMWFwc3ZvYnY3a2QxTV9LeUw2OVFSTTdKVmhoVlRlcWRXbzJSdjMwNnJhR1hYQnVPNHAxRThyc1R3ek5vUDRaa2xvNVVWT2pWUU9oY2gyNEttZE5yUnlRbnNJM1FvYnZyaktpNHRnOWY3NzdxV2pBQWZtNklrenAwc0dNZHlJcDZwaVo3QTAydHhfX3dXc28zUXplRFA2eDBBVk9uNEtDWEhWUTlRWEYwbHpfNjZHUQ?oc=5",
+     "sintese": "Comissão de inquérito a Luís Neves suspensa durante debate do Orçamento e audição a Ventura aprovada",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "ECO",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXBXbTA3ZHc0bG1PZk1wZWxOTjZUUnRtOFZGa2tuNWpVRE9weGhhX2FkZXREdVROOVZTbFhUSHJBSHNBZlp0NTZCTVFwYThETFM2WFdnckd3NEJ2cHhtUUdsTXI3MzgtVy1zTi11YjdKMVZReXUxY0NTdmdyQzVlWktpMHhYNW84NEFUaFhyWjJ2dGhuck91ZTQ0UUxyNUxKdUxxZGV3?oc=5",
+     "sintese": "CPI a mandatos de Luís Neves na PJ suspensa durante debate do Orçamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Correio da Manhã",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS29DYkRJSVNkWWFDa21mU0VIRmhkemhNZnpDTk8tcVVFSm9xd3dWLXdfOENLcU52SHUtQXlISDQwQmRHNFU0QUM2QlBPMEVBYnhrc1V1Q1dUZnlTRm04THhMV3VKWkE4QnRQb1lGSVVfSHdsNm5JelJFYjIwa0tJWHJUX0k3TVRTTFFfTkhia2plNlV3MVRPcWRmT01yZW94ellKZEFMUDZNRFh6NW9SZUpVRm5vR2NCSnoxcNIBvAFBVV95cUxPS29DYkRJSVNkWWFDa21mU0VIRmhkemhNZnpDTk8tcVVFSm9xd3dWLXdfOENLcU52SHUtQXlISDQwQmRHNFU0QUM2QlBPMEVBYnhrc1V1Q1dUZnlTRm04THhMV3VKWkE4QnRQb1lGSVVfSHdsNm5JelJFYjIwa0tJWHJUX0k3TVRTTFFfTkhia2plNlV3MVRPcWRmT01yZW94ellKZEFMUDZNRFh6NW9SZUpVRm5vR2NCSnoxcA?oc=5",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Sábado",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXBidDB0NndDR2RJZ1RUTVNzRmJ2SGV4NFBFN08taGc2Wks4elZHU1hGd2hOQWlacmtBRXgzLUdpelE1T2w2OEIxN3daSVdpc0MzeVNQTHBpNXFWSW5JUHpfY0ZwUnBqUkNuS2V0aDBsZ3hrRGQ2bTVhT3g2dElJU1Zpd2VPTl9JY1JWZmY3QnluV0pvbzFINGpuMlRRQW5VZ3ZQeElfRXlpV2I0VHZsNFFFMmhScEFheHdxeHVCQdIBugFBVV95cUxPR0ltMkZUX1NwYnlEU3RwWFpfZ1A3cmUxVk1PcEZNalhaRzBVRkxkY1hXRjRET19FZFhEZEZUYmJBZ3o0NHpYOXVlRjQ4WFIzR3QtSXZnQXl4TTlTUTJlTmJrWkR6SkEyTEpJZEdxNkxIS3FGSXBBc0w4MVB2d3BkbWt0X0htbWszZFppYXViakhFeVZIVDVJUkJSZWR4LXBRQnVZM3k3UHNyMmdaRU0ySHI4THM2TkF1NHc?oc=5",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Público",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDBvZHRKTGpZNW5jTDViMWczN3YtN3ZSMm9XbExIY2gxTXlsTnlxNmZFZ3JDb05rdGp3WFNwaG1Ca1ZZYjlHOFgwbWk1dkw5blRza2xJS3pSS1k0N1FZa0tsb2hxV3hKLU5Tclc0amRIbFVhVEQycXhJSDNfY1dhNEI3QkhucnhkNXptLW41UVZZOFFhSGc1ek1QSHJMakpWV2d2U21wOTBBMGJlWFpuekRGWldBQ0QwMkFZ?oc=5",
+     "sintese": "Mais uma saída no MAI: secretário-geral adjunto para a área eleitoral deixa o cargo",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/mai-pede-tranquilidade-na-manifestacao-deste-sabado_v1775753",
+     "sintese": "MAI pede tranquilidade na manifestação deste sábado",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/defesa-dos-manifestantes-vai-participar-criminalmente-contra-ministro-e-diretor-da-psp",
+     "sintese": "Defesa dos manifestantes vai participar criminalmente contra ministro e diretor da PSP",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/01/bombeiros-de-leiria-alertam-para-falta-de-apoio-as-corporacoes-os-bombeiros-nao-pedem-privilegios-nao-pedem-favores-pedem-justica/",
+     "sintese": "Bombeiros alertam para falta de apoio a corporações",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 159
+   },
+   "base": {
+    "ultima": "2026-11-01 14:58",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 20 das 159 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (6 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-30-48599-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 29 · Sala 1 · sexta, 30 out, 12h45 · UO de referência: DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-10-08",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/08/genericos-e-biossimilares-associacao-pede-medidas-de-apoio-ao-setor/#utm_source=rss&utm_medium=rss&utm_campaign=genericos-e-biossimilares-associacao-pede-medidas-de-apoio-ao-setor",
+     "sintese": "Genéricos e biossimilares: associação pede medidas de apoio ao setor",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/associacao-de-medicamentos-pela-equidade-em-saude-quer-aumento-de-5-para-genericos_n1770244",
+     "sintese": "Associação de Medicamentos pela Equidade em Saúde quer aumento de 5% para genéricos",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/13/alteracao-do-preco-dos-genericos-deve-ser-acompanhada-do-reforco-da-oferta-diz-associacao/",
+     "sintese": "Associação alerta sobre alterações do preço dos genéricos",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 3,
+    "encontradas": 3
+   },
+   "base": {
+    "ultima": "2026-10-13 09:46",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 3 das 3 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (3 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-30-48598-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 30 · Sala 1 · sexta, 30 out, 14h00 · UO de referência: DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-10-30-48601-comiss-o-de-agricultura-e-pescas": {
+   "titulo": "Comissão de Agricultura e Pescas",
+   "meta": "Comissões Parlamentares · Reunião n.º 71 · Sala 1 · sexta, 30 out, 14h00 · UO de referência: DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-10-30-48583-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 129 · Plenário · sexta, 30 out, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-10-30",
+     "fonte": "Executive Digest",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVG5yb2g1cDRmLV9udUpCbEgxZVRNYUhHWUN4QkVXeUVhTl9JQlI5Q00yTWgwcjdUdlpHM20tN0JMSmE2QVpTLVplSHpuME5xUHU1MWdkWkRDWm9STlBqVF9uS2x6eHVfT1luMTBPX2lUd05aRmFWbTBFTDBpQkRabEtJSWZIWWZLZnhZQnRDX1NwVU13UU9oNmJnXzF2Smw5cnJJelN4OUc0TElISUhBdExqZXNjckU?oc=5",
+     "sintese": "OE2027: Anacom atribui 172ME para cobertura 100% do território em 5G - Bernardo Correia",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/empresas/detalhe/anacom-atribui-172-milhoes-para-cobertura-100-do-territorio-em-5g",
+     "sintese": "Anacom atribui 172 milhões para cobertura 100% do território em 5G",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 2,
+    "encontradas": 2
+   },
+   "base": {
+    "ultima": "2026-10-30 22:06",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 2 das 2 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+  },
+  "2026-10-30-48582-comiss-o-de-or-amento-finan-as-e-administra": {
+   "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
+   "meta": "Comissões Parlamentares · Reunião n.º 130 · Plenário · sexta, 30 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "nivel": "curta",
+   "origem": "radar",
+   "gerado_por": "Radar de Notícias — seleção automática, sem análise",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-15",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-ana-paula-martins-lamenta-as-analises-ao-setor-da-saude-baseadas-em-percecoes_a1_1765597",
+     "sintese": "15h Ana Paula Martins lamenta as análises ao setor da saúde baseadas em perceções",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-21",
+     "fonte": "TSF",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0pZTmJIQ3FmbjJodEQtdUZCSkdPZ1dFek5VS0F2NEJldWdoYzY0cDdURE5Mb0t2S1VzTlRvLWEydjJNZWFYMmx2TlFzM3l1aTVRZTlubG5oeFc4cVVTdjJWcEV0M0x4aHFPNlRWU3h6clcwZndnVWI4clQ0ZmVyd2ZCRVo1RnczcFFuaURwOVJubWl6QlNUWG9JNWFpYlVHS0l3VmU0eVM3R0xLcHBTeTBiLU5jelk?oc=5",
+     "sintese": "Ana Paula Martins assume que reforma do Ministério da Saúde \\\"não vai agradar a muitos\\\"",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-22",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/09/22/ana-paula-martins-so-quem-nao-conhece-o-sns-diz-que-esta-morto/#utm_source=rss&utm_medium=rss&utm_campaign=ana-paula-martins-so-quem-nao-conhece-o-sns-diz-que-esta-morto",
+     "sintese": "Ana Paula Martins: “Só quem não conhece o SNS diz que está morto”",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-09-29",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/29/legislacao-nao-nos-falta-ministra-diz-que-sns-tem-mecanismos-de-controlo-para-evitar-casos-como-o-das-gemeas/",
+     "sintese": "SNS tem mecanismos de controlo para evitar caso das gémeas",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/30/sociedade/noticia/ministra-admite-desequilibrio-conta-sns-implica-planeamento-controlo-despesa-2193269",
+     "sintese": "Ministra admite que desequilíbrio da conta do SNS implica mais planeamento e controlo da despesa",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/ministra-da-saude-atribui-saldo-negativo-de-2-679-milhoes-do-sns-a-necessidades-de-financiamento",
+     "sintese": "Ministra da Saúde atribui saldo negativo de 2.679 milhões do SNS a necessidades de financiamento",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-31",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/31/a-imigracao-que-pressiona-o-sns-outra-vaga-de-ppp-e-o-recuo-nas-cirurgias-a-audicao-da-ministra-da-saude/",
+     "sintese": "Imigração, cirurgias, PPP. A audição da ministra da Saúde",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-31",
+     "fonte": "Healthnews",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc25ZcTVRZzgtRWw0Mzc4d28zT1E1YmloV2dBSUMwaG4wbEtFTXdLUDFQSFJOZml0OUZ4aDRKVXRpWC15UVJxN3gxRzV4cGlWa0p6VkpaaGhNSmpuNk5LYlc2VFBxVjdUN016bXlaazBmOHZRMG1qTWNLX0w3VzhQTzBEbllsZmVuTmRIUU9YZXZxR0V4?oc=5",
+     "sintese": "Ana Paula Martins defende privados como parceiros do SNS",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    }
+   ],
+   "amostra": {
+    "analisadas": 8,
+    "encontradas": 30
+   },
+   "base": {
+    "ultima": "2026-10-31 14:36",
+    "em": "2026-11-01"
+   },
+   "novas": 0,
+   "enquadramento": "Seleção automática de 8 das 30 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (1 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   }
  },
  "destaques": [
@@ -27532,7 +28332,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-29-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-29-48579-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Grupo de Trabalho - Parlamento dos Jovens",
@@ -27764,7 +28564,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-29-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-29-48578-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -27933,7 +28733,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-29-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-29-48577-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Grupo de Trabalho - Parlamento dos Jovens",
@@ -28036,7 +28836,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-29-comiss-o-de-neg-cios-estrangeiros-e-com"
+   "varrimento": "2026-10-29-48564-comiss-o-de-neg-cios-estrangeiros-e-comunid"
   },
   {
    "tema": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
@@ -28106,7 +28906,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-29-comiss-o-de-neg-cios-estrangeiros-e-com"
+   "varrimento": "2026-10-29-48567-comiss-o-de-neg-cios-estrangeiros-e-comunid"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -28281,7 +29081,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-29-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-29-48576-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão de Assuntos Europeus",
@@ -29338,7 +30138,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-29-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-29-48575-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão de Agricultura e Pescas",
@@ -29783,7 +30583,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-30-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-30-48584-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão de Agricultura e Pescas",
@@ -29888,7 +30688,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-30-comiss-o-de-agricultura-e-pescas"
+   "varrimento": "2026-10-30-48586-comiss-o-de-agricultura-e-pescas"
   },
   {
    "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
@@ -30223,7 +31023,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-30-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-30-48599-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -30392,7 +31192,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-30-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-30-48598-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão de Agricultura e Pescas",
@@ -30453,7 +31253,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-30-comiss-o-de-agricultura-e-pescas"
+   "varrimento": "2026-10-30-48601-comiss-o-de-agricultura-e-pescas"
   },
   {
    "tema": "Grupo de Trabalho - Júri do Prémio Mário Soares 2026",
@@ -30650,7 +31450,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-30-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-30-48583-comiss-o-de-or-amento-finan-as-e-administra"
   },
   {
    "tema": "Comissão da Reforma do Estado e Poder Local",
@@ -30951,7 +31751,7 @@
      ]
     ]
    },
-   "varrimento": "2026-10-30-comiss-o-de-or-amento-finan-as-e-admini"
+   "varrimento": "2026-10-30-48582-comiss-o-de-or-amento-finan-as-e-administra"
   }
  ]
 }

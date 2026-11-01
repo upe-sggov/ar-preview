@@ -26,7 +26,7 @@ Os «Pontos de atenção» (verificação de números na fonte primária) NÃO s
 Uso: python scripts/amalia_varrimento.py [--verificar] [--local pasta_do_radar]
   --verificar: só diz se há trabalho (código 0) ou não (código 1), sem carregar o modelo."""
 import json, pathlib, re, sys, datetime, math, collections
-from cobertura import corpus, procurar, norm
+from cobertura import corpus, procurar, norm, registar_nomes
 
 MAXN = {'completa': 20, 'curta': 8}
 ROT = {'critica': 'Crítica / muito relevante', 'relevante': 'Muito relevante', 'positivo': 'Contextual / positivo', 'contexto': 'Contextual'}
@@ -162,6 +162,7 @@ if __name__ == '__main__':
         print('ficha manual retirada:', k)
     # arrumação das fichas automáticas (as revistas por pessoas nunca se tocam):
     todos_ = d['destaques'] + d['agenda'] + d.get('futuro', [])
+    registar_nomes(todos_)   # nomes dos ministros publicados noutras reuniões da semana (pesquisa das notícias)
     auto = lambda k: k in d['fichas'] and not d['fichas'][k].get('revista_por')
     por_ficha = {}
     for x in todos_:

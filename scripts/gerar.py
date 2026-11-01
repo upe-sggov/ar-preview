@@ -25,7 +25,7 @@ for f in sorted(pasta.glob('*.json')) if pasta.exists() else []:
         i = {k: x.get(k) for k in CAMPOS}; i['uo'] = i['uo'] or []
         i['resumo'] = (x.get('resumo') or '')[:300]
         i['ligacoes'] = [l for l in (x.get('ligacoes') or []) if isinstance(l, dict)][:3]
-        i['varrimento'] = bool(x.get('varrimento')); itens.append(i)
+        i['varrimento'] = x.get('varrimento') or ''; itens.append(i)   # nome da ficha (para abrir e imprimir a ficha da edição)
     hist.append({'numero': ed.get('numero', 0), 'estado': ed.get('estado', ''), 'semana': ed.get('semana', ''), 'inicio': ed['inicio'],
                  'fim': ed.get('fim', ed['inicio']), 'ficheiro': f.with_suffix('.html').name, 'itens': itens})
 d['historico'] = sorted(hist, key=lambda e: e['inicio'])
