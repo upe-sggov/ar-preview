@@ -5,7 +5,8 @@
 Níveis:
   Imediato                              → ficha completa: até 20 notícias com síntese, impacto e natureza + enquadramento;
   Vigilância                            → ficha curta: até 8 notícias com síntese e natureza + enquadramento de duas frases;
-  Vigilância com cobertura «a subir»    → passa a ficha completa;
+  Vigilância com cobertura «a subir»    → passa a ficha completa (3 ou mais notícias na última semana e mais do que na anterior);
+                                          uma ficha completa não volta a curta (não se perde o que já foi reunido);
   Registo                               → sem ficha (fica a contagem e a lista completa, calculadas por cobertura.py).
 
 Amostra escolhida ao longo dos 60 dias, e não só as mais recentes: cerca de 40 % da última semana e o resto repartido
@@ -15,6 +16,7 @@ o assunto no título e pela variedade de órgãos de comunicação social.
 Quando se (re)faz uma ficha:
   * matéria sem ficha;
   * ficha sem notícias, quando entretanto há notícias;
+  * ficha com muito menos notícias do que cabem (menos de 3/4 do máximo do nível ou do total encontrado) — ex.: feita antes de a pesquisa encontrar as notícias;
   * ficha curta de uma matéria que passou a pedir ficha completa;
   * até à segunda-feira da semana da matéria (inclusive), quando saíram notícias novas desde a ficha
     (3 ou mais; ou 1 ou mais se a ficha ainda tem menos notícias do que o máximo).
@@ -52,6 +54,9 @@ def motivo(x, f):
     if SEM_IA and f.get('origem') == 'amalia': return None                             # sem modelo, não se estraga a análise feita
     if not SEM_IA and f.get('origem') == 'radar': return 'acrescentar a análise do Amália'
     if not f.get('fundo') and c.get('n', 0) > 0: return 'havia zero notícias, agora há'
+    cabe = min(MAXN.get(f.get('nivel'), 8), c.get('n', 0))
+    if len(f.get('fundo', [])) < cabe and len(f.get('fundo', [])) < cabe * 0.75:      # ficha muito abaixo do que o Radar já tem
+        return f"ficha com {len(f.get('fundo', []))} notícias, o Radar tem {c.get('n', 0)}"
     if f.get('nivel') == 'curta' and nivel_desejado(x) == 'completa': return 'passa a ficha completa'
     if HOJE <= segunda(x['data']):
         novas = f.get('novas', 0); cheia = len(f.get('fundo', [])) >= MAXN.get(f.get('nivel'), 8)
