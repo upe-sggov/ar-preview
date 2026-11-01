@@ -27,7 +27,7 @@ Uma chamada ao modelo por ficha; grava a cada ficha, para que nada se perca se o
 Os «Pontos de atenção» (verificação de números na fonte primária) NÃO são gerados: são trabalho humano.
 Uso: python scripts/amalia_varrimento.py [--verificar] [--local pasta_do_radar]
   --verificar: só diz se há trabalho (código 0) ou não (código 1), sem carregar o modelo."""
-import json, pathlib, re, sys, datetime, math, collections
+import json, pathlib, re, sys, datetime, math, collections, os, time
 from cobertura import corpus, procurar, norm, registar_nomes
 
 MAXN = {'completa': 20, 'curta': 8}
@@ -205,7 +205,10 @@ if __name__ == '__main__':
     local = sys.argv[sys.argv.index('--local') + 1] if '--local' in sys.argv else None
     arts = corpus(local)
     feitas = {}   # a mesma matéria em vários dias (ex.: debate do Orçamento em duas sessões) partilha a ficha
+    fim_em = time.time() + 60 * float(os.environ.get('AMALIA_MINUTOS', '0') or 0) if not SEM_IA and os.environ.get('AMALIA_MINUTOS') else None
     for x, m in trabalho:
+        if fim_em and time.time() > fim_em:   # sem placa gráfica o modelo é lento: o que faltar fica para a próxima corrida (as fichas do Radar mantêm-se)
+            print(f'tempo do Amália esgotado ({os.environ.get("AMALIA_MINUTOS")} min) — {len(trabalho)} fichas pendentes passam para a próxima atualização'); break
         assunto = tuple(sorted(x.get('expressoes') or x.get('expressoes_auto') or [])) or None
         if assunto and assunto in feitas and x['pertinencia'] == feitas[assunto][1]:
             x['varrimento'] = feitas[assunto][0]; print('ficha partilhada ·', x['tema'][:60]); continue

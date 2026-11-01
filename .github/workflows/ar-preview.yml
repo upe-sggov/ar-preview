@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SMTP_OK: ${{ secrets.SMTP_SERVER != '' && 'sim' || 'nao' }}
-      AMALIA_GGUF_URL: ${{ secrets.AMALIA_GGUF_URL }}
+      AMALIA_MINUTOS: '120'   # tempo máximo do Amália nas fichas por corrida; o que faltar fica para a seguinte
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,29 +39,37 @@ jobs:
       - name: Montar ou atualizar a edição
         id: montar
         run: python scripts/montar_edicao.py
-      - name: "Amália — triagem das matérias novas sem unidade"
+      - name: "Amália — há trabalho para o modelo?"
+        id: amalia
         run: |
-          if [ -z "$AMALIA_GGUF_URL" ]; then echo "Segredo AMALIA_GGUF_URL por criar — passo saltado"; exit 0; fi
-          if python -c "import json,sys; d=json.load(open('dados/agenda.json',encoding='utf-8')); sys.exit(0 if any(not x['uo'] and not x.get('validado') and not x.get('amalia') and not x.get('retirado') for x in d['destaques']+d['agenda']) else 1)"; then
-            pip install llama-cpp-python
-            mkdir -p modelos
-            curl -L -o modelos/amalia.gguf "$AMALIA_GGUF_URL"
-            python scripts/amalia_triagem.py
-          else echo "nada para o Amália"; fi
+          python -c "import json,sys; d=json.load(open('dados/agenda.json',encoding='utf-8')); sys.exit(0 if any((not x['uo'] or (x['pertinencia'] in ('Imediato','Vigilância') and not x.get('expressoes'))) and not x.get('validado') and not x.get('amalia') and not x.get('retirado') for x in d['destaques']+d['agenda']) else 1)" && T=sim || T=nao
+          python scripts/amalia_varrimento.py --verificar >/dev/null && V=sim || V=nao
+          echo "triagem=$T" >> $GITHUB_OUTPUT; echo "fichas=$V" >> $GITHUB_OUTPUT
+          echo "triagem: $T · fichas: $V"
+      # o Amália corre como no Radar de Notícias: pesos abertos do Hugging Face, em cache, no próprio servidor
+      - name: Cache do modelo Amália
+        if: steps.amalia.outputs.triagem == 'sim' || steps.amalia.outputs.fichas == 'sim'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: amalia-9b-q4km-v1
+      - name: Instalar o Amália (llama-cpp já compilado para processador)
+        if: steps.amalia.outputs.triagem == 'sim' || steps.amalia.outputs.fichas == 'sim'
+        run: |
+          pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+          pip install huggingface-hub
+      - name: "Amália — unidade (pelas competências do Despacho n.º 6738/2025), assunto e expressões de pesquisa"
+        if: steps.amalia.outputs.triagem == 'sim'
+        timeout-minutes: 60
+        run: python scripts/amalia_triagem.py || echo "triagem do Amália falhou; ficam as regras"
       - name: Cobertura mediática de todas as matérias (sem IA, a partir do Radar de Notícias)
         run: python scripts/cobertura.py
-      - name: "Varrimento automático a partir do Radar de Notícias (com o Amália, se estiver ativo)"
-        timeout-minutes: 300
+      - name: "Varrimento automático a partir do Radar de Notícias, com a análise do Amália"
+        timeout-minutes: 180
         run: |
-          if [ -z "$AMALIA_GGUF_URL" ]; then
-            echo "Amália por ativar (segredo AMALIA_GGUF_URL) — fichas só com as notícias do Radar, sem análise"
-            python scripts/amalia_varrimento.py --sem-ia
-          elif python scripts/amalia_varrimento.py --verificar; then
-            pip install llama-cpp-python
-            mkdir -p modelos
-            if [ ! -f modelos/amalia.gguf ]; then curl -L -o modelos/amalia.gguf "$AMALIA_GGUF_URL"; fi
-            python scripts/amalia_varrimento.py
-          else echo "fichas em dia: nenhuma matéria precisa de ficha nova ou atualizada"; fi
+          if [ "${{ steps.amalia.outputs.fichas }}" = "sim" ]; then
+            python scripts/amalia_varrimento.py || { echo "Amália falhou — fichas só com as notícias do Radar"; python scripts/amalia_varrimento.py --sem-ia; }
+          else python scripts/amalia_varrimento.py --sem-ia; fi
       - name: Ligações diretas às notícias (resolve os reencaminhamentos do Google Notícias; cache em dados/ligacoes.json)
         timeout-minutes: 25
         run: python scripts/resolver_ligacoes.py || echo "resolução de ligações falhou; ficam as do Google"

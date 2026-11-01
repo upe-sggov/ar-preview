@@ -95,7 +95,8 @@ def herdar(x, v):
     if not v: return
     for k in HERDA:
         if v.get(k) and not x.get(k): x[k] = v[k]
-    if (v.get('amalia') or v.get('validado')) and v.get('uo'): x['uo'], x['pertinencia'] = v['uo'], v['pertinencia']
+    if v.get('validado') and v.get('uo'): x['uo'], x['pertinencia'] = v['uo'], v['pertinencia']
+    elif v.get('amalia') and v.get('uo') and not x.get('uo'): x['uo'] = v['uo']      # Amália: só a unidade; a prioridade é das regras
     if v.get('amalia') and not v.get('validado'): x['tema'] = v.get('tema', x['tema'])
 if nova_semana or preliminar:
     itens = novos_itens
@@ -128,6 +129,10 @@ else:
             y = dict(a); y.pop('retirado', None)
             if not a.get('validado') and not a.get('amalia'):   # sem revisão humana nem Amália: as regras (atualizadas) voltam a classificar
                 y['uo'], y['pertinencia'], y['criterio'] = x['uo'], x['pertinencia'], x.get('criterio', [])
+            elif not a.get('validado'):   # vista pelo Amália: prioridade sempre pelas regras; unidade das regras, ou a do Amália se as regras não derem nenhuma
+                y['pertinencia'] = x['pertinencia']
+                y['uo'] = x['uo'] or a.get('uo', [])
+                y['criterio'] = x.get('criterio', []) + [c for c in a.get('criterio', []) if c.startswith('unidade pelo Amália')]
             for k in ('hora', 'interveniente', 'tipoLabel', 'ligacoes'):
                 y[k] = x[k] or a.get(k, '')
             if x.get('conjunta'): y['conjunta'], y['ids_ar'] = x['conjunta'], x.get('ids_ar', [])

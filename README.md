@@ -114,7 +114,8 @@ A agenda vem exclusivamente da Assembleia da República: não se acrescentam mat
 - **Fichas (`amalia_varrimento.py`):**
   - «Imediato»: ficha completa com até 20 notícias. «Vigilância»: ficha curta com até 8, que passa a completa quando a cobertura está a subir. As matérias «Imediato» das semanas seguintes também têm ficha com antecedência.
   - A seleção é feita ao longo dos 60 dias: cerca de 40 % da última semana e o resto repartido pelas semanas anteriores na proporção da cobertura, com preferência pelo assunto no título e pela variedade de órgãos e de dias.
-  - **Sem o Amália** (sem o segredo `AMALIA_GGUF_URL`): a ficha mostra só a seleção de notícias (data, órgão, título, ligação), sem análise.
+  - **O Amália** corre como no Radar de Notícias: pesos abertos (layerx-labs/AMALIA-9B-0626-DPO-GGUF, Apache 2.0) descarregados do Hugging Face e guardados em cache, no próprio servidor do GitHub, sem segredo nem serviço externo. Sem placa gráfica é lento: no máximo 120 minutos de fichas por atualização (`AMALIA_MINUTOS`); o que faltar fica para a seguinte, e entretanto a ficha mostra a seleção de notícias do Radar, sem análise. Se o modelo falhar, as fichas ficam só com as notícias.
+  - **Triagem pelo Amália**: atribui a unidade às matérias que as regras deixam sem unidade, pelas competências do Despacho n.º 6738/2025 (`dados/competencias_dssd.json`), e escreve o assunto e as expressões de pesquisa. A prioridade não é dele: segue sempre os critérios da UPE.
   - **Com o Amália:** a mesma seleção, com enquadramento, síntese, natureza e impacto de cada notícia; as fichas sem análise são completadas automaticamente.
   - As fichas são refeitas até à segunda-feira da semana da matéria quando há notícias novas, quando passam de curta a completa e quando uma ficha sem notícias passa a ter notícias. A mesma matéria em vários dias (por exemplo, duas sessões do mesmo debate) partilha a ficha.
   - `python scripts/amalia_varrimento.py --verificar` diz o que há para fazer, sem carregar o modelo.
@@ -136,7 +137,6 @@ Criam-se em Settings › Secrets and variables › Actions › New repository se
 | `SMTP_FROM` | já não é usado: o remetente aparece como «AR Preview», com o endereço de `SMTP_USER` |
 | `DIRIGENTES_DSSD` | destinatários do email de segunda-feira, separados por vírgulas |
 | `EMAIL_TRIAGEM` | destinatário do aviso de semana nova |
-| `AMALIA_GGUF_URL` | opcional: endereço do modelo Amália |
 
 Sem os segredos SMTP, os emails não são enviados e o registo do workflow mostra o texto que seria enviado.
 
