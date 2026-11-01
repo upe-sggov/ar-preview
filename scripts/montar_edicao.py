@@ -48,6 +48,45 @@ def base(i):
 
 novos_itens = [base(i) for i in tri['itens']]
 
+# audições conjuntas: a AR publica a mesma audição em cada comissão envolvida (ex.: Comissão de Infraestruturas e Comissão de
+# Orçamento, à mesma hora). Fica uma só linha — a da comissão setorial — com a indicação «conjunta com …».
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from sintese import membros_governo
+PRI = {'Imediato': 0, 'Vigilância': 1, 'Registo': 2}
+def quem(x):
+    ot = (x.get('ordemTrabalhos') or '').strip()
+    if not re.match(r'Audi(ção|ência)', ot): return None
+    m = membros_governo(x)
+    if m: return m[0][0].lower()
+    e = re.match(r'Audi(?:ção|ência)(?: conjunta)? d[aeo]s? (.+?)(?:,|\s+no âmbito|\s*[–-]|$)', ot)
+    return re.sub(r'\W+', ' ', e.group(1).lower()).strip()[:60] if e else None
+def juntar(lista):
+    grupos, fora = {}, []
+    for x in lista:
+        q = quem(x)
+        if q: grupos.setdefault((x['data'], x.get('hora'), q), []).append(x)
+        else: fora.append(x)
+    out, absorvidas = list(fora), set()
+    for g in grupos.values():
+        if len(g) == 1: out.append(g[0]); continue
+        g.sort(key=lambda x: 'Orçamento, Finanças' in (x.get('tema') or ''))   # a comissão setorial primeiro
+        p, outros = dict(g[0]), g[1:]
+        p['conjunta'] = [o['tema'] for o in outros]
+        p['tipoLabel'] = (p.get('tipoLabel') or '') + ' · conjunta com ' + ' e '.join(p['conjunta'])
+        linhas = (p.get('ordemTrabalhos') or '').split('\n')
+        for o in outros:
+            linhas += [l for l in (o.get('ordemTrabalhos') or '').split('\n')[1:] if l.strip() and l not in linhas]   # nomes dos membros do Governo, etc.
+            p['uo'] = sorted(set(p.get('uo', [])) | set(o.get('uo', [])))
+            if PRI.get(o.get('pertinencia'), 2) < PRI.get(p.get('pertinencia'), 2): p['pertinencia'] = o['pertinencia']
+            p['criterio'] = list(dict.fromkeys(p.get('criterio', []) + o.get('criterio', [])))
+            p.setdefault('ids_ar', [p.get('id_ar')]).append(o.get('id_ar'))
+            absorvidas.add(o['chave'])
+        p['ordemTrabalhos'] = '\n'.join(linhas)
+        out.append(p)
+    out.sort(key=lambda x: (x['data'], x.get('hora') or '99'))
+    return out, absorvidas
+novos_itens, ABSORVIDAS = juntar(novos_itens)
+
 # o que já se sabia das semanas seguintes (classificação do Amália ou da revisão humana, expressões, cobertura, ficha) não se perde:
 # passa para a nova edição quando a semana chega, e mantém-se de uma recolha para a outra
 fut_ant = {x.get('chave') or chave(x): x for x in ant.get('futuro', [])}
@@ -87,13 +126,14 @@ else:
         if a:
             vistos.add(x['chave'])
             y = dict(a); y.pop('retirado', None)
-            if not a.get('uo') and not a.get('validado') and not a.get('amalia') and x.get('uo'):   # sem unidade: as regras (atualizadas) voltam a propor
-                y['uo'], y['pertinencia'] = x['uo'], x['pertinencia']
-            if not a.get('validado') and not a.get('amalia') and y.get('uo') == x.get('uo') and y.get('pertinencia') == x.get('pertinencia'):
-                y['criterio'] = x.get('criterio', [])          # classificação vinda das regras: regista o porquê
+            if not a.get('validado') and not a.get('amalia'):   # sem revisão humana nem Amália: as regras (atualizadas) voltam a classificar
+                y['uo'], y['pertinencia'], y['criterio'] = x['uo'], x['pertinencia'], x.get('criterio', [])
             for k in ('hora', 'interveniente', 'tipoLabel', 'ligacoes'):
                 y[k] = x[k] or a.get(k, '')
-            if x['ordemTrabalhos'] and x['ordemTrabalhos'] != a.get('ordemTrabalhos'):
+            if x.get('conjunta'): y['conjunta'], y['ids_ar'] = x['conjunta'], x.get('ids_ar', [])
+            if x.get('conjunta') and not a.get('conjunta'):
+                y['ordemTrabalhos'] = x['ordemTrabalhos']        # junção de audição conjunta: não é alteração da AR
+            elif x['ordemTrabalhos'] and x['ordemTrabalhos'] != a.get('ordemTrabalhos'):
                 y['ordemTrabalhos'] = x['ordemTrabalhos']
                 if not a.get('amalia'): y['resumo'] = x['resumo']
                 y['alterado'] = hoje; n_alt += 1
@@ -103,6 +143,7 @@ else:
             x['novo'] = hoje; itens.append(x); n_novo += 1
     n_ret = 0
     for k, a in antigos.items():
+        if k in ABSORVIDAS: continue                       # passou a fazer parte de uma audição conjunta: não é retirada
         if k not in vistos and a.get('manual'):
             itens.append(a)                                  # acrescentados à mão: a AR não os publica, não se retiram
         elif k not in vistos and (a.get('data') or '9999') < hoje:
@@ -122,6 +163,7 @@ for x in itens: x.setdefault('chave', chave(x))
 fut = []
 for i in tri.get('futuro', []):
     y = base(i); herdar(y, fut_ant.get(y['chave'])); fut.append(y)
+fut, _ = juntar(fut)
 for y in fut:   # fichas das semanas seguintes acompanham a matéria
     if y.get('varrimento') and y['varrimento'] in ant.get('fichas', {}): fichas.setdefault(y['varrimento'], ant['fichas'][y['varrimento']])
 

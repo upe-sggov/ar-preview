@@ -76,5 +76,96 @@
    "debate com o primeiro-ministro",
    "membros do governo"
   ]
+ },
+ "pertinencia": {
+  "_nota": "Critérios da UPE (Ana Luísa Dias, 1 nov 2026). Imediato: presença dos clientes habituais (lista abaixo, com os respetivos secretários de Estado); matérias que já tiveram varrimento próprio entregue (dados/varrimentos_entregues.csv); debates do Governo no Plenário. Vigilância: restantes membros do Governo; dossiers acompanhados por cada unidade (dados/dossiers.csv). Registo: o resto, só para conhecimento. A revisão humana (dados/correcoes.csv) prevalece sempre.",
+  "_fonte_governo": "Composição do XXV Governo Constitucional (portugal.gov.pt, posse de 6 jun 2025), confirmada pelos nomes que a AR publica nas audições de 2–6 nov 2026. Atualizar em remodelações.",
+  "clientes": [
+   {
+    "ministerio": "Primeiro-Ministro",
+    "cargos": [
+     "Primeiro-Ministro"
+    ],
+    "nomes": [
+     "Luís Montenegro"
+    ]
+   },
+   {
+    "ministerio": "Finanças",
+    "cargos": [
+     "Ministro de Estado e das Finanças",
+     "Secretário de Estado Adjunto e do Orçamento",
+     "Secretário de Estado do Orçamento",
+     "Secretária de Estado dos Assuntos Fiscais",
+     "Secretário de Estado do Tesouro e das Finanças",
+     "Secretária de Estado da Administração Pública"
+    ],
+    "nomes": [
+     "Joaquim Miranda Sarmento",
+     "José Maria Brandão de Brito",
+     "Cláudia Reis Duarte",
+     "João Silva Lopes",
+     "Marisa Garrido"
+    ]
+   },
+   {
+    "ministerio": "Presidência",
+    "cargos": [
+     "Ministro da Presidência",
+     "Secretário de Estado Adjunto da Presidência e Imigração",
+     "Secretário de Estado Adjunto e da Presidência",
+     "Secretário de Estado da Presidência do Conselho de Ministros",
+     "Secretário de Estado da Presidência"
+    ],
+    "nomes": [
+     "António Leitão Amaro",
+     "Rui Armindo Freitas",
+     "Tiago Macieirinha",
+     "João Valle e Azevedo"
+    ]
+   },
+   {
+    "ministerio": "Economia e Coesão Territorial",
+    "cargos": [
+     "Ministro da Economia e da Coesão Territorial",
+     "Secretário de Estado da Economia",
+     "Secretário de Estado do Planeamento e Desenvolvimento Regional",
+     "Secretário de Estado da Administração Local e Ordenamento do Território",
+     "Secretário de Estado do Turismo, Comércio e Serviços"
+    ],
+    "nomes": [
+     "Manuel Castro Almeida",
+     "João Rui Ferreira",
+     "Hélder Reis",
+     "Silvério Regalado",
+     "Pedro Machado"
+    ]
+   },
+   {
+    "ministerio": "Reforma do Estado",
+    "cargos": [
+     "Ministro Adjunto e da Reforma do Estado",
+     "Secretário de Estado para a Digitalização",
+     "Secretário de Estado para a Simplificação"
+    ],
+    "nomes": [
+     "Gonçalo Saraiva Matias",
+     "Bernardo Correia",
+     "Paulo Magro da Luz"
+    ]
+   }
+  ],
+  "plenario_imediato": [
+   "orçamento do estado",
+   "interpelação ao governo",
+   "debate com o primeiro-ministro",
+   "debate quinzenal",
+   "debate preparatório do conselho europeu",
+   "estado da nação",
+   "moção de censura",
+   "moção de confiança",
+   "programa do governo",
+   "conta geral do estado"
+  ]
  }
 }

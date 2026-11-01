@@ -68,11 +68,20 @@ Secções lidas: Plenário, Comissões Parlamentares, Grupo de Trabalho, Grupo d
 
 ## Quem decide «Imediato», «Vigilância» e «Registo»
 
-Por esta ordem, e cada passo prevalece sobre o anterior:
+Critérios da UPE (novembro de 2026), aplicados automaticamente em cada atualização a todas as matérias que não foram revistas por pessoas:
 
-1. **Regras (`dados/regras_uo.json`)** — listas de termos por unidade (DACDP, DAPL, UPE, DCIRI), validadas pelos dirigentes. Um termo da lista `termos` dá **Vigilância** e atribui a unidade; um termo da lista `imediato` dá **Imediato**, mas só quando aparece no assunto principal (o tema, ou toda a ordem do dia no Plenário). Os termos `transversal` marcam a matéria para todas as unidades. A lista `governo` (audições de ministros, comissões de inquérito, interpelações) dá pelo menos Vigilância e DACDP. Sem nenhum termo, fica **Registo**.
-2. **Amália** (quando ativo) — só para as matérias que as regras deixaram sem unidade: propõe unidade, pertinência, assunto e expressões de pesquisa, com uma justificação.
-3. **Revisão humana (`dados/correcoes.csv`)** — prevalece sempre e marca a matéria como validada.
+- **Imediato**
+  - presença de um **cliente habitual**: Primeiro-Ministro, Ministro de Estado e das Finanças, Ministro da Presidência, Ministro da Economia e da Coesão Territorial, Ministro Adjunto e da Reforma do Estado, e os respetivos secretários de Estado (lista de cargos e nomes em `dados/regras_uo.json` › `pertinencia.clientes`; atualizar em remodelações);
+  - matéria que **já teve varrimento próprio entregue** (`dados/varrimentos_entregues.csv`: data;assunto;expressoes;cliente;unidade — basta que uma das expressões, separadas por `|`, apareça no tema ou na ordem de trabalhos);
+  - **debates do Governo no Plenário** (Orçamento do Estado, interpelações, debates com o Primeiro-Ministro, estado da Nação, moções…; lista em `pertinencia.plenario_imediato`).
+- **Vigilância**
+  - presença de **outros membros do Governo** (ou tempo atribuído ao Governo no Plenário), comissões de inquérito;
+  - **dossiers acompanhados** por cada unidade (`dados/dossiers.csv`: unidade;dossier;expressoes) — a matéria passa também a essa unidade.
+- **Registo** — o resto, só para conhecimento.
+
+A **unidade** vem das palavras-chave de cada unidade em `dados/regras_uo.json` (que já não mexem na pertinência), dos dossiers e da presença do Governo (DACDP). O **Amália** (quando ativo) propõe unidade e assunto para as matérias sem unidade. A **revisão humana** (`dados/correcoes.csv`) prevalece sempre e marca a matéria como validada.
+
+**Audições conjuntas** — quando a AR publica a mesma audição em duas ou três comissões à mesma hora (por exemplo a comissão setorial e a de Orçamento), fica uma só linha, a da comissão setorial, com a indicação «conjunta com …».
 
 Cada cartão mostra a linha «Classificação: …» com o termo ou a justificação que decidiu, para a revisão perceber o porquê e corrigir a regra, não só o caso.
 

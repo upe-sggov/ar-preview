@@ -44,6 +44,7 @@ def linha(x):
             'letter-spacing:.6px;text-transform:uppercase">novo</span>') if x.get('novo') else ''
     gov, sin = membro_governo(x), sintese(x)
     info = ''
+    if x.get('conjunta'): info += f'<div style="font:400 11.5px Arial,sans-serif;color:#8a9098;padding-top:2px;line-height:1.45">Audição conjunta com a {e(" e a ".join(x["conjunta"]))}</div>'
     if gov: info += f'<div style="font:400 12px Arial,sans-serif;color:#171715;padding-top:3px;line-height:1.45"><span style="color:#8a9098">Governo:</span> {e(gov)}</div>'
     if sin: info += f'<div style="font:400 12px Arial,sans-serif;color:#5b6068;padding-top:3px;line-height:1.45">{e(sin)}</div>'
     extras = []
