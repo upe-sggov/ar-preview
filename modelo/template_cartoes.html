@@ -69,6 +69,7 @@ header.compacto .titulo h1{font-size:19px} header.compacto .titulo .semana{font-
 .chip:hover{border-color:var(--azul);color:var(--azul)}
 .chip.on{background:var(--azul);border-color:var(--azul);color:#fff}
 .chip .n{font-size:11px;opacity:.75}
+.chip .pdot{width:8px;height:8px;border-radius:50%;display:inline-block} .chip.ime .pdot{background:var(--vermelho)} .chip.vig .pdot{background:var(--dourado)} .chip.reg .pdot{background:#8a8a86} .chip.on .pdot{background:#fff}
 .chip.ime.on{background:var(--vermelho);border-color:var(--vermelho)} .chip.vig.on{background:var(--dourado);border-color:var(--dourado)} .chip.reg.on{background:#6b6b68;border-color:#6b6b68}
 .sep{width:1px;height:22px;background:var(--borda)}
 .btn{border:1px solid var(--borda);background:var(--branco);border-radius:8px;padding:6px 11px;font-size:12.5px;cursor:pointer;color:var(--azul);display:inline-flex;align-items:center;gap:6px}
@@ -426,7 +427,10 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
       <dt><span class="tag-p vig">Vigilância</span></dt>
       <dd>Presença de outros membros do Governo; comissões de inquérito; dossiers que cada unidade pediu para acompanhar.</dd>
       <dt><span class="tag-p reg">Registo</span></dt>
-      <dd>O resto, só para conhecimento (oculto por omissão; mostra-se no filtro «Registo»).</dd>
+      <dd>O resto, só para conhecimento.</dd>
+    </dl>
+    <p>Por omissão veem-se as três. Carregar numa prioridade mostra só essa; carregar noutra junta-a; carregar de novo retira-a. O mesmo vale para as unidades.</p>
+    <dl class="sobre-pert" hidden>
     </dl>
     <p>A classificação é automática e indicativa. A revisão humana da UPE prevalece sempre. Em cada matéria, a linha «Classificação» diz que regra decidiu.</p>
 
@@ -507,9 +511,11 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   $('#disc').textContent = D.disclaimer; $('#metod').innerHTML = D.metodologia.map(m=>`<li>${esc(m)}</li>`).join('');
 
   // estado dos filtros
-  const st = { q:'', uo:null, pert:new Set(['Imediato','Vigilância']), dia:null, novidades:false };
-  const guardar = () => { try { localStorage.setItem('ar-preview-filtros', JSON.stringify({uo:st.uo, pert:[...st.pert]})); } catch(e){} };
-  try { const s = JSON.parse(localStorage.getItem('ar-preview-filtros')||'null'); if (s) { st.uo = s.uo; st.pert = new Set(s.pert); } } catch(e){}
+  // prioridade: st.sel = o que a pessoa escolheu (vazio = ver tudo); st.pert = o que se mostra
+  const st = { q:'', uo:null, sel:new Set(), pert:new Set(['Imediato','Vigilância','Registo']), dia:null, novidades:false };
+  const syncPert = () => { st.pert = st.sel.size ? new Set(st.sel) : new Set(['Imediato','Vigilância','Registo']); };
+  const guardar = () => { try { localStorage.setItem('ar-preview-filtros', JSON.stringify({uo:st.uo, sel:[...st.sel]})); } catch(e){} };
+  try { const s = JSON.parse(localStorage.getItem('ar-preview-filtros')||'null'); if (s) { st.uo = s.uo; if (s.sel) st.sel = new Set(s.sel); syncPert(); } } catch(e){}
 
   // chips UO
   const cUO = $('#chips-uo');
@@ -517,8 +523,8 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   cUO.addEventListener('click', e => { const b = e.target.closest('[data-uo]'); if (!b) return; st.uo = b.dataset.uo || null; guardar(); render(); });
   // chips pertinência
   const cP = $('#chips-pert');
-  cP.innerHTML = Object.keys(PERT).map(k=>`<button class="chip ${PERT[k][0]}" data-pert="${k}">${k} <span class="n" data-n="${k}"></span></button>`).join('');
-  cP.addEventListener('click', e => { const b = e.target.closest('[data-pert]'); if (!b) return; const k=b.dataset.pert; st.pert.has(k)?st.pert.delete(k):st.pert.add(k); guardar(); render(); });
+  cP.innerHTML = Object.keys(PERT).map(k=>`<button class="chip ${PERT[k][0]}" data-pert="${k}" title="Ver só «${k}»; carregar noutra prioridade junta-a; carregar de novo retira"><i class="pdot"></i>${k} <span class="n" data-n="${k}"></span></button>`).join('');
+  cP.addEventListener('click', e => { const b = e.target.closest('[data-pert]'); if (!b) return; const k=b.dataset.pert; st.sel.has(k)?st.sel.delete(k):st.sel.add(k); syncPert(); guardar(); render(); });
   $('#q').addEventListener('input', e => { st.q = e.target.value.trim().toLowerCase(); render(); });
   $('#btn-print').addEventListener('click', () => window.print());
   // modo claro/escuro
@@ -678,7 +684,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     $('#n-frente').textContent = `${fut.length} ${fut.length===1?'reunião já publicada':'reuniões já publicadas'} pela AR${soCal.length?` · ${soCal.length} dias só na calendarização`:''}${depois}`;
   }
   // KPIs
-  $('#kpis').addEventListener('click', e => { const b = e.target.closest('[data-kpi]'); if (!b) return; const k=b.dataset.kpi; if (k==='nov'){ st.novidades=!st.novidades; render(); return; } if (k==='varr'){ st.pert=new Set(['Imediato','Vigilância','Registo']); st.uo=null; st.dias.clear(); st.semana=null; $('.cal-wrap').scrollIntoView({behavior:'smooth'}); } else { st.pert = new Set([k]); } guardar(); render(); });
+  $('#kpis').addEventListener('click', e => { const b = e.target.closest('[data-kpi]'); if (!b) return; const k=b.dataset.kpi; if (k==='nov'){ st.novidades=!st.novidades; render(); return; } if (k==='varr'){ st.sel.clear(); st.uo=null; st.dias.clear(); st.semana=null; $('.cal-wrap').scrollIntoView({behavior:'smooth'}); } else { st.sel = new Set([k]); } syncPert(); guardar(); render(); });
 
   function passa(x){
     if (st.uo){ const ok = st.uo==='Transversal' ? x.uo.includes('Transversal') : x.uo.includes(st.uo); if(!ok) return false; }
@@ -734,7 +740,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     desenharFrente();
     // chips
     cUO.querySelectorAll('[data-uo]').forEach(b=>b.classList.toggle('on', (b.dataset.uo||null)===st.uo));
-    cP.querySelectorAll('[data-pert]').forEach(b=>b.classList.toggle('on', st.pert.has(b.dataset.pert)));
+    cP.querySelectorAll('[data-pert]').forEach(b=>b.classList.toggle('on', st.sel.has(b.dataset.pert)));
     Object.keys(PERT).forEach(k=>{ cP.querySelector(`[data-n="${k}"]`).textContent = C.filter(x=>x.pertinencia===k && daUO(x)).length; });
     // kpis
     const base = C.filter(daUO);
