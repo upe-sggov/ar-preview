@@ -27,7 +27,8 @@ def _e_nome(t):
     pal = t.split()
     return 2 <= len(pal) <= 7 and pal[0][:1].isupper() and not any(w in _PASTA for w in pal) and all(w[:1].isupper() or w in ('de', 'da', 'do', 'das', 'dos', 'e') for w in pal)
 
-def membro_governo(x, maximo=2):
+def membros_governo(x):
+    """Membros do Governo referidos na ordem de trabalhos, como pares (cargo, nome); nome vazio quando a AR não o escreve."""
     texto = ' / '.join([x.get('interveniente') or '', x.get('tema') or '', x.get('ordemTrabalhos') or ''])
     achados = {}                                            # cargo -> nome (o primeiro com nome ganha)
     for m in _CARGO.finditer(texto):
@@ -50,7 +51,10 @@ def membro_governo(x, maximo=2):
         if len(cargo) < 8: continue
         chave = cargo.lower()
         if chave not in achados or (nome and not achados[chave][1]): achados[chave] = (cargo, nome)
-    vistos = [f'{c}, {n}' if n else c for c, n in achados.values()]
+    return list(achados.values())
+
+def membro_governo(x, maximo=2):
+    vistos = [f'{c}, {n}' if n else c for c, n in membros_governo(x)]
     if not vistos and re.search(r'(^|\n|/)\s*GOV\s*(\n|/|$)', x.get('ordemTrabalhos') or ''):
         return 'Governo (intervenção prevista)'
     extra = len(vistos) - maximo

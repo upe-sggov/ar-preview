@@ -6,7 +6,7 @@ x['cobertura'] = {n7, n7ant, n, dias, ref, metodo, ultimas:[{data, fonte, titulo
 Uso: python scripts/cobertura.py [--local pasta_com_ficheiros_do_radar]"""
 import json, gzip, re, sys, io, os, pathlib, datetime, unicodedata, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from sintese import sintese, membro_governo
+from sintese import sintese, membro_governo, membros_governo
 
 RADAR = 'https://raw.githubusercontent.com/upe-sggov/radar-noticias/main/'
 ESTRANGEIROS = ('.br', '.cv', '.ao', '.mz', '.gw', '.st', '.tl', '.mo', '.es', '.fr', '.it', '.de', '.uk', '.com.br')
@@ -57,14 +57,48 @@ def so_orgao(x):
     # comissões permanentes; as de inquérito e os grupos de trabalho já trazem o assunto no próprio nome
     return bool(re.match(r'(Comissão|Subcomissão)\b', t)) and 'Inquérito' not in t and not re.search(r'[:—]', t) and len(t) <= 80
 
-def nomes_governo(x):
-    """Apelidos dos membros do Governo ouvidos («Pinto Luz»), tal como a AR os escreve."""
-    out = []
-    for parte in (membro_governo(x, maximo=9) or '').split(' · '):
-        if ', ' not in parte: continue
-        nome = [w for w in parte.rsplit(', ', 1)[1].split() if w[:1].isupper()]
-        if len(nome) >= 2: out.append(norm(' '.join(nome[-2:])))
+NOMES_SEMANA = {}   # cargo -> nome, de todas as reuniões da edição (a AR nem sempre repete o nome em cada comissão)
+
+def registar_nomes(itens):
+    for x in itens:
+        for cargo, nome in membros_governo(x):
+            if nome: NOMES_SEMANA.setdefault(norm(cargo), nome)
+
+_GERAIS_CARGO = {'ministro', 'ministra', 'estado', 'nacional', 'secretario', 'secretaria', 'adjunto', 'adjunta', 'primeiro', 'primeira'}
+def pastas_governo(x):
+    """Palavras da pasta dos ministros ouvidos («Defesa», «Educação», «Habitação»), para ligar o nome ao setor."""
+    out = set()
+    for cargo, _ in membros_governo(x):
+        if re.match(r'(Primeir|Ministr)', cargo):
+            out |= {w for w in re.findall(r'[a-z]+', norm(cargo)) if len(w) >= 5 and w not in _GERAIS_CARGO}
     return out
+
+def nomes_governo(x):
+    """Apelidos dos membros do Governo ouvidos («Pinto Luz»): o nome escrito nesta reunião ou, na falta dele, o que a AR
+    publica para o mesmo cargo noutra reunião da semana (audições conjuntas com a Comissão de Orçamento, por exemplo)."""
+    out = []
+    membros = membros_governo(x)
+    principais = [m for m in membros if re.match(r'(Primeir|Ministr)', m[0])] or membros   # o ministro ouvido; os secretários de Estado só se não houver ministro
+    for cargo, nome in principais:
+        nome = nome or NOMES_SEMANA.get(norm(cargo), '')
+        pal = [w for w in nome.split() if w[:1].isupper()]
+        if len(pal) >= 2: out.append(norm(' '.join(pal[-2:])))
+    return list(dict.fromkeys(out))
+
+_ENT = re.compile(r'Audi(?:ência|ção)(?: conjunta)? d[aeo]s? (.+?)(?=,?\s+(?:no âmbito|sobre|relativ|acerca|a propósito|para)\b|[;\n]|$)')
+def entidades(x):
+    """Entidades ouvidas («Associação Nacional das Farmácias (ANF)», «ANMP – Associação Nacional Municípios Portugueses»):
+    nome por extenso e sigla, para procurar no título e resumo das notícias. Membros do Governo ficam de fora (têm regra própria)."""
+    out = []
+    for m in _ENT.finditer(x.get('ordemTrabalhos') or ''):
+        t = m.group(1).strip()
+        if re.match(r'(Primeir[oa]-Ministr|Ministr|Secretári)', t): continue
+        siglas = re.findall(r'\b([A-Z][A-Z0-9]{2,})\b', t)
+        nome = re.sub(r'\([^)]*\)|\b[A-Z][A-Z0-9]{2,}\b\s*[-–]?', ' ', t)
+        nome = re.sub(r'\s+', ' ', nome).strip(' -–,')
+        if len(nome.split()) >= 2: out.append(norm(nome))
+        out += [s_ for s_ in siglas if s_ not in ('GOV', 'XVII', 'XVI', 'COM', 'OE')]
+    return list(dict.fromkeys(out))
 
 def assunto(x):
     """Texto do assunto: o do Amália, se houver; senão o tema; nas reuniões de comissão cujo tema é só o nome do órgão,
@@ -108,14 +142,9 @@ def expressoes_auto(x):
     return out
 
 def procurar(x, arts):
-    if so_orgao(x) and not x.get('expressoes') and not (x.get('amalia') or {}).get('assunto'):
-        # reunião de comissão: o assunto está na ordem de trabalhos; junta-se ao que o nome da comissão já encontrava
-        vistos, out = set(), []
-        for a in _procurar(x, arts, assunto(x)) + _procurar(x, arts, x.get('tema') or '', nomes=False, folga=False):
-            if id(a) not in vistos: vistos.add(id(a)); out.append(a)
-        out.sort(key=lambda a: a.get('data', ''), reverse=True)
-        return out
-    return _procurar(x, arts, assunto(x), nomes=False)
+    # reunião de comissão: o assunto está na ordem de trabalhos (o nome da comissão sozinho só trazia ruído:
+    # «Orçamento, Finanças e Administração Pública» apanhava as mesmas notícias genéricas em todas as reuniões)
+    return _procurar(x, arts, assunto(x), nomes=so_orgao(x))
 
 def _procurar(x, arts, texto, nomes=True, folga=True):
     if not x.get('expressoes'):
@@ -128,14 +157,25 @@ def _procurar(x, arts, texto, nomes=True, folga=True):
         res.sort(key=lambda a: a.get('data', ''), reverse=True)
         return res
     sig, pares = termos(texto)
+    ents = entidades(x) if nomes else []
+    pastas = pastas_governo(x) if nomes else set()
     nomes = nomes_governo(x) if nomes else []
     extra = {norm(e) for p_, f in PADROES for m in [re.search(p_, texto, re.I)] if m for e in f(m)}   # «Orçamento do Estado para 2027», «OE2027»…
-    if (len(sig) < 2 or not pares) and not nomes: return []
+    if any('orcamento do estado' in e for e in extra): extra.add('orcamento')
+    # siglas procuram-se no texto original, em maiúsculas (ANF, ANMP); nomes por extenso no texto normalizado
+    rx_ent = [(e.isupper(), re.compile(r'\b' + re.escape(e) + r'\b')) for e in ents]
+    if (len(sig) < 2 or not pares) and not nomes and not rx_ent: return []
     res, sigs, prx = [], set(sig), [_par_rx(e, folga) for e in pares]
     for a in arts:
         s = len(sigs & a['_w'])
-        if nomes and any(n in a['_t'] for n in nomes) and (s >= 2 or any(e in a['_t'] for e in extra)):   # membro do Governo ouvido + o assunto
-            res.append((10 + s, a)); continue
+        if nomes and any(n in a['_t'] for n in nomes):   # ministro ouvido + o assunto (Orçamento…) ou + a sua pasta
+            if s >= 2 or any(e in a['_t'] for e in extra): res.append((20 + s, a)); continue
+            if pastas & a['_w']: res.append((10 + s, a)); continue
+        if rx_ent:   # entidade ouvida (nome ou sigla, a sigla no texto original) + o assunto
+            orig = (a.get('titulo') or '') + ' ' + (a.get('resumo') or '')
+            if any(r.search(orig if sigla else a['_t']) for sigla, r in rx_ent) and (not extra or any(e in a['_t'] for e in extra)):
+                res.append((8 + s, a)); continue
+        if nomes or rx_ent: continue   # audição de alguém: conta só quem é ouvido (com o assunto), não as palavras gerais da ordem de trabalhos
         if s < 2 or not prx: continue
         p = sum(1 for r in prx if r.search(a['_t']))
         if p >= 1 and s >= min(3, len(sigs)):   # exige uma expressão do assunto e quase todas as palavras
@@ -160,6 +200,7 @@ if __name__ == '__main__':
     local = sys.argv[sys.argv.index('--local') + 1] if '--local' in sys.argv else None
     p = pathlib.Path('dados/agenda.json'); d = json.loads(p.read_text(encoding='utf-8'))
     arts = corpus(local)
+    registar_nomes(d['destaques'] + d['agenda'] + d.get('futuro', []))
     print(len(arts), 'notícias no cesto (últimos', DIAS, 'dias)')
     hoje = datetime.date.today()
     resultados = {}
@@ -178,8 +219,9 @@ if __name__ == '__main__':
     # nota de metodologia (substitui a versão anterior, se existir)
     NOTA = ('Cobertura mediática: contagem das notícias dos órgãos de comunicação social nacionais acompanhados pelo Radar de Notícias '
             'da UPE cujo título ou resumo refere o assunto (pelas expressões de pesquisa da matéria ou, na sua falta, pelas palavras do assunto, '
-            'contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e conta '
-            'também o nome do membro do Governo ouvido). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; '
+            'contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e contam '
+            'também o nome do membro do Governo ouvido — o escrito nessa reunião ou o que a AR publica para o mesmo cargo noutra reunião '
+            'da semana — e o nome ou a sigla da entidade ouvida, sempre junto com o assunto; o nome do ministro conta também junto com palavras da sua pasta). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; '
             'a lista completa das notícias encontradas está disponível em cada matéria. As fichas de varrimento analisam uma amostra '
             'escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes).')
     d['metodologia'] = [m for m in d.get('metodologia', []) if not m.startswith('Cobertura mediática:')] + [NOTA]
