@@ -1,6 +1,6 @@
 # AR Preview — a semana na Assembleia da República
 
-Agenda parlamentar semanal para os dirigentes da Direção de Serviços de Suporte à Decisão (DSSD) da Secretaria-Geral do Governo, triada por unidade orgânica (DACDP, DAPL, UPE, DCIRI), com cobertura mediática e fichas de varrimento.
+Agenda parlamentar semanal para os dirigentes da área de Suporte à Decisão da Secretaria-Geral do Governo — a Direção de Serviços de Suporte à Decisão (DSSD: DACDP, DAPL, UPE) e a DCIRI —, triada por unidade orgânica (DACDP, DAPL, UPE, DCIRI), com cobertura mediática e fichas de varrimento.
 
 **Página:** https://upe-sggov.github.io/ar-preview/ (repositório `upe-sggov/ar-preview`; até 30 de outubro de 2026 esteve em `celine-mestre/ar-ahead`)
 **Responsável:** Unidade de Pesquisa e Estatísticas (UPE)
@@ -135,7 +135,7 @@ Criam-se em Settings › Secrets and variables › Actions › New repository se
 | `SMTP_USER` | endereço remetente |
 | `SMTP_PASS` | palavra-passe de aplicação do Google (16 letras, sem espaços) |
 | `SMTP_FROM` | já não é usado: o remetente aparece como «AR Preview», com o endereço de `SMTP_USER` |
-| `DIRIGENTES_DSSD` | destinatários do email de segunda-feira, separados por vírgulas |
+| `DIRIGENTES_DSSD` | destinatários do email de segunda-feira (chefias da área de Suporte à Decisão: DSSD e DCIRI), separados por vírgulas |
 | `EMAIL_TRIAGEM` | destinatário do aviso de semana nova |
 
 Sem os segredos SMTP, os emails não são enviados e o registo do workflow mostra o texto que seria enviado.

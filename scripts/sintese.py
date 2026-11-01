@@ -124,15 +124,15 @@ def vevento(x, pagina_url=''):
     uid = f"ar-{x.get('id_ar') or hashlib.md5((x['data'] + x['tema']).encode()).hexdigest()[:12]}@ar-preview"
     gov, sin = membro_governo(x), sintese(x)
     pag, _ = pagina_ar(x)
-    desc = [x.get('tipoLabel') or '']
+    desc = [x.get('tipoLabel') or '']   # inclui «conjunta com …» nas audições conjuntas
     if gov: desc.append('Governo: ' + gov)
     if sin: desc.append('Síntese: ' + sin)
-    desc += ['Unidades DSSD: ' + ', '.join(x.get('uo') or []) if x.get('uo') else '',
+    desc += ['Unidades (Suporte à Decisão): ' + ', '.join(x.get('uo') or []) if x.get('uo') else '',
              'Página na AR: ' + pag if pag else '',
              'Emissões em direto (quando houver): ' + CANAL,
              'AR Preview: ' + pagina_url if pagina_url else '',
              'Hora de fim indicativa; a agenda da AR pode mudar.']
-    seg = [t.strip() for t in (x.get('tipoLabel') or '').split('·')]
+    seg = [t.strip() for t in (x.get('tipoLabel') or '').split('·') if not t.strip().startswith('conjunta com')]
     sala = seg[-1] if len(seg) >= 3 and not seg[-1].startswith('Reunião') else ''
     linhas = ['BEGIN:VEVENT', f'UID:{uid}', f'DTSTAMP:{utc(datetime.now(LX))}', f'DTSTART:{utc(ini)}', f'DTEND:{utc(fim)}',
               f"SUMMARY:{_esc('AR · ' + x['tema'])}",

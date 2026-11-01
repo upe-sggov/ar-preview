@@ -368,7 +368,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 <header><div class="hdr">
 <div class="brand"><img src="data:image/png;base64,__LOGO__" alt="Secretaria-Geral do Governo"><div class="brand-txt"><strong>SECRETARIA-GERAL DO GOVERNO</strong>Suporte à Decisão</div></div>
 <div class="titulo"><h1 id="h-titulo">AR Preview</h1><p class="semana" id="h-semana"></p><p class="semana semana-imp" id="h-semana-imp"></p><p class="fecho" id="h-fecho"></p></div>
-<div class="hdr-side"><span class="badge-int">Uso interno · dirigentes DSSD</span><small id="h-edicao"></small><div class="hdr-btns"><select class="edicoes" id="h-edicoes" aria-label="Edição" hidden></select>
+<div class="hdr-side"><span class="badge-int">Uso interno · Suporte à Decisão</span><small id="h-edicao"></small><div class="hdr-btns"><select class="edicoes" id="h-edicoes" aria-label="Edição" hidden></select>
   <button class="hdr-btn" id="btn-tema" title="Modo escuro" aria-label="Alternar modo claro/escuro"><svg id="ic-tema" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   <button class="hdr-btn" id="btn-ecra" title="Ecrã inteiro" aria-label="Ecrã inteiro"><svg id="ic-ecra" viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg></button>
   <button class="hdr-btn" id="btn-info" title="Sobre o AR Preview: o que faz, de onde vêm os dados e como classifica" aria-label="Sobre o AR Preview" aria-haspopup="dialog"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button></div></div>
@@ -419,7 +419,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 <dialog class="sobre" id="sobre" aria-labelledby="sobre-t">
   <div class="sobre-top"><h2 id="sobre-t">Sobre o AR Preview</h2><button class="fechar" id="sobre-x" aria-label="Fechar">×</button></div>
   <div class="sobre-corpo">
-    <p class="sobre-lead">Agenda semanal da Assembleia da República para os dirigentes da DSSD: o que está marcado, para que unidade interessa, com que prioridade, e o que a comunicação social tem dito sobre cada matéria. Produzida pela Unidade de Pesquisa e Estatísticas (UPE).</p>
+    <p class="sobre-lead">Agenda semanal da Assembleia da República para os dirigentes da área de Suporte à Decisão: o que está marcado, para que unidade interessa, com que prioridade, e o que a comunicação social tem dito sobre cada matéria. Produzida pela Unidade de Pesquisa e Estatísticas (UPE).</p>
 
     <h3>De onde vem a agenda</h3>
     <ul>
@@ -445,6 +445,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 
     <h3>Como se atribuem as etiquetas de unidade</h3>
     <ul>
+      <li>A área de Suporte à Decisão junta a DSSD (DACDP, DAPL, UPE) e a DCIRI.</li>
       <li><b>DACDP</b>, <b>DAPL</b>, <b>UPE</b>, <b>DCIRI</b>: por palavras-chave de cada unidade e pelos dossiers que cada uma acompanha; a presença do Governo na AR atribui também a DACDP (coordenação política).</li>
       <li><b>Transversal</b>: matérias que interessam a todas as unidades (Orçamento do Estado, Conta Geral do Estado, Reforma do Estado).</li>
     </ul>
@@ -1017,7 +1018,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     h += seats + labels + `<text class="centro" x="${cx}" y="${cy-44}"><tspan class="n">${tot}</tspan></text><text class="centro t" x="${cx}" y="${cy-22}">matérias na semana</text><text class="centro t" x="${cx}" y="${cy-4}">clique num lugar para ver a matéria</text><text class="centro t" id="hemi-filtro" x="${cx}" y="${cy+14}" style="fill:#FFD200"></text>`;
     svg.innerHTML = h;
     // texto e contadores
-    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana, com a prioridade e a unidade da DSSD de cada matéria e as notícias do Radar; as matérias Imediato e Vigilância têm ficha de varrimento.`
+    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana, com a prioridade e a unidade de Suporte à Decisão de cada matéria e as notícias do Radar; as matérias Imediato e Vigilância têm ficha de varrimento.`
       : edSel ? `Arquivo · ${edSel.semana} (${nomeEd(edSel).toLowerCase()}). A semana tal como foi acompanhada na altura; a edição completa abre a partir da agenda.`
       : `Semana de ${rotSem(semSel)}. O que a Assembleia da República já publicou para esta semana, com triagem provisória; o varrimento entra na sexta-feira anterior.`;
     const kp = [[nIme,'ime',nIme===1?'imediata':'imediatas'],[todos.filter(x=>x.pertinencia==='Vigilância').length,'vig','em vigilância'],[todos.filter(x=>x.pertinencia==='Registo').length,'','só para registo'],
