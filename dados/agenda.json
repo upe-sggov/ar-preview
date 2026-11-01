@@ -12630,8 +12630,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-01T21:38+00:00",
-  "atualizadoLabel": "1 de novembro, 21h38",
+  "atualizado": "2026-11-01T21:46+00:00",
+  "atualizadoLabel": "1 de novembro, 21h46",
   "estado": "com triagem automática",
   "aviso": "10 matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -13043,7 +13043,7 @@
   },
   "2026-11-20-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13079,15 +13079,6 @@
      "naturezaLabel": "Por classificar"
     },
     {
-     "data": "2026-10-06",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
-     "sintese": "PS admite mudar viabilização do OE2027 se este tiver “medidas surpresa” gravosas | Orçamento do Estado 2027",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
@@ -13116,9 +13107,9 @@
     },
     {
      "data": "2026-10-09",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
-     "sintese": "OE2027: Professores pedem mais investimento na Educação e valorização da carreira",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
+     "sintese": "Num debate que se esperava sobre o OE2027, habitação e Centeno roubaram o palco",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13134,6 +13125,15 @@
     },
     {
      "data": "2026-10-11",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
+     "sintese": "Hospital de Gaia: PS critica Governo por ausência de financiamento no OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
      "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
@@ -13143,9 +13143,9 @@
     },
     {
      "data": "2026-10-13",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/artigo/convidado/2026/10/13/o-oe-2027-em-perspetiva/489028/",
-     "sintese": "O OE 2027 em perspetiva",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
+     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa preocupação, diz Miranda Sarmento",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13179,9 +13179,9 @@
     },
     {
      "data": "2026-10-28",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/28/orcamento-do-estado-para-2027-aprovado-na-generalidade-com-abstencao-do-ps/",
-     "sintese": "Orçamento do Estado para 2027 aprovado na generalidade com abstenção do PS",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027",
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
@@ -13206,15 +13206,6 @@
     },
     {
      "data": "2026-10-30",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-ministra-atribui-saldo-negativo-de-2-679-milhoes-do-sns-a-necessidades-de-financiamento/",
-     "sintese": "OE2027: Ministra atribui saldo negativo de 2.679 milhões do SNS a necessidades de financiamento",
-     "impacto": "",
-     "natureza": "contexto",
-     "naturezaLabel": "Por classificar"
-    },
-    {
-     "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
      "sintese": "OE2027. Carteira Digital tem 18 mil empresas",
@@ -13230,18 +13221,27 @@
      "impacto": "",
      "natureza": "contexto",
      "naturezaLabel": "Por classificar"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+     "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027",
+     "impacto": "",
+     "natureza": "contexto",
+     "naturezaLabel": "Por classificar"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1147
+    "encontradas": 1150
    },
    "base": {
-    "ultima": "2026-10-31 06:20",
+    "ultima": "2026-11-01 17:27",
     "em": "2026-11-01"
    },
-   "novas": 3,
-   "enquadramento": "Seleção automática de 20 das 1147 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (181 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
+   "novas": 0,
+   "enquadramento": "Seleção automática de 20 das 1150 notícias encontradas nos últimos 60 dias nos órgãos de comunicação social acompanhados pelo Radar de Notícias (184 nos últimos 7 dias), escolhidas ao longo do período: dias de maior cobertura, variedade de órgãos e as mais recentes. Sem análise: o enquadramento, a natureza e o impacto de cada notícia são acrescentados automaticamente quando o Amália estiver ativo."
   },
   "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
