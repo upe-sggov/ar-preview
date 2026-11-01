@@ -160,6 +160,29 @@ if __name__ == '__main__':
         for x in d['destaques'] + d['agenda'] + d.get('futuro', []):
             if x.get('varrimento') == k: x.pop('varrimento')
         print('ficha manual retirada:', k)
+    # arrumação das fichas automáticas (as revistas por pessoas nunca se tocam):
+    todos_ = d['destaques'] + d['agenda'] + d.get('futuro', [])
+    auto = lambda k: k in d['fichas'] and not d['fichas'][k].get('revista_por')
+    por_ficha = {}
+    for x in todos_:
+        if x.get('varrimento') and not x.get('retirado'): por_ficha.setdefault(x['varrimento'], []).append(x)
+    for k, xs in por_ficha.items():
+        # 1) ficha partilhada por reuniões diferentes que não são a mesma matéria (mesmas expressões de pesquisa):
+        #    acontecia com nomes feitos de dia + comissão (várias reuniões da mesma comissão no mesmo dia)
+        assuntos = {tuple(sorted(x.get('expressoes') or x.get('expressoes_auto') or [])) or ('id', x.get('chave')) for x in xs}
+        if len(xs) > 1 and len(assuntos) > 1 and auto(k):
+            for x in xs: x.pop('varrimento', None)
+            d['fichas'].pop(k, None); print('ficha partilhada por reuniões diferentes — refeita para cada uma:', k)
+    for x in todos_:
+        # 2) matérias em «Registo» não têm ficha (fica a contagem e a lista completa)
+        if x.get('pertinencia') == 'Registo' and x.get('varrimento') and auto(x['varrimento']):
+            k = x.pop('varrimento')
+            if not any(y.get('varrimento') == k for y in todos_): d['fichas'].pop(k, None)
+            print('ficha retirada (matéria em Registo):', x['data'], x['tema'][:50])
+    # 3) fichas automáticas que já nenhuma matéria usa
+    usadas = {x.get('varrimento') for x in todos_}
+    for k in [k for k in d['fichas'] if k not in usadas and auto(k)]:
+        d['fichas'].pop(k); print('ficha órfã retirada:', k)
     trabalho = alvos(d)
     if not trabalho:
         p.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding='utf-8'); print('Nada a fazer.'); sys.exit(0)
@@ -172,7 +195,8 @@ if __name__ == '__main__':
         assunto = tuple(sorted(x.get('expressoes') or x.get('expressoes_auto') or [])) or None
         if assunto and assunto in feitas and x['pertinencia'] == feitas[assunto][1]:
             x['varrimento'] = feitas[assunto][0]; print('ficha partilhada ·', x['tema'][:60]); continue
-        chave = x.get('varrimento') or re.sub(r'[^a-z0-9]+', '-', (x['data'] + '-' + x['tema']).lower())[:50].strip('-')
+        # nome único: dia + número da AR + tema (o dia e o tema não chegam: a mesma comissão reúne várias vezes no mesmo dia)
+        chave = x.get('varrimento') or re.sub(r'[^a-z0-9]+', '-', f"{x['data']}-{x.get('id_ar') or x.get('hora', '')}-{x['tema']}".lower())[:60].strip('-')
         d['fichas'][chave] = ficha(x, procurar(x, arts), perguntar, json_da_resposta)
         if assunto: feitas[assunto] = (chave, x['pertinencia'])
         for y in d['destaques'] + d['agenda'] + d.get('futuro', []):     # a mesma matéria pode aparecer em dois dias

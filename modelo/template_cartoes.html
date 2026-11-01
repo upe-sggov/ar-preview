@@ -478,6 +478,8 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 
   const $ = s => document.querySelector(s);
   const esc = s => String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  // identificador único de cada matéria (o número da AR); dia + tema não chega — a mesma comissão reúne várias vezes no mesmo dia
+  const idDe = x => x.chave || (x.id_ar ? 'ar-'+x.id_ar : (x.data+'|'+(x.hora||'')+'|'+x.tema));
   const PERT = {'Imediato':['ime','p-ime'],'Vigilância':['vig','p-vig'],'Registo':['reg','p-reg']};
   const UOS = ['Transversal', ...Object.keys(D.unidades)];
   const todosComRetiradas = [...D.destaques.map(x=>({...x,_d:true})), ...D.agenda.map(x=>({...x,_d:false}))];
@@ -646,7 +648,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
       h += `<div class="ad-dia">${NOMES[d.getDay()]}, ${d.getDate()} de ${MESES[d.getMonth()]}${datasComAgenda.has(k)?` · ${its.length}`:cal.length?' · calendarização':' · sem agenda publicada'}</div>`;
       if (!its.length) { h += cal.length && !datasComAgenda.has(k) ? cal.map(c=>`<div class="ev cal-ev"><span class="h">${esc(c.horas||'—')}</span><span class="d"></span><span class="t"><b>${esc(c.atividade)}</b><small>Calendarização da Assembleia da República · ordem de trabalhos ainda não publicada</small></span></div>`).join('') : `<div class="vazio-ad">${datasComAgenda.has(k)?'Nada corresponde aos filtros neste dia.':'Nenhuma reunião publicada para este dia à data de fecho.'}</div>`; return; }
       total += its.length;
-      h += its.map(x => x._hist ? `<a class="ev arq" href="${esc(BASE_ED+x._hist.ficheiro)}" title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('')}${x.varrimento?`<span class="vr">com varrimento</span>`:''}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></a>` : `<div class="ev" data-ir-cartao="${esc(x.data+'|'+x.tema)}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.novo||x.alterado?'<span class="nv" title="novo ou alterado"></span>':''}${x.uo.length?x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join(''):''}${x.varrimento?`<a href="#" class="vr" data-ver="${esc(x.varrimento)}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
+      h += its.map(x => x._hist ? `<a class="ev arq" href="${esc(BASE_ED+x._hist.ficheiro)}" title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('')}${x.varrimento?`<span class="vr">com varrimento</span>`:''}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></a>` : `<div class="ev" data-ir-cartao="${esc(idDe(x))}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.novo||x.alterado?'<span class="nv" title="novo ou alterado"></span>':''}${x.uo.length?x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join(''):''}${x.varrimento?`<a href="#" class="vr" data-ver="${esc(x.varrimento)}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
     });
     $('#ad-sub').textContent = `${total} ${total===1?'matéria':'matérias'}${st.pert.has('Registo')?'':' · registo oculto'}`;
     $('#ad-lista').innerHTML = h || `<div class="vazio-ad">Nada corresponde aos filtros.</div>`;
@@ -717,7 +719,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const foot = x._hist ? `<a class="ver" href="${esc(BASE_ED+x._hist.ficheiro)}"><svg class="ic"><use href="#i-layers"/></svg>${x.varrimento?'Ver varrimento na ':'Abrir a '}${esc(nomeEd(x._hist).toLowerCase())}</a>${ligs}`
       : x._fut && !x.varrimento ? `<span class="pedir">Semana seguinte · triagem provisória, sem varrimento</span>${listaBtn(x)}${ligs}`
       : x.varrimento ? `<button class="ver" data-ver="${esc(x.varrimento)}"><svg class="ic"><use href="#i-news"/></svg>${D.fichas[x.varrimento] && D.fichas[x.varrimento].nivel==='curta' ? 'Ver varrimento (curto)' : 'Ver varrimento'}</button>${ligs}` : (x._d ? listaBtn(x)+ligs : `${listaBtn(x)}${pedirVarr(x)}${ligs}`);
-    return `<article class="cartao ${cls}" data-id="${esc(x.data+'|'+x.tema)}">
+    return `<article class="cartao ${cls}" data-id="${esc(idDe(x))}">
       <div class="c-top"><span class="quando"><svg class="ic"><use href="#i-cal"/></svg>${esc(x.dataLabel)}${x.hora?` · ${esc(x.hora)}`:''}</span><span class="pert ${pc}">${esc(x.pertinencia)}</span></div>
       <h3 class="c-tema">${esc(x.tema)}</h3>
       <div class="c-tipo"><svg class="ic"><use href="#${icTipo(x.tipoLabel)}"/></svg><span>${esc(x.tipoLabel)}</span></div>
@@ -774,7 +776,6 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
       ${f.fundo.length?`<h3><svg class="ic"><use href="#i-news"/></svg>Fundo mediático <small style="font-weight:400;color:var(--suave)">· ${f.fundo.length} notícias, ordem cronológica</small></h3>${chips}<div class="linha-tempo">${f.fundo.map(n=>`<div class="not ${esc(n.natureza)}" data-nat="${esc(n.natureza)}"><div class="n-top"><span>${esc(/^\d{4}-\d{2}-\d{2}/.test(n.data||'') ? fmtD(n.data)+' '+n.data.slice(0,4) : n.data)} · ${n.url?`<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.fonte)}</a>`:esc(n.fonte)}</span>${n.naturezaLabel==='Por classificar'?'':`<span class="nat ${esc(n.natureza)}">${esc(n.naturezaLabel)}</span>`}</div><div>${esc(n.sintese)}</div>${n.impacto?`<div class="imp"><b>Impacto para a sessão:</b> ${esc(n.impacto)}</div>`:''}</div>`).join('')}</div>`:''}`;
   }
   // lista completa das notícias encontradas no Radar (sem IA), agrupada por dia
-  const idDe = x => x.chave || (x.data+'|'+x.tema);
   const coberturaDe = k => pool.filter(x => !x._hist && x.varrimento===k && x.cobertura).map(x=>x.cobertura).sort((a,b)=>(b.todas||[]).length-(a.todas||[]).length)[0];
   function listaHTML(c, aberta){
     const L = (c && c.todas) || []; if (!L.length) return '';
@@ -806,7 +807,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   }
   // cartão de uma matéria na gaveta (a partir da agenda hora a hora ou do hemiciclo)
   function abrirCartao(id){
-    const x = pool.find(y => y.data+'|'+y.tema===id); if (!x) return; atual = null; listaAtual = null; listaMateria = x; if (x.cobertura) { x.cobertura._titulo = x.tema; listaAtual = x.cobertura; }
+    const x = pool.find(y => idDe(y)===id); if (!x) return; atual = null; listaAtual = null; listaMateria = x; if (x.cobertura) { x.cobertura._titulo = x.tema; listaAtual = x.cobertura; }
     const [cls,pc] = PERT[x.pertinencia]||['reg','p-reg'];
     $('#g-titulo').innerHTML = esc(x.tema) + `<span class="nivel">${esc(x.pertinencia)}</span>`;
     $('#g-meta').textContent = `${x.tipoLabel||''} · ${x.dataLabel||''}${x.hora?', '+x.hora:''}${x.uo&&x.uo.length?' · UO de referência: '+x.uo.join(' · '):''}`;
@@ -884,7 +885,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const det = $('#hero-det'), res = $('#hero-resumo');
     $('#hemi').querySelectorAll('.seat.sel').forEach(g => g.classList.remove('sel'));
     if (!x) { det.hidden = true; res.hidden = false; return; }
-    const g = $('#hemi').querySelector(`[data-seat="${CSS.escape(x.data+'|'+x.tema)}"]`); if (g) g.classList.add('sel');
+    const g = $('#hemi').querySelector(`[data-seat="${CSS.escape(idDe(x))}"]`); if (g) g.classList.add('sel');
     const cls = (PERT[x.pertinencia]||['reg'])[0];
     // ordem do dia sem a grelha de tempos (GOV 70 m, PSD 44 m…), que não interessa aqui
     const linhasOT = []; for (const l of (x.ordemTrabalhos || x.resumo || '').replace(/ORDEM DO DIA/g,'').split('\n').map(s=>s.trim()).filter(Boolean)) {
@@ -922,7 +923,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   // os filtros (unidade, pertinência, pesquisa) e os dias selecionados aplicam-se também ao hemiciclo
   function filtrarHemi(){
     const svg = $('#hemi'); let n = 0, nv = 0;
-    svg.querySelectorAll('[data-seat]').forEach(g => { const x = pool.find(y => y.data+'|'+y.tema === g.dataset.seat); const ok = x && visiveis(x) && (!st.dias.size || st.dias.has(x.data)) && (!st.novidades || x.novo || x.alterado); g.classList.toggle('off', !ok); n++; if (ok) nv++; });
+    svg.querySelectorAll('[data-seat]').forEach(g => { const x = pool.find(y => idDe(y) === g.dataset.seat); const ok = x && visiveis(x) && (!st.dias.size || st.dias.has(x.data)) && (!st.novidades || x.novo || x.alterado); g.classList.toggle('off', !ok); n++; if (ok) nv++; });
     svg.querySelectorAll('[data-sd]').forEach(s => s.classList.toggle('sel', st.dias.has(s.dataset.sd)));
     const f = $('#hemi-filtro'); if (f) f.textContent = nv < n ? `${nv} de ${n} matérias correspondem aos filtros` : '';
   }
@@ -964,7 +965,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
           const n = lista.length, a = a0 + 0.015 + (span - 0.03) * (n === 1 ? .5 : j / (n - 1));
           const [px, py] = pol(rf, a); const cls = (PERT[x.pertinencia] || ['reg'])[0];
           const rr = cls === 'ime' ? 7 : cls === 'vig' ? 6 : 4.5;
-          seats += `<g class="seat ${cls} ${x.varrimento ? 'var' : ''}" style="animation-delay:${(k++) * 28}ms" data-seat="${esc(x.data + '|' + x.tema)}" data-pert="${esc(x.pertinencia)}"><circle class="p" cx="${px}" cy="${py}" r="6" style="animation-delay:${(i * 400 + j * 150)}ms"/><circle class="c" cx="${px}" cy="${py}" r="${rr}"/></g>`;
+          seats += `<g class="seat ${cls} ${x.varrimento ? 'var' : ''}" style="animation-delay:${(k++) * 28}ms" data-seat="${esc(idDe(x))}" data-pert="${esc(x.pertinencia)}"><circle class="p" cx="${px}" cy="${py}" r="6" style="animation-delay:${(i * 400 + j * 150)}ms"/><circle class="c" cx="${px}" cy="${py}" r="${rr}"/></g>`;
         }));
       });
     });
@@ -975,7 +976,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana que vem, triado para as unidades da DSSD, com o fundo mediático preparado para as matérias imediatas.`
       : edSel ? `Arquivo · ${edSel.semana} (${nomeEd(edSel).toLowerCase()}). A semana tal como foi acompanhada na altura; a edição completa abre a partir da agenda.`
       : `Semana de ${rotSem(semSel)}. O que a Assembleia da República já publicou para esta semana, com triagem provisória; o varrimento entra na sexta-feira anterior.`;
-    const kp = [[nVar,'var','com varrimento'],[nIme,'ime','imediatas'],[todos.filter(x=>x.pertinencia==='Vigilância').length,'vig','em vigilância'],[semSel ? nVar : Object.keys(D.fichas).length,'','fichas de leitura'],[diasSem.filter(d=>datasComAgenda.has(d)).length,'','dias com agenda'],[new Set(todos.flatMap(x=>x.uo||[]).filter(u=>u!=='Transversal')).size,'','unidades servidas']];
+    const kp = [[nVar,'var','com varrimento'],[nIme,'ime','imediatas'],[todos.filter(x=>x.pertinencia==='Vigilância').length,'vig','em vigilância'],[new Set(todos.filter(x=>x.varrimento).map(x=>x.varrimento)).size,'','fichas de leitura'],[diasSem.filter(d=>datasComAgenda.has(d)).length,'','dias com agenda'],[new Set(todos.flatMap(x=>x.uo||[]).filter(u=>u!=='Transversal')).size,'','unidades servidas']];
     $('#hero-kpis').innerHTML = kp.map(([n,c,l])=>`<div><b class="${c}" data-n="${n}">0</b><span>${l}</span></div>`).join('');
     const reduzido = matchMedia('(prefers-reduced-motion: reduce)').matches || hemiAnimado; hemiAnimado = true;
     $('#hero-kpis').querySelectorAll('b').forEach(b => { const alvo=+b.dataset.n; if (reduzido||!alvo){ b.textContent=alvo; return; } const t0=performance.now(); const f=t=>{ const p=Math.min(1,(t-t0)/900); b.textContent=Math.round(alvo*(1-Math.pow(1-p,3))); if(p<1) requestAnimationFrame(f); }; requestAnimationFrame(f); });
@@ -985,13 +986,13 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     $('#hero-cta').addEventListener('click', () => $('.barra').scrollIntoView({behavior:'smooth'}));
     // interação: dica, clique no lugar (abre varrimento ou salta ao cartão), clique no setor (seleciona o dia)
     const tip = $('#tip');
-    svg.addEventListener('mousemove', e => { const g = e.target.closest('[data-seat]'); if (!g){ tip.classList.remove('on'); return; } const x = pool.find(t=>t.data+'|'+t.tema===g.dataset.seat); if(!x) return;
+    svg.addEventListener('mousemove', e => { const g = e.target.closest('[data-seat]'); if (!g){ tip.classList.remove('on'); return; } const x = pool.find(t=>idDe(t)===g.dataset.seat); if(!x) return;
       tip.innerHTML = `<b>${esc(x.tema)}</b>${esc(x.dataLabel)}${x.hora?' · '+esc(x.hora):''} · <span class="pert p-${(PERT[x.pertinencia]||['reg'])[0]}" style="font-size:10px">${esc(x.pertinencia)}</span><br><small>${esc(x.tipoLabel||'')}${(x.uo||[]).length?' · '+x.uo.join(' · '):''} · clique para ver a matéria</small>`;
       tip.style.left = Math.min(innerWidth-340, e.clientX+14)+'px'; tip.style.top = (e.clientY+16)+'px'; tip.classList.add('on'); });
     svg.addEventListener('mouseleave', () => tip.classList.remove('on'));
     svg.addEventListener('click', e => {
       const g = e.target.closest('[data-seat]');
-      if (g){ tip.classList.remove('on'); const x = pool.find(t=>t.data+'|'+t.tema===g.dataset.seat); if (x) detalheHero(x); return; }
+      if (g){ tip.classList.remove('on'); const x = pool.find(t=>idDe(t)===g.dataset.seat); if (x) detalheHero(x); return; }
       const sct = e.target.closest('[data-sd]'); if (sct && !sct.classList.contains('vazio')){ st.dias = new Set([sct.dataset.sd]); render(); $('.cal-wrap').scrollIntoView({behavior:'smooth'}); }
     });
   })();
