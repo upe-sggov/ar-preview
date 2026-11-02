@@ -4980,6 +4980,7 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
+   "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 1149,
     "n7": 170,
@@ -7415,8 +7416,7 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ],
-   "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p"
+   ]
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -12629,8 +12629,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-02T14:41+00:00",
-  "atualizadoLabel": "2 de novembro, 14h41",
+  "atualizado": "2026-11-02T14:52+00:00",
+  "atualizadoLabel": "2 de novembro, 14h52",
   "estado": "com triagem automática",
   "aviso": "A prioridade e a unidade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12640,8 +12640,8 @@
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
    "nivel": "completa",
-   "origem": "radar",
-   "gerado_por": "Radar de Notícias — seleção automática",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
    "atencao": [],
    "blocos": [],
    "tabelas": [],
@@ -12650,133 +12650,173 @@
      "data": "2026-09-24",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
-     "sintese": "AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas"
+     "sintese": "A AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-09-29",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/economia/article/2026-09-29/47858717/oe2027-albuquerque-recebe-garantia-de-verbas-do-pm-e-n%C3%A3o-antecipa-qualquer-problema-na-vota%C3%A7%C3%A3o",
-     "sintese": "OE2027: Albuquerque recebe garantia de verbas do PM e não antecipa qualquer problema na votação"
+     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa qualquer problema na votação do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-02",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
-     "sintese": "PCP anuncia voto contra o Orçamento do Estado para 2027"
+     "sintese": "O PCP anuncia voto contra o Orçamento do Estado para 2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
+     "sintese": "O PS admite mudar a viabilização do OE2027 se este tiver 'medidas surpresa' gravosas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde"
+     "sintese": "O Governo entrega a proposta do Orçamento do Estado para 2027 no Parlamento.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-08",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
-     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027"
+     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD espera \"tranquilidade\" e \"previsibilidade\" com o OE2027, mas PS avisa que \"compromissos são para cumprir\""
+     "sintese": "O PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas o PS avisa que 'compromissos são para cumprir'.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-09",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
-     "sintese": "Num debate que se esperava sobre o OE2027, habitação e Centeno roubaram o palco"
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
+     "sintese": "Professores pedem mais investimento na Educação e valorização da carreira no âmbito do OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-10",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra"
-    },
-    {
-     "data": "2026-10-11",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "Hospital de Gaia: PS critica Governo por ausência de financiamento no OE2027"
+     "sintese": "Carneiro propõe abstenção ao OE2027, mas admite que 'convicções mais profundas' levariam a voto contra.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?"
+     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-13",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
-     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa preocupação, diz Miranda Sarmento"
+     "sintese": "Miranda Sarmento afirma que a dívida pública deve continuar a ser a principal preocupação nas contas públicas, com redução para abaixo de 85% do PIB em 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-23",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
-     "sintese": "José Luís Carneiro justifica viabilização do \"mau\" OE2027 com crises em Portugal e no estrangeiro"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Diário de Notícias",
-     "url": "http://dinheirovivo.dn.pt/economia/oe2027-rsi-chega-a-menos-de-4-dos-cidados-estrangeiros-em-portugal",
-     "sintese": "OE2027: RSI chega a menos de 4% dos cidadãos estrangeiros em Portugal"
+     "sintese": "José Luís Carneiro justifica a viabilização do 'mau' OE2027 com crises em Portugal e no estrangeiro.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
-     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027"
+     "sintese": "Realizou-se o debate na generalidade da proposta de Orçamento do Estado para 2027, com protestos pela habitação a marcar o confronto parlamentar.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-28",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
-     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027"
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/edicao-diaria/oe2027-oposio-foi-avisada-de-que-a-estrada-estreita-mas-quer-mudanas-na-especialidade",
+     "sintese": "A oposição foi avisada de que a estrada é estreita, mas quer mudanças na especialidade.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-28",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
-     "sintese": "Carneiro acusa PSD e CDS de destratar, desconsiderar e atacar PS no debate do OE2027"
+     "sintese": "Carneiro acusa PSD e CDS de destratar e atacar o PS no debate do OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-29",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "OE2027: Decisão da Galp \"é soberana\" e Governo cumpriu o seu papel"
+     "sintese": "A Decisão da Galp é soberana, mas o Governo cumpriu o seu papel.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "OE2027. Carteira Digital tem 18 mil empresas"
+     "sintese": "O ministro Gonçalo Matias revela que a Carteira Digital de empresa tem 18 mil empresas, com Alemanha a dizer-se inspirada no modelo português.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-31",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
-     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos"
+     "sintese": "A Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/oe2027-pcp-acores-vai-avancar-com-propostas-na-justica-e-lajes-381667",
+     "sintese": "O PCP/Açores avança com propostas de alteração ao OE2027 nas áreas da Justiça, Lajes e habitação.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-01",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
-     "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027"
+     "sintese": "A semana em 30 segundos: 'Midterms', contas da EDP e audições do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1150
+    "encontradas": 1149
    },
    "base": {
-    "ultima": "2026-11-01 17:27",
-    "em": "2026-11-01"
+    "ultima": "2026-11-02 00:06",
+    "em": "2026-11-02"
    },
-   "novas": 1,
-   "enquadramento": "Das 1149 notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias (170 na última semana), estas são 20, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. A lista completa está no AR Preview. Sem análise: a síntese e a natureza de cada notícia chegam quando o Amália correr."
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento e a realização de debates na generalidade. O Governo tem defendido a viabilização do orçamento, enquanto a oposição expressa preocupações e exige alterações na especialidade. Alguns partidos, como o PCP, anunciaram o voto contra, enquanto outros, como o PS, admitem mudar a sua posição se o orçamento incluir medidas consideradas 'surpresa' graves. Entretanto, o Governo destaca a redução da dívida pública e a estimativa de arrecadação adicional com impostos sobre tabaco e álcool."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
