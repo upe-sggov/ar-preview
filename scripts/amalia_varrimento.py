@@ -31,7 +31,14 @@ Os «Pontos de atenção» (verificação de números na fonte primária) NÃO s
 Uso: python scripts/amalia_varrimento.py [--verificar] [--local pasta_do_radar]
   --verificar: só diz se há trabalho (código 0) ou não (código 1), sem carregar o modelo."""
 import json, pathlib, re, sys, datetime, math, collections, os, time
-from cobertura import corpus, procurar, norm, registar_nomes
+from cobertura import corpus, procurar, norm, registar_nomes, nomes_governo, entidades
+
+def assunto_de(x):
+    """O que identifica a matéria para partilhar ficha entre dias (ex.: o debate do Orçamento em duas sessões): as expressões
+    de pesquisa E quem é ouvido. Audições de ministros diferentes sobre o mesmo Orçamento são matérias diferentes."""
+    exp = tuple(sorted(x.get('expressoes') or x.get('expressoes_auto') or []))
+    quem = tuple(nomes_governo(x)) + tuple(entidades(x))
+    return (exp + ('|',) + quem) if exp else None
 
 MAXN = {'completa': 20, 'curta': 8}
 SEM_IA = '--sem-ia' in sys.argv
@@ -203,7 +210,7 @@ if __name__ == '__main__':
     for k, xs in por_ficha.items():
         # 1) ficha partilhada por reuniões diferentes que não são a mesma matéria (mesmas expressões de pesquisa):
         #    acontecia com nomes feitos de dia + comissão (várias reuniões da mesma comissão no mesmo dia)
-        assuntos = {tuple(sorted(x.get('expressoes') or x.get('expressoes_auto') or [])) or ('id', x.get('chave')) for x in xs}
+        assuntos = {assunto_de(x) or ('id', x.get('chave')) for x in xs}
         if len(xs) > 1 and len(assuntos) > 1 and auto(k):
             for x in xs: x.pop('varrimento', None)
             d['fichas'].pop(k, None); print('ficha partilhada por reuniões diferentes — refeita para cada uma:', k)
@@ -234,7 +241,7 @@ if __name__ == '__main__':
     for x, m in trabalho:
         if fim_em and time.time() > fim_em:   # sem placa gráfica o modelo é lento: o que faltar fica para a próxima corrida (as fichas do Radar mantêm-se)
             print(f'tempo do Amália esgotado ({os.environ.get("AMALIA_MINUTOS")} min) — {len(trabalho)} fichas pendentes passam para a próxima atualização'); break
-        assunto = tuple(sorted(x.get('expressoes') or x.get('expressoes_auto') or [])) or None
+        assunto = assunto_de(x)
         if assunto and assunto in feitas and x['pertinencia'] == feitas[assunto][1]:
             x['varrimento'] = feitas[assunto][0]; print('ficha partilhada ·', x['tema'][:60]); continue
         # nome único: dia + número da AR + tema (o dia e o tema não chegam: a mesma comissão reúne várias vezes no mesmo dia)
