@@ -36,6 +36,7 @@ jobs:
       AMALIA_MINUTOS: '120'   # tempo máximo do Amália nas fichas por corrida; o que faltar fica para a seguinte
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }   # o estado mais recente (uma corrida em fila não pode trabalhar sobre dados antigos)
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
       - name: Recolher a agenda da AR (semana-alvo)
@@ -133,6 +134,7 @@ jobs:
       PAGINA_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }   # o estado mais recente (uma corrida em fila não pode trabalhar sobre dados antigos)
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
       - name: Já foi enviado esta edição?
