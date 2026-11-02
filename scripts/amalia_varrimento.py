@@ -1,12 +1,13 @@
 """Varrimento mediático AUTOMÁTICO: as notícias das fichas vêm SEMPRE e SÓ do Radar de Notícias por área governativa
 (nunca de pesquisa manual nem da memória do modelo). Fichas feitas à mão (sem origem automática) são substituídas.
   * Sem o Amália (--sem-ia): ficha só com a seleção de notícias do Radar (data, órgão, título, ligação), sem análise.
-  * Com o Amália: a mesma seleção, com um resumo factual da cobertura e uma síntese factual de cada notícia; substitui as fichas sem síntese.
-  As fichas só sinalizam notícias do Radar: não classificam a natureza das notícias nem avaliam o impacto para a sessão
-  (esse juízo é do varrimento feito pela equipa, que é independente desta ferramenta).
+  * Com o Amália: a mesma seleção, lida pelo Amália: resumo factual da cobertura, síntese factual e natureza de cada notícia
+    (Crítica, Relevante, Positiva, Contextual — critério em CRITERIO, abaixo); substitui as fichas sem análise.
+  Só a amostra é lida e classificada; as restantes notícias da matéria ficam na lista completa da página, só com título e jornal.
+  Tudo vem do Radar: nada destas fichas vem dos varrimentos feitos pela equipa, nem lá entra.
 Níveis:
-  Imediato                              → ficha completa: até 20 notícias com síntese, impacto e natureza + enquadramento;
-  Vigilância                            → ficha curta: até 8 notícias com síntese e natureza + enquadramento de duas frases;
+  Imediato                              → ficha completa: até 20 notícias (dias de pico, jornais diferentes, as mais recentes);
+  Vigilância                            → ficha curta: até 8 notícias;
   Vigilância com cobertura «a subir»    → passa a ficha completa (3 ou mais notícias na última semana e mais do que na anterior);
                                           uma ficha completa não volta a curta (não se perde o que já foi reunido);
   Registo                               → sem ficha (fica a contagem e a lista completa, calculadas por cobertura.py).
@@ -35,8 +36,14 @@ from cobertura import corpus, procurar, norm, registar_nomes
 MAXN = {'completa': 20, 'curta': 8}
 SEM_IA = '--sem-ia' in sys.argv
 GERADO_RADAR = 'Radar de Notícias — seleção automática'
-GERADO_AMALIA = 'Radar de Notícias — seleção automática, com sínteses factuais do Amália'
-SIS = "Assistente de documentação (Secretaria-Geral do Governo). Português europeu. Responde só com JSON. Resume factos das notícias dadas, sem acrescentar factos, opiniões, avaliações ou recomendações."
+GERADO_AMALIA = 'Radar de Notícias — amostra lida e classificada pelo Amália'
+ROT = {'critica': 'Crítica', 'relevante': 'Relevante', 'positivo': 'Positiva', 'contexto': 'Contextual'}
+CRITERIO = """Natureza de cada notícia em relação a ESTA matéria:
+- "critica": crítica, acusação, polémica, falha ou problema que pode ser levantado contra o Governo ou a medida nesta reunião;
+- "relevante": diretamente sobre a matéria (medidas, números, posições dos intervenientes), sem polémica;
+- "positivo": diretamente sobre a matéria, em tom favorável (anúncio, resultado, apoio, elogio);
+- "contexto": enquadramento geral ou menção lateral."""
+SIS = "Assistente de apoio à decisão (Secretaria-Geral do Governo). Português europeu. Responde só com JSON. Usa só o que está nas notícias dadas, sem acrescentar factos."
 HOJE = datetime.date.today()
 
 def nivel_desejado(x):
@@ -57,6 +64,7 @@ def motivo(x, f):
     if SEM_IA and f.get('origem') == 'amalia': return None                             # sem modelo, não se estraga a análise feita
     if not SEM_IA and f.get('origem') == 'radar': return 'acrescentar a análise do Amália'
     if not f.get('fundo') and c.get('n', 0) > 0: return 'havia zero notícias, agora há'
+    if f.get('origem') == 'amalia' and any(n.get('natureza') not in ROT for n in f.get('fundo') or []): return 'falta a natureza das notícias'
     # a ficha tem de ser uma escolha da lista completa da matéria: se a pesquisa mudou e as notícias da ficha já lá não estão, refaz-se
     todas = c.get('todas') or []
     if f.get('fundo') and todas and len(todas) < 400:
@@ -77,7 +85,7 @@ def texto_radar(n_sel, c, n_total=None):
     n = c.get('n', n_total or 0); n7 = c.get('n7', 0)
     return (f"Das {n} notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias ({n7} na última semana), "
             f"estas são {n_sel}, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. "
-            f"A lista completa está no AR Preview. Sem análise: o enquadramento e o impacto chegam quando o Amália estiver ativo.")
+            f"A lista completa está no AR Preview. Sem análise: a síntese e a natureza de cada notícia chegam quando o Amália correr.")
 
 def alvos(d):
     """Matérias da semana (Imediato e Vigilância) e matérias Imediato das semanas seguintes, por esta ordem."""
@@ -146,13 +154,17 @@ Cobertura: {len(r)} notícias em 60 dias; abaixo, uma amostra de {len(nots)}, po
 Notícias numeradas:
 {lista}
 
-Devolve {{"enquadramento": "{enq}, só com base nestas notícias, sem avaliações", "noticias": [{{"n": 1, "sintese": "1 a 2 frases factuais: o que a notícia relata"}}, ...]}}
-Inclui todas as notícias, pela mesma numeração. Se uma notícia não for sobre esta matéria, devolve para ela "fora": true.""", 3200 if nivel == 'completa' else 1100)) or {}
+{CRITERIO}
+
+Devolve {{"enquadramento": "{enq}, só com base nestas notícias", "noticias": [{{"n": 1, "sintese": "1 a 2 frases factuais: o que a notícia relata", "natureza": "critica"|"relevante"|"positivo"|"contexto"}}, ...]}}
+Inclui todas as notícias, pela mesma numeração. Se uma notícia não for sobre esta matéria, devolve para ela "natureza": "fora".""", 3200 if nivel == 'completa' else 1100)) or {}
     por_n = {int(n.get('n', 0)): n for n in (r_.get('noticias') or []) if isinstance(n, dict) and str(n.get('n', '')).isdigit()}
     for i, a in enumerate(nots, 1):
         n = por_n.get(i, {})
         if n.get('fora') is True or n.get('natureza') == 'fora': continue
-        f['fundo'].append({'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'url': a.get('ligacao'), 'sintese': n.get('sintese') or a.get('titulo')})
+        nat = n.get('natureza') if n.get('natureza') in ROT else 'contexto'
+        f['fundo'].append({'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'url': a.get('ligacao'), 'sintese': n.get('sintese') or a.get('titulo'),
+                           'natureza': nat, 'naturezaLabel': ROT[nat]})
     f['amostra']['analisadas'] = len(f['fundo'])
     f['enquadramento'] = (r_.get('enquadramento') or '').strip() or f"{len(f['fundo'])} notícias analisadas no Radar de Notícias; enquadramento por gerar."
     return f
@@ -166,11 +178,13 @@ if __name__ == '__main__':
     # ligações: só as da Assembleia da República (as de notícias vêm do Radar, na ficha e na lista completa)
     for x in d['destaques'] + d['agenda'] + d.get('futuro', []):
         if x.get('ligacoes'): x['ligacoes'] = [l for l in x['ligacoes'] if 'parlamento.pt' in (l.get('url') or '')]
-    # as fichas só sinalizam notícias: sem natureza nem impacto (juízos que são do varrimento feito pela equipa, independente desta ferramenta)
+    # fichas automáticas: natureza com os rótulos atuais; sem «impacto para a sessão» (juízo que fica para o varrimento feito pela equipa)
     for f_ in d['fichas'].values():
         if f_.get('origem') in ('radar', 'amalia') and not f_.get('revista_por'):
             for n_ in f_.get('fundo') or []:
-                for k_ in ('natureza', 'naturezaLabel', 'impacto'): n_.pop(k_, None)
+                n_.pop('impacto', None)
+                if f_['origem'] == 'amalia' and n_.get('natureza') in ROT: n_['naturezaLabel'] = ROT[n_['natureza']]
+                elif f_['origem'] == 'radar': n_.pop('natureza', None); n_.pop('naturezaLabel', None)
             f_['gerado_por'] = GERADO_AMALIA if f_['origem'] == 'amalia' else GERADO_RADAR
     # fichas manuais que deixam de ser usadas: retiradas
     usadas = {x.get('varrimento') for x in d['destaques'] + d['agenda'] + d.get('futuro', [])}

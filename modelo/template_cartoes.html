@@ -172,6 +172,7 @@ h2 .ic{color:var(--verde)} h2 small{font-weight:400;font-size:12.5px;color:var(-
 table.simples{width:100%;border-collapse:collapse;font-size:12.5px;background:var(--branco);border:1px solid var(--borda);border-radius:8px;overflow:hidden}
 table.simples th{background:var(--azul);color:#fff;text-align:left;padding:7px 10px;font-weight:500} table.simples td{padding:7px 10px;border-top:1px solid var(--borda);vertical-align:top}
 .nat-chips{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 10px}
+.nat-nota{font-size:11px;color:var(--suave);margin:-4px 0 12px;line-height:1.5} .ln .nat{margin-left:6px;font-size:9.5px;padding:0 5px;vertical-align:1px} .ln.na-amostra{background:rgba(43,86,131,.05)}
 .linha-tempo{position:relative;padding-left:22px}
 .linha-tempo::before{content:'';position:absolute;left:7px;top:6px;bottom:6px;width:2px;background:var(--borda)}
 .not{position:relative;background:var(--branco);border:1px solid var(--borda);border-radius:8px;padding:10px 12px;margin-bottom:10px;font-size:12.8px}
@@ -455,7 +456,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
       <li>Só no <b>Radar de Notícias por área governativa</b> da UPE: órgãos de comunicação social nacionais, notícias dos <b>últimos 60 dias</b>, pesquisadas no título e no resumo. As ligações abrem diretamente o artigo do jornal.</li>
       <li>Em cada matéria procura-se o assunto, não o nome do órgão: nas audições, o membro do Governo ou a entidade ouvida, junto com o assunto (por exemplo, o Orçamento) ou com a pasta do ministro; nas restantes reuniões, as expressões distintivas da ordem de trabalhos; nas matérias recorrentes (Orçamento do Estado, Conta Geral do Estado, PRR…), expressões fixas.</li>
       <li>Os números de notícias são indicativos: mostram-se os últimos 7 dias, a comparação com os 7 anteriores e o total em 60 dias. A lista completa exporta-se para Excel em cada matéria.</li>
-      <li><b>Fichas de varrimento</b>: sinalizam notícias do Radar de Notícias — seleção automática ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e as mais recentes), com um resumo factual da cobertura e uma síntese factual de cada notícia escritos pelo Amália. Não classificam a natureza das notícias nem avaliam o impacto, e são independentes dos varrimentos feitos pela equipa da UPE. Completa nas matérias Imediato, curta nas de Vigilância.</li>
+      <li><b>Fichas de varrimento</b>: das notícias que o Radar de Notícias encontrou para a matéria, escolhe-se uma amostra ao longo dos 60 dias — os dias de pico, jornais diferentes e as mais recentes; até 20 nas matérias Imediato, até 8 nas de Vigilância. Só a amostra é lida pelo Amália, que resume a cobertura, escreve uma síntese de cada notícia e classifica a sua natureza: <b>Crítica</b>, <b>Relevante</b>, <b>Positiva</b> ou <b>Contextual</b>. As restantes notícias ficam na lista completa, só com título e jornal. Tudo vem do Radar; nada vem dos varrimentos feitos pela equipa da UPE.</li>
     </ul>
 
     <h3>Como ler o hemiciclo</h3>
@@ -784,15 +785,22 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
   // ---------- gaveta do varrimento
   const ORD = Object.keys(D.fichas);
   function fichaHTML(f, comChips){
-    const chips = '';   // as fichas só sinalizam notícias do Radar: sem classificação da natureza
+    // natureza: só nas notícias da amostra, lidas pelo Amália; botões para filtrar e legenda com o critério
+    const comNat = f.fundo.some(n => NATL[n.natureza]);
+    const chips = comChips && comNat ? `<div class="nat-chips">${Object.keys(NATL).map(k=>`<button class="chip on" data-nat="${k}"><span class="nat ${k}" style="padding:0 5px">&nbsp;</span>${NATL[k]} <small>${f.fundo.filter(n=>n.natureza===k).length}</small></button>`).join('')}</div>` : '';
+    const legenda = comNat ? `<div class="nat-nota"><b>Crítica</b>: crítica, polémica ou problema que pode ser levantado na reunião · <b>Relevante</b>: sobre a matéria, sem polémica · <b>Positiva</b>: sobre a matéria, em tom favorável · <b>Contextual</b>: enquadramento ou menção lateral. Classificação automática do Amália, a partir do título e do resumo de cada notícia, sem revisão.</div>` : '';
     return `<div class="enq">${esc(f.enquadramento)}</div>
       ${f.atencao.length?`<h3><svg class="ic"><use href="#i-alert"/></svg>${esc(f.atencaoTitulo||'Pontos de atenção')}</h3><div class="atencao">${f.atencao.map(a=>`<div class="at">${a.titulo?`<b>${esc(a.titulo)}</b>`:''}${esc(a.texto)}</div>`).join('')}</div>`:''}
       ${f.blocos.map(b=>`<h3>${esc(b.titulo)}</h3><div class="bloco">${b.paragrafos.map(p=>`<p>${esc(p)}</p>`).join('')}${f.tabelas.filter(t=>t.titulo===b.titulo).map(t=>`<table class="simples"><thead><tr>${t.cabecalho.map(h=>`<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${t.linhas.map(l=>`<tr>${l.map(c=>`<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table>`).join('')}</div>`).join('')}
-      ${f.fundo.length?`<h3><svg class="ic"><use href="#i-news"/></svg>Fundo mediático <small style="font-weight:400;color:var(--suave)">· ${f.fundo.length} ${f.origem==='radar'?'notícias escolhidas':'notícias'}, por data</small></h3>${chips}<div class="linha-tempo">${f.fundo.map(n=>`<div class="not"><div class="n-top"><span>${esc(/^\d{4}-\d{2}-\d{2}/.test(n.data||'') ? fmtD(n.data)+' '+n.data.slice(0,4) : n.data)} · ${n.url?`<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.fonte)}</a>`:esc(n.fonte)}</span></div><div>${esc(n.sintese)}</div></div>`).join('')}</div>`:''}`;
+      ${f.fundo.length?`<h3><svg class="ic"><use href="#i-news"/></svg>${f.origem==='radar'?'Notícias escolhidas':'Notícias lidas pelo Amália'} <small style="font-weight:400;color:var(--suave)">· ${f.fundo.length}${f.amostra&&f.amostra.encontradas?' de '+f.amostra.encontradas:''}, por data</small></h3>${chips}${legenda}<div class="linha-tempo">${f.fundo.map(n=>`<div class="not ${esc(n.natureza||'')}" data-nat="${esc(n.natureza||'')}"><div class="n-top"><span>${esc(/^\d{4}-\d{2}-\d{2}/.test(n.data||'') ? fmtD(n.data)+' '+n.data.slice(0,4) : n.data)} · ${n.url?`<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.fonte)}</a>`:esc(n.fonte)}</span>${natTag(n.natureza)}</div><div>${esc(n.sintese)}</div></div>`).join('')}</div>`:''}`;
   }
   // lista completa das notícias encontradas no Radar (sem IA), agrupada por dia
   const coberturaDe = k => pool.filter(x => !x._hist && x.varrimento===k && x.cobertura).map(x=>x.cobertura).sort((a,b)=>(b.todas||[]).length-(a.todas||[]).length)[0];
-  function listaHTML(c, aberta){
+  const NATL = {critica:'Crítica', relevante:'Relevante', positivo:'Positiva', contexto:'Contextual'};
+  const natTag = v => NATL[v] ? `<span class="nat ${v}">${NATL[v]}</span>` : '';
+  // amostra = {ligação: natureza} das notícias lidas pelo Amália na ficha; na lista completa levam a mesma etiqueta
+  function listaHTML(c, aberta, amostra){
+    amostra = amostra || {}; const nAm = Object.keys(amostra).length;
     const L = (c && c.todas) || []; if (!L.length) return '';
     // a mesma notícia (despacho da Lusa) sai em vários órgãos: agrupa-se por título normalizado, uma linha com todos os órgãos
     const chaveT = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/["“”'«»]/g,'').replace(/\s*[-–—:,]\s*(diz|afirma|garante|alerta|avisa|admite)?\s*(o\s+)?(governo|ministro|ministra|pm|tdc)\s*$/,'').replace(/[^a-z0-9]+/g,' ').trim().split(' ').slice(0,9).join(' ');
@@ -800,10 +808,10 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     L.forEach(n => { const dk = n[0].slice(0,10), k = chaveT(n[2]); const j = vistas.get(k);
       if (j && j.dk === dk) { if (!j.fontes.some(f=>f[0]===n[1])) j.fontes.push([n[1], n[3]]); return; }
       const g = {dk, titulo:n[2], url:n[3], fontes:[[n[1], n[3]]]}; vistas.set(k, g); (dias[dk] = dias[dk] || []).push(g); });
-    const corpo = Object.keys(dias).sort().reverse().map(dk => `<div class="ln-dia">${esc(fmtD(dk))} · ${dias[dk].length}</div>` + dias[dk].map(g => `<div class="ln" data-t="${esc((g.fontes.map(f=>f[0]).join(' ')+' '+g.titulo).toLowerCase())}">${g.url?`<a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.titulo)}</a>`:esc(g.titulo)}<span class="ln-f">${g.fontes.map(f=>f[1]?`<a href="${esc(f[1])}" target="_blank" rel="noopener">${esc(f[0])}</a>`:esc(f[0])).join(' · ')}${g.fontes.length>1?` <i>(${g.fontes.length} órgãos)</i>`:''}</span></div>`).join('')).join('');
+    const corpo = Object.keys(dias).sort().reverse().map(dk => `<div class="ln-dia">${esc(fmtD(dk))} · ${dias[dk].length}</div>` + dias[dk].map(g => `<div class="ln${amostra[g.url]?' na-amostra':''}" data-t="${esc((g.fontes.map(f=>f[0]).join(' ')+' '+g.titulo).toLowerCase())}">${g.url?`<a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.titulo)}</a>`:esc(g.titulo)}${natTag(amostra[g.url])}<span class="ln-f">${g.fontes.map(f=>f[1]?`<a href="${esc(f[1])}" target="_blank" rel="noopener">${esc(f[0])}</a>`:esc(f[0])).join(' · ')}${g.fontes.length>1?` <i>(${g.fontes.length} órgãos)</i>`:''}</span></div>`).join('')).join('');
     const nHist = Object.values(dias).reduce((s,v)=>s+v.length,0);
     return `<details class="todas" ${aberta?'open':''}><summary><svg class="ic"><use href="#i-news"/></svg>Todas as notícias encontradas no Radar (${c.n})</summary>
-      <p class="ln-nota">${cobTxt(c)}${c.n > L.length ? ` · mostram-se as ${L.length} mais recentes` : ''}. Lista automática, sem análise${nHist<L.length?`; a mesma notícia publicada em vários jornais aparece numa só linha, com os jornais por baixo (${nHist} linhas)`:''}.</p>
+      <p class="ln-nota">${cobTxt(c)}${c.n > L.length ? ` · mostram-se as ${L.length} mais recentes` : ''}. ${nAm ? `Lista completa, só com o título e o jornal: estas notícias não foram lidas nem classificadas pelo Amália, exceto as ${nAm} da amostra acima, que aqui levam a mesma etiqueta` : 'Lista automática, só com o título e o jornal, sem leitura nem classificação'}${nHist<L.length?`; a mesma notícia publicada em vários jornais aparece numa só linha, com os jornais por baixo (${nHist} linhas)`:''}.</p>
       <input class="ln-q" type="search" placeholder="Filtrar por órgão ou palavra do título…"><div class="ln-lista">${corpo}</div></details>`;
   }
   let atual = null;
@@ -811,10 +819,10 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
     const f = D.fichas[k]; if (!f) return; atual = k;
     $('#g-titulo').innerHTML = esc(f.titulo) + (f.gerado_por ? `<span class="nivel">${f.nivel==='curta'?'ficha curta':'ficha'} · ${esc(f.revista_por ? 'revista por '+f.revista_por : f.gerado_por)}</span>` : ''); $('#g-meta').textContent = f.meta;
     const c = coberturaDe(k); if (c) { c._titulo = f.titulo; } listaAtual = c || null; listaMateria = pool.find(y => !y._hist && y.varrimento===k) || null;
-    const amostra = f.amostra && f.origem!=='radar' ? `<div class="g-amostra">${f.origem==='radar'?'Seleção automática':'Amostra'} de <b>${f.amostra.analisadas}</b> notícias${f.origem==='radar'?'':' analisadas'}, de <b>${f.amostra.encontradas}</b> encontradas em 60 dias no Radar de Notícias, escolhidas ao longo do período (dias de maior cobertura, variedade de órgãos e as mais recentes).</div>` : '';
+    const amostra = f.amostra && f.origem!=='radar' ? `<div class="g-amostra">${f.origem==='radar'?'Seleção automática':'Amostra'} de <b>${f.amostra.analisadas}</b> notícias${f.origem==='radar'?'':' analisadas'}, de <b>${f.amostra.encontradas}</b> encontradas em 60 dias no Radar de Notícias, escolhidas ao longo do período (dias de maior cobertura, variedade de órgãos e as mais recentes).${f.origem==='amalia'?' Só estas foram lidas pelo Amália, que escreveu a síntese e classificou a natureza de cada uma; as restantes ficam na lista completa, no fim.':''}</div>` : '';
     const novas = f.novas ? `<div class="g-novas"><svg class="ic"><use href="#i-alert"/></svg> <b>${f.novas} ${f.novas===1?'notícia nova':'notícias novas'}</b> desde ${f.revista_por ? 'a revisão desta ficha' : 'que esta ficha foi feita'}${f.base && f.base.em ? ` (${esc(fmtD(f.base.em))})` : ''}. Veja-as na lista completa, no fim.</div>` : '';
     // sem análise do Amália, a seleção é redundante com a lista: mostra-se só a lista completa, aberta
-    botaoExportar(); $('#g-corpo').innerHTML = novas + amostra + (f.origem==='radar' ? `<div class="enq">Todas as notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias, por dia. Lista automática: o resumo factual e as sínteses chegam quando o Amália correr. No PDF, a ficha mostra uma seleção destas notícias.</div>` + listaHTML(c, true) : fichaHTML(f, true) + listaHTML(c, false)); $('#g-corpo').scrollTop = 0;
+    botaoExportar(); $('#g-corpo').innerHTML = novas + amostra + (f.origem==='radar' ? `<div class="enq">Todas as notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias, por dia. Lista automática: o resumo factual e as sínteses chegam quando o Amália correr. No PDF, a ficha mostra uma seleção destas notícias.</div>` + listaHTML(c, true) : fichaHTML(f, true) + listaHTML(c, false, Object.fromEntries(f.fundo.filter(n=>n.url&&n.natureza).map(n=>[n.url,n.natureza])))); $('#g-corpo').scrollTop = 0;
     const i = ORD.indexOf(k);
     $('#g-nav').innerHTML = `${i>0?`<a href="#" data-ver="${ORD[i-1]}">‹ ${esc(D.fichas[ORD[i-1]].titulo)}</a>`:''}${i>0&&i<ORD.length-1?' · ':''}${i<ORD.length-1?`<a href="#" data-ver="${ORD[i+1]}">${esc(D.fichas[ORD[i+1]].titulo)} ›</a>`:''}`;
     $('#gaveta').classList.add('on'); $('#veu').classList.add('on'); $('#gaveta').setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';
