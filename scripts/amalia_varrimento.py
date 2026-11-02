@@ -57,6 +57,12 @@ def motivo(x, f):
     if SEM_IA and f.get('origem') == 'amalia': return None                             # sem modelo, não se estraga a análise feita
     if not SEM_IA and f.get('origem') == 'radar': return 'acrescentar a análise do Amália'
     if not f.get('fundo') and c.get('n', 0) > 0: return 'havia zero notícias, agora há'
+    # a ficha tem de ser uma escolha da lista completa da matéria: se a pesquisa mudou e as notícias da ficha já lá não estão, refaz-se
+    todas = c.get('todas') or []
+    if f.get('fundo') and todas and len(todas) < 400:
+        urls, pares = {t[3] for t in todas}, {(t[1], t[0][:10]) for t in todas}
+        fora = sum(1 for n in f['fundo'] if n.get('url') not in urls and (n.get('fonte'), (n.get('data') or '')[:10]) not in pares)
+        if fora * 3 > len(f['fundo']): return f'{fora} notícias da ficha já não estão na lista da matéria (pesquisa mudou)'
     cabe = min(MAXN.get(f.get('nivel'), 8), c.get('n', 0))
     if len(f.get('fundo', [])) < cabe and len(f.get('fundo', [])) < cabe * 0.75:      # ficha muito abaixo do que o Radar já tem
         return f"ficha com {len(f.get('fundo', []))} notícias, o Radar tem {c.get('n', 0)}"
