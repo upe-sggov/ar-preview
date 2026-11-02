@@ -6,24 +6,24 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48600@ar-preview
-DTSTAMP:20261102T094250Z
+DTSTAMP:20261102T103500Z
 DTSTART:20261102T090000Z
 DTEND:20261102T110000Z
 SUMMARY:AR · Ministro das Infraestruturas e Habitação\, Miguel Pinto Lu
  z: Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 71 · Plenário · c
- onjunta com Comissão de Orçamento\, Finanças e Administração Públic
- a\nGoverno: Ministro das Infraestruturas e Habitação\, Miguel Pinto Luz
- : Orçamento do Estado 2027 · Ministro das Infraestruturas e Habitação
- \, Miguel Pinto Luz e mais 3 membros do Governo\nSíntese: Audição no 
- âmbito da apreciação\, na especialidade\, da Proposta de Lei n.º 110/
- XVII/2.ª (GOV) – «Orçamento do Estado para 2027.»\nUnidades (Suport
- e à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR: https://www.pa
- rlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.aspx\nEmissões em d
- ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
- upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
- pode mudar.
+DESCRIPTION:Comissão de Infraestruturas\, Mobilidade e Habitação · Reu
+ nião n.º 71 · Plenário · conjunta com Comissão de Orçamento\, Fina
+ nças e Administração Pública\nGoverno: Ministro das Infraestruturas e
+  Habitação\, Miguel Pinto Luz · Secretário de Estado das Infraestrutu
+ ras\, Hugo Espírito Santo e mais 2 membros do Governo\nSíntese: Audiç
+ ão no âmbito da apreciação\, na especialidade\, da Proposta de Lei n.
+ º 110/XVII/2.ª (GOV) – «Orçamento do Estado para 2027.»\nUnidades 
+ (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR: https:/
+ /www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.aspx\nEmissõ
+ es em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: h
+ ttps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda
+  da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

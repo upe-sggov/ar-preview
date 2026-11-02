@@ -6,20 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48625@ar-preview
-DTSTAMP:20261102T094250Z
+DTSTAMP:20261102T103500Z
 DTSTART:20261104T090000Z
 DTEND:20261104T110000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
+SUMMARY:AR · Audição da ANMP – Associação Nacional Municípios Port
+ ugueses — Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 135 · Plenário\nS
- íntese: Audição da ANMP – Associação Nacional Municípios Portugue
- ses no âmbito da apreciação\, na especialidade\, da Proposta de Lei n.
- º 110/XVII/2.ª…\nUnidades (Suporte à Decisão): DAPL\, Transversal\n
- Página na AR: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas
- /default.aspx\nEmissões em direto (quando houver): https://canal.parlame
- nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
-  indicativa\; a agenda da AR pode mudar.
+DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
+  · Reunião n.º 135 · Plenário\nUnidades (Suporte à Decisão): DAPL\
+ , Transversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg
+ /5COFAP/Paginas/default.aspx\nEmissões em direto (quando houver): https:
+ //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
+ w/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

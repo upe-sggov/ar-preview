@@ -6,20 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48612@ar-preview
-DTSTAMP:20261102T094250Z
+DTSTAMP:20261102T103500Z
 DTSTART:20261104T131500Z
 DTEND:20261104T151500Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
+SUMMARY:AR · Audiência da Ordem dos Contabilistas Certificados - OCC —
+  Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala 1
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 36 · Sala 1\nSínte
- se: Audiência da Ordem dos Contabilistas Certificados - OCC no âmbito d
- a apreciação\, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (
- GOV)…\nUnidades (Suporte à Decisão): DAPL\, Transversal\nPágina na A
- R: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR 
- Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\
- ; a agenda da AR pode mudar.
+DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
+  · Reunião n.º 36 · Sala 1\nSíntese: Paula Franco - Bastonária da O
+ rdem dos Contabilistas Certificados\; Amândio Silva\nUnidades (Suporte 
+ à Decisão): DAPL\, Transversal\nPágina na AR: https://www.parlamento.p
+ t/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (qua
+ ndo houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.
+ github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar
+ .
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

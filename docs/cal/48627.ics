@@ -6,20 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48627@ar-preview
-DTSTAMP:20261102T094250Z
+DTSTAMP:20261102T103500Z
 DTSTART:20261105T110000Z
 DTEND:20261105T130000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
+SUMMARY:AR · Audição do Conselho das Finanças Públicas — Orçamento
+  do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 140 · Plenário\nS
- íntese: Audição do Conselho das Finanças Públicas no âmbito da apre
- ciação\, na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV)
-  – Orçamento…\nUnidades (Suporte à Decisão): DAPL\, Transversal\nP
- ágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/
- default.aspx\nEmissões em direto (quando houver): https://canal.parlamen
- to.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim 
- indicativa\; a agenda da AR pode mudar.
+DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
+  · Reunião n.º 140 · Plenário\nSíntese: Prof.ª Nazaré da Costa Ca
+ bral\, Presidente\; Prof. Lorenzo Forni\, Vice-Presidente\nUnidades (Supo
+ rte à Decisão): DAPL\, Transversal\nPágina na AR: https://www.parlamen
+ to.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto 
+ (quando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sg
+ gov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode m
+ udar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

@@ -6,23 +6,23 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48566@ar-preview
-DTSTAMP:20261102T094250Z
+DTSTAMP:20261102T103500Z
 DTSTART:20261105T140000Z
 DTEND:20261105T160000Z
 SUMMARY:AR · Ministro da Defesa Nacional\, Nuno Melo: Orçamento da Defes
  a Nacional
 LOCATION:Assembleia da República
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 50 · conjunta com C
- omissão de Orçamento\, Finanças e Administração Pública\nGoverno: M
- inistro da Defesa Nacional\, Nuno Melo: Orçamento da Defesa Nacional · 
- Ministro da Defesa Nacional\, Nuno Melo e mais 2 membros do Governo\nSín
- tese: Audição no âmbito da apreciação\, na especialidade\, da Propos
- ta de Lei n.º 110/XVII/2.ª (GOV) – Aprova o Orçamento do Estado para
-  2027\, nos…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversa
- l\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/3CDN/Pagina
- s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
- ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
- m indicativa\; a agenda da AR pode mudar.
+DESCRIPTION:Comissão de Defesa Nacional · Reunião n.º 50 · conjunta c
+ om Comissão de Orçamento\, Finanças e Administração Pública\nGovern
+ o: Ministro da Defesa Nacional\, Nuno Melo · Secretário de Estado Adjun
+ to e da Defesa Nacional\, Álvaro Castelo Branco e mais 1 membro do Gover
+ no\nSíntese: Audição no âmbito da apreciação\, na especialidade\, d
+ a Proposta de Lei n.º 110/XVII/2.ª (GOV) – Aprova o Orçamento do Est
+ ado para 2027\, nos…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Tr
+ ansversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/3CD
+ N/Paginas/default.aspx\nEmissões em direto (quando houver): https://cana
+ l.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHo
+ ra de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/3CDN/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT

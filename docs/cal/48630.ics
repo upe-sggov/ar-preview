@@ -6,23 +6,23 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48630@ar-preview
-DTSTAMP:20261102T094250Z
+DTSTAMP:20261102T103500Z
 DTSTART:20261106T150000Z
 DTEND:20261106T170000Z
 SUMMARY:AR · Ministro de Estado e das Finanças\, Joaquim Miranda Sarment
  o: Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 144 · Plenário\nGo
- verno: Ministro de Estado e das Finanças\, Joaquim Miranda Sarmento: Or
- çamento do Estado 2027 · Ministro de Estado e das Finanças\, Joaquim M
- iranda Sarmento e mais 4 membros do Governo\nSíntese: Audição no âmbi
- to da apreciação\, na especialidade\, da Proposta de Lei n.º 110/XVII/
- 2.ª (GOV) – Orçamento do Estado para 2027\nUnidades (Suporte à Decis
- ão): DACDP\, DAPL\, Transversal\nPágina na AR: https://www.parlamento.p
- t/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (qua
- ndo houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.
- github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar
- .
+DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
+  · Reunião n.º 144 · Plenário\nGoverno: Ministro de Estado e das Fin
+ anças\, Joaquim Miranda Sarmento · Secretário de Estado Adjunto e do O
+ rçamento\, José Maria Brandão de Brito e mais 3 membros do Governo\nS
+ íntese: Audição no âmbito da apreciação\, na especialidade\, da Pro
+ posta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027\
+ nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na A
+ R: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
+ x\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR 
+ Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\
+ ; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

@@ -6,19 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48605@ar-preview
-DTSTAMP:20261102T094250Z
+DTSTAMP:20261102T103500Z
 DTSTART:20261103T150000Z
 DTEND:20261103T170000Z
-SUMMARY:AR · Comissão de Negócios Estrangeiros e Comunidades Portuguesa
- s
+SUMMARY:AR · Audição do Primeiro Vice-Presidente do Parlamento Iraquian
+ o\, Senhor Adnan Fayhan Al-Dulaimi e da sua delegação
 LOCATION:Assembleia da República
-DESCRIPTION:Comissões Parlamentares · Reunião n.º 49\nSíntese: Audiç
- ão do Primeiro Vice-Presidente do Parlamento Iraquiano\, Senhor Adnan Fa
- yhan Al-Dulaimi e da sua delegação\nUnidades (Suporte à Decisão): DCI
- RI\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/2CNECP/Pag
- inas/default.aspx\nEmissões em direto (quando houver): https://canal.par
- lamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de
-  fim indicativa\; a agenda da AR pode mudar.
+DESCRIPTION:Comissão de Negócios Estrangeiros e Comunidades Portuguesas 
+ · Reunião n.º 49\nUnidades (Suporte à Decisão): DCIRI\nPágina na AR
+ : https://www.parlamento.pt/sites/com/XVIILeg/2CNECP/Paginas/default.aspx
+ \nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR P
+ review: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\;
+  a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/2CNECP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT
