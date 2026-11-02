@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-02T14:52",
+ "recolha": "2026-11-02T16:58",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -140,6 +140,21 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   },
   {
+   "id_ar": 48636,
+   "data": "2026-11-03",
+   "hora": "09h00",
+   "tema": "Comissão de Agricultura e Pescas",
+   "orgao": "Comissão de Agricultura e Pescas",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 72 · Plenário",
+   "resumo": "Audição da Ministra do Ambiente e Energia no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027, nos termos do n.º 2 do artigo 211.º do Regimento da Assembleia da República (conjunta com a Comissão de Orçamento, Finanças e Administração ",
+   "ordemTrabalhos": "Audição da Ministra do Ambiente e Energia no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027, nos termos do n.º 2 do artigo 211.º do Regimento da Assembleia da República (conjunta com a Comissão de Orçamento, Finanças e Administração Pública):\n Ministra do Ambiente e Energia – Maria da Graça Carvalho\n Secretário de Estado Adjunto e da Energia – Jean Barroca\n Secretário de Estado do Ambiente – João Manuel Esteves",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.aspx"
+  },
+  {
    "id_ar": 48616,
    "data": "2026-11-03",
    "hora": "12h30",
@@ -181,7 +196,7 @@
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 108 · Sala 6",
    "resumo": "1. Distribuição de iniciativas e nomeação de relatores;\n 2. Distribuição de iniciativas europeias;\n 3. Apreciação e votação dos pareceres sobre as seguintes iniciativas europeias:\n a) COM(2026)681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabili",
-   "ordemTrabalhos": "1. Distribuição de iniciativas e nomeação de relatores;\n 2. Distribuição de iniciativas europeias;\n 3. Apreciação e votação dos pareceres sobre as seguintes iniciativas europeias:\n a) COM(2026)681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relator: Dep. Paulo Lopes Marcelo (PSD);\n b) COM(2026)484 Proposta de DECISÃO DO CONSELHO relativa à assinatura e à aplicação provisória do Acordo-Quadro entre a União Europeia e os Estados Unidos da América sobre o intercâmbio recíproco de informações para efeitos de verificação da identidade, controlo e investigações de segurança, no que respeita aos procedimentos na fronteira e aos pedidos de autorização de viagem e COM(2026)485 Proposta de DECISÃO DO CONSELHO relativa à celebração do Acordo-Quadro entre a União Europeia e os Estados Unidos da América sobre o intercâmbio recíproco de informações para efeitos de verificação da identidade, controlo e investigações de segurança, no que respeita aos procedimentos na fronteira e aos pedidos de autorização e de vistos - Relator: Dep. António Rodrigues (PSD).",
+   "ordemTrabalhos": "1. Distribuição de iniciativas e nomeação de relatores;\n 2. Distribuição de iniciativas europeias;\n 3. Apreciação e votação dos pareceres sobre as seguintes iniciativas europeias:\n a) COM(2026)681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relator: Dep. Paulo Lopes Marcelo (PSD);\n b) COM(2026)484 Proposta de DECISÃO DO CONSELHO relativa à assinatura e à aplicação provisória do Acordo-Quadro entre a União Europeia e os Estados Unidos da América sobre o intercâmbio recíproco de informações para efeitos de verificação da identidade, controlo e investigações de segurança, no que respeita aos procedimentos na fronteira e aos pedidos de autorização de viagem e COM(2026)485 Proposta de DECISÃO DO CONSELHO relativa à celebração do Acordo-Quadro entre a União Europeia e os Estados Unidos da América sobre o intercâmbio recíproco de informações para efeitos de verificação da identidade, controlo e investigações de segurança, no que respeita aos procedimentos na fronteira e aos pedidos de autorização e de vistos - Relator: Dep. António Rodrigues (PSD);\n 4. Fixação da redação final nos termos do disposto nos artigos 156.º e 128.º, n.º 8 do RAR, do texto com origem no Projeto de Resolução n.º 1334/XVII/1.ª (PSD, CH, PS, IL, CDS-PP, PAN, JPP) - Regulamento de registo e publicitação das audiências e interações realizadas no quadro da representação legítima de interesses junto da Assembleia da República.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.aspx"
   },
   {
@@ -255,8 +270,8 @@
     "Comissões Parlamentares"
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 50",
-   "resumo": "Audição do Grupo Parlamentar de Amizade México-Portugal.",
-   "ordemTrabalhos": "Audição do Grupo Parlamentar de Amizade México-Portugal.",
+   "resumo": "Audiência do Grupo Parlamentar de Amizade México-Portugal.",
+   "ordemTrabalhos": "Audiência do Grupo Parlamentar de Amizade México-Portugal.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/2CNECP/Paginas/default.aspx"
   },
   {
@@ -275,6 +290,21 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   },
   {
+   "id_ar": 48638,
+   "data": "2026-11-04",
+   "hora": "09h00",
+   "tema": "Comissão da Reforma do Estado e Poder Local",
+   "orgao": "Comissão da Reforma do Estado e Poder Local",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 62 · Plenário",
+   "resumo": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx"
+  },
+  {
    "id_ar": 48624,
    "data": "2026-11-04",
    "hora": "11h00",
@@ -288,6 +318,21 @@
    "resumo": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027",
    "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48637,
+   "data": "2026-11-04",
+   "hora": "11h00",
+   "tema": "Comissão da Reforma do Estado e Poder Local",
+   "orgao": "Comissão da Reforma do Estado e Poder Local",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 63 · Plenário",
+   "resumo": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx"
   },
   {
    "id_ar": 48613,
@@ -513,6 +558,21 @@
    "resumo": "Audição do Ministro da Agricultura e Mar no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Ministro da Agricultura e Mar – José Manuel Fernandes\n Secretário de Estado das Pescas e do Mar – Salvador Malheiro\n Secretário de Estado da",
    "ordemTrabalhos": "Audição do Ministro da Agricultura e Mar no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Ministro da Agricultura e Mar – José Manuel Fernandes\n Secretário de Estado das Pescas e do Mar – Salvador Malheiro\n Secretário de Estado da Agricultura – João Moura\n Secretário de Estado das Florestas – Rui Ladeira",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48635,
+   "data": "2026-11-05",
+   "hora": "18h00",
+   "tema": "Comissão de Agricultura e Pescas",
+   "orgao": "Comissão de Agricultura e Pescas",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 73 · Plenário",
+   "resumo": "Audição do Ministro da Agricultura e Mar no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027, nos termos conjugados do n.º 5 do artigo 104.º e do n.º 2 do artigo 211.º do Regimento da Assembleia da República. (conjunta com a Comissão d",
+   "ordemTrabalhos": "Audição do Ministro da Agricultura e Mar no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027, nos termos conjugados do n.º 5 do artigo 104.º e do n.º 2 do artigo 211.º do Regimento da Assembleia da República. (conjunta com a Comissão de Orçamento, Finanças e Administração Pública)\n Ministro da Agricultura e Mar – José Manuel Fernandes\n Secretário de Estado das Pescas e do Mar – Salvador Malheiro\n Secretário de Estado da Agricultura – João Moura\n Secretário de Estado das Florestas – Rui Ladeira",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.aspx"
   },
   {
    "id_ar": 48590,
