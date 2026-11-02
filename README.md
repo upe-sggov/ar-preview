@@ -12,7 +12,7 @@ Agenda parlamentar semanal para os dirigentes da área de Suporte à Decisão da
 | Quando (hora de Lisboa) | O quê |
 |---|---|
 | Todos os dias, 7h07 e 18h07 | Recolhe a agenda da AR, atualiza a edição da semana, marca o que é novo, alterado ou retirado, refaz a página e o PDF |
-| Segunda-feira, 9h07 | Envia aos dirigentes o resumo por unidade, com o logótipo da SGGov, o PDF em anexo, a ligação para a página e, em cada matéria, a ligação para a AR e para o varrimento |
+| Segunda-feira de manhã (9h07, com reserva às 9h37 e 11h07) | Envia aos dirigentes a lista de todas as reuniões da semana, com prioridade e unidade, a ligação para a página e para o PDF (sem anexo) e, em cada matéria, a ligação para a AR, o varrimento e o calendário |
 | Quando começa uma semana nova | Arquiva a edição anterior e avisa a pessoa da triagem com a lista de matérias a rever |
 
 **Semana-alvo:** de segunda a quinta, a semana em curso; de sexta a domingo, a semana seguinte.

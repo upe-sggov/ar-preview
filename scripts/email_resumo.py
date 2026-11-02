@@ -43,8 +43,7 @@ def linha(x):
     ft = 'font:400 13px Arial,sans-serif;color:#3d4249' if reg else 'font:600 14px Arial,sans-serif;color:#171715'
     tema = (f'<a href="{e(pag)}" style="{ft};text-decoration:none;line-height:1.4">{e(x["tema"])}</a>'
             if pag else f'<span style="{ft};line-height:1.4">{e(x["tema"])}</span>')
-    novo = (' <span style="font:600 9px Arial,sans-serif;color:#6b5200;background:#fff4c2;border-radius:3px;padding:1px 5px;'
-            'letter-spacing:.6px;text-transform:uppercase">novo</span>') if x.get('novo') else ''
+    novo = ''   # sem a etiqueta «novo» no email: para quem o recebe, tudo é novo (na página, «novo» é o que mudou desde o fecho da edição)
     gov, sin = membro_governo(x), ('' if reg else sintese(x))
     org = x.get('orgao') or ''
     info = f'<div style="font:400 11.5px Arial,sans-serif;color:#8a9098;padding-top:2px;line-height:1.45">{e(org)}</div>' if org and org != x['tema'] else ''

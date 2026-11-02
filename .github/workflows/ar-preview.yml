@@ -1,7 +1,7 @@
 name: AR Preview — semana na Assembleia da República
 # Todos os dias, 7h07 e 18h07 (Lisboa): relê a agenda da AR e atualiza a página (novas, alteradas, retiradas).
 #   De segunda a quinta trabalha a semana em curso; de sexta a domingo prepara a semana seguinte.
-# Segunda-feira, 9h07 (Lisboa): envia o email aos dirigentes com a edição já atualizada nessa manhã.
+# Segunda-feira de manhã (9h07 Lisboa, com horas de reserva): envia o email aos dirigentes com a edição já atualizada nessa manhã.
 # O GitHub não garante as horas agendadas (atrasa-as ou salta-as quando está carregado: a 2/11/2026 não correram nem a das 7h07
 # nem a das 9h07). Por isso há horas de reserva — 7h37 para a atualização, 9h37 e 11h07 para o envio — e o envio só sai uma vez
 # por edição: fica registado em docs/.enviado e as corridas agendadas seguintes não voltam a enviar. O envio à mão envia sempre.
@@ -123,7 +123,7 @@ jobs:
           from: AR Preview
           to: ${{ secrets.EMAIL_TRIAGEM }}
           subject: "AR Preview — nova semana em preparação: triagem para rever"
-          body: "A edição da semana seguinte já está na página e será atualizada duas vezes por dia. Para corrigir uma unidade, uma pertinência ou o assunto, acrescente uma linha a dados/correcoes.csv (chave;uo;pertinencia;assunto), copiando a chave da lista em anexo. As correções entram na atualização seguinte. Envio aos dirigentes: segunda-feira, 9h07."
+          body: "A edição da semana seguinte já está na página e será atualizada duas vezes por dia. Para corrigir uma unidade, uma pertinência ou o assunto, acrescente uma linha a dados/correcoes.csv (chave;uo;pertinencia;assunto), copiando a chave da lista em anexo. As correções entram na atualização seguinte. Envio aos dirigentes: segunda-feira de manhã."
           attachments: dados/triagem_semana.csv
 
   enviar:
