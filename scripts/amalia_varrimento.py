@@ -1,7 +1,9 @@
 """Varrimento mediático AUTOMÁTICO: as notícias das fichas vêm SEMPRE e SÓ do Radar de Notícias por área governativa
 (nunca de pesquisa manual nem da memória do modelo). Fichas feitas à mão (sem origem automática) são substituídas.
   * Sem o Amália (--sem-ia): ficha só com a seleção de notícias do Radar (data, órgão, título, ligação), sem análise.
-  * Com o Amália: a mesma seleção, com enquadramento, síntese, natureza e impacto; substitui as fichas sem análise.
+  * Com o Amália: a mesma seleção, com um resumo factual da cobertura e uma síntese factual de cada notícia; substitui as fichas sem síntese.
+  As fichas só sinalizam notícias do Radar: não classificam a natureza das notícias nem avaliam o impacto para a sessão
+  (esse juízo é do varrimento feito pela equipa, que é independente desta ferramenta).
 Níveis:
   Imediato                              → ficha completa: até 20 notícias com síntese, impacto e natureza + enquadramento;
   Vigilância                            → ficha curta: até 8 notícias com síntese e natureza + enquadramento de duas frases;
@@ -31,9 +33,10 @@ import json, pathlib, re, sys, datetime, math, collections, os, time
 from cobertura import corpus, procurar, norm, registar_nomes
 
 MAXN = {'completa': 20, 'curta': 8}
-ROT = {'critica': 'Crítica / muito relevante', 'relevante': 'Muito relevante', 'positivo': 'Contextual / positivo', 'contexto': 'Contextual'}
 SEM_IA = '--sem-ia' in sys.argv
-SIS = "Analista da DSSD (Secretaria-Geral do Governo). Português europeu. Responde só com JSON. Não acrescentes factos que não estejam nas notícias dadas."
+GERADO_RADAR = 'Radar de Notícias — seleção automática'
+GERADO_AMALIA = 'Radar de Notícias — seleção automática, com sínteses factuais do Amália'
+SIS = "Assistente de documentação (Secretaria-Geral do Governo). Português europeu. Responde só com JSON. Resume factos das notícias dadas, sem acrescentar factos, opiniões, avaliações ou recomendações."
 HOJE = datetime.date.today()
 
 def nivel_desejado(x):
@@ -117,7 +120,7 @@ def ficha(x, r, perguntar, json_da_resposta):
     meta = f"{x.get('tipoLabel','')} · {x['dataLabel']}{', ' + x['hora'] if x.get('hora') else ''} · UO de referência: {' · '.join(x['uo']) or '—'}"
     datas = sorted({a.get('data', '')[:16] for a in r})
     f = {'titulo': x['tema'], 'meta': meta, 'nivel': nivel, 'origem': 'radar' if perguntar is None else 'amalia',
-         'gerado_por': 'Radar de Notícias — seleção automática, sem análise' if perguntar is None else 'Amália — a rever',
+         'gerado_por': GERADO_RADAR if perguntar is None else GERADO_AMALIA,
          'atencao': [], 'blocos': [], 'tabelas': [], 'fundo': [],
          'amostra': {'analisadas': len(nots), 'encontradas': len(r)},
          'base': {'ultima': datas[-1] if datas else '', 'em': HOJE.isoformat()}, 'novas': 0}
@@ -126,28 +129,24 @@ def ficha(x, r, perguntar, json_da_resposta):
         return f
     if perguntar is None:   # sem o Amália: só a seleção de notícias do Radar
         for a in nots:
-            f['fundo'].append({'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'url': a.get('ligacao'), 'sintese': a.get('titulo') or '',
-                               'impacto': '', 'natureza': 'contexto', 'naturezaLabel': 'Por classificar'})
+            f['fundo'].append({'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'url': a.get('ligacao'), 'sintese': a.get('titulo') or ''})
         f['enquadramento'] = texto_radar(len(nots), x.get('cobertura') or {}, len(r))
         return f
     lista = '\n'.join(f"{i+1}. [{a.get('data','')[:10]} · {a.get('fonte')}] {a.get('titulo')} — {(a.get('resumo') or '')[:300]}" for i, a in enumerate(nots))
-    pedido_imp = ', "impacto": "1 frase: como pode ser usada na sessão e por quem"' if nivel == 'completa' else ''
-    enq = 'um parágrafo (5 a 7 frases), com a evolução da cobertura ao longo do período' if nivel == 'completa' else 'duas frases'
+    enq = 'um parágrafo factual (4 a 6 frases) com o que as notícias relatam e como a cobertura evoluiu no período' if nivel == 'completa' else 'duas frases factuais com o que as notícias relatam'
     r_ = json_da_resposta(perguntar(SIS, f"""Matéria na agenda da Assembleia da República: {x['tema']} ({x['dataLabel']} {x.get('hora','')}).
 Resumo: {x.get('resumo','')[:400]}
 Cobertura: {len(r)} notícias em 60 dias; abaixo, uma amostra de {len(nots)}, por ordem cronológica.
 Notícias numeradas:
 {lista}
 
-Devolve {{"enquadramento": "{enq}, só com base nestas notícias", "noticias": [{{"n": 1, "sintese": "1 a 2 frases factuais"{pedido_imp}, "natureza": "critica"|"relevante"|"positivo"|"contexto"}}, ...]}}
-Inclui todas as notícias, pela mesma numeração. Se uma notícia não for sobre esta matéria, devolve para ela "natureza": "fora".""", 3200 if nivel == 'completa' else 1100)) or {}
+Devolve {{"enquadramento": "{enq}, só com base nestas notícias, sem avaliações", "noticias": [{{"n": 1, "sintese": "1 a 2 frases factuais: o que a notícia relata"}}, ...]}}
+Inclui todas as notícias, pela mesma numeração. Se uma notícia não for sobre esta matéria, devolve para ela "fora": true.""", 3200 if nivel == 'completa' else 1100)) or {}
     por_n = {int(n.get('n', 0)): n for n in (r_.get('noticias') or []) if isinstance(n, dict) and str(n.get('n', '')).isdigit()}
     for i, a in enumerate(nots, 1):
         n = por_n.get(i, {})
-        if n.get('natureza') == 'fora': continue
-        nat = n.get('natureza') if n.get('natureza') in ROT else 'contexto'
-        f['fundo'].append({'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'url': a.get('ligacao'), 'sintese': n.get('sintese') or a.get('titulo'),
-                           'impacto': n.get('impacto', '') if nivel == 'completa' else '', 'natureza': nat, 'naturezaLabel': ROT[nat]})
+        if n.get('fora') is True or n.get('natureza') == 'fora': continue
+        f['fundo'].append({'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'url': a.get('ligacao'), 'sintese': n.get('sintese') or a.get('titulo')})
     f['amostra']['analisadas'] = len(f['fundo'])
     f['enquadramento'] = (r_.get('enquadramento') or '').strip() or f"{len(f['fundo'])} notícias analisadas no Radar de Notícias; enquadramento por gerar."
     return f
@@ -161,6 +160,12 @@ if __name__ == '__main__':
     # ligações: só as da Assembleia da República (as de notícias vêm do Radar, na ficha e na lista completa)
     for x in d['destaques'] + d['agenda'] + d.get('futuro', []):
         if x.get('ligacoes'): x['ligacoes'] = [l for l in x['ligacoes'] if 'parlamento.pt' in (l.get('url') or '')]
+    # as fichas só sinalizam notícias: sem natureza nem impacto (juízos que são do varrimento feito pela equipa, independente desta ferramenta)
+    for f_ in d['fichas'].values():
+        if f_.get('origem') in ('radar', 'amalia') and not f_.get('revista_por'):
+            for n_ in f_.get('fundo') or []:
+                for k_ in ('natureza', 'naturezaLabel', 'impacto'): n_.pop(k_, None)
+            f_['gerado_por'] = GERADO_AMALIA if f_['origem'] == 'amalia' else GERADO_RADAR
     # fichas manuais que deixam de ser usadas: retiradas
     usadas = {x.get('varrimento') for x in d['destaques'] + d['agenda'] + d.get('futuro', [])}
     for k in [k for k, f in d['fichas'].items() if f.get('origem') not in ('radar', 'amalia') and not f.get('revista_por')]:
