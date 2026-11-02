@@ -44,7 +44,26 @@ def base(i):
     x.update(chave=chave(i), dataLabel=rotulo(i['data']), tipo=i.get('tipo', []), uo=i.get('uo', []), pertinencia=i.get('pertinencia', 'Registo'), criterio=i.get('criterio', []),
              periodo='Manhã' if (i.get('hora') or '99')[:2] < '13' else 'Tarde',
              ligacoes=[{'titulo': 'Agenda parlamentar', 'url': i['ligacao']}] if i.get('ligacao') else [])
+    # o nome da comissão passa para a linha do tipo («Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 31 · Sala 1»),
+    # para não se perder quando o título passa a dizer quem é ouvido
+    if x['orgao'] and (x['tipoLabel'] or '').startswith('Comissões Parlamentares'):
+        x['tipoLabel'] = x['orgao'] + x['tipoLabel'][len('Comissões Parlamentares'):]
     return x
+
+_AUD = re.compile(r'(Audi(?:ção|ência)(?: conjunta)? d[aeo]s? .+?)(?=,?\s+(?:no âmbito|sobre|relativ|acerca|a propósito)\b|[;\n]|$)')
+def titulo_regras(x):
+    """Título das reuniões de comissão cujo tema é só o nome da comissão: quem é ouvido, tal como a AR o escreve
+    («Audiência da Associação Nacional das Farmácias (ANF) — Orçamento do Estado 2027»). Só texto publicado pela AR."""
+    t, org = (x.get('tema') or '').strip(), (x.get('orgao') or '').strip()
+    if (t != org and not x.get('tituloRegras')) or not re.match(r'(Comissão|Subcomissão)\b', org): return None
+    ot = (x.get('ordemTrabalhos') or '').strip()
+    m = _AUD.match(ot)
+    if not m: return None
+    q = re.sub(r'\s+', ' ', m.group(1)).strip(' ,.-–')
+    if len(q) > 110: q = q[:110].rsplit(' ', 1)[0] + '…'
+    if re.search(r'Orçamento do Estado para (20\d\d)', ot[:400]):
+        q += ' — Orçamento do Estado ' + re.search(r'Orçamento do Estado para (20\d\d)', ot[:400]).group(1)
+    return q
 
 novos_itens = [base(i) for i in tri['itens']]
 
@@ -171,6 +190,12 @@ for i in tri.get('futuro', []):
 fut, _ = juntar(fut)
 for y in fut:   # fichas das semanas seguintes acompanham a matéria
     if y.get('varrimento') and y['varrimento'] in ant.get('fichas', {}): fichas.setdefault(y['varrimento'], ant['fichas'][y['varrimento']])
+
+# título pelas regras quando o tema é só o nome da comissão (o Amália e a revisão humana prevalecem)
+for x in itens + fut:
+    if x.get('amalia') or x.get('validado'): continue
+    t = titulo_regras(x)
+    if t: x['tema'], x['tituloRegras'] = t, True
 
 # correções manuais da revisão humana (prevalecem sempre)
 if cor_p.exists():

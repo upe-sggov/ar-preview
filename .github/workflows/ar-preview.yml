@@ -2,12 +2,18 @@ name: AR Preview — semana na Assembleia da República
 # Todos os dias, 7h07 e 18h07 (Lisboa): relê a agenda da AR e atualiza a página (novas, alteradas, retiradas).
 #   De segunda a quinta trabalha a semana em curso; de sexta a domingo prepara a semana seguinte.
 # Segunda-feira, 9h07 (Lisboa): envia o email aos dirigentes com a edição já atualizada nessa manhã.
-# Horas em UTC = hora de Lisboa no inverno. No horário de verão, subtrair 1 às horas dos três cron.
+# O GitHub não garante as horas agendadas (atrasa-as ou salta-as quando está carregado: a 2/11/2026 não correram nem a das 7h07
+# nem a das 9h07). Por isso há horas de reserva — 7h37 para a atualização, 9h37 e 11h07 para o envio — e o envio só sai uma vez
+# por edição: fica registado em docs/.enviado e as corridas agendadas seguintes não voltam a enviar. O envio à mão envia sempre.
+# Horas em UTC = hora de Lisboa no inverno. No horário de verão, subtrair 1 às horas.
 on:
   schedule:
     - cron: '7 7 * * *'
+    - cron: '37 7 * * *'
     - cron: '7 18 * * *'
     - cron: '7 9 * * 1'
+    - cron: '37 9 * * 1'
+    - cron: '7 11 * * 1'
   workflow_dispatch:
     inputs:
       passo:
@@ -23,7 +29,7 @@ concurrency:
 
 jobs:
   atualizar:
-    if: (github.event_name == 'schedule' && github.event.schedule != '7 9 * * 1') || github.event.inputs.passo == 'atualizar'
+    if: (github.event_name == 'schedule' && !endsWith(github.event.schedule, '* * 1')) || github.event.inputs.passo == 'atualizar'
     runs-on: ubuntu-latest
     env:
       SMTP_OK: ${{ secrets.SMTP_SERVER != '' && 'sim' || 'nao' }}
@@ -120,7 +126,7 @@ jobs:
           attachments: dados/triagem_semana.csv
 
   enviar:
-    if: github.event.schedule == '7 9 * * 1' || github.event.inputs.passo == 'enviar'
+    if: (github.event_name == 'schedule' && endsWith(github.event.schedule, '* * 1')) || github.event.inputs.passo == 'enviar'
     runs-on: ubuntu-latest
     env:
       SMTP_OK: ${{ secrets.SMTP_SERVER != '' && 'sim' || 'nao' }}
@@ -129,13 +135,23 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
+      - name: Já foi enviado esta edição?
+        id: ja
+        run: |
+          E=$(python -c "import json;e=json.load(open('dados/agenda.json',encoding='utf-8'))['edicao'];print(f\"{e['numero']}|{e['inicio']}\")")
+          echo "edicao=$E" >> $GITHUB_OUTPUT
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f docs/.enviado ] && [ "$(cat docs/.enviado)" = "$E" ]; then
+            echo "enviado=sim" >> $GITHUB_OUTPUT; echo "Edição $E já enviada — esta corrida agendada não volta a enviar."
+          else echo "enviado=nao" >> $GITHUB_OUTPUT; fi
       - name: Preparar o corpo e o assunto do email (lista única, com unidade, Governo e síntese)
+        if: steps.ja.outputs.enviado == 'nao'
         id: corpo
         run: |
           python scripts/email_resumo.py dados/agenda.json assunto.txt > email.html
           echo "assunto=$(cat assunto.txt)" >> $GITHUB_OUTPUT
       - name: Enviar aos dirigentes
-        if: env.SMTP_OK == 'sim'
+        id: envio
+        if: env.SMTP_OK == 'sim' && steps.ja.outputs.enviado == 'nao'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
@@ -147,6 +163,13 @@ jobs:
           subject: ${{ steps.corpo.outputs.assunto }}
           html_body: file://email.html
           attachments: docs/ar-preview.pdf
+      - name: Registar o envio (as corridas agendadas seguintes desta edição não voltam a enviar)
+        if: steps.envio.outcome == 'success'
+        run: |
+          echo "${{ steps.ja.outputs.edicao }}" > docs/.enviado
+          git config user.name "ar-preview-bot"; git config user.email "upe@sggoverno.gov.pt"
+          git add docs/.enviado && git commit -m "Email enviado: edição ${{ steps.ja.outputs.edicao }}" || exit 0
+          for t in 1 2 3; do git pull --rebase && git push && break; sleep 10; done
       - name: Sem segredos SMTP
         if: env.SMTP_OK != 'sim'
         run: echo "Segredos SMTP por criar — email não enviado. O corpo preparado foi este:" && cat email.html

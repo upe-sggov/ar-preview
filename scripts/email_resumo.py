@@ -13,7 +13,8 @@ url = os.environ.get('PAGINA_URL', '').strip()
 if url and not url.endswith('/'): url += '/'
 AGENDA_AR = 'https://agenda.parlamento.pt/'
 ed = d['edicao']
-todos = [x for x in d['destaques'] + d['agenda'] if not x.get('retirado') and x['pertinencia'] in ('Imediato', 'Vigilância')]
+# todas as reuniões da semana, como na página: as de Registo também (sem elas, a agenda do email fica com buracos)
+todos = [x for x in d['destaques'] + d['agenda'] if not x.get('retirado')]
 todos.sort(key=lambda x: (x['data'], x.get('hora') or '99'))
 e = html.escape
 nomes = d.get('unidades', {})
@@ -36,14 +37,17 @@ def etiquetas(x):
     return t + ''.join(etiqueta(u, '#0E7433', nomes.get(u, '')) for u in ('DACDP', 'DAPL', 'UPE', 'DCIRI') if u in x['uo'])
 
 def linha(x):
-    cor = '#D02117' if x['pertinencia'] == 'Imediato' else '#BE9C54'
+    cor = {'Imediato': '#D02117', 'Vigilância': '#BE9C54'}.get(x['pertinencia'], '#a3aab3')
     pag, rotulo = pagina_ar(x)
-    tema = (f'<a href="{e(pag)}" style="font:600 14px Arial,sans-serif;color:#171715;text-decoration:none;line-height:1.4">{e(x["tema"])}</a>'
-            if pag else f'<span style="font:600 14px Arial,sans-serif;color:#171715;line-height:1.4">{e(x["tema"])}</span>')
+    reg = x['pertinencia'] not in ('Imediato', 'Vigilância')      # Registo: linha mais discreta, só para informação
+    ft = 'font:400 13px Arial,sans-serif;color:#3d4249' if reg else 'font:600 14px Arial,sans-serif;color:#171715'
+    tema = (f'<a href="{e(pag)}" style="{ft};text-decoration:none;line-height:1.4">{e(x["tema"])}</a>'
+            if pag else f'<span style="{ft};line-height:1.4">{e(x["tema"])}</span>')
     novo = (' <span style="font:600 9px Arial,sans-serif;color:#6b5200;background:#fff4c2;border-radius:3px;padding:1px 5px;'
             'letter-spacing:.6px;text-transform:uppercase">novo</span>') if x.get('novo') else ''
-    gov, sin = membro_governo(x), sintese(x)
-    info = ''
+    gov, sin = membro_governo(x), ('' if reg else sintese(x))
+    org = x.get('orgao') or ''
+    info = f'<div style="font:400 11.5px Arial,sans-serif;color:#8a9098;padding-top:2px;line-height:1.45">{e(org)}</div>' if org and org != x['tema'] else ''
     if x.get('conjunta'): info += f'<div style="font:400 11.5px Arial,sans-serif;color:#8a9098;padding-top:2px;line-height:1.45">Audição conjunta com a {e(" e a ".join(x["conjunta"]))}</div>'
     if gov: info += f'<div style="font:400 12px Arial,sans-serif;color:#171715;padding-top:3px;line-height:1.45"><span style="color:#8a9098">Governo:</span> {e(gov)}</div>'
     if sin: info += f'<div style="font:400 12px Arial,sans-serif;color:#5b6068;padding-top:3px;line-height:1.45">{e(sin)}</div>'
@@ -75,9 +79,10 @@ for dia in sorted({x['data'] for x in todos}):
     corpo.append(cab_dia(dia, len(da)))
     corpo.extend(linha(x) for x in da)
 corpo = '\n'.join(corpo) if corpo else (
-    '    <tr><td style="padding:16px 24px;font:400 13px Arial,sans-serif;color:#5b6068">Sem matérias imediatas ou em vigilância à data desta edição.</td></tr>')
+    '    <tr><td style="padding:16px 24px;font:400 13px Arial,sans-serif;color:#5b6068">Sem reuniões na agenda da AR à data desta edição.</td></tr>')
 
-n_ime = sum(1 for x in todos if x['pertinencia'] == 'Imediato'); n_vig = len(todos) - n_ime
+n_ime = sum(1 for x in todos if x['pertinencia'] == 'Imediato'); n_vig = sum(1 for x in todos if x['pertinencia'] == 'Vigilância')
+n_reg = len(todos) - n_ime - n_vig
 quando = ed.get('atualizadoLabel') or ed.get('fechoLabel', '')
 n_ed = f'edição n.º {ed["numero"]}' + (' (piloto)' if ed.get('estado') == 'piloto' else '')
 legenda = ' · '.join(f'<b style="color:#5b6068">{e(u)}</b> {e(nomes[u])}' for u in ('DACDP', 'DAPL', 'UPE', 'DCIRI') if nomes.get(u))
@@ -111,7 +116,7 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <tr><td style="padding:16px 24px 12px;background:#fbfcfd;border-bottom:1px solid #e2e8f0">
     <span style="font:600 24px Arial,sans-serif;color:#0E7433">{len(todos)}</span>
     <span style="font:400 13px Arial,sans-serif;color:#5b6068">matérias para a área de Suporte à Decisão:
-      <b style="color:#D02117">{n_ime}</b> imediatas, <b style="color:#BE9C54">{n_vig}</b> em vigilância; {len({x["varrimento"] for x in todos if x.get("varrimento")})} com ficha de varrimento</span>
+      <b style="color:#D02117">&#9679; {n_ime}</b> imediatas, <b style="color:#BE9C54">&#9679; {n_vig}</b> em vigilância, <b style="color:#8a9098">&#9679; {n_reg}</b> para registo; {len({x["varrimento"] for x in todos if x.get("varrimento")})} com ficha de varrimento</span>
     {f'<div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5">{legenda}</div>' if legenda else ''}
   </td></tr>
 

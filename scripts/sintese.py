@@ -14,7 +14,7 @@ LX = ZoneInfo('Europe/Lisbon')
 # cargos do Governo português como a AR os escreve: «Ministro das Infraestruturas e Habitação, Miguel Pinto Luz, sobre…»,
 # «Ministra do Trabalho, Solidariedade e Segurança Social – Maria do Rosário Palma Ramalho»
 _CARGO = re.compile(r"\b(Primeir[oa]-Ministr[oa]|Ministr[oa] (?:de Estado(?: e)? )?(?:d[aeo]s? |para (?:[ao]s? )?)|Secretári[oa] de Estado\b)")
-_FIM = re.compile(r"\s+(?:sobre|no âmbito|relativ\w*|acerca|a propósito|para efeitos|ao abrigo|em audição|na sequência|conforme)\b|[;.\n()\[\]]|\s/\s")
+_FIM = re.compile(r"\s+(?:sobre|no âmbito|relativ\w*|acerca|a propósito|para efeitos|ao abrigo|em audição|na sequência|conforme)\b|[;:.\n()\[\]]|\s/\s")
 _PASTA = set('''Mar Desporto Juventude Ambiente Energia Finanças Estado Administração Pública Negócios Estrangeiros Defesa Nacional Interna
 Saúde Trabalho Social Segurança Solidariedade Habitação Infraestruturas Economia Coesão Territorial Agricultura Cultura Educação Ciência
 Inovação Justiça Presidência Parlamentares Assuntos Reforma Digital Digitalização Modernização Igualdade Comunidades Portuguesas Turismo
