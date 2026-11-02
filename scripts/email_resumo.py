@@ -28,7 +28,7 @@ def dia_extenso(iso):
 
 def etiqueta(txt, cor, titulo=''):
     return (f'<span title="{e(titulo)}" style="font:600 9px Arial,sans-serif;color:{cor};letter-spacing:.6px;text-transform:uppercase;'
-            f'border:1px solid {cor};border-radius:3px;padding:1px 5px;margin-right:5px">{e(txt)}</span>')
+            f'border:1px solid {cor};border-radius:3px;padding:1px 5px;margin-right:5px">{e(txt)}</span>&nbsp; ')   # o Outlook ignora a margem: o espaço separa as siglas
 
 def etiquetas(x):
     """Etiqueta de cada unidade (ou «Transversal», que serve todas) a que a matéria se aplica."""
@@ -89,12 +89,21 @@ legenda = ' · '.join(f'<b style="color:#5b6068">{e(u)}</b> {e(nomes[u])}' for u
 
 logo = (f'<td valign="middle" style="padding-right:14px"><img src="{e(url)}logo-sggov-email.png" width="40" height="40" '
         f'alt="Secretaria-Geral do Governo" style="display:block;border:0"></td>') if url else ''
-BS = 'display:inline-block;font:600 13px Arial,sans-serif;text-decoration:none;padding:9px 16px;border-radius:6px;margin:0 6px 8px 0'
-botoes = ''
-if url: botoes += f'<a href="{e(url)}" style="{BS};background:#0E7433;color:#ffffff">Abrir o AR Preview</a>'
-if url and todos: botoes += f'<a href="{e(url)}cal/semana.ics" style="{BS};background:#ffffff;color:#2B5683;border:1px solid #2B5683">Todas no calendário</a>'
-botoes += f'<a href="{AGENDA_AR}" style="{BS};background:#ffffff;color:#2B5683;border:1px solid #2B5683">Agenda parlamentar</a>'
-botoes += f'<a href="{CANAL}" style="{BS};background:#ffffff;color:#2B5683;border:1px solid #2B5683">Canal Parlamento</a>'
+def botao(txt, href, cheio=False):
+    """Botão à prova de Outlook: célula de tabela com fundo e margem interior (o Outlook ignora margin e padding em <a>)."""
+    fundo, cor, borda = ('#0E7433', '#ffffff', '#0E7433') if cheio else ('#ffffff', '#2B5683', '#2B5683')
+    return (f'<td style="padding:0 4px 8px"><table cellpadding="0" cellspacing="0" role="presentation"><tr>'
+            f'<td bgcolor="{fundo}" style="background:{fundo};border:1px solid {borda};border-radius:6px;padding:9px 14px">'
+            f'<a href="{e(href)}" style="font:600 13px Arial,sans-serif;color:{cor};text-decoration:none;white-space:nowrap">{e(txt)}</a>'
+            f'</td></tr></table></td>')
+bts = []
+if url: bts.append(botao('Abrir o AR Preview', url, True))
+if url and todos: bts.append(botao('Todas no calendário', url + 'cal/semana.ics'))
+bts.append(botao('Agenda parlamentar', AGENDA_AR))
+bts.append(botao('Canal Parlamento', CANAL))
+# duas linhas de dois botões: cabe na largura do email e no telemóvel
+botoes = '<table cellpadding="0" cellspacing="0" role="presentation" align="center">' + ''.join(
+    '<tr>' + ''.join(bts[k:k + 2]) + '</tr>' for k in range(0, len(bts), 2)) + '</table>'
 
 print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <table width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#f4f6f8">
@@ -124,7 +133,7 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
   <tr><td align="center" style="padding:22px 24px 18px">
     <div style="font:400 13px Arial,sans-serif;color:#5b6068;line-height:1.55;padding-bottom:12px">
-      Calendário, cartões e fichas de varrimento estão na página do AR Preview, atualizada diariamente; o PDF segue em anexo.</div>
+      Calendário, cartões e fichas de varrimento estão na página do AR Preview, atualizada diariamente{f'; a versão em PDF está <a href="{e(url)}ar-preview.pdf" style="color:#2B5683;text-decoration:underline">aqui</a>' if url else ''}.</div>
     {botoes}
     <div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5">«Adicionar ao calendário» descarrega o evento para o Outlook (hora de fim indicativa).
       As emissões em direto, quando as há, estão no Canal Parlamento. A agenda da Assembleia da República pode mudar depois desta edição.</div>

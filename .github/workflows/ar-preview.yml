@@ -161,8 +161,7 @@ jobs:
           from: AR Preview      # nome que aparece como remetente; o endereço é o da conta SMTP (SMTP_USER)
           to: ${{ secrets.DIRIGENTES_DSSD }}
           subject: ${{ steps.corpo.outputs.assunto }}
-          html_body: file://email.html
-          attachments: docs/ar-preview.pdf
+          html_body: file://email.html   # sem anexo: o PDF está na página (botão Imprimir / PDF)
       - name: Registar o envio (as corridas agendadas seguintes desta edição não voltam a enviar)
         if: steps.envio.outcome == 'success'
         run: |
