@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48624@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261104T110000Z
 DTEND:20261104T130000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -15,11 +15,11 @@ LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 136 · Plenário\nS
  íntese: Audição da ANAFRE – Associação Nacional de Freguesias no 
  âmbito da apreciação\, na especialidade\, da Proposta de Lei n.º 110/
- XVII/2.ª (GOV)…\nUnidades DSSD: DAPL\, Transversal\nPágina na AR: htt
- ps://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmi
- ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
- w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
- enda da AR pode mudar.
+ XVII/2.ª (GOV)…\nUnidades (Suporte à Decisão): DAPL\, Transversal\nP
+ ágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/
+ default.aspx\nEmissões em direto (quando houver): https://canal.parlamen
+ to.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim 
+ indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

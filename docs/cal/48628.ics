@@ -6,21 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48628@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261105T180000Z
 DTEND:20261105T200000Z
-SUMMARY:AR · Orçamento do Estado 2027
+SUMMARY:AR · Ministro da Agricultura e Mar\, José Manuel Fernandes: Orç
+ amento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 142 · Plenário\nGo
- verno: Ministro da Agricultura e Mar\, José Manuel Fernandes · Secretá
- rio de Estado das Pescas e do Mar\, Salvador Malheiro e mais 2 membros do
-  Governo\nSíntese: Audição no âmbito da apreciação\, na especialida
- de\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado
-  para 2027\nUnidades DSSD: DACDP\, DAPL\, Transversal\nPágina na AR: htt
- ps://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmi
- ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
- w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
- enda da AR pode mudar.
+ verno: Ministro da Agricultura e Mar\, José Manuel Fernandes: Orçamento
+  do Estado 2027 · Ministro da Agricultura e Mar\, José Manuel Fernandes
+  e mais 3 membros do Governo\nSíntese: Audição no âmbito da apreciaç
+ ão\, na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – 
+ Orçamento do Estado para 2027\nUnidades (Suporte à Decisão): DACDP\, D
+ APL\, Transversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVI
+ ILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (quando houver): ht
+ tps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pr
+ eview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

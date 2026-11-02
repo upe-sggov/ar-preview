@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48614@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261105T123000Z
 DTEND:20261105T143000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -15,11 +15,11 @@ LOCATION:Assembleia da República · Sala 1
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 37 · Sala 1\nSínte
  se: Audiência da Associação Nacional de Profissionais de Administraç
  ão de Condomínios (ANPAC) no âmbito da apreciação\, na especialidade
-  da…\nUnidades DSSD: DAPL\, Transversal\nPágina na AR: https://www.par
- lamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em di
- reto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://u
- pe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR p
- ode mudar.
+  da…\nUnidades (Suporte à Decisão): DAPL\, Transversal\nPágina na AR
+ : https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx
+ \nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR P
+ review: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\;
+  a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

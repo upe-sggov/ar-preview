@@ -6,23 +6,24 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48602@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
-SUMMARY:AR · Orçamento do Estado 2027
-LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
- , Finanças e Administração Pública
+SUMMARY:AR · Ministro da Educação\, Ciência e Inovação\, Fernando Al
+ exandre: Orçamento do Estado 2027
+LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 59 · Plenário · c
  onjunta com Comissão de Orçamento\, Finanças e Administração Públic
  a\nGoverno: Ministro da Educação\, Ciência e Inovação\, Fernando Ale
- xandre · Secretário de Estado Adjunto e da Educação\, Alexandre Homem
-  Cristo e mais 3 membros do Governo\nSíntese: Audição no âmbito da ap
- reciação na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) -
-  «Aprova o Orçamento do Estado para 2027»…\nUnidades DSSD: DACDP\, D
- APL\, Transversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVI
- ILeg/8CEC/Paginas/default.aspx\nEmissões em direto (quando houver): http
- s://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-prev
- iew/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ xandre: Orçamento do Estado 2027 · Ministro da Educação\, Ciência e 
+ Inovação\, Fernando Alexandre e mais 4 membros do Governo\nSíntese: Au
+ dição no âmbito da apreciação na especialidade da Proposta de Lei n.
+ º 110/XVII/2.ª (GOV) - «Aprova o Orçamento do Estado para 2027»…\n
+ Unidades (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR
+ : https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx\n
+ Emissões em direto (quando houver): https://canal.parlamento.pt/\nAR Pre
+ view: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a
+  agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT

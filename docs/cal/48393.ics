@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48393@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261118T100000Z
 DTEND:20261118T120000Z
 SUMMARY:AR · Plenário — Debate na especialidade do Orçamento do Estad
@@ -14,10 +14,10 @@ SUMMARY:AR · Plenário — Debate na especialidade do Orçamento do Estad
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 17 · Plenário\nGoverno: Governo (
  intervenção prevista)\nSíntese: Proposta de Lei n.º 110/XVII/2.ª (GO
- V)\nUnidades DSSD: DACDP\, DAPL\, Transversal\, UPE\nEmissões em direto 
- (quando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sg
- gov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode m
- udar.
+ V)\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversal\, UPE\nEmi
+ ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
+ w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
+ enda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

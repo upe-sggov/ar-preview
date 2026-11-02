@@ -6,23 +6,23 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48568@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261104T140000Z
 DTEND:20261104T160000Z
-SUMMARY:AR · Orçamento do Estado para 2027
-LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
- , Finanças e Administração Pública
+SUMMARY:AR · Ministra da Justiça\, Rita Alarcão Júdice: Orçamento do 
+ Estado para 2027
+LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 110 · Plenário · 
  conjunta com Comissão de Orçamento\, Finanças e Administração Públi
- ca\nGoverno: Ministra da Justiça\, Rita Alarcão Júdice · Secretário 
- de Estado Adjunto e da Justiça\, Gonçalo da Cunha Pires e mais 1 membro
-  do Governo\nSíntese: Audição no âmbito da apreciação na especialid
- ade da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 \,
-  nos termos conjugados do…\nUnidades DSSD: DACDP\, DAPL\, Transversal\n
- Página na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Pagina
- s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
- ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
- m indicativa\; a agenda da AR pode mudar.
+ ca\nGoverno: Ministra da Justiça\, Rita Alarcão Júdice: Orçamento do 
+ Estado para 2027 · Ministra da Justiça\, Rita Alarcão Júdice e mais 2
+  membros do Governo\nSíntese: Audição no âmbito da apreciação na es
+ pecialidade da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado para
+  2027 \, nos termos conjugados do…\nUnidades (Suporte à Decisão): DAC
+ DP\, DAPL\, Transversal\nPágina na AR: https://www.parlamento.pt/sites/c
+ om/XVIILeg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houv
+ er): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.i
+ o/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT

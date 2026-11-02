@@ -6,23 +6,24 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48600@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261102T090000Z
 DTEND:20261102T110000Z
-SUMMARY:AR · Orçamento do Estado 2027
-LOCATION:Assembleia da República · conjunta com Comissão de Orçamento\
- , Finanças e Administração Pública
+SUMMARY:AR · Ministro das Infraestruturas e Habitação\, Miguel Pinto Lu
+ z: Orçamento do Estado 2027
+LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 71 · Plenário · c
  onjunta com Comissão de Orçamento\, Finanças e Administração Públic
  a\nGoverno: Ministro das Infraestruturas e Habitação\, Miguel Pinto Luz
-  · Secretário de Estado das Infraestruturas\, Hugo Espírito Santo e ma
- is 2 membros do Governo\nSíntese: Audição no âmbito da apreciação\,
-  na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – «Or
- çamento do Estado para 2027.»\nUnidades DSSD: DACDP\, DAPL\, Transversa
- l\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/14CIMH/Pagi
- nas/default.aspx\nEmissões em direto (quando houver): https://canal.parl
- amento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de 
- fim indicativa\; a agenda da AR pode mudar.
+ : Orçamento do Estado 2027 · Ministro das Infraestruturas e Habitação
+ \, Miguel Pinto Luz e mais 3 membros do Governo\nSíntese: Audição no 
+ âmbito da apreciação\, na especialidade\, da Proposta de Lei n.º 110/
+ XVII/2.ª (GOV) – «Orçamento do Estado para 2027.»\nUnidades (Suport
+ e à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR: https://www.pa
+ rlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.aspx\nEmissões em d
+ ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
+ upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
+ pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

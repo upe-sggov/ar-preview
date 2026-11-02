@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48613@ar-preview
-DTSTAMP:20261101T235235Z
+DTSTAMP:20261102T012113Z
 DTSTART:20261104T123000Z
 DTEND:20261104T143000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -15,11 +15,11 @@ LOCATION:Assembleia da República · Sala 1
 DESCRIPTION:Comissões Parlamentares · Reunião n.º 35 · Sala 1\nSínte
  se: Audiência da ASPTPS Associação Portuguesa de Planos de Saúde no 
  âmbito da apreciação\, na especialidade da Proposta de Lei n.º 110/XV
- II/2.ª…\nUnidades DSSD: DAPL\, Transversal\nPágina na AR: https://www
- .parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões e
- m direto (quando houver): https://canal.parlamento.pt/\nAR Preview: https
- ://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da 
- AR pode mudar.
+ II/2.ª…\nUnidades (Suporte à Decisão): DAPL\, Transversal\nPágina n
+ a AR: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.
+ aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\n
+ AR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicati
+ va\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT
