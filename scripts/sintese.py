@@ -127,7 +127,7 @@ def vevento(x, pagina_url=''):
     desc = [x.get('tipoLabel') or '']   # inclui «conjunta com …» nas audições conjuntas
     if gov: desc.append('Governo: ' + gov)
     if sin: desc.append('Síntese: ' + sin)
-    desc += ['Unidades (Suporte à Decisão): ' + ', '.join(x.get('uo') or []) if x.get('uo') else '',
+    desc += [
              'Página na AR: ' + pag if pag else '',
              'Emissões em direto (quando houver): ' + CANAL,
              'AR Preview: ' + pagina_url if pagina_url else '',

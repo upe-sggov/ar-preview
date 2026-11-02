@@ -138,7 +138,7 @@ def escolher(x, r, maxn):
 def ficha(x, r, perguntar, json_da_resposta):
     nivel = nivel_desejado(x); maxn = MAXN[nivel]
     nots = escolher(x, r, maxn)
-    meta = f"{x.get('tipoLabel','')} · {x['dataLabel']}{', ' + x['hora'] if x.get('hora') else ''} · UO de referência: {' · '.join(x['uo']) or '—'}"
+    meta = f"{x.get('tipoLabel','')} · {x['dataLabel']}{', ' + x['hora'] if x.get('hora') else ''}"
     datas = sorted({a.get('data', '')[:16] for a in r})
     f = {'titulo': x['tema'], 'meta': meta, 'nivel': nivel, 'origem': 'radar' if perguntar is None else 'amalia',
          'gerado_por': GERADO_RADAR if perguntar is None else GERADO_AMALIA,

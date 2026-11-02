@@ -49,7 +49,7 @@ jobs:
       - name: "Amália — há trabalho para o modelo?"
         id: amalia
         run: |
-          python -c "import json,sys; d=json.load(open('dados/agenda.json',encoding='utf-8')); sys.exit(0 if any((not x['uo'] or (x['pertinencia'] in ('Imediato','Vigilância') and not x.get('expressoes'))) and not x.get('validado') and not x.get('amalia') and not x.get('retirado') for x in d['destaques']+d['agenda']) else 1)" && T=sim || T=nao
+          python -c "import json,sys; d=json.load(open('dados/agenda.json',encoding='utf-8')); sys.exit(0 if any((x['pertinencia'] in ('Imediato','Vigilância') and not x.get('expressoes')) and not x.get('validado') and not x.get('amalia') and not x.get('retirado') for x in d['destaques']+d['agenda']) else 1)" && T=sim || T=nao
           python scripts/amalia_varrimento.py --verificar >/dev/null && V=sim || V=nao
           echo "triagem=$T" >> $GITHUB_OUTPUT; echo "fichas=$V" >> $GITHUB_OUTPUT
           echo "triagem: $T · fichas: $V"
@@ -65,7 +65,7 @@ jobs:
         run: |
           pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
           pip install huggingface-hub
-      - name: "Amália — unidade (pelas competências do Despacho n.º 6738/2025), assunto e expressões de pesquisa"
+      - name: "Amália — assunto e expressões de pesquisa"
         if: steps.amalia.outputs.triagem == 'sim'
         timeout-minutes: 60
         run: python scripts/amalia_triagem.py || echo "triagem do Amália falhou; ficam as regras"
@@ -123,7 +123,7 @@ jobs:
           from: AR Preview
           to: ${{ secrets.EMAIL_TRIAGEM }}
           subject: "AR Preview — nova semana em preparação: triagem para rever"
-          body: "A edição da semana seguinte já está na página e será atualizada duas vezes por dia. Para corrigir uma unidade, uma pertinência ou o assunto, acrescente uma linha a dados/correcoes.csv (chave;uo;pertinencia;assunto), copiando a chave da lista em anexo. As correções entram na atualização seguinte. Envio aos dirigentes: segunda-feira de manhã."
+          body: "A edição da semana seguinte já está na página e será atualizada duas vezes por dia. Para corrigir uma pertinência ou o assunto, acrescente uma linha a dados/correcoes.csv (chave;uo;pertinencia;assunto, com uo vazio), copiando a chave da lista em anexo. As correções entram na atualização seguinte. Envio aos dirigentes: segunda-feira de manhã."
           attachments: dados/triagem_semana.csv
 
   enviar:

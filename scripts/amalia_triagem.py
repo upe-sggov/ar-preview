@@ -40,9 +40,8 @@ def titulo(x, quem, assunto):
 
 def pendente(x):
     if x.get('retirado') or x.get('amalia'): return False
-    sem_uo = not x['uo'] and not x.get('validado')
-    sem_exp = x['pertinencia'] in ('Imediato', 'Vigilância') and not x.get('expressoes')
-    return sem_uo or sem_exp
+    # já não se usam unidades (decisão de 2/11/2026): o Amália só trabalha o assunto e as expressões das matérias com ficha
+    return x['pertinencia'] in ('Imediato', 'Vigilância') and not x.get('expressoes')
 n = 0
 for x in dados['destaques'] + dados['agenda']:
     if not pendente(x): continue

@@ -384,7 +384,7 @@ body.capa-aberta{overflow:hidden}
     <div class="pastilha"><img src="data:image/png;base64,__LOGO__" alt="Secretaria-Geral do Governo"></div>
     <p class="capa-org">Secretaria-Geral do Governo</p>
     <h1>AR Preview<br><em>a semana na Assembleia da República</em></h1>
-    <p class="capa-sub">A agenda da Assembleia da República para a área de Suporte à Decisão: cada reunião com a prioridade e a unidade a que interessa, e as notícias do Radar de Notícias sobre o que vai ser discutido.</p>
+    <p class="capa-sub">A agenda da Assembleia da República para a área de Suporte à Decisão: cada reunião com a prioridade e as notícias do Radar de Notícias sobre o que vai ser discutido.</p>
     <div class="capa-ed" id="capa-ed"></div><br>
     <button class="capa-btn" id="capa-entrar">Entrar no AR Preview <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></button>
     <p class="capa-rodape">Área de Suporte à Decisão · Unidade de Pesquisa e Estatísticas<br><span id="capa-versao"></span></p>
@@ -411,7 +411,7 @@ body.capa-aberta{overflow:hidden}
 <header><div class="hdr">
 <div class="brand"><img src="data:image/png;base64,__LOGO__" alt="Secretaria-Geral do Governo"><div class="brand-txt"><strong>SECRETARIA-GERAL DO GOVERNO</strong>Suporte à Decisão</div></div>
 <div class="titulo"><h1 id="h-titulo">AR Preview</h1><p class="semana" id="h-semana"></p><p class="semana semana-imp" id="h-semana-imp"></p><p class="fecho" id="h-fecho"></p></div>
-<div class="hdr-side"><span class="badge-int">Uso interno · Suporte à Decisão</span><small id="h-edicao"></small><div class="hdr-btns"><select class="edicoes" id="h-edicoes" aria-label="Edição" hidden></select>
+<div class="hdr-side"><small id="h-edicao"></small><div class="hdr-btns"><select class="edicoes" id="h-edicoes" aria-label="Edição" hidden></select>
   <button class="hdr-btn" id="btn-tema" title="Modo escuro" aria-label="Alternar modo claro/escuro"><svg id="ic-tema" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   <button class="hdr-btn" id="btn-ecra" title="Ecrã inteiro" aria-label="Ecrã inteiro"><svg id="ic-ecra" viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg></button>
   <button class="hdr-btn" id="btn-info" title="Sobre o AR Preview: o que faz, de onde vêm os dados e como classifica" aria-label="Sobre o AR Preview" aria-haspopup="dialog"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button></div></div>
@@ -433,8 +433,7 @@ body.capa-aberta{overflow:hidden}
 
 <div class="barra"><div class="barra-in">
   <label class="pesq"><svg class="ic"><use href="#i-search"/></svg><input id="q" type="search" placeholder="Pesquisar tema, interveniente, resumo…" aria-label="Pesquisar"></label>
-  <div class="chips uo" id="chips-uo"></div>
-  <span class="sep"></span>
+  <div class="chips uo" id="chips-uo" hidden style="display:none"></div>
   <div class="chips" id="chips-pert"></div>
   <span class="sep"></span>
   <button class="btn" id="btn-print"><svg class="ic"><use href="#i-print"/></svg>PDF</button>
@@ -462,7 +461,7 @@ body.capa-aberta{overflow:hidden}
 <dialog class="sobre" id="sobre" aria-labelledby="sobre-t">
   <div class="sobre-top"><h2 id="sobre-t">Sobre o AR Preview</h2><button class="fechar" id="sobre-x" aria-label="Fechar">×</button></div>
   <div class="sobre-corpo">
-    <p class="sobre-lead">Agenda semanal da Assembleia da República para os dirigentes da área de Suporte à Decisão: o que está marcado, para que unidade interessa, com que prioridade, e o que a comunicação social tem dito sobre cada matéria. Produzida pela Unidade de Pesquisa e Estatísticas (UPE).</p>
+    <p class="sobre-lead">Agenda semanal da Assembleia da República para os dirigentes da área de Suporte à Decisão: o que está marcado, com que prioridade, e o que a comunicação social tem dito sobre cada matéria. Produzida pela Unidade de Pesquisa e Estatísticas (UPE).</p>
 
     <h3>De onde vem a agenda</h3>
     <ul>
@@ -477,21 +476,14 @@ body.capa-aberta{overflow:hidden}
       <dt><span class="tag-p ime">Imediato</span></dt>
       <dd>Presença de um cliente habitual — Primeiro-Ministro, Ministro de Estado e das Finanças, Ministro da Presidência, Ministro da Economia e da Coesão Territorial, Ministro Adjunto e da Reforma do Estado, e os respetivos secretários de Estado; matérias que já tiveram varrimento próprio entregue pela UPE; debates do Governo no Plenário (Orçamento do Estado, interpelações, debates com o Primeiro-Ministro, estado da Nação, moções).</dd>
       <dt><span class="tag-p vig">Vigilância</span></dt>
-      <dd>Presença de outros membros do Governo; comissões de inquérito; dossiers que cada unidade pediu para acompanhar.</dd>
+      <dd>Presença de outros membros do Governo; comissões de inquérito; dossiers que a área de Suporte à Decisão pediu para acompanhar.</dd>
       <dt><span class="tag-p reg">Registo</span></dt>
       <dd>O resto, só para conhecimento.</dd>
     </dl>
-    <p>Por omissão veem-se as três. Carregar numa prioridade mostra só essa; carregar noutra junta-a; carregar de novo retira-a. O mesmo vale para as unidades.</p>
+    <p>Por omissão veem-se as três. Carregar numa prioridade mostra só essa; carregar noutra junta-a; carregar de novo retira-a.</p>
     <dl class="sobre-pert" hidden>
     </dl>
     <p>A classificação é automática e indicativa. A revisão humana da UPE prevalece sempre. Em cada matéria, a linha «Classificação» diz que regra decidiu.</p>
-
-    <h3>Como se atribuem as etiquetas de unidade</h3>
-    <ul>
-      <li>A área de Suporte à Decisão junta a DSSD (DACDP, DAPL, UPE) e a DCIRI.</li>
-      <li><b>DACDP</b>, <b>DAPL</b>, <b>UPE</b>, <b>DCIRI</b>: por palavras-chave de cada unidade e pelos dossiers que cada uma acompanha; a presença do Governo na AR atribui também a DACDP (coordenação política).</li>
-      <li><b>Transversal</b>: matérias que interessam a todas as unidades (Orçamento do Estado, Conta Geral do Estado, Reforma do Estado).</li>
-    </ul>
 
     <h3>Onde se vão ler as notícias</h3>
     <ul>
@@ -510,7 +502,7 @@ body.capa-aberta{overflow:hidden}
     <p>Cada lugar é uma matéria da semana. Quanto mais perto da Mesa, mais pertinente: anel interior Imediato, meio Vigilância, exterior Registo. Da esquerda para a direita, os dias da semana; dentro de cada dia, da manhã para a tarde. Clicar num lugar mostra a matéria; os filtros apagam os lugares que não correspondem.</p>
 
     <h3>Email de segunda-feira</h3>
-    <p>Na segunda-feira de manhã, os dirigentes recebem a lista de todas as reuniões da semana, com a prioridade, a unidade, o membro do Governo presente, uma síntese curta das matérias Imediato e Vigilância, a ligação à página da comissão na AR, a ligação à ficha de varrimento e a opção de as acrescentar ao calendário do Outlook. O PDF não segue em anexo: está na página. As emissões em direto, quando as há, estão no <a href="https://canal.parlamento.pt/" target="_blank" rel="noopener">Canal Parlamento</a>.</p>
+    <p>Na segunda-feira de manhã, os dirigentes recebem a lista de todas as reuniões da semana, com a prioridade, o membro do Governo presente, uma síntese curta das matérias Imediato e Vigilância, a ligação à página da comissão na AR, a ligação à ficha de varrimento e a opção de as acrescentar ao calendário do Outlook. O PDF não segue em anexo: está na página. As emissões em direto, quando as há, estão no <a href="https://canal.parlamento.pt/" target="_blank" rel="noopener">Canal Parlamento</a>.</p>
 
     <h3>Pedidos e correções</h3>
     <p>Pedidos de varrimento, dossiers a acompanhar e correções de classificação: <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview">upe@sggoverno.gov.pt</a>.</p>
@@ -575,7 +567,7 @@ body.capa-aberta{overflow:hidden}
   const st = { q:'', uo:null, sel:new Set(), pert:new Set(['Imediato','Vigilância','Registo']), dia:null, novidades:false };
   const syncPert = () => { st.pert = st.sel.size ? new Set(st.sel) : new Set(['Imediato','Vigilância','Registo']); };
   const guardar = () => { try { localStorage.setItem('ar-preview-filtros', JSON.stringify({uo:st.uo, sel:[...st.sel]})); } catch(e){} };
-  try { const s = JSON.parse(localStorage.getItem('ar-preview-filtros')||'null'); if (s) { st.uo = s.uo; if (s.sel) st.sel = new Set(s.sel); syncPert(); } } catch(e){}
+  try { const s = JSON.parse(localStorage.getItem('ar-preview-filtros')||'null'); if (s) { st.uo = null; if (s.sel) st.sel = new Set(s.sel); syncPert(); } } catch(e){}
 
   // chips UO
   const cUO = $('#chips-uo');
@@ -712,7 +704,7 @@ body.capa-aberta{overflow:hidden}
       h += `<div class="ad-dia">${NOMES[d.getDay()]}, ${d.getDate()} de ${MESES[d.getMonth()]}${datasComAgenda.has(k)?` · ${its.length}`:cal.length?' · calendarização':' · sem agenda publicada'}</div>`;
       if (!its.length) { h += cal.length && !datasComAgenda.has(k) ? cal.map(c=>`<div class="ev cal-ev"><span class="h">${esc(c.horas||'—')}</span><span class="d"></span><span class="t"><b>${esc(c.atividade)}</b><small>Calendarização da Assembleia da República · ordem de trabalhos ainda não publicada</small></span></div>`).join('') : `<div class="vazio-ad">${datasComAgenda.has(k)?'Nada corresponde aos filtros neste dia.':'Nenhuma reunião publicada para este dia à data de fecho.'}</div>`; return; }
       total += its.length;
-      h += its.map(x => x._hist ? `<div class="ev arq"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b><a href="${esc(BASE_ED+x._hist.ficheiro)}" title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}">${esc(x.tema)}</a></b>${x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('')}${x.varrimento?`<a class="vr" href="${esc(BASE_ED+x._hist.ficheiro+'#'+x.varrimento)}" data-f="f-${esc(x.varrimento)}" title="Abrir a ficha de varrimento na ${esc(nomeEd(x._hist).toLowerCase())}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>` : `<div class="ev" data-ir-cartao="${esc(idDe(x))}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.novo||x.alterado?'<span class="nv" title="novo ou alterado"></span>':''}${x.uo.length?x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join(''):''}${x.varrimento?`<a href="#f-${esc(x.varrimento)}" class="vr" data-ver="${esc(x.varrimento)}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
+      h += its.map(x => x._hist ? `<div class="ev arq"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b><a href="${esc(BASE_ED+x._hist.ficheiro)}" title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}">${esc(x.tema)}</a></b>${x.varrimento?`<a class="vr" href="${esc(BASE_ED+x._hist.ficheiro+'#'+x.varrimento)}" data-f="f-${esc(x.varrimento)}" title="Abrir a ficha de varrimento na ${esc(nomeEd(x._hist).toLowerCase())}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>` : `<div class="ev" data-ir-cartao="${esc(idDe(x))}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.novo||x.alterado?'<span class="nv" title="novo ou alterado"></span>':''}${x.varrimento?`<a href="#f-${esc(x.varrimento)}" class="vr" data-ver="${esc(x.varrimento)}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
     });
     $('#ad-sub').textContent = `${total} ${total===1?'matéria':'matérias'}${st.pert.has('Registo')?'':' · registo oculto'}`;
     $('#ad-lista').innerHTML = h || `<div class="vazio-ad">Nada corresponde aos filtros.</div>`;
@@ -739,7 +731,7 @@ body.capa-aberta{overflow:hidden}
     const grupos = {}; linhas.forEach(x=>{ const k=iso(semIni(x.data)); (grupos[k]=grupos[k]||[]).push(x); });
     const ordem = (a,b)=>(a.data+String(horaNum(a.hora)).padStart(4,'0')).localeCompare(b.data+String(horaNum(b.hora)).padStart(4,'0'));
     const linhaCal = c => `<div class="ev cal-ev"><span class="h">${esc(fmtD(c.data))}<br>${esc(c.horas||'')}</span><span class="d"></span><span class="t"><b>${esc(c.atividade)}</b><small>Calendarização da Assembleia da República · ordem de trabalhos ainda não publicada</small></span></div>`;
-    const linhaPub = x => `<div class="ev"><span class="h">${esc(fmtD(x.data))}<br>${esc(x.hora||'')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${arLink(x,'vr ar')}${x.uo.slice(0,3).map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('')}<small>${esc(x.tipoLabel)}</small></span></div>`;
+    const linhaPub = x => `<div class="ev"><span class="h">${esc(fmtD(x.data))}<br>${esc(x.hora||'')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}</small></span></div>`;
     const h = Object.keys(grupos).sort().map(k=>{ const g=grupos[k].sort(ordem), np=g.filter(x=>!x._cal).length, nc=g.length-np;
       return `<div class="sem">${fmtS(new Date(k+'T00:00:00'))} · ${[np?np+(np===1?' reunião publicada':' reuniões publicadas'):'', nc?nc+(nc===1?' dia previsto na calendarização':' dias previstos na calendarização'):''].filter(Boolean).join(' · ')}</div>` + g.map(x=>x._cal?linhaCal(x._cal):linhaPub(x)).join(''); }).join('');
     const depois = fimSem > fimEd ? ` depois da semana de ${fmtD(diasDe(segDe(fimSem))[0])} a ${fmtD(fimSem)}` : '';
@@ -772,13 +764,15 @@ body.capa-aberta{overflow:hidden}
   };
   const PEDIDO = 'upe@sggoverno.gov.pt';
   const pedirVarr = x => { const ass = encodeURIComponent(`AR Preview — pedido de varrimento: ${x.tema}`.slice(0,150));
-    const corpo = encodeURIComponent(`Solicito varrimento mediático da seguinte matéria do AR Preview:\n\nMatéria: ${x.tema}\nData: ${x.dataLabel||x.data}${x.hora?', '+x.hora:''}\nTipo: ${x.tipoLabel||''}\nUnidade(s): ${(x.uo||[]).join(', ')||'—'}\nEdição: n.º ${D.edicao.numero} (${D.edicao.semana})\n\nMotivo / enquadramento do pedido:\n\n`);
+    const corpo = encodeURIComponent(`Solicito varrimento mediático da seguinte matéria do AR Preview:\n\nMatéria: ${x.tema}\nData: ${x.dataLabel||x.data}${x.hora?', '+x.hora:''}\nTipo: ${x.tipoLabel||''}\nEdição: n.º ${D.edicao.numero} (${D.edicao.semana})\n\nMotivo / enquadramento do pedido:\n\n`);
     return `<a class="pedir lig" href="mailto:${PEDIDO}?subject=${ass}&body=${corpo}" title="Abre um email para ${PEDIDO} com a matéria preenchida">Pedir varrimento</a>`; };
   const listaBtn = x => x.cobertura && x.cobertura.n && (x.cobertura.todas||[]).length ? `<button class="ver sec" data-lista="${esc(idDe(x))}"><svg class="ic"><use href="#i-news"/></svg>Notícias (${x.cobertura.n})</button>` : '';
+  // critérios da prioridade (sem os das unidades, que já não se mostram)
+  const critP = x => (x.criterio||[]).filter(c => /→|revisão humana|dossier acompanhado/.test(c)).map(c => c.replace(/\s*\((DACDP|DAPL|UPE|DCIRI|UnIT|transversal|Transversal)\)\s*$/,''));
   const icTipo = t => /Audi/.test(t)?'i-mic':/Debate|Plenário/.test(t)?'i-users':/vota|Vota/.test(t)?'i-vote':'i-file';
   function cartao(x){
     const [cls,pc] = PERT[x.pertinencia]||['reg','p-reg'];
-    const uos = x.uo.length ? x.uo.map(u=>`<span class="tag ${u==='Transversal'?'transv':''}">${esc(u)}</span>`).join('') : `<span class="tag sem">sem unidade atribuída</span>`;
+    const uos = '';   // sem etiquetas de unidade (decisão de 2/11/2026)
     const res = x.resumo||''; const longo = res.length>220 || x.ordemTrabalhos;
     const ligs = arLink(x, 'lig') + (x.ligacoes||[]).filter(l => !x.id_ar || l.titulo !== 'Agenda parlamentar').map(l=>`<a class="lig" href="${esc(l.url)}" target="_blank" rel="noopener"><svg class="ic"><use href="#i-ext"/></svg>${esc(l.titulo)}</a>`).join('');
     const foot = x._hist ? `<a class="ver" href="${esc(BASE_ED+x._hist.ficheiro+(x.varrimento?'#'+x.varrimento:''))}"${x.varrimento?` data-f="f-${esc(x.varrimento)}"`:''}><svg class="ic"><use href="#i-layers"/></svg>${x.varrimento?'Ver varrimento na ':'Abrir a '}${esc(nomeEd(x._hist).toLowerCase())}</a>${ligs}`
@@ -792,7 +786,7 @@ body.capa-aberta{overflow:hidden}
       <p class="c-resumo ${longo?'clamp':''}">${esc(x.ordemTrabalhos||res)}</p>
       ${longo?`<button class="c-mais" data-mais>Ver tudo</button>`:''}
       ${x.cobertura ? `<div class="c-cob"><span>${cobTxt(x.cobertura)}</span></div>` : ''}
-      ${(x.criterio||[]).length?`<div class="c-crit"><b>Classificação:</b> ${x.criterio.map(esc).join(' · ')}${x.validado?' · validada':''}</div>`:''}
+      ${critP(x).length?`<div class="c-crit"><b>Classificação:</b> ${critP(x).map(esc).join(' · ')}${x.validado?' · validada':''}</div>`:''}
       <div class="c-uo">${uos}${x._hist?`<span class="tag arq">arquivo · ${esc(nomeEd(x._hist).replace('Edição ',''))}</span>`:''}${x._fut?`<span class="tag futt">semana seguinte</span>`:''}${x.novo?`<span class="tag novo">novo · ${esc(fmtD(x.novo))}</span>`:''}${x.alterado && !x.novo?`<span class="tag alt">alterado · ${esc(fmtD(x.alterado))}</span>`:''}</div>
       <div class="c-foot">${foot}</div>
     </article>`;
@@ -815,7 +809,7 @@ body.capa-aberta{overflow:hidden}
     const n = k => base.filter(x=>x.pertinencia===k).length;
     const nNov = C.filter(x=>x.novo||x.alterado).length;
     // atalhos de filtro que não estão noutro sítio (a prioridade já está no hemiciclo e nos botões)
-    const nSemUO = C.filter(x=>!x.uo.length).length;
+    const nSemUO = 0;   // sem unidades
     $('#kpis').innerHTML = (nNov?`<div class="kpi nov ${st.novidades?'on':''}" data-kpi="nov" title="Mostrar só estas (carregar de novo para ver tudo)"><b>${nNov}</b><span>novas ou alteradas${D.edicao.desdeLabel?' desde '+esc(D.edicao.desdeLabel):''}</span></div>`:'')
       + (nSemUO?`<div class="kpi ${st.semUO?'on':''}" data-kpi="semuo" title="Mostrar só estas (carregar de novo para ver tudo)"><b>${nSemUO}</b><span>sem unidade atribuída</span></div>`:'');
     renderSemanas(); renderCal(); renderAgendaDia(); desenharHemi(); filtrarHemi();
@@ -886,8 +880,8 @@ body.capa-aberta{overflow:hidden}
     const x = pool.find(y => idDe(y)===id); if (!x) return; atual = null; listaAtual = null; listaMateria = x; if (x.cobertura) { x.cobertura._titulo = x.tema; listaAtual = x.cobertura; }
     const [cls,pc] = PERT[x.pertinencia]||['reg','p-reg'];
     $('#g-titulo').innerHTML = esc(x.tema) + `<span class="nivel">${esc(x.pertinencia)}</span>`;
-    $('#g-meta').textContent = `${x.tipoLabel||''} · ${x.dataLabel||''}${x.hora?', '+x.hora:''}${x.uo&&x.uo.length?' · UO de referência: '+x.uo.join(' · '):''}`;
-    const crit = (x.criterio||[]).length ? `<div class="g-amostra">Classificação: ${x.criterio.map(esc).join(' · ')}${x.validado?' · validada':' · automática, a validar'}</div>` : '';
+    $('#g-meta').textContent = `${x.tipoLabel||''} · ${x.dataLabel||''}${x.hora?', '+x.hora:''}`;
+    const crit = critP(x).length ? `<div class="g-amostra">Classificação: ${critP(x).map(esc).join(' · ')}${x.validado?' · validada':' · automática, a validar'}</div>` : '';
     botaoExportar(); $('#g-corpo').innerHTML = crit + `<div class="gaveta-cartao">${cartao(x)}</div>` + (x.cobertura ? listaHTML(x.cobertura, false) : '');
     $('#g-corpo').scrollTop = 0; $('#g-nav').innerHTML = '';
     $('#gaveta').classList.add('on'); $('#veu').classList.add('on'); $('#gaveta').setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';
@@ -911,7 +905,7 @@ body.capa-aberta{overflow:hidden}
       ['Campo', 'Valor'],
       ['Produto', 'AR Preview — a semana na Assembleia da República (Secretaria-Geral do Governo · Suporte à Decisão)'],
       ['Matéria', x.tema || c._titulo || ''], ['Data da reunião', `${x.dataLabel||x.data||''}${x.hora?' · '+x.hora:''}`], ['Tipo / órgão', x.tipoLabel || ''],
-      ['Unidade(s) de referência', (x.uo||[]).join(', ') || '—'], ['Pertinência', x.pertinencia || ''], ['Classificação', (x.criterio||[]).join(' · ') || '—'],
+      ['Pertinência', x.pertinencia || ''], ['Classificação', critP(x).join(' · ') || '—'],
       ['Ligação à reunião na AR', arUrl(x) || ''], ['Edição', `n.º ${D.edicao.numero} · ${D.edicao.semana}`],
       ['Fonte das notícias', 'Radar de Notícias por área governativa (UPE / Suporte à Decisão, SGGov): órgãos de comunicação social nacionais acompanhados pelo Radar'],
       ['Janela', `últimos ${c.dias||60} dias até ${c.ref||''}`], ['Expressões de pesquisa', exps],
@@ -1005,8 +999,8 @@ body.capa-aberta{overflow:hidden}
       <h3>${esc(x.tema)}</h3>
       <div class="hd-tipo">${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?' · '+esc(x.interveniente):''}</div>
       ${ot?`<div class="hd-ot">${esc(ot)}${(x.ordemTrabalhos||'').length>900?'…':''}</div>`:''}
-      <div class="hd-linha hd-uo"><b>Unidades:</b> ${(x.uo||[]).length ? x.uo.map(u=>`<span>${esc(u)}</span>`).join('') : 'sem unidade atribuída'}</div>
-      ${(x.criterio||[]).length?`<div class="hd-linha"><b>Classificação:</b> ${x.criterio.map(esc).join(' · ')}${x.validado?' · validada':' · automática, a validar'}</div>`:''}
+      
+      ${critP(x).length?`<div class="hd-linha"><b>Classificação:</b> ${critP(x).map(esc).join(' · ')}${x.validado?' · validada':' · automática, a validar'}</div>`:''}
       ${c?`<div class="hd-linha"><b>Cobertura:</b> ${cobTxt(c)}</div>`:''}
       ${f&&f.enquadramento&&f.origem!=='radar'?`<div class="hd-linha"><b>Resumo da cobertura:</b> ${esc(f.enquadramento)}</div>`:''}
       ${extra.length?`<div class="hd-linha"><b>Ligações:</b> ${extra.map(l=>`<a href="${esc(l.url)}" target="_blank" rel="noopener" style="color:#fff">${esc(l.titulo)}</a>`).join(' · ')}</div>`:''}
@@ -1026,7 +1020,7 @@ body.capa-aberta{overflow:hidden}
     const v = e.target.closest('[data-hd-ver]'); if (v) { abrir(v.dataset.hdVer); return; }
     const l = e.target.closest('[data-hd-lista]'); if (l) { abrirLista(l.dataset.hdLista); return; }
   });
-  // os filtros (unidade, pertinência, pesquisa) e os dias selecionados aplicam-se também ao hemiciclo
+  // os filtros (pertinência, pesquisa) e os dias selecionados aplicam-se também ao hemiciclo
   function filtrarHemi(){
     const svg = $('#hemi'); let n = 0, nv = 0;
     svg.querySelectorAll('[data-seat]').forEach(g => { const x = pool.find(y => idDe(y) === g.dataset.seat); const ok = x && visiveis(x) && (!st.dias.size || st.dias.has(x.data)) && (!st.novidades || x.novo || x.alterado) && (!st.semUO || !x.uo.length); g.classList.toggle('off', !ok); n++; if (ok) nv++; });
@@ -1079,7 +1073,7 @@ body.capa-aberta{overflow:hidden}
     h += seats + labels + `<text class="centro" x="${cx}" y="${cy-44}"><tspan class="n">${tot}</tspan></text><text class="centro t" x="${cx}" y="${cy-22}">matérias na semana</text><text class="centro t" x="${cx}" y="${cy-4}">clique num lugar para ver a matéria</text><text class="centro t" id="hemi-filtro" x="${cx}" y="${cy+14}" style="fill:#FFD200"></text>`;
     svg.innerHTML = h;
     // texto e contadores
-    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana, com a prioridade e a unidade de Suporte à Decisão de cada matéria e as notícias do Radar; as matérias Imediato e Vigilância têm ficha de varrimento.`
+    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana, com a prioridade de cada matéria e as notícias do Radar; as matérias Imediato e Vigilância têm ficha de varrimento.`
       : edSel ? `Arquivo · ${edSel.semana} (${nomeEd(edSel).toLowerCase()}). A semana tal como foi acompanhada na altura; a edição completa abre a partir da agenda.`
       : `Semana de ${rotSem(semSel)}. O que a Assembleia da República já publicou para esta semana, com triagem provisória; o varrimento entra na sexta-feira anterior.`;
     const kp = [[nIme,'ime',nIme===1?'imediata':'imediatas'],[todos.filter(x=>x.pertinencia==='Vigilância').length,'vig','em vigilância'],[todos.filter(x=>x.pertinencia==='Registo').length,'','só para registo'],
@@ -1094,7 +1088,7 @@ body.capa-aberta{overflow:hidden}
     // interação: dica, clique no lugar (abre varrimento ou salta ao cartão), clique no setor (seleciona o dia)
     const tip = $('#tip');
     svg.addEventListener('mousemove', e => { const g = e.target.closest('[data-seat]'); if (!g){ tip.classList.remove('on'); return; } const x = pool.find(t=>idDe(t)===g.dataset.seat); if(!x) return;
-      tip.innerHTML = `<b>${esc(x.tema)}</b>${esc(x.dataLabel)}${x.hora?' · '+esc(x.hora):''} · <span class="pert p-${(PERT[x.pertinencia]||['reg'])[0]}" style="font-size:10px">${esc(x.pertinencia)}</span><br><small>${esc(x.tipoLabel||'')}${(x.uo||[]).length?' · '+x.uo.join(' · '):''} · clique para ver a matéria</small>`;
+      tip.innerHTML = `<b>${esc(x.tema)}</b>${esc(x.dataLabel)}${x.hora?' · '+esc(x.hora):''} · <span class="pert p-${(PERT[x.pertinencia]||['reg'])[0]}" style="font-size:10px">${esc(x.pertinencia)}</span><br><small>${esc(x.tipoLabel||'')}· clique para ver a matéria</small>`;
       tip.style.left = Math.min(innerWidth-340, e.clientX+14)+'px'; tip.style.top = (e.clientY+16)+'px'; tip.classList.add('on'); });
     svg.addEventListener('mouseleave', () => tip.classList.remove('on'));
     svg.addEventListener('click', e => {

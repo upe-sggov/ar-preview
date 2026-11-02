@@ -7,7 +7,7 @@
   "UPE": "Unidade de Pesquisa e Estatísticas",
   "DCIRI": "Divisão de Cooperação Institucional e Relações Internacionais"
  },
- "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República nos seus dados abertos, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A identificação das matérias pertinentes e da unidade orgânica de referência resulta de um juízo analítico e é meramente indicativa, dado o trabalho integrado da Direção de Serviços de Suporte à Decisão (DSSD). A classificação automática constitui apenas uma sugestão de triagem, sujeita a validação. O varrimento mediático associado é amostral e ilustrativo, não exaustivo, e privilegia fontes primárias.",
+ "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República nos seus dados abertos, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A identificação das matérias pertinentes resulta de um juízo analítico e é meramente indicativa. A classificação automática constitui apenas uma sugestão de triagem, sujeita a validação. O varrimento mediático associado é amostral e ilustrativo, não exaustivo, e privilegia fontes primárias.",
  "metodologia": [
   "Varrimento amostral e ilustrativo, não exaustivo, com fontes originais e números confrontados com as fontes primárias: parecer do Tribunal de Contas, notificação do INE e comunicação oficial do Governo.",
   "Ordem cronológica crescente. Natureza: vermelho = crítica / muito relevante; dourado = muito relevante; verde = contextual / positivo; cinzento = contextual.",
@@ -13387,7 +13387,7 @@
  "fichas": {
   "2026-10-27-plen-rio-debate-na-generalidade-do-or-a": {
    "titulo": "Plenário — Debate na generalidade do Orçamento do Estado para 2027",
-   "meta": "Plenário · Reunião n.º 15 · Plenário · terça, 27 out, 15h00 · UO de referência: Transversal · DACDP · UPE · DAPL",
+   "meta": "Plenário · Reunião n.º 15 · Plenário · terça, 27 out, 15h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13589,7 +13589,7 @@
   },
   "2026-10-26-iniciativas-europeias-de-seguran-a-soci": {
    "titulo": "Iniciativas europeias de segurança social: Passaporte Europeu de Segurança Social e Autoridade Europeia do Trabalho",
-   "meta": "Comissões Parlamentares · Reunião n.º 75 · Sala 8 · segunda, 26 out, 14h30 · UO de referência: DCIRI · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 75 · Sala 8 · segunda, 26 out, 14h30",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13629,7 +13629,7 @@
   },
   "2026-10-26-comiss-o-de-or-amento-finan-as-e-admini": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 123 · Plenário · segunda, 26 out, 15h00 · UO de referência: DAPL · Transversal",
+   "meta": "Comissões Parlamentares · Reunião n.º 123 · Plenário · segunda, 26 out, 15h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13723,7 +13723,7 @@
   },
   "2026-10-27-conselho-das-comunidades-portuguesas-di": {
    "titulo": "Conselho das Comunidades Portuguesas: direitos e garantias das comunidades no estrangeiro",
-   "meta": "Comissões Parlamentares · Reunião n.º 14 · Sala 6 · terça, 27 out, 11h00 · UO de referência: DCIRI",
+   "meta": "Comissões Parlamentares · Reunião n.º 14 · Sala 6 · terça, 27 out, 11h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13772,7 +13772,7 @@
   },
   "2026-10-27-comiss-o-de-or-amento-finan-as-e-admini": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 124 · Sala 3 · terça, 27 out, 11h00 · UO de referência: DAPL · Transversal",
+   "meta": "Comissões Parlamentares · Reunião n.º 124 · Sala 3 · terça, 27 out, 11h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13866,7 +13866,7 @@
   },
   "2026-10-27-comiss-o-parlamentar-de-inqu-rito-relat": {
    "titulo": "Comissão Parlamentar de Inquérito relativa às decisões, contratações e responsabilidades na conceção e execução da classificação digital dos exames nacionais de 2025 e 2026",
-   "meta": "Comissões Parlamentares · Reunião n.º 2 · Sala 1 · terça, 27 out, 12h00 · UO de referência: Transversal",
+   "meta": "Comissões Parlamentares · Reunião n.º 2 · Sala 1 · terça, 27 out, 12h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -13960,7 +13960,7 @@
   },
   "2026-10-28-comiss-o-de-neg-cios-estrangeiros-e-com": {
    "titulo": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-   "meta": "Comissões Parlamentares · Reunião n.º 46 · quarta, 28 out, 14h00 · UO de referência: DCIRI",
+   "meta": "Comissões Parlamentares · Reunião n.º 46 · quarta, 28 out, 14h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -14000,7 +14000,7 @@
   },
   "2026-10-26-comiss-o-de-infraestruturas-mobilidade": {
    "titulo": "Comissão de Infraestruturas, Mobilidade e Habitação",
-   "meta": "Comissões Parlamentares · Reunião n.º 70 · Sala 1 · segunda, 26 out, 10h00 · UO de referência: DACDP",
+   "meta": "Comissões Parlamentares · Reunião n.º 70 · Sala 1 · segunda, 26 out, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -14202,7 +14202,7 @@
   },
   "2026-10-26-comiss-o-parlamentar-de-inqu-rito-para": {
    "titulo": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram",
-   "meta": "Comissões Parlamentares · Reunião n.º 2 · Sala 6 · segunda, 26 out, 14h00 · UO de referência: DACDP",
+   "meta": "Comissões Parlamentares · Reunião n.º 2 · Sala 6 · segunda, 26 out, 14h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -14404,7 +14404,7 @@
   },
   "2026-10-27-comiss-o-parlamentar-de-inqu-rito-para": {
    "titulo": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram",
-   "meta": "Comissões Parlamentares · Reunião n.º 2 · Sala 6 · terça, 27 out, 13h30 · UO de referência: DACDP",
+   "meta": "Comissões Parlamentares · Reunião n.º 2 · Sala 6 · terça, 27 out, 13h30",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -14606,7 +14606,7 @@
   },
   "2026-11-18-plen-rio-debate-na-especialidade-do-or": {
    "titulo": "Plenário — Debate na especialidade do Orçamento do Estado para 2027",
-   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -14808,7 +14808,7 @@
   },
   "2026-11-19-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
-   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -15010,7 +15010,7 @@
   },
   "2026-10-30-comiss-o-de-assuntos-europeus": {
    "titulo": "Comissão de Assuntos Europeus",
-   "meta": "Comissões Parlamentares · Reunião n.º 62 · sexta, 30 out, 09h30 · UO de referência: DACDP · DAPL · DCIRI",
+   "meta": "Comissões Parlamentares · Reunião n.º 62 · sexta, 30 out, 09h30",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -15031,7 +15031,7 @@
   },
   "2026-11-20-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
-   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -15233,7 +15233,7 @@
   },
   "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
-   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -15435,7 +15435,7 @@
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas Tempos 5 minutos ao Governo, a cada GP e DURP",
-   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -15637,7 +15637,7 @@
   },
   "2026-10-29-comiss-o-de-assuntos-europeus": {
    "titulo": "Comissão de Assuntos Europeus",
-   "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · quinta, 29 out, 14h00 · UO de referência: DACDP · DAPL · DCIRI · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · quinta, 29 out, 14h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -15839,7 +15839,7 @@
   },
   "2026-10-29-comiss-o-da-reforma-do-estado-e-poder-l": {
    "titulo": "Comissão da Reforma do Estado e Poder Local",
-   "meta": "Comissões Parlamentares · Reunião n.º 60 · Plenário · quinta, 29 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 60 · Plenário · quinta, 29 out, 18h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -15897,7 +15897,7 @@
   },
   "2026-10-29-comiss-o-de-economia-e-coes-o-territori": {
    "titulo": "Comissão de Economia e Coesão Territorial",
-   "meta": "Comissões Parlamentares · Reunião n.º 55 · Plenário · quinta, 29 out, 18h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 55 · Plenário · quinta, 29 out, 18h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16099,7 +16099,7 @@
   },
   "2026-10-29-comiss-o-de-agricultura-e-pescas": {
    "titulo": "Comissão de Agricultura e Pescas",
-   "meta": "Comissões Parlamentares · Reunião n.º 69 · Plenário · quinta, 29 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 69 · Plenário · quinta, 29 out, 18h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16193,7 +16193,7 @@
   },
   "2026-10-30-comiss-o-de-assuntos-constitucionais-di": {
    "titulo": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-   "meta": "Comissões Parlamentares · Reunião n.º 106 · Plenário · sexta, 30 out, 09h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 106 · Plenário · sexta, 30 out, 09h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16214,7 +16214,7 @@
   },
   "2026-10-30-comiss-o-da-reforma-do-estado-e-poder-l": {
    "titulo": "Comissão da Reforma do Estado e Poder Local",
-   "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · sexta, 30 out, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 61 · Plenário · sexta, 30 out, 15h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16263,7 +16263,7 @@
   },
   "2026-10-30-comiss-o-de-sa-de": {
    "titulo": "Comissão de Saúde",
-   "meta": "Comissões Parlamentares · Reunião n.º 67 · Plenário · sexta, 30 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 67 · Plenário · sexta, 30 out, 18h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16284,7 +16284,7 @@
   },
   "2026-10-29-48579-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 27 · Sala 3 · quinta, 29 out, 09h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 27 · Sala 3 · quinta, 29 out, 09h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16305,7 +16305,7 @@
   },
   "2026-10-29-48578-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 28 · Sala 3 · quinta, 29 out, 09h45 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 28 · Sala 3 · quinta, 29 out, 09h45",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16326,7 +16326,7 @@
   },
   "2026-10-29-48577-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 125 · Plenário · quinta, 29 out, 10h30 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 125 · Plenário · quinta, 29 out, 10h30",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16402,7 +16402,7 @@
   },
   "2026-10-29-48564-comiss-o-de-neg-cios-estrangeiros-e-comunid": {
    "titulo": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-   "meta": "Comissões Parlamentares · Reunião n.º 47 · Sala 7 · quinta, 29 out, 13h45 · UO de referência: DCIRI",
+   "meta": "Comissões Parlamentares · Reunião n.º 47 · Sala 7 · quinta, 29 out, 13h45",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16423,7 +16423,7 @@
   },
   "2026-10-29-48567-comiss-o-de-neg-cios-estrangeiros-e-comunid": {
    "titulo": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-   "meta": "Comissões Parlamentares · Reunião n.º 48 · Plenário · quinta, 29 out, 14h00 · UO de referência: DCIRI",
+   "meta": "Comissões Parlamentares · Reunião n.º 48 · Plenário · quinta, 29 out, 14h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16517,7 +16517,7 @@
   },
   "2026-10-29-48576-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 126 · Plenário · quinta, 29 out, 14h00 · UO de referência: DACDP · DAPL · DCIRI · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 126 · Plenário · quinta, 29 out, 14h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16611,7 +16611,7 @@
   },
   "2026-10-29-48575-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 127 · Plenário · quinta, 29 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 127 · Plenário · quinta, 29 out, 18h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16705,7 +16705,7 @@
   },
   "2026-10-30-48584-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 128 · Plenário · sexta, 30 out, 09h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 128 · Plenário · sexta, 30 out, 09h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -16907,7 +16907,7 @@
   },
   "2026-10-30-48586-comiss-o-de-agricultura-e-pescas": {
    "titulo": "Comissão de Agricultura e Pescas",
-   "meta": "Comissões Parlamentares · Reunião n.º 70 · Plenário · sexta, 30 out, 09h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 70 · Plenário · sexta, 30 out, 09h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -17109,7 +17109,7 @@
   },
   "2026-10-30-48599-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 29 · Sala 1 · sexta, 30 out, 12h45 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 29 · Sala 1 · sexta, 30 out, 12h45",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -17158,7 +17158,7 @@
   },
   "2026-10-30-48598-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 30 · Sala 1 · sexta, 30 out, 14h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 30 · Sala 1 · sexta, 30 out, 14h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -17179,7 +17179,7 @@
   },
   "2026-10-30-48601-comiss-o-de-agricultura-e-pescas": {
    "titulo": "Comissão de Agricultura e Pescas",
-   "meta": "Comissões Parlamentares · Reunião n.º 71 · Sala 1 · sexta, 30 out, 14h00 · UO de referência: DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 71 · Sala 1 · sexta, 30 out, 14h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -17200,7 +17200,7 @@
   },
   "2026-10-30-48583-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 129 · Plenário · sexta, 30 out, 15h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 129 · Plenário · sexta, 30 out, 15h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",
@@ -17240,7 +17240,7 @@
   },
   "2026-10-30-48582-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
-   "meta": "Comissões Parlamentares · Reunião n.º 130 · Plenário · sexta, 30 out, 18h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Comissões Parlamentares · Reunião n.º 130 · Plenário · sexta, 30 out, 18h00",
    "nivel": "curta",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática, sem análise",

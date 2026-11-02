@@ -7,7 +7,7 @@
   "UPE": "Unidade de Pesquisa e Estatísticas",
   "DCIRI": "Divisão de Cooperação Institucional e Relações Internacionais"
  },
- "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A prioridade e a unidade de referência são uma sugestão de triagem automática, indicativa e sujeita a validação, dado o trabalho integrado da área de Suporte à Decisão. As fichas de varrimento assentam só em notícias do Radar de Notícias; a síntese e a natureza de cada notícia são automáticas e não revistas.",
+ "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A prioridade é uma sugestão de triagem automática, indicativa e sujeita a validação. As fichas de varrimento assentam só em notícias do Radar de Notícias; a síntese e a natureza de cada notícia são automáticas e não revistas.",
  "metodologia": [
   "Fichas de varrimento: amostra de notícias do Radar de Notícias da UPE, das mais recentes para as mais antigas — escolhida ao longo dos 60 dias (dias de pico, jornais diferentes e as mais recentes; até 20 notícias nas matérias Imediato e até 8 nas de Vigilância). Só a amostra é lida pelo Amália, que escreve uma síntese de cada notícia e classifica a sua natureza: Crítica (crítica, polémica ou problema que pode ser levantado na reunião), Relevante (sobre a matéria, sem polémica), Positiva (sobre a matéria, em tom favorável) ou Contextual (enquadramento ou menção lateral). As restantes notícias ficam na lista completa, só com título e jornal. Classificação automática, sem revisão; nada vem dos varrimentos elaborados pela equipa.",
   "Cobertura mediática: contagem das notícias dos órgãos de comunicação social nacionais acompanhados pelo Radar de Notícias da UPE cujo título ou resumo refere o assunto (pelas expressões de pesquisa da matéria ou, na sua falta, pelas palavras do assunto, contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e contam também o nome do membro do Governo ouvido — o escrito nessa reunião ou o que a AR publica para o mesmo cargo noutra reunião da semana — e o nome ou a sigla da entidade ouvida, sempre junto com o assunto; o nome do ministro conta também junto com palavras da sua pasta). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; a lista completa das notícias encontradas está disponível em cada matéria. As fichas de varrimento analisam uma amostra escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes)."
@@ -12638,13 +12638,13 @@
   "atualizado": "2026-11-02T16:58+00:00",
   "atualizadoLabel": "2 de novembro, 16h58",
   "estado": "com triagem automática",
-  "aviso": "A prioridade e a unidade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
+  "aviso": "A prioridade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
   "desdeLabel": "30 de outubro"
  },
  "fichas": {
   "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -12826,7 +12826,7 @@
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática",
@@ -12968,7 +12968,7 @@
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
    "titulo": "Ministro da Presidência, António Leitão Amaro: Orçamento do Estado 2027",
-   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 109 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 109 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 15h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13150,7 +13150,7 @@
   },
   "2026-11-06-48630-ministro-de-estado-e-das-finan-as-joaquim-m": {
    "titulo": "Ministro de Estado e das Finanças, Joaquim Miranda Sarmento: Orçamento do Estado 2027",
-   "meta": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 144 · Plenário · sexta, 6 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 144 · Plenário · sexta, 6 nov, 15h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13332,7 +13332,7 @@
   },
   "2026-11-02-48600-ministro-das-infraestruturas-e-habita-o-mig": {
    "titulo": "Ministro das Infraestruturas e Habitação, Miguel Pinto Luz: Orçamento do Estado 2027",
-   "meta": "Comissão de Infraestruturas, Mobilidade e Habitação · Reunião n.º 71 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Infraestruturas, Mobilidade e Habitação · Reunião n.º 71 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 09h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13418,7 +13418,7 @@
   },
   "2026-11-02-48571-ministra-da-cultura-juventude-e-desporto-ma": {
    "titulo": "Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes: Orçamento do Estado 2027",
-   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 107 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 107 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 15h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13504,7 +13504,7 @@
   },
   "2026-11-04-48602-ministro-da-educa-o-ci-ncia-e-inova-o-ferna": {
    "titulo": "Ministro da Educação, Ciência e Inovação, Fernando Alexandre: Orçamento do Estado 2027",
-   "meta": "Comissão de Educação e Ciência · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Educação e Ciência · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 18h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13590,7 +13590,7 @@
   },
   "2026-11-05-48566-ministro-da-defesa-nacional-nuno-melo-or-am": {
    "titulo": "Ministro da Defesa Nacional, Nuno Melo: Orçamento da Defesa Nacional",
-   "meta": "Comissão de Defesa Nacional · Reunião n.º 50 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Defesa Nacional · Reunião n.º 50 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 14h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13676,7 +13676,7 @@
   },
   "2026-11-06-48590-ministra-do-trabalho-solidariedade-e-segura": {
    "titulo": "Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Palma Ramalho: Orçamento do Estado 2027",
-   "meta": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 77 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · sexta, 6 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 77 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · sexta, 6 nov, 09h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13762,7 +13762,7 @@
   },
   "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen": {
    "titulo": "Plenário — Debate na especialidade do Orçamento do Estado para 2027",
-   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13944,7 +13944,7 @@
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
    "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
-   "meta": "Comissão de Ambiente e Energia · Reunião n.º 61 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Ambiente e Energia · Reunião n.º 61 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 09h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14126,7 +14126,7 @@
   },
   "2026-11-04-48568-ministra-da-justi-a-rita-alarc-o-j-dice-or": {
    "titulo": "Ministra da Justiça, Rita Alarcão Júdice: Orçamento do Estado para 2027",
-   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 110 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 110 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 14h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14212,7 +14212,7 @@
   },
   "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14394,7 +14394,7 @@
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14576,7 +14576,7 @@
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
    "titulo": "Ministro da Agricultura e Mar, José Manuel Fernandes: Orçamento do Estado 2027",
-   "meta": "Comissão de Agricultura e Pescas · Reunião n.º 73 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Agricultura e Pescas · Reunião n.º 73 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 18h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",

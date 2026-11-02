@@ -1,7 +1,7 @@
 """Corpo do email de segunda-feira do AR Preview, com o mesmo desenho do email do Radar de Notícias
 (cartão branco de 640 px, cabeçalho azul com o logótipo de anel branco fino, contagem em destaque,
 matérias agrupadas por dia e rodapé escuro). Gerado do mesmo dados/agenda.json que a página.
-Cada matéria leva: hora, comissão/tema, membro do Governo, síntese curta, etiquetas das unidades
+Cada matéria leva: hora, comissão/tema, membro do Governo, síntese curta (sem etiquetas de unidade, por decisão de 2/11/2026)
 e as ligações que existirem (página na AR, varrimento, adicionar ao calendário).
 Logótipo servido pela própria página (docs/logo-sggov-email.png); HTML simples com estilos em linha (Outlook).
 Uso: PAGINA_URL=https://… python scripts/email_resumo.py dados/agenda.json [assunto.txt] > email.html"""
@@ -31,10 +31,7 @@ def etiqueta(txt, cor, titulo=''):
             f'border:1px solid {cor};border-radius:3px;padding:1px 5px;margin-right:5px">{e(txt)}</span>&nbsp; ')   # o Outlook ignora a margem: o espaço separa as siglas
 
 def etiquetas(x):
-    """Etiqueta de cada unidade (ou «Transversal», que serve todas) a que a matéria se aplica."""
-    # como na página: as unidades a que a matéria se aplica, e «Transversal» quando interessa a todas
-    t = etiqueta('Transversal', '#2B5683', 'todas as unidades do Suporte à Decisão') if 'Transversal' in x['uo'] else ''
-    return t + ''.join(etiqueta(u, '#0E7433', nomes.get(u, '')) for u in ('DACDP', 'DAPL', 'UPE', 'DCIRI') if u in x['uo'])
+    return ''   # sem etiquetas de unidade
 
 def linha(x):
     cor = {'Imediato': '#D02117', 'Vigilância': '#BE9C54'}.get(x['pertinencia'], '#a3aab3')
@@ -62,7 +59,7 @@ def linha(x):
         <td width="52" valign="top" style="font:400 12px Arial,sans-serif;color:#5b6068;padding-top:2px">{e(x.get("hora") or "—")}</td>
         <td width="14" valign="top" style="font:400 14px Arial,sans-serif;color:{cor};line-height:1.4">&#9679;</td>
         <td valign="top">{tema}{novo}{info}
-          <div style="padding-top:5px">{etiquetas(x)}</div>{mais}
+          {mais}
         </td>
       </tr></table>
     </td></tr>'''
@@ -84,7 +81,7 @@ n_ime = sum(1 for x in todos if x['pertinencia'] == 'Imediato'); n_vig = sum(1 f
 n_reg = len(todos) - n_ime - n_vig
 quando = ed.get('atualizadoLabel') or ed.get('fechoLabel', '')
 n_ed = f'edição n.º {ed["numero"]}' + (' (piloto)' if ed.get('estado') == 'piloto' else '')
-legenda = ' · '.join(f'<b style="color:#5b6068">{e(u)}</b> {e(nomes[u])}' for u in ('DACDP', 'DAPL', 'UPE', 'DCIRI') if nomes.get(u))
+legenda = ''   # sem legenda das unidades
 
 logo = (f'<td valign="middle" style="padding-right:14px"><img src="{e(url)}logo-sggov-email.png" width="40" height="40" '
         f'alt="Secretaria-Geral do Governo" style="display:block;border:0"></td>') if url else ''
