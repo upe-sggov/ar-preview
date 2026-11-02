@@ -44,6 +44,7 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
+   "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
     "n": 1149,
     "n7": 170,
@@ -2479,8 +2480,7 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ],
-   "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen"
+   ]
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -4947,7 +4947,8 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ]
+   ],
+   "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p"
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -12627,8 +12628,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-02T11:22+00:00",
-  "atualizadoLabel": "2 de novembro, 11h22",
+  "atualizado": "2026-11-02T13:01+00:00",
+  "atualizadoLabel": "2 de novembro, 13h01",
   "estado": "com triagem automática",
   "aviso": "A prioridade e a unidade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -13454,188 +13455,6 @@
    "novas": 0,
    "enquadramento": "A Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes, tem defendido um aumento significativo do financiamento para a Cultura e tem anunciado reforços orçamentais para 2027 e 2026, bem como a continuidade de apoios permanentes a artes e ofícios tradicionais. As notícias relatam também a sua posição sobre o futebol como exemplo para o desenvolvimento desportivo e a defesa de uma remuneração justa para criadores face ao avanço da IA."
   },
-  "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
-   "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
-   "meta": "Comissão de Ambiente e Energia · Reunião n.º 61 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-04",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/pais/reestruturacao-da-apa-e-do-icnf-praticamente-pronta-diz-ministra-do-ambiente_n1763484",
-     "sintese": "A Ministra do Ambiente, Maria da Graça Carvalho, afirmou que a reestruturação da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas está 'praticamente pronta', devendo em breve chegar a Conselho de Ministros.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-05",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/09/05/ministra-recusa-novos-aterros-e-admite-incineradora-no-algarve/#utm_source=rss&utm_medium=rss&utm_campaign=ministra-recusa-novos-aterros-e-admite-incineradora-no-algarve",
-     "sintese": "A Ministra do Ambiente, Maria da Graça Carvalho, rejeitou a construção de novos aterros sanitários em Portugal e confirmou que está em avaliação a instalação de uma incineradora no Algarve.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-07",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-nao-esta-a-lucrar-com-crise-dos-combustiveis-diz-ministra-do-ambiente",
-     "sintese": "Em conferência de imprensa, Maria da Graça Carvalho respondeu a acusações de que o Governo estava a lucrar com a crise dos combustíveis, garantindo que o Executivo não estava a tirar proveitos do aumento dos preços dos combustíveis.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-08",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/08/prova-dos-9-diferenca-de-precos-dos-combustiveis-portugal-espanha-e-igual-a-de-espanha-franca/",
-     "sintese": "A Ministra do Ambiente, Maria da Graça Carvalho, garantiu que o Governo não estava a lucrar com a crise dos combustíveis, rejeitando acusações de que o Executivo estava a tirar proveitos do aumento dos preços.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-10",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/10/mau-tempo-e-dificil-algum-pais-estar-preparado-para-calamidades-de-certa-dimensao-diz-ministra/",
-     "sintese": "Maria da Graça Carvalho defendeu a resposta adotada pelo Executivo para travar o impacto da subida dos combustíveis, rejeitando uma redução generalizada do IVA e sublinhando que as medidas devem proteger os consumidores mais vulneráveis sem comprometer as contas públicas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-11",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/governo-reduz-prazos-de-indemnizacao-aos-produtores-de-gado-atacado-pelo-lobo-iberico/",
-     "sintese": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, afirmou que o país tinha de poupar no consumo de combustíveis e rejeitou apoios generalizados, avisando que Portugal era o único país europeu sem Estado na distribuidora de energia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/graca-carvalho-afasta-recuo-no-sistema-volta-e-obrigatorio-a-nivel-europeu",
-     "sintese": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, e o Ministro da Agricultura e Mar, assinaram despacho conjunto que reduz prazos de indemnizações a produtores de gado afetados por ataques do lobo-ibérico.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-18",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/maria-da-graca-carvalho-pede-a-bruxelas-regras-claras-para-travar-distorcoes-no-mercado-dos-combustiveis/",
-     "sintese": "Maria da Graça Carvalho pediu a Bruxelas regras claras para travar distorções no mercado dos combustíveis, rejeitando uma redução generalizada do IVA e sublinhando a proteção dos consumidores mais vulneráveis.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-19",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/passos-coelho-quer-governo-a-ousar-mais-e-desvaloriza-criticas-dentro-do-psd_v1766423",
-     "sintese": "O antigo primeiro-ministro Passos Coelho desvalorizou críticas da vice-presidente do PSD e da Ministra do Ambiente, Maria da Graça Carvalho, ao Governo.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-21",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/consumo-de-combustiveis-ministra-do-ambiente-pede-poupanca-aos-portugueses_n1766828",
-     "sintese": "A Ministra do Ambiente apelou à poupança no consumo de combustíveis, indicando a necessidade de o país poupar neste quadrante.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-21",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/21/ministra-do-ambiente-diz-que-consumo-de-combustiveis-aumentou-e-apela-a-poupanca/",
-     "sintese": "Maria da Graça Carvalho afirmou que o consumo de combustíveis aumentou e apelou à poupança, rejeitando apoios generalizados.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-23",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/09/23/seixal-lisboa-e-castelo-do-bode-planos-para-almada-diversificam-fontes-de-agua/",
-     "sintese": "A Ministra do Ambiente, Maria da Graça Carvalho, anunciou um acordo para o licenciamento de um furo de captação de água entre os municípios de Almada e do Seixal.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/combustiveis-il-acusa-governo-de-criar-alarme-social-com-apelos-a-poupanca_n1767562",
-     "sintese": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, e a edil de Castro Marim, Filomena Sintra, assinaram contrato-programa para a requalificação do cais da Foz de Odeleite.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-26",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/foz-do-odeleite-requalificada-com-apoio-do-fundo-ambiental/",
-     "sintese": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, afirmou que Portugal queria que Bruxelas tivesse em atenção as particularidades de cada país nas medidas que vier a decidir sobre a energia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-28",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/portugal-quer-que-bruxelas-tenha-em-atencao-as-particularidades-de-cada-pais-nas-medidas-que-vier-a-decidir-sobre-a-energia_n1768261",
-     "sintese": "Maria da Graça Carvalho anunciou a abertura de leilões de 300 MVA de capacidade sobrante e 750 MVA de armazenamento autónomo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-11",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/programa/entrevista-tsf-jn?ep=17967857&page=13",
-     "sintese": "Maria da Graça Carvalho esteve em Bruxelas para chamar a atenção da situação de Portugal no que se refere à energia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/governo-abre-leiloes-de-300-mva-de-capacidade-sobrante-e-750-mva-de-armazenamento-autonomo/",
-     "sintese": "O Governo abriu leilões de 300 MVA de capacidade sobrante e 750 MVA de armazenamento autónomo, com a Ministra do Ambiente e Energia, Maria da Graça Carvalho, a afirmar que estes leilões dão um novo impulso à transição energética.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/28/dos-precos-aos-carregamentos-o-que-ja-se-sabe-sobre-novo-apoio-a-compra-de-carros-eletricos/",
-     "sintese": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, anunciou um novo apoio à compra de carros elétricos, comparticipando até 80% para famílias carenciadas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-30",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/30/novo-apoio-a-compra-de-eletricos-abrange-mais-de-15-milhoes-de-pessoas/",
-     "sintese": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, indicou que os apoios à aquisição de carros elétricos deverão abranger mais de um milhão e meio de cidadãos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-01",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/operacao-stop/ajudas-para-compra-de-electricos-multiplicaram-e-bom-ou-mau/",
-     "sintese": "A Ministra do Ambiente, Maria Graça Carvalho, anunciou que os incentivos para a compra de veículos elétricos foram multiplicados e agora incluem micro e pequenas empresas e os mais carenciados.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 20,
-    "encontradas": 38
-   },
-   "base": {
-    "ultima": "2026-11-01 08:02",
-    "em": "2026-11-02"
-   },
-   "novas": 0,
-   "enquadramento": "A cobertura mediática das ações e declarações da Ministra do Ambiente e Energia, Maria da Graça Carvalho, abrangeu uma variedade de temas relacionados com a política ambiental e energética, incluindo a reestruturação de agências, a gestão de resíduos, a resposta a crises de combustíveis, a prevenção de catástrofes naturais e a transição energética. A cobertura evoluiu de declarações sobre a reestruturação da APA e do ICNF (1) para discussões sobre a gestão de resíduos e a instalação de incineradoras (2), e depois para a gestão de crises de combustíveis e a defesa de políticas governamentais (3, 4, 8). A Ministra também abordou a prevenção de catástrofes naturais (5), a redução de prazos de indemnizações (6), a sustentabilidade do Sistema Volta (7), a necessidade de regras claras para o mercado de combustíveis (8), e a gestão de combustíveis e a apelação à poupança (10, 11). A cobertura também incluiu anúncios de projetos de água (12), a participação em reuniões de Bruxelas (13), a abertura de leilões de energia (17, 18) e o anúncio de novos apoios à compra de carros elétricos (19, 20). A maioria das notícias foram relevantes para a matéria, com algumas críticas ou enquadramentos laterais."
-  },
   "2026-11-04-48602-ministro-da-educa-o-ci-ncia-e-inova-o-ferna": {
    "titulo": "Ministro da Educação, Ciência e Inovação, Fernando Alexandre: Orçamento do Estado 2027",
    "meta": "Comissão de Educação e Ciência · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
@@ -14145,6 +13964,456 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se no Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento a 7 de outubro de 2026. A oposição, incluindo o PCP, manifestou posições críticas, com o PCP a anunciar um voto contra o orçamento. Entretanto, o Governo destacou a redução da dívida pública para abaixo dos 85% do PIB em 2027 e a estimativa de mais 166 milhões de euros de receitas provenientes de impostos sobre tabaco e álcool. O PSD e o CDS expressaram preocupações sobre a viabilização do orçamento, enquanto o PS indicou a possibilidade de alterar a sua posição se o orçamento contivesse medidas graves. O debate na especialidade está agendado para 18 de novembro, com a participação de vários partidos."
+  },
+  "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
+   "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
+   "meta": "Comissão de Ambiente e Energia · Reunião n.º 61 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-04",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/reestruturacao-da-apa-e-do-icnf-praticamente-pronta-diz-ministra-do-ambiente_n1763484",
+     "sintese": "A ministra do Ambiente, Maria da Graça Carvalho, afirmou que a reestruturação da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas está «praticamente pronta», devendo em breve chegar a Conselho de Ministros.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-05",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/09/05/ministra-recusa-novos-aterros-e-admite-incineradora-no-algarve/#utm_source=rss&utm_medium=rss&utm_campaign=ministra-recusa-novos-aterros-e-admite-incineradora-no-algarve",
+     "sintese": "A ministra do Ambiente rejeitou a construção de novos aterros sanitários em Portugal e confirmou que está em avaliação a instalação de uma incineradora no Algarve.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-07",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-nao-esta-a-lucrar-com-crise-dos-combustiveis-diz-ministra-do-ambiente",
+     "sintese": "Em conferência de imprensa, Maria da Graça Carvalho respondeu a acusações de estar a lucrar com a crise dos combustíveis, garantindo que o Governo não está a tirar proveitos do aumento dos preços.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-09-08",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/09/08/prova-dos-9-diferenca-de-precos-dos-combustiveis-portugal-espanha-e-igual-a-de-espanha-franca/",
+     "sintese": "A ministra do Ambiente, em conferência de imprensa, garantiu que o Governo não está a lucrar com a crise dos combustíveis, após acusações do secretário-geral do PS.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-09-10",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/10/mau-tempo-e-dificil-algum-pais-estar-preparado-para-calamidades-de-certa-dimensao-diz-ministra/",
+     "sintese": "A ministra do Ambiente afirmou que as calamidades são difíceis de prevenir, mas que o Governo está a trabalhar na recuperação, reparação e resiliência face a catástrofes naturais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-11",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/governo-reduz-prazos-de-indemnizacao-aos-produtores-de-gado-atacado-pelo-lobo-iberico/",
+     "sintese": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, e o Ministro da Agricultura e Mar, assinaram despacho que reduz prazos de indemnização a produtores de gado atacados pelo lobo-ibérico.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-16",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/graca-carvalho-afasta-recuo-no-sistema-volta-e-obrigatorio-a-nivel-europeu",
+     "sintese": "A ministra do Ambiente afirmou que o Governo não está a lucrar com a crise dos combustíveis, rejeitando redução generalizada do IVA e defendendo proteção de consumidores vulneráveis.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-09-18",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/maria-da-graca-carvalho-pede-a-bruxelas-regras-claras-para-travar-distorcoes-no-mercado-dos-combustiveis/",
+     "sintese": "A ministra do Ambiente defendeu no Parlamento a resposta adotada pelo Executivo para travar o impacto da subida dos combustíveis, rejeitando apoios generalizados.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-19",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/passos-coelho-quer-governo-a-ousar-mais-e-desvaloriza-criticas-dentro-do-psd_v1766423",
+     "sintese": "O antigo primeiro-ministro Passos Coelho desvalorizou críticas da vice-presidente do PSD e da ministra do Ambiente, Maria da Graça Carvalho.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-21",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/consumo-de-combustiveis-ministra-do-ambiente-pede-poupanca-aos-portugueses_n1766828",
+     "sintese": "A ministra do Ambiente apelou à poupança no consumo de combustíveis, face a uma subida assinalável no consumo.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-21",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/21/ministra-do-ambiente-diz-que-consumo-de-combustiveis-aumentou-e-apela-a-poupanca/",
+     "sintese": "A ministra do Ambiente afirmou que o consumo de combustíveis aumentou e apelou à poupança, rejeitando apoios generalizados.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-23",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/09/23/seixal-lisboa-e-castelo-do-bode-planos-para-almada-diversificam-fontes-de-agua/",
+     "sintese": "A ministra do Ambiente anunciou um acordo para o licenciamento de um furo de captação de água em Almada, visando resolver problemas de abastecimento.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-24",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/combustiveis-il-acusa-governo-de-criar-alarme-social-com-apelos-a-poupanca_n1767562",
+     "sintese": "A ministra do Ambiente acusou a REN de ser o único país europeu sem Estado na distribuidora de energia, defendendo a intervenção estatal.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-26",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/foz-do-odeleite-requalificada-com-apoio-do-fundo-ambiental/",
+     "sintese": "A ministra do Ambiente assinalou uma subida no consumo de combustíveis e apelou à poupança, rejeitando apoios generalizados.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-28",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/portugal-quer-que-bruxelas-tenha-em-atencao-as-particularidades-de-cada-pais-nas-medidas-que-vier-a-decidir-sobre-a-energia_n1768261",
+     "sintese": "A ministra do Ambiente anunciou um acordo para a requalificação do cais da Foz de Odeleite, danificado por intempéries, com apoio do Fundo Ambiental.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/programa/entrevista-tsf-jn?ep=17967857&page=13",
+     "sintese": "A ministra do Ambiente afirmou que Portugal deve ter em conta as particularidades de cada país nas medidas energéticas, em Bruxelas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-26",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/governo-abre-leiloes-de-300-mva-de-capacidade-sobrante-e-750-mva-de-armazenamento-autonomo/",
+     "sintese": "A ministra do Ambiente anunciou a abertura de leilões de capacidade sobrante e armazenamento autónomo, para impulsionar a transição energética.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/28/dos-precos-aos-carregamentos-o-que-ja-se-sabe-sobre-novo-apoio-a-compra-de-carros-eletricos/",
+     "sintese": "A ministra do Ambiente anunciou um novo apoio à compra de carros elétricos, abrangendo famílias carenciadas e micro e pequenas empresas.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/30/novo-apoio-a-compra-de-eletricos-abrange-mais-de-15-milhoes-de-pessoas/",
+     "sintese": "A ministra do Ambiente indicou que os apoios à aquisição de carros elétricos deverão abranger mais de um milhão e meio de cidadãos.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/operacao-stop/ajudas-para-compra-de-electricos-multiplicaram-e-bom-ou-mau/",
+     "sintese": "A ministra do Ambiente anunciou que os incentivos para a compra de veículos elétricos foram multiplicados e abrangem mais pessoas.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 38
+   },
+   "base": {
+    "ultima": "2026-11-01 08:02",
+    "em": "2026-11-02"
+   },
+   "novas": 0,
+   "enquadramento": "A cobertura noticiosa revela um período de intensa atividade da Ministra do Ambiente e Energia, Maria da Graça Carvalho, em torno de temas como a reestruturação de entidades ambientais, a gestão de resíduos e combustíveis, a prevenção de catástrofes naturais, a política de apoio à mobilidade elétrica e a gestão de recursos hídricos. As notícias abrangem desde anúncios de medidas concretas, como a requalificação de infraestruturas e a abertura de leilões de capacidade energética, até a discussão de posições políticas, como a defesa de regras claras para o mercado de combustíveis e a apologia à poupança energética. A cobertura inclui também declarações sobre a gestão de crises, como a subida dos preços dos combustíveis, e a resposta a críticas políticas, como as da IL e do PSD, demonstrando um envolvimento ativo da ministra em temas relevantes para a política ambiental e energética."
+  },
+  "2026-11-04-48568-ministra-da-justi-a-rita-alarc-o-j-dice-or": {
+   "titulo": "Ministra da Justiça, Rita Alarcão Júdice: Orçamento do Estado para 2027",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 110 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
+   "nivel": "curta",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-04",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/09/04/politica/noticia/ministra-justica-recusa-comentar-neves-fragilizacao-pj-nao-governo-2187086",
+     "sintese": "A Ministra da Justiça recusa comentar acusações de fragilização da PJ e afirma que não há interesse em atrasar inquéritos em curso.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-09",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/acusada-pelo-chega-ministra-da-justica-recusa-mentiras-sobre-polemica-da-destruicao-de-quimicos-pela-pj_n1764358",
+     "sintese": "A Ministra da Justiça explica a destruição de químicos pela PJ e afirma que está a apurar detalhes dos documentos solicitados.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-09",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/09/09/chega-pede-audicao-parlamentar-urgente-do-diretor-nacional-da-pj/",
+     "sintese": "O Chega pede audição parlamentar do diretor nacional da PJ sobre a operação Pacoba, acusando a Ministra de mentir ao Parlamento.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-09-24",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/ministra-da-justica-reitera-total-confianca-no-diretor-da-pj",
+     "sintese": "A Ministra da Justiça reitera a sua total confiança no diretor da PJ após buscas do Ministério Público.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-03",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1877/",
+     "sintese": "A Ministra da Justiça admite a necessidade de pequenas obras na cadeia de Ponta Delgada, onde as condições não são ideais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-07",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/ministra-da-justica-admite-pequenas-obras-na-cadeia-de-ponta-delgada-380898",
+     "sintese": "A Ministra da Justiça anuncia a disponibilidade da apostila nos cartórios notariais a partir de janeiro de 2027.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/09/apostila-disponivel-nos-cartorios-notariais-a-partir-de-janeiro/",
+     "sintese": "O Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves, incluindo a Ministra da Justiça.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1795/",
+     "sintese": "A Ministra da Justiça anuncia a implementação da apostila nos cartórios notariais a partir de janeiro de 2027.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    }
+   ],
+   "amostra": {
+    "analisadas": 8,
+    "encontradas": 19
+   },
+   "base": {
+    "ultima": "2026-10-23 21:16",
+    "em": "2026-11-02"
+   },
+   "novas": 0,
+   "enquadramento": "A Ministra da Justiça, Rita Alarcão Júdice, tem estado envolvida em várias discussões e anúncios relacionados com o sistema judicial e o orçamento para 2027, incluindo a audição sobre o Orçamento do Estado para 2027, a reiteração de confiança no diretor da PJ e a implementação da apostila nos cartórios notariais. A cobertura mediática inclui também críticas e acusações sobre a fragilização da PJ e operações policiais."
+  },
+  "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-24",
+     "fonte": "Nascer do SOL",
+     "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
+     "sintese": "A AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-29",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/economia/article/2026-09-29/47858717/oe2027-albuquerque-recebe-garantia-de-verbas-do-pm-e-n%C3%A3o-antecipa-qualquer-problema-na-vota%C3%A7%C3%A3o",
+     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa qualquer problema na votação do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-02",
+     "fonte": "Nascer do SOL",
+     "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
+     "sintese": "O PCP anuncia voto contra o Orçamento do Estado para 2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
+     "sintese": "O PS admite mudar a viabilização do OE2027 se este tiver 'medidas surpresa' gravosas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-07",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
+     "sintese": "O Governo entrega a proposta do Orçamento do Estado para 2027 no Parlamento.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
+     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
+     "sintese": "O PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas o PS avisa que 'compromissos são para cumprir'.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
+     "sintese": "Professores pedem mais investimento na Educação e valorização da carreira no âmbito do OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "Jornal de Notícias",
+     "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
+     "sintese": "Carneiro propõe abstenção ao OE2027, mas admite que 'convicções mais profundas' levariam a voto contra.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
+     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027, com protestos pela habitação.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
+     "sintese": "Oposição avisada de que a estrada é estreita, mas quer mudanças na especialidade.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
+     "sintese": "Carneiro acusa PSD e CDS de destratar e atacar o PS no debate do OE2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
+     "sintese": "José Luís Carneiro justifica viabilização do 'mau' OE2027 com crises em Portugal e no estrangeiro.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/edicao-diaria/oe2027-oposio-foi-avisada-de-que-a-estrada-estreita-mas-quer-mudanas-na-especialidade",
+     "sintese": "Realizou-se o debate na generalidade da proposta de Orçamento do Estado para 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
+     "sintese": "Oposição foi avisada de que a estrada é estreita, mas quer mudanças na especialidade.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Oposição acusa PSD e CDS de destratar, desconsiderar e atacar o PS no debate do OE2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
+     "sintese": "Galp: 'Decisão é soberana' e Governo cumpriu o seu papel.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-31",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
+     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/oe2027-pcp-acores-vai-avancar-com-propostas-na-justica-e-lajes-381667",
+     "sintese": "PCP/Açores avança com propostas na Justiça e Lajes no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+     "sintese": "OE da Semana: 'Midterms', contas da EDP e audições do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 1149
+   },
+   "base": {
+    "ultima": "2026-11-02 00:06",
+    "em": "2026-11-02"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PS admite mudar a sua viabilização se houver medidas surpresa. O PSD e o CDS expressaram preocupações sobre os compromissos, e o Governo tem defendido a estabilidade e a previsibilidade. Entretanto, foram revelados dados sobre a Carteira Digital de empresa e o Governo tem enfatizado a redução da dívida pública."
   }
  },
  "destaques": [
@@ -16882,7 +17151,7 @@
     "OE2027",
     "OE 2027"
    ],
-   "varrimento": "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra"
+   "varrimento": "2026-11-04-48568-ministra-da-justi-a-rita-alarc-o-j-dice-or"
   },
   {
    "tema": "Ministro da Educação, Ciência e Inovação, Fernando Alexandre: Orçamento do Estado 2027",
