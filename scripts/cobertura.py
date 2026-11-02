@@ -187,6 +187,26 @@ def _procurar(x, arts, texto, nomes=True, folga=True):
     res.sort(key=lambda r: (r[0], r[1].get('data', '')), reverse=True)
     return [a for _, a in res]
 
+def tons(local=None):
+    """Tom de cada notícia (positivo, neutro, negativo) tal como o próprio Radar de Notícias o avalia (sentimentos.json e o
+    arquivo mensal sentimento-meses/), pela ligação da notícia. O AR Preview não classifica notícias: só mostra o tom do Radar."""
+    out = {}
+    hoje = datetime.date.today()
+    for m in sorted({(hoje - datetime.timedelta(days=i)).strftime('%Y-%m') for i in range(0, DIAS + 1, 10)}):
+        try:
+            with gzip.open(io.BytesIO(ler(f'sentimento-meses/{m}.jsonl.gz', local)), 'rt', encoding='utf-8') as f:
+                for l in f:
+                    try: r = json.loads(l)
+                    except ValueError: continue
+                    if r.get('lig') and r.get('s') in ('positivo', 'neutro', 'negativo'): out[r['lig']] = r['s']
+        except Exception as e: print('aviso: tom', m, e)
+    try:
+        for lig, v in json.loads(ler('sentimentos.json', local)).get('avaliacoes', {}).items():
+            if v.get('s') in ('positivo', 'neutro', 'negativo'): out[lig] = v['s']
+    except Exception as e: print('aviso: sentimentos.json', e)
+    return out
+TOM = {}
+
 LISTA_MAX = 400   # notícias guardadas por matéria para a lista completa da página (as mais recentes)
 
 def cobertura(x, r, hoje):
@@ -197,13 +217,15 @@ def cobertura(x, r, hoje):
             'dias': DIAS, 'ref': hoje.isoformat(), 'metodo': 'expressoes' if (x.get('expressoes') or x.get('expressoes_auto')) else 'palavras',
             'ultima': rs[0].get('data', '')[:16] if rs else '',
             'ultimas': [{'data': a.get('data', '')[:10], 'fonte': a.get('fonte'), 'titulo': a.get('titulo'), 'url': a.get('ligacao')} for a in rs[:3]],
-            # lista completa (sem IA): [data, fonte, título, ligação]
-            'todas': [[a.get('data', '')[:16], a.get('fonte') or '', a.get('titulo') or '', a.get('ligacao') or ''] for a in rs[:LISTA_MAX]]}
+            'tom': {t: sum(1 for a in r if TOM.get(a.get('ligacao') or '', '') == t) for t in ('negativo', 'neutro', 'positivo', '')},
+            # lista completa: [data, fonte, título, ligação, tom do Radar ('' = ainda não avaliado pelo Radar)]
+            'todas': [[a.get('data', '')[:16], a.get('fonte') or '', a.get('titulo') or '', a.get('ligacao') or '', TOM.get(a.get('ligacao') or '', '')] for a in rs[:LISTA_MAX]]}
 
 if __name__ == '__main__':
     local = sys.argv[sys.argv.index('--local') + 1] if '--local' in sys.argv else None
     p = pathlib.Path('dados/agenda.json'); d = json.loads(p.read_text(encoding='utf-8'))
     arts = corpus(local)
+    TOM.update(tons(local)); print(len(TOM), 'notícias com tom avaliado pelo Radar')
     registar_nomes(d['destaques'] + d['agenda'] + d.get('futuro', []))
     print(len(arts), 'notícias no cesto (últimos', DIAS, 'dias)')
     hoje = datetime.date.today()
@@ -226,8 +248,8 @@ if __name__ == '__main__':
             'contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e contam '
             'também o nome do membro do Governo ouvido — o escrito nessa reunião ou o que a AR publica para o mesmo cargo noutra reunião '
             'da semana — e o nome ou a sigla da entidade ouvida, sempre junto com o assunto; o nome do ministro conta também junto com palavras da sua pasta). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; '
-            'a lista completa das notícias encontradas está disponível em cada matéria. As fichas de varrimento analisam uma amostra '
-            'escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes).')
+            'a lista completa das notícias encontradas está disponível em cada matéria, cada uma com o tom (negativo, neutro ou positivo) '
+            'atribuído pelo próprio Radar de Notícias — avaliação automática do Amália, em validação no Radar; o AR Preview não classifica notícias.')
     d['metodologia'] = [m for m in d.get('metodologia', []) if not m.startswith('Cobertura mediática:')] + [NOTA]
     p.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding='utf-8')
     for x in d['destaques'] + d['agenda'] + d.get('futuro', []):
