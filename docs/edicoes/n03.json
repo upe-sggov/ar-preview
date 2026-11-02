@@ -9,7 +9,7 @@
  },
  "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A prioridade e a unidade de referência são uma sugestão de triagem automática, indicativa e sujeita a validação, dado o trabalho integrado da área de Suporte à Decisão. As fichas de varrimento assentam só em notícias do Radar de Notícias; a síntese e a natureza de cada notícia são automáticas e não revistas.",
  "metodologia": [
-  "Fichas de varrimento: amostra de notícias do Radar de Notícias da UPE, por ordem cronológica crescente — escolhida ao longo dos 60 dias (dias de pico, jornais diferentes e as mais recentes; até 20 notícias nas matérias Imediato e até 8 nas de Vigilância). Só a amostra é lida pelo Amália, que escreve uma síntese de cada notícia e classifica a sua natureza: Crítica (crítica, polémica ou problema que pode ser levantado na reunião), Relevante (sobre a matéria, sem polémica), Positiva (sobre a matéria, em tom favorável) ou Contextual (enquadramento ou menção lateral). As restantes notícias ficam na lista completa, só com título e jornal. Classificação automática, sem revisão; nada vem dos varrimentos elaborados pela equipa.",
+  "Fichas de varrimento: amostra de notícias do Radar de Notícias da UPE, das mais recentes para as mais antigas — escolhida ao longo dos 60 dias (dias de pico, jornais diferentes e as mais recentes; até 20 notícias nas matérias Imediato e até 8 nas de Vigilância). Só a amostra é lida pelo Amália, que escreve uma síntese de cada notícia e classifica a sua natureza: Crítica (crítica, polémica ou problema que pode ser levantado na reunião), Relevante (sobre a matéria, sem polémica), Positiva (sobre a matéria, em tom favorável) ou Contextual (enquadramento ou menção lateral). As restantes notícias ficam na lista completa, só com título e jornal. Classificação automática, sem revisão; nada vem dos varrimentos elaborados pela equipa.",
   "Cobertura mediática: contagem das notícias dos órgãos de comunicação social nacionais acompanhados pelo Radar de Notícias da UPE cujo título ou resumo refere o assunto (pelas expressões de pesquisa da matéria ou, na sua falta, pelas palavras do assunto, contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e contam também o nome do membro do Governo ouvido — o escrito nessa reunião ou o que a AR publica para o mesmo cargo noutra reunião da semana — e o nome ou a sigla da entidade ouvida, sempre junto com o assunto; o nome do ministro conta também junto com palavras da sua pasta). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; a lista completa das notícias encontradas está disponível em cada matéria. As fichas de varrimento analisam uma amostra escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes)."
  ],
  "pedidos": "O varrimento mediático das matérias sem ficha faz-se a pedido, por email para upe@sggoverno.gov.pt (botão «Pedir varrimento» em cada cartão).",
@@ -2512,6 +2512,7 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
+   "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 1149,
     "n7": 170,
@@ -4947,8 +4948,7 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ],
-   "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p"
+   ]
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -7415,7 +7415,8 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ]
+   ],
+   "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p"
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -12628,8 +12629,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-02T13:01+00:00",
-  "atualizadoLabel": "2 de novembro, 13h01",
+  "atualizado": "2026-11-02T14:41+00:00",
+  "atualizadoLabel": "2 de novembro, 14h41",
   "estado": "com triagem automática",
   "aviso": "A prioridade e a unidade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -14414,6 +14415,188 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PS admite mudar a sua viabilização se houver medidas surpresa. O PSD e o CDS expressaram preocupações sobre os compromissos, e o Governo tem defendido a estabilidade e a previsibilidade. Entretanto, foram revelados dados sobre a Carteira Digital de empresa e o Governo tem enfatizado a redução da dívida pública."
+  },
+  "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-24",
+     "fonte": "Nascer do SOL",
+     "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
+     "sintese": "A AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-29",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/economia/article/2026-09-29/47858717/oe2027-albuquerque-recebe-garantia-de-verbas-do-pm-e-n%C3%A3o-antecipa-qualquer-problema-na-vota%C3%A7%C3%A3o",
+     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa qualquer problema na votação do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-02",
+     "fonte": "Nascer do SOL",
+     "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
+     "sintese": "PCP anuncia voto contra o Orçamento do Estado para 2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
+     "sintese": "PS admite mudar viabilização do OE2027 se este tiver “medidas surpresa” gravosas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-07",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
+     "sintese": "Governo entrega proposta no Parlamento esta quinta-feira à tarde.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
+     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
+     "sintese": "PSD espera “tranquilidade” e “previsibilidade” com o OE2027, mas PS avisa que “compromissos são para cumprir”.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
+     "sintese": "Professores pedem mais investimento na Educação e valorização da carreira.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "Jornal de Notícias",
+     "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
+     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que “convicções mais profundas” levariam a voto contra.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
+     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
+     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa principal preocupação, diz Miranda Sarmento.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
+     "sintese": "José Luís Carneiro justifica viabilização do “mau” OE2027 com crises em Portugal e no estrangeiro.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
+     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/edicao-diaria/oe2027-oposio-foi-avisada-de-que-a-estrada-estreita-mas-quer-mudanas-na-especialidade",
+     "sintese": "Oposição foi avisada de que a estrada é estreita, mas quer mudanças na especialidade.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
+     "sintese": "Carneiro acusa PSD e CDS de destratar, desconsiderar e atacar PS no debate do OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-29",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Decisão da Galp “é soberana” e Governo cumpriu o seu papel.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
+     "sintese": "OE2027. Carteira Digital tem 18 mil empresas — Alemanha diz-se inspirada no modelo português.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-31",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
+     "sintese": "Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/oe2027-pcp-acores-vai-avancar-com-propostas-na-justica-e-lajes-381667",
+     "sintese": "PCP/Açores vai avançar com propostas na Justiça e Lajes.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+     "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 1149
+   },
+   "base": {
+    "ultima": "2026-11-02 00:06",
+    "em": "2026-11-02"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento e a preparação para o debate na especialidade. Várias forças políticas expressaram as suas posições, desde a previsão de viabilização por parte do Governo até a antecipação de votos contra por parte da oposição. A oposição tem manifestado preocupações sobre a especialidade, enquanto o Governo tem defendido a estabilidade e a previsibilidade. A cobertura inclui também informações sobre medidas específicas, como o aumento da arrecadação de impostos sobre tabaco e álcool, e a preocupação com a dívida pública."
   }
  },
  "destaques": [
