@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48604@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261105T103000Z
 DTEND:20261105T123000Z
 SUMMARY:AR · Implementação da Lei n.º 5-A/2026 - RTRI
@@ -14,10 +14,9 @@ LOCATION:Assembleia da República · Auditório António de Almeida Santos
 DESCRIPTION:Grupo de Trabalho · Reunião n.º 16 · Auditório António d
  e Almeida Santos\nSíntese: Sessão pública de apresentação da platafo
  rma informática - Registo de Transparência da Representação de Intere
- sses (RTRI)\nUnidades (Suporte à Decisão): DACDP\, DAPL\nEmissões em d
- ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
- upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
- pode mudar.
+ sses (RTRI)\nEmissões em direto (quando houver): https://canal.parlament
+ o.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim i
+ ndicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

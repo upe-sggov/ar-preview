@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48392@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261119T100000Z
 DTEND:20261119T120000Z
 SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
@@ -14,10 +14,10 @@ SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 18 · Plenário\nGoverno: Governo (
  intervenção prevista)\nSíntese: Votações\; Continuação do debate n
- a especialidade do Orçamento do Estado para 2027\nUnidades (Suporte à D
- ecisão): DACDP\, DAPL\, Transversal\, UPE\nEmissões em direto (quando h
- ouver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.githu
- b.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ a especialidade do Orçamento do Estado para 2027\nEmissões em direto (q
+ uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
+ v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
+ ar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

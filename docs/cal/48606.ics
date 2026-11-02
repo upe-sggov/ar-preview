@@ -6,17 +6,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48606@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261103T160000Z
 DTEND:20261103T180000Z
 SUMMARY:AR · Audiência do Grupo Parlamentar de Amizade México-Portugal
 LOCATION:Assembleia da República
 DESCRIPTION:Comissão de Negócios Estrangeiros e Comunidades Portuguesas 
- · Reunião n.º 50\nUnidades (Suporte à Decisão): DCIRI\nPágina na AR
- : https://www.parlamento.pt/sites/com/XVIILeg/2CNECP/Paginas/default.aspx
- \nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR P
- review: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\;
-  a agenda da AR pode mudar.
+ · Reunião n.º 50\nPágina na AR: https://www.parlamento.pt/sites/com/X
+ VIILeg/2CNECP/Paginas/default.aspx\nEmissões em direto (quando houver): 
+ https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-
+ preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/2CNECP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

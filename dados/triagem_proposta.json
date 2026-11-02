@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-02T16:58",
+ "recolha": "2026-11-02T18:05",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -754,7 +754,7 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 76",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 76 · Plenário",
    "resumo": "Audição do Conselho Económico e Social, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado para 2027 .\n [Em conjunto com a Comissão de Orçamento, Finanças e Administração Pública e a Comissão de Economia e Coesão Territorial]",
    "ordemTrabalhos": "Audição do Conselho Económico e Social, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado para 2027 .\n [Em conjunto com a Comissão de Orçamento, Finanças e Administração Pública e a Comissão de Economia e Coesão Territorial]",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.aspx",
@@ -1013,7 +1013,7 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 77",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 77 · Plenário",
    "resumo": "Audição da Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Palma Ramalho, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado para 2027 , ao abrigo do disposto no n.º 2 do artigo 211.º do RAR.\n [Em conjunto com ",
    "ordemTrabalhos": "Audição da Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Palma Ramalho, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado para 2027 , ao abrigo do disposto no n.º 2 do artigo 211.º do RAR.\n [Em conjunto com a Comissão de Orçamento, Finanças e Administração Pública]",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.aspx",
@@ -1086,6 +1086,30 @@
   }
  ],
  "futuro": [
+  {
+   "id_ar": 48639,
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "tema": "Comissão de Assuntos Europeus",
+   "orgao": "Comissão de Assuntos Europeus",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 63",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
   {
    "id_ar": 48393,
    "data": "2026-11-18",

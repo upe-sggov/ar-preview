@@ -7,13 +7,171 @@
   "UPE": "Unidade de Pesquisa e Estatísticas",
   "DCIRI": "Divisão de Cooperação Institucional e Relações Internacionais"
  },
- "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A prioridade e a unidade de referência são uma sugestão de triagem automática, indicativa e sujeita a validação, dado o trabalho integrado da área de Suporte à Decisão. As fichas de varrimento assentam só em notícias do Radar de Notícias; a síntese e a natureza de cada notícia são automáticas e não revistas.",
+ "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A prioridade é uma sugestão de triagem automática, indicativa e sujeita a validação. As fichas de varrimento assentam só em notícias do Radar de Notícias; a síntese e a natureza de cada notícia são automáticas e não revistas.",
  "metodologia": [
   "Fichas de varrimento: amostra de notícias do Radar de Notícias da UPE, das mais recentes para as mais antigas — escolhida ao longo dos 60 dias (dias de pico, jornais diferentes e as mais recentes; até 20 notícias nas matérias Imediato e até 8 nas de Vigilância). Só a amostra é lida pelo Amália, que escreve uma síntese de cada notícia e classifica a sua natureza: Crítica (crítica, polémica ou problema que pode ser levantado na reunião), Relevante (sobre a matéria, sem polémica), Positiva (sobre a matéria, em tom favorável) ou Contextual (enquadramento ou menção lateral). As restantes notícias ficam na lista completa, só com título e jornal. Classificação automática, sem revisão; nada vem dos varrimentos elaborados pela equipa.",
   "Cobertura mediática: contagem das notícias dos órgãos de comunicação social nacionais acompanhados pelo Radar de Notícias da UPE cujo título ou resumo refere o assunto (pelas expressões de pesquisa da matéria ou, na sua falta, pelas palavras do assunto, contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e contam também o nome do membro do Governo ouvido — o escrito nessa reunião ou o que a AR publica para o mesmo cargo noutra reunião da semana — e o nome ou a sigla da entidade ouvida, sempre junto com o assunto; o nome do ministro conta também junto com palavras da sua pasta). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; a lista completa das notícias encontradas está disponível em cada matéria. As fichas de varrimento analisam uma amostra escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes)."
  ],
  "pedidos": "O varrimento mediático das matérias sem ficha faz-se a pedido, por email para upe@sggoverno.gov.pt (botão «Pedir varrimento» em cada cartão).",
  "futuro": [
+  {
+   "tema": "Comissão de Assuntos Europeus",
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 63",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "orgao": "Comissão de Assuntos Europeus",
+   "id_ar": 48639,
+   "chave": "ar-48639",
+   "dataLabel": "segunda, 9 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 16,
+    "n7": 0,
+    "n7ant": 3,
+    "dias": 60,
+    "ref": "2026-11-02",
+    "metodo": "palavras",
+    "ultima": "2026-10-22 18:39",
+    "ultimas": [
+     {
+      "data": "2026-10-22",
+      "fonte": "Observador",
+      "titulo": "\"Montenegro é quase socialista\"",
+      "url": "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
+     },
+     {
+      "data": "2026-10-20",
+      "fonte": "RTP Notícias",
+      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
+      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
+     },
+     {
+      "data": "2026-10-20",
+      "fonte": "ECO",
+      "titulo": "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
+      "url": "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-22 18:39",
+      "Observador",
+      "\"Montenegro é quase socialista\"",
+      "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
+     ],
+     [
+      "2026-10-20 16:14",
+      "RTP Notícias",
+      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
+      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
+     ],
+     [
+      "2026-10-20 15:31",
+      "ECO",
+      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
+      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+     ],
+     [
+      "2026-10-15 16:20",
+      "Açoriano Oriental",
+      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
+      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
+     ],
+     [
+      "2026-10-14 15:47",
+      "ECO",
+      "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
+      "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
+     ],
+     [
+      "2026-10-14 00:08",
+      "Observador",
+      "A República deve ter uma Vice-Presidente",
+      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
+     ],
+     [
+      "2026-10-01 13:41",
+      "Jornal Económico",
+      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
+      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
+     ],
+     [
+      "2026-09-23 14:57",
+      "Jornal de Notícias",
+      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
+      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
+     ],
+     [
+      "2026-09-23 11:45",
+      "ECO",
+      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
+      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
+     ],
+     [
+      "2026-09-19 17:24",
+      "ECO",
+      "Líder da Paul Weiss investe em luxo no Algarve",
+      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
+     ],
+     [
+      "2026-09-17 15:03",
+      "ECO",
+      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
+      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
+     ],
+     [
+      "2026-09-17 10:00",
+      "JM Madeira",
+      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
+     ],
+     [
+      "2026-09-17 07:07",
+      "Diário de Notícias da Madeira",
+      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
+      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
+     ],
+     [
+      "2026-09-16 09:18",
+      "Diário de Notícias da Madeira",
+      "Representante da República recebe Vice-Presidente da Comissão Europeia",
+      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
+     ],
+     [
+      "2026-09-14 13:35",
+      "RTP Notícias",
+      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
+      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
+     ],
+     [
+      "2026-09-09 22:59",
+      "Observador",
+      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
+      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
+     ]
+    ]
+   }
+  },
   {
    "tema": "Plenário — Debate na especialidade do Orçamento do Estado para 2027",
    "data": "2026-11-18",
@@ -12635,16 +12793,16 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-02T16:58+00:00",
-  "atualizadoLabel": "2 de novembro, 16h58",
+  "atualizado": "2026-11-02T18:05+00:00",
+  "atualizadoLabel": "2 de novembro, 18h05",
   "estado": "com triagem automática",
-  "aviso": "A prioridade e a unidade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
+  "aviso": "A prioridade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
   "desdeLabel": "30 de outubro"
  },
  "fichas": {
   "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -12826,7 +12984,7 @@
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00",
    "nivel": "completa",
    "origem": "radar",
    "gerado_por": "Radar de Notícias — seleção automática",
@@ -12968,7 +13126,7 @@
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
    "titulo": "Ministro da Presidência, António Leitão Amaro: Orçamento do Estado 2027",
-   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 109 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 109 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 15h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13150,7 +13308,7 @@
   },
   "2026-11-06-48630-ministro-de-estado-e-das-finan-as-joaquim-m": {
    "titulo": "Ministro de Estado e das Finanças, Joaquim Miranda Sarmento: Orçamento do Estado 2027",
-   "meta": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 144 · Plenário · sexta, 6 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 144 · Plenário · sexta, 6 nov, 15h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13332,7 +13490,7 @@
   },
   "2026-11-02-48600-ministro-das-infraestruturas-e-habita-o-mig": {
    "titulo": "Ministro das Infraestruturas e Habitação, Miguel Pinto Luz: Orçamento do Estado 2027",
-   "meta": "Comissão de Infraestruturas, Mobilidade e Habitação · Reunião n.º 71 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Infraestruturas, Mobilidade e Habitação · Reunião n.º 71 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 09h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13418,7 +13576,7 @@
   },
   "2026-11-02-48571-ministra-da-cultura-juventude-e-desporto-ma": {
    "titulo": "Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes: Orçamento do Estado 2027",
-   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 107 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 15h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 107 · Plenário · conjunta com Comissão de Cultura, Comunicação, Juventude e Desporto e Comissão de Orçamento, Finanças e Administração Pública · segunda, 2 nov, 15h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13504,7 +13662,7 @@
   },
   "2026-11-04-48602-ministro-da-educa-o-ci-ncia-e-inova-o-ferna": {
    "titulo": "Ministro da Educação, Ciência e Inovação, Fernando Alexandre: Orçamento do Estado 2027",
-   "meta": "Comissão de Educação e Ciência · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Educação e Ciência · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 18h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13590,7 +13748,7 @@
   },
   "2026-11-05-48566-ministro-da-defesa-nacional-nuno-melo-or-am": {
    "titulo": "Ministro da Defesa Nacional, Nuno Melo: Orçamento da Defesa Nacional",
-   "meta": "Comissão de Defesa Nacional · Reunião n.º 50 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Defesa Nacional · Reunião n.º 50 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 14h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13676,7 +13834,7 @@
   },
   "2026-11-06-48590-ministra-do-trabalho-solidariedade-e-segura": {
    "titulo": "Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Palma Ramalho: Orçamento do Estado 2027",
-   "meta": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 77 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · sexta, 6 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 77 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · sexta, 6 nov, 09h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13762,7 +13920,7 @@
   },
   "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen": {
    "titulo": "Plenário — Debate na especialidade do Orçamento do Estado para 2027",
-   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -13944,7 +14102,7 @@
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
    "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
-   "meta": "Comissão de Ambiente e Energia · Reunião n.º 61 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 09h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Ambiente e Energia · Reunião n.º 61 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · terça, 3 nov, 09h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14126,7 +14284,7 @@
   },
   "2026-11-04-48568-ministra-da-justi-a-rita-alarc-o-j-dice-or": {
    "titulo": "Ministra da Justiça, Rita Alarcão Júdice: Orçamento do Estado para 2027",
-   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 110 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 14h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 110 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quarta, 4 nov, 14h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14212,7 +14370,7 @@
   },
   "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14245,18 +14403,10 @@
      "naturezaLabel": "Crítica"
     },
     {
-     "data": "2026-10-06",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
-     "sintese": "O PS admite mudar a viabilização do OE2027 se este tiver 'medidas surpresa' gravosas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "O Governo entrega a proposta do Orçamento do Estado para 2027 no Parlamento.",
+     "sintese": "O Governo entrega proposta no Parlamento esta quinta-feira à tarde.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14264,7 +14414,7 @@
      "data": "2026-10-08",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
-     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
+     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14272,39 +14422,47 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "O PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas o PS avisa que 'compromissos são para cumprir'.",
+     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-09",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
-     "sintese": "Professores pedem mais investimento na Educação e valorização da carreira no âmbito do OE2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
+     "sintese": "Num debate que se esperava sobre o OE2027, habitação e Centeno roubaram o palco.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-10",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propõe abstenção ao OE2027, mas admite que 'convicções mais profundas' levariam a voto contra.",
+     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que 'convicções mais profundas' levariam a voto contra.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-11",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
+     "sintese": "Hospital de Gaia: PS critica Governo por ausência de financiamento no OE2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027, com protestos pela habitação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-13",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
-     "sintese": "Oposição avisada de que a estrada é estreita, mas quer mudanças na especialidade.",
+     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa preocupação, diz Miranda Sarmento.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14312,31 +14470,31 @@
      "data": "2026-10-23",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
-     "sintese": "Carneiro acusa PSD e CDS de destratar e atacar o PS no debate do OE2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
      "sintese": "José Luís Carneiro justifica viabilização do 'mau' OE2027 com crises em Portugal e no estrangeiro.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-10-28",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/edicao-diaria/oe2027-oposio-foi-avisada-de-que-a-estrada-estreita-mas-quer-mudanas-na-especialidade",
-     "sintese": "Realizou-se o debate na generalidade da proposta de Orçamento do Estado para 2027.",
+     "data": "2026-10-27",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
+     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027 — Realizou-se esta terça-feira o debate, na generalidade, da proposta de Orçamento do Estado para o próximo ano. A vaga de protestos pela habitação marcou o confronto parlamentar entre Governo e oposição.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-28",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-28",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
-     "sintese": "Oposição foi avisada de que a estrada é estreita, mas quer mudanças na especialidade.",
+     "sintese": "Carneiro acusa PSD e CDS de destratar, desconsiderar e atacar PS no debate do OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14344,31 +14502,23 @@
      "data": "2026-10-29",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Oposição acusa PSD e CDS de destratar, desconsiderar e atacar o PS no debate do OE2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "OE2027: Decisão da Galp 'é soberana' e Governo cumpriu o seu papel.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "Galp: 'Decisão é soberana' e Governo cumpriu o seu papel.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "OE2027. Carteira Digital tem 18 mil empresas — O ministro Gonçalo Matias revelou os números da Carteira Digital de empresa no parlamento, durante a discussão do OE2027. Alemanha diz-se inspirada no modelo português.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-31",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
-     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-01",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/oe2027-pcp-acores-vai-avancar-com-propostas-na-justica-e-lajes-381667",
-     "sintese": "PCP/Açores avança com propostas na Justiça e Lajes no OE2027.",
+     "sintese": "Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14376,25 +14526,33 @@
      "data": "2026-11-01",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
-     "sintese": "OE da Semana: 'Midterms', contas da EDP e audições do OE2027.",
+     "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-02",
+     "fonte": "Diário de Notícias",
+     "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
+     "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1149
+    "encontradas": 1160
    },
    "base": {
-    "ultima": "2026-11-02 00:06",
+    "ultima": "2026-11-02 15:32",
     "em": "2026-11-02"
    },
-   "novas": 12,
-   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PS admite mudar a sua viabilização se houver medidas surpresa. O PSD e o CDS expressaram preocupações sobre os compromissos, e o Governo tem defendido a estabilidade e a previsibilidade. Entretanto, foram revelados dados sobre a Carteira Digital de empresa e o Governo tem enfatizado a redução da dívida pública."
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta de lei e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PSD e o CDS expressaram preocupações sobre a viabilização do orçamento. Entretanto, o Governo tem defendido a necessidade de compromissos e a estabilidade política, justificando a viabilização do orçamento face a crises internas e internacionais. A cobertura inclui também notícias sobre financiamento de projetos específicos, como o Hospital Eduardo Santos Silva, e sobre a dívida pública, com o ministro das Finanças a afirmar que esta se manterá abaixo dos 85% do PIB em 2027."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00 · UO de referência: DACDP · DAPL · Transversal · UPE",
+   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -14576,7 +14734,7 @@
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
    "titulo": "Ministro da Agricultura e Mar, José Manuel Fernandes: Orçamento do Estado 2027",
-   "meta": "Comissão de Agricultura e Pescas · Reunião n.º 73 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 18h00 · UO de referência: DACDP · DAPL · Transversal",
+   "meta": "Comissão de Agricultura e Pescas · Reunião n.º 73 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 18h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -17923,7 +18081,7 @@
    "data": "2026-11-05",
    "hora": "09h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 76 · conjunta com Comissão de Economia e Coesão Territorial e Comissão de Orçamento, Finanças e Administração Pública",
+   "tipoLabel": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 76 · Plenário · conjunta com Comissão de Economia e Coesão Territorial e Comissão de Orçamento, Finanças e Administração Pública",
    "resumo": "Audição do Conselho Económico e Social, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado para 2027 .\n [Em conjunto com a Comissão de Orçamento, Finanças e Administração Pública e a Comissão de Economia e Coesão Territorial]",
    "ordemTrabalhos": "Audição do Conselho Económico e Social, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado para 2027 .\n [Em conjunto com a Comissão de Orçamento, Finanças e Administração Pública e a Comissão de Economia e Coesão Territorial]",
    "orgao": "Comissão de Trabalho, Segurança Social e Inclusão",
@@ -18771,7 +18929,7 @@
    "data": "2026-11-06",
    "hora": "09h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 77 · conjunta com Comissão de Orçamento, Finanças e Administração Pública",
+   "tipoLabel": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 77 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública",
    "resumo": "Audição da Ministra do Trabalho, Solidariedade e Segurança Social sobre a proposta de lei orçamental para 2027, com foco em medidas de proteção social e emprego. A discussão conjunta com a Comissão de Orçamento, Finanças e Administração Pública visa alinhar as prioridades da Segurança Social com as restrições orçamentais.",
    "ordemTrabalhos": "Audição da Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Palma Ramalho, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado para 2027 , ao abrigo do disposto no n.º 2 do artigo 211.º do RAR.\n [Em conjunto com a Comissão de Orçamento, Finanças e Administração Pública]\n Ministra do Trabalho, Solidariedade e Segurança Social – Maria do Rosário Palma Ramalho\n Secretário de Estado Adjunto e do Trabalho – Adriano Rafael Moreira\n Secretária de Estado da Segurança Social – Susana Filipa Lima\n Secretária de Estado da Ação Social e da Inclusão – Clara Marques Mendes",
    "orgao": "Comissão de Trabalho, Segurança Social e Inclusão",

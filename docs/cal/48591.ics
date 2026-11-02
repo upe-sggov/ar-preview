@@ -6,22 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48591@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261105T090000Z
 DTEND:20261105T110000Z
 SUMMARY:AR · Audição do Conselho Económico e Social — Orçamento do 
  Estado 2027
-LOCATION:Assembleia da República
+LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissão de Trabalho\, Segurança Social e Inclusão · Reuni
- ão n.º 76 · conjunta com Comissão de Economia e Coesão Territorial e
-  Comissão de Orçamento\, Finanças e Administração Pública\nSíntese
- : Audição do Conselho Económico e Social no âmbito da apreciação\, 
- na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova
-  o…\nUnidades (Suporte à Decisão): DAPL\, Transversal\nPágina na AR:
-  https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.aspx
- \nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR P
- review: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\;
-  a agenda da AR pode mudar.
+ ão n.º 76 · Plenário · conjunta com Comissão de Economia e Coesão 
+ Territorial e Comissão de Orçamento\, Finanças e Administração Públ
+ ica\nSíntese: Audição do Conselho Económico e Social no âmbito da ap
+ reciação\, na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GO
+ V) — Aprova o…\nPágina na AR: https://www.parlamento.pt/sites/com/XV
+ IILeg/10CTSSI/Paginas/default.aspx\nEmissões em direto (quando houver): 
+ https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-
+ preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.as
  px
 TRANSP:TRANSPARENT

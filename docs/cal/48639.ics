@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48639@ar-preview
+DTSTAMP:20261102T181452Z
+DTSTART:20261109T160000Z
+DTEND:20261109T180000Z
+SUMMARY:AR · Comissão de Assuntos Europeus
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 63\nSíntese: 
+ Audição com a Vice-Presidente Executiva da Comissão Europeia\,\; Teres
+ a Ribera\, responsável pelo pelouro\nPágina na AR: https://www.parlamen
+ to.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (q
+ uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
+ v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
+ ar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

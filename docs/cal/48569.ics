@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48569@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261103T150000Z
 DTEND:20261103T170000Z
 SUMMARY:AR · Ministro da Presidência\, António Leitão Amaro: Orçament
@@ -20,11 +20,10 @@ DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades
  ência e Imigração\, Rui Armindo Freitas e mais 2 membros do Governo\nS
  íntese: Audição no âmbito da apreciação na especialidade da Propost
  a de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 \, nos termos co
- njugados do…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversa
- l\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Pag
- inas/default.aspx\nEmissões em direto (quando houver): https://canal.par
- lamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de
-  fim indicativa\; a agenda da AR pode mudar.
+ njugados do…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILe
+ g/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver): http
+ s://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-prev
+ iew/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT

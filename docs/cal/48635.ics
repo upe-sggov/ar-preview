@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48635@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261105T180000Z
 DTEND:20261105T200000Z
 SUMMARY:AR · Ministro da Agricultura e Mar\, José Manuel Fernandes: Orç
@@ -18,11 +18,11 @@ DESCRIPTION:Comissão de Agricultura e Pescas · Reunião n.º 73 · Plen
  ndes · Secretário de Estado das Pescas e do Mar\, Salvador Malheiro e m
  ais 2 membros do Governo\nSíntese: Audição no âmbito da apreciação\
  , na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orç
- amento do Estado para 2027\, nos termos…\nUnidades (Suporte à Decisão
- ): DACDP\, DAPL\, Transversal\nPágina na AR: https://www.parlamento.pt/s
- ites/com/XVIILeg/7CAPes/Paginas/default.aspx\nEmissões em direto (quando
-  houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.git
- hub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ amento do Estado para 2027\, nos termos…\nPágina na AR: https://www.pa
+ rlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.aspx\nEmissões em d
+ ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
+ upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
+ pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

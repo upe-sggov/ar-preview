@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48571@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261102T150000Z
 DTEND:20261102T170000Z
 SUMMARY:AR · Ministra da Cultura\, Juventude e Desporto\, Margarida Balse
@@ -20,11 +20,10 @@ DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades
  Adjunta da Juventude e da Igualdade\, Carla Rodrigues e mais 2 membros do
   Governo\nSíntese: Audição no âmbito da apreciação na especialidade
   da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 \, no
- s termos conjugados do…\nUnidades (Suporte à Decisão): DACDP\, DAPL\,
-  Transversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/
- 1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver): https:
- //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
- w/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ s termos conjugados do…\nPágina na AR: https://www.parlamento.pt/sites
+ /com/XVIILeg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando ho
+ uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
+ .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT

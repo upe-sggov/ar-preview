@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48602@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
 SUMMARY:AR · Ministro da Educação\, Ciência e Inovação\, Fernando Al
@@ -18,12 +18,11 @@ DESCRIPTION:Comissão de Educação e Ciência · Reunião n.º 59 · Plen
  ernando Alexandre · Secretário de Estado Adjunto e da Educação\, Alex
  andre Homem Cristo e mais 3 membros do Governo\nSíntese: Audição no â
  mbito da apreciação na especialidade da Proposta de Lei n.º 110/XVII/2
- .ª (GOV) - «Aprova o Orçamento do Estado para 2027»…\nUnidades (Sup
- orte à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR: https://www
- .parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx\nEmissões em 
- direto (quando houver): https://canal.parlamento.pt/\nAR Preview: https:/
- /upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR
-  pode mudar.
+ .ª (GOV) - «Aprova o Orçamento do Estado para 2027»…\nPágina na AR
+ : https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx\n
+ Emissões em direto (quando houver): https://canal.parlamento.pt/\nAR Pre
+ view: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a
+  agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48600@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261102T090000Z
 DTEND:20261102T110000Z
 SUMMARY:AR · Ministro das Infraestruturas e Habitação\, Miguel Pinto Lu
@@ -18,12 +18,11 @@ DESCRIPTION:Comissão de Infraestruturas\, Mobilidade e Habitação · Reu
   Habitação\, Miguel Pinto Luz · Secretário de Estado das Infraestrutu
  ras\, Hugo Espírito Santo e mais 2 membros do Governo\nSíntese: Audiç
  ão no âmbito da apreciação\, na especialidade\, da Proposta de Lei n.
- º 110/XVII/2.ª (GOV) – «Orçamento do Estado para 2027.»\nUnidades 
- (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR: https:/
- /www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.aspx\nEmissõ
- es em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: h
- ttps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda
-  da AR pode mudar.
+ º 110/XVII/2.ª (GOV) – «Orçamento do Estado para 2027.»\nPágina n
+ a AR: https://www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.
+ aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\n
+ AR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicati
+ va\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

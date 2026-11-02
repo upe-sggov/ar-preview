@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48618@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261102T140000Z
 DTEND:20261102T160000Z
 SUMMARY:AR · Audiência da Confederação Portuguesa de Colectividades de
@@ -14,12 +14,11 @@ SUMMARY:AR · Audiência da Confederação Portuguesa de Colectividades de
 LOCATION:Assembleia da República · Sala 1
 DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
   · Reunião n.º 32 · Sala 1\nSíntese: Jorge Feliciano – Presidente 
- da Direção\; Marlene Soares – Vice-presidente da Direção\nUnidades 
- (Suporte à Decisão): DAPL\, Transversal\nPágina na AR: https://www.par
- lamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em di
- reto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://u
- pe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR p
- ode mudar.
+ da Direção\; Marlene Soares – Vice-presidente da Direção\nPágina n
+ a AR: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.
+ aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\n
+ AR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicati
+ va\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

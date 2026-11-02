@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48613@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261104T123000Z
 DTEND:20261104T143000Z
 SUMMARY:AR · Audiência da ASPTPS Associação Portuguesa de Planos de Sa
@@ -14,11 +14,11 @@ SUMMARY:AR · Audiência da ASPTPS Associação Portuguesa de Planos de Sa
 LOCATION:Assembleia da República · Sala 1
 DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
   · Reunião n.º 35 · Sala 1\nSíntese: Sónia Pereira Coutinho\, Presi
- dente da Direção\; José Pina\, Associado\nUnidades (Suporte à Decisã
- o): DAPL\, Transversal\nPágina na AR: https://www.parlamento.pt/sites/co
- m/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (quando houver
- ): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/
- ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ dente da Direção\; José Pina\, Associado\nPágina na AR: https://www.p
+ arlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em 
+ direto (quando houver): https://canal.parlamento.pt/\nAR Preview: https:/
+ /upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR
+  pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

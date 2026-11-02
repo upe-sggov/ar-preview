@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48627@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261105T110000Z
 DTEND:20261105T130000Z
 SUMMARY:AR · Audição do Conselho das Finanças Públicas — Orçamento
@@ -14,12 +14,11 @@ SUMMARY:AR · Audição do Conselho das Finanças Públicas — Orçamento
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
   · Reunião n.º 140 · Plenário\nSíntese: Prof.ª Nazaré da Costa Ca
- bral\, Presidente\; Prof. Lorenzo Forni\, Vice-Presidente\nUnidades (Supo
- rte à Decisão): DAPL\, Transversal\nPágina na AR: https://www.parlamen
- to.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto 
- (quando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sg
- gov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode m
- udar.
+ bral\, Presidente\; Prof. Lorenzo Forni\, Vice-Presidente\nPágina na AR:
+  https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\
+ nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR Pr
+ eview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; 
+ a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

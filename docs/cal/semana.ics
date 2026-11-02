@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 2 a 8 de novembro de 2026
 BEGIN:VEVENT
 UID:ar-48600@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261102T090000Z
 DTEND:20261102T110000Z
 SUMMARY:AR · Ministro das Infraestruturas e Habitação\, Miguel Pinto Lu
@@ -18,19 +18,18 @@ DESCRIPTION:Comissão de Infraestruturas\, Mobilidade e Habitação · Reu
   Habitação\, Miguel Pinto Luz · Secretário de Estado das Infraestrutu
  ras\, Hugo Espírito Santo e mais 2 membros do Governo\nSíntese: Audiç
  ão no âmbito da apreciação\, na especialidade\, da Proposta de Lei n.
- º 110/XVII/2.ª (GOV) – «Orçamento do Estado para 2027.»\nUnidades 
- (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR: https:/
- /www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.aspx\nEmissõ
- es em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: h
- ttps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda
-  da AR pode mudar.
+ º 110/XVII/2.ª (GOV) – «Orçamento do Estado para 2027.»\nPágina n
+ a AR: https://www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.
+ aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\n
+ AR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicati
+ va\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/14CIMH/Paginas/default.asp
  x
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48571@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261102T150000Z
 DTEND:20261102T170000Z
 SUMMARY:AR · Ministra da Cultura\, Juventude e Desporto\, Margarida Balse
@@ -44,18 +43,17 @@ DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades
  Adjunta da Juventude e da Igualdade\, Carla Rodrigues e mais 2 membros do
   Governo\nSíntese: Audição no âmbito da apreciação na especialidade
   da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 \, no
- s termos conjugados do…\nUnidades (Suporte à Decisão): DACDP\, DAPL\,
-  Transversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/
- 1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver): https:
- //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
- w/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ s termos conjugados do…\nPágina na AR: https://www.parlamento.pt/sites
+ /com/XVIILeg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando ho
+ uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
+ .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48595@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261103T090000Z
 DTEND:20261103T110000Z
 SUMMARY:AR · Ministra do Ambiente e Energia\, Maria da Graça Carvalho: O
@@ -67,19 +65,18 @@ DESCRIPTION:Comissão de Ambiente e Energia · Reunião n.º 61 · Plenár
  te e Energia\, Maria da Graça Carvalho · Secretário de Estado Adjunto 
  e da Energia\, Jean Barroca e mais 1 membro do Governo\nSíntese: Audiç
  ão no âmbito da apreciação na especialidade da Proposta de Lei n.º 1
- 10/XVII/2.ª (GOV) — Orçamento do Estado para 2027 \, nos termos…\nU
- nidades (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR:
-  https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx
- \nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR P
- review: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\;
-  a agenda da AR pode mudar.
+ 10/XVII/2.ª (GOV) — Orçamento do Estado para 2027 \, nos termos…\nP
+ ágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas
+ /default.aspx\nEmissões em direto (quando houver): https://canal.parlame
+ nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
+  indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.as
  px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48569@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261103T150000Z
 DTEND:20261103T170000Z
 SUMMARY:AR · Ministro da Presidência\, António Leitão Amaro: Orçament
@@ -93,18 +90,17 @@ DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades
  ência e Imigração\, Rui Armindo Freitas e mais 2 membros do Governo\nS
  íntese: Audição no âmbito da apreciação na especialidade da Propost
  a de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 \, nos termos co
- njugados do…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversa
- l\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Pag
- inas/default.aspx\nEmissões em direto (quando houver): https://canal.par
- lamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de
-  fim indicativa\; a agenda da AR pode mudar.
+ njugados do…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILe
+ g/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver): http
+ s://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-prev
+ iew/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48568@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261104T140000Z
 DTEND:20261104T160000Z
 SUMMARY:AR · Ministra da Justiça\, Rita Alarcão Júdice: Orçamento do 
@@ -117,18 +113,17 @@ DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades
  ustiça\, Gonçalo da Cunha Pires e mais 1 membro do Governo\nSíntese: A
  udição no âmbito da apreciação na especialidade da Proposta de Lei 1
  10/XVI/2.ª – Orçamento do Estado para 2027 \, nos termos conjugados d
- o…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina
-  na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/defau
- lt.aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt
- /\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indic
- ativa\; a agenda da AR pode mudar.
+ o…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/
+ Paginas/default.aspx\nEmissões em direto (quando houver): https://canal.
+ parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora
+  de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48602@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
 SUMMARY:AR · Ministro da Educação\, Ciência e Inovação\, Fernando Al
@@ -140,18 +135,17 @@ DESCRIPTION:Comissão de Educação e Ciência · Reunião n.º 59 · Plen
  ernando Alexandre · Secretário de Estado Adjunto e da Educação\, Alex
  andre Homem Cristo e mais 3 membros do Governo\nSíntese: Audição no â
  mbito da apreciação na especialidade da Proposta de Lei n.º 110/XVII/2
- .ª (GOV) - «Aprova o Orçamento do Estado para 2027»…\nUnidades (Sup
- orte à Decisão): DACDP\, DAPL\, Transversal\nPágina na AR: https://www
- .parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx\nEmissões em 
- direto (quando houver): https://canal.parlamento.pt/\nAR Preview: https:/
- /upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR
-  pode mudar.
+ .ª (GOV) - «Aprova o Orçamento do Estado para 2027»…\nPágina na AR
+ : https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx\n
+ Emissões em direto (quando houver): https://canal.parlamento.pt/\nAR Pre
+ view: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a
+  agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48566@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261105T140000Z
 DTEND:20261105T160000Z
 SUMMARY:AR · Ministro da Defesa Nacional\, Nuno Melo: Orçamento da Defes
@@ -163,17 +157,16 @@ DESCRIPTION:Comissão de Defesa Nacional · Reunião n.º 50 · conjunta c
  to e da Defesa Nacional\, Álvaro Castelo Branco e mais 1 membro do Gover
  no\nSíntese: Audição no âmbito da apreciação\, na especialidade\, d
  a Proposta de Lei n.º 110/XVII/2.ª (GOV) – Aprova o Orçamento do Est
- ado para 2027\, nos…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Tr
- ansversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/3CD
- N/Paginas/default.aspx\nEmissões em direto (quando houver): https://cana
- l.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHo
- ra de fim indicativa\; a agenda da AR pode mudar.
+ ado para 2027\, nos…\nPágina na AR: https://www.parlamento.pt/sites/co
+ m/XVIILeg/3CDN/Paginas/default.aspx\nEmissões em direto (quando houver):
+  https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar
+ -preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/3CDN/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48635@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261105T180000Z
 DTEND:20261105T200000Z
 SUMMARY:AR · Ministro da Agricultura e Mar\, José Manuel Fernandes: Orç
@@ -185,42 +178,42 @@ DESCRIPTION:Comissão de Agricultura e Pescas · Reunião n.º 73 · Plen
  ndes · Secretário de Estado das Pescas e do Mar\, Salvador Malheiro e m
  ais 2 membros do Governo\nSíntese: Audição no âmbito da apreciação\
  , na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orç
- amento do Estado para 2027\, nos termos…\nUnidades (Suporte à Decisão
- ): DACDP\, DAPL\, Transversal\nPágina na AR: https://www.parlamento.pt/s
- ites/com/XVIILeg/7CAPes/Paginas/default.aspx\nEmissões em direto (quando
-  houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.git
- hub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ amento do Estado para 2027\, nos termos…\nPágina na AR: https://www.pa
+ rlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.aspx\nEmissões em d
+ ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
+ upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
+ pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.asp
  x
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48590@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261106T090000Z
 DTEND:20261106T110000Z
 SUMMARY:AR · Ministra do Trabalho\, Solidariedade e Segurança Social\, M
  aria do Rosário Palma Ramalho: Orçamento do Estado 2027
-LOCATION:Assembleia da República
+LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissão de Trabalho\, Segurança Social e Inclusão · Reuni
- ão n.º 77 · conjunta com Comissão de Orçamento\, Finanças e Adminis
- tração Pública\nGoverno: Ministra do Trabalho\, Solidariedade e Segura
- nça Social\, Maria do Rosário Palma Ramalho · Secretário de Estado Ad
- junto e do Trabalho\, Adriano Rafael Moreira e mais 2 membros do Governo\
- nSíntese: Audição no âmbito da apreciação\, na especialidade\, da P
- roposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçamento do Estado
-  para 2027 \, ao…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Trans
- versal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/10CTSS
- I/Paginas/default.aspx\nEmissões em direto (quando houver): https://cana
- l.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHo
- ra de fim indicativa\; a agenda da AR pode mudar.
+ ão n.º 77 · Plenário · conjunta com Comissão de Orçamento\, Finan
+ ças e Administração Pública\nGoverno: Ministra do Trabalho\, Solidari
+ edade e Segurança Social\, Maria do Rosário Palma Ramalho · Secretári
+ o de Estado Adjunto e do Trabalho\, Adriano Rafael Moreira e mais 2 membr
+ os do Governo\nSíntese: Audição no âmbito da apreciação\, na especi
+ alidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) — Aprova o Orçam
+ ento do Estado para 2027 \, ao…\nPágina na AR: https://www.parlamento.
+ pt/sites/com/XVIILeg/10CTSSI/Paginas/default.aspx\nEmissões em direto (q
+ uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
+ v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
+ ar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.as
  px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48630@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261106T150000Z
 DTEND:20261106T170000Z
 SUMMARY:AR · Ministro de Estado e das Finanças\, Joaquim Miranda Sarment
@@ -232,11 +225,10 @@ DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
  rçamento\, José Maria Brandão de Brito e mais 3 membros do Governo\nS
  íntese: Audição no âmbito da apreciação\, na especialidade\, da Pro
  posta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027\
- nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na A
- R: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR 
- Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\
- ; a agenda da AR pode mudar.
+ nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Pagina
+ s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
+ ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
+ m indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

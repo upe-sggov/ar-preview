@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48570@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261103T143000Z
 DTEND:20261103T163000Z
 SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
@@ -15,11 +15,10 @@ LOCATION:Assembleia da República · Sala 6
 DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades 
  e Garantias · Reunião n.º 108 · Sala 6\nSíntese: Distribuição de i
  niciativas e nomeação de relatores\; Distribuição de iniciativas euro
- peias\nUnidades (Suporte à Decisão): DCIRI\nPágina na AR: https://www.
- parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.aspx\nEmissões e
- m direto (quando houver): https://canal.parlamento.pt/\nAR Preview: https
- ://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da 
- AR pode mudar.
+ peias\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG
+ /Paginas/default.aspx\nEmissões em direto (quando houver): https://canal
+ .parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHor
+ a de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
  px
 TRANSP:TRANSPARENT

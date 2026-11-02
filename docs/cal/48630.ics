@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48630@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261106T150000Z
 DTEND:20261106T170000Z
 SUMMARY:AR · Ministro de Estado e das Finanças\, Joaquim Miranda Sarment
@@ -18,11 +18,10 @@ DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
  rçamento\, José Maria Brandão de Brito e mais 3 membros do Governo\nS
  íntese: Audição no âmbito da apreciação\, na especialidade\, da Pro
  posta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027\
- nUnidades (Suporte à Decisão): DACDP\, DAPL\, Transversal\nPágina na A
- R: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR 
- Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\
- ; a agenda da AR pode mudar.
+ nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Pagina
+ s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
+ ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
+ m indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

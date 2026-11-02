@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48566@ar-preview
-DTSTAMP:20261102T171837Z
+DTSTAMP:20261102T181452Z
 DTSTART:20261105T140000Z
 DTEND:20261105T160000Z
 SUMMARY:AR · Ministro da Defesa Nacional\, Nuno Melo: Orçamento da Defes
@@ -18,11 +18,10 @@ DESCRIPTION:Comissão de Defesa Nacional · Reunião n.º 50 · conjunta c
  to e da Defesa Nacional\, Álvaro Castelo Branco e mais 1 membro do Gover
  no\nSíntese: Audição no âmbito da apreciação\, na especialidade\, d
  a Proposta de Lei n.º 110/XVII/2.ª (GOV) – Aprova o Orçamento do Est
- ado para 2027\, nos…\nUnidades (Suporte à Decisão): DACDP\, DAPL\, Tr
- ansversal\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/3CD
- N/Paginas/default.aspx\nEmissões em direto (quando houver): https://cana
- l.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHo
- ra de fim indicativa\; a agenda da AR pode mudar.
+ ado para 2027\, nos…\nPágina na AR: https://www.parlamento.pt/sites/co
+ m/XVIILeg/3CDN/Paginas/default.aspx\nEmissões em direto (quando houver):
+  https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar
+ -preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/3CDN/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
