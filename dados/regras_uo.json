@@ -78,9 +78,120 @@
   ]
  },
  "pertinencia": {
-  "_nota": "Critérios da UPE (Ana Luísa Dias, 1 nov 2026). Imediato: presença dos clientes habituais (lista abaixo, com os respetivos secretários de Estado); matérias que já tiveram varrimento próprio entregue (dados/varrimentos_entregues.csv); debates do Governo no Plenário. Vigilância: restantes membros do Governo; dossiers acompanhados por cada unidade (dados/dossiers.csv). Registo: o resto, só para conhecimento. A revisão humana (dados/correcoes.csv) prevalece sempre.",
+  "_nota": "Critérios da UPE (atualizados a 3 nov 2026). Imediato: presença de um cliente — membro do Governo cujo gabinete já fez pedidos à UPE (Registo de Pedidos da UPE, folha «Pedidos», pedidos externos; os pedidos internos da SGGov não contam); matérias que já tiveram varrimento (briefing / fundo mediático) entregue (dados/varrimentos_entregues.csv); debates do Governo no Plenário. Vigilância: restantes membros do Governo; comissões de inquérito; dossiers acompanhados, incluindo os temas de pedidos já recebidos (dados/dossiers.csv). Registo: o resto. A revisão humana (dados/correcoes.csv) prevalece sempre.",
   "_fonte_governo": "Composição do XXV Governo Constitucional (portugal.gov.pt, posse de 6 jun 2025), confirmada pelos nomes que a AR publica nas audições de 2–6 nov 2026. Atualizar em remodelações.",
   "clientes": [
+   {
+    "ministerio": "Ministro da Presidência",
+    "pedidos": [
+     "UPE-2026-016",
+     "UPE-2026-020"
+    ],
+    "cargos": [
+     "Ministro da Presidência"
+    ],
+    "nomes": [
+     "António Leitão Amaro"
+    ]
+   },
+   {
+    "ministerio": "Secretário de Estado Adjunto da Presidência e Imigração",
+    "pedidos": [
+     "UPE-2026-024",
+     "UPE-2026-027"
+    ],
+    "cargos": [
+     "Secretário de Estado Adjunto da Presidência e Imigração",
+     "Secretário de Estado Adjunto e da Presidência e Imigração"
+    ],
+    "nomes": [
+     "Rui Armindo Freitas"
+    ]
+   },
+   {
+    "ministerio": "Ministro Adjunto e da Reforma do Estado",
+    "pedidos": [
+     "UPE-2026-015"
+    ],
+    "cargos": [
+     "Ministro Adjunto e da Reforma do Estado"
+    ],
+    "nomes": [
+     "Gonçalo Saraiva Matias"
+    ]
+   },
+   {
+    "ministerio": "Secretário de Estado para a Digitalização",
+    "pedidos": [
+     "UPE-2026-013",
+     "UPE-2026-014",
+     "UPE-2026-022",
+     "UPE-2026-023"
+    ],
+    "cargos": [
+     "Secretário de Estado para a Digitalização",
+     "Secretário de Estado da Digitalização"
+    ],
+    "nomes": [
+     "Bernardo Correia"
+    ]
+   },
+   {
+    "ministerio": "Secretário de Estado da Economia",
+    "pedidos": [
+     "UPE-2026-012"
+    ],
+    "cargos": [
+     "Secretário de Estado da Economia"
+    ],
+    "nomes": [
+     "João Rui Ferreira"
+    ]
+   },
+   {
+    "ministerio": "Secretário de Estado do Turismo, Comércio e Serviços",
+    "pedidos": [
+     "UPE-2026-017",
+     "UPE-2026-018",
+     "UPE-2026-019",
+     "UPE-2026-025",
+     "UPE-2026-026",
+     "UPE-2026-031"
+    ],
+    "cargos": [
+     "Secretário de Estado do Turismo, Comércio e Serviços"
+    ],
+    "nomes": [
+     "Pedro Machado"
+    ]
+   },
+   {
+    "ministerio": "Ministra do Ambiente e Energia",
+    "pedidos": [
+     "UPE-2026-028"
+    ],
+    "cargos": [
+     "Ministra do Ambiente e Energia",
+     "Ministro do Ambiente e Energia"
+    ],
+    "nomes": [
+     "Maria da Graça Carvalho"
+    ]
+   }
+  ],
+  "plenario_imediato": [
+   "orçamento do estado",
+   "interpelação ao governo",
+   "debate com o primeiro-ministro",
+   "debate quinzenal",
+   "debate preparatório do conselho europeu",
+   "estado da nação",
+   "moção de censura",
+   "moção de confiança",
+   "programa do governo",
+   "conta geral do estado"
+  ],
+  "_clientes_ate_3nov2026": [
    {
     "ministerio": "Primeiro-Ministro",
     "cargos": [
@@ -155,17 +266,6 @@
     ]
    }
   ],
-  "plenario_imediato": [
-   "orçamento do estado",
-   "interpelação ao governo",
-   "debate com o primeiro-ministro",
-   "debate quinzenal",
-   "debate preparatório do conselho europeu",
-   "estado da nação",
-   "moção de censura",
-   "moção de confiança",
-   "programa do governo",
-   "conta geral do estado"
-  ]
+  "_fonte_clientes": "UPE_RegistoPedidos.xlsx (folha «Pedidos», 31 pedidos de UPE-2026-001 a UPE-2026-031), recebido a 3 nov 2026; coluna «Requerente»."
  }
 }

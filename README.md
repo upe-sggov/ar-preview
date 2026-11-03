@@ -71,8 +71,8 @@ Secções lidas: Plenário, Comissões Parlamentares, Grupo de Trabalho, Grupo d
 Critérios da UPE (novembro de 2026), aplicados automaticamente em cada atualização a todas as matérias que não foram revistas por pessoas:
 
 - **Imediato**
-  - presença de um **cliente habitual**: Primeiro-Ministro, Ministro de Estado e das Finanças, Ministro da Presidência, Ministro da Economia e da Coesão Territorial, Ministro Adjunto e da Reforma do Estado, e os respetivos secretários de Estado (lista de cargos e nomes em `dados/regras_uo.json` › `pertinencia.clientes`; atualizar em remodelações);
-  - matéria que **já teve varrimento próprio entregue** (`dados/varrimentos_entregues.csv`: data;assunto;expressoes;cliente;unidade (a coluna unidade já não é usada) — basta que uma das expressões, separadas por `|`, apareça no tema ou na ordem de trabalhos);
+  - presença de um **cliente**: membro do Governo cujo gabinete já fez pedidos à UPE, segundo o registo de pedidos (UPE_RegistoPedidos.xlsx, pedidos externos): Ministro da Presidência, SE Adjunto da Presidência e Imigração, Ministro Adjunto e da Reforma do Estado, SE para a Digitalização, SE da Economia, SE do Turismo, Comércio e Serviços e Ministra do Ambiente e Energia (cargos, nomes e números dos pedidos em `dados/regras_uo.json` › `pertinencia.clientes`; acrescentar quando chega um pedido de um gabinete novo; a lista anterior, de 1/11, fica em `_clientes_ate_3nov2026`);
+  - matéria sobre a qual a UPE **já entregou um briefing ou fundo mediático** (`dados/varrimentos_entregues.csv`: data;assunto;expressoes;cliente;unidade (a coluna unidade já não é usada) — basta que uma das expressões, separadas por `|`, apareça no tema ou na ordem de trabalhos);
   - **debates do Governo no Plenário** (Orçamento do Estado, interpelações, debates com o Primeiro-Ministro, estado da Nação, moções…; lista em `pertinencia.plenario_imediato`).
 - **Vigilância**
   - presença de **outros membros do Governo** (ou tempo atribuído ao Governo no Plenário), comissões de inquérito;

@@ -56,7 +56,7 @@ def triar(item):
         pert = 'Imediato'; crit.append(f'já teve varrimento próprio entregue: {entregue[0]} → Imediato')
         if entregue[1]: uos.add(entregue[1])
     if cli:
-        pert = 'Imediato'; crit.append(f'presença de cliente habitual ({cli}) → Imediato'); uos.add('DACDP')
+        pert = 'Imediato'; crit.append(f'presença de cliente com pedidos à UPE ({cli}) → Imediato'); uos.add('DACDP')
     if plen:
         pert = 'Imediato'; crit.append(f'Plenário: «{plen}» → Imediato'); uos.add('DACDP')
     if pert != 'Imediato':
@@ -69,7 +69,7 @@ def triar(item):
         if any(tem(e, tn) for e in es):
             if u: uos.add(u)
             if pert == 'Registo': pert = 'Vigilância'
-            crit.append(f'dossier acompanhado: {dossier} ({u})')
+            crit.append(f'dossier acompanhado: {dossier} → Vigilância')
     if pert == 'Registo': crit.append('sem cliente, membro do Governo nem dossier acompanhado → Registo')
     return sorted(uos), pert, crit
 for it in bruto['itens'] + bruto.get('futuro', []):
