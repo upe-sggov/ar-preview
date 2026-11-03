@@ -204,34 +204,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 1159,
-    "n7": 134,
+    "n": 1161,
+    "n7": 136,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 19:47",
+    "ultima": "2026-11-03 09:34",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     },
      {
       "data": "2026-11-02",
       "fonte": "Observador",
       "titulo": "São Carlos adia reabertura para junho de 2028",
       "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "JM Madeira",
-      "titulo": "Paulo Neves: “O Orçamento do Estado para 2027 apoia e valoriza a juventude”",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 09:34",
+      "Jornal Económico",
+      "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 07:07",
+      "ECO",
+      "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     ],
      [
       "2026-11-02 19:47",
       "Observador",
@@ -2619,18 +2631,6 @@
       "Público",
       "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
       "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
-     ],
-     [
-      "2026-10-09 19:20",
-      "Sábado",
-      "OE2027: Professores pedem mais investimento na Educação e valorização da carreira",
-      "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira"
-     ],
-     [
-      "2026-10-09 19:18",
-      "Notícias ao Minuto",
-      "Professores exigem mais investimento na Educação no OE2027",
-      "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
@@ -2672,34 +2672,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1159,
-    "n7": 134,
+    "n": 1161,
+    "n7": 136,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 19:47",
+    "ultima": "2026-11-03 09:34",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     },
      {
       "data": "2026-11-02",
       "fonte": "Observador",
       "titulo": "São Carlos adia reabertura para junho de 2028",
       "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "JM Madeira",
-      "titulo": "Paulo Neves: “O Orçamento do Estado para 2027 apoia e valoriza a juventude”",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 09:34",
+      "Jornal Económico",
+      "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 07:07",
+      "ECO",
+      "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     ],
      [
       "2026-11-02 19:47",
       "Observador",
@@ -5087,18 +5099,6 @@
       "Público",
       "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
       "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
-     ],
-     [
-      "2026-10-09 19:20",
-      "Sábado",
-      "OE2027: Professores pedem mais investimento na Educação e valorização da carreira",
-      "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira"
-     ],
-     [
-      "2026-10-09 19:18",
-      "Notícias ao Minuto",
-      "Professores exigem mais investimento na Educação no OE2027",
-      "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
@@ -5140,34 +5140,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1159,
-    "n7": 134,
+    "n": 1161,
+    "n7": 136,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 19:47",
+    "ultima": "2026-11-03 09:34",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     },
      {
       "data": "2026-11-02",
       "fonte": "Observador",
       "titulo": "São Carlos adia reabertura para junho de 2028",
       "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "JM Madeira",
-      "titulo": "Paulo Neves: “O Orçamento do Estado para 2027 apoia e valoriza a juventude”",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 09:34",
+      "Jornal Económico",
+      "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 07:07",
+      "ECO",
+      "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     ],
      [
       "2026-11-02 19:47",
       "Observador",
@@ -7555,18 +7567,6 @@
       "Público",
       "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
       "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
-     ],
-     [
-      "2026-10-09 19:20",
-      "Sábado",
-      "OE2027: Professores pedem mais investimento na Educação e valorização da carreira",
-      "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira"
-     ],
-     [
-      "2026-10-09 19:18",
-      "Notícias ao Minuto",
-      "Professores exigem mais investimento na Educação no OE2027",
-      "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
@@ -7608,34 +7608,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1159,
-    "n7": 134,
+    "n": 1161,
+    "n7": 136,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 19:47",
+    "ultima": "2026-11-03 09:34",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     },
      {
       "data": "2026-11-02",
       "fonte": "Observador",
       "titulo": "São Carlos adia reabertura para junho de 2028",
       "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "JM Madeira",
-      "titulo": "Paulo Neves: “O Orçamento do Estado para 2027 apoia e valoriza a juventude”",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 09:34",
+      "Jornal Económico",
+      "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 07:07",
+      "ECO",
+      "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     ],
      [
       "2026-11-02 19:47",
       "Observador",
@@ -10023,18 +10035,6 @@
       "Público",
       "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
       "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
-     ],
-     [
-      "2026-10-09 19:20",
-      "Sábado",
-      "OE2027: Professores pedem mais investimento na Educação e valorização da carreira",
-      "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira"
-     ],
-     [
-      "2026-10-09 19:18",
-      "Notícias ao Minuto",
-      "Professores exigem mais investimento na Educação no OE2027",
-      "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
@@ -10076,34 +10076,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1159,
-    "n7": 134,
+    "n": 1161,
+    "n7": 136,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 19:47",
+    "ultima": "2026-11-03 09:34",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     },
      {
       "data": "2026-11-02",
       "fonte": "Observador",
       "titulo": "São Carlos adia reabertura para junho de 2028",
       "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "JM Madeira",
-      "titulo": "Paulo Neves: “O Orçamento do Estado para 2027 apoia e valoriza a juventude”",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 09:34",
+      "Jornal Económico",
+      "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
+      "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 07:07",
+      "ECO",
+      "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
+      "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+     ],
      [
       "2026-11-02 19:47",
       "Observador",
@@ -12491,18 +12503,6 @@
       "Público",
       "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
       "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
-     ],
-     [
-      "2026-10-09 19:20",
-      "Sábado",
-      "OE2027: Professores pedem mais investimento na Educação e valorização da carreira",
-      "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira"
-     ],
-     [
-      "2026-10-09 19:18",
-      "Notícias ao Minuto",
-      "Professores exigem mais investimento na Educação no OE2027",
-      "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
@@ -12666,8 +12666,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-03T07:25+00:00",
-  "atualizadoLabel": "3 de novembro, 07h25",
+  "atualizado": "2026-11-03T10:42+00:00",
+  "atualizadoLabel": "3 de novembro, 10h42",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12852,7 +12852,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a preparação para o debate parlamentar. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas. O PCP anunciou o voto contra, mas o Governo viabilizou o documento com apoio de outros partidos. O debate na generalidade ocorreu a 27 de outubro, com a habitação a dominar o confronto. O Governo rejeitou o desmantelamento da CP e reafirmou o seu papel estratégico."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
@@ -13034,7 +13034,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "O debate sobre o Orçamento do Estado para 2027 tem sido um foco central na Assembleia da República, com várias notícias a reportar discussões parlamentares, posições de partidos e medidas governamentais. O Governo apresentou a proposta de lei, que foi alvo de críticas e anúncios de voto contra por parte de partidos da oposição, como o PCP. Entretanto, foram reportados avanços na discussão do orçamento, como a confirmação da suspensão de um inquérito e a aprovação de medidas relacionadas com a habitação e a Carteira Digital de Empresa. A cobertura mediática tem acompanhado a evolução do debate, com ênfase em temas como a dívida pública, a regulação do setor privado e o apoio à juventude."
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
@@ -14010,7 +14010,7 @@
     "ultima": "2026-11-02 15:32",
     "em": "2026-11-02"
    },
-   "novas": 1,
+   "novas": 3,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 tem-se centrado em debates parlamentares, anúncios de medidas e críticas de partidos políticos. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo estima arrecadar mais com impostos sobre tabaco e álcool. O PCP anunciou um voto contra, e o PSD e o PS expressaram posições sobre a viabilização. O debate na generalidade revelou tensões sobre a habitação e a dívida pública. O Governo rejeitou o desmantelamento da CP, reforçando o seu papel estratégico."
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
@@ -14460,7 +14460,7 @@
     "ultima": "2026-11-02 15:32",
     "em": "2026-11-02"
    },
-   "novas": 1,
+   "novas": 3,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta de lei e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PSD e o CDS expressaram preocupações sobre a viabilização do orçamento. Entretanto, o Governo tem defendido a necessidade de compromissos e a estabilidade política, justificando a viabilização do orçamento face a crises internas e internacionais. A cobertura inclui também notícias sobre financiamento de projetos específicos, como o Hospital Eduardo Santos Silva, e sobre a dívida pública, com o ministro das Finanças a afirmar que esta se manterá abaixo dos 85% do PIB em 2027."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -14642,7 +14642,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a realização de debates parlamentares. A oposição, nomeadamente o PCP, anunciou o seu voto contra, enquanto o Governo procura a viabilização através de compromissos e a gestão de crises internacionais. O PSD e o CDS expressaram preocupações sobre a estabilidade do Orçamento, enquanto o Governo enfatiza a redução da dívida pública e a importância da previsibilidade económica. A cobertura inclui também temas relacionados, como a habitação, a Carteira Digital de Empresa e a valorização da juventude, embora não diretamente relacionados com a discussão do Orçamento."
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
@@ -16092,7 +16092,7 @@
       "data": "2026-11-02",
       "fonte": "Público",
       "titulo": "Ministra defendeu no Parlamento um orçamento com “dinheiro que chega às pessoas”",
-      "url": "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/ministra-defendeu-parlamento-orcamento-dinheiro-chega-pessoas-2193531"
+      "url": "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/ministra-defendeu-parlamento-orcamento-dinheiro-chega-pessoas-2193531?ref=culturaipsilon&cx=ultimas_2"
      },
      {
       "data": "2026-10-16",
@@ -16112,7 +16112,7 @@
       "2026-11-02 21:51",
       "Público",
       "Ministra defendeu no Parlamento um orçamento com “dinheiro que chega às pessoas”",
-      "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/ministra-defendeu-parlamento-orcamento-dinheiro-chega-pessoas-2193531"
+      "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/ministra-defendeu-parlamento-orcamento-dinheiro-chega-pessoas-2193531?ref=culturaipsilon&cx=ultimas_2"
      ],
      [
       "2026-10-16 19:53",
@@ -17744,7 +17744,7 @@
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-11-02 16:52",
+    "ultima": "2026-11-02 16:53",
     "ultimas": [
      {
       "data": "2026-11-02",
@@ -17767,7 +17767,7 @@
     ],
     "todas": [
      [
-      "2026-11-02 16:52",
+      "2026-11-02 16:53",
       "ECO",
       "UTAO critica limites à informação e quer acesso a dados do INE e BdP para reforçar análise ao Orçamento",
       "https://eco.sapo.pt/2026/11/02/utao-critica-limites-a-informacao-e-quer-acesso-a-dados-do-ine-e-bdp-para-reforcar-analise-ao-orcamento/"
@@ -18072,13 +18072,13 @@
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-11-02 15:06",
+    "ultima": "2026-11-03 09:58",
     "ultimas": [
      {
-      "data": "2026-11-02",
-      "fonte": "ECO",
-      "titulo": "Portugal e Grécia querem aprofundar cooperação na produção de drones e satélites",
-      "url": "https://eco.sapo.pt/2026/11/02/portugal-e-grecia-querem-aprofundar-cooperacao-na-producao-de-drones-e-satelites/"
+      "data": "2026-11-03",
+      "fonte": "SAPO Tek",
+      "titulo": "Telemóvel do ministro Nuno Melo foi atacado e usado para pedir dinheiro no WhatsApp",
+      "url": "https://tek.sapo.pt/mobile/apps/artigos/telemovel-do-ministro-nuno-melo-foi-atacado-e-usado-para-pedir-dinheiro-no-whatsapp/"
      },
      {
       "data": "2026-10-29",
@@ -18095,10 +18095,10 @@
     ],
     "todas": [
      [
-      "2026-11-02 15:06",
-      "ECO",
-      "Portugal e Grécia querem aprofundar cooperação na produção de drones e satélites",
-      "https://eco.sapo.pt/2026/11/02/portugal-e-grecia-querem-aprofundar-cooperacao-na-producao-de-drones-e-satelites/"
+      "2026-11-03 09:58",
+      "SAPO Tek",
+      "Telemóvel do ministro Nuno Melo foi atacado e usado para pedir dinheiro no WhatsApp",
+      "https://tek.sapo.pt/mobile/apps/artigos/telemovel-do-ministro-nuno-melo-foi-atacado-e-usado-para-pedir-dinheiro-no-whatsapp/"
      ],
      [
       "2026-10-29 12:28",
