@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-03T10:42",
+ "recolha": "2026-11-03T14:59",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -96,8 +96,8 @@
     "Comissões Parlamentares"
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 33 · Sala 1",
-   "resumo": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "resumo": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027. \n Sérgio Machado Letria - Diretor\n Gabriela Canavilhas;\n Ricardo Viel",
+   "ordemTrabalhos": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027. \n Sérgio Machado Letria - Diretor\n Gabriela Canavilhas;\n Ricardo Viel",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
@@ -304,8 +304,8 @@
     "Comissões Parlamentares"
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 135 · Plenário",
-   "resumo": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "resumo": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Pedro Pimpão, Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Pombal\n Amadeu Albergaria, Vic",
+   "ordemTrabalhos": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Pedro Pimpão, Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Pombal\n Amadeu Albergaria, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Santa Maria da Feira\n Ricardo Leão, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Loures\n Nuno Piteira Lopes, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Cascais\n Flávio Massano, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Manteigas\n João Fortes, Vogal do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Mourão\n Paulo Braga, Secretário-Geral da ANMP;\n Joana Ferreira, Secretária-Geral Adjunta da ANMP.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
@@ -356,8 +356,8 @@
     "Comissões Parlamentares"
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 136 · Plenário",
-   "resumo": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027",
-   "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027",
+   "resumo": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027\n Francisco Branco de Brito – Presidente do Conselho Diretivo \n Ricardo Marques – Vice-Presidente do Conselho Diretivo \n Jorge Ama",
+   "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027\n Francisco Branco de Brito – Presidente do Conselho Diretivo \n Ricardo Marques – Vice-Presidente do Conselho Diretivo \n Jorge Amador – Vice-Presidente do Conselho Diretivo \n Luís Correia – Vice-Presidente do Conselho Diretivo \n José Padrão – Vice-Presidente do Conselho Diretivo \n Luís Almeida Mendes – Vice-Presidente do Conselho Diretivo",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
    "uo": [
     "DAPL",
@@ -759,6 +759,48 @@
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
     "presença de membro do Governo → Vigilância"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48643,
+   "data": "2026-11-05",
+   "hora": "15h30",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 57",
+   "resumo": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos",
+   "ordemTrabalhos": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos públicos no sentido de limitar negócios com familiares» - Relator: Deputado Pedro Delgado Alves (PS);\n 3 – Apreciação e votação de parecer(es) sobre relativo a ofertas e hospitalidades (matéria reservada); - Autor do parecer: Deputado António Rodrigues (PSD);\n 4 – Apreciação e votação do parecer relativo a ofertas e hospitalidades (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 5 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 6 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 7 – Distribuição de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada)\n 8 – Distribuição de relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relator(a) a indicar pelo Grupo Parlamentar do PSD;\n 9 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48644,
+   "data": "2026-11-05",
+   "hora": "16h00",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },

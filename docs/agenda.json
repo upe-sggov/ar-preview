@@ -204,39 +204,93 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 1161,
-    "n7": 136,
+    "n": 1169,
+    "n7": 144,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 09:34",
+    "ultima": "2026-11-03 13:39",
     "ultimas": [
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
-      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
-      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "ECO",
-      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
-      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+      "fonte": "Jornal Económico",
+      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      },
      {
-      "data": "2026-11-02",
-      "fonte": "Observador",
-      "titulo": "São Carlos adia reabertura para junho de 2028",
-      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
+      "data": "2026-11-03",
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 13:39",
+      "Jornal Económico",
+      "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 13:10",
+      "Jornal Económico",
+      "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 12:19",
+      "Executive Digest",
+      "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 11:51",
+      "Jornal Económico",
+      "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
+      "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:02",
+      "Ambiente Magazine",
+      "Quercus considera insuficiente investimento do Orçamento do Estado para 2027 na floresta e na adaptação climática",
+      "https://www.ambientemagazine.com/quercus-considera-insuficiente-investimento-do-orcamento-do-estado-para-2027-na-floresta-e-na-adaptacao-climatica/"
+     ],
+     [
+      "2026-11-03 10:43",
+      "Jornal Económico",
+      "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 10:20",
+      "Açoriano Oriental",
+      "PS Açores propõe serviço público na carga aérea",
+      "https://www.acorianooriental.pt/noticia/ps-acores-propoe-servico-publico-na-carga-aerea-381711"
+     ],
+     [
+      "2026-11-03 09:38",
+      "Público",
+      "Quanto investe Portugal na natureza? As ONG dizem que o OE2027 não responde",
+      "https://www.publico.pt/2026/11/03/azul/noticia/investe-portugal-natureza-ong-oe2027-nao-responde-2193544"
+     ],
      [
       "2026-11-03 09:34",
       "Jornal Económico",
       "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 09:31",
+      "Executive Digest",
+      "OE2027: Descarbonizar e eletrificar são prioridades para 2027, diz ministra Ambiente",
+      "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
       "2026-11-03 07:07",
@@ -279,12 +333,6 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
-     ],
-     [
-      "2026-11-02 13:51",
-      "Executive Digest",
-      "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "https://executivedigest.sapo.pt/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcessao-preserva-papel-estrategico-da-empresa/"
      ],
      [
       "2026-11-02 13:11",
@@ -2583,54 +2631,6 @@
       "Observador",
       "OE 2027: o que o dinheiro não resolve",
       "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
-     ],
-     [
-      "2026-10-09 23:13",
-      "RTP Notícias",
-      "OE2027. Propinas das licenciaturas voltam a subir indexadas à inflação",
-      "https://www.rtp.pt/noticias/economia/oe2027-propinas-das-licenciaturas-voltam-a-subir-indexadas-a-inflacao_v1770780"
-     ],
-     [
-      "2026-10-09 22:59",
-      "RTP Notícias",
-      "OE2027. Saúde teve corte inédito e fica com margem reduzida para investimento",
-      "https://www.rtp.pt/noticias/economia/oe2027-saude-teve-corte-inedito-e-fica-com-margem-reduzida-para-investimento_v1770778"
-     ],
-     [
-      "2026-10-09 21:46",
-      "SIC Notícias",
-      "OE 2027: Governo podia ter ido mais longe nas medidas apresentadas?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0"
-     ],
-     [
-      "2026-10-09 21:18",
-      "Observador",
-      "Fenprof chama \"farsa orçamental\" ao OE2027",
-      "https://observador.pt/2026/10/09/professores-contra-o-oe2027-fenprof-denuncia-farsa-e-fne-exige-que-educacao-seja-prioridade-nacional/"
-     ],
-     [
-      "2026-10-09 20:22",
-      "Observador",
-      "FAP exige limites para propinas dos mestrados no OE2027",
-      "https://observador.pt/2026/10/09/fap-pede-ao-governo-limites-para-propinas-dos-mestrados-no-oe2027-e-avisa-que-custo-nao-pode-travar-acesso-ao-ensino/"
-     ],
-     [
-      "2026-10-09 19:55",
-      "CNN Portugal",
-      "OE2027 é \"um orçamento de meias-tintas\" para \"a questão do custo de vida\". \"Não estamos num bom caminho\"",
-      "https://cnnportugal.iol.pt/videos/oe2027-e-um-orcamento-de-meias-tintas-para-a-questao-do-custo-de-vida-nao-estamos-num-bom-caminho/6ac930e70cf22b9f8905101e"
-     ],
-     [
-      "2026-10-09 19:51",
-      "CNN Portugal",
-      "\"É muito estranho que o PS dê o seu aval ao OE2027 e depois se venha queixar que não há medidas para o custo de vida\"",
-      "https://cnnportugal.iol.pt/videos/e-muito-estranho-que-o-ps-de-o-seu-aval-ao-oe2027-e-depois-se-venha-queixar-que-nao-ha-medidas-para-o-custo-de-vida/6ac932160cf23b0ed4fddc22"
-     ],
-     [
-      "2026-10-09 19:30",
-      "Público",
-      "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
-      "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
      ]
     ]
    },
@@ -2672,39 +2672,93 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1161,
-    "n7": 136,
+    "n": 1169,
+    "n7": 144,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 09:34",
+    "ultima": "2026-11-03 13:39",
     "ultimas": [
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
-      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
-      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "ECO",
-      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
-      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+      "fonte": "Jornal Económico",
+      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      },
      {
-      "data": "2026-11-02",
-      "fonte": "Observador",
-      "titulo": "São Carlos adia reabertura para junho de 2028",
-      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
+      "data": "2026-11-03",
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 13:39",
+      "Jornal Económico",
+      "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 13:10",
+      "Jornal Económico",
+      "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 12:19",
+      "Executive Digest",
+      "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 11:51",
+      "Jornal Económico",
+      "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
+      "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:02",
+      "Ambiente Magazine",
+      "Quercus considera insuficiente investimento do Orçamento do Estado para 2027 na floresta e na adaptação climática",
+      "https://www.ambientemagazine.com/quercus-considera-insuficiente-investimento-do-orcamento-do-estado-para-2027-na-floresta-e-na-adaptacao-climatica/"
+     ],
+     [
+      "2026-11-03 10:43",
+      "Jornal Económico",
+      "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 10:20",
+      "Açoriano Oriental",
+      "PS Açores propõe serviço público na carga aérea",
+      "https://www.acorianooriental.pt/noticia/ps-acores-propoe-servico-publico-na-carga-aerea-381711"
+     ],
+     [
+      "2026-11-03 09:38",
+      "Público",
+      "Quanto investe Portugal na natureza? As ONG dizem que o OE2027 não responde",
+      "https://www.publico.pt/2026/11/03/azul/noticia/investe-portugal-natureza-ong-oe2027-nao-responde-2193544"
+     ],
      [
       "2026-11-03 09:34",
       "Jornal Económico",
       "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 09:31",
+      "Executive Digest",
+      "OE2027: Descarbonizar e eletrificar são prioridades para 2027, diz ministra Ambiente",
+      "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
       "2026-11-03 07:07",
@@ -2747,12 +2801,6 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
-     ],
-     [
-      "2026-11-02 13:51",
-      "Executive Digest",
-      "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "https://executivedigest.sapo.pt/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcessao-preserva-papel-estrategico-da-empresa/"
      ],
      [
       "2026-11-02 13:11",
@@ -5051,54 +5099,6 @@
       "Observador",
       "OE 2027: o que o dinheiro não resolve",
       "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
-     ],
-     [
-      "2026-10-09 23:13",
-      "RTP Notícias",
-      "OE2027. Propinas das licenciaturas voltam a subir indexadas à inflação",
-      "https://www.rtp.pt/noticias/economia/oe2027-propinas-das-licenciaturas-voltam-a-subir-indexadas-a-inflacao_v1770780"
-     ],
-     [
-      "2026-10-09 22:59",
-      "RTP Notícias",
-      "OE2027. Saúde teve corte inédito e fica com margem reduzida para investimento",
-      "https://www.rtp.pt/noticias/economia/oe2027-saude-teve-corte-inedito-e-fica-com-margem-reduzida-para-investimento_v1770778"
-     ],
-     [
-      "2026-10-09 21:46",
-      "SIC Notícias",
-      "OE 2027: Governo podia ter ido mais longe nas medidas apresentadas?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0"
-     ],
-     [
-      "2026-10-09 21:18",
-      "Observador",
-      "Fenprof chama \"farsa orçamental\" ao OE2027",
-      "https://observador.pt/2026/10/09/professores-contra-o-oe2027-fenprof-denuncia-farsa-e-fne-exige-que-educacao-seja-prioridade-nacional/"
-     ],
-     [
-      "2026-10-09 20:22",
-      "Observador",
-      "FAP exige limites para propinas dos mestrados no OE2027",
-      "https://observador.pt/2026/10/09/fap-pede-ao-governo-limites-para-propinas-dos-mestrados-no-oe2027-e-avisa-que-custo-nao-pode-travar-acesso-ao-ensino/"
-     ],
-     [
-      "2026-10-09 19:55",
-      "CNN Portugal",
-      "OE2027 é \"um orçamento de meias-tintas\" para \"a questão do custo de vida\". \"Não estamos num bom caminho\"",
-      "https://cnnportugal.iol.pt/videos/oe2027-e-um-orcamento-de-meias-tintas-para-a-questao-do-custo-de-vida-nao-estamos-num-bom-caminho/6ac930e70cf22b9f8905101e"
-     ],
-     [
-      "2026-10-09 19:51",
-      "CNN Portugal",
-      "\"É muito estranho que o PS dê o seu aval ao OE2027 e depois se venha queixar que não há medidas para o custo de vida\"",
-      "https://cnnportugal.iol.pt/videos/e-muito-estranho-que-o-ps-de-o-seu-aval-ao-oe2027-e-depois-se-venha-queixar-que-nao-ha-medidas-para-o-custo-de-vida/6ac932160cf23b0ed4fddc22"
-     ],
-     [
-      "2026-10-09 19:30",
-      "Público",
-      "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
-      "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
      ]
     ]
    },
@@ -5140,39 +5140,93 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1161,
-    "n7": 136,
+    "n": 1169,
+    "n7": 144,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 09:34",
+    "ultima": "2026-11-03 13:39",
     "ultimas": [
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
-      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
-      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "ECO",
-      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
-      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+      "fonte": "Jornal Económico",
+      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      },
      {
-      "data": "2026-11-02",
-      "fonte": "Observador",
-      "titulo": "São Carlos adia reabertura para junho de 2028",
-      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
+      "data": "2026-11-03",
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 13:39",
+      "Jornal Económico",
+      "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 13:10",
+      "Jornal Económico",
+      "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 12:19",
+      "Executive Digest",
+      "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 11:51",
+      "Jornal Económico",
+      "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
+      "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:02",
+      "Ambiente Magazine",
+      "Quercus considera insuficiente investimento do Orçamento do Estado para 2027 na floresta e na adaptação climática",
+      "https://www.ambientemagazine.com/quercus-considera-insuficiente-investimento-do-orcamento-do-estado-para-2027-na-floresta-e-na-adaptacao-climatica/"
+     ],
+     [
+      "2026-11-03 10:43",
+      "Jornal Económico",
+      "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 10:20",
+      "Açoriano Oriental",
+      "PS Açores propõe serviço público na carga aérea",
+      "https://www.acorianooriental.pt/noticia/ps-acores-propoe-servico-publico-na-carga-aerea-381711"
+     ],
+     [
+      "2026-11-03 09:38",
+      "Público",
+      "Quanto investe Portugal na natureza? As ONG dizem que o OE2027 não responde",
+      "https://www.publico.pt/2026/11/03/azul/noticia/investe-portugal-natureza-ong-oe2027-nao-responde-2193544"
+     ],
      [
       "2026-11-03 09:34",
       "Jornal Económico",
       "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 09:31",
+      "Executive Digest",
+      "OE2027: Descarbonizar e eletrificar são prioridades para 2027, diz ministra Ambiente",
+      "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
       "2026-11-03 07:07",
@@ -5215,12 +5269,6 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
-     ],
-     [
-      "2026-11-02 13:51",
-      "Executive Digest",
-      "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "https://executivedigest.sapo.pt/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcessao-preserva-papel-estrategico-da-empresa/"
      ],
      [
       "2026-11-02 13:11",
@@ -7519,54 +7567,6 @@
       "Observador",
       "OE 2027: o que o dinheiro não resolve",
       "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
-     ],
-     [
-      "2026-10-09 23:13",
-      "RTP Notícias",
-      "OE2027. Propinas das licenciaturas voltam a subir indexadas à inflação",
-      "https://www.rtp.pt/noticias/economia/oe2027-propinas-das-licenciaturas-voltam-a-subir-indexadas-a-inflacao_v1770780"
-     ],
-     [
-      "2026-10-09 22:59",
-      "RTP Notícias",
-      "OE2027. Saúde teve corte inédito e fica com margem reduzida para investimento",
-      "https://www.rtp.pt/noticias/economia/oe2027-saude-teve-corte-inedito-e-fica-com-margem-reduzida-para-investimento_v1770778"
-     ],
-     [
-      "2026-10-09 21:46",
-      "SIC Notícias",
-      "OE 2027: Governo podia ter ido mais longe nas medidas apresentadas?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0"
-     ],
-     [
-      "2026-10-09 21:18",
-      "Observador",
-      "Fenprof chama \"farsa orçamental\" ao OE2027",
-      "https://observador.pt/2026/10/09/professores-contra-o-oe2027-fenprof-denuncia-farsa-e-fne-exige-que-educacao-seja-prioridade-nacional/"
-     ],
-     [
-      "2026-10-09 20:22",
-      "Observador",
-      "FAP exige limites para propinas dos mestrados no OE2027",
-      "https://observador.pt/2026/10/09/fap-pede-ao-governo-limites-para-propinas-dos-mestrados-no-oe2027-e-avisa-que-custo-nao-pode-travar-acesso-ao-ensino/"
-     ],
-     [
-      "2026-10-09 19:55",
-      "CNN Portugal",
-      "OE2027 é \"um orçamento de meias-tintas\" para \"a questão do custo de vida\". \"Não estamos num bom caminho\"",
-      "https://cnnportugal.iol.pt/videos/oe2027-e-um-orcamento-de-meias-tintas-para-a-questao-do-custo-de-vida-nao-estamos-num-bom-caminho/6ac930e70cf22b9f8905101e"
-     ],
-     [
-      "2026-10-09 19:51",
-      "CNN Portugal",
-      "\"É muito estranho que o PS dê o seu aval ao OE2027 e depois se venha queixar que não há medidas para o custo de vida\"",
-      "https://cnnportugal.iol.pt/videos/e-muito-estranho-que-o-ps-de-o-seu-aval-ao-oe2027-e-depois-se-venha-queixar-que-nao-ha-medidas-para-o-custo-de-vida/6ac932160cf23b0ed4fddc22"
-     ],
-     [
-      "2026-10-09 19:30",
-      "Público",
-      "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
-      "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
      ]
     ]
    },
@@ -7608,39 +7608,93 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1161,
-    "n7": 136,
+    "n": 1169,
+    "n7": 144,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 09:34",
+    "ultima": "2026-11-03 13:39",
     "ultimas": [
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
-      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
-      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "ECO",
-      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
-      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+      "fonte": "Jornal Económico",
+      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      },
      {
-      "data": "2026-11-02",
-      "fonte": "Observador",
-      "titulo": "São Carlos adia reabertura para junho de 2028",
-      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
+      "data": "2026-11-03",
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 13:39",
+      "Jornal Económico",
+      "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 13:10",
+      "Jornal Económico",
+      "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 12:19",
+      "Executive Digest",
+      "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 11:51",
+      "Jornal Económico",
+      "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
+      "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:02",
+      "Ambiente Magazine",
+      "Quercus considera insuficiente investimento do Orçamento do Estado para 2027 na floresta e na adaptação climática",
+      "https://www.ambientemagazine.com/quercus-considera-insuficiente-investimento-do-orcamento-do-estado-para-2027-na-floresta-e-na-adaptacao-climatica/"
+     ],
+     [
+      "2026-11-03 10:43",
+      "Jornal Económico",
+      "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 10:20",
+      "Açoriano Oriental",
+      "PS Açores propõe serviço público na carga aérea",
+      "https://www.acorianooriental.pt/noticia/ps-acores-propoe-servico-publico-na-carga-aerea-381711"
+     ],
+     [
+      "2026-11-03 09:38",
+      "Público",
+      "Quanto investe Portugal na natureza? As ONG dizem que o OE2027 não responde",
+      "https://www.publico.pt/2026/11/03/azul/noticia/investe-portugal-natureza-ong-oe2027-nao-responde-2193544"
+     ],
      [
       "2026-11-03 09:34",
       "Jornal Económico",
       "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 09:31",
+      "Executive Digest",
+      "OE2027: Descarbonizar e eletrificar são prioridades para 2027, diz ministra Ambiente",
+      "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
       "2026-11-03 07:07",
@@ -7683,12 +7737,6 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
-     ],
-     [
-      "2026-11-02 13:51",
-      "Executive Digest",
-      "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "https://executivedigest.sapo.pt/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcessao-preserva-papel-estrategico-da-empresa/"
      ],
      [
       "2026-11-02 13:11",
@@ -9987,54 +10035,6 @@
       "Observador",
       "OE 2027: o que o dinheiro não resolve",
       "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
-     ],
-     [
-      "2026-10-09 23:13",
-      "RTP Notícias",
-      "OE2027. Propinas das licenciaturas voltam a subir indexadas à inflação",
-      "https://www.rtp.pt/noticias/economia/oe2027-propinas-das-licenciaturas-voltam-a-subir-indexadas-a-inflacao_v1770780"
-     ],
-     [
-      "2026-10-09 22:59",
-      "RTP Notícias",
-      "OE2027. Saúde teve corte inédito e fica com margem reduzida para investimento",
-      "https://www.rtp.pt/noticias/economia/oe2027-saude-teve-corte-inedito-e-fica-com-margem-reduzida-para-investimento_v1770778"
-     ],
-     [
-      "2026-10-09 21:46",
-      "SIC Notícias",
-      "OE 2027: Governo podia ter ido mais longe nas medidas apresentadas?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0"
-     ],
-     [
-      "2026-10-09 21:18",
-      "Observador",
-      "Fenprof chama \"farsa orçamental\" ao OE2027",
-      "https://observador.pt/2026/10/09/professores-contra-o-oe2027-fenprof-denuncia-farsa-e-fne-exige-que-educacao-seja-prioridade-nacional/"
-     ],
-     [
-      "2026-10-09 20:22",
-      "Observador",
-      "FAP exige limites para propinas dos mestrados no OE2027",
-      "https://observador.pt/2026/10/09/fap-pede-ao-governo-limites-para-propinas-dos-mestrados-no-oe2027-e-avisa-que-custo-nao-pode-travar-acesso-ao-ensino/"
-     ],
-     [
-      "2026-10-09 19:55",
-      "CNN Portugal",
-      "OE2027 é \"um orçamento de meias-tintas\" para \"a questão do custo de vida\". \"Não estamos num bom caminho\"",
-      "https://cnnportugal.iol.pt/videos/oe2027-e-um-orcamento-de-meias-tintas-para-a-questao-do-custo-de-vida-nao-estamos-num-bom-caminho/6ac930e70cf22b9f8905101e"
-     ],
-     [
-      "2026-10-09 19:51",
-      "CNN Portugal",
-      "\"É muito estranho que o PS dê o seu aval ao OE2027 e depois se venha queixar que não há medidas para o custo de vida\"",
-      "https://cnnportugal.iol.pt/videos/e-muito-estranho-que-o-ps-de-o-seu-aval-ao-oe2027-e-depois-se-venha-queixar-que-nao-ha-medidas-para-o-custo-de-vida/6ac932160cf23b0ed4fddc22"
-     ],
-     [
-      "2026-10-09 19:30",
-      "Público",
-      "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
-      "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
      ]
     ]
    },
@@ -10076,39 +10076,93 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1161,
-    "n7": 136,
+    "n": 1169,
+    "n7": 144,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 09:34",
+    "ultima": "2026-11-03 13:39",
     "ultimas": [
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
-      "titulo": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
-      "url": "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "ECO",
-      "titulo": "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
-      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
+      "fonte": "Jornal Económico",
+      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      },
      {
-      "data": "2026-11-02",
-      "fonte": "Observador",
-      "titulo": "São Carlos adia reabertura para junho de 2028",
-      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
+      "data": "2026-11-03",
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 13:39",
+      "Jornal Económico",
+      "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 13:10",
+      "Jornal Económico",
+      "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
+      "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 12:19",
+      "Executive Digest",
+      "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
+      "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
+     ],
+     [
+      "2026-11-03 11:51",
+      "Jornal Económico",
+      "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
+      "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:02",
+      "Ambiente Magazine",
+      "Quercus considera insuficiente investimento do Orçamento do Estado para 2027 na floresta e na adaptação climática",
+      "https://www.ambientemagazine.com/quercus-considera-insuficiente-investimento-do-orcamento-do-estado-para-2027-na-floresta-e-na-adaptacao-climatica/"
+     ],
+     [
+      "2026-11-03 10:43",
+      "Jornal Económico",
+      "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 10:20",
+      "Açoriano Oriental",
+      "PS Açores propõe serviço público na carga aérea",
+      "https://www.acorianooriental.pt/noticia/ps-acores-propoe-servico-publico-na-carga-aerea-381711"
+     ],
+     [
+      "2026-11-03 09:38",
+      "Público",
+      "Quanto investe Portugal na natureza? As ONG dizem que o OE2027 não responde",
+      "https://www.publico.pt/2026/11/03/azul/noticia/investe-portugal-natureza-ong-oe2027-nao-responde-2193544"
+     ],
      [
       "2026-11-03 09:34",
       "Jornal Económico",
       "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros, afirma ministra",
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
+     ],
+     [
+      "2026-11-03 09:31",
+      "Executive Digest",
+      "OE2027: Descarbonizar e eletrificar são prioridades para 2027, diz ministra Ambiente",
+      "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
       "2026-11-03 07:07",
@@ -10151,12 +10205,6 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
-     ],
-     [
-      "2026-11-02 13:51",
-      "Executive Digest",
-      "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
-      "https://executivedigest.sapo.pt/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcessao-preserva-papel-estrategico-da-empresa/"
      ],
      [
       "2026-11-02 13:11",
@@ -12455,54 +12503,6 @@
       "Observador",
       "OE 2027: o que o dinheiro não resolve",
       "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
-     ],
-     [
-      "2026-10-09 23:13",
-      "RTP Notícias",
-      "OE2027. Propinas das licenciaturas voltam a subir indexadas à inflação",
-      "https://www.rtp.pt/noticias/economia/oe2027-propinas-das-licenciaturas-voltam-a-subir-indexadas-a-inflacao_v1770780"
-     ],
-     [
-      "2026-10-09 22:59",
-      "RTP Notícias",
-      "OE2027. Saúde teve corte inédito e fica com margem reduzida para investimento",
-      "https://www.rtp.pt/noticias/economia/oe2027-saude-teve-corte-inedito-e-fica-com-margem-reduzida-para-investimento_v1770778"
-     ],
-     [
-      "2026-10-09 21:46",
-      "SIC Notícias",
-      "OE 2027: Governo podia ter ido mais longe nas medidas apresentadas?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-10-09-video-oe-2027-governo-podia-ter-ido-mais-longe-nas-medidas-apresentadas--d4ba06b0"
-     ],
-     [
-      "2026-10-09 21:18",
-      "Observador",
-      "Fenprof chama \"farsa orçamental\" ao OE2027",
-      "https://observador.pt/2026/10/09/professores-contra-o-oe2027-fenprof-denuncia-farsa-e-fne-exige-que-educacao-seja-prioridade-nacional/"
-     ],
-     [
-      "2026-10-09 20:22",
-      "Observador",
-      "FAP exige limites para propinas dos mestrados no OE2027",
-      "https://observador.pt/2026/10/09/fap-pede-ao-governo-limites-para-propinas-dos-mestrados-no-oe2027-e-avisa-que-custo-nao-pode-travar-acesso-ao-ensino/"
-     ],
-     [
-      "2026-10-09 19:55",
-      "CNN Portugal",
-      "OE2027 é \"um orçamento de meias-tintas\" para \"a questão do custo de vida\". \"Não estamos num bom caminho\"",
-      "https://cnnportugal.iol.pt/videos/oe2027-e-um-orcamento-de-meias-tintas-para-a-questao-do-custo-de-vida-nao-estamos-num-bom-caminho/6ac930e70cf22b9f8905101e"
-     ],
-     [
-      "2026-10-09 19:51",
-      "CNN Portugal",
-      "\"É muito estranho que o PS dê o seu aval ao OE2027 e depois se venha queixar que não há medidas para o custo de vida\"",
-      "https://cnnportugal.iol.pt/videos/e-muito-estranho-que-o-ps-de-o-seu-aval-ao-oe2027-e-depois-se-venha-queixar-que-nao-ha-medidas-para-o-custo-de-vida/6ac932160cf23b0ed4fddc22"
-     ],
-     [
-      "2026-10-09 19:30",
-      "Público",
-      "Quatro opiniões e dois podcasts sobre o Orçamento do Estado",
-      "https://www.publico.pt/2026/10/09/politica/noticia/quatro-opinioes-dois-podcasts-orcamento-estado-2190850"
      ]
     ]
    },
@@ -12664,10 +12664,16 @@
     "novos": 3,
     "alterados": 2,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-03",
+    "novos": 2,
+    "alterados": 3,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-03T10:42+00:00",
-  "atualizadoLabel": "3 de novembro, 10h42",
+  "atualizado": "2026-11-03T14:59+00:00",
+  "atualizadoLabel": "3 de novembro, 14h59",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12852,7 +12858,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 2,
+   "novas": 11,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a preparação para o debate parlamentar. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas. O PCP anunciou o voto contra, mas o Governo viabilizou o documento com apoio de outros partidos. O debate na generalidade ocorreu a 27 de outubro, com a habitação a dominar o confronto. O Governo rejeitou o desmantelamento da CP e reafirmou o seu papel estratégico."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
@@ -13034,7 +13040,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 2,
+   "novas": 11,
    "enquadramento": "O debate sobre o Orçamento do Estado para 2027 tem sido um foco central na Assembleia da República, com várias notícias a reportar discussões parlamentares, posições de partidos e medidas governamentais. O Governo apresentou a proposta de lei, que foi alvo de críticas e anúncios de voto contra por parte de partidos da oposição, como o PCP. Entretanto, foram reportados avanços na discussão do orçamento, como a confirmação da suspensão de um inquérito e a aprovação de medidas relacionadas com a habitação e a Carteira Digital de Empresa. A cobertura mediática tem acompanhado a evolução do debate, com ênfase em temas como a dívida pública, a regulação do setor privado e o apoio à juventude."
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
@@ -13570,7 +13576,7 @@
     "ultima": "2026-10-16 19:53",
     "em": "2026-11-02"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "A Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes, tem defendido um aumento significativo do financiamento para a Cultura e tem anunciado reforços orçamentais para 2027 e 2026, bem como a continuidade de apoios permanentes a artes e ofícios tradicionais. As notícias relatam também a sua posição sobre o futebol como exemplo para o desenvolvimento desportivo e a defesa de uma remuneração justa para criadores face ao avanço da IA."
   },
   "2026-11-04-48602-ministro-da-educa-o-ci-ncia-e-inova-o-ferna": {
@@ -13742,7 +13748,7 @@
     "ultima": "2026-10-29 12:28",
     "em": "2026-11-02"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "O Governo ainda aguarda o primeiro pagamento do empréstimo SAFE para a defesa, enquanto o Ministro da Defesa Nacional, Nuno Melo, discute o Orçamento da Defesa Nacional para 2027. A discussão conjunta com a Comissão de Orçamento, Finanças e Administração Pública visa avaliar o financiamento e a eficiência das despesas militares."
   },
   "2026-11-06-48590-ministra-do-trabalho-solidariedade-e-segura": {
@@ -13845,7 +13851,7 @@
      "data": "2026-09-24",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
-     "sintese": "A AHRESP apresentou 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
+     "sintese": "A AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas, procurando influenciar as medidas propostas no Orçamento.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13853,7 +13859,7 @@
      "data": "2026-09-29",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/economia/article/2026-09-29/47858717/oe2027-albuquerque-recebe-garantia-de-verbas-do-pm-e-n%C3%A3o-antecipa-qualquer-problema-na-vota%C3%A7%C3%A3o",
-     "sintese": "Albuquerque recebeu garantia de verbas do PM e não antecipa problemas na votação do OE2027.",
+     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa problemas na votação do OE2027, transmitindo uma mensagem de confiança no processo orçamental.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -13861,7 +13867,7 @@
      "data": "2026-10-02",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
-     "sintese": "O PCP anunciou voto contra o Orçamento do Estado para 2027.",
+     "sintese": "O PCP anuncia voto contra o Orçamento do Estado para 2027, indicando uma oposição clara às medidas propostas.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -13869,7 +13875,7 @@
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "O Governo entregou a proposta do OE2027 no Parlamento.",
+     "sintese": "O Governo entrega a proposta do OE2027 no Parlamento, marcando o início do debate na especialidade.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13877,7 +13883,7 @@
      "data": "2026-10-08",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
-     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
+     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027, detalhando uma medida específica da proposta.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13885,7 +13891,7 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD e PS expressaram posições sobre a viabilização do OE2027, com o PSD a prever tranquilidade e o PS a alertar para compromissos.",
+     "sintese": "PSD e CDS expressam tranquilidade com o OE2027, enquanto o PS alerta para a necessidade de cumprir compromissos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13893,7 +13899,7 @@
      "data": "2026-10-09",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
-     "sintese": "Debate sobre o OE2027 foi marcado por discussões sobre habitação e Centeno.",
+     "sintese": "O debate sobre o OE2027 é marcado por temas como habitação e Centeno, com foco em questões específicas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13901,23 +13907,15 @@
      "data": "2026-10-10",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propôs abstenção ao OE2027, admitindo voto contra por convicções.",
+     "sintese": "Carneiro propõe abstenção ao OE2027, admitindo que convicções mais profundas poderiam levar a um voto contra.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-11",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "PS critica ausência de financiamento para o Hospital Eduardo Santos Silva no OE2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "Debate sobre o OE2027 foi marcado por protestos pela habitação.",
+     "sintese": "Debate sobre o OE2027 inclui a discussão de mitos sobre o Orçamento, procurando esclarecer a opinião pública.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13925,15 +13923,15 @@
      "data": "2026-10-13",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
-     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "Miranda Sarmento afirma que a dívida pública estará abaixo de 85% do PIB em 2027, detalhando uma meta específica.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-23",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
-     "sintese": "OE2027: Dívida pública deve continuar a ser preocupação, diz Miranda Sarmento.",
+     "sintese": "José Luís Carneiro justifica a viabilização do OE2027 com crises internacionais, apresentando um argumento para a decisão.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13941,7 +13939,7 @@
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
-     "sintese": "José Luís Carneiro justifica viabilização do OE2027 com crises.",
+     "sintese": "Debate na generalidade do OE2027 é marcado por protestos pela habitação, evidenciando um tema de preocupação social.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13949,39 +13947,31 @@
      "data": "2026-10-28",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
-     "sintese": "Debate na generalidade do OE2027 teve como tema a habitação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Suspensão do inquérito a Luís Neves durante a discussão do OE2027, indicando um tema secundário na cobertura.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-28",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
-     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "Carneiro acusa PSD e CDS de destratar o PS no debate do OE2027, expressando uma crítica política.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-29",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Carneiro acusa PSD e CDS de destratar o PS no debate do OE2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Galp apresenta decisão soberana sobre investimentos, com o Governo a cumprir o seu papel na discussão.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "OE2027: Decisão da Galp é soberana, diz Governo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-31",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
-     "sintese": "OE2027: Carteira Digital tem 18 mil empresas.",
+     "sintese": "Ministro Gonçalo Matias revela dados da Carteira Digital de empresa, destacando uma medida específica.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13989,7 +13979,7 @@
      "data": "2026-11-01",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
-     "sintese": "Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
+     "sintese": "OE2027: Dívida pública deve continuar a ser preocupação, com foco na gestão das contas públicas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13997,21 +13987,37 @@
      "data": "2026-11-02",
      "fonte": "Diário de Notícias",
      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
-     "sintese": "Governo rejeita desmantelamento da CP e afirma que subconcessão preserva papel estratégico.",
+     "sintese": "Governo rejeita desmantelamento da CP, defendendo o papel estratégico da empresa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Ambiente Magazine",
+     "url": "https://www.ambientemagazine.com/quercus-considera-insuficiente-investimento-do-orcamento-do-estado-para-2027-na-floresta-e-na-adaptacao-climatica/",
+     "sintese": "Quercus considera investimento insuficiente na floresta e adaptação climática, expressando uma crítica ao Orçamento.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/",
+     "sintese": "PCP propõe criação de 10º escalão de IRS e subida da dedução específica, apresentando medidas específicas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1160
+    "encontradas": 1169
    },
    "base": {
-    "ultima": "2026-11-02 15:32",
-    "em": "2026-11-02"
+    "ultima": "2026-11-03 13:39",
+    "em": "2026-11-03"
    },
-   "novas": 3,
-   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 tem-se centrado em debates parlamentares, anúncios de medidas e críticas de partidos políticos. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo estima arrecadar mais com impostos sobre tabaco e álcool. O PCP anunciou um voto contra, e o PSD e o PS expressaram posições sobre a viabilização. O debate na generalidade revelou tensões sobre a habitação e a dívida pública. O Governo rejeitou o desmantelamento da CP, reforçando o seu papel estratégico."
+   "novas": 0,
+   "enquadramento": "Nos últimos meses, a cobertura mediática tem acompanhado de perto a elaboração e discussão do Orçamento do Estado para 2027, com várias notícias a reportar detalhes sobre as medidas propostas, as posições dos partidos políticos e as expectativas em relação à votação. Apresenta-se um quadro de evolução factual, desde a entrega da proposta de lei no Parlamento até aos debates na especialidade, com menções a temas como impostos sobre tabaco e álcool, dívida pública e habitação. A cobertura reflete um ambiente de debate político, com críticas e apoios, mas também com enquadramento de contexto sobre as crises internacionais e a situação económica."
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
    "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
@@ -14192,7 +14198,7 @@
     "ultima": "2026-11-01 08:02",
     "em": "2026-11-02"
    },
-   "novas": 1,
+   "novas": 3,
    "enquadramento": "A cobertura noticiosa revela um período de intensa atividade da Ministra do Ambiente e Energia, Maria da Graça Carvalho, em torno de temas como a reestruturação de entidades ambientais, a gestão de resíduos e combustíveis, a prevenção de catástrofes naturais, a política de apoio à mobilidade elétrica e a gestão de recursos hídricos. As notícias abrangem desde anúncios de medidas concretas, como a requalificação de infraestruturas e a abertura de leilões de capacidade energética, até a discussão de posições políticas, como a defesa de regras claras para o mercado de combustíveis e a apologia à poupança energética. A cobertura inclui também declarações sobre a gestão de crises, como a subida dos preços dos combustíveis, e a resposta a críticas políticas, como as da IL e do PSD, demonstrando um envolvimento ativo da ministra em temas relevantes para a política ambiental e energética."
   },
   "2026-11-04-48568-ministra-da-justi-a-rita-alarc-o-j-dice-or": {
@@ -14460,7 +14466,7 @@
     "ultima": "2026-11-02 15:32",
     "em": "2026-11-02"
    },
-   "novas": 3,
+   "novas": 12,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta de lei e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PSD e o CDS expressaram preocupações sobre a viabilização do orçamento. Entretanto, o Governo tem defendido a necessidade de compromissos e a estabilidade política, justificando a viabilização do orçamento face a crises internas e internacionais. A cobertura inclui também notícias sobre financiamento de projetos específicos, como o Hospital Eduardo Santos Silva, e sobre a dívida pública, com o ministro das Finanças a afirmar que esta se manterá abaixo dos 85% do PIB em 2027."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -14642,7 +14648,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 2,
+   "novas": 11,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a realização de debates parlamentares. A oposição, nomeadamente o PCP, anunciou o seu voto contra, enquanto o Governo procura a viabilização através de compromissos e a gestão de crises internacionais. O PSD e o CDS expressaram preocupações sobre a estabilidade do Orçamento, enquanto o Governo enfatiza a redução da dívida pública e a importância da previsibilidade económica. A cobertura inclui também temas relacionados, como a habitação, a Carteira Digital de Empresa e a valorização da juventude, embora não diretamente relacionados com a discussão do Orçamento."
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
@@ -14788,34 +14794,46 @@
     }
    ],
    "cobertura": {
-    "n": 39,
-    "n7": 4,
+    "n": 41,
+    "n7": 6,
     "n7ant": 1,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 16:06",
+    "ultima": "2026-11-03 11:26",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Ministra rejeita regresso do mecanismo ibérico: “É um erro”",
+      "url": "https://eco.sapo.pt/2026/11/03/ministra-rejeita-regresso-do-mecanismo-iberico-e-um-erro/"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
+      "url": "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     },
      {
       "data": "2026-11-02",
       "fonte": "RTP Notícias",
       "titulo": "Governo tem meios legais para travar perda de soberania sobre refinaria de Sines diz ministra do Ambiente e Energia",
       "url": "https://www.rtp.pt/noticias/economia/governo-tem-meios-legais-para-travar-perda-de-soberania-sobre-refinaria-de-sines-diz-ministra-do-ambiente-e-energia_n1776364"
-     },
-     {
-      "data": "2026-11-01",
-      "fonte": "Observador",
-      "titulo": "Ajudas para compra de eléctricos multiplicaram. É bom ou mau",
-      "url": "https://observador.pt/programas/operacao-stop/ajudas-para-compra-de-electricos-multiplicaram-e-bom-ou-mau/"
-     },
-     {
-      "data": "2026-10-30",
-      "fonte": "ECO",
-      "titulo": "Novo apoio à compra de elétricos abrange mais de 1,5 milhões de pessoas",
-      "url": "https://eco.sapo.pt/2026/10/30/novo-apoio-a-compra-de-eletricos-abrange-mais-de-15-milhoes-de-pessoas/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 11:26",
+      "ECO",
+      "Ministra rejeita regresso do mecanismo ibérico: “É um erro”",
+      "https://eco.sapo.pt/2026/11/03/ministra-rejeita-regresso-do-mecanismo-iberico-e-um-erro/"
+     ],
+     [
+      "2026-11-03 10:43",
+      "Jornal Económico",
+      "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
+      "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     ],
      [
       "2026-11-02 16:06",
       "RTP Notícias",
@@ -16080,14 +16098,20 @@
     }
    ],
    "cobertura": {
-    "n": 10,
-    "n7": 1,
+    "n": 11,
+    "n7": 2,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-11-02 21:51",
+    "ultima": "2026-11-03 10:50",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "Governo promete anunciar em dezembro novo espaço para Museu Nacional do Traje",
+      "url": "https://jornaleconomico.sapo.pt/noticias/governo-promete-anunciar-em-dezembro-novo-espaco-para-museu-nacional-do-traje/"
+     },
      {
       "data": "2026-11-02",
       "fonte": "Público",
@@ -16099,15 +16123,15 @@
       "fonte": "Jornal Económico",
       "titulo": "Governo defende remuneração justa dos criadores perante avanço da IA",
       "url": "https://jornaleconomico.sapo.pt/noticias/governo-defende-remuneracao-justa-dos-criadores-perante-avanco-da-ia/"
-     },
-     {
-      "data": "2026-10-16",
-      "fonte": "RTP Notícias",
-      "titulo": "Ministra da Cultura lembra Joaquim Letria como figura marcante do jornalismo português",
-      "url": "https://www.rtp.pt/noticias/pais/ministra-da-cultura-lembra-joaquim-letria-como-figura-marcante-do-jornalismo-portugues_n1772100"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 10:50",
+      "Jornal Económico",
+      "Governo promete anunciar em dezembro novo espaço para Museu Nacional do Traje",
+      "https://jornaleconomico.sapo.pt/noticias/governo-promete-anunciar-em-dezembro-novo-espaco-para-museu-nacional-do-traje/"
+     ],
      [
       "2026-11-02 21:51",
       "Público",
@@ -16202,8 +16226,8 @@
    "hora": "12h30",
    "interveniente": "",
    "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 33 · Sala 1",
-   "resumo": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "resumo": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027. \n Sérgio Machado Letria - Diretor\n Gabriela Canavilhas;\n Ricardo Viel",
+   "ordemTrabalhos": "Audiência da Fundação José Saramago, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027. \n Sérgio Machado Letria - Diretor\n Gabriela Canavilhas;\n Ricardo Viel",
    "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
    "id_ar": 48616,
    "chave": "ar-48616",
@@ -16240,7 +16264,8 @@
     "ultimas": [],
     "todas": []
    },
-   "tituloRegras": true
+   "tituloRegras": true,
+   "alterado": "2026-11-03"
   },
   {
    "tema": "Audiência da AUDIOGEST- Associação para a Gestão e Distribuição de Direitos e da APM – Associação para a… — Orçamento do Estado 2027",
@@ -16445,7 +16470,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão da Reforma do Estado e Poder Local · Reunião n.º 62 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública",
    "resumo": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Pedro Pimpão, Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Pombal\n Amadeu Albergaria, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Santa Maria da Feira\n Ricardo Leão, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Loures\n Nuno Piteira Lopes, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Cascais\n Flávio Massano, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Manteigas\n João Fortes, Vogal do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Mourão\n Paulo Braga, Secretário-Geral da ANMP;\n Joana Ferreira, Secretária-Geral Adjunta da ANMP.",
    "orgao": "Comissão da Reforma do Estado e Poder Local",
    "id_ar": 48638,
    "chave": "ar-48638",
@@ -16587,7 +16612,8 @@
       "https://eco.sapo.pt/2026/09/08/municipios-querem-nova-igal-a-fiscalizar-e-tribunal-de-contas-a-aconselhar/"
      ]
     ]
-   }
+   },
+   "alterado": "2026-11-03"
   },
   {
    "tema": "Audição da ANAFRE – Associação Nacional de Freguesias — Orçamento do Estado 2027",
@@ -16596,7 +16622,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão da Reforma do Estado e Poder Local · Reunião n.º 63 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública",
    "resumo": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Francisco Branco de Brito – Presidente do Conselho Diretivo \n Ricardo Marques – Vice-Presidente do Conselho Diretivo \n Jorge Amador – Vice-Presidente do Conselho Diretivo \n Luís Correia – Vice-Presidente do Conselho Diretivo \n José Padrão – Vice-Presidente do Conselho Diretivo \n Luís Almeida Mendes – Vice-Presidente do Conselho Diretivo",
    "orgao": "Comissão da Reforma do Estado e Poder Local",
    "id_ar": 48637,
    "chave": "ar-48637",
@@ -16631,14 +16657,20 @@
    "novo": "2026-11-02",
    "tituloRegras": true,
    "cobertura": {
-    "n": 12,
-    "n7": 4,
+    "n": 13,
+    "n7": 5,
     "n7ant": 1,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-11-02 18:47",
+    "ultima": "2026-11-03 10:26",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Açoriano Oriental",
+      "titulo": "Anafre contra acesso do Corvo aos programas das freguesias",
+      "url": "https://www.acorianooriental.pt/noticia/anafre-contra-acesso-do-corvo-aos-programas-das-freguesias-381712"
+     },
      {
       "data": "2026-11-02",
       "fonte": "JM Madeira",
@@ -16650,15 +16682,15 @@
       "fonte": "JM Madeira",
       "titulo": "Junta de Freguesia do Caniço adere ao protesto da ANAFRE",
       "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008266/junta-de-freguesia-do-canico-adere-ao-protesto-da-anafre.html"
-     },
-     {
-      "data": "2026-10-30",
-      "fonte": "Diário de Notícias da Madeira",
-      "titulo": "Freguesias do Funchal solidárias com protesto nacional da Associação Nacional de Freguesias",
-      "url": "https://www.dnoticias.pt/2026/10/30/511027-freguesias-do-funchal-solidarias-com-protesto-nacional-da-associacao-nacional-de-freguesias/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 10:26",
+      "Açoriano Oriental",
+      "Anafre contra acesso do Corvo aos programas das freguesias",
+      "https://www.acorianooriental.pt/noticia/anafre-contra-acesso-do-corvo-aos-programas-das-freguesias-381712"
+     ],
      [
       "2026-11-02 18:47",
       "JM Madeira",
@@ -16732,7 +16764,8 @@
       "http://www.acorianooriental.pt/noticia/anafre-quer-9-me-para-as-freguesias-da-regiao-380252"
      ]
     ]
-   }
+   },
+   "alterado": "2026-11-03"
   },
   {
    "tema": "Audiência da ASPTPS Associação Portuguesa de Planos de Saúde — Orçamento do Estado 2027",
@@ -18066,13 +18099,13 @@
     }
    ],
    "cobertura": {
-    "n": 29,
-    "n7": 3,
+    "n": 30,
+    "n7": 4,
     "n7ant": 6,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-11-03 09:58",
+    "ultima": "2026-11-03 09:45",
     "ultimas": [
      {
       "data": "2026-11-03",
@@ -18081,24 +18114,30 @@
       "url": "https://tek.sapo.pt/mobile/apps/artigos/telemovel-do-ministro-nuno-melo-foi-atacado-e-usado-para-pedir-dinheiro-no-whatsapp/"
      },
      {
+      "data": "2026-11-02",
+      "fonte": "ECO",
+      "titulo": "Portugal e Grécia querem aprofundar cooperação na produção de drones e satélites",
+      "url": "https://eco.sapo.pt/2026/11/02/portugal-e-grecia-querem-aprofundar-cooperacao-na-producao-de-drones-e-satelites/"
+     },
+     {
       "data": "2026-10-29",
       "fonte": "Jornal Económico",
       "titulo": "CDS-PP ouvido em Belém: Nuno Melo desafia oposição a aproveitar especialidade da lei das rendas",
       "url": "https://jornaleconomico.sapo.pt/noticias/cds-pp-ouvido-em-belem-nuno-melo-desafia-oposicao-a-aproveitar-especialidade-da-lei-das-rendas/"
-     },
-     {
-      "data": "2026-10-29",
-      "fonte": "ECO",
-      "titulo": "Nuno Melo recusa desgaste do Governo e critica “instrumentalização radical” dos protestos na habitação",
-      "url": "https://eco.sapo.pt/2026/10/29/nuno-melo-recusa-desgaste-do-governo-e-critica-instrumentalizacao-radical-dos-protestos-na-habitacao/"
      }
     ],
     "todas": [
      [
-      "2026-11-03 09:58",
+      "2026-11-03 09:45",
       "SAPO Tek",
       "Telemóvel do ministro Nuno Melo foi atacado e usado para pedir dinheiro no WhatsApp",
       "https://tek.sapo.pt/mobile/apps/artigos/telemovel-do-ministro-nuno-melo-foi-atacado-e-usado-para-pedir-dinheiro-no-whatsapp/"
+     ],
+     [
+      "2026-11-02 15:06",
+      "ECO",
+      "Portugal e Grécia querem aprofundar cooperação na produção de drones e satélites",
+      "https://eco.sapo.pt/2026/11/02/portugal-e-grecia-querem-aprofundar-cooperacao-na-producao-de-drones-e-satelites/"
      ],
      [
       "2026-10-29 12:28",
@@ -18291,6 +18330,86 @@
     ]
    },
    "varrimento": "2026-11-05-48566-ministro-da-defesa-nacional-nuno-melo-or-am"
+  },
+  {
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "data": "2026-11-05",
+   "hora": "15h30",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 57",
+   "resumo": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos",
+   "ordemTrabalhos": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos públicos no sentido de limitar negócios com familiares» - Relator: Deputado Pedro Delgado Alves (PS);\n 3 – Apreciação e votação de parecer(es) sobre relativo a ofertas e hospitalidades (matéria reservada); - Autor do parecer: Deputado António Rodrigues (PSD);\n 4 – Apreciação e votação do parecer relativo a ofertas e hospitalidades (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 5 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 6 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 7 – Distribuição de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada)\n 8 – Distribuição de relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relator(a) a indicar pelo Grupo Parlamentar do PSD;\n 9 – Outros assuntos.",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "id_ar": 48643,
+   "chave": "ar-48643",
+   "dataLabel": "quinta, 5 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-03",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-03",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "data": "2026-11-05",
+   "hora": "16h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 9",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "id_ar": 48644,
+   "chave": "ar-48644",
+   "dataLabel": "quinta, 5 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-03",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-03",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
   },
   {
    "tema": "Ministro da Agricultura e Mar, José Manuel Fernandes: Orçamento do Estado 2027",

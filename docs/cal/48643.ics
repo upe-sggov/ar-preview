@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48643@ar-preview
+DTSTAMP:20261103T150939Z
+DTSTART:20261105T153000Z
+DTEND:20261105T173000Z
+SUMMARY:AR · Comissão de Transparência e Estatuto dos Deputados
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Transparência e Estatuto dos Deputados · Reuni
+ ão n.º 57\nSíntese: Apreciação e votação das atas 55 e 56\, corres
+ pondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026\
+ nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Pagina
+ s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
+ ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
+ m indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.asp
+ x
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

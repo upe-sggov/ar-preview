@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48637@ar-preview
-DTSTAMP:20261103T104315Z
+DTSTAMP:20261103T150939Z
 DTSTART:20261104T110000Z
 DTEND:20261104T130000Z
 SUMMARY:AR · Audição da ANAFRE – Associação Nacional de Freguesias 
@@ -14,10 +14,12 @@ SUMMARY:AR · Audição da ANAFRE – Associação Nacional de Freguesias
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissão da Reforma do Estado e Poder Local · Reunião n.º 
  63 · Plenário · conjunta com Comissão de Orçamento\, Finanças e Adm
- inistração Pública\nPágina na AR: https://www.parlamento.pt/sites/com
- /XVIILeg/13CREPL/Paginas/default.aspx\nEmissões em direto (quando houver
- ): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/
- ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ inistração Pública\nSíntese: Francisco Branco de Brito – Presidente
+  do Conselho Diretivo\; Ricardo Marques – Vice-Presidente do Conselho D
+ iretivo\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/13CRE
+ PL/Paginas/default.aspx\nEmissões em direto (quando houver): https://can
+ al.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nH
+ ora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.as
  px
 TRANSP:TRANSPARENT

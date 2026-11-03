@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48638@ar-preview
-DTSTAMP:20261103T104315Z
+DTSTAMP:20261103T150939Z
 DTSTART:20261104T090000Z
 DTEND:20261104T110000Z
 SUMMARY:AR · Audição da ANMP – Associação Nacional Municípios Port
@@ -14,10 +14,12 @@ SUMMARY:AR · Audição da ANMP – Associação Nacional Municípios Port
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissão da Reforma do Estado e Poder Local · Reunião n.º 
  62 · Plenário · conjunta com Comissão de Orçamento\, Finanças e Adm
- inistração Pública\nPágina na AR: https://www.parlamento.pt/sites/com
- /XVIILeg/13CREPL/Paginas/default.aspx\nEmissões em direto (quando houver
- ): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/
- ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ inistração Pública\nSíntese: Pedro Pimpão\, Presidente do Conselho D
+ iretivo da ANMP e Presidente da Câmara Municipal de Pombal\nPágina na A
+ R: https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.as
+ px\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR
+  Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa
+ \; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.as
  px
 TRANSP:TRANSPARENT
