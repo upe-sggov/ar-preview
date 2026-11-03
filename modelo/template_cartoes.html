@@ -150,6 +150,7 @@ h2 .ic{color:var(--verde)} h2 small{font-weight:400;font-size:12.5px;color:var(-
 .vazio-msg{background:var(--branco);border:1px dashed var(--borda);border-radius:10px;padding:18px;text-align:center;color:var(--suave);font-style:italic}
 .aviso{background:var(--branco)8d6;border:1px solid #f0d77a;border-left:5px solid var(--amarelo);border-radius:8px;padding:10px 14px;margin:14px 0;font-size:13px;display:flex;gap:10px;align-items:flex-start}
 .aviso .ic{flex:none;color:#b38f00;width:18px;height:18px;margin-top:2px}
+.aviso.nota{background:var(--fundo2);border:1px solid var(--borda);border-left:3px solid #b9c1ca;color:var(--suave);font-size:12.5px} html[data-tema="escuro"] .aviso.nota{background:var(--fundo2);border-color:var(--borda);color:var(--suave)}
 .rodape-info{font-size:12px;color:var(--suave);margin-top:28px;border-top:1px solid var(--borda);padding-top:12px}
 .rodape-info h3{font-size:13px;color:var(--azul);margin:10px 0 4px}
 /* gaveta do varrimento */
@@ -542,7 +543,7 @@ body.capa-aberta{overflow:hidden}
   document.title = `${D.produto} · ${D.edicao.semana}`;
   $('#h-titulo').innerHTML = `${esc(D.produto)}<small>${esc(D.tagline||'')}</small>`;
   $('#h-semana').textContent = D.edicao.semana;
-  if (D.edicao.aviso) { const a=document.createElement('div'); a.className='aviso'; a.id='aviso-edicao'; a.innerHTML=`<svg class="ic"><use href="#i-alert"/></svg><div><strong>Edição ${esc(D.edicao.estado||'')}.</strong> ${esc(D.edicao.aviso)}</div>`; $('main').prepend(a); }
+  if (D.edicao.aviso) { const a=document.createElement('div'); a.className='aviso nota'; a.id='aviso-edicao'; a.innerHTML=`<div><strong>${esc(/^Classifica/.test(D.edicao.estado||'') ? D.edicao.estado : 'Classificação automática')}.</strong> ${esc(D.edicao.aviso)}</div>`; $('main').prepend(a); }
   $('#h-fecho').innerHTML = `<svg class="ic"><use href="#i-clock"/></svg> ${D.edicao.atualizadoLabel ? `Atualizado a ${esc(D.edicao.atualizadoLabel)}` : `Data de fecho: ${esc(D.edicao.fechoLabel)}`} · Atualização automática diária; a agenda do Parlamento pode sofrer alterações.`;
   $('#h-edicao').textContent = `Edição semanal n.º ${D.edicao.numero} · ${D.edicao.ano}${D.edicao.estado==='piloto'?' · piloto':''}`;
   $('#f-edicao').textContent = `${D.produto} · ${D.edicao.semana} · fecho a ${D.edicao.fechoLabel}`;

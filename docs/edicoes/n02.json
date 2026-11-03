@@ -13381,8 +13381,8 @@
   "atualizado": "2026-10-29T22:38+00:00",
   "atualizadoLabel": "29 de outubro, 22h38",
   "desdeLabel": "22 de outubro",
-  "estado": "com triagem automática",
-  "aviso": "33 matérias foram classificadas automaticamente (regras e Amália) e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas geradas pelo Amália não incluem a verificação de números."
+  "estado": "Classificação automática",
+  "aviso": "A prioridade de cada matéria foi atribuída automaticamente. As fichas de varrimento reúnem notícias do Radar de Notícias, selecionadas automaticamente, sem análise nem verificação de números."
  },
  "fichas": {
   "2026-10-27-plen-rio-debate-na-generalidade-do-or-a": {

@@ -9,7 +9,7 @@
   "fecho": "2026-10-19",
   "fechoLabel": "19 de outubro de 2026",
   "estado": "piloto",
-  "aviso": "Edição piloto (19 a 25 de outubro de 2026), elaborada pela Unidade de Pesquisa e Estatísticas antes da automatização. A agenda e a triagem são as originais; o varrimento mediático foi refeito automaticamente a partir do Radar de Notícias, como nas edições seguintes."
+  "aviso": "A prioridade de cada matéria foi atribuída automaticamente. As fichas de varrimento reúnem notícias do Radar de Notícias, selecionadas automaticamente, sem análise nem verificação de números."
  },
  "unidades": {
   "DACDP": "Divisão de Apoio à Coordenação e Decisão Política",

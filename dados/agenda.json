@@ -12668,8 +12668,8 @@
   ],
   "atualizado": "2026-11-03T07:01+00:00",
   "atualizadoLabel": "3 de novembro, 07h01",
-  "estado": "com triagem automática",
-  "aviso": "A prioridade das 11 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
+  "estado": "Classificação automática",
+  "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "30 de outubro"
  },
  "fichas": {
