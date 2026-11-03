@@ -47,9 +47,9 @@
    "cobertura": {
     "n": 16,
     "n7": 0,
-    "n7ant": 3,
+    "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-22 18:39",
     "ultimas": [
@@ -204,19 +204,19 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 1160,
-    "n7": 181,
-    "n7ant": 77,
+    "n": 1159,
+    "n7": 133,
+    "n7ant": 120,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 15:32",
+    "ultima": "2026-11-02 19:47",
     "ultimas": [
      {
       "data": "2026-11-02",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "fonte": "Observador",
+      "titulo": "São Carlos adia reabertura para junho de 2028",
+      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      },
      {
       "data": "2026-11-02",
@@ -233,10 +233,10 @@
     ],
     "todas": [
      [
-      "2026-11-02 15:32",
-      "Jornal de Negócios",
-      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "2026-11-02 19:47",
+      "Observador",
+      "São Carlos adia reabertura para junho de 2028",
+      "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      ],
      [
       "2026-11-02 15:02",
@@ -251,6 +251,12 @@
       "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      ],
      [
+      "2026-11-02 14:13",
+      "Diário de Notícias da Madeira",
+      "Paulo Neves defende que Orçamento do Estado para 2027 “pensa na juventude”",
+      "https://www.dnoticias.pt/2026/11/2/511323-paulo-neves-defende-que-orcamento-do-estado-para-2027-pensa-na-juventude/"
+     ],
+     [
       "2026-11-02 14:09",
       "Diário de Notícias",
       "OE2027: Lufthansa irá arcar com eventuais remédios diretamente para entrar na TAP",
@@ -261,6 +267,12 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
+     ],
+     [
+      "2026-11-02 13:11",
+      "Renascença",
+      "OE2027: Expansão da linha Vermelha do Metro de Lisboa pronta para regressar ao TdC",
+      "https://rr.pt/noticia/pais/2026/11/02/oe2027-expansao-da-linha-vermelha-do-metro-de-lisboa-pronta-para-regressar-ao-tdc/491732/"
      ],
      [
       "2026-11-02 13:04",
@@ -291,6 +303,12 @@
       "Observador",
       "OE2027: Proteger o acesso aos medicamentos é garantir a sustentabilidade do SNS",
       "https://observador.pt/opiniao/oe2027-proteger-o-acesso-aos-medicamentos-e-garantir-a-sustentabilidade-do-sns/"
+     ],
+     [
+      "2026-11-02 09:47",
+      "Jornal de Negócios",
+      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
      ],
      [
       "2026-11-02 09:47",
@@ -2613,24 +2631,6 @@
       "Notícias ao Minuto",
       "Professores exigem mais investimento na Educação no OE2027",
       "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-09 19:11",
-      "Executive Digest",
-      "OE2027: REDE alerta que reforços na Cultura não resolvem precariedade nas artes",
-      "https://executivedigest.sapo.pt/oe2027-rede-alerta-que-reforcos-na-cultura-nao-resolvem-precariedade-nas-artes/"
-     ],
-     [
-      "2026-10-09 19:00",
-      "Jornal de Notícias",
-      "O aviso de Centeno sobre o OE2027 e outros temas em 60 segundos",
-      "https://www.jn.pt/jn-direto/artigo/o-aviso-de-centeno-sobre-o-oe2027-e-outros-temas-em-60-segundos/18135402"
-     ],
-     [
-      "2026-10-09 18:55",
-      "Jornal Económico",
-      "OE2027: Proposta não responde a principais desafios do setor automóvel, diz ACAP",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-proposta-nao-responde-a-principais-desafios-do-setor-automovel-diz-acap/"
      ]
     ]
    },
@@ -2672,19 +2672,19 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1160,
-    "n7": 181,
-    "n7ant": 77,
+    "n": 1159,
+    "n7": 133,
+    "n7ant": 120,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 15:32",
+    "ultima": "2026-11-02 19:47",
     "ultimas": [
      {
       "data": "2026-11-02",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "fonte": "Observador",
+      "titulo": "São Carlos adia reabertura para junho de 2028",
+      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      },
      {
       "data": "2026-11-02",
@@ -2701,10 +2701,10 @@
     ],
     "todas": [
      [
-      "2026-11-02 15:32",
-      "Jornal de Negócios",
-      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "2026-11-02 19:47",
+      "Observador",
+      "São Carlos adia reabertura para junho de 2028",
+      "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      ],
      [
       "2026-11-02 15:02",
@@ -2719,6 +2719,12 @@
       "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      ],
      [
+      "2026-11-02 14:13",
+      "Diário de Notícias da Madeira",
+      "Paulo Neves defende que Orçamento do Estado para 2027 “pensa na juventude”",
+      "https://www.dnoticias.pt/2026/11/2/511323-paulo-neves-defende-que-orcamento-do-estado-para-2027-pensa-na-juventude/"
+     ],
+     [
       "2026-11-02 14:09",
       "Diário de Notícias",
       "OE2027: Lufthansa irá arcar com eventuais remédios diretamente para entrar na TAP",
@@ -2729,6 +2735,12 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
+     ],
+     [
+      "2026-11-02 13:11",
+      "Renascença",
+      "OE2027: Expansão da linha Vermelha do Metro de Lisboa pronta para regressar ao TdC",
+      "https://rr.pt/noticia/pais/2026/11/02/oe2027-expansao-da-linha-vermelha-do-metro-de-lisboa-pronta-para-regressar-ao-tdc/491732/"
      ],
      [
       "2026-11-02 13:04",
@@ -2759,6 +2771,12 @@
       "Observador",
       "OE2027: Proteger o acesso aos medicamentos é garantir a sustentabilidade do SNS",
       "https://observador.pt/opiniao/oe2027-proteger-o-acesso-aos-medicamentos-e-garantir-a-sustentabilidade-do-sns/"
+     ],
+     [
+      "2026-11-02 09:47",
+      "Jornal de Negócios",
+      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
      ],
      [
       "2026-11-02 09:47",
@@ -5081,24 +5099,6 @@
       "Notícias ao Minuto",
       "Professores exigem mais investimento na Educação no OE2027",
       "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-09 19:11",
-      "Executive Digest",
-      "OE2027: REDE alerta que reforços na Cultura não resolvem precariedade nas artes",
-      "https://executivedigest.sapo.pt/oe2027-rede-alerta-que-reforcos-na-cultura-nao-resolvem-precariedade-nas-artes/"
-     ],
-     [
-      "2026-10-09 19:00",
-      "Jornal de Notícias",
-      "O aviso de Centeno sobre o OE2027 e outros temas em 60 segundos",
-      "https://www.jn.pt/jn-direto/artigo/o-aviso-de-centeno-sobre-o-oe2027-e-outros-temas-em-60-segundos/18135402"
-     ],
-     [
-      "2026-10-09 18:55",
-      "Jornal Económico",
-      "OE2027: Proposta não responde a principais desafios do setor automóvel, diz ACAP",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-proposta-nao-responde-a-principais-desafios-do-setor-automovel-diz-acap/"
      ]
     ]
    },
@@ -5140,19 +5140,19 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1160,
-    "n7": 181,
-    "n7ant": 77,
+    "n": 1159,
+    "n7": 133,
+    "n7ant": 120,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 15:32",
+    "ultima": "2026-11-02 19:47",
     "ultimas": [
      {
       "data": "2026-11-02",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "fonte": "Observador",
+      "titulo": "São Carlos adia reabertura para junho de 2028",
+      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      },
      {
       "data": "2026-11-02",
@@ -5169,10 +5169,10 @@
     ],
     "todas": [
      [
-      "2026-11-02 15:32",
-      "Jornal de Negócios",
-      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "2026-11-02 19:47",
+      "Observador",
+      "São Carlos adia reabertura para junho de 2028",
+      "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      ],
      [
       "2026-11-02 15:02",
@@ -5187,6 +5187,12 @@
       "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      ],
      [
+      "2026-11-02 14:13",
+      "Diário de Notícias da Madeira",
+      "Paulo Neves defende que Orçamento do Estado para 2027 “pensa na juventude”",
+      "https://www.dnoticias.pt/2026/11/2/511323-paulo-neves-defende-que-orcamento-do-estado-para-2027-pensa-na-juventude/"
+     ],
+     [
       "2026-11-02 14:09",
       "Diário de Notícias",
       "OE2027: Lufthansa irá arcar com eventuais remédios diretamente para entrar na TAP",
@@ -5197,6 +5203,12 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
+     ],
+     [
+      "2026-11-02 13:11",
+      "Renascença",
+      "OE2027: Expansão da linha Vermelha do Metro de Lisboa pronta para regressar ao TdC",
+      "https://rr.pt/noticia/pais/2026/11/02/oe2027-expansao-da-linha-vermelha-do-metro-de-lisboa-pronta-para-regressar-ao-tdc/491732/"
      ],
      [
       "2026-11-02 13:04",
@@ -5227,6 +5239,12 @@
       "Observador",
       "OE2027: Proteger o acesso aos medicamentos é garantir a sustentabilidade do SNS",
       "https://observador.pt/opiniao/oe2027-proteger-o-acesso-aos-medicamentos-e-garantir-a-sustentabilidade-do-sns/"
+     ],
+     [
+      "2026-11-02 09:47",
+      "Jornal de Negócios",
+      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
      ],
      [
       "2026-11-02 09:47",
@@ -7549,24 +7567,6 @@
       "Notícias ao Minuto",
       "Professores exigem mais investimento na Educação no OE2027",
       "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-09 19:11",
-      "Executive Digest",
-      "OE2027: REDE alerta que reforços na Cultura não resolvem precariedade nas artes",
-      "https://executivedigest.sapo.pt/oe2027-rede-alerta-que-reforcos-na-cultura-nao-resolvem-precariedade-nas-artes/"
-     ],
-     [
-      "2026-10-09 19:00",
-      "Jornal de Notícias",
-      "O aviso de Centeno sobre o OE2027 e outros temas em 60 segundos",
-      "https://www.jn.pt/jn-direto/artigo/o-aviso-de-centeno-sobre-o-oe2027-e-outros-temas-em-60-segundos/18135402"
-     ],
-     [
-      "2026-10-09 18:55",
-      "Jornal Económico",
-      "OE2027: Proposta não responde a principais desafios do setor automóvel, diz ACAP",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-proposta-nao-responde-a-principais-desafios-do-setor-automovel-diz-acap/"
      ]
     ]
    },
@@ -7608,19 +7608,19 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1160,
-    "n7": 181,
-    "n7ant": 77,
+    "n": 1159,
+    "n7": 133,
+    "n7ant": 120,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 15:32",
+    "ultima": "2026-11-02 19:47",
     "ultimas": [
      {
       "data": "2026-11-02",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "fonte": "Observador",
+      "titulo": "São Carlos adia reabertura para junho de 2028",
+      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      },
      {
       "data": "2026-11-02",
@@ -7637,10 +7637,10 @@
     ],
     "todas": [
      [
-      "2026-11-02 15:32",
-      "Jornal de Negócios",
-      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "2026-11-02 19:47",
+      "Observador",
+      "São Carlos adia reabertura para junho de 2028",
+      "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      ],
      [
       "2026-11-02 15:02",
@@ -7655,6 +7655,12 @@
       "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      ],
      [
+      "2026-11-02 14:13",
+      "Diário de Notícias da Madeira",
+      "Paulo Neves defende que Orçamento do Estado para 2027 “pensa na juventude”",
+      "https://www.dnoticias.pt/2026/11/2/511323-paulo-neves-defende-que-orcamento-do-estado-para-2027-pensa-na-juventude/"
+     ],
+     [
       "2026-11-02 14:09",
       "Diário de Notícias",
       "OE2027: Lufthansa irá arcar com eventuais remédios diretamente para entrar na TAP",
@@ -7665,6 +7671,12 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
+     ],
+     [
+      "2026-11-02 13:11",
+      "Renascença",
+      "OE2027: Expansão da linha Vermelha do Metro de Lisboa pronta para regressar ao TdC",
+      "https://rr.pt/noticia/pais/2026/11/02/oe2027-expansao-da-linha-vermelha-do-metro-de-lisboa-pronta-para-regressar-ao-tdc/491732/"
      ],
      [
       "2026-11-02 13:04",
@@ -7695,6 +7707,12 @@
       "Observador",
       "OE2027: Proteger o acesso aos medicamentos é garantir a sustentabilidade do SNS",
       "https://observador.pt/opiniao/oe2027-proteger-o-acesso-aos-medicamentos-e-garantir-a-sustentabilidade-do-sns/"
+     ],
+     [
+      "2026-11-02 09:47",
+      "Jornal de Negócios",
+      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
      ],
      [
       "2026-11-02 09:47",
@@ -10017,24 +10035,6 @@
       "Notícias ao Minuto",
       "Professores exigem mais investimento na Educação no OE2027",
       "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-09 19:11",
-      "Executive Digest",
-      "OE2027: REDE alerta que reforços na Cultura não resolvem precariedade nas artes",
-      "https://executivedigest.sapo.pt/oe2027-rede-alerta-que-reforcos-na-cultura-nao-resolvem-precariedade-nas-artes/"
-     ],
-     [
-      "2026-10-09 19:00",
-      "Jornal de Notícias",
-      "O aviso de Centeno sobre o OE2027 e outros temas em 60 segundos",
-      "https://www.jn.pt/jn-direto/artigo/o-aviso-de-centeno-sobre-o-oe2027-e-outros-temas-em-60-segundos/18135402"
-     ],
-     [
-      "2026-10-09 18:55",
-      "Jornal Económico",
-      "OE2027: Proposta não responde a principais desafios do setor automóvel, diz ACAP",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-proposta-nao-responde-a-principais-desafios-do-setor-automovel-diz-acap/"
      ]
     ]
    },
@@ -10076,19 +10076,19 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1160,
-    "n7": 181,
-    "n7ant": 77,
+    "n": 1159,
+    "n7": 133,
+    "n7ant": 120,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-02 15:32",
+    "ultima": "2026-11-02 19:47",
     "ultimas": [
      {
       "data": "2026-11-02",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "fonte": "Observador",
+      "titulo": "São Carlos adia reabertura para junho de 2028",
+      "url": "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      },
      {
       "data": "2026-11-02",
@@ -10105,10 +10105,10 @@
     ],
     "todas": [
      [
-      "2026-11-02 15:32",
-      "Jornal de Negócios",
-      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
-      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
+      "2026-11-02 19:47",
+      "Observador",
+      "São Carlos adia reabertura para junho de 2028",
+      "https://observador.pt/2026/11/02/reabertura-do-teatro-nacional-de-sao-carlos-adiada-tres-meses-para-junho-de-2028-por-percalcos-nas-obras/"
      ],
      [
       "2026-11-02 15:02",
@@ -10123,6 +10123,12 @@
       "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html"
      ],
      [
+      "2026-11-02 14:13",
+      "Diário de Notícias da Madeira",
+      "Paulo Neves defende que Orçamento do Estado para 2027 “pensa na juventude”",
+      "https://www.dnoticias.pt/2026/11/2/511323-paulo-neves-defende-que-orcamento-do-estado-para-2027-pensa-na-juventude/"
+     ],
+     [
       "2026-11-02 14:09",
       "Diário de Notícias",
       "OE2027: Lufthansa irá arcar com eventuais remédios diretamente para entrar na TAP",
@@ -10133,6 +10139,12 @@
       "Executive Digest",
       "OE2027: Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
       "https://executivedigest.sapo.pt/oe2027-governo-admite-conciliar-linha-circular-do-metro-de-lisboa-com-linha-em-laco/"
+     ],
+     [
+      "2026-11-02 13:11",
+      "Renascença",
+      "OE2027: Expansão da linha Vermelha do Metro de Lisboa pronta para regressar ao TdC",
+      "https://rr.pt/noticia/pais/2026/11/02/oe2027-expansao-da-linha-vermelha-do-metro-de-lisboa-pronta-para-regressar-ao-tdc/491732/"
      ],
      [
       "2026-11-02 13:04",
@@ -10163,6 +10175,12 @@
       "Observador",
       "OE2027: Proteger o acesso aos medicamentos é garantir a sustentabilidade do SNS",
       "https://observador.pt/opiniao/oe2027-proteger-o-acesso-aos-medicamentos-e-garantir-a-sustentabilidade-do-sns/"
+     ],
+     [
+      "2026-11-02 09:47",
+      "Jornal de Negócios",
+      "Linha circular do Metro abre até março, mas Governo vai estudar solução de “laço”",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/ministro-da-habitacao-no-parlamento-depois-de-fim-de-semana-tenso-siga-ao-minuto"
      ],
      [
       "2026-11-02 09:47",
@@ -12485,24 +12503,6 @@
       "Notícias ao Minuto",
       "Professores exigem mais investimento na Educação no OE2027",
       "https://www.noticiasaominuto.com/pais/3064462/professores-exigem-mais-investimento-na-educacao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-09 19:11",
-      "Executive Digest",
-      "OE2027: REDE alerta que reforços na Cultura não resolvem precariedade nas artes",
-      "https://executivedigest.sapo.pt/oe2027-rede-alerta-que-reforcos-na-cultura-nao-resolvem-precariedade-nas-artes/"
-     ],
-     [
-      "2026-10-09 19:00",
-      "Jornal de Notícias",
-      "O aviso de Centeno sobre o OE2027 e outros temas em 60 segundos",
-      "https://www.jn.pt/jn-direto/artigo/o-aviso-de-centeno-sobre-o-oe2027-e-outros-temas-em-60-segundos/18135402"
-     ],
-     [
-      "2026-10-09 18:55",
-      "Jornal Económico",
-      "OE2027: Proposta não responde a principais desafios do setor automóvel, diz ACAP",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-proposta-nao-responde-a-principais-desafios-do-setor-automovel-diz-acap/"
      ]
     ]
    },
@@ -12539,7 +12539,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12573,7 +12573,7 @@
     "n7": 0,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -12631,134 +12631,7 @@
    }
   }
  ],
- "calendarizacao": [
-  {
-   "data": "2026-10-01",
-   "diaSemana": "Quinta-feira",
-   "atividade": "Jornadas Parlamentares do PCP",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-02",
-   "diaSemana": "Sexta-feira",
-   "atividade": "Jornadas Parlamentares do PCP",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-05",
-   "diaSemana": "Segunda-feira",
-   "atividade": "Feriado",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-06",
-   "diaSemana": "Terça-feira",
-   "atividade": "Comissões",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-07",
-   "diaSemana": "Quarta-feira",
-   "atividade": "Conferência de Líderes Reunião Plenária",
-   "horas": "10h30 · 15h00"
-  },
-  {
-   "data": "2026-10-08",
-   "diaSemana": "Quinta-feira",
-   "atividade": "Reunião Plenária",
-   "horas": "14h30"
-  },
-  {
-   "data": "2026-10-09",
-   "diaSemana": "Sexta-feira",
-   "atividade": "Reunião Plenária",
-   "horas": "10h00"
-  },
-  {
-   "data": "2026-10-12",
-   "diaSemana": "Segunda-feira",
-   "atividade": "Contacto com o Eleitorado",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-13",
-   "diaSemana": "Terça-feira",
-   "atividade": "Comissões",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-14",
-   "diaSemana": "Quarta-feira",
-   "atividade": "Reunião Plenária",
-   "horas": "15h00"
-  },
-  {
-   "data": "2026-10-15",
-   "diaSemana": "Quinta-feira",
-   "atividade": "Reunião Plenária",
-   "horas": "15h00"
-  },
-  {
-   "data": "2026-10-16",
-   "diaSemana": "Sexta-feira",
-   "atividade": "Reunião Plenária",
-   "horas": "10h00"
-  },
-  {
-   "data": "2026-10-19",
-   "diaSemana": "Segunda-feira",
-   "atividade": "Contacto com o Eleitorado",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-20",
-   "diaSemana": "Terça-feira",
-   "atividade": "Comissões",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-21",
-   "diaSemana": "Quarta-feira",
-   "atividade": "Reunião Plenária",
-   "horas": "15h00"
-  },
-  {
-   "data": "2026-10-23",
-   "diaSemana": "Sexta-feira",
-   "atividade": "OE 2027",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-26",
-   "diaSemana": "Segunda-feira",
-   "atividade": "OE 2027",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-27",
-   "diaSemana": "Terça-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
-   "horas": "15h00"
-  },
-  {
-   "data": "2026-10-28",
-   "diaSemana": "Quarta-feira",
-   "atividade": "Reunião Plenária (OE 2027)",
-   "horas": "10h00 · 15h00"
-  },
-  {
-   "data": "2026-10-29",
-   "diaSemana": "Quinta-feira",
-   "atividade": "OE 2027",
-   "horas": ""
-  },
-  {
-   "data": "2026-10-30",
-   "diaSemana": "Sexta-feira",
-   "atividade": "OE 2027",
-   "horas": ""
-  }
- ],
+ "calendarizacao": [],
  "edicao": {
   "numero": 3,
   "ano": 2026,
@@ -12793,8 +12666,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-02T18:05+00:00",
-  "atualizadoLabel": "2 de novembro, 18h05",
+  "atualizado": "2026-11-03T00:52+00:00",
+  "atualizadoLabel": "3 de novembro, 00h52",
   "estado": "com triagem automática",
   "aviso": "A prioridade das 10 matérias Imediato e Vigilância foram atribuídas automaticamente e ainda não foram revistas pela Unidade de Pesquisa e Estatísticas. As fichas de varrimento são seleções automáticas de notícias do Radar, sem análise nem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12979,7 +12852,7 @@
     "ultima": "2026-11-02 00:06",
     "em": "2026-11-02"
    },
-   "novas": 12,
+   "novas": 14,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento e a realização de debates na generalidade. O Governo tem defendido a viabilização do orçamento, enquanto a oposição expressa preocupações e exige alterações na especialidade. Alguns partidos, como o PCP, anunciaram o voto contra, enquanto outros, como o PS, admitem mudar a sua posição se o orçamento incluir medidas consideradas 'surpresa' graves. Entretanto, o Governo destaca a redução da dívida pública e a estimativa de arrecadação adicional com impostos sobre tabaco e álcool."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
@@ -13121,8 +12994,8 @@
     "ultima": "2026-11-01 17:27",
     "em": "2026-11-01"
    },
-   "novas": 14,
-   "enquadramento": "Das 1160 notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias (181 na última semana), estas são 20, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. A lista completa está no AR Preview. Sem análise: a síntese e a natureza de cada notícia chegam quando o Amália correr."
+   "novas": 16,
+   "enquadramento": "Das 1159 notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias (133 na última semana), estas são 20, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. A lista completa está no AR Preview. Sem análise: a síntese e a natureza de cada notícia chegam quando o Amália correr."
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
    "titulo": "Ministro da Presidência, António Leitão Amaro: Orçamento do Estado 2027",
@@ -13571,7 +13444,7 @@
     "ultima": "2026-11-02 14:38",
     "em": "2026-11-02"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "O Ministro das Infraestruturas e Habitação, Miguel Pinto Luz, foi nomeado para presidir ao Instituto da Mobilidade e Transportes, e tem estado envolvido em discussões sobre a lei das rendas e a habitação. A sua equipa tem estado a lidar com a crise da habitação e a gerir projetos de infraestruturas como o novo aeroporto e o TGV."
   },
   "2026-11-02-48571-ministra-da-cultura-juventude-e-desporto-ma": {
@@ -14097,7 +13970,7 @@
     "ultima": "2026-11-02 15:32",
     "em": "2026-11-02"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 tem-se centrado em debates parlamentares, anúncios de medidas e críticas de partidos políticos. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo estima arrecadar mais com impostos sobre tabaco e álcool. O PCP anunciou um voto contra, e o PSD e o PS expressaram posições sobre a viabilização. O debate na generalidade revelou tensões sobre a habitação e a dívida pública. O Governo rejeitou o desmantelamento da CP, reforçando o seu papel estratégico."
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
@@ -14279,7 +14152,7 @@
     "ultima": "2026-11-01 08:02",
     "em": "2026-11-02"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura noticiosa revela um período de intensa atividade da Ministra do Ambiente e Energia, Maria da Graça Carvalho, em torno de temas como a reestruturação de entidades ambientais, a gestão de resíduos e combustíveis, a prevenção de catástrofes naturais, a política de apoio à mobilidade elétrica e a gestão de recursos hídricos. As notícias abrangem desde anúncios de medidas concretas, como a requalificação de infraestruturas e a abertura de leilões de capacidade energética, até a discussão de posições políticas, como a defesa de regras claras para o mercado de combustíveis e a apologia à poupança energética. A cobertura inclui também declarações sobre a gestão de crises, como a subida dos preços dos combustíveis, e a resposta a críticas políticas, como as da IL e do PSD, demonstrando um envolvimento ativo da ministra em temas relevantes para a política ambiental e energética."
   },
   "2026-11-04-48568-ministra-da-justi-a-rita-alarc-o-j-dice-or": {
@@ -14547,7 +14420,7 @@
     "ultima": "2026-11-02 15:32",
     "em": "2026-11-02"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta de lei e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PSD e o CDS expressaram preocupações sobre a viabilização do orçamento. Entretanto, o Governo tem defendido a necessidade de compromissos e a estabilidade política, justificando a viabilização do orçamento face a crises internas e internacionais. A cobertura inclui também notícias sobre financiamento de projetos específicos, como o Hospital Eduardo Santos Silva, e sobre a dívida pública, com o ministro das Finanças a afirmar que esta se manterá abaixo dos 85% do PIB em 2027."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -14585,14 +14458,6 @@
      "naturezaLabel": "Crítica"
     },
     {
-     "data": "2026-10-06",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
-     "sintese": "PS admite mudar viabilização do OE2027 se este tiver “medidas surpresa” gravosas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
@@ -14612,23 +14477,23 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD espera “tranquilidade” e “previsibilidade” com o OE2027, mas PS avisa que “compromissos são para cumprir”.",
+     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-09",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
-     "sintese": "Professores pedem mais investimento na Educação e valorização da carreira.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
+     "sintese": "Num debate que se esperava sobre o OE2027, habitação e Centeno roubaram o palco.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-10",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que “convicções mais profundas” levariam a voto contra.",
+     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que 'convicções mais profundas' levariam a voto contra.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14637,14 +14502,14 @@
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
      "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-13",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
-     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa principal preocupação, diz Miranda Sarmento.",
+     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa preocupação, diz Miranda Sarmento.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14652,7 +14517,7 @@
      "data": "2026-10-23",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
-     "sintese": "José Luís Carneiro justifica viabilização do “mau” OE2027 com crises em Portugal e no estrangeiro.",
+     "sintese": "José Luís Carneiro justifica viabilização do 'mau' OE2027 com crises em Portugal e no estrangeiro.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14660,17 +14525,17 @@
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
-     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027.",
+     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027 — Realizou-se o debate, na generalidade, da proposta de Orçamento do Estado para o próximo ano. A vaga de protestos pela habitação marcou o confronto parlamentar.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-28",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/edicao-diaria/oe2027-oposio-foi-avisada-de-que-a-estrada-estreita-mas-quer-mudanas-na-especialidade",
-     "sintese": "Oposição foi avisada de que a estrada é estreita, mas quer mudanças na especialidade.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-28",
@@ -14684,7 +14549,7 @@
      "data": "2026-10-29",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Decisão da Galp “é soberana” e Governo cumpriu o seu papel.",
+     "sintese": "OE2027: Decisão da Galp 'é soberana' e Governo cumpriu o seu papel.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -14700,15 +14565,7 @@
      "data": "2026-10-31",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
-     "sintese": "Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-01",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/oe2027-pcp-acores-vai-avancar-com-propostas-na-justica-e-lajes-381667",
-     "sintese": "PCP/Açores vai avançar com propostas na Justiça e Lajes.",
+     "sintese": "OE2027. Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14719,18 +14576,34 @@
      "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-02",
+     "fonte": "JM Madeira",
+     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008417/paulo-neves-o-orcamento-do-estado-para-2027-apoia-e-valoriza-a-juventude.html",
+     "sintese": "Paulo Neves: 'O Orçamento do Estado para 2027 apoia e valoriza a juventude'.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-02",
+     "fonte": "Diário de Notícias",
+     "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
+     "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1149
+    "encontradas": 1159
    },
    "base": {
-    "ultima": "2026-11-02 00:06",
-    "em": "2026-11-02"
+    "ultima": "2026-11-02 19:47",
+    "em": "2026-11-03"
    },
-   "novas": 12,
-   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento e a preparação para o debate na especialidade. Várias forças políticas expressaram as suas posições, desde a previsão de viabilização por parte do Governo até a antecipação de votos contra por parte da oposição. A oposição tem manifestado preocupações sobre a especialidade, enquanto o Governo tem defendido a estabilidade e a previsibilidade. A cobertura inclui também informações sobre medidas específicas, como o aumento da arrecadação de impostos sobre tabaco e álcool, e a preocupação com a dívida pública."
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a realização de debates parlamentares. A oposição, nomeadamente o PCP, anunciou o seu voto contra, enquanto o Governo procura a viabilização através de compromissos e a gestão de crises internacionais. O PSD e o CDS expressaram preocupações sobre a estabilidade do Orçamento, enquanto o Governo enfatiza a redução da dívida pública e a importância da previsibilidade económica. A cobertura inclui também temas relacionados, como a habitação, a Carteira Digital de Empresa e a valorização da juventude, embora não diretamente relacionados com a discussão do Orçamento."
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
    "titulo": "Ministro da Agricultura e Mar, José Manuel Fernandes: Orçamento do Estado 2027",
@@ -14857,9 +14730,9 @@
    "cobertura": {
     "n": 33,
     "n7": 3,
-    "n7ant": 10,
+    "n7ant": 8,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-29 22:15",
     "ultimas": [
@@ -15149,7 +15022,7 @@
     "n7": 3,
     "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-30 07:52",
     "ultimas": [
@@ -15619,14 +15492,20 @@
     }
    ],
    "cobertura": {
-    "n": 74,
-    "n7": 12,
-    "n7ant": 28,
+    "n": 76,
+    "n7": 13,
+    "n7ant": 24,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-11-02 14:38",
+    "ultima": "2026-11-02 22:17",
     "ultimas": [
+     {
+      "data": "2026-11-02",
+      "fonte": "RTP Notícias",
+      "titulo": "Miguel Pinto Luz disponível para negociar com o Chega",
+      "url": "https://www.rtp.pt/noticias/politica/miguel-pinto-luz-disponivel-para-negociar-com-o-chega_v1776462"
+     },
      {
       "data": "2026-11-02",
       "fonte": "RTP Notícias",
@@ -15638,15 +15517,15 @@
       "fonte": "Observador",
       "titulo": "Lei de rendas. Pinto Luz chama Livre para \"negociação séria\"",
       "url": "https://observador.pt/2026/11/02/governo-diz-que-nao-ve-razoes-para-chega-chumbar-lei-das-rendas-mas-convida-livre-a-negociar-de-forma-seria/"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Pinto Luz rejeita \"fundos abutres\" na habitação: \"Mas pasme-se\"",
-      "url": "https://www.noticiasaominuto.com/politica/3077035/oe2027-ministro-da-habitacao-rejeita-existencia-de-fundos-abutres-no-imobiliario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-02 22:17",
+      "RTP Notícias",
+      "Miguel Pinto Luz disponível para negociar com o Chega",
+      "https://www.rtp.pt/noticias/politica/miguel-pinto-luz-disponivel-para-negociar-com-o-chega_v1776462"
+     ],
      [
       "2026-11-02 14:38",
       "RTP Notícias",
@@ -15682,6 +15561,12 @@
       "RTP Notícias",
       "Governo legisla para quem se manifesta e para \"maioria silenciosa\" que está em casa",
       "https://www.rtp.pt/noticias/economia/governo-legisla-para-quem-se-manifesta-e-para-maioria-silenciosa-que-esta-em-casa_n1776284"
+     ],
+     [
+      "2026-11-02 11:00",
+      "Público",
+      "Pinto Luz: “Não estamos só a legislar para os que estão na rua” | Habitação",
+      "https://www.publico.pt/2026/11/02/economia/noticia/pinto-luz-nao-so-legislar-estao-rua-2193418"
      ],
      [
       "2026-10-28 13:51",
@@ -16155,7 +16040,7 @@
     "n7": 0,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-21 21:14",
     "ultimas": [
@@ -16239,7 +16124,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16285,7 +16170,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-16 19:53",
     "ultimas": [
@@ -16425,14 +16310,20 @@
     }
    ],
    "cobertura": {
-    "n": 38,
-    "n7": 3,
-    "n7ant": 2,
+    "n": 39,
+    "n7": 4,
+    "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-01 08:02",
+    "ultima": "2026-11-02 16:06",
     "ultimas": [
+     {
+      "data": "2026-11-02",
+      "fonte": "RTP Notícias",
+      "titulo": "Governo tem meios legais para travar perda de soberania sobre refinaria de Sines diz ministra do Ambiente e Energia",
+      "url": "https://www.rtp.pt/noticias/economia/governo-tem-meios-legais-para-travar-perda-de-soberania-sobre-refinaria-de-sines-diz-ministra-do-ambiente-e-energia_n1776364"
+     },
      {
       "data": "2026-11-01",
       "fonte": "Observador",
@@ -16444,15 +16335,15 @@
       "fonte": "ECO",
       "titulo": "Novo apoio à compra de elétricos abrange mais de 1,5 milhões de pessoas",
       "url": "https://eco.sapo.pt/2026/10/30/novo-apoio-a-compra-de-eletricos-abrange-mais-de-15-milhoes-de-pessoas/"
-     },
-     {
-      "data": "2026-10-28",
-      "fonte": "ECO",
-      "titulo": "Dos preços aos carregamentos. O que já se sabe sobre novo apoio à compra de carros elétricos",
-      "url": "https://eco.sapo.pt/2026/10/28/dos-precos-aos-carregamentos-o-que-ja-se-sabe-sobre-novo-apoio-a-compra-de-carros-eletricos/"
      }
     ],
     "todas": [
+     [
+      "2026-11-02 16:06",
+      "RTP Notícias",
+      "Governo tem meios legais para travar perda de soberania sobre refinaria de Sines diz ministra do Ambiente e Energia",
+      "https://www.rtp.pt/noticias/economia/governo-tem-meios-legais-para-travar-perda-de-soberania-sobre-refinaria-de-sines-diz-ministra-do-ambiente-e-energia_n1776364"
+     ],
      [
       "2026-11-01 08:02",
       "Observador",
@@ -16749,7 +16640,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16795,7 +16686,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16838,7 +16729,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16883,7 +16774,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16928,7 +16819,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16983,7 +16874,7 @@
     "n7": 0,
     "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-26 16:23",
     "ultimas": [
@@ -17136,14 +17027,20 @@
    "novo": "2026-11-02",
    "tituloRegras": true,
    "cobertura": {
-    "n": 11,
-    "n7": 3,
+    "n": 12,
+    "n7": 4,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-10-30 16:48",
+    "ultima": "2026-11-02 18:47",
     "ultimas": [
+     {
+      "data": "2026-11-02",
+      "fonte": "JM Madeira",
+      "titulo": "Protesto das Juntas de Freguesia aguarda decisão da ANAFRE",
+      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008452/protesto-das-juntas-de-freguesia-aguarda-decisao-da-anafre.html"
+     },
      {
       "data": "2026-10-30",
       "fonte": "JM Madeira",
@@ -17155,15 +17052,15 @@
       "fonte": "Diário de Notícias da Madeira",
       "titulo": "Freguesias do Funchal solidárias com protesto nacional da Associação Nacional de Freguesias",
       "url": "https://www.dnoticias.pt/2026/10/30/511027-freguesias-do-funchal-solidarias-com-protesto-nacional-da-associacao-nacional-de-freguesias/"
-     },
-     {
-      "data": "2026-10-30",
-      "fonte": "JM Madeira",
-      "titulo": "Freguesias do Funchal aderem a protesto nacional da ANAFRE",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008252/freguesias-do-funchal-aderem-a-protesto-nacional-da-anafre.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-02 18:47",
+      "JM Madeira",
+      "Protesto das Juntas de Freguesia aguarda decisão da ANAFRE",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008452/protesto-das-juntas-de-freguesia-aguarda-decisao-da-anafre.html"
+     ],
      [
       "2026-10-30 16:48",
       "JM Madeira",
@@ -17271,7 +17168,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -17317,7 +17214,7 @@
     "n7": 0,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-23 07:02",
     "ultimas": [
@@ -17444,7 +17341,7 @@
     "n7": 0,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
     "ultima": "2026-10-23 21:16",
     "ultimas": [
@@ -17645,10 +17542,10 @@
    ],
    "cobertura": {
     "n": 63,
-    "n7": 2,
+    "n7": 1,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-30 13:43",
     "ultimas": [
@@ -18111,9 +18008,9 @@
    "cobertura": {
     "n": 1,
     "n7": 0,
-    "n7ant": 1,
+    "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-20 01:00",
     "ultimas": [
@@ -18175,7 +18072,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -18237,14 +18134,20 @@
    ],
    "novo": "2026-10-30",
    "cobertura": {
-    "n": 35,
-    "n7": 1,
+    "n": 36,
+    "n7": 2,
     "n7ant": 6,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-10-29 11:16",
+    "ultima": "2026-11-02 16:52",
     "ultimas": [
+     {
+      "data": "2026-11-02",
+      "fonte": "ECO",
+      "titulo": "UTAO critica limites à informação e quer acesso a dados do INE e BdP para reforçar análise ao Orçamento",
+      "url": "https://eco.sapo.pt/2026/11/02/utao-critica-limites-a-informacao-e-quer-acesso-a-dados-do-ine-e-bdp-para-reforcar-analise-ao-orcamento/"
+     },
      {
       "data": "2026-10-29",
       "fonte": "ECO",
@@ -18256,15 +18159,15 @@
       "fonte": "SIC Notícias",
       "titulo": "Conselho das Finanças Públicas alerta para risco de cortes no IRS",
       "url": "https://sicnoticias.pt/programas/economia-expresso/2026-10-26-video-conselho-das-financas-publicas-alerta-para-risco-de-cortes-no-irs-b46112f6"
-     },
-     {
-      "data": "2026-10-26",
-      "fonte": "SIC Notícias",
-      "titulo": "Conselho das Finanças Públicas considera excedente plausível mas apela a gestão mais eficiente",
-      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-26-conselho-das-financas-publicas-considera-excedente-plausivel-mas-apela-a-gestao-mais-eficiente-100b2efc"
      }
     ],
     "todas": [
+     [
+      "2026-11-02 16:52",
+      "ECO",
+      "UTAO critica limites à informação e quer acesso a dados do INE e BdP para reforçar análise ao Orçamento",
+      "https://eco.sapo.pt/2026/11/02/utao-critica-limites-a-informacao-e-quer-acesso-a-dados-do-ine-e-bdp-para-reforcar-analise-ao-orcamento/"
+     ],
      [
       "2026-10-29 11:16",
       "ECO",
@@ -18517,7 +18420,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -18563,7 +18466,7 @@
     "n7": 3,
     "n7ant": 6,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-11-02 15:06",
     "ultimas": [
@@ -18848,7 +18751,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-15 16:31",
     "ultimas": [
@@ -18962,7 +18865,7 @@
     "n7": 1,
     "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-02",
+    "ref": "2026-11-03",
     "metodo": "palavras",
     "ultima": "2026-10-29 16:24",
     "ultimas": [
