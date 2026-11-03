@@ -1,14 +1,14 @@
 [
  {
   "numero": 3,
-  "estado": "com triagem automática",
+  "estado": "Classificação automática",
   "semana": "2 a 8 de novembro de 2026",
   "inicio": "2026-11-02",
   "ficheiro": "n03.html"
  },
  {
   "numero": 2,
-  "estado": "com triagem automática",
+  "estado": "Classificação automática",
   "semana": "26 de outubro a 1 de novembro de 2026",
   "inicio": "2026-10-26",
   "ficheiro": "n02.html"
