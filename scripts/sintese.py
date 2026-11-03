@@ -141,10 +141,25 @@ def vevento(x, pagina_url=''):
               f'URL:{pag or CANAL}', 'TRANSP:TRANSPARENT', 'END:VEVENT']
     return '\r\n'.join(_dobra(l) for l in linhas)
 
-def ics(itens, pagina_url='', nome='AR Preview'):
+def ics(itens, pagina_url='', nome='AR Preview', subscricao=False):
     cab = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//SGGov Suporte à Decisão//AR Preview//PT', 'CALSCALE:GREGORIAN', 'METHOD:PUBLISH', f'X-WR-CALNAME:{_esc(nome)}']
+    if subscricao:   # calendário subscrito: o Outlook volta a lê-lo de tempos a tempos
+        cab += ['X-WR-TIMEZONE:Europe/Lisbon', 'X-PUBLISHED-TTL:PT6H', 'REFRESH-INTERVAL;VALUE=DURATION:PT6H',
+                f"X-WR-CALDESC:{_esc('Matérias Imediato e Vigilância da agenda da Assembleia da República (AR Preview). Atualização automática.')}"]
     return '\r\n'.join(cab + [vevento(x, pagina_url) for x in itens] + ['END:VCALENDAR']) + '\r\n'
 
 def cal_nome(x):
     """Nome do ficheiro .ics da matéria (docs/cal/…), estável entre atualizações."""
     return f"{x.get('id_ar') or hashlib.md5((x['data'] + x['tema']).encode()).hexdigest()[:12]}.ics"
+
+def outlook_web(x, pagina_url=''):
+    """Ligação que abre a reunião já preenchida no Outlook na web (Microsoft 365): basta carregar em «Guardar»."""
+    from urllib.parse import urlencode
+    ini = _inicio(x); fim = ini + timedelta(hours=2)
+    gov, sin = membro_governo(x), sintese(x)
+    pag, _ = pagina_ar(x)
+    corpo = '\n'.join(t for t in [x.get('tipoLabel') or '', 'Governo: ' + gov if gov else '', sin,
+                                   'Página na AR: ' + pag if pag else '', 'AR Preview: ' + pagina_url if pagina_url else ''] if t)
+    q = {'path': '/calendar/action/compose', 'rru': 'addevent', 'subject': 'AR · ' + x['tema'],
+         'startdt': ini.isoformat(), 'enddt': fim.isoformat(), 'location': 'Assembleia da República', 'body': corpo[:900]}
+    return 'https://outlook.office.com/calendar/0/deeplink/compose?' + urlencode(q)

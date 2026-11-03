@@ -7,7 +7,7 @@ Logótipo servido pela própria página (docs/logo-sggov-email.png); HTML simple
 Uso: PAGINA_URL=https://… python scripts/email_resumo.py dados/agenda.json [assunto.txt] > email.html"""
 import json, sys, html, os
 sys.path.insert(0, os.path.dirname(__file__))
-from sintese import membro_governo, sintese, pagina_ar, cal_nome, CANAL
+from sintese import membro_governo, sintese, pagina_ar, cal_nome, outlook_web, CANAL
 d = json.loads(open(sys.argv[1], encoding='utf-8').read())
 url = os.environ.get('PAGINA_URL', '').strip()
 if url and not url.endswith('/'): url += '/'
@@ -52,7 +52,9 @@ def linha(x):
     if pag: extras.append(f'<a href="{e(pag)}" style="{L}">{rotulo}</a>')
     if x.get('varrimento') and url: extras.append(f'<a href="{e(url)}#{e(x["varrimento"])}" style="{L}">varrimento</a>')
     elif x.get('varrimento'): extras.append('com varrimento')
-    if url and x.get('data'): extras.append(f'<a href="{e(url)}cal/{e(cal_nome(x))}" style="{L}">adicionar ao calendário</a>')
+    if x.get('data'):   # um clique: abre a reunião já preenchida no Outlook (web); o .ics fica como alternativa
+        extras.append(f'<a href="{e(outlook_web(x, url))}" style="{L}">adicionar ao Outlook</a>'
+                      + (f' <a href="{e(url)}cal/{e(cal_nome(x))}" style="color:#8a9098;text-decoration:underline">(.ics)</a>' if url else ''))
     mais = f'<div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:5px">{" · ".join(extras)}</div>' if extras else ''
     return f'''    <tr><td style="padding:9px 24px;border-bottom:1px solid #f1f4f7">
       <table width="100%" cellpadding="0" cellspacing="0" role="presentation"><tr>
@@ -94,7 +96,7 @@ def botao(txt, href, cheio=False):
             f'</td></tr></table></td>')
 bts = []
 if url: bts.append(botao('Abrir o AR Preview', url, True))
-if url and todos: bts.append(botao('Todas no calendário', url + 'cal/semana.ics'))
+if url and todos: bts.append(botao('Subscrever no Outlook', 'webcal://' + url.split('://', 1)[1] + 'cal/ar-preview.ics'))
 bts.append(botao('Agenda parlamentar', AGENDA_AR))
 bts.append(botao('Canal Parlamento', CANAL))
 # duas linhas de dois botões: cabe na largura do email e no telemóvel
@@ -131,7 +133,8 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <div style="font:400 13px Arial,sans-serif;color:#5b6068;line-height:1.55;padding-bottom:12px">
       Calendário, cartões e fichas de varrimento estão na página do AR Preview, atualizada diariamente{f'; a versão em PDF está <a href="{e(url)}ar-preview.pdf" style="color:#2B5683;text-decoration:underline">aqui</a>' if url else ''}.</div>
     {botoes}
-    <div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5">«Adicionar ao calendário» descarrega o evento para o Outlook (hora de fim indicativa).
+    <div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5"><b>Subscrever no Outlook</b> acrescenta, uma só vez, o calendário «AR Preview» com as matérias Imediato e Vigilância, que passa a atualizar-se sozinho{f' (se o botão não abrir o Outlook: Calendário › Adicionar calendário › Da Internet › {e(url)}cal/ar-preview.ics)' if url else ''}.
+      <b>Adicionar ao Outlook</b> abre a reunião já preenchida no Outlook na web, para guardar; o <b>.ics</b> faz o mesmo no Outlook do computador. Hora de fim indicativa.
       As emissões em direto, quando as há, estão no Canal Parlamento. A agenda da Assembleia da República pode mudar depois desta edição.</div>
   </td></tr>
 
