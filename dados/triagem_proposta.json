@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-03T00:52",
+ "recolha": "2026-11-03T07:01",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -23,11 +23,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "presença de membro do Governo → Vigilância"
+    "presença de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
    ],
    "validado": false
   },
@@ -50,11 +50,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "presença de membro do Governo → Vigilância"
+    "presença de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
    ],
    "validado": false
   },
@@ -77,11 +77,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "presença de membro do Governo → Vigilância"
+    "presença de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
    ],
    "validado": false
   },
@@ -154,10 +154,10 @@
    "uo": [
     "DCIRI"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Vigilância",
    "criterio": [
     "«união europeia» (DCIRI)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "dossier acompanhado: Vistos (UPE-2026-001) → Vigilância"
    ],
    "validado": false
   },
@@ -184,7 +184,7 @@
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "presença de cliente habitual (Presidência) → Imediato"
+    "presença de cliente com pedidos à UPE (Ministro da Presidência) → Imediato"
    ],
    "validado": false
   },
@@ -211,7 +211,7 @@
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "presença de cliente habitual (Presidência) → Imediato"
+    "presença de cliente com pedidos à UPE (Ministro da Presidência) → Imediato"
    ],
    "validado": false
   },
@@ -264,7 +264,7 @@
     "«conselho de ministros» (DACDP)",
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "presença de cliente habitual (Presidência) → Imediato"
+    "presença de cliente com pedidos à UPE (Ministro da Presidência) → Imediato"
    ],
    "validado": false
   },
@@ -889,11 +889,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Imediato",
+   "pertinencia": "Vigilância",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "presença de cliente habitual (Finanças) → Imediato"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   }
