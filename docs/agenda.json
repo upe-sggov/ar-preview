@@ -204,34 +204,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 1169,
-    "n7": 144,
+    "n": 1172,
+    "n7": 148,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 13:39",
+    "ultima": "2026-11-03 14:51",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Dinheiro Vivo",
+      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     },
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
       "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
       "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
-      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Executive Digest",
-      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
-      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 14:51",
+      "Dinheiro Vivo",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:15",
+      "Jornal Económico",
+      "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     ],
      [
       "2026-11-03 13:39",
       "Jornal Económico",
@@ -251,10 +263,22 @@
       "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      ],
      [
+      "2026-11-03 12:01",
+      "Agroportal",
+      "OE2027: Água para sul do Tejo pode passar por ponte 25 de Abril – ministra do Ambiente",
+      "https://www.agroportal.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-ministra-do-ambiente/"
+     ],
+     [
       "2026-11-03 11:51",
       "Jornal Económico",
       "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
       "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:20",
+      "Jornal de Notícias",
+      "OE2027",
+      "https://www.jn.pt/topico/OE2027?page=3"
      ],
      [
       "2026-11-03 11:02",
@@ -2607,30 +2631,6 @@
       "Expresso",
       "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
       "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
-     ],
-     [
-      "2026-10-10 08:00",
-      "Expresso",
-      "Miguel Prata Roque sobre o OE2027: “Acho que é um orçamento de fim de linha”",
-      "https://expresso.pt/podcasts/linhas-vermelhas/2026-10-10-miguel-prata-roque-sobre-o-oe2027-acho-que-e-um-orcamento-de-fim-de-linha-17f9f914"
-     ],
-     [
-      "2026-10-10 06:24",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS analisa hoje a proposta do OE2027",
-      "https://www.noticiasaominuto.com/pais/3064643/comissao-nacional-do-ps-analisa-proposta-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 06:20",
-      "Correio da Manhã",
-      "OE2027: Comissão Nacional do PS analisa proposta do Governo",
-      "https://www.cmjornal.pt/politica/amp/oe2027-comissao-nacional-do-ps-analisa-proposta-do-governo"
-     ],
-     [
-      "2026-10-10 00:23",
-      "Observador",
-      "OE 2027: o que o dinheiro não resolve",
-      "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
      ]
     ]
    },
@@ -2672,34 +2672,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1169,
-    "n7": 144,
+    "n": 1172,
+    "n7": 148,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 13:39",
+    "ultima": "2026-11-03 14:51",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Dinheiro Vivo",
+      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     },
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
       "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
       "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
-      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Executive Digest",
-      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
-      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 14:51",
+      "Dinheiro Vivo",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:15",
+      "Jornal Económico",
+      "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     ],
      [
       "2026-11-03 13:39",
       "Jornal Económico",
@@ -2719,10 +2731,22 @@
       "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      ],
      [
+      "2026-11-03 12:01",
+      "Agroportal",
+      "OE2027: Água para sul do Tejo pode passar por ponte 25 de Abril – ministra do Ambiente",
+      "https://www.agroportal.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-ministra-do-ambiente/"
+     ],
+     [
       "2026-11-03 11:51",
       "Jornal Económico",
       "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
       "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:20",
+      "Jornal de Notícias",
+      "OE2027",
+      "https://www.jn.pt/topico/OE2027?page=3"
      ],
      [
       "2026-11-03 11:02",
@@ -5075,30 +5099,6 @@
       "Expresso",
       "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
       "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
-     ],
-     [
-      "2026-10-10 08:00",
-      "Expresso",
-      "Miguel Prata Roque sobre o OE2027: “Acho que é um orçamento de fim de linha”",
-      "https://expresso.pt/podcasts/linhas-vermelhas/2026-10-10-miguel-prata-roque-sobre-o-oe2027-acho-que-e-um-orcamento-de-fim-de-linha-17f9f914"
-     ],
-     [
-      "2026-10-10 06:24",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS analisa hoje a proposta do OE2027",
-      "https://www.noticiasaominuto.com/pais/3064643/comissao-nacional-do-ps-analisa-proposta-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 06:20",
-      "Correio da Manhã",
-      "OE2027: Comissão Nacional do PS analisa proposta do Governo",
-      "https://www.cmjornal.pt/politica/amp/oe2027-comissao-nacional-do-ps-analisa-proposta-do-governo"
-     ],
-     [
-      "2026-10-10 00:23",
-      "Observador",
-      "OE 2027: o que o dinheiro não resolve",
-      "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
      ]
     ]
    },
@@ -5140,34 +5140,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1169,
-    "n7": 144,
+    "n": 1172,
+    "n7": 148,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 13:39",
+    "ultima": "2026-11-03 14:51",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Dinheiro Vivo",
+      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     },
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
       "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
       "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
-      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Executive Digest",
-      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
-      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 14:51",
+      "Dinheiro Vivo",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:15",
+      "Jornal Económico",
+      "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     ],
      [
       "2026-11-03 13:39",
       "Jornal Económico",
@@ -5187,10 +5199,22 @@
       "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      ],
      [
+      "2026-11-03 12:01",
+      "Agroportal",
+      "OE2027: Água para sul do Tejo pode passar por ponte 25 de Abril – ministra do Ambiente",
+      "https://www.agroportal.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-ministra-do-ambiente/"
+     ],
+     [
       "2026-11-03 11:51",
       "Jornal Económico",
       "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
       "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:20",
+      "Jornal de Notícias",
+      "OE2027",
+      "https://www.jn.pt/topico/OE2027?page=3"
      ],
      [
       "2026-11-03 11:02",
@@ -7543,30 +7567,6 @@
       "Expresso",
       "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
       "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
-     ],
-     [
-      "2026-10-10 08:00",
-      "Expresso",
-      "Miguel Prata Roque sobre o OE2027: “Acho que é um orçamento de fim de linha”",
-      "https://expresso.pt/podcasts/linhas-vermelhas/2026-10-10-miguel-prata-roque-sobre-o-oe2027-acho-que-e-um-orcamento-de-fim-de-linha-17f9f914"
-     ],
-     [
-      "2026-10-10 06:24",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS analisa hoje a proposta do OE2027",
-      "https://www.noticiasaominuto.com/pais/3064643/comissao-nacional-do-ps-analisa-proposta-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 06:20",
-      "Correio da Manhã",
-      "OE2027: Comissão Nacional do PS analisa proposta do Governo",
-      "https://www.cmjornal.pt/politica/amp/oe2027-comissao-nacional-do-ps-analisa-proposta-do-governo"
-     ],
-     [
-      "2026-10-10 00:23",
-      "Observador",
-      "OE 2027: o que o dinheiro não resolve",
-      "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
      ]
     ]
    },
@@ -7608,34 +7608,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1169,
-    "n7": 144,
+    "n": 1172,
+    "n7": 148,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 13:39",
+    "ultima": "2026-11-03 14:51",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Dinheiro Vivo",
+      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     },
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
       "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
       "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
-      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Executive Digest",
-      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
-      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 14:51",
+      "Dinheiro Vivo",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:15",
+      "Jornal Económico",
+      "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     ],
      [
       "2026-11-03 13:39",
       "Jornal Económico",
@@ -7655,10 +7667,22 @@
       "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      ],
      [
+      "2026-11-03 12:01",
+      "Agroportal",
+      "OE2027: Água para sul do Tejo pode passar por ponte 25 de Abril – ministra do Ambiente",
+      "https://www.agroportal.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-ministra-do-ambiente/"
+     ],
+     [
       "2026-11-03 11:51",
       "Jornal Económico",
       "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
       "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:20",
+      "Jornal de Notícias",
+      "OE2027",
+      "https://www.jn.pt/topico/OE2027?page=3"
      ],
      [
       "2026-11-03 11:02",
@@ -10011,30 +10035,6 @@
       "Expresso",
       "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
       "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
-     ],
-     [
-      "2026-10-10 08:00",
-      "Expresso",
-      "Miguel Prata Roque sobre o OE2027: “Acho que é um orçamento de fim de linha”",
-      "https://expresso.pt/podcasts/linhas-vermelhas/2026-10-10-miguel-prata-roque-sobre-o-oe2027-acho-que-e-um-orcamento-de-fim-de-linha-17f9f914"
-     ],
-     [
-      "2026-10-10 06:24",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS analisa hoje a proposta do OE2027",
-      "https://www.noticiasaominuto.com/pais/3064643/comissao-nacional-do-ps-analisa-proposta-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 06:20",
-      "Correio da Manhã",
-      "OE2027: Comissão Nacional do PS analisa proposta do Governo",
-      "https://www.cmjornal.pt/politica/amp/oe2027-comissao-nacional-do-ps-analisa-proposta-do-governo"
-     ],
-     [
-      "2026-10-10 00:23",
-      "Observador",
-      "OE 2027: o que o dinheiro não resolve",
-      "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
      ]
     ]
    },
@@ -10076,34 +10076,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1169,
-    "n7": 144,
+    "n": 1172,
+    "n7": 148,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 13:39",
+    "ultima": "2026-11-03 14:51",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Dinheiro Vivo",
+      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     },
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
       "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
       "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "PCP quer criar 10º escalão de IRS e subir dedução específica para 5672 euros",
-      "url": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
-     },
-     {
-      "data": "2026-11-03",
-      "fonte": "Executive Digest",
-      "titulo": "OE2027: PCP quer criar 10º escalão de IRS e subir dedução específica para 5.672 euros",
-      "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 14:51",
+      "Dinheiro Vivo",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:15",
+      "Jornal Económico",
+      "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+     ],
      [
       "2026-11-03 13:39",
       "Jornal Económico",
@@ -10123,10 +10135,22 @@
       "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/"
      ],
      [
+      "2026-11-03 12:01",
+      "Agroportal",
+      "OE2027: Água para sul do Tejo pode passar por ponte 25 de Abril – ministra do Ambiente",
+      "https://www.agroportal.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-ministra-do-ambiente/"
+     ],
+     [
       "2026-11-03 11:51",
       "Jornal Económico",
       "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
       "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 11:20",
+      "Jornal de Notícias",
+      "OE2027",
+      "https://www.jn.pt/topico/OE2027?page=3"
      ],
      [
       "2026-11-03 11:02",
@@ -12479,30 +12503,6 @@
       "Expresso",
       "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
       "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
-     ],
-     [
-      "2026-10-10 08:00",
-      "Expresso",
-      "Miguel Prata Roque sobre o OE2027: “Acho que é um orçamento de fim de linha”",
-      "https://expresso.pt/podcasts/linhas-vermelhas/2026-10-10-miguel-prata-roque-sobre-o-oe2027-acho-que-e-um-orcamento-de-fim-de-linha-17f9f914"
-     ],
-     [
-      "2026-10-10 06:24",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS analisa hoje a proposta do OE2027",
-      "https://www.noticiasaominuto.com/pais/3064643/comissao-nacional-do-ps-analisa-proposta-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 06:20",
-      "Correio da Manhã",
-      "OE2027: Comissão Nacional do PS analisa proposta do Governo",
-      "https://www.cmjornal.pt/politica/amp/oe2027-comissao-nacional-do-ps-analisa-proposta-do-governo"
-     ],
-     [
-      "2026-10-10 00:23",
-      "Observador",
-      "OE 2027: o que o dinheiro não resolve",
-      "https://observador.pt/opiniao/oe-2027-o-que-o-dinheiro-nao-resolve/"
      ]
     ]
    },
@@ -12670,10 +12670,16 @@
     "novos": 2,
     "alterados": 3,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-03",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-03T14:59+00:00",
-  "atualizadoLabel": "3 de novembro, 14h59",
+  "atualizado": "2026-11-03T15:27+00:00",
+  "atualizadoLabel": "3 de novembro, 15h27",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12858,7 +12864,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 11,
+   "novas": 15,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a preparação para o debate parlamentar. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas. O PCP anunciou o voto contra, mas o Governo viabilizou o documento com apoio de outros partidos. O debate na generalidade ocorreu a 27 de outubro, com a habitação a dominar o confronto. O Governo rejeitou o desmantelamento da CP e reafirmou o seu papel estratégico."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
@@ -13040,7 +13046,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 11,
+   "novas": 15,
    "enquadramento": "O debate sobre o Orçamento do Estado para 2027 tem sido um foco central na Assembleia da República, com várias notícias a reportar discussões parlamentares, posições de partidos e medidas governamentais. O Governo apresentou a proposta de lei, que foi alvo de críticas e anúncios de voto contra por parte de partidos da oposição, como o PCP. Entretanto, foram reportados avanços na discussão do orçamento, como a confirmação da suspensão de um inquérito e a aprovação de medidas relacionadas com a habitação e a Carteira Digital de Empresa. A cobertura mediática tem acompanhado a evolução do debate, com ênfase em temas como a dívida pública, a regulação do setor privado e o apoio à juventude."
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
@@ -14016,7 +14022,7 @@
     "ultima": "2026-11-03 13:39",
     "em": "2026-11-03"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem acompanhado de perto a elaboração e discussão do Orçamento do Estado para 2027, com várias notícias a reportar detalhes sobre as medidas propostas, as posições dos partidos políticos e as expectativas em relação à votação. Apresenta-se um quadro de evolução factual, desde a entrega da proposta de lei no Parlamento até aos debates na especialidade, com menções a temas como impostos sobre tabaco e álcool, dívida pública e habitação. A cobertura reflete um ambiente de debate político, com críticas e apoios, mas também com enquadramento de contexto sobre as crises internacionais e a situação económica."
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
@@ -14301,7 +14307,7 @@
      "data": "2026-09-24",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
-     "sintese": "A AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
+     "sintese": "A AHRESP apresentou 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14309,7 +14315,7 @@
      "data": "2026-09-29",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/economia/article/2026-09-29/47858717/oe2027-albuquerque-recebe-garantia-de-verbas-do-pm-e-n%C3%A3o-antecipa-qualquer-problema-na-vota%C3%A7%C3%A3o",
-     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa qualquer problema na votação do OE2027.",
+     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa problemas na votação do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -14325,7 +14331,7 @@
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "O Governo entrega proposta no Parlamento esta quinta-feira à tarde.",
+     "sintese": "O Governo entrega a proposta do Orçamento do Estado para 2027 no Parlamento.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14333,7 +14339,7 @@
      "data": "2026-10-08",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
-     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
+     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14341,7 +14347,7 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'.",
+     "sintese": "PSD espera tranquilidade e previsibilidade com o OE2027, mas o PS avisa que compromissos são para cumprir.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -14349,7 +14355,7 @@
      "data": "2026-10-09",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
-     "sintese": "Num debate que se esperava sobre o OE2027, habitação e Centeno roubaram o palco.",
+     "sintese": "Num debate sobre o OE2027, a habitação e Centeno roubaram o palco.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -14357,17 +14363,9 @@
      "data": "2026-10-10",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que 'convicções mais profundas' levariam a voto contra.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-11",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "Hospital de Gaia: PS critica Governo por ausência de financiamento no OE2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "Carneiro propõe abstenção ao OE2027, mas admite voto contra devido a convicções.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-11",
@@ -14381,7 +14379,7 @@
      "data": "2026-10-13",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
-     "sintese": "OE2027: Dívida pública deve continuar a ser a nossa preocupação, diz Miranda Sarmento.",
+     "sintese": "OE2027: Dívida pública deve continuar a ser a principal preocupação, diz Miranda Sarmento.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14390,16 +14388,16 @@
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
      "sintese": "José Luís Carneiro justifica viabilização do 'mau' OE2027 com crises em Portugal e no estrangeiro.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
-     "sintese": "Debate na generalidade da proposta de Orçamento do Estado para 2027 — Realizou-se esta terça-feira o debate, na generalidade, da proposta de Orçamento do Estado para o próximo ano. A vaga de protestos pela habitação marcou o confronto parlamentar entre Governo e oposição.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Debate na generalidade do OE2027: a vaga de protestos pela habitação marcou o confronto parlamentar.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-28",
@@ -14413,15 +14411,15 @@
      "data": "2026-10-28",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
-     "sintese": "Carneiro acusa PSD e CDS de destratar, desconsiderar e atacar PS no debate do OE2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Carneiro acusa PSD e CDS de destratar e atacar o PS no debate do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-29",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "OE2027: Decisão da Galp 'é soberana' e Governo cumpriu o seu papel.",
+     "sintese": "OE2027: Decisão da Galp é soberana e Governo cumpriu o seu papel.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -14429,7 +14427,7 @@
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "OE2027. Carteira Digital tem 18 mil empresas — O ministro Gonçalo Matias revelou os números da Carteira Digital de empresa no parlamento, durante a discussão do OE2027. Alemanha diz-se inspirada no modelo português.",
+     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14437,7 +14435,7 @@
      "data": "2026-10-31",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
-     "sintese": "Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
+     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14445,7 +14443,7 @@
      "data": "2026-11-01",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
-     "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027.",
+     "sintese": "OE da Semana: 'Midterms', contas da EDP e audições do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -14456,18 +14454,26 @@
      "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica",
+     "sintese": "Livre vai propor teste piloto da semana de quatro dias na administração pública.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1160
+    "encontradas": 1172
    },
    "base": {
-    "ultima": "2026-11-02 15:32",
-    "em": "2026-11-02"
+    "ultima": "2026-11-03 14:51",
+    "em": "2026-11-03"
    },
-   "novas": 12,
-   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com o Governo a apresentar a proposta de lei e a oposição a manifestar posições diversas. O PCP anunciou um voto contra, enquanto o PSD e o CDS expressaram preocupações sobre a viabilização do orçamento. Entretanto, o Governo tem defendido a necessidade de compromissos e a estabilidade política, justificando a viabilização do orçamento face a crises internas e internacionais. A cobertura inclui também notícias sobre financiamento de projetos específicos, como o Hospital Eduardo Santos Silva, e sobre a dívida pública, com o ministro das Finanças a afirmar que esta se manterá abaixo dos 85% do PIB em 2027."
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento e a preparação para o debate de quinta-feira. A AHRESP apresentou propostas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas e o PSD manifestou tranquilidade. O PCP anunciou o voto contra, e o debate na generalidade evidenciou divergências sobre a habitação e a dívida pública. O Governo rejeitou o desmantelamento da CP e propôs a semana de quatro dias para a administração pública."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -14648,7 +14654,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 11,
+   "novas": 15,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a realização de debates parlamentares. A oposição, nomeadamente o PCP, anunciou o seu voto contra, enquanto o Governo procura a viabilização através de compromissos e a gestão de crises internacionais. O PSD e o CDS expressaram preocupações sobre a estabilidade do Orçamento, enquanto o Governo enfatiza a redução da dívida pública e a importância da previsibilidade económica. A cobertura inclui também temas relacionados, como a habitação, a Carteira Digital de Empresa e a valorização da juventude, embora não diretamente relacionados com a discussão do Orçamento."
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
@@ -17151,7 +17157,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão de Educação e Ciência · Reunião n.º 59 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública",
    "resumo": "Audição do Ministro da Educação, Ciência e Inovação sobre a proposta orçamental para 2027, com foco em financiamento e prioridades setoriais. Discussão conjunta com a Comissão de Orçamento, Finanças e Administração Pública.",
-   "ordemTrabalhos": "Audição do Ministro da Educação, Ciência e Inovação , no âmbito da apreciação na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) - «Aprova o Orçamento do Estado para 2027» (conjunta com a Comissão de Orçamento, Finanças e Administração Pública )\n Ministro da Educação, Ciência e Inovação – Fernando Alexandre\n Secretário de Estado Adjunto e da Educação – Alexandre Homem Cristo\n Secretária de Estado da Administração Escolar – Maria Luísa Oliveira\n Secretária de Estado da Ciência e Inovação – Helena Canhão\n Secretária de Estado do Ensino Superior – Claúdia Sarrico",
+   "ordemTrabalhos": "Audição do Ministro da Educação, Ciência e Inovação , no âmbito da apreciação na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) - «Aprova o Orçamento do Estado para 2027» (conjunta com a Comissão de Orçamento, Finanças e Administração Pública)\n Ministro da Educação, Ciência e Inovação – Fernando Alexandre\n Secretário de Estado Adjunto e da Educação – Alexandre Homem Cristo\n Secretária de Estado da Administração Escolar – Maria Luísa Oliveira\n Secretária de Estado da Ciência e Inovação – Helena Canhão\n Secretária de Estado do Ensino Superior – Claúdia Sarrico",
    "orgao": "Comissão de Educação e Ciência",
    "id_ar": 48602,
    "chave": "ar-48602",
@@ -17608,7 +17614,8 @@
      "Financiamento setorial"
     ]
    },
-   "varrimento": "2026-11-04-48602-ministro-da-educa-o-ci-ncia-e-inova-o-ferna"
+   "varrimento": "2026-11-04-48602-ministro-da-educa-o-ci-ncia-e-inova-o-ferna",
+   "alterado": "2026-11-03"
   },
   {
    "tema": "Audição do Conselho Económico e Social — Orçamento do Estado 2027",
