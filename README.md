@@ -135,7 +135,7 @@ Criam-se em Settings › Secrets and variables › Actions › New repository se
 | `SMTP_USER` | endereço remetente |
 | `SMTP_PASS` | palavra-passe de aplicação do Google (16 letras, sem espaços) |
 | `SMTP_FROM` | já não é usado: o remetente aparece como «AR Preview», com o endereço de `SMTP_USER` |
-| `DIRIGENTES_DSSD` | destinatários do email de segunda-feira (chefias da área de Suporte à Decisão), separados por vírgulas |
+| `DIRIGENTES_DSSD` | destinatários do email de segunda-feira (chefias da área de Suporte à Decisão), separados por vírgulas; seguem em cópia oculta (Cco) e o «Para» é o próprio remetente (`SMTP_USER`) |
 | `EMAIL_TRIAGEM` | destinatário do aviso de semana nova |
 
 Sem os segredos SMTP, os emails não são enviados e o registo do workflow mostra o texto que seria enviado.
