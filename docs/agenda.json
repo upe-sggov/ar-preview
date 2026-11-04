@@ -49,7 +49,7 @@
     "n7": 0,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-10-22 18:39",
     "ultimas": [
@@ -204,34 +204,106 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 1187,
-    "n7": 163,
-    "n7ant": 119,
+    "n": 1196,
+    "n7": 112,
+    "n7ant": 170,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 19:30",
+    "ultima": "2026-11-04 13:22",
     "ultimas": [
      {
-      "data": "2026-11-03",
+      "data": "2026-11-04",
       "fonte": "Jornal Económico",
-      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
-      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+      "titulo": "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
-      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "url": "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
-      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 13:22",
+      "Jornal Económico",
+      "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
+     ],
+     [
+      "2026-11-04 13:04",
+      "Jornal de Negócios",
+      "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
+     ],
+     [
+      "2026-11-04 11:01",
+      "Ambiente Magazine",
+      "WWF Portugal alerta que Orçamento do Estado para 2027 não identifica verbas específicas para o restauro da natureza",
+      "https://www.ambientemagazine.com/wwf-portugal-alerta-que-orcamento-do-estado-para-2027-nao-identifica-verbas-especificas-para-o-restauro-da-natureza/"
+     ],
+     [
+      "2026-11-04 10:27",
+      "Diário de Notícias",
+      "Professores protestam junto à AR para \"denunciar a falta de respostas\" do OE2027",
+      "https://www.dn.pt/sociedade/professores-protestam-junto-ar-para-denunciar-a-falta-de-respostas-do-oe2027"
+     ],
+     [
+      "2026-11-04 09:40",
+      "Nascer do SOL",
+      "OE2027: menos imposto, mas será mais simples para empresas e contabilistas?",
+      "https://sol.iol.pt/opiniao/noticias/vanessa-jose-oe2027-menos-imposto-mas-sera-mais-simples-para-empresas-e-contabilistas/20261104/6aeafd990cf2051820fb0630"
+     ],
+     [
+      "2026-11-04 09:11",
+      "Jornal Económico",
+      "Professores protestam junto ao Parlamento por mais investimento e valorização da carreira no OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/professores-protestam-junto-ao-parlamento-por-mais-investimento-e-valorizacao-da-carreira-no-oe2027/"
+     ],
+     [
+      "2026-11-04 00:01",
+      "Público",
+      "OE não permite avaliar impacto das medidas para a habitação, alertam economistas",
+      "https://www.publico.pt/2026/11/04/economia/noticia/oe-nao-permite-avaliar-impacto-medidas-habitacao-alertam-economistas-2193652?ref=economia"
+     ],
+     [
+      "2026-11-03 23:59",
+      "Jornal de Negócios",
+      "OE 2027 não permite saber quantas casas a mais o Governo vai pôr no mercado",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
+     ],
+     [
+      "2026-11-03 21:10",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 20:29",
+      "CNN Portugal",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b"
+     ],
+     [
+      "2026-11-03 20:13",
+      "Observador",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://observador.pt/2026/11/03/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
      [
       "2026-11-03 19:30",
       "Jornal Económico",
@@ -254,7 +326,13 @@
       "2026-11-03 19:06",
       "Público",
       "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
-      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633?ref=politica"
+     ],
+     [
+      "2026-11-03 18:43",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
      ],
      [
       "2026-11-03 18:40",
@@ -263,19 +341,13 @@
       "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
      ],
      [
-      "2026-11-03 18:32",
-      "ECO",
-      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
-      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
-     ],
-     [
       "2026-11-03 17:54",
       "CNN Portugal",
       "Parlamento falha acordo sobre adiamento do debate do OE2027",
       "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
      ],
      [
-      "2026-11-03 17:24",
+      "2026-11-03 17:30",
       "ECO",
       "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
       "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
@@ -299,10 +371,10 @@
       "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
      ],
      [
-      "2026-11-03 15:58",
+      "2026-11-03 16:02",
       "Jornal de Negócios",
       "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
-      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+      "https://www.jornaldenegocios.pt/economia/amp/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
      ],
      [
       "2026-11-03 15:23",
@@ -1217,12 +1289,6 @@
       "https://www.noticiasaominuto.com/politica/3074083/oe2027-carneiro-recusa-alterar-posicao-do-ps-e-desafia-governo-a-entregar-imoveis-do-ihru-aos-municipios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 22:31",
-      "RTP Notícias",
-      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
-      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
-     ],
-     [
       "2026-10-27 22:22",
       "Público",
       "“O povo unido jamais será vencido”: manifestantes pela habitação concentram-se em frente à Assembleia da República",
@@ -1259,10 +1325,10 @@
       "https://cnnportugal.iol.pt/oe2027/orcamento-para-2027/oe2027-montenegro-estima-que-governos-psd-cds-ja-devolveram-em-impostos-5-2-mil-milhoes-de-euros/20261027/6ae0e8a4d34e9a786e75e10b"
      ],
      [
-      "2026-10-27 18:44",
-      "JM Madeira",
-      "Todas as notícias atualizadas sobre oe2027",
-      "https://www.jm-madeira.pt/tag/oe2027"
+      "2026-10-27 17:29",
+      "Observador",
+      "15h. Debate na generalidade do Orçamento do Estado para 2027",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
      ],
      [
       "2026-10-27 17:29",
@@ -1301,13 +1367,7 @@
       "https://acores.rtp.pt/radio/oe-2027-visoes-diametralmente-opostas-dos-deputados-eleitos-pelos-acores/"
      ],
      [
-      "2026-10-27 16:29",
-      "Observador",
-      "15h. Debate na generalidade do Orçamento do Estado para 2027",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
-     ],
-     [
-      "2026-10-27 16:15",
+      "2026-10-27 16:13",
       "ECO",
       "CPI a mandatos de Luís Neves na PJ suspensa durante debate do Orçamento",
       "https://eco.sapo.pt/2026/10/27/cpi-a-mandatos-de-luis-neves-na-pj-suspensa-durante-debate-do-orcamento/"
@@ -1349,12 +1409,6 @@
       "https://www.dn.pt/sociedade/oe2027-mais-de-100-sindicalistas-contestam-oramento-em-frente-assembleia-da-repblica"
      ],
      [
-      "2026-10-27 15:10",
-      "Notícias ao Minuto",
-      "Mais de 100 sindicalistas contestam orçamento em frente à AR",
-      "https://www.noticiasaominuto.com/politica/3073801/mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
       "2026-10-27 15:09",
       "Executive Digest",
       "OE2027: Ventura questiona \"onde andou\" o PM, Montenegro diz que esteve a trabalhar",
@@ -1363,20 +1417,14 @@
      [
       "2026-10-27 15:00",
       "Diário de Notícias",
-      "OE2027: habitação e protestos marcam primeiro dia de debate. No exterior da AR, manifestação junta milhares",
-      "https://www.dn.pt/pol%C3%ADtica/acompanhe-o-debate-do-oramento-do-estado-em-direto-no-site-do-dn"
+      "Habitação marca debate do OE2027. Apelo à greve geral na manifestação que junta milhares em frente à AR",
+      "https://www.dn.pt/pol%C3%ADtica/habitao-marca-debate-do-oe2027-apelo-greve-geral-na-manifestao-que-junta-milhares-em-frente-ar"
      ],
      [
       "2026-10-27 14:59",
       "ECO",
-      "Montenegro garante abertura para acolher propostas da oposição na especialidade do OE2027. Siga aqui",
+      "“Onde é que o primeiro-ministro andou? Andou a trabalhar”, responde Montenegro. Siga aqui",
       "https://eco.sapo.pt/2026/10/27/parlamento-comeca-a-debater-oe2027-com-ruido-de-protestos-na-habitacao-siga-aqui/"
-     ],
-     [
-      "2026-10-27 14:28",
-      "Correio da Manhã",
-      "Comissão de inquérito a mandatos de Luís Neves suspensa durante debate do OE2027",
-      "https://www.cmjornal.pt/politica/amp/comissao-de-inquerito-a-mandatos-de-luis-neves-suspensa-durante-debate-do-oe2027"
      ],
      [
       "2026-10-27 14:12",
@@ -1403,12 +1451,6 @@
       "https://www.noticiasaominuto.com/pais/3073663/sindicalistas-protestam-contra-oe2027-em-frente-a-assembleia-da-republica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 11:18",
-      "Healthnews",
-      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
-      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/"
-     ],
-     [
       "2026-10-27 11:05",
       "Correio da Manhã",
       "Mais de 100 sindicalistas contestam Orçamento do Estado para 2027 em frente à Assembleia da República",
@@ -1421,16 +1463,16 @@
       "https://executivedigest.sapo.pt/oe2027-mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar/"
      ],
      [
-      "2026-10-27 08:53",
-      "JM Madeira",
-      "Acampada de Lisboa vai montar tendas em frente à AR após discussão do OE2027",
-      "https://www.jm-madeira.pt/not%C3%ADcias/nacional/30007968/acampada-de-lisboa-vai-montar-tendas-em-frente-a-ar-apos-discussao-do-oe2027.html"
-     ],
-     [
       "2026-10-27 08:39",
       "TSF",
       "Arranque do debate do OE 2027 e eleições legislativas em Israel",
       "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494"
+     ],
+     [
+      "2026-10-27 08:00",
+      "Healthnews",
+      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
+      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/#utm_source=rss&utm_medium=rss&utm_campaign=parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr"
      ],
      [
       "2026-10-27 08:00",
@@ -1447,8 +1489,20 @@
      [
       "2026-10-27 07:37",
       "RTP Notícias",
+      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
+      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
+     ],
+     [
+      "2026-10-27 07:37",
+      "RTP Notícias",
       "OE2027. Conselho de Finanças Públicas considera excedente plausível mas alerta para riscos",
       "https://www.rtp.pt/noticias/economia/oe2027-conselho-de-financas-publicas-considera-excedente-plausivel-mas-alerta-para-riscos_n1774504"
+     ],
+     [
+      "2026-10-27 07:35",
+      "ECO",
+      "Salários elevados? É só querer",
+      "https://eco.sapo.pt/opiniao/salarios-elevados-e-so-querer/"
      ],
      [
       "2026-10-27 07:23",
@@ -1463,6 +1517,18 @@
       "https://www.tsf.pt/politica/artigo/parlamento-inicia-debate-de-oe2027-com-protestos-pela-habitacao-em-fundo/18141477"
      ],
      [
+      "2026-10-27 07:20",
+      "Observador",
+      "7h.PM e PR pressionados a falar sobre protestos da habitação",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
+     ],
+     [
+      "2026-10-27 06:53",
+      "Observador",
+      "Manifestantes detidos conhecem hoje decisão do MP",
+      "https://observador.pt/liveblogs/manifestantes-detidos-conhecem-hoje-decisao-do-mp-protestos-pela-habitacao-marcados-para-junto-ao-parlamento/"
+     ],
+     [
       "2026-10-27 06:52",
       "CNN Portugal",
       "Do início da discussão do OE2027 às eleições imprevisíveis em Israel: estas são \"as 5 notícias\" que vão marcar o dia",
@@ -1475,7 +1541,7 @@
       "https://www.publico.pt/2026/10/27/politica/noticia/impasse-mantemse-atira-eleicao-fiscalizacao-secretas-oe2027-2192719"
      ],
      [
-      "2026-10-27 06:40",
+      "2026-10-27 06:35",
       "ECO",
       "Sob ‘fogo cruzado’ da habitação, debate do OE2027 obriga Montenegro a quebrar o silêncio",
       "https://eco.sapo.pt/2026/10/27/sob-fogo-cruzado-da-habitacao-debate-do-oe2027-obriga-montenegro-a-quebrar-o-silencio/"
@@ -1485,12 +1551,6 @@
       "Renascença",
       "Montenegro volta a falar ao fim de 10 dias: primeiro-ministro no início do debate do OE2027",
       "https://rr.pt/noticia/amp/politica/2026/10/27/montenegro-volta-a-falar-ao-fim-de-10-dias-primeiro-ministro-no-inicio-do-debate-do-oe2027/490864/"
-     ],
-     [
-      "2026-10-27 06:20",
-      "Observador",
-      "7h.PM e PR pressionados a falar sobre protestos da habitação",
-      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
      ],
      [
       "2026-10-27 06:11",
@@ -1511,10 +1571,10 @@
       "https://www.rtp.pt/noticias/noticiario-antena1/5h-parlamento-comeca-discussao-do-orcamento-do-estado-para-2027_a1_1774603"
      ],
      [
-      "2026-10-27 00:54",
+      "2026-10-27 00:37",
       "Jornal de Negócios",
       "Carneiro leva habitação e custo de vida como temas principais ao debate do OE2027",
-      "https://www.jornaldenegocios.pt/economia/amp/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
+      "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
      ],
      [
       "2026-10-27 00:20",
@@ -2571,66 +2631,6 @@
       "Jornal de Negócios",
       "O bloco central",
       "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-bloco-central"
-     ],
-     [
-      "2026-10-10 16:51",
-      "RTP Notícias",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção no OE",
-      "https://www.rtp.pt/noticias/economia/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe_n1770897"
-     ],
-     [
-      "2026-10-10 16:19",
-      "CNN Portugal",
-      "OE2027: Carlos César aponta concordância da Comissão Nacional do PS com abstenção",
-      "https://cnnportugal.iol.pt/carlos-cesar/abstencao/oe2027-carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao/20261010/6aca577ad34e9a786e75ba5e"
-     ],
-     [
-      "2026-10-10 15:48",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS concorda com abstenção no OE2027",
-      "https://www.noticiasaominuto.com/null/3064793/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 15:47",
-      "Jornal Económico",
-      "OE2027: Carlos César diz que PS concorda com abstenção",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carlos-cesar-diz-que-ps-concorda-com-abstencao/"
-     ],
-     [
-      "2026-10-10 15:12",
-      "Observador",
-      "15h. OE 2027. José Luís Carneiro defende abstenção do PS",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2481/"
-     ],
-     [
-      "2026-10-10 14:53",
-      "Jornal de Notícias",
-      "Carneiro propõe abstenção ao OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606"
-     ],
-     [
-      "2026-10-10 14:52",
-      "Correio da Manhã",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção do Orçamento do Estado para 2027",
-      "https://www.cmjornal.pt/politica/amp/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-do-orcamento-do-estado-para-2027"
-     ],
-     [
-      "2026-10-10 14:40",
-      "JM Madeira",
-      "PS considera Orçamento do Estado para 2027 “mau para a Madeira”",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006800/ps-considera-orcamento-do-estado-para-2027-mau-para-a-madeira.html"
-     ],
-     [
-      "2026-10-10 14:01",
-      "ECO",
-      "Carneiro promete resposta a preços da energia com propostas no OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-promete-resposta-a-precos-da-energia-com-propostas-no-oe2027/"
-     ],
-     [
-      "2026-10-10 12:57",
-      "RTP Notícias",
-      "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
      ]
     ]
    },
@@ -2672,34 +2672,106 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1187,
-    "n7": 163,
-    "n7ant": 119,
+    "n": 1196,
+    "n7": 112,
+    "n7ant": 170,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 19:30",
+    "ultima": "2026-11-04 13:22",
     "ultimas": [
      {
-      "data": "2026-11-03",
+      "data": "2026-11-04",
       "fonte": "Jornal Económico",
-      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
-      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+      "titulo": "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
-      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "url": "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
-      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 13:22",
+      "Jornal Económico",
+      "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
+     ],
+     [
+      "2026-11-04 13:04",
+      "Jornal de Negócios",
+      "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
+     ],
+     [
+      "2026-11-04 11:01",
+      "Ambiente Magazine",
+      "WWF Portugal alerta que Orçamento do Estado para 2027 não identifica verbas específicas para o restauro da natureza",
+      "https://www.ambientemagazine.com/wwf-portugal-alerta-que-orcamento-do-estado-para-2027-nao-identifica-verbas-especificas-para-o-restauro-da-natureza/"
+     ],
+     [
+      "2026-11-04 10:27",
+      "Diário de Notícias",
+      "Professores protestam junto à AR para \"denunciar a falta de respostas\" do OE2027",
+      "https://www.dn.pt/sociedade/professores-protestam-junto-ar-para-denunciar-a-falta-de-respostas-do-oe2027"
+     ],
+     [
+      "2026-11-04 09:40",
+      "Nascer do SOL",
+      "OE2027: menos imposto, mas será mais simples para empresas e contabilistas?",
+      "https://sol.iol.pt/opiniao/noticias/vanessa-jose-oe2027-menos-imposto-mas-sera-mais-simples-para-empresas-e-contabilistas/20261104/6aeafd990cf2051820fb0630"
+     ],
+     [
+      "2026-11-04 09:11",
+      "Jornal Económico",
+      "Professores protestam junto ao Parlamento por mais investimento e valorização da carreira no OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/professores-protestam-junto-ao-parlamento-por-mais-investimento-e-valorizacao-da-carreira-no-oe2027/"
+     ],
+     [
+      "2026-11-04 00:01",
+      "Público",
+      "OE não permite avaliar impacto das medidas para a habitação, alertam economistas",
+      "https://www.publico.pt/2026/11/04/economia/noticia/oe-nao-permite-avaliar-impacto-medidas-habitacao-alertam-economistas-2193652?ref=economia"
+     ],
+     [
+      "2026-11-03 23:59",
+      "Jornal de Negócios",
+      "OE 2027 não permite saber quantas casas a mais o Governo vai pôr no mercado",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
+     ],
+     [
+      "2026-11-03 21:10",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 20:29",
+      "CNN Portugal",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b"
+     ],
+     [
+      "2026-11-03 20:13",
+      "Observador",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://observador.pt/2026/11/03/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
      [
       "2026-11-03 19:30",
       "Jornal Económico",
@@ -2722,7 +2794,13 @@
       "2026-11-03 19:06",
       "Público",
       "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
-      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633?ref=politica"
+     ],
+     [
+      "2026-11-03 18:43",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
      ],
      [
       "2026-11-03 18:40",
@@ -2731,19 +2809,13 @@
       "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
      ],
      [
-      "2026-11-03 18:32",
-      "ECO",
-      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
-      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
-     ],
-     [
       "2026-11-03 17:54",
       "CNN Portugal",
       "Parlamento falha acordo sobre adiamento do debate do OE2027",
       "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
      ],
      [
-      "2026-11-03 17:24",
+      "2026-11-03 17:30",
       "ECO",
       "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
       "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
@@ -2767,10 +2839,10 @@
       "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
      ],
      [
-      "2026-11-03 15:58",
+      "2026-11-03 16:02",
       "Jornal de Negócios",
       "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
-      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+      "https://www.jornaldenegocios.pt/economia/amp/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
      ],
      [
       "2026-11-03 15:23",
@@ -3685,12 +3757,6 @@
       "https://www.noticiasaominuto.com/politica/3074083/oe2027-carneiro-recusa-alterar-posicao-do-ps-e-desafia-governo-a-entregar-imoveis-do-ihru-aos-municipios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 22:31",
-      "RTP Notícias",
-      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
-      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
-     ],
-     [
       "2026-10-27 22:22",
       "Público",
       "“O povo unido jamais será vencido”: manifestantes pela habitação concentram-se em frente à Assembleia da República",
@@ -3727,10 +3793,10 @@
       "https://cnnportugal.iol.pt/oe2027/orcamento-para-2027/oe2027-montenegro-estima-que-governos-psd-cds-ja-devolveram-em-impostos-5-2-mil-milhoes-de-euros/20261027/6ae0e8a4d34e9a786e75e10b"
      ],
      [
-      "2026-10-27 18:44",
-      "JM Madeira",
-      "Todas as notícias atualizadas sobre oe2027",
-      "https://www.jm-madeira.pt/tag/oe2027"
+      "2026-10-27 17:29",
+      "Observador",
+      "15h. Debate na generalidade do Orçamento do Estado para 2027",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
      ],
      [
       "2026-10-27 17:29",
@@ -3769,13 +3835,7 @@
       "https://acores.rtp.pt/radio/oe-2027-visoes-diametralmente-opostas-dos-deputados-eleitos-pelos-acores/"
      ],
      [
-      "2026-10-27 16:29",
-      "Observador",
-      "15h. Debate na generalidade do Orçamento do Estado para 2027",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
-     ],
-     [
-      "2026-10-27 16:15",
+      "2026-10-27 16:13",
       "ECO",
       "CPI a mandatos de Luís Neves na PJ suspensa durante debate do Orçamento",
       "https://eco.sapo.pt/2026/10/27/cpi-a-mandatos-de-luis-neves-na-pj-suspensa-durante-debate-do-orcamento/"
@@ -3817,12 +3877,6 @@
       "https://www.dn.pt/sociedade/oe2027-mais-de-100-sindicalistas-contestam-oramento-em-frente-assembleia-da-repblica"
      ],
      [
-      "2026-10-27 15:10",
-      "Notícias ao Minuto",
-      "Mais de 100 sindicalistas contestam orçamento em frente à AR",
-      "https://www.noticiasaominuto.com/politica/3073801/mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
       "2026-10-27 15:09",
       "Executive Digest",
       "OE2027: Ventura questiona \"onde andou\" o PM, Montenegro diz que esteve a trabalhar",
@@ -3831,20 +3885,14 @@
      [
       "2026-10-27 15:00",
       "Diário de Notícias",
-      "OE2027: habitação e protestos marcam primeiro dia de debate. No exterior da AR, manifestação junta milhares",
-      "https://www.dn.pt/pol%C3%ADtica/acompanhe-o-debate-do-oramento-do-estado-em-direto-no-site-do-dn"
+      "Habitação marca debate do OE2027. Apelo à greve geral na manifestação que junta milhares em frente à AR",
+      "https://www.dn.pt/pol%C3%ADtica/habitao-marca-debate-do-oe2027-apelo-greve-geral-na-manifestao-que-junta-milhares-em-frente-ar"
      ],
      [
       "2026-10-27 14:59",
       "ECO",
-      "Montenegro garante abertura para acolher propostas da oposição na especialidade do OE2027. Siga aqui",
+      "“Onde é que o primeiro-ministro andou? Andou a trabalhar”, responde Montenegro. Siga aqui",
       "https://eco.sapo.pt/2026/10/27/parlamento-comeca-a-debater-oe2027-com-ruido-de-protestos-na-habitacao-siga-aqui/"
-     ],
-     [
-      "2026-10-27 14:28",
-      "Correio da Manhã",
-      "Comissão de inquérito a mandatos de Luís Neves suspensa durante debate do OE2027",
-      "https://www.cmjornal.pt/politica/amp/comissao-de-inquerito-a-mandatos-de-luis-neves-suspensa-durante-debate-do-oe2027"
      ],
      [
       "2026-10-27 14:12",
@@ -3871,12 +3919,6 @@
       "https://www.noticiasaominuto.com/pais/3073663/sindicalistas-protestam-contra-oe2027-em-frente-a-assembleia-da-republica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 11:18",
-      "Healthnews",
-      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
-      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/"
-     ],
-     [
       "2026-10-27 11:05",
       "Correio da Manhã",
       "Mais de 100 sindicalistas contestam Orçamento do Estado para 2027 em frente à Assembleia da República",
@@ -3889,16 +3931,16 @@
       "https://executivedigest.sapo.pt/oe2027-mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar/"
      ],
      [
-      "2026-10-27 08:53",
-      "JM Madeira",
-      "Acampada de Lisboa vai montar tendas em frente à AR após discussão do OE2027",
-      "https://www.jm-madeira.pt/not%C3%ADcias/nacional/30007968/acampada-de-lisboa-vai-montar-tendas-em-frente-a-ar-apos-discussao-do-oe2027.html"
-     ],
-     [
       "2026-10-27 08:39",
       "TSF",
       "Arranque do debate do OE 2027 e eleições legislativas em Israel",
       "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494"
+     ],
+     [
+      "2026-10-27 08:00",
+      "Healthnews",
+      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
+      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/#utm_source=rss&utm_medium=rss&utm_campaign=parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr"
      ],
      [
       "2026-10-27 08:00",
@@ -3915,8 +3957,20 @@
      [
       "2026-10-27 07:37",
       "RTP Notícias",
+      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
+      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
+     ],
+     [
+      "2026-10-27 07:37",
+      "RTP Notícias",
       "OE2027. Conselho de Finanças Públicas considera excedente plausível mas alerta para riscos",
       "https://www.rtp.pt/noticias/economia/oe2027-conselho-de-financas-publicas-considera-excedente-plausivel-mas-alerta-para-riscos_n1774504"
+     ],
+     [
+      "2026-10-27 07:35",
+      "ECO",
+      "Salários elevados? É só querer",
+      "https://eco.sapo.pt/opiniao/salarios-elevados-e-so-querer/"
      ],
      [
       "2026-10-27 07:23",
@@ -3931,6 +3985,18 @@
       "https://www.tsf.pt/politica/artigo/parlamento-inicia-debate-de-oe2027-com-protestos-pela-habitacao-em-fundo/18141477"
      ],
      [
+      "2026-10-27 07:20",
+      "Observador",
+      "7h.PM e PR pressionados a falar sobre protestos da habitação",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
+     ],
+     [
+      "2026-10-27 06:53",
+      "Observador",
+      "Manifestantes detidos conhecem hoje decisão do MP",
+      "https://observador.pt/liveblogs/manifestantes-detidos-conhecem-hoje-decisao-do-mp-protestos-pela-habitacao-marcados-para-junto-ao-parlamento/"
+     ],
+     [
       "2026-10-27 06:52",
       "CNN Portugal",
       "Do início da discussão do OE2027 às eleições imprevisíveis em Israel: estas são \"as 5 notícias\" que vão marcar o dia",
@@ -3943,7 +4009,7 @@
       "https://www.publico.pt/2026/10/27/politica/noticia/impasse-mantemse-atira-eleicao-fiscalizacao-secretas-oe2027-2192719"
      ],
      [
-      "2026-10-27 06:40",
+      "2026-10-27 06:35",
       "ECO",
       "Sob ‘fogo cruzado’ da habitação, debate do OE2027 obriga Montenegro a quebrar o silêncio",
       "https://eco.sapo.pt/2026/10/27/sob-fogo-cruzado-da-habitacao-debate-do-oe2027-obriga-montenegro-a-quebrar-o-silencio/"
@@ -3953,12 +4019,6 @@
       "Renascença",
       "Montenegro volta a falar ao fim de 10 dias: primeiro-ministro no início do debate do OE2027",
       "https://rr.pt/noticia/amp/politica/2026/10/27/montenegro-volta-a-falar-ao-fim-de-10-dias-primeiro-ministro-no-inicio-do-debate-do-oe2027/490864/"
-     ],
-     [
-      "2026-10-27 06:20",
-      "Observador",
-      "7h.PM e PR pressionados a falar sobre protestos da habitação",
-      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
      ],
      [
       "2026-10-27 06:11",
@@ -3979,10 +4039,10 @@
       "https://www.rtp.pt/noticias/noticiario-antena1/5h-parlamento-comeca-discussao-do-orcamento-do-estado-para-2027_a1_1774603"
      ],
      [
-      "2026-10-27 00:54",
+      "2026-10-27 00:37",
       "Jornal de Negócios",
       "Carneiro leva habitação e custo de vida como temas principais ao debate do OE2027",
-      "https://www.jornaldenegocios.pt/economia/amp/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
+      "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
      ],
      [
       "2026-10-27 00:20",
@@ -5039,66 +5099,6 @@
       "Jornal de Negócios",
       "O bloco central",
       "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-bloco-central"
-     ],
-     [
-      "2026-10-10 16:51",
-      "RTP Notícias",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção no OE",
-      "https://www.rtp.pt/noticias/economia/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe_n1770897"
-     ],
-     [
-      "2026-10-10 16:19",
-      "CNN Portugal",
-      "OE2027: Carlos César aponta concordância da Comissão Nacional do PS com abstenção",
-      "https://cnnportugal.iol.pt/carlos-cesar/abstencao/oe2027-carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao/20261010/6aca577ad34e9a786e75ba5e"
-     ],
-     [
-      "2026-10-10 15:48",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS concorda com abstenção no OE2027",
-      "https://www.noticiasaominuto.com/null/3064793/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 15:47",
-      "Jornal Económico",
-      "OE2027: Carlos César diz que PS concorda com abstenção",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carlos-cesar-diz-que-ps-concorda-com-abstencao/"
-     ],
-     [
-      "2026-10-10 15:12",
-      "Observador",
-      "15h. OE 2027. José Luís Carneiro defende abstenção do PS",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2481/"
-     ],
-     [
-      "2026-10-10 14:53",
-      "Jornal de Notícias",
-      "Carneiro propõe abstenção ao OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606"
-     ],
-     [
-      "2026-10-10 14:52",
-      "Correio da Manhã",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção do Orçamento do Estado para 2027",
-      "https://www.cmjornal.pt/politica/amp/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-do-orcamento-do-estado-para-2027"
-     ],
-     [
-      "2026-10-10 14:40",
-      "JM Madeira",
-      "PS considera Orçamento do Estado para 2027 “mau para a Madeira”",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006800/ps-considera-orcamento-do-estado-para-2027-mau-para-a-madeira.html"
-     ],
-     [
-      "2026-10-10 14:01",
-      "ECO",
-      "Carneiro promete resposta a preços da energia com propostas no OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-promete-resposta-a-precos-da-energia-com-propostas-no-oe2027/"
-     ],
-     [
-      "2026-10-10 12:57",
-      "RTP Notícias",
-      "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
      ]
     ]
    },
@@ -5140,34 +5140,106 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1187,
-    "n7": 163,
-    "n7ant": 119,
+    "n": 1196,
+    "n7": 112,
+    "n7ant": 170,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 19:30",
+    "ultima": "2026-11-04 13:22",
     "ultimas": [
      {
-      "data": "2026-11-03",
+      "data": "2026-11-04",
       "fonte": "Jornal Económico",
-      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
-      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+      "titulo": "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
-      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "url": "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
-      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 13:22",
+      "Jornal Económico",
+      "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
+     ],
+     [
+      "2026-11-04 13:04",
+      "Jornal de Negócios",
+      "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
+     ],
+     [
+      "2026-11-04 11:01",
+      "Ambiente Magazine",
+      "WWF Portugal alerta que Orçamento do Estado para 2027 não identifica verbas específicas para o restauro da natureza",
+      "https://www.ambientemagazine.com/wwf-portugal-alerta-que-orcamento-do-estado-para-2027-nao-identifica-verbas-especificas-para-o-restauro-da-natureza/"
+     ],
+     [
+      "2026-11-04 10:27",
+      "Diário de Notícias",
+      "Professores protestam junto à AR para \"denunciar a falta de respostas\" do OE2027",
+      "https://www.dn.pt/sociedade/professores-protestam-junto-ar-para-denunciar-a-falta-de-respostas-do-oe2027"
+     ],
+     [
+      "2026-11-04 09:40",
+      "Nascer do SOL",
+      "OE2027: menos imposto, mas será mais simples para empresas e contabilistas?",
+      "https://sol.iol.pt/opiniao/noticias/vanessa-jose-oe2027-menos-imposto-mas-sera-mais-simples-para-empresas-e-contabilistas/20261104/6aeafd990cf2051820fb0630"
+     ],
+     [
+      "2026-11-04 09:11",
+      "Jornal Económico",
+      "Professores protestam junto ao Parlamento por mais investimento e valorização da carreira no OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/professores-protestam-junto-ao-parlamento-por-mais-investimento-e-valorizacao-da-carreira-no-oe2027/"
+     ],
+     [
+      "2026-11-04 00:01",
+      "Público",
+      "OE não permite avaliar impacto das medidas para a habitação, alertam economistas",
+      "https://www.publico.pt/2026/11/04/economia/noticia/oe-nao-permite-avaliar-impacto-medidas-habitacao-alertam-economistas-2193652?ref=economia"
+     ],
+     [
+      "2026-11-03 23:59",
+      "Jornal de Negócios",
+      "OE 2027 não permite saber quantas casas a mais o Governo vai pôr no mercado",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
+     ],
+     [
+      "2026-11-03 21:10",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 20:29",
+      "CNN Portugal",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b"
+     ],
+     [
+      "2026-11-03 20:13",
+      "Observador",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://observador.pt/2026/11/03/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
      [
       "2026-11-03 19:30",
       "Jornal Económico",
@@ -5190,7 +5262,13 @@
       "2026-11-03 19:06",
       "Público",
       "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
-      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633?ref=politica"
+     ],
+     [
+      "2026-11-03 18:43",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
      ],
      [
       "2026-11-03 18:40",
@@ -5199,19 +5277,13 @@
       "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
      ],
      [
-      "2026-11-03 18:32",
-      "ECO",
-      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
-      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
-     ],
-     [
       "2026-11-03 17:54",
       "CNN Portugal",
       "Parlamento falha acordo sobre adiamento do debate do OE2027",
       "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
      ],
      [
-      "2026-11-03 17:24",
+      "2026-11-03 17:30",
       "ECO",
       "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
       "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
@@ -5235,10 +5307,10 @@
       "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
      ],
      [
-      "2026-11-03 15:58",
+      "2026-11-03 16:02",
       "Jornal de Negócios",
       "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
-      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+      "https://www.jornaldenegocios.pt/economia/amp/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
      ],
      [
       "2026-11-03 15:23",
@@ -6153,12 +6225,6 @@
       "https://www.noticiasaominuto.com/politica/3074083/oe2027-carneiro-recusa-alterar-posicao-do-ps-e-desafia-governo-a-entregar-imoveis-do-ihru-aos-municipios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 22:31",
-      "RTP Notícias",
-      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
-      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
-     ],
-     [
       "2026-10-27 22:22",
       "Público",
       "“O povo unido jamais será vencido”: manifestantes pela habitação concentram-se em frente à Assembleia da República",
@@ -6195,10 +6261,10 @@
       "https://cnnportugal.iol.pt/oe2027/orcamento-para-2027/oe2027-montenegro-estima-que-governos-psd-cds-ja-devolveram-em-impostos-5-2-mil-milhoes-de-euros/20261027/6ae0e8a4d34e9a786e75e10b"
      ],
      [
-      "2026-10-27 18:44",
-      "JM Madeira",
-      "Todas as notícias atualizadas sobre oe2027",
-      "https://www.jm-madeira.pt/tag/oe2027"
+      "2026-10-27 17:29",
+      "Observador",
+      "15h. Debate na generalidade do Orçamento do Estado para 2027",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
      ],
      [
       "2026-10-27 17:29",
@@ -6237,13 +6303,7 @@
       "https://acores.rtp.pt/radio/oe-2027-visoes-diametralmente-opostas-dos-deputados-eleitos-pelos-acores/"
      ],
      [
-      "2026-10-27 16:29",
-      "Observador",
-      "15h. Debate na generalidade do Orçamento do Estado para 2027",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
-     ],
-     [
-      "2026-10-27 16:15",
+      "2026-10-27 16:13",
       "ECO",
       "CPI a mandatos de Luís Neves na PJ suspensa durante debate do Orçamento",
       "https://eco.sapo.pt/2026/10/27/cpi-a-mandatos-de-luis-neves-na-pj-suspensa-durante-debate-do-orcamento/"
@@ -6285,12 +6345,6 @@
       "https://www.dn.pt/sociedade/oe2027-mais-de-100-sindicalistas-contestam-oramento-em-frente-assembleia-da-repblica"
      ],
      [
-      "2026-10-27 15:10",
-      "Notícias ao Minuto",
-      "Mais de 100 sindicalistas contestam orçamento em frente à AR",
-      "https://www.noticiasaominuto.com/politica/3073801/mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
       "2026-10-27 15:09",
       "Executive Digest",
       "OE2027: Ventura questiona \"onde andou\" o PM, Montenegro diz que esteve a trabalhar",
@@ -6299,20 +6353,14 @@
      [
       "2026-10-27 15:00",
       "Diário de Notícias",
-      "OE2027: habitação e protestos marcam primeiro dia de debate. No exterior da AR, manifestação junta milhares",
-      "https://www.dn.pt/pol%C3%ADtica/acompanhe-o-debate-do-oramento-do-estado-em-direto-no-site-do-dn"
+      "Habitação marca debate do OE2027. Apelo à greve geral na manifestação que junta milhares em frente à AR",
+      "https://www.dn.pt/pol%C3%ADtica/habitao-marca-debate-do-oe2027-apelo-greve-geral-na-manifestao-que-junta-milhares-em-frente-ar"
      ],
      [
       "2026-10-27 14:59",
       "ECO",
-      "Montenegro garante abertura para acolher propostas da oposição na especialidade do OE2027. Siga aqui",
+      "“Onde é que o primeiro-ministro andou? Andou a trabalhar”, responde Montenegro. Siga aqui",
       "https://eco.sapo.pt/2026/10/27/parlamento-comeca-a-debater-oe2027-com-ruido-de-protestos-na-habitacao-siga-aqui/"
-     ],
-     [
-      "2026-10-27 14:28",
-      "Correio da Manhã",
-      "Comissão de inquérito a mandatos de Luís Neves suspensa durante debate do OE2027",
-      "https://www.cmjornal.pt/politica/amp/comissao-de-inquerito-a-mandatos-de-luis-neves-suspensa-durante-debate-do-oe2027"
      ],
      [
       "2026-10-27 14:12",
@@ -6339,12 +6387,6 @@
       "https://www.noticiasaominuto.com/pais/3073663/sindicalistas-protestam-contra-oe2027-em-frente-a-assembleia-da-republica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 11:18",
-      "Healthnews",
-      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
-      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/"
-     ],
-     [
       "2026-10-27 11:05",
       "Correio da Manhã",
       "Mais de 100 sindicalistas contestam Orçamento do Estado para 2027 em frente à Assembleia da República",
@@ -6357,16 +6399,16 @@
       "https://executivedigest.sapo.pt/oe2027-mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar/"
      ],
      [
-      "2026-10-27 08:53",
-      "JM Madeira",
-      "Acampada de Lisboa vai montar tendas em frente à AR após discussão do OE2027",
-      "https://www.jm-madeira.pt/not%C3%ADcias/nacional/30007968/acampada-de-lisboa-vai-montar-tendas-em-frente-a-ar-apos-discussao-do-oe2027.html"
-     ],
-     [
       "2026-10-27 08:39",
       "TSF",
       "Arranque do debate do OE 2027 e eleições legislativas em Israel",
       "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494"
+     ],
+     [
+      "2026-10-27 08:00",
+      "Healthnews",
+      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
+      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/#utm_source=rss&utm_medium=rss&utm_campaign=parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr"
      ],
      [
       "2026-10-27 08:00",
@@ -6383,8 +6425,20 @@
      [
       "2026-10-27 07:37",
       "RTP Notícias",
+      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
+      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
+     ],
+     [
+      "2026-10-27 07:37",
+      "RTP Notícias",
       "OE2027. Conselho de Finanças Públicas considera excedente plausível mas alerta para riscos",
       "https://www.rtp.pt/noticias/economia/oe2027-conselho-de-financas-publicas-considera-excedente-plausivel-mas-alerta-para-riscos_n1774504"
+     ],
+     [
+      "2026-10-27 07:35",
+      "ECO",
+      "Salários elevados? É só querer",
+      "https://eco.sapo.pt/opiniao/salarios-elevados-e-so-querer/"
      ],
      [
       "2026-10-27 07:23",
@@ -6399,6 +6453,18 @@
       "https://www.tsf.pt/politica/artigo/parlamento-inicia-debate-de-oe2027-com-protestos-pela-habitacao-em-fundo/18141477"
      ],
      [
+      "2026-10-27 07:20",
+      "Observador",
+      "7h.PM e PR pressionados a falar sobre protestos da habitação",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
+     ],
+     [
+      "2026-10-27 06:53",
+      "Observador",
+      "Manifestantes detidos conhecem hoje decisão do MP",
+      "https://observador.pt/liveblogs/manifestantes-detidos-conhecem-hoje-decisao-do-mp-protestos-pela-habitacao-marcados-para-junto-ao-parlamento/"
+     ],
+     [
       "2026-10-27 06:52",
       "CNN Portugal",
       "Do início da discussão do OE2027 às eleições imprevisíveis em Israel: estas são \"as 5 notícias\" que vão marcar o dia",
@@ -6411,7 +6477,7 @@
       "https://www.publico.pt/2026/10/27/politica/noticia/impasse-mantemse-atira-eleicao-fiscalizacao-secretas-oe2027-2192719"
      ],
      [
-      "2026-10-27 06:40",
+      "2026-10-27 06:35",
       "ECO",
       "Sob ‘fogo cruzado’ da habitação, debate do OE2027 obriga Montenegro a quebrar o silêncio",
       "https://eco.sapo.pt/2026/10/27/sob-fogo-cruzado-da-habitacao-debate-do-oe2027-obriga-montenegro-a-quebrar-o-silencio/"
@@ -6421,12 +6487,6 @@
       "Renascença",
       "Montenegro volta a falar ao fim de 10 dias: primeiro-ministro no início do debate do OE2027",
       "https://rr.pt/noticia/amp/politica/2026/10/27/montenegro-volta-a-falar-ao-fim-de-10-dias-primeiro-ministro-no-inicio-do-debate-do-oe2027/490864/"
-     ],
-     [
-      "2026-10-27 06:20",
-      "Observador",
-      "7h.PM e PR pressionados a falar sobre protestos da habitação",
-      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
      ],
      [
       "2026-10-27 06:11",
@@ -6447,10 +6507,10 @@
       "https://www.rtp.pt/noticias/noticiario-antena1/5h-parlamento-comeca-discussao-do-orcamento-do-estado-para-2027_a1_1774603"
      ],
      [
-      "2026-10-27 00:54",
+      "2026-10-27 00:37",
       "Jornal de Negócios",
       "Carneiro leva habitação e custo de vida como temas principais ao debate do OE2027",
-      "https://www.jornaldenegocios.pt/economia/amp/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
+      "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
      ],
      [
       "2026-10-27 00:20",
@@ -7507,66 +7567,6 @@
       "Jornal de Negócios",
       "O bloco central",
       "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-bloco-central"
-     ],
-     [
-      "2026-10-10 16:51",
-      "RTP Notícias",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção no OE",
-      "https://www.rtp.pt/noticias/economia/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe_n1770897"
-     ],
-     [
-      "2026-10-10 16:19",
-      "CNN Portugal",
-      "OE2027: Carlos César aponta concordância da Comissão Nacional do PS com abstenção",
-      "https://cnnportugal.iol.pt/carlos-cesar/abstencao/oe2027-carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao/20261010/6aca577ad34e9a786e75ba5e"
-     ],
-     [
-      "2026-10-10 15:48",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS concorda com abstenção no OE2027",
-      "https://www.noticiasaominuto.com/null/3064793/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 15:47",
-      "Jornal Económico",
-      "OE2027: Carlos César diz que PS concorda com abstenção",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carlos-cesar-diz-que-ps-concorda-com-abstencao/"
-     ],
-     [
-      "2026-10-10 15:12",
-      "Observador",
-      "15h. OE 2027. José Luís Carneiro defende abstenção do PS",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2481/"
-     ],
-     [
-      "2026-10-10 14:53",
-      "Jornal de Notícias",
-      "Carneiro propõe abstenção ao OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606"
-     ],
-     [
-      "2026-10-10 14:52",
-      "Correio da Manhã",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção do Orçamento do Estado para 2027",
-      "https://www.cmjornal.pt/politica/amp/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-do-orcamento-do-estado-para-2027"
-     ],
-     [
-      "2026-10-10 14:40",
-      "JM Madeira",
-      "PS considera Orçamento do Estado para 2027 “mau para a Madeira”",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006800/ps-considera-orcamento-do-estado-para-2027-mau-para-a-madeira.html"
-     ],
-     [
-      "2026-10-10 14:01",
-      "ECO",
-      "Carneiro promete resposta a preços da energia com propostas no OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-promete-resposta-a-precos-da-energia-com-propostas-no-oe2027/"
-     ],
-     [
-      "2026-10-10 12:57",
-      "RTP Notícias",
-      "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
      ]
     ]
    },
@@ -7608,34 +7608,106 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1187,
-    "n7": 163,
-    "n7ant": 119,
+    "n": 1196,
+    "n7": 112,
+    "n7ant": 170,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 19:30",
+    "ultima": "2026-11-04 13:22",
     "ultimas": [
      {
-      "data": "2026-11-03",
+      "data": "2026-11-04",
       "fonte": "Jornal Económico",
-      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
-      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+      "titulo": "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
-      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "url": "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
-      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 13:22",
+      "Jornal Económico",
+      "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
+     ],
+     [
+      "2026-11-04 13:04",
+      "Jornal de Negócios",
+      "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
+     ],
+     [
+      "2026-11-04 11:01",
+      "Ambiente Magazine",
+      "WWF Portugal alerta que Orçamento do Estado para 2027 não identifica verbas específicas para o restauro da natureza",
+      "https://www.ambientemagazine.com/wwf-portugal-alerta-que-orcamento-do-estado-para-2027-nao-identifica-verbas-especificas-para-o-restauro-da-natureza/"
+     ],
+     [
+      "2026-11-04 10:27",
+      "Diário de Notícias",
+      "Professores protestam junto à AR para \"denunciar a falta de respostas\" do OE2027",
+      "https://www.dn.pt/sociedade/professores-protestam-junto-ar-para-denunciar-a-falta-de-respostas-do-oe2027"
+     ],
+     [
+      "2026-11-04 09:40",
+      "Nascer do SOL",
+      "OE2027: menos imposto, mas será mais simples para empresas e contabilistas?",
+      "https://sol.iol.pt/opiniao/noticias/vanessa-jose-oe2027-menos-imposto-mas-sera-mais-simples-para-empresas-e-contabilistas/20261104/6aeafd990cf2051820fb0630"
+     ],
+     [
+      "2026-11-04 09:11",
+      "Jornal Económico",
+      "Professores protestam junto ao Parlamento por mais investimento e valorização da carreira no OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/professores-protestam-junto-ao-parlamento-por-mais-investimento-e-valorizacao-da-carreira-no-oe2027/"
+     ],
+     [
+      "2026-11-04 00:01",
+      "Público",
+      "OE não permite avaliar impacto das medidas para a habitação, alertam economistas",
+      "https://www.publico.pt/2026/11/04/economia/noticia/oe-nao-permite-avaliar-impacto-medidas-habitacao-alertam-economistas-2193652?ref=economia"
+     ],
+     [
+      "2026-11-03 23:59",
+      "Jornal de Negócios",
+      "OE 2027 não permite saber quantas casas a mais o Governo vai pôr no mercado",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
+     ],
+     [
+      "2026-11-03 21:10",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 20:29",
+      "CNN Portugal",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b"
+     ],
+     [
+      "2026-11-03 20:13",
+      "Observador",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://observador.pt/2026/11/03/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
      [
       "2026-11-03 19:30",
       "Jornal Económico",
@@ -7658,7 +7730,13 @@
       "2026-11-03 19:06",
       "Público",
       "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
-      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633?ref=politica"
+     ],
+     [
+      "2026-11-03 18:43",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
      ],
      [
       "2026-11-03 18:40",
@@ -7667,19 +7745,13 @@
       "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
      ],
      [
-      "2026-11-03 18:32",
-      "ECO",
-      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
-      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
-     ],
-     [
       "2026-11-03 17:54",
       "CNN Portugal",
       "Parlamento falha acordo sobre adiamento do debate do OE2027",
       "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
      ],
      [
-      "2026-11-03 17:24",
+      "2026-11-03 17:30",
       "ECO",
       "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
       "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
@@ -7703,10 +7775,10 @@
       "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
      ],
      [
-      "2026-11-03 15:58",
+      "2026-11-03 16:02",
       "Jornal de Negócios",
       "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
-      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+      "https://www.jornaldenegocios.pt/economia/amp/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
      ],
      [
       "2026-11-03 15:23",
@@ -8621,12 +8693,6 @@
       "https://www.noticiasaominuto.com/politica/3074083/oe2027-carneiro-recusa-alterar-posicao-do-ps-e-desafia-governo-a-entregar-imoveis-do-ihru-aos-municipios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 22:31",
-      "RTP Notícias",
-      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
-      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
-     ],
-     [
       "2026-10-27 22:22",
       "Público",
       "“O povo unido jamais será vencido”: manifestantes pela habitação concentram-se em frente à Assembleia da República",
@@ -8663,10 +8729,10 @@
       "https://cnnportugal.iol.pt/oe2027/orcamento-para-2027/oe2027-montenegro-estima-que-governos-psd-cds-ja-devolveram-em-impostos-5-2-mil-milhoes-de-euros/20261027/6ae0e8a4d34e9a786e75e10b"
      ],
      [
-      "2026-10-27 18:44",
-      "JM Madeira",
-      "Todas as notícias atualizadas sobre oe2027",
-      "https://www.jm-madeira.pt/tag/oe2027"
+      "2026-10-27 17:29",
+      "Observador",
+      "15h. Debate na generalidade do Orçamento do Estado para 2027",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
      ],
      [
       "2026-10-27 17:29",
@@ -8705,13 +8771,7 @@
       "https://acores.rtp.pt/radio/oe-2027-visoes-diametralmente-opostas-dos-deputados-eleitos-pelos-acores/"
      ],
      [
-      "2026-10-27 16:29",
-      "Observador",
-      "15h. Debate na generalidade do Orçamento do Estado para 2027",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
-     ],
-     [
-      "2026-10-27 16:15",
+      "2026-10-27 16:13",
       "ECO",
       "CPI a mandatos de Luís Neves na PJ suspensa durante debate do Orçamento",
       "https://eco.sapo.pt/2026/10/27/cpi-a-mandatos-de-luis-neves-na-pj-suspensa-durante-debate-do-orcamento/"
@@ -8753,12 +8813,6 @@
       "https://www.dn.pt/sociedade/oe2027-mais-de-100-sindicalistas-contestam-oramento-em-frente-assembleia-da-repblica"
      ],
      [
-      "2026-10-27 15:10",
-      "Notícias ao Minuto",
-      "Mais de 100 sindicalistas contestam orçamento em frente à AR",
-      "https://www.noticiasaominuto.com/politica/3073801/mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
       "2026-10-27 15:09",
       "Executive Digest",
       "OE2027: Ventura questiona \"onde andou\" o PM, Montenegro diz que esteve a trabalhar",
@@ -8767,20 +8821,14 @@
      [
       "2026-10-27 15:00",
       "Diário de Notícias",
-      "OE2027: habitação e protestos marcam primeiro dia de debate. No exterior da AR, manifestação junta milhares",
-      "https://www.dn.pt/pol%C3%ADtica/acompanhe-o-debate-do-oramento-do-estado-em-direto-no-site-do-dn"
+      "Habitação marca debate do OE2027. Apelo à greve geral na manifestação que junta milhares em frente à AR",
+      "https://www.dn.pt/pol%C3%ADtica/habitao-marca-debate-do-oe2027-apelo-greve-geral-na-manifestao-que-junta-milhares-em-frente-ar"
      ],
      [
       "2026-10-27 14:59",
       "ECO",
-      "Montenegro garante abertura para acolher propostas da oposição na especialidade do OE2027. Siga aqui",
+      "“Onde é que o primeiro-ministro andou? Andou a trabalhar”, responde Montenegro. Siga aqui",
       "https://eco.sapo.pt/2026/10/27/parlamento-comeca-a-debater-oe2027-com-ruido-de-protestos-na-habitacao-siga-aqui/"
-     ],
-     [
-      "2026-10-27 14:28",
-      "Correio da Manhã",
-      "Comissão de inquérito a mandatos de Luís Neves suspensa durante debate do OE2027",
-      "https://www.cmjornal.pt/politica/amp/comissao-de-inquerito-a-mandatos-de-luis-neves-suspensa-durante-debate-do-oe2027"
      ],
      [
       "2026-10-27 14:12",
@@ -8807,12 +8855,6 @@
       "https://www.noticiasaominuto.com/pais/3073663/sindicalistas-protestam-contra-oe2027-em-frente-a-assembleia-da-republica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 11:18",
-      "Healthnews",
-      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
-      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/"
-     ],
-     [
       "2026-10-27 11:05",
       "Correio da Manhã",
       "Mais de 100 sindicalistas contestam Orçamento do Estado para 2027 em frente à Assembleia da República",
@@ -8825,16 +8867,16 @@
       "https://executivedigest.sapo.pt/oe2027-mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar/"
      ],
      [
-      "2026-10-27 08:53",
-      "JM Madeira",
-      "Acampada de Lisboa vai montar tendas em frente à AR após discussão do OE2027",
-      "https://www.jm-madeira.pt/not%C3%ADcias/nacional/30007968/acampada-de-lisboa-vai-montar-tendas-em-frente-a-ar-apos-discussao-do-oe2027.html"
-     ],
-     [
       "2026-10-27 08:39",
       "TSF",
       "Arranque do debate do OE 2027 e eleições legislativas em Israel",
       "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494"
+     ],
+     [
+      "2026-10-27 08:00",
+      "Healthnews",
+      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
+      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/#utm_source=rss&utm_medium=rss&utm_campaign=parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr"
      ],
      [
       "2026-10-27 08:00",
@@ -8851,8 +8893,20 @@
      [
       "2026-10-27 07:37",
       "RTP Notícias",
+      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
+      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
+     ],
+     [
+      "2026-10-27 07:37",
+      "RTP Notícias",
       "OE2027. Conselho de Finanças Públicas considera excedente plausível mas alerta para riscos",
       "https://www.rtp.pt/noticias/economia/oe2027-conselho-de-financas-publicas-considera-excedente-plausivel-mas-alerta-para-riscos_n1774504"
+     ],
+     [
+      "2026-10-27 07:35",
+      "ECO",
+      "Salários elevados? É só querer",
+      "https://eco.sapo.pt/opiniao/salarios-elevados-e-so-querer/"
      ],
      [
       "2026-10-27 07:23",
@@ -8867,6 +8921,18 @@
       "https://www.tsf.pt/politica/artigo/parlamento-inicia-debate-de-oe2027-com-protestos-pela-habitacao-em-fundo/18141477"
      ],
      [
+      "2026-10-27 07:20",
+      "Observador",
+      "7h.PM e PR pressionados a falar sobre protestos da habitação",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
+     ],
+     [
+      "2026-10-27 06:53",
+      "Observador",
+      "Manifestantes detidos conhecem hoje decisão do MP",
+      "https://observador.pt/liveblogs/manifestantes-detidos-conhecem-hoje-decisao-do-mp-protestos-pela-habitacao-marcados-para-junto-ao-parlamento/"
+     ],
+     [
       "2026-10-27 06:52",
       "CNN Portugal",
       "Do início da discussão do OE2027 às eleições imprevisíveis em Israel: estas são \"as 5 notícias\" que vão marcar o dia",
@@ -8879,7 +8945,7 @@
       "https://www.publico.pt/2026/10/27/politica/noticia/impasse-mantemse-atira-eleicao-fiscalizacao-secretas-oe2027-2192719"
      ],
      [
-      "2026-10-27 06:40",
+      "2026-10-27 06:35",
       "ECO",
       "Sob ‘fogo cruzado’ da habitação, debate do OE2027 obriga Montenegro a quebrar o silêncio",
       "https://eco.sapo.pt/2026/10/27/sob-fogo-cruzado-da-habitacao-debate-do-oe2027-obriga-montenegro-a-quebrar-o-silencio/"
@@ -8889,12 +8955,6 @@
       "Renascença",
       "Montenegro volta a falar ao fim de 10 dias: primeiro-ministro no início do debate do OE2027",
       "https://rr.pt/noticia/amp/politica/2026/10/27/montenegro-volta-a-falar-ao-fim-de-10-dias-primeiro-ministro-no-inicio-do-debate-do-oe2027/490864/"
-     ],
-     [
-      "2026-10-27 06:20",
-      "Observador",
-      "7h.PM e PR pressionados a falar sobre protestos da habitação",
-      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
      ],
      [
       "2026-10-27 06:11",
@@ -8915,10 +8975,10 @@
       "https://www.rtp.pt/noticias/noticiario-antena1/5h-parlamento-comeca-discussao-do-orcamento-do-estado-para-2027_a1_1774603"
      ],
      [
-      "2026-10-27 00:54",
+      "2026-10-27 00:37",
       "Jornal de Negócios",
       "Carneiro leva habitação e custo de vida como temas principais ao debate do OE2027",
-      "https://www.jornaldenegocios.pt/economia/amp/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
+      "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
      ],
      [
       "2026-10-27 00:20",
@@ -9975,66 +10035,6 @@
       "Jornal de Negócios",
       "O bloco central",
       "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-bloco-central"
-     ],
-     [
-      "2026-10-10 16:51",
-      "RTP Notícias",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção no OE",
-      "https://www.rtp.pt/noticias/economia/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe_n1770897"
-     ],
-     [
-      "2026-10-10 16:19",
-      "CNN Portugal",
-      "OE2027: Carlos César aponta concordância da Comissão Nacional do PS com abstenção",
-      "https://cnnportugal.iol.pt/carlos-cesar/abstencao/oe2027-carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao/20261010/6aca577ad34e9a786e75ba5e"
-     ],
-     [
-      "2026-10-10 15:48",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS concorda com abstenção no OE2027",
-      "https://www.noticiasaominuto.com/null/3064793/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 15:47",
-      "Jornal Económico",
-      "OE2027: Carlos César diz que PS concorda com abstenção",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carlos-cesar-diz-que-ps-concorda-com-abstencao/"
-     ],
-     [
-      "2026-10-10 15:12",
-      "Observador",
-      "15h. OE 2027. José Luís Carneiro defende abstenção do PS",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2481/"
-     ],
-     [
-      "2026-10-10 14:53",
-      "Jornal de Notícias",
-      "Carneiro propõe abstenção ao OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606"
-     ],
-     [
-      "2026-10-10 14:52",
-      "Correio da Manhã",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção do Orçamento do Estado para 2027",
-      "https://www.cmjornal.pt/politica/amp/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-do-orcamento-do-estado-para-2027"
-     ],
-     [
-      "2026-10-10 14:40",
-      "JM Madeira",
-      "PS considera Orçamento do Estado para 2027 “mau para a Madeira”",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006800/ps-considera-orcamento-do-estado-para-2027-mau-para-a-madeira.html"
-     ],
-     [
-      "2026-10-10 14:01",
-      "ECO",
-      "Carneiro promete resposta a preços da energia com propostas no OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-promete-resposta-a-precos-da-energia-com-propostas-no-oe2027/"
-     ],
-     [
-      "2026-10-10 12:57",
-      "RTP Notícias",
-      "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
      ]
     ]
    },
@@ -10076,34 +10076,106 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1187,
-    "n7": 163,
-    "n7ant": 119,
+    "n": 1196,
+    "n7": 112,
+    "n7ant": 170,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 19:30",
+    "ultima": "2026-11-04 13:22",
     "ultimas": [
      {
-      "data": "2026-11-03",
+      "data": "2026-11-04",
       "fonte": "Jornal Económico",
-      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
-      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+      "titulo": "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
-      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "url": "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
-      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-04",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 13:22",
+      "Jornal Económico",
+      "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
+     ],
+     [
+      "2026-11-04 13:04",
+      "Jornal de Negócios",
+      "Chega quer medidas para a habitação no Orçamento e propõe dedução no IRS dos juros do crédito à habitação",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/chega-quer-medidas-para-a-habitacao-no-orcamento-e-propoe-deducao-no-irs-dos-juros-do-credito-a-habitacao"
+     ],
+     [
+      "2026-11-04 11:01",
+      "Ambiente Magazine",
+      "WWF Portugal alerta que Orçamento do Estado para 2027 não identifica verbas específicas para o restauro da natureza",
+      "https://www.ambientemagazine.com/wwf-portugal-alerta-que-orcamento-do-estado-para-2027-nao-identifica-verbas-especificas-para-o-restauro-da-natureza/"
+     ],
+     [
+      "2026-11-04 10:27",
+      "Diário de Notícias",
+      "Professores protestam junto à AR para \"denunciar a falta de respostas\" do OE2027",
+      "https://www.dn.pt/sociedade/professores-protestam-junto-ar-para-denunciar-a-falta-de-respostas-do-oe2027"
+     ],
+     [
+      "2026-11-04 09:40",
+      "Nascer do SOL",
+      "OE2027: menos imposto, mas será mais simples para empresas e contabilistas?",
+      "https://sol.iol.pt/opiniao/noticias/vanessa-jose-oe2027-menos-imposto-mas-sera-mais-simples-para-empresas-e-contabilistas/20261104/6aeafd990cf2051820fb0630"
+     ],
+     [
+      "2026-11-04 09:11",
+      "Jornal Económico",
+      "Professores protestam junto ao Parlamento por mais investimento e valorização da carreira no OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/professores-protestam-junto-ao-parlamento-por-mais-investimento-e-valorizacao-da-carreira-no-oe2027/"
+     ],
+     [
+      "2026-11-04 00:01",
+      "Público",
+      "OE não permite avaliar impacto das medidas para a habitação, alertam economistas",
+      "https://www.publico.pt/2026/11/04/economia/noticia/oe-nao-permite-avaliar-impacto-medidas-habitacao-alertam-economistas-2193652?ref=economia"
+     ],
+     [
+      "2026-11-03 23:59",
+      "Jornal de Negócios",
+      "OE 2027 não permite saber quantas casas a mais o Governo vai pôr no mercado",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
+     ],
+     [
+      "2026-11-03 21:10",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 20:29",
+      "CNN Portugal",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b"
+     ],
+     [
+      "2026-11-03 20:13",
+      "Observador",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://observador.pt/2026/11/03/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
      [
       "2026-11-03 19:30",
       "Jornal Económico",
@@ -10126,7 +10198,13 @@
       "2026-11-03 19:06",
       "Público",
       "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
-      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633?ref=politica"
+     ],
+     [
+      "2026-11-03 18:43",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
      ],
      [
       "2026-11-03 18:40",
@@ -10135,19 +10213,13 @@
       "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
      ],
      [
-      "2026-11-03 18:32",
-      "ECO",
-      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
-      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
-     ],
-     [
       "2026-11-03 17:54",
       "CNN Portugal",
       "Parlamento falha acordo sobre adiamento do debate do OE2027",
       "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
      ],
      [
-      "2026-11-03 17:24",
+      "2026-11-03 17:30",
       "ECO",
       "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
       "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
@@ -10171,10 +10243,10 @@
       "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
      ],
      [
-      "2026-11-03 15:58",
+      "2026-11-03 16:02",
       "Jornal de Negócios",
       "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
-      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+      "https://www.jornaldenegocios.pt/economia/amp/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
      ],
      [
       "2026-11-03 15:23",
@@ -11089,12 +11161,6 @@
       "https://www.noticiasaominuto.com/politica/3074083/oe2027-carneiro-recusa-alterar-posicao-do-ps-e-desafia-governo-a-entregar-imoveis-do-ihru-aos-municipios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 22:31",
-      "RTP Notícias",
-      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
-      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
-     ],
-     [
       "2026-10-27 22:22",
       "Público",
       "“O povo unido jamais será vencido”: manifestantes pela habitação concentram-se em frente à Assembleia da República",
@@ -11131,10 +11197,10 @@
       "https://cnnportugal.iol.pt/oe2027/orcamento-para-2027/oe2027-montenegro-estima-que-governos-psd-cds-ja-devolveram-em-impostos-5-2-mil-milhoes-de-euros/20261027/6ae0e8a4d34e9a786e75e10b"
      ],
      [
-      "2026-10-27 18:44",
-      "JM Madeira",
-      "Todas as notícias atualizadas sobre oe2027",
-      "https://www.jm-madeira.pt/tag/oe2027"
+      "2026-10-27 17:29",
+      "Observador",
+      "15h. Debate na generalidade do Orçamento do Estado para 2027",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
      ],
      [
       "2026-10-27 17:29",
@@ -11173,13 +11239,7 @@
       "https://acores.rtp.pt/radio/oe-2027-visoes-diametralmente-opostas-dos-deputados-eleitos-pelos-acores/"
      ],
      [
-      "2026-10-27 16:29",
-      "Observador",
-      "15h. Debate na generalidade do Orçamento do Estado para 2027",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2498/"
-     ],
-     [
-      "2026-10-27 16:15",
+      "2026-10-27 16:13",
       "ECO",
       "CPI a mandatos de Luís Neves na PJ suspensa durante debate do Orçamento",
       "https://eco.sapo.pt/2026/10/27/cpi-a-mandatos-de-luis-neves-na-pj-suspensa-durante-debate-do-orcamento/"
@@ -11221,12 +11281,6 @@
       "https://www.dn.pt/sociedade/oe2027-mais-de-100-sindicalistas-contestam-oramento-em-frente-assembleia-da-repblica"
      ],
      [
-      "2026-10-27 15:10",
-      "Notícias ao Minuto",
-      "Mais de 100 sindicalistas contestam orçamento em frente à AR",
-      "https://www.noticiasaominuto.com/politica/3073801/mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
       "2026-10-27 15:09",
       "Executive Digest",
       "OE2027: Ventura questiona \"onde andou\" o PM, Montenegro diz que esteve a trabalhar",
@@ -11235,20 +11289,14 @@
      [
       "2026-10-27 15:00",
       "Diário de Notícias",
-      "OE2027: habitação e protestos marcam primeiro dia de debate. No exterior da AR, manifestação junta milhares",
-      "https://www.dn.pt/pol%C3%ADtica/acompanhe-o-debate-do-oramento-do-estado-em-direto-no-site-do-dn"
+      "Habitação marca debate do OE2027. Apelo à greve geral na manifestação que junta milhares em frente à AR",
+      "https://www.dn.pt/pol%C3%ADtica/habitao-marca-debate-do-oe2027-apelo-greve-geral-na-manifestao-que-junta-milhares-em-frente-ar"
      ],
      [
       "2026-10-27 14:59",
       "ECO",
-      "Montenegro garante abertura para acolher propostas da oposição na especialidade do OE2027. Siga aqui",
+      "“Onde é que o primeiro-ministro andou? Andou a trabalhar”, responde Montenegro. Siga aqui",
       "https://eco.sapo.pt/2026/10/27/parlamento-comeca-a-debater-oe2027-com-ruido-de-protestos-na-habitacao-siga-aqui/"
-     ],
-     [
-      "2026-10-27 14:28",
-      "Correio da Manhã",
-      "Comissão de inquérito a mandatos de Luís Neves suspensa durante debate do OE2027",
-      "https://www.cmjornal.pt/politica/amp/comissao-de-inquerito-a-mandatos-de-luis-neves-suspensa-durante-debate-do-oe2027"
      ],
      [
       "2026-10-27 14:12",
@@ -11275,12 +11323,6 @@
       "https://www.noticiasaominuto.com/pais/3073663/sindicalistas-protestam-contra-oe2027-em-frente-a-assembleia-da-republica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-10-27 11:18",
-      "Healthnews",
-      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
-      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/"
-     ],
-     [
       "2026-10-27 11:05",
       "Correio da Manhã",
       "Mais de 100 sindicalistas contestam Orçamento do Estado para 2027 em frente à Assembleia da República",
@@ -11293,16 +11335,16 @@
       "https://executivedigest.sapo.pt/oe2027-mais-de-100-sindicalistas-contestam-orcamento-em-frente-a-ar/"
      ],
      [
-      "2026-10-27 08:53",
-      "JM Madeira",
-      "Acampada de Lisboa vai montar tendas em frente à AR após discussão do OE2027",
-      "https://www.jm-madeira.pt/not%C3%ADcias/nacional/30007968/acampada-de-lisboa-vai-montar-tendas-em-frente-a-ar-apos-discussao-do-oe2027.html"
-     ],
-     [
       "2026-10-27 08:39",
       "TSF",
       "Arranque do debate do OE 2027 e eleições legislativas em Israel",
       "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494"
+     ],
+     [
+      "2026-10-27 08:00",
+      "Healthnews",
+      "Parlamento começa hoje a discutir o Orçamento de 2027, com a Saúde a perder 1,5% após o fim do PRR",
+      "https://healthnews.pt/2026/10/27/parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr/#utm_source=rss&utm_medium=rss&utm_campaign=parlamento-comeca-hoje-a-discutir-o-orcamento-de-2027-com-a-saude-a-perder-15-apos-o-fim-do-prr"
      ],
      [
       "2026-10-27 08:00",
@@ -11319,8 +11361,20 @@
      [
       "2026-10-27 07:37",
       "RTP Notícias",
+      "Debate na generalidade da proposta de Orçamento do Estado para 2027",
+      "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610"
+     ],
+     [
+      "2026-10-27 07:37",
+      "RTP Notícias",
       "OE2027. Conselho de Finanças Públicas considera excedente plausível mas alerta para riscos",
       "https://www.rtp.pt/noticias/economia/oe2027-conselho-de-financas-publicas-considera-excedente-plausivel-mas-alerta-para-riscos_n1774504"
+     ],
+     [
+      "2026-10-27 07:35",
+      "ECO",
+      "Salários elevados? É só querer",
+      "https://eco.sapo.pt/opiniao/salarios-elevados-e-so-querer/"
      ],
      [
       "2026-10-27 07:23",
@@ -11335,6 +11389,18 @@
       "https://www.tsf.pt/politica/artigo/parlamento-inicia-debate-de-oe2027-com-protestos-pela-habitacao-em-fundo/18141477"
      ],
      [
+      "2026-10-27 07:20",
+      "Observador",
+      "7h.PM e PR pressionados a falar sobre protestos da habitação",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
+     ],
+     [
+      "2026-10-27 06:53",
+      "Observador",
+      "Manifestantes detidos conhecem hoje decisão do MP",
+      "https://observador.pt/liveblogs/manifestantes-detidos-conhecem-hoje-decisao-do-mp-protestos-pela-habitacao-marcados-para-junto-ao-parlamento/"
+     ],
+     [
       "2026-10-27 06:52",
       "CNN Portugal",
       "Do início da discussão do OE2027 às eleições imprevisíveis em Israel: estas são \"as 5 notícias\" que vão marcar o dia",
@@ -11347,7 +11413,7 @@
       "https://www.publico.pt/2026/10/27/politica/noticia/impasse-mantemse-atira-eleicao-fiscalizacao-secretas-oe2027-2192719"
      ],
      [
-      "2026-10-27 06:40",
+      "2026-10-27 06:35",
       "ECO",
       "Sob ‘fogo cruzado’ da habitação, debate do OE2027 obriga Montenegro a quebrar o silêncio",
       "https://eco.sapo.pt/2026/10/27/sob-fogo-cruzado-da-habitacao-debate-do-oe2027-obriga-montenegro-a-quebrar-o-silencio/"
@@ -11357,12 +11423,6 @@
       "Renascença",
       "Montenegro volta a falar ao fim de 10 dias: primeiro-ministro no início do debate do OE2027",
       "https://rr.pt/noticia/amp/politica/2026/10/27/montenegro-volta-a-falar-ao-fim-de-10-dias-primeiro-ministro-no-inicio-do-debate-do-oe2027/490864/"
-     ],
-     [
-      "2026-10-27 06:20",
-      "Observador",
-      "7h.PM e PR pressionados a falar sobre protestos da habitação",
-      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2545/"
      ],
      [
       "2026-10-27 06:11",
@@ -11383,10 +11443,10 @@
       "https://www.rtp.pt/noticias/noticiario-antena1/5h-parlamento-comeca-discussao-do-orcamento-do-estado-para-2027_a1_1774603"
      ],
      [
-      "2026-10-27 00:54",
+      "2026-10-27 00:37",
       "Jornal de Negócios",
       "Carneiro leva habitação e custo de vida como temas principais ao debate do OE2027",
-      "https://www.jornaldenegocios.pt/economia/amp/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
+      "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-leva-habitacao-e-custo-de-vida-como-temas-principais-ao-debate-do-oe2027"
      ],
      [
       "2026-10-27 00:20",
@@ -12443,66 +12503,6 @@
       "Jornal de Negócios",
       "O bloco central",
       "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-bloco-central"
-     ],
-     [
-      "2026-10-10 16:51",
-      "RTP Notícias",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção no OE",
-      "https://www.rtp.pt/noticias/economia/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe_n1770897"
-     ],
-     [
-      "2026-10-10 16:19",
-      "CNN Portugal",
-      "OE2027: Carlos César aponta concordância da Comissão Nacional do PS com abstenção",
-      "https://cnnportugal.iol.pt/carlos-cesar/abstencao/oe2027-carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao/20261010/6aca577ad34e9a786e75ba5e"
-     ],
-     [
-      "2026-10-10 15:48",
-      "Notícias ao Minuto",
-      "Comissão Nacional do PS concorda com abstenção no OE2027",
-      "https://www.noticiasaominuto.com/null/3064793/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 15:47",
-      "Jornal Económico",
-      "OE2027: Carlos César diz que PS concorda com abstenção",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carlos-cesar-diz-que-ps-concorda-com-abstencao/"
-     ],
-     [
-      "2026-10-10 15:12",
-      "Observador",
-      "15h. OE 2027. José Luís Carneiro defende abstenção do PS",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2481/"
-     ],
-     [
-      "2026-10-10 14:53",
-      "Jornal de Notícias",
-      "Carneiro propõe abstenção ao OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606"
-     ],
-     [
-      "2026-10-10 14:52",
-      "Correio da Manhã",
-      "Carlos César aponta concordância da Comissão Nacional do PS com abstenção do Orçamento do Estado para 2027",
-      "https://www.cmjornal.pt/politica/amp/carlos-cesar-aponta-concordancia-da-comissao-nacional-do-ps-com-abstencao-do-orcamento-do-estado-para-2027"
-     ],
-     [
-      "2026-10-10 14:40",
-      "JM Madeira",
-      "PS considera Orçamento do Estado para 2027 “mau para a Madeira”",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006800/ps-considera-orcamento-do-estado-para-2027-mau-para-a-madeira.html"
-     ],
-     [
-      "2026-10-10 14:01",
-      "ECO",
-      "Carneiro promete resposta a preços da energia com propostas no OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-promete-resposta-a-precos-da-energia-com-propostas-no-oe2027/"
-     ],
-     [
-      "2026-10-10 12:57",
-      "RTP Notícias",
-      "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
      ]
     ]
    },
@@ -12539,7 +12539,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12573,7 +12573,7 @@
     "n7": 0,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -12678,8 +12678,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-03T23:06+00:00",
-  "atualizadoLabel": "3 de novembro, 23h06",
+  "atualizado": "2026-11-04T15:20+00:00",
+  "atualizadoLabel": "4 de novembro, 15h20",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12864,7 +12864,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 29,
+   "novas": 41,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a preparação para o debate parlamentar. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas. O PCP anunciou o voto contra, mas o Governo viabilizou o documento com apoio de outros partidos. O debate na generalidade ocorreu a 27 de outubro, com a habitação a dominar o confronto. O Governo rejeitou o desmantelamento da CP e reafirmou o seu papel estratégico."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
@@ -13046,7 +13046,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 29,
+   "novas": 41,
    "enquadramento": "O debate sobre o Orçamento do Estado para 2027 tem sido um foco central na Assembleia da República, com várias notícias a reportar discussões parlamentares, posições de partidos e medidas governamentais. O Governo apresentou a proposta de lei, que foi alvo de críticas e anúncios de voto contra por parte de partidos da oposição, como o PCP. Entretanto, foram reportados avanços na discussão do orçamento, como a confirmação da suspensão de um inquérito e a aprovação de medidas relacionadas com a habitação e a Carteira Digital de Empresa. A cobertura mediática tem acompanhado a evolução do debate, com ênfase em temas como a dívida pública, a regulação do setor privado e o apoio à juventude."
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
@@ -13228,7 +13228,7 @@
     "ultima": "2026-10-29 22:15",
     "em": "2026-11-02"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática focou-se principalmente em anúncios governamentais e discussões sobre políticas públicas, com destaque para a inteligência artificial, a TAP, a Lusa e o Orçamento do Estado. O Ministro da Presidência, António Leitão Amaro, foi a figura central, anunciando medidas como o apoio da AMÁLIA no atendimento público, a redução do ISP e a aprovação de descidas de IRS. Embora algumas notícias tenham abordado críticas ao anterior governo, a maioria das informações foram relevantes para a agenda governamental atual. Não foram identificadas notícias que questionassem diretamente a Proposta de Lei 110/XVI/2.ª ou o Orçamento do Estado 2027."
   },
   "2026-11-06-48630-ministro-de-estado-e-das-finan-as-joaquim-m": {
@@ -13496,7 +13496,7 @@
     "ultima": "2026-11-02 14:38",
     "em": "2026-11-02"
    },
-   "novas": 1,
+   "novas": 9,
    "enquadramento": "O Ministro das Infraestruturas e Habitação, Miguel Pinto Luz, foi nomeado para presidir ao Instituto da Mobilidade e Transportes, e tem estado envolvido em discussões sobre a lei das rendas e a habitação. A sua equipa tem estado a lidar com a crise da habitação e a gerir projetos de infraestruturas como o novo aeroporto e o TGV."
   },
   "2026-11-02-48571-ministra-da-cultura-juventude-e-desporto-ma": {
@@ -13668,7 +13668,7 @@
     "ultima": "2026-10-30 13:43",
     "em": "2026-11-02"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, tem estado envolvido em discussões sobre a organização do sistema educativo, incluindo a revisão da Lei da Ciência e a gestão de problemas como o alargamento de turmas e a colocação de professores. A sua atuação tem sido objeto de críticas e questionamentos por parte de partidos da oposição e sindicatos, enquanto o Governo defende as suas políticas."
   },
   "2026-11-05-48566-ministro-da-defesa-nacional-nuno-melo-or-am": {
@@ -13857,15 +13857,15 @@
      "data": "2026-09-24",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
-     "sintese": "A AHRESP apresentou 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
+     "sintese": "A AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-09-29",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/economia/article/2026-09-29/47858717/oe2027-albuquerque-recebe-garantia-de-verbas-do-pm-e-n%C3%A3o-antecipa-qualquer-problema-na-vota%C3%A7%C3%A3o",
-     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa qualquer problema na votação do OE2027.",
+     "data": "2026-09-30",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
+     "sintese": "Montenegro sublinha um sinal importante dado pelo PS no âmbito do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -13881,7 +13881,7 @@
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "O Governo entrega a proposta do OE2027 no Parlamento esta quinta-feira à tarde.",
+     "sintese": "O Governo entrega a proposta do OE2027 no Parlamento.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13897,15 +13897,15 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD espera tranquilidade e previsibilidade com o OE2027, mas PS avisa que compromissos são para cumprir.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O PSD espera tranquilidade e previsibilidade com o OE2027, enquanto o PS avisa que os compromissos são para cumprir.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-09",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
-     "sintese": "Num debate sobre o OE2027, habitação e Centeno roubaram o palco.",
+     "sintese": "Num debate sobre o OE2027, a habitação e Centeno roubaram o palco.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13913,39 +13913,31 @@
      "data": "2026-10-10",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propõe abstenção ao OE2027, mas admite voto contra por convicções.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Carneiro propõe abstenção ao OE2027, mas admite que convicções mais profundas levariam a voto contra.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
      "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/oe2027-carneiro-garante-que-ps-nao-estara-na-origem-de-qualquer-crise-politica_n1771510",
+     "sintese": "Carneiro garante que o PS não estará na origem de qualquer crise política.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
-     "data": "2026-10-13",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/artigo/convidado/2026/10/13/o-oe-2027-em-perspetiva/489028/",
-     "sintese": "OE 2027 em perspetiva, com análise de medidas e posições políticas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-10-23",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
-     "sintese": "José Luís Carneiro justifica viabilização do 'mau' OE2027 com crises em Portugal e no estrangeiro.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-27",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
-     "sintese": "Debate na generalidade do OE2027, com protestos pela habitação a marcar o confronto parlamentar.",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/economia/article/2026-10-23/47996208/oe2027-conselho-geral-da-associa%C3%A7%C3%A3o-de-munic%C3%ADpios-aprova-por-unanimidade-parecer-positivo",
+     "sintese": "O Conselho Geral da Associação de Municípios aprova por unanimidade um parecer positivo sobre o OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13953,23 +13945,15 @@
      "data": "2026-10-28",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
-     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027.",
+     "sintese": "O Parlamento confirma a suspensão do inquérito a Luís Neves durante a discussão do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
-     "sintese": "Carneiro acusa PSD e CDS de destratar e atacar PS no debate do OE2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-29",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Decisão da Galp é soberana, mas Governo cumpriu o seu papel no OE2027.",
+     "sintese": "A decisão da Galp é soberana e o Governo cumpriu o seu papel no âmbito do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -13977,7 +13961,7 @@
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "Carteira Digital tem 18 mil empresas, com Alemanha a inspirar-se no modelo português.",
+     "sintese": "A Carteira Digital de Empresa tem 18 mil empresas, segundo o ministro Gonçalo Matias.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13985,7 +13969,7 @@
      "data": "2026-10-31",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
-     "sintese": "Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos no OE2027.",
+     "sintese": "A Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13993,7 +13977,7 @@
      "data": "2026-11-01",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
-     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
+     "sintese": "O Governo rejeita o desmantelamento da CP e afirma que a subconcessão preserva o papel estratégico da empresa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14001,29 +13985,45 @@
      "data": "2026-11-02",
      "fonte": "Diário de Notícias",
      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
-     "sintese": "Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
+     "sintese": "O Governo rejeita o desmantelamento da CP e afirma que a subconcessão preserva o papel estratégico da empresa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-03",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b",
+     "sintese": "O CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
+     "sintese": "Falta informação no OE 2027 para avaliar as políticas do Governo, especialmente na habitação.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-04",
      "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/",
-     "sintese": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027.",
+     "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
+     "sintese": "Falta investimento na Educação. Sindicatos dos professores avaliam o OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1187
+    "encontradas": 1196
    },
    "base": {
-    "ultima": "2026-11-03 19:30",
-    "em": "2026-11-03"
+    "ultima": "2026-11-04 13:22",
+    "em": "2026-11-04"
    },
    "novas": 0,
-   "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 tem acompanhado o debate parlamentar, com notícias que vão desde a apresentação da proposta de lei até à discussão de medidas específicas e posições dos partidos. A AHRESP apresentou propostas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas e o PSD manifestou tranquilidade. O PCP anunciou um voto contra, e o debate na generalidade evidenciou divergências sobre a habitação e a gestão económica. O Governo rejeitou o desmantelamento da CP e defendeu a subconcessão, enquanto a ANAM propôs um fundo permanente para catástrofes climáticas. A cobertura evoluiu de anúncios iniciais para debates de especialidade, com críticas e posições políticas expressas."
+   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 tem acompanhado de perto a proposta legislativa, com notícias que vão desde a apresentação formal do documento até à discussão na especialidade. Apresentam-se propostas para estimular o investimento e arrecadar mais receitas através de impostos sobre tabaco e álcool, enquanto partidos políticos expressam posições diversas sobre a viabilidade e os compromissos do Orçamento. O debate tem sido marcado por críticas de partidos como o PCP, que anunciou voto contra, e por posições mais favoráveis de outros, como o PSD, que espera previsibilidade. A cobertura inclui também informações sobre medidas específicas, como a Carteira Digital de Empresa, e a confirmação de que o PS propõe a abstenção na votação final global."
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
    "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
@@ -14472,7 +14472,7 @@
     "ultima": "2026-11-03 14:51",
     "em": "2026-11-03"
    },
-   "novas": 13,
+   "novas": 25,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento e a preparação para o debate de quinta-feira. A AHRESP apresentou propostas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas e o PSD manifestou tranquilidade. O PCP anunciou o voto contra, e o debate na generalidade evidenciou divergências sobre a habitação e a dívida pública. O Governo rejeitou o desmantelamento da CP e propôs a semana de quatro dias para a administração pública."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -14654,7 +14654,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 29,
+   "novas": 41,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a realização de debates parlamentares. A oposição, nomeadamente o PCP, anunciou o seu voto contra, enquanto o Governo procura a viabilização através de compromissos e a gestão de crises internacionais. O PSD e o CDS expressaram preocupações sobre a estabilidade do Orçamento, enquanto o Governo enfatiza a redução da dívida pública e a importância da previsibilidade económica. A cobertura inclui também temas relacionados, como a habitação, a Carteira Digital de Empresa e a valorização da juventude, embora não diretamente relacionados com a discussão do Orçamento."
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
@@ -14800,11 +14800,11 @@
     }
    ],
    "cobertura": {
-    "n": 41,
-    "n7": 6,
-    "n7ant": 1,
+    "n": 38,
+    "n7": 5,
+    "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
     "ultima": "2026-11-03 10:43",
     "ultimas": [
@@ -15055,24 +15055,6 @@
       "Healthnews",
       "Ministra recusa novos aterros e admite incineradora no Algarve",
       "https://healthnews.pt/2026/09/05/ministra-recusa-novos-aterros-e-admite-incineradora-no-algarve/#utm_source=rss&utm_medium=rss&utm_campaign=ministra-recusa-novos-aterros-e-admite-incineradora-no-algarve"
-     ],
-     [
-      "2026-09-04 22:48",
-      "RTP Notícias",
-      "Reestruturação da APA e do ICNF \"praticamente pronta\" diz ministra do Ambiente",
-      "https://www.rtp.pt/noticias/pais/reestruturacao-da-apa-e-do-icnf-praticamente-pronta-diz-ministra-do-ambiente_n1763484"
-     ],
-     [
-      "2026-09-04 20:41",
-      "RTP Notícias",
-      "ERSE deve ter \"competência sancionatória\" no mercado dos combustíveis indica ministra do Ambiente",
-      "https://www.rtp.pt/noticias/economia/erse-deve-ter-competencia-sancionatoria-no-mercado-dos-combustiveis-indica-ministra-do-ambiente_n1763459"
-     ],
-     [
-      "2026-09-04 10:46",
-      "ECO",
-      "Ministra abre a porta a que ERSE reforce poderes para sancionar gasolineiras",
-      "https://eco.sapo.pt/2026/09/04/ministra-abre-a-porta-a-que-erse-reforce-poderes-para-sancionar-gasolineiras/"
      ]
     ]
    },
@@ -15139,14 +15121,20 @@
     }
    ],
    "cobertura": {
-    "n": 33,
-    "n7": 3,
-    "n7ant": 8,
+    "n": 29,
+    "n7": 4,
+    "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
-    "ultima": "2026-10-29 22:15",
+    "ultima": "2026-11-04 09:40",
     "ultimas": [
+     {
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "Próximo Conselho de Administração deve fazer “reestruturação profunda” da RTP",
+      "url": "https://eco.sapo.pt/2026/11/04/proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp/"
+     },
      {
       "data": "2026-10-29",
       "fonte": "CNN Portugal",
@@ -15158,15 +15146,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "Governo aprova descida das taxas de IRS de 2026 após autorização parlamentar",
       "url": "https://www.jornaldenegocios.pt/economia/detalhe/governo-aprova-descida-das-taxas-de-irs-de-2026-apos-autorizacao-parlamentar"
-     },
-     {
-      "data": "2026-10-29",
-      "fonte": "ECO",
-      "titulo": "Governo aprova descida de IRS até ao sexto escalão",
-      "url": "https://eco.sapo.pt/2026/10/29/governo-aprova-descida-de-irs-ate-ao-sexto-escalao/"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 09:40",
+      "ECO",
+      "Próximo Conselho de Administração deve fazer “reestruturação profunda” da RTP",
+      "https://eco.sapo.pt/2026/11/04/proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp/"
+     ],
      [
       "2026-10-29 22:15",
       "CNN Portugal",
@@ -15334,36 +15322,6 @@
       "SAPO Tek",
       "Governo quer AMÁLIA a apoiar respostas no atendimento de serviços públicos",
       "https://tek.sapo.pt/noticias/computadores/artigos/governo-quer-amalia-a-apoiar-respostas-no-atendimento-de-servicos-publicos/"
-     ],
-     [
-      "2026-09-04 18:15",
-      "Observador",
-      "18h. Governo aumenta desconto no ISP em 3 cêntimos",
-      "https://observador.pt/programas/noticiario/as-noticias-das-18h-2130/"
-     ],
-     [
-      "2026-09-04 17:21",
-      "Jornal de Negócios",
-      "Air France-KLM reitera interesse na TAP e aguarda com \"expectativa\" ronda de negociações",
-      "https://www.jornaldenegocios.pt/empresas/detalhe/air-france-klm-reitera-interessa-na-tap-e-aguarda-com-expectativa-ronda-de-negociacoes"
-     ],
-     [
-      "2026-09-04 16:55",
-      "Jornal Económico",
-      "Modelo de IA Amália vai ter capacidades adicionais para ajudar no atendimento público",
-      "https://jornaleconomico.sapo.pt/noticias/modelo-de-ia-amalia-vai-ter-capacidades-adicionais-para-ajudar-no-atendimento-publico/"
-     ],
-     [
-      "2026-09-04 16:10",
-      "RTP Notícias",
-      "Venda da TAP. Governo inicia negociações finais com os dois candidatos",
-      "https://www.rtp.pt/noticias/economia/venda-da-tap-governo-inicia-negociacoes-finais-com-os-dois-candidatos_n1763412"
-     ],
-     [
-      "2026-09-04 14:57",
-      "ECO",
-      "Governo vai negociar já individualmente com os dois concorrentes à compra da TAP",
-      "https://eco.sapo.pt/2026/09/04/governo-vai-negociar-ja-individualmente-com-os-dois-concorrentes-a-compra-da-tap/"
      ]
     ]
    },
@@ -15430,34 +15388,82 @@
     }
    ],
    "cobertura": {
-    "n": 75,
-    "n7": 13,
-    "n7ant": 23,
+    "n": 83,
+    "n7": 16,
+    "n7ant": 20,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
-    "ultima": "2026-11-02 22:17",
+    "ultima": "2026-11-04 14:17",
     "ultimas": [
      {
-      "data": "2026-11-02",
-      "fonte": "RTP Notícias",
-      "titulo": "Miguel Pinto Luz disponível para negociar com o Chega",
-      "url": "https://www.rtp.pt/noticias/politica/miguel-pinto-luz-disponivel-para-negociar-com-o-chega_v1776462"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "RTP Notícias",
-      "titulo": "Pinto Luz disponível para negociar com Chega",
-      "url": "https://www.rtp.pt/noticias/pais/pinto-luz-disponivel-para-negociar-com-chega_v1776355"
-     },
-     {
-      "data": "2026-11-02",
+      "data": "2026-11-04",
       "fonte": "Observador",
-      "titulo": "Lei de rendas. Pinto Luz chama Livre para \"negociação séria\"",
-      "url": "https://observador.pt/2026/11/02/governo-diz-que-nao-ve-razoes-para-chega-chumbar-lei-das-rendas-mas-convida-livre-a-negociar-de-forma-seria/"
+      "titulo": "Terrenos do antigo Estádio no Porto serão para habitação",
+      "url": "https://observador.pt/2026/11/04/terrenos-do-antigo-estadio-do-salgueiros-no-porto-serao-para-habitacao/"
+     },
+     {
+      "data": "2026-11-04",
+      "fonte": "Expresso",
+      "titulo": "Protestos pela habitação no Porto: Pedro Duarte falou com representantes da Acampada, Miguel Pinto Luz passou “sem dirigir uma palavra”",
+      "url": "https://expresso.pt/sociedade/2026-11-04-protestos-pela-habitacao-no-porto-pedro-duarte-falou-com-representantes-da-acampada-miguel-pinto-luz-passou-sem-dirigir-uma-palavra-69179341"
+     },
+     {
+      "data": "2026-11-04",
+      "fonte": "Nascer do SOL",
+      "titulo": "\"Terão resposta, com certeza\": Miguel Pinto Luz garante resposta a manifestantes pela habitação e propõe conversa sem \"mediatismos\"",
+      "url": "https://sol.iol.pt/sociedade/noticias/terao-resposta-com-certeza-miguel-pinto-luz-garante-resposta-a-manifestantes-pela-habitacao-e-propoe-conversa-sem-mediatismos/20261104/6aeb2d990cf2aafa0453d431"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 14:17",
+      "Observador",
+      "Terrenos do antigo Estádio no Porto serão para habitação",
+      "https://observador.pt/2026/11/04/terrenos-do-antigo-estadio-do-salgueiros-no-porto-serao-para-habitacao/"
+     ],
+     [
+      "2026-11-04 13:35",
+      "Expresso",
+      "Protestos pela habitação no Porto: Pedro Duarte falou com representantes da Acampada, Miguel Pinto Luz passou “sem dirigir uma palavra”",
+      "https://expresso.pt/sociedade/2026-11-04-protestos-pela-habitacao-no-porto-pedro-duarte-falou-com-representantes-da-acampada-miguel-pinto-luz-passou-sem-dirigir-uma-palavra-69179341"
+     ],
+     [
+      "2026-11-04 13:05",
+      "Nascer do SOL",
+      "\"Terão resposta, com certeza\": Miguel Pinto Luz garante resposta a manifestantes pela habitação e propõe conversa sem \"mediatismos\"",
+      "https://sol.iol.pt/sociedade/noticias/terao-resposta-com-certeza-miguel-pinto-luz-garante-resposta-a-manifestantes-pela-habitacao-e-propoe-conversa-sem-mediatismos/20261104/6aeb2d990cf2aafa0453d431"
+     ],
+     [
+      "2026-11-04 11:42",
+      "Executive Digest",
+      "Habitação: Ministro Pinto Luz recebe carta de manifestantes no Porto e garante que dará resposta",
+      "https://executivedigest.sapo.pt/habitacao-ministro-pinto-luz-recebe-carta-de-manifestantes-no-porto-e-garante-que-dara-resposta/"
+     ],
+     [
+      "2026-11-04 11:25",
+      "ECO",
+      "Pinto Luz recebido com protestos no Porto. “Estamos disponíveis para receber todos”, contrapõe",
+      "https://eco.sapo.pt/2026/11/04/pinto-luz-recebido-com-protestos-no-porto-estamos-disponiveis-para-receber-todos-contrapoe/"
+     ],
+     [
+      "2026-11-04 11:22",
+      "RTP Notícias",
+      "Pinto Luz confrontado com protestos garante \"postura de diálogo\" e Seguro saúda conversações",
+      "https://www.rtp.pt/noticias/politica/pinto-luz-confrontado-com-protestos-garante-postura-de-dialogo-e-seguro-sauda-conversacoes_n1776827"
+     ],
+     [
+      "2026-11-04 11:19",
+      "Jornal de Negócios",
+      "Miguel Pinto Luz e Pedro Duarte recebidos com protestos por manifestantes da acampada no Porto",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/miguel-pinto-luz-e-pedro-duarte-recebidos-com-protestos-por-manifestantes-da-acampada-no-porto"
+     ],
+     [
+      "2026-11-04 10:15",
+      "Executive Digest",
+      "Habitação: Ministro Pinto Luz diz estar disponível para ouvir movimentos",
+      "https://executivedigest.sapo.pt/habitacao-ministro-pinto-luz-diz-estar-disponivel-para-ouvir-movimentos/"
+     ],
      [
       "2026-11-02 22:17",
       "RTP Notícias",
@@ -15970,9 +15976,9 @@
    "cobertura": {
     "n": 4,
     "n7": 0,
-    "n7ant": 2,
+    "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-10-26 10:38",
     "ultimas": [
@@ -16062,7 +16068,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16108,7 +16114,7 @@
     "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-11-03 10:50",
     "ultimas": [
@@ -16264,7 +16270,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16311,7 +16317,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16354,7 +16360,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -16415,7 +16421,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16460,7 +16466,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16511,34 +16517,46 @@
    "novo": "2026-11-02",
    "tituloRegras": true,
    "cobertura": {
-    "n": 13,
-    "n7": 0,
-    "n7ant": 6,
+    "n": 15,
+    "n7": 2,
+    "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
-    "ultima": "2026-10-26 16:23",
+    "ultima": "2026-11-04 13:46",
     "ultimas": [
+     {
+      "data": "2026-11-04",
+      "fonte": "Observador",
+      "titulo": "Municípios pedem um ano de suspensão da lei dos compromissos",
+      "url": "https://observador.pt/2026/11/04/oe2027-municipios-pedem-um-ano-de-suspensao-da-nova-lei-dos-compromissos/"
+     },
+     {
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "Municípios querem um ano de suspensão das novas regras dos pagamentos em atraso",
+      "url": "https://eco.sapo.pt/2026/11/04/municipios-querem-um-ano-de-suspensao-das-novas-regras-dos-pagamentos-em-atraso/"
+     },
      {
       "data": "2026-10-26",
       "fonte": "RTP Notícias",
       "titulo": "Ministro diz que enquadramento do pessoal não docente exige negociação com ANMP",
       "url": "https://www.rtp.pt/noticias/pais/ministro-diz-que-enquadramento-do-pessoal-nao-docente-exige-negociacao-com-anmp_n1774487"
-     },
-     {
-      "data": "2026-10-23",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "ANMP aprova parecer positivo ao OE2027, mas alerta",
-      "url": "https://www.noticiasaominuto.com/pais/3071945/anmp-aprova-parecer-positivo-ao-oe2027-mas-alerta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     },
-     {
-      "data": "2026-10-21",
-      "fonte": "Jornal Económico",
-      "titulo": "Municípios querem acelerar construção de habitação pública em Portugal",
-      "url": "https://jornaleconomico.sapo.pt/noticias/municipios-querem-acelerar-construcao-de-habitacao-publica-em-portugal/"
      }
     ],
     "todas": [
+     [
+      "2026-11-04 13:46",
+      "Observador",
+      "Municípios pedem um ano de suspensão da lei dos compromissos",
+      "https://observador.pt/2026/11/04/oe2027-municipios-pedem-um-ano-de-suspensao-da-nova-lei-dos-compromissos/"
+     ],
+     [
+      "2026-11-04 12:22",
+      "ECO",
+      "Municípios querem um ano de suspensão das novas regras dos pagamentos em atraso",
+      "https://eco.sapo.pt/2026/11/04/municipios-querem-um-ano-de-suspensao-das-novas-regras-dos-pagamentos-em-atraso/"
+     ],
      [
       "2026-10-26 16:23",
       "RTP Notícias",
@@ -16663,14 +16681,20 @@
    "novo": "2026-11-02",
    "tituloRegras": true,
    "cobertura": {
-    "n": 14,
-    "n7": 6,
-    "n7ant": 1,
+    "n": 15,
+    "n7": 7,
+    "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
-    "ultima": "2026-11-03 17:30",
+    "ultima": "2026-11-03 21:10",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "url": "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     },
      {
       "data": "2026-11-03",
       "fonte": "JM Madeira",
@@ -16682,15 +16706,15 @@
       "fonte": "Açoriano Oriental",
       "titulo": "Anafre contra acesso do Corvo aos programas das freguesias",
       "url": "https://www.acorianooriental.pt/noticia/anafre-contra-acesso-do-corvo-aos-programas-das-freguesias-381712"
-     },
-     {
-      "data": "2026-11-02",
-      "fonte": "JM Madeira",
-      "titulo": "Protesto das Juntas de Freguesia aguarda decisão da ANAFRE",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008452/protesto-das-juntas-de-freguesia-aguarda-decisao-da-anafre.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 21:10",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
      [
       "2026-11-03 17:30",
       "JM Madeira",
@@ -16817,7 +16841,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16861,9 +16885,9 @@
    "cobertura": {
     "n": 10,
     "n7": 0,
-    "n7ant": 2,
+    "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-10-23 07:02",
     "ultimas": [
@@ -16986,11 +17010,11 @@
     }
    ],
    "cobertura": {
-    "n": 19,
+    "n": 16,
     "n7": 0,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
     "ultima": "2026-10-23 21:16",
     "ultimas": [
@@ -17109,24 +17133,6 @@
       "Jornal de Negócios",
       "Ministra da Justiça recusa mentiras na polémica da destruição de químicos pela PJ",
       "https://www.jornaldenegocios.pt/economia/justica/detalhe/ministra-da-justica-recusa-mentiras-na-polemica-da-destruicao-de-quimicos-pela-pj"
-     ],
-     [
-      "2026-09-04 19:24",
-      "RTP Notícias",
-      "Ministra da Justiça. \"Não é do interesse de ninguém\" atrasar investigações sobre Luís Neves",
-      "https://www.rtp.pt/noticias/politica/ministra-da-justica-nao-e-do-interesse-de-ninguem-atrasar-investigacoes-sobre-luis-neves_v1763443"
-     ],
-     [
-      "2026-09-04 18:18",
-      "Público",
-      "Ministra da Justiça recusa comentar Neves e diz que fragilização da PJ “não é pelo Governo”",
-      "https://www.publico.pt/2026/09/04/politica/noticia/ministra-justica-recusa-comentar-neves-fragilizacao-pj-nao-governo-2187086"
-     ],
-     [
-      "2026-09-04 10:23",
-      "ECO",
-      "Ministério da Justiça espera conclusões da auditoria à PJ até final do ano",
-      "https://eco.sapo.pt/2026/09/04/ministerio-da-justica-espera-conclusoes-da-auditoria-a-pj-ate-final-do-ano/"
      ]
     ]
    },
@@ -17191,24 +17197,24 @@
    ],
    "cobertura": {
     "n": 63,
-    "n7": 1,
-    "n7ant": 2,
+    "n7": 2,
+    "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
-    "ultima": "2026-10-30 13:43",
+    "ultima": "2026-11-04 09:11",
     "ultimas": [
+     {
+      "data": "2026-11-04",
+      "fonte": "Jornal Económico",
+      "titulo": "Professores protestam junto ao Parlamento por mais investimento e valorização da carreira no OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/professores-protestam-junto-ao-parlamento-por-mais-investimento-e-valorizacao-da-carreira-no-oe2027/"
+     },
      {
       "data": "2026-10-30",
       "fonte": "ECO",
       "titulo": "Rankings. Ministro alerta para “competição desigual” entre escolas públicas e privadas",
       "url": "https://eco.sapo.pt/2026/10/30/rankings-ministro-alerta-para-competicao-desigual-entre-escolas-publicas-e-privadas/"
-     },
-     {
-      "data": "2026-10-27",
-      "fonte": "ECO",
-      "titulo": "Governo quer pôr licenciados a dar aulas no 1.º ciclo sem mestrado nem estágio",
-      "url": "https://eco.sapo.pt/2026/10/27/governo-quer-por-licenciados-a-dar-aulas-no-1-o-ciclo-sem-mestrado-nem-estagio/"
      },
      {
       "data": "2026-10-21",
@@ -17219,16 +17225,16 @@
     ],
     "todas": [
      [
+      "2026-11-04 09:11",
+      "Jornal Económico",
+      "Professores protestam junto ao Parlamento por mais investimento e valorização da carreira no OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/professores-protestam-junto-ao-parlamento-por-mais-investimento-e-valorizacao-da-carreira-no-oe2027/"
+     ],
+     [
       "2026-10-30 13:43",
       "ECO",
       "Rankings. Ministro alerta para “competição desigual” entre escolas públicas e privadas",
       "https://eco.sapo.pt/2026/10/30/rankings-ministro-alerta-para-competicao-desigual-entre-escolas-publicas-e-privadas/"
-     ],
-     [
-      "2026-10-27 16:09",
-      "ECO",
-      "Governo quer pôr licenciados a dar aulas no 1.º ciclo sem mestrado nem estágio",
-      "https://eco.sapo.pt/2026/10/27/governo-quer-por-licenciados-a-dar-aulas-no-1-o-ciclo-sem-mestrado-nem-estagio/"
      ],
      [
       "2026-10-21 20:23",
@@ -17660,15 +17666,15 @@
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
-    "ultima": "2026-11-03 15:58",
+    "ultima": "2026-11-03 16:02",
     "ultimas": [
      {
       "data": "2026-11-03",
       "fonte": "Jornal de Negócios",
       "titulo": "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+      "url": "https://www.jornaldenegocios.pt/economia/amp/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
      },
      {
       "data": "2026-10-20",
@@ -17679,10 +17685,10 @@
     ],
     "todas": [
      [
-      "2026-11-03 15:58",
+      "2026-11-03 16:02",
       "Jornal de Negócios",
       "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
-      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+      "https://www.jornaldenegocios.pt/economia/amp/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
      ],
      [
       "2026-10-20 01:00",
@@ -17734,7 +17740,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -17798,9 +17804,9 @@
    "cobertura": {
     "n": 36,
     "n7": 2,
-    "n7ant": 6,
+    "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-11-02 16:53",
     "ultimas": [
@@ -18082,7 +18088,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -18128,7 +18134,7 @@
     "n7": 4,
     "n7ant": 6,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-11-03 09:45",
     "ultimas": [
@@ -18389,7 +18395,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -18429,7 +18435,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -18499,7 +18505,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-10-15 16:31",
     "ultimas": [
@@ -18611,9 +18617,9 @@
    "cobertura": {
     "n": 19,
     "n7": 1,
-    "n7ant": 6,
+    "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-10-29 16:24",
     "ultimas": [
@@ -18810,10 +18816,10 @@
    "novo": "2026-10-30",
    "cobertura": {
     "n": 65,
-    "n7": 3,
+    "n7": 1,
     "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-03",
+    "ref": "2026-11-04",
     "metodo": "palavras",
     "ultima": "2026-10-30 07:52",
     "ultimas": [
