@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-04T15:43",
+ "recolha": "2026-11-04T23:28",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -180,8 +180,8 @@
     "Comissões Parlamentares"
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 139 · Plenário",
-   "resumo": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "resumo": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Luís Pais Antunes, Presidente do Conselho Económico e Social;\n Tiago Abalroado, Conselheiro do CES (Relator do Parecer sobre a Proposta do Orç",
+   "ordemTrabalhos": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Luís Pais Antunes, Presidente do Conselho Económico e Social;\n Tiago Abalroado, Conselheiro do CES (Relator do Parecer sobre a Proposta do Orçamento do Estado, emitido pelo CES).",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   },
   {
@@ -254,7 +254,7 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 50",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 50 · Plenário",
    "resumo": "Audição do Ministro da Defesa Nacional, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Aprova o Orçamento do Estado para 2027, nos termos do n.º 5 do artigo 104.º e do n.º 2 do artigo 211.º do Regimento da Assembleia da República.\n [Conjunta com a Comissão de ",
    "ordemTrabalhos": "Audição do Ministro da Defesa Nacional, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Aprova o Orçamento do Estado para 2027, nos termos do n.º 5 do artigo 104.º e do n.º 2 do artigo 211.º do Regimento da Assembleia da República.\n [Conjunta com a Comissão de Orçamento, Finanças e Administração Pública]",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/3CDN/Paginas/default.aspx"
@@ -284,7 +284,7 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 57",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 57 · Sala 1",
    "resumo": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos",
    "ordemTrabalhos": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos públicos no sentido de limitar negócios com familiares» - Relator: Deputado Pedro Delgado Alves (PS);\n 3 – Apreciação e votação de parecer(es) sobre relativo a ofertas e hospitalidades (matéria reservada); - Autor do parecer: Deputado António Rodrigues (PSD);\n 4 – Apreciação e votação do parecer relativo a ofertas e hospitalidades (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 5 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 6 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 7 – Distribuição de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada)\n 8 – Distribuição de relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relator(a) a indicar pelo Grupo Parlamentar do PSD;\n 9 – Outros assuntos.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
@@ -299,7 +299,7 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9 · Sala 1",
    "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
    "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
@@ -395,6 +395,21 @@
    "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
    "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48649,
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "tema": "Comissão de Ambiente e Energia",
+   "orgao": "Comissão de Ambiente e Energia",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 62",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx"
   },
   {
    "id_ar": 48393,

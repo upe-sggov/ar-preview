@@ -6,18 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48644@ar-preview
-DTSTAMP:20261104T155254Z
+DTSTAMP:20261104T234650Z
 DTSTART:20261105T160000Z
 DTEND:20261105T180000Z
 SUMMARY:AR · Comissão de Transparência e Estatuto dos Deputados
-LOCATION:Assembleia da República
+LOCATION:Assembleia da República · Sala 1
 DESCRIPTION:Comissão de Transparência e Estatuto dos Deputados · Reuni
- ão n.º 9\nSíntese: Deliberação sobre a admissibilidade de participa
- ção(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\nP
- ágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/
- default.aspx\nEmissões em direto (quando houver): https://canal.parlamen
- to.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim 
- indicativa\; a agenda da AR pode mudar.
+ ão n.º 9 · Sala 1\nSíntese: Deliberação sobre a admissibilidade de 
+ participação(ões) e denúncia(s) enviadas à Comissão (matéria reser
+ vada)\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/15CTED/
+ Paginas/default.aspx\nEmissões em direto (quando houver): https://canal.
+ parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora
+  de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.asp
  x
 TRANSP:TRANSPARENT

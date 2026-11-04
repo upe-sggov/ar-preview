@@ -6,18 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48643@ar-preview
-DTSTAMP:20261104T155254Z
+DTSTAMP:20261104T234650Z
 DTSTART:20261105T153000Z
 DTEND:20261105T173000Z
 SUMMARY:AR · Comissão de Transparência e Estatuto dos Deputados
-LOCATION:Assembleia da República
+LOCATION:Assembleia da República · Sala 1
 DESCRIPTION:Comissão de Transparência e Estatuto dos Deputados · Reuni
- ão n.º 57\nSíntese: Apreciação e votação das atas 55 e 56\, corres
- pondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026\
- nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Pagina
- s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
- ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
- m indicativa\; a agenda da AR pode mudar.
+ ão n.º 57 · Sala 1\nSíntese: Apreciação e votação das atas 55 e 5
+ 6\, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubr
+ o de 2026\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/15C
+ TED/Paginas/default.aspx\nEmissões em direto (quando houver): https://ca
+ nal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\n
+ Hora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.asp
  x
 TRANSP:TRANSPARENT
