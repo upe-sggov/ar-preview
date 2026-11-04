@@ -204,39 +204,129 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 1172,
-    "n7": 148,
+    "n": 1187,
+    "n7": 163,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 14:51",
+    "ultima": "2026-11-03 19:30",
     "ultimas": [
      {
       "data": "2026-11-03",
-      "fonte": "Dinheiro Vivo",
-      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+      "fonte": "Jornal Económico",
+      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
-      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
+      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 19:30",
+      "Jornal Económico",
+      "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+     ],
+     [
+      "2026-11-03 19:29",
+      "Notícias ao Minuto",
+      "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:17",
+      "Notícias ao Minuto",
+      "Anafre suspende protesto de freguesias após avanços OE2027",
+      "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:06",
+      "Público",
+      "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+     ],
+     [
+      "2026-11-03 18:40",
+      "Jornal Económico",
+      "Habitação: PCP acusa direita de opor-se a escrutínio do Governo sobre a atuação policial",
+      "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
+     ],
+     [
+      "2026-11-03 18:32",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
+     ],
+     [
+      "2026-11-03 17:54",
+      "CNN Portugal",
+      "Parlamento falha acordo sobre adiamento do debate do OE2027",
+      "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
+     ],
+     [
+      "2026-11-03 17:24",
+      "ECO",
+      "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
+     ],
+     [
+      "2026-11-03 17:19",
+      "Executive Digest",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://executivedigest.sapo.pt/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 16:48",
+      "Executive Digest",
+      "OE2027: Água para sul do Tejo pode passar por Ponte 25 de Abril",
+      "https://executivedigest.sapo.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril/"
+     ],
+     [
+      "2026-11-03 16:40",
+      "Executive Digest",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
+     ],
+     [
+      "2026-11-03 15:58",
+      "Jornal de Negócios",
+      "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
+      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+     ],
+     [
+      "2026-11-03 15:23",
+      "Agroportal",
+      "OE2027: Ministra do Ambiente avisa que remoção das ensecadeiras do Côa será difícil",
+      "https://www.agroportal.pt/oe2027-ministra-do-ambiente-avisa-que-remocao-das-ensecadeiras-do-coa-sera-dificil/"
+     ],
+     [
+      "2026-11-03 14:51",
+      "Diário de Notícias",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
      [
       "2026-11-03 14:51",
       "Dinheiro Vivo",
       "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
       "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:30",
+      "Executive Digest",
+      "OE2027: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal, considera CES",
+      "https://executivedigest.sapo.pt/oe2027-atualizacao-dos-escaloes-de-irs-em-388-insuficiente-para-neutralidade-fiscal-ces/"
      ],
      [
       "2026-11-03 14:15",
@@ -317,7 +407,7 @@
       "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
-      "2026-11-03 07:07",
+      "2026-11-03 07:09",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -2541,96 +2631,6 @@
       "RTP Notícias",
       "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
       "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
-     ],
-     [
-      "2026-10-10 12:44",
-      "Executive Digest",
-      "OE2027: Carneiro promete propostas na especialidade para responder ao aumento da energia",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-promete-propostas-na-especialidade-para-responder-ao-aumento-da-energia/"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Carneiro pede ao PS abstenção no OE2027 e manda recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Confirmado: PS abstém-se no OE2027. Mas Carneiro mandou recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:41",
-      "ECO",
-      "Carneiro propõe abstenção. “Convicções mais profundas” levariam a voto contra o OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-propoe-abstencao-conviccoes-mais-profundas-levariam-a-voto-contra-o-oe2027/"
-     ],
-     [
-      "2026-10-10 12:34",
-      "CNN Portugal",
-      "OE2027: Carneiro propõe abstenção mas admite que “convicções mais profundas” levariam a voto contra",
-      "https://cnnportugal.iol.pt/jose-luis-carneiro/abstencao/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/20261010/6aca2324d34e53c759c75cb7"
-     ],
-     [
-      "2026-10-10 12:11",
-      "Jornal Económico",
-      "OE2027: Carneiro propõe abstenção mas admite algum desconforto com a decisão",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carneiro-propoe-abstencao-mas-admite-algum-desconforto-com-a-decisao/"
-     ],
-     [
-      "2026-10-10 12:03",
-      "Notícias ao Minuto",
-      "Carneiro: \"Convicções mais profundas levariam a voto contra OE2027\"",
-      "https://www.noticiasaominuto.com/pais/3064715/jose-luis-carneiro-conviccoes-mais-profundas-levariam-a-voto-contra-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 11:57",
-      "Executive Digest",
-      "OE2027: Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/"
-     ],
-     [
-      "2026-10-10 11:14",
-      "Correio da Manhã",
-      "Carneiro propõe abstenção no OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.cmjornal.pt/politica/amp/carneiro-propoe-abstencao-no-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra"
-     ],
-     [
-      "2026-10-10 10:30",
-      "ECO",
-      "Um Orçamento sem potência",
-      "https://eco.sapo.pt/opiniao/um-orcamento-sem-potencia/"
-     ],
-     [
-      "2026-10-10 09:40",
-      "Observador",
-      "3.ª fase do acesso ao Ensino Superior arranca hoje",
-      "https://observador.pt/2026/10/10/comeca-hoje-ultima-oportunidade-para-concorrer-ao-ensino-superior/"
-     ],
-     [
-      "2026-10-10 09:31",
-      "ECO",
-      "ECO Quiz. Sabe tudo o que foi apresentado no OE2027?",
-      "https://eco.sapo.pt/2026/10/10/eco-quiz-sabe-tudo-o-que-foi-apresentado-no-oe2027/"
-     ],
-     [
-      "2026-10-10 08:45",
-      "Executive Digest",
-      "PS reúne-se hoje para decidir posição sobre o OE2027 e a lei das rendas",
-      "https://executivedigest.sapo.pt/ps-reune-se-hoje-para-decidir-posicao-sobre-o-oe2027-e-a-lei-das-rendas/"
-     ],
-     [
-      "2026-10-10 08:30",
-      "SIC Notícias",
-      "OE2027: “Não existem medidas que tenham um impacto muito relevante nas famílias”",
-      "https://sicnoticias.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-nao-existem-medidas-que-tenham-um-impacto-muito-relevante-nas-familias-c76799e1"
-     ],
-     [
-      "2026-10-10 08:20",
-      "Expresso",
-      "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
-      "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
      ]
     ]
    },
@@ -2672,39 +2672,129 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1172,
-    "n7": 148,
+    "n": 1187,
+    "n7": 163,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 14:51",
+    "ultima": "2026-11-03 19:30",
     "ultimas": [
      {
       "data": "2026-11-03",
-      "fonte": "Dinheiro Vivo",
-      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+      "fonte": "Jornal Económico",
+      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
-      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
+      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 19:30",
+      "Jornal Económico",
+      "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+     ],
+     [
+      "2026-11-03 19:29",
+      "Notícias ao Minuto",
+      "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:17",
+      "Notícias ao Minuto",
+      "Anafre suspende protesto de freguesias após avanços OE2027",
+      "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:06",
+      "Público",
+      "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+     ],
+     [
+      "2026-11-03 18:40",
+      "Jornal Económico",
+      "Habitação: PCP acusa direita de opor-se a escrutínio do Governo sobre a atuação policial",
+      "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
+     ],
+     [
+      "2026-11-03 18:32",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
+     ],
+     [
+      "2026-11-03 17:54",
+      "CNN Portugal",
+      "Parlamento falha acordo sobre adiamento do debate do OE2027",
+      "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
+     ],
+     [
+      "2026-11-03 17:24",
+      "ECO",
+      "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
+     ],
+     [
+      "2026-11-03 17:19",
+      "Executive Digest",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://executivedigest.sapo.pt/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 16:48",
+      "Executive Digest",
+      "OE2027: Água para sul do Tejo pode passar por Ponte 25 de Abril",
+      "https://executivedigest.sapo.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril/"
+     ],
+     [
+      "2026-11-03 16:40",
+      "Executive Digest",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
+     ],
+     [
+      "2026-11-03 15:58",
+      "Jornal de Negócios",
+      "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
+      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+     ],
+     [
+      "2026-11-03 15:23",
+      "Agroportal",
+      "OE2027: Ministra do Ambiente avisa que remoção das ensecadeiras do Côa será difícil",
+      "https://www.agroportal.pt/oe2027-ministra-do-ambiente-avisa-que-remocao-das-ensecadeiras-do-coa-sera-dificil/"
+     ],
+     [
+      "2026-11-03 14:51",
+      "Diário de Notícias",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
      [
       "2026-11-03 14:51",
       "Dinheiro Vivo",
       "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
       "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:30",
+      "Executive Digest",
+      "OE2027: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal, considera CES",
+      "https://executivedigest.sapo.pt/oe2027-atualizacao-dos-escaloes-de-irs-em-388-insuficiente-para-neutralidade-fiscal-ces/"
      ],
      [
       "2026-11-03 14:15",
@@ -2785,7 +2875,7 @@
       "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
-      "2026-11-03 07:07",
+      "2026-11-03 07:09",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -5009,96 +5099,6 @@
       "RTP Notícias",
       "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
       "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
-     ],
-     [
-      "2026-10-10 12:44",
-      "Executive Digest",
-      "OE2027: Carneiro promete propostas na especialidade para responder ao aumento da energia",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-promete-propostas-na-especialidade-para-responder-ao-aumento-da-energia/"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Carneiro pede ao PS abstenção no OE2027 e manda recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Confirmado: PS abstém-se no OE2027. Mas Carneiro mandou recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:41",
-      "ECO",
-      "Carneiro propõe abstenção. “Convicções mais profundas” levariam a voto contra o OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-propoe-abstencao-conviccoes-mais-profundas-levariam-a-voto-contra-o-oe2027/"
-     ],
-     [
-      "2026-10-10 12:34",
-      "CNN Portugal",
-      "OE2027: Carneiro propõe abstenção mas admite que “convicções mais profundas” levariam a voto contra",
-      "https://cnnportugal.iol.pt/jose-luis-carneiro/abstencao/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/20261010/6aca2324d34e53c759c75cb7"
-     ],
-     [
-      "2026-10-10 12:11",
-      "Jornal Económico",
-      "OE2027: Carneiro propõe abstenção mas admite algum desconforto com a decisão",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carneiro-propoe-abstencao-mas-admite-algum-desconforto-com-a-decisao/"
-     ],
-     [
-      "2026-10-10 12:03",
-      "Notícias ao Minuto",
-      "Carneiro: \"Convicções mais profundas levariam a voto contra OE2027\"",
-      "https://www.noticiasaominuto.com/pais/3064715/jose-luis-carneiro-conviccoes-mais-profundas-levariam-a-voto-contra-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 11:57",
-      "Executive Digest",
-      "OE2027: Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/"
-     ],
-     [
-      "2026-10-10 11:14",
-      "Correio da Manhã",
-      "Carneiro propõe abstenção no OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.cmjornal.pt/politica/amp/carneiro-propoe-abstencao-no-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra"
-     ],
-     [
-      "2026-10-10 10:30",
-      "ECO",
-      "Um Orçamento sem potência",
-      "https://eco.sapo.pt/opiniao/um-orcamento-sem-potencia/"
-     ],
-     [
-      "2026-10-10 09:40",
-      "Observador",
-      "3.ª fase do acesso ao Ensino Superior arranca hoje",
-      "https://observador.pt/2026/10/10/comeca-hoje-ultima-oportunidade-para-concorrer-ao-ensino-superior/"
-     ],
-     [
-      "2026-10-10 09:31",
-      "ECO",
-      "ECO Quiz. Sabe tudo o que foi apresentado no OE2027?",
-      "https://eco.sapo.pt/2026/10/10/eco-quiz-sabe-tudo-o-que-foi-apresentado-no-oe2027/"
-     ],
-     [
-      "2026-10-10 08:45",
-      "Executive Digest",
-      "PS reúne-se hoje para decidir posição sobre o OE2027 e a lei das rendas",
-      "https://executivedigest.sapo.pt/ps-reune-se-hoje-para-decidir-posicao-sobre-o-oe2027-e-a-lei-das-rendas/"
-     ],
-     [
-      "2026-10-10 08:30",
-      "SIC Notícias",
-      "OE2027: “Não existem medidas que tenham um impacto muito relevante nas famílias”",
-      "https://sicnoticias.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-nao-existem-medidas-que-tenham-um-impacto-muito-relevante-nas-familias-c76799e1"
-     ],
-     [
-      "2026-10-10 08:20",
-      "Expresso",
-      "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
-      "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
      ]
     ]
    },
@@ -5140,39 +5140,129 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1172,
-    "n7": 148,
+    "n": 1187,
+    "n7": 163,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 14:51",
+    "ultima": "2026-11-03 19:30",
     "ultimas": [
      {
       "data": "2026-11-03",
-      "fonte": "Dinheiro Vivo",
-      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+      "fonte": "Jornal Económico",
+      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
-      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
+      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 19:30",
+      "Jornal Económico",
+      "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+     ],
+     [
+      "2026-11-03 19:29",
+      "Notícias ao Minuto",
+      "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:17",
+      "Notícias ao Minuto",
+      "Anafre suspende protesto de freguesias após avanços OE2027",
+      "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:06",
+      "Público",
+      "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+     ],
+     [
+      "2026-11-03 18:40",
+      "Jornal Económico",
+      "Habitação: PCP acusa direita de opor-se a escrutínio do Governo sobre a atuação policial",
+      "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
+     ],
+     [
+      "2026-11-03 18:32",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
+     ],
+     [
+      "2026-11-03 17:54",
+      "CNN Portugal",
+      "Parlamento falha acordo sobre adiamento do debate do OE2027",
+      "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
+     ],
+     [
+      "2026-11-03 17:24",
+      "ECO",
+      "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
+     ],
+     [
+      "2026-11-03 17:19",
+      "Executive Digest",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://executivedigest.sapo.pt/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 16:48",
+      "Executive Digest",
+      "OE2027: Água para sul do Tejo pode passar por Ponte 25 de Abril",
+      "https://executivedigest.sapo.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril/"
+     ],
+     [
+      "2026-11-03 16:40",
+      "Executive Digest",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
+     ],
+     [
+      "2026-11-03 15:58",
+      "Jornal de Negócios",
+      "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
+      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+     ],
+     [
+      "2026-11-03 15:23",
+      "Agroportal",
+      "OE2027: Ministra do Ambiente avisa que remoção das ensecadeiras do Côa será difícil",
+      "https://www.agroportal.pt/oe2027-ministra-do-ambiente-avisa-que-remocao-das-ensecadeiras-do-coa-sera-dificil/"
+     ],
+     [
+      "2026-11-03 14:51",
+      "Diário de Notícias",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
      [
       "2026-11-03 14:51",
       "Dinheiro Vivo",
       "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
       "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:30",
+      "Executive Digest",
+      "OE2027: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal, considera CES",
+      "https://executivedigest.sapo.pt/oe2027-atualizacao-dos-escaloes-de-irs-em-388-insuficiente-para-neutralidade-fiscal-ces/"
      ],
      [
       "2026-11-03 14:15",
@@ -5253,7 +5343,7 @@
       "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
-      "2026-11-03 07:07",
+      "2026-11-03 07:09",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -7477,96 +7567,6 @@
       "RTP Notícias",
       "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
       "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
-     ],
-     [
-      "2026-10-10 12:44",
-      "Executive Digest",
-      "OE2027: Carneiro promete propostas na especialidade para responder ao aumento da energia",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-promete-propostas-na-especialidade-para-responder-ao-aumento-da-energia/"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Carneiro pede ao PS abstenção no OE2027 e manda recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Confirmado: PS abstém-se no OE2027. Mas Carneiro mandou recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:41",
-      "ECO",
-      "Carneiro propõe abstenção. “Convicções mais profundas” levariam a voto contra o OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-propoe-abstencao-conviccoes-mais-profundas-levariam-a-voto-contra-o-oe2027/"
-     ],
-     [
-      "2026-10-10 12:34",
-      "CNN Portugal",
-      "OE2027: Carneiro propõe abstenção mas admite que “convicções mais profundas” levariam a voto contra",
-      "https://cnnportugal.iol.pt/jose-luis-carneiro/abstencao/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/20261010/6aca2324d34e53c759c75cb7"
-     ],
-     [
-      "2026-10-10 12:11",
-      "Jornal Económico",
-      "OE2027: Carneiro propõe abstenção mas admite algum desconforto com a decisão",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carneiro-propoe-abstencao-mas-admite-algum-desconforto-com-a-decisao/"
-     ],
-     [
-      "2026-10-10 12:03",
-      "Notícias ao Minuto",
-      "Carneiro: \"Convicções mais profundas levariam a voto contra OE2027\"",
-      "https://www.noticiasaominuto.com/pais/3064715/jose-luis-carneiro-conviccoes-mais-profundas-levariam-a-voto-contra-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 11:57",
-      "Executive Digest",
-      "OE2027: Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/"
-     ],
-     [
-      "2026-10-10 11:14",
-      "Correio da Manhã",
-      "Carneiro propõe abstenção no OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.cmjornal.pt/politica/amp/carneiro-propoe-abstencao-no-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra"
-     ],
-     [
-      "2026-10-10 10:30",
-      "ECO",
-      "Um Orçamento sem potência",
-      "https://eco.sapo.pt/opiniao/um-orcamento-sem-potencia/"
-     ],
-     [
-      "2026-10-10 09:40",
-      "Observador",
-      "3.ª fase do acesso ao Ensino Superior arranca hoje",
-      "https://observador.pt/2026/10/10/comeca-hoje-ultima-oportunidade-para-concorrer-ao-ensino-superior/"
-     ],
-     [
-      "2026-10-10 09:31",
-      "ECO",
-      "ECO Quiz. Sabe tudo o que foi apresentado no OE2027?",
-      "https://eco.sapo.pt/2026/10/10/eco-quiz-sabe-tudo-o-que-foi-apresentado-no-oe2027/"
-     ],
-     [
-      "2026-10-10 08:45",
-      "Executive Digest",
-      "PS reúne-se hoje para decidir posição sobre o OE2027 e a lei das rendas",
-      "https://executivedigest.sapo.pt/ps-reune-se-hoje-para-decidir-posicao-sobre-o-oe2027-e-a-lei-das-rendas/"
-     ],
-     [
-      "2026-10-10 08:30",
-      "SIC Notícias",
-      "OE2027: “Não existem medidas que tenham um impacto muito relevante nas famílias”",
-      "https://sicnoticias.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-nao-existem-medidas-que-tenham-um-impacto-muito-relevante-nas-familias-c76799e1"
-     ],
-     [
-      "2026-10-10 08:20",
-      "Expresso",
-      "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
-      "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
      ]
     ]
    },
@@ -7608,39 +7608,129 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1172,
-    "n7": 148,
+    "n": 1187,
+    "n7": 163,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 14:51",
+    "ultima": "2026-11-03 19:30",
     "ultimas": [
      {
       "data": "2026-11-03",
-      "fonte": "Dinheiro Vivo",
-      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+      "fonte": "Jornal Económico",
+      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
-      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
+      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 19:30",
+      "Jornal Económico",
+      "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+     ],
+     [
+      "2026-11-03 19:29",
+      "Notícias ao Minuto",
+      "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:17",
+      "Notícias ao Minuto",
+      "Anafre suspende protesto de freguesias após avanços OE2027",
+      "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:06",
+      "Público",
+      "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+     ],
+     [
+      "2026-11-03 18:40",
+      "Jornal Económico",
+      "Habitação: PCP acusa direita de opor-se a escrutínio do Governo sobre a atuação policial",
+      "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
+     ],
+     [
+      "2026-11-03 18:32",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
+     ],
+     [
+      "2026-11-03 17:54",
+      "CNN Portugal",
+      "Parlamento falha acordo sobre adiamento do debate do OE2027",
+      "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
+     ],
+     [
+      "2026-11-03 17:24",
+      "ECO",
+      "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
+     ],
+     [
+      "2026-11-03 17:19",
+      "Executive Digest",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://executivedigest.sapo.pt/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 16:48",
+      "Executive Digest",
+      "OE2027: Água para sul do Tejo pode passar por Ponte 25 de Abril",
+      "https://executivedigest.sapo.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril/"
+     ],
+     [
+      "2026-11-03 16:40",
+      "Executive Digest",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
+     ],
+     [
+      "2026-11-03 15:58",
+      "Jornal de Negócios",
+      "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
+      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+     ],
+     [
+      "2026-11-03 15:23",
+      "Agroportal",
+      "OE2027: Ministra do Ambiente avisa que remoção das ensecadeiras do Côa será difícil",
+      "https://www.agroportal.pt/oe2027-ministra-do-ambiente-avisa-que-remocao-das-ensecadeiras-do-coa-sera-dificil/"
+     ],
+     [
+      "2026-11-03 14:51",
+      "Diário de Notícias",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
      [
       "2026-11-03 14:51",
       "Dinheiro Vivo",
       "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
       "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:30",
+      "Executive Digest",
+      "OE2027: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal, considera CES",
+      "https://executivedigest.sapo.pt/oe2027-atualizacao-dos-escaloes-de-irs-em-388-insuficiente-para-neutralidade-fiscal-ces/"
      ],
      [
       "2026-11-03 14:15",
@@ -7721,7 +7811,7 @@
       "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
-      "2026-11-03 07:07",
+      "2026-11-03 07:09",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -9945,96 +10035,6 @@
       "RTP Notícias",
       "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
       "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
-     ],
-     [
-      "2026-10-10 12:44",
-      "Executive Digest",
-      "OE2027: Carneiro promete propostas na especialidade para responder ao aumento da energia",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-promete-propostas-na-especialidade-para-responder-ao-aumento-da-energia/"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Carneiro pede ao PS abstenção no OE2027 e manda recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Confirmado: PS abstém-se no OE2027. Mas Carneiro mandou recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:41",
-      "ECO",
-      "Carneiro propõe abstenção. “Convicções mais profundas” levariam a voto contra o OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-propoe-abstencao-conviccoes-mais-profundas-levariam-a-voto-contra-o-oe2027/"
-     ],
-     [
-      "2026-10-10 12:34",
-      "CNN Portugal",
-      "OE2027: Carneiro propõe abstenção mas admite que “convicções mais profundas” levariam a voto contra",
-      "https://cnnportugal.iol.pt/jose-luis-carneiro/abstencao/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/20261010/6aca2324d34e53c759c75cb7"
-     ],
-     [
-      "2026-10-10 12:11",
-      "Jornal Económico",
-      "OE2027: Carneiro propõe abstenção mas admite algum desconforto com a decisão",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carneiro-propoe-abstencao-mas-admite-algum-desconforto-com-a-decisao/"
-     ],
-     [
-      "2026-10-10 12:03",
-      "Notícias ao Minuto",
-      "Carneiro: \"Convicções mais profundas levariam a voto contra OE2027\"",
-      "https://www.noticiasaominuto.com/pais/3064715/jose-luis-carneiro-conviccoes-mais-profundas-levariam-a-voto-contra-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 11:57",
-      "Executive Digest",
-      "OE2027: Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/"
-     ],
-     [
-      "2026-10-10 11:14",
-      "Correio da Manhã",
-      "Carneiro propõe abstenção no OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.cmjornal.pt/politica/amp/carneiro-propoe-abstencao-no-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra"
-     ],
-     [
-      "2026-10-10 10:30",
-      "ECO",
-      "Um Orçamento sem potência",
-      "https://eco.sapo.pt/opiniao/um-orcamento-sem-potencia/"
-     ],
-     [
-      "2026-10-10 09:40",
-      "Observador",
-      "3.ª fase do acesso ao Ensino Superior arranca hoje",
-      "https://observador.pt/2026/10/10/comeca-hoje-ultima-oportunidade-para-concorrer-ao-ensino-superior/"
-     ],
-     [
-      "2026-10-10 09:31",
-      "ECO",
-      "ECO Quiz. Sabe tudo o que foi apresentado no OE2027?",
-      "https://eco.sapo.pt/2026/10/10/eco-quiz-sabe-tudo-o-que-foi-apresentado-no-oe2027/"
-     ],
-     [
-      "2026-10-10 08:45",
-      "Executive Digest",
-      "PS reúne-se hoje para decidir posição sobre o OE2027 e a lei das rendas",
-      "https://executivedigest.sapo.pt/ps-reune-se-hoje-para-decidir-posicao-sobre-o-oe2027-e-a-lei-das-rendas/"
-     ],
-     [
-      "2026-10-10 08:30",
-      "SIC Notícias",
-      "OE2027: “Não existem medidas que tenham um impacto muito relevante nas famílias”",
-      "https://sicnoticias.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-nao-existem-medidas-que-tenham-um-impacto-muito-relevante-nas-familias-c76799e1"
-     ],
-     [
-      "2026-10-10 08:20",
-      "Expresso",
-      "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
-      "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
      ]
     ]
    },
@@ -10076,39 +10076,129 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1172,
-    "n7": 148,
+    "n": 1187,
+    "n7": 163,
     "n7ant": 119,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 14:51",
+    "ultima": "2026-11-03 19:30",
     "ultimas": [
      {
       "data": "2026-11-03",
-      "fonte": "Dinheiro Vivo",
-      "titulo": "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+      "fonte": "Jornal Económico",
+      "titulo": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027: Livre vai propor teste piloto da semana de quatro dias na administração pública",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administracao-publica/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "url": "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      },
      {
       "data": "2026-11-03",
-      "fonte": "Jornal Económico",
-      "titulo": "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
-      "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/"
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Anafre suspende protesto de freguesias após avanços OE2027",
+      "url": "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 19:30",
+      "Jornal Económico",
+      "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027",
+      "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/"
+     ],
+     [
+      "2026-11-03 19:29",
+      "Notícias ao Minuto",
+      "OE2027: Plataforma digital da AR não avança na votação na especialidade",
+      "https://www.noticiasaominuto.com/politica/3077896/oe2027-plataforma-digital-da-ar-nao-avanca-na-votacao-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:17",
+      "Notícias ao Minuto",
+      "Anafre suspende protesto de freguesias após avanços OE2027",
+      "https://www.noticiasaominuto.com/pais/3077893/anafre-suspende-protesto-de-freguesias-apos-avancos-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 19:06",
+      "Público",
+      "OE2027: “Negociações produziram efeito”, Anafre desconvoca “greve” nas juntas de freguesia",
+      "https://www.publico.pt/2026/11/03/politica/noticia/oe2027-negociacoes-produziram-efeito-anafre-desconvoca-greve-juntas-freguesia-2193633"
+     ],
+     [
+      "2026-11-03 18:40",
+      "Jornal Económico",
+      "Habitação: PCP acusa direita de opor-se a escrutínio do Governo sobre a atuação policial",
+      "https://jornaleconomico.sapo.pt/noticias/habitacao-pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial/"
+     ],
+     [
+      "2026-11-03 18:32",
+      "ECO",
+      "OE2027: Plataforma digital da AR ainda não avança na votação na especialidade deste ano",
+      "https://eco.sapo.pt/2026/11/03/oe2027-plataforma-digital-da-ar-ainda-nao-avanca-na-votacao-na-especialidade-deste-ano/"
+     ],
+     [
+      "2026-11-03 17:54",
+      "CNN Portugal",
+      "Parlamento falha acordo sobre adiamento do debate do OE2027",
+      "https://cnnportugal.iol.pt/debate-oe2027/orcamento-do-estado-2027/parlamento-falha-acordo-sobre-adiamento-do-debate-do-oe2027/20261103/6aea0c66d34e5a653d732ac5"
+     ],
+     [
+      "2026-11-03 17:24",
+      "ECO",
+      "Governo garante que “imigração paga a imigração” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/03/governo-garante-que-imigracao-paga-a-imigracao-no-orcamento-do-estado-para-2027/"
+     ],
+     [
+      "2026-11-03 17:19",
+      "Executive Digest",
+      "OE2027: Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://executivedigest.sapo.pt/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
+      "2026-11-03 16:48",
+      "Executive Digest",
+      "OE2027: Água para sul do Tejo pode passar por Ponte 25 de Abril",
+      "https://executivedigest.sapo.pt/oe2027-agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril/"
+     ],
+     [
+      "2026-11-03 16:40",
+      "Executive Digest",
+      "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+      "https://executivedigest.sapo.pt/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/"
+     ],
+     [
+      "2026-11-03 15:58",
+      "Jornal de Negócios",
+      "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
+      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+     ],
+     [
+      "2026-11-03 15:23",
+      "Agroportal",
+      "OE2027: Ministra do Ambiente avisa que remoção das ensecadeiras do Côa será difícil",
+      "https://www.agroportal.pt/oe2027-ministra-do-ambiente-avisa-que-remocao-das-ensecadeiras-do-coa-sera-dificil/"
+     ],
+     [
+      "2026-11-03 14:51",
+      "Diário de Notícias",
+      "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
+      "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
      [
       "2026-11-03 14:51",
       "Dinheiro Vivo",
       "OE2027. Livre vai propor teste piloto da semana de quatro dias na administração pública",
       "https://www.dn.pt/pol%C3%ADtica/oe2027-livre-vai-propor-teste-piloto-da-semana-de-quatro-dias-na-administrao-pblica"
+     ],
+     [
+      "2026-11-03 14:30",
+      "Executive Digest",
+      "OE2027: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal, considera CES",
+      "https://executivedigest.sapo.pt/oe2027-atualizacao-dos-escaloes-de-irs-em-388-insuficiente-para-neutralidade-fiscal-ces/"
      ],
      [
       "2026-11-03 14:15",
@@ -10189,7 +10279,7 @@
       "https://executivedigest.sapo.pt/oe2027-descarbonizar-e-eletrificar-sao-prioridades-para-2027-ministra-ambiente/"
      ],
      [
-      "2026-11-03 07:07",
+      "2026-11-03 07:09",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -12413,96 +12503,6 @@
       "RTP Notícias",
       "OE2027. Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
       "https://www.rtp.pt/noticias/politica/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra_n1770862"
-     ],
-     [
-      "2026-10-10 12:44",
-      "Executive Digest",
-      "OE2027: Carneiro promete propostas na especialidade para responder ao aumento da energia",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-promete-propostas-na-especialidade-para-responder-ao-aumento-da-energia/"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Carneiro pede ao PS abstenção no OE2027 e manda recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:42",
-      "Expresso",
-      "Confirmado: PS abstém-se no OE2027. Mas Carneiro mandou recados para dentro do partido",
-      "https://expresso.pt/politica/2026-10-10-carneiro-pede-ao-ps-abstencao-no-oe2027-e-manda-recados-para-dentro-do-partido-4f3c85aa"
-     ],
-     [
-      "2026-10-10 12:41",
-      "ECO",
-      "Carneiro propõe abstenção. “Convicções mais profundas” levariam a voto contra o OE2027",
-      "https://eco.sapo.pt/2026/10/10/carneiro-propoe-abstencao-conviccoes-mais-profundas-levariam-a-voto-contra-o-oe2027/"
-     ],
-     [
-      "2026-10-10 12:34",
-      "CNN Portugal",
-      "OE2027: Carneiro propõe abstenção mas admite que “convicções mais profundas” levariam a voto contra",
-      "https://cnnportugal.iol.pt/jose-luis-carneiro/abstencao/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/20261010/6aca2324d34e53c759c75cb7"
-     ],
-     [
-      "2026-10-10 12:11",
-      "Jornal Económico",
-      "OE2027: Carneiro propõe abstenção mas admite algum desconforto com a decisão",
-      "https://jornaleconomico.sapo.pt/noticias/oe2027-carneiro-propoe-abstencao-mas-admite-algum-desconforto-com-a-decisao/"
-     ],
-     [
-      "2026-10-10 12:03",
-      "Notícias ao Minuto",
-      "Carneiro: \"Convicções mais profundas levariam a voto contra OE2027\"",
-      "https://www.noticiasaominuto.com/pais/3064715/jose-luis-carneiro-conviccoes-mais-profundas-levariam-a-voto-contra-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-10 11:57",
-      "Executive Digest",
-      "OE2027: Carneiro propõe abstenção mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://executivedigest.sapo.pt/oe2027-carneiro-propoe-abstencao-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/"
-     ],
-     [
-      "2026-10-10 11:14",
-      "Correio da Manhã",
-      "Carneiro propõe abstenção no OE2027 mas admite que \"convicções mais profundas\" levariam a voto contra",
-      "https://www.cmjornal.pt/politica/amp/carneiro-propoe-abstencao-no-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra"
-     ],
-     [
-      "2026-10-10 10:30",
-      "ECO",
-      "Um Orçamento sem potência",
-      "https://eco.sapo.pt/opiniao/um-orcamento-sem-potencia/"
-     ],
-     [
-      "2026-10-10 09:40",
-      "Observador",
-      "3.ª fase do acesso ao Ensino Superior arranca hoje",
-      "https://observador.pt/2026/10/10/comeca-hoje-ultima-oportunidade-para-concorrer-ao-ensino-superior/"
-     ],
-     [
-      "2026-10-10 09:31",
-      "ECO",
-      "ECO Quiz. Sabe tudo o que foi apresentado no OE2027?",
-      "https://eco.sapo.pt/2026/10/10/eco-quiz-sabe-tudo-o-que-foi-apresentado-no-oe2027/"
-     ],
-     [
-      "2026-10-10 08:45",
-      "Executive Digest",
-      "PS reúne-se hoje para decidir posição sobre o OE2027 e a lei das rendas",
-      "https://executivedigest.sapo.pt/ps-reune-se-hoje-para-decidir-posicao-sobre-o-oe2027-e-a-lei-das-rendas/"
-     ],
-     [
-      "2026-10-10 08:30",
-      "SIC Notícias",
-      "OE2027: “Não existem medidas que tenham um impacto muito relevante nas famílias”",
-      "https://sicnoticias.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-nao-existem-medidas-que-tenham-um-impacto-muito-relevante-nas-familias-c76799e1"
-     ],
-     [
-      "2026-10-10 08:20",
-      "Expresso",
-      "OE2027: “O nosso país já viveu com uma carga fiscal bastante mais baixa do que aquela que temos agora”",
-      "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/podcasts/economia-dia-a-dia/2026-10-10-oe2027-o-nosso-pais-ja-viveu-com-uma-carga-fiscal-bastante-mais-baixa-do-que-aquela-que-temos-agora-a665cf2d"
      ]
     ]
    },
@@ -12678,8 +12678,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-03T15:27+00:00",
-  "atualizadoLabel": "3 de novembro, 15h27",
+  "atualizado": "2026-11-03T23:06+00:00",
+  "atualizadoLabel": "3 de novembro, 23h06",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -12864,7 +12864,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 15,
+   "novas": 29,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a preparação para o debate parlamentar. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas. O PCP anunciou o voto contra, mas o Governo viabilizou o documento com apoio de outros partidos. O debate na generalidade ocorreu a 27 de outubro, com a habitação a dominar o confronto. O Governo rejeitou o desmantelamento da CP e reafirmou o seu papel estratégico."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
@@ -13046,7 +13046,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 15,
+   "novas": 29,
    "enquadramento": "O debate sobre o Orçamento do Estado para 2027 tem sido um foco central na Assembleia da República, com várias notícias a reportar discussões parlamentares, posições de partidos e medidas governamentais. O Governo apresentou a proposta de lei, que foi alvo de críticas e anúncios de voto contra por parte de partidos da oposição, como o PCP. Entretanto, foram reportados avanços na discussão do orçamento, como a confirmação da suspensão de um inquérito e a aprovação de medidas relacionadas com a habitação e a Carteira Digital de Empresa. A cobertura mediática tem acompanhado a evolução do debate, com ênfase em temas como a dívida pública, a regulação do setor privado e o apoio à juventude."
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
@@ -13857,7 +13857,7 @@
      "data": "2026-09-24",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/economia/noticias/ahresp-apresenta-27-propostas-para-o-oe2027-para-estimular-o-investimento-e-travar-a-pressao-sobre-as-empresas/20260924/6ab565360cf23b0ed4fd94e8",
-     "sintese": "A AHRESP apresenta 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas, procurando influenciar as medidas propostas no Orçamento.",
+     "sintese": "A AHRESP apresentou 27 propostas para o OE2027 para estimular o investimento e travar a pressão sobre as empresas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13865,7 +13865,7 @@
      "data": "2026-09-29",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/economia/article/2026-09-29/47858717/oe2027-albuquerque-recebe-garantia-de-verbas-do-pm-e-n%C3%A3o-antecipa-qualquer-problema-na-vota%C3%A7%C3%A3o",
-     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa problemas na votação do OE2027, transmitindo uma mensagem de confiança no processo orçamental.",
+     "sintese": "Albuquerque recebe garantia de verbas do PM e não antecipa qualquer problema na votação do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -13873,7 +13873,7 @@
      "data": "2026-10-02",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
-     "sintese": "O PCP anuncia voto contra o Orçamento do Estado para 2027, indicando uma oposição clara às medidas propostas.",
+     "sintese": "O PCP anuncia voto contra o Orçamento do Estado para 2027.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -13881,7 +13881,7 @@
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "O Governo entrega a proposta do OE2027 no Parlamento, marcando o início do debate na especialidade.",
+     "sintese": "O Governo entrega a proposta do OE2027 no Parlamento esta quinta-feira à tarde.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13889,7 +13889,7 @@
      "data": "2026-10-08",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
-     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027, detalhando uma medida específica da proposta.",
+     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13897,7 +13897,7 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD e CDS expressam tranquilidade com o OE2027, enquanto o PS alerta para a necessidade de cumprir compromissos.",
+     "sintese": "PSD espera tranquilidade e previsibilidade com o OE2027, mas PS avisa que compromissos são para cumprir.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13905,7 +13905,7 @@
      "data": "2026-10-09",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
-     "sintese": "O debate sobre o OE2027 é marcado por temas como habitação e Centeno, com foco em questões específicas.",
+     "sintese": "Num debate sobre o OE2027, habitação e Centeno roubaram o palco.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13913,7 +13913,7 @@
      "data": "2026-10-10",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propõe abstenção ao OE2027, admitindo que convicções mais profundas poderiam levar a um voto contra.",
+     "sintese": "Carneiro propõe abstenção ao OE2027, mas admite voto contra por convicções.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13921,15 +13921,15 @@
      "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "Debate sobre o OE2027 inclui a discussão de mitos sobre o Orçamento, procurando esclarecer a opinião pública.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-13",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-divida-publica-deve-continuar-a-ser-a-nossa-preocupacao-diz-miranda-sarmento/",
-     "sintese": "Miranda Sarmento afirma que a dívida pública estará abaixo de 85% do PIB em 2027, detalhando uma meta específica.",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/artigo/convidado/2026/10/13/o-oe-2027-em-perspetiva/489028/",
+     "sintese": "OE 2027 em perspetiva, com análise de medidas e posições políticas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13937,7 +13937,7 @@
      "data": "2026-10-23",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/jose-luis-carneiro/jose-luis-carneiro-justifica-viabilizacao-do-mau-oe2027-com-crises-em-portugal-e-no-estrangeiro/20261023/6adbd447d34e53c759c77c3b",
-     "sintese": "José Luís Carneiro justifica a viabilização do OE2027 com crises internacionais, apresentando um argumento para a decisão.",
+     "sintese": "José Luís Carneiro justifica viabilização do 'mau' OE2027 com crises em Portugal e no estrangeiro.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13945,7 +13945,7 @@
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/politica/debate-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774610",
-     "sintese": "Debate na generalidade do OE2027 é marcado por protestos pela habitação, evidenciando um tema de preocupação social.",
+     "sintese": "Debate na generalidade do OE2027, com protestos pela habitação a marcar o confronto parlamentar.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13953,7 +13953,7 @@
      "data": "2026-10-28",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/portugal/detalhe/parlamento-confirma-suspensao-do-inquerito-a-luis-neves-durante-discussao-do-oe2027",
-     "sintese": "Suspensão do inquérito a Luís Neves durante a discussão do OE2027, indicando um tema secundário na cobertura.",
+     "sintese": "Parlamento confirma suspensão do inquérito a Luís Neves durante discussão do OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -13961,15 +13961,15 @@
      "data": "2026-10-28",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-psd-e-cds-de-destratar-desconsiderar-e-atacar-ps-no-debate-do-oe2027",
-     "sintese": "Carneiro acusa PSD e CDS de destratar o PS no debate do OE2027, expressando uma crítica política.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "Carneiro acusa PSD e CDS de destratar e atacar PS no debate do OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-29",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/pais/3075446/oe2027-decisao-da-galp-e-soberana-e-governo-cumpriu-o-seu-papel-castro-almeida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Galp apresenta decisão soberana sobre investimentos, com o Governo a cumprir o seu papel na discussão.",
+     "sintese": "Decisão da Galp é soberana, mas Governo cumpriu o seu papel no OE2027.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -13977,7 +13977,15 @@
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "Ministro Gonçalo Matias revela dados da Carteira Digital de empresa, destacando uma medida específica.",
+     "sintese": "Carteira Digital tem 18 mil empresas, com Alemanha a inspirar-se no modelo português.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-31",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe2027-ministra-da-saude-afirma-que-nao-houve-regulacao-dos-privados-nos-ultimos-anos/",
+     "sintese": "Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos no OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13985,7 +13993,7 @@
      "data": "2026-11-01",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
-     "sintese": "OE2027: Dívida pública deve continuar a ser preocupação, com foco na gestão das contas públicas.",
+     "sintese": "OE2027: Ministra da Saúde afirma que não houve regulação dos privados nos últimos anos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -13993,37 +14001,29 @@
      "data": "2026-11-02",
      "fonte": "Diário de Notícias",
      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
-     "sintese": "Governo rejeita desmantelamento da CP, defendendo o papel estratégico da empresa.",
+     "sintese": "Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-03",
-     "fonte": "Ambiente Magazine",
-     "url": "https://www.ambientemagazine.com/quercus-considera-insuficiente-investimento-do-orcamento-do-estado-para-2027-na-floresta-e-na-adaptacao-climatica/",
-     "sintese": "Quercus considera investimento insuficiente na floresta e adaptação climática, expressando uma crítica ao Orçamento.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/oe2027-pcp-quer-criar-10o-escalao-de-irs-e-subir-deducao-especifica-para-5672-euros/",
-     "sintese": "PCP propõe criação de 10º escalão de IRS e subida da dedução específica, apresentando medidas específicas.",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/anam-propoe-fundo-permanente-para-catastrofes-climaticas-no-parecer-sobre-oe2027/",
+     "sintese": "ANAM propõe fundo permanente para catástrofes climáticas no parecer sobre OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1169
+    "encontradas": 1187
    },
    "base": {
-    "ultima": "2026-11-03 13:39",
+    "ultima": "2026-11-03 19:30",
     "em": "2026-11-03"
    },
-   "novas": 2,
-   "enquadramento": "Nos últimos meses, a cobertura mediática tem acompanhado de perto a elaboração e discussão do Orçamento do Estado para 2027, com várias notícias a reportar detalhes sobre as medidas propostas, as posições dos partidos políticos e as expectativas em relação à votação. Apresenta-se um quadro de evolução factual, desde a entrega da proposta de lei no Parlamento até aos debates na especialidade, com menções a temas como impostos sobre tabaco e álcool, dívida pública e habitação. A cobertura reflete um ambiente de debate político, com críticas e apoios, mas também com enquadramento de contexto sobre as crises internacionais e a situação económica."
+   "novas": 0,
+   "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 tem acompanhado o debate parlamentar, com notícias que vão desde a apresentação da proposta de lei até à discussão de medidas específicas e posições dos partidos. A AHRESP apresentou propostas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas e o PSD manifestou tranquilidade. O PCP anunciou um voto contra, e o debate na generalidade evidenciou divergências sobre a habitação e a gestão económica. O Governo rejeitou o desmantelamento da CP e defendeu a subconcessão, enquanto a ANAM propôs um fundo permanente para catástrofes climáticas. A cobertura evoluiu de anúncios iniciais para debates de especialidade, com críticas e posições políticas expressas."
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
    "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
@@ -14472,7 +14472,7 @@
     "ultima": "2026-11-03 14:51",
     "em": "2026-11-03"
    },
-   "novas": 0,
+   "novas": 13,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a entrega da proposta de lei no Parlamento e a preparação para o debate de quinta-feira. A AHRESP apresentou propostas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas e o PSD manifestou tranquilidade. O PCP anunciou o voto contra, e o debate na generalidade evidenciou divergências sobre a habitação e a dívida pública. O Governo rejeitou o desmantelamento da CP e propôs a semana de quatro dias para a administração pública."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -14654,7 +14654,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 15,
+   "novas": 29,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a realização de debates parlamentares. A oposição, nomeadamente o PCP, anunciou o seu voto contra, enquanto o Governo procura a viabilização através de compromissos e a gestão de crises internacionais. O PSD e o CDS expressaram preocupações sobre a estabilidade do Orçamento, enquanto o Governo enfatiza a redução da dívida pública e a importância da previsibilidade económica. A cobertura inclui também temas relacionados, como a habitação, a Carteira Digital de Empresa e a valorização da juventude, embora não diretamente relacionados com a discussão do Orçamento."
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
@@ -14806,19 +14806,19 @@
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "expressoes",
-    "ultima": "2026-11-03 11:26",
+    "ultima": "2026-11-03 10:43",
     "ultimas": [
-     {
-      "data": "2026-11-03",
-      "fonte": "ECO",
-      "titulo": "Ministra rejeita regresso do mecanismo ibérico: “É um erro”",
-      "url": "https://eco.sapo.pt/2026/11/03/ministra-rejeita-regresso-do-mecanismo-iberico-e-um-erro/"
-     },
      {
       "data": "2026-11-03",
       "fonte": "Jornal Económico",
       "titulo": "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
       "url": "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     },
+     {
+      "data": "2026-11-03",
+      "fonte": "ECO",
+      "titulo": "Ministra rejeita regresso do mecanismo ibérico: “É um erro”",
+      "url": "https://eco.sapo.pt/2026/11/03/ministra-rejeita-regresso-do-mecanismo-iberico-e-um-erro/"
      },
      {
       "data": "2026-11-02",
@@ -14829,16 +14829,16 @@
     ],
     "todas": [
      [
-      "2026-11-03 11:26",
-      "ECO",
-      "Ministra rejeita regresso do mecanismo ibérico: “É um erro”",
-      "https://eco.sapo.pt/2026/11/03/ministra-rejeita-regresso-do-mecanismo-iberico-e-um-erro/"
-     ],
-     [
       "2026-11-03 10:43",
       "Jornal Económico",
       "Descarbonizar e eletrificar são prioridades para 2027, destaca ministra do ambiente",
       "https://jornaleconomico.sapo.pt/noticias/descarbonizar-e-eletrificar-sao-prioridades-para-2027-destaca-ministra-do-ambiente/"
+     ],
+     [
+      "2026-11-03 10:12",
+      "ECO",
+      "Ministra rejeita regresso do mecanismo ibérico: “É um erro”",
+      "https://eco.sapo.pt/2026/11/03/ministra-rejeita-regresso-do-mecanismo-iberico-e-um-erro/"
      ],
      [
       "2026-11-02 16:06",
@@ -16663,14 +16663,20 @@
    "novo": "2026-11-02",
    "tituloRegras": true,
    "cobertura": {
-    "n": 13,
-    "n7": 5,
+    "n": 14,
+    "n7": 6,
     "n7ant": 1,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-11-03 10:26",
+    "ultima": "2026-11-03 17:30",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "JM Madeira",
+      "titulo": "ANAFRE suspende ação nacional de encerramento de serviços",
+      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008502/anafre-suspende-acao-nacional-de-encerramento-de-servicos.html"
+     },
      {
       "data": "2026-11-03",
       "fonte": "Açoriano Oriental",
@@ -16682,15 +16688,15 @@
       "fonte": "JM Madeira",
       "titulo": "Protesto das Juntas de Freguesia aguarda decisão da ANAFRE",
       "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008452/protesto-das-juntas-de-freguesia-aguarda-decisao-da-anafre.html"
-     },
-     {
-      "data": "2026-10-30",
-      "fonte": "JM Madeira",
-      "titulo": "Junta de Freguesia do Caniço adere ao protesto da ANAFRE",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008266/junta-de-freguesia-do-canico-adere-ao-protesto-da-anafre.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-03 17:30",
+      "JM Madeira",
+      "ANAFRE suspende ação nacional de encerramento de serviços",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008502/anafre-suspende-acao-nacional-de-encerramento-de-servicos.html"
+     ],
      [
       "2026-11-03 10:26",
       "Açoriano Oriental",
@@ -17650,14 +17656,20 @@
     }
    ],
    "cobertura": {
-    "n": 1,
-    "n7": 0,
+    "n": 2,
+    "n7": 1,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-03",
     "metodo": "palavras",
-    "ultima": "2026-10-20 01:00",
+    "ultima": "2026-11-03 15:58",
     "ultimas": [
+     {
+      "data": "2026-11-03",
+      "fonte": "Jornal de Negócios",
+      "titulo": "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+     },
      {
       "data": "2026-10-20",
       "fonte": "Açoriano Oriental",
@@ -17666,6 +17678,12 @@
      }
     ],
     "todas": [
+     [
+      "2026-11-03 15:58",
+      "Jornal de Negócios",
+      "CES: Atualização dos escalões de IRS em 3,88% insuficiente para neutralidade fiscal",
+      "https://www.jornaldenegocios.pt/economia/detalhe/ces-atualizacao-dos-escaloes-de-irs-em-3-88-insuficiente-para-neutralidade-fiscal"
+     ],
      [
       "2026-10-20 01:00",
       "Açoriano Oriental",
