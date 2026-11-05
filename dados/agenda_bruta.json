@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-05T15:46",
+ "recolha": "2026-11-05T23:30",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
@@ -140,21 +140,6 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
   },
   {
-   "id_ar": 48644,
-   "data": "2026-11-05",
-   "hora": "16h00",
-   "tema": "Comissão de Transparência e Estatuto dos Deputados",
-   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9 · Sala 1",
-   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
-   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada)\n 3 – Outros assuntos.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
-  },
-  {
    "id_ar": 48628,
    "data": "2026-11-05",
    "hora": "18h00",
@@ -262,6 +247,36 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx"
   },
   {
+   "id_ar": 48655,
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "tema": "Comissão de Economia e Coesão Territorial",
+   "orgao": "Comissão de Economia e Coesão Territorial",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 22",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicaç",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48653,
+   "data": "2026-11-10",
+   "hora": "08h30",
+   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "interveniente": "",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27",
+   "resumo": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
+   "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
+   "ligacao": ""
+  },
+  {
    "id_ar": 48651,
    "data": "2026-11-10",
    "hora": "09h00",
@@ -275,6 +290,21 @@
    "resumo": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europe",
    "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48654,
+   "data": "2026-11-10",
+   "hora": "09h00",
+   "tema": "Comissão de Economia e Coesão Territorial",
+   "orgao": "Comissão de Economia e Coesão Territorial",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 23",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n [conjunta com a Comissão de Assuntos Europeus]",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n [conjunta com a Comissão de Assuntos Europeus]",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
   },
   {
    "id_ar": 48393,

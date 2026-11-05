@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48653@ar-preview
+DTSTAMP:20261105T234308Z
+DTSTART:20261110T083000Z
+DTEND:20261110T103000Z
+SUMMARY:AR · Grupo de Trabalho de Escrutínio de Iniciativas Europeias
+LOCATION:Assembleia da República
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 27\nSíntese: Propostas de 
+ deliberação\nEmissões em direto (quando houver): https://canal.parlame
+ nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
+  indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

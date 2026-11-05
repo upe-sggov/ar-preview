@@ -337,6 +337,204 @@
    }
   },
   {
+   "tema": "Comissão de Economia e Coesão Territorial",
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Economia e Coesão Territorial · Reunião n.º 22",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicaç",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]",
+   "orgao": "Comissão de Economia e Coesão Territorial",
+   "id_ar": 48655,
+   "chave": "ar-48655",
+   "dataLabel": "segunda, 9 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 17,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-05",
+    "metodo": "palavras",
+    "ultima": "2026-10-22 18:39",
+    "ultimas": [
+     {
+      "data": "2026-10-22",
+      "fonte": "Observador",
+      "titulo": "\"Montenegro é quase socialista\"",
+      "url": "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
+     },
+     {
+      "data": "2026-10-20",
+      "fonte": "RTP Notícias",
+      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
+      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
+     },
+     {
+      "data": "2026-10-20",
+      "fonte": "ECO",
+      "titulo": "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
+      "url": "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-22 18:39",
+      "Observador",
+      "\"Montenegro é quase socialista\"",
+      "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
+     ],
+     [
+      "2026-10-20 16:14",
+      "RTP Notícias",
+      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
+      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
+     ],
+     [
+      "2026-10-20 15:31",
+      "ECO",
+      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
+      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+     ],
+     [
+      "2026-10-15 16:20",
+      "Açoriano Oriental",
+      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
+      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
+     ],
+     [
+      "2026-10-14 15:47",
+      "ECO",
+      "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
+      "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
+     ],
+     [
+      "2026-10-14 00:08",
+      "Observador",
+      "A República deve ter uma Vice-Presidente",
+      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
+     ],
+     [
+      "2026-10-12 12:48",
+      "Ambiente Magazine",
+      "Opinião: “Uma cidade limpa é uma cidade que cuida”",
+      "https://www.ambientemagazine.com/opiniao-uma-cidade-limpa-e-uma-cidade-que-cuida/"
+     ],
+     [
+      "2026-10-01 13:41",
+      "Jornal Económico",
+      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
+      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
+     ],
+     [
+      "2026-09-23 14:57",
+      "Jornal de Notícias",
+      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
+      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
+     ],
+     [
+      "2026-09-23 11:45",
+      "ECO",
+      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
+      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
+     ],
+     [
+      "2026-09-19 17:24",
+      "ECO",
+      "Líder da Paul Weiss investe em luxo no Algarve",
+      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
+     ],
+     [
+      "2026-09-17 15:03",
+      "ECO",
+      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
+      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
+     ],
+     [
+      "2026-09-17 10:00",
+      "JM Madeira",
+      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
+     ],
+     [
+      "2026-09-17 07:07",
+      "Diário de Notícias da Madeira",
+      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
+      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
+     ],
+     [
+      "2026-09-16 09:18",
+      "Diário de Notícias da Madeira",
+      "Representante da República recebe Vice-Presidente da Comissão Europeia",
+      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
+     ],
+     [
+      "2026-09-14 13:35",
+      "RTP Notícias",
+      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
+      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
+     ],
+     [
+      "2026-09-09 22:59",
+      "Observador",
+      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
+      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "data": "2026-11-10",
+   "hora": "08h30",
+   "interveniente": "",
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27",
+   "resumo": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
+   "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
+   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "id_ar": 48653,
+   "chave": "ar-48653",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-05",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Comissão de Assuntos Europeus",
    "data": "2026-11-10",
    "hora": "09h00",
@@ -366,6 +564,194 @@
     {
      "titulo": "Agenda parlamentar",
      "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 21,
+    "n7": 0,
+    "n7ant": 2,
+    "dias": 60,
+    "ref": "2026-11-05",
+    "metodo": "palavras",
+    "ultima": "2026-10-25 15:07",
+    "ultimas": [
+     {
+      "data": "2026-10-25",
+      "fonte": "RTP Notícias",
+      "titulo": "Vice-presidente brasileiro diz que vencerá democracia",
+      "url": "https://www.rtp.pt/noticias/mundo/vice-presidente-brasileiro-diz-que-vencera-democracia_v1774201"
+     },
+     {
+      "data": "2026-10-23",
+      "fonte": "Jornal Económico",
+      "titulo": "Seixal aprova investimento de 2,1 milhões para reforçar rede de abastecimento de água",
+      "url": "https://jornaleconomico.sapo.pt/noticias/seixal-aprova-investimento-de-21-milhoes-para-reforcar-rede-de-abastecimento-de-agua/"
+     },
+     {
+      "data": "2026-10-20",
+      "fonte": "RTP Notícias",
+      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
+      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-25 15:07",
+      "RTP Notícias",
+      "Vice-presidente brasileiro diz que vencerá democracia",
+      "https://www.rtp.pt/noticias/mundo/vice-presidente-brasileiro-diz-que-vencera-democracia_v1774201"
+     ],
+     [
+      "2026-10-23 22:29",
+      "Jornal Económico",
+      "Seixal aprova investimento de 2,1 milhões para reforçar rede de abastecimento de água",
+      "https://jornaleconomico.sapo.pt/noticias/seixal-aprova-investimento-de-21-milhoes-para-reforcar-rede-de-abastecimento-de-agua/"
+     ],
+     [
+      "2026-10-20 16:14",
+      "RTP Notícias",
+      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
+      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
+     ],
+     [
+      "2026-10-20 15:31",
+      "ECO",
+      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
+      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+     ],
+     [
+      "2026-10-15 16:20",
+      "Açoriano Oriental",
+      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
+      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
+     ],
+     [
+      "2026-10-14 15:47",
+      "ECO",
+      "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
+      "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
+     ],
+     [
+      "2026-10-14 00:08",
+      "Observador",
+      "A República deve ter uma Vice-Presidente",
+      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
+     ],
+     [
+      "2026-10-13 06:57",
+      "ECO",
+      "Novos Avisos STEP: mais quatro “passos” para dinamizar o investimento empresarial",
+      "https://eco.sapo.pt/opiniao/novos-avisos-step-mais-quatro-passos-para-dinamizar-o-investimento-empresarial/"
+     ],
+     [
+      "2026-10-08 12:37",
+      "SAPO Tek",
+      "Soberania tecnológica: a nova urgência europeia",
+      "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/"
+     ],
+     [
+      "2026-10-01 13:41",
+      "Jornal Económico",
+      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
+      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
+     ],
+     [
+      "2026-09-23 14:57",
+      "Jornal de Notícias",
+      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
+      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
+     ],
+     [
+      "2026-09-23 11:45",
+      "ECO",
+      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
+      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
+     ],
+     [
+      "2026-09-22 11:08",
+      "Público",
+      "Vice-presidente do PSD Leonor Beleza defende que país precisa de “medidas difíceis”",
+      "https://www.publico.pt/2026/09/22/politica/noticia/vicepresidente-psd-leonor-beleza-defende-pais-precisa-medidas-dificeis-2188868"
+     ],
+     [
+      "2026-09-19 17:24",
+      "ECO",
+      "Líder da Paul Weiss investe em luxo no Algarve",
+      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
+     ],
+     [
+      "2026-09-19 07:13",
+      "Observador",
+      "7h. Passos Coelho pede ousadia ao Governo de Luís Montenegro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2510/"
+     ],
+     [
+      "2026-09-17 15:03",
+      "ECO",
+      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
+      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
+     ],
+     [
+      "2026-09-17 10:00",
+      "JM Madeira",
+      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
+     ],
+     [
+      "2026-09-17 07:07",
+      "Diário de Notícias da Madeira",
+      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
+      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
+     ],
+     [
+      "2026-09-16 09:18",
+      "Diário de Notícias da Madeira",
+      "Representante da República recebe Vice-Presidente da Comissão Europeia",
+      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
+     ],
+     [
+      "2026-09-14 13:35",
+      "RTP Notícias",
+      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
+      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
+     ],
+     [
+      "2026-09-09 22:59",
+      "Observador",
+      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
+      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Comissão de Economia e Coesão Territorial",
+   "data": "2026-11-10",
+   "hora": "09h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Economia e Coesão Territorial · Reunião n.º 23",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n [conjunta com a Comissão de Assuntos Europeus]",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n [conjunta com a Comissão de Assuntos Europeus]",
+   "orgao": "Comissão de Economia e Coesão Territorial",
+   "id_ar": 48654,
+   "chave": "ar-48654",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
     }
    ],
    "cobertura": {
@@ -558,42 +944,60 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 1230,
-    "n7": 122,
+    "n": 1234,
+    "n7": 126,
     "n7ant": 182,
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "expressoes",
-    "ultima": "2026-11-05 14:29",
+    "ultima": "2026-11-05 20:48",
     "ultimas": [
      {
       "data": "2026-11-05",
-      "fonte": "ECO",
-      "titulo": "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "url": "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "url": "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "CFP questiona revisão expressiva da despesa com juros no OE2027",
-      "url": "https://www.noticiasaominuto.com/economia/3079070/cfp-questiona-revisao-expressiva-da-despesa-com-juros-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "url": "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
      }
     ],
     "todas": [
      [
-      "2026-11-05 14:29",
-      "ECO",
-      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "2026-11-05 20:48",
+      "Jornal Económico",
+      "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      ],
      [
-      "2026-11-05 13:54",
+      "2026-11-05 20:37",
+      "Executive Digest",
+      "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
+     ],
+     [
+      "2026-11-05 20:29",
+      "Executive Digest",
+      "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
+     ],
+     [
+      "2026-11-05 16:31",
+      "Observador",
+      "PS quer ouvir INE sobre estatísticas da população",
+      "https://observador.pt/2026/11/05/ps-quer-ine-no-parlamento-apos-revisao-que-quintuplica-estimativas-de-emigracao-permanente-em-quatro-anos/"
+     ],
+     [
+      "2026-11-05 13:55",
       "Jornal de Negócios",
       "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
@@ -608,7 +1012,13 @@
       "2026-11-05 13:13",
       "Diário de Notícias",
       "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
-      "https://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+      "http://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+     ],
+     [
+      "2026-11-05 13:03",
+      "ECO",
+      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
      ],
      [
       "2026-11-05 12:22",
@@ -635,7 +1045,7 @@
       "https://eco.sapo.pt/2026/11/05/lei-das-rendas-ensombra-negociacoes-entre-governo-e-ps-chega-quer-medidas-no-orcamento-do-estado-para-2027/"
      ],
      [
-      "2026-11-05 02:16",
+      "2026-11-05 01:16",
       "Observador",
       "OE2027. A audição do ministro da Educação no Parlamento",
       "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/"
@@ -2961,30 +3371,6 @@
       "ECO",
       "OE2027: O que está bem, o que falta e a coragem de reformar",
       "https://eco.sapo.pt/opiniao/oe2027-o-que-esta-bem-o-que-falta-e-a-coragem-de-reformar/"
-     ],
-     [
-      "2026-10-13 09:28",
-      "ECO",
-      "Escalões de IRS sobem 3,88% em 2027",
-      "https://eco.sapo.pt/2026/10/13/escaloes-de-irs-sobem-388-em-2027/"
-     ],
-     [
-      "2026-10-13 09:16",
-      "JM Madeira",
-      "Proposta do Orçamento do Estado para 2027 \"é globalmente má\" para a Região",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006955/proposta-do-orcamento-do-estado-para-2027-e-globalmente-ma-para-a-regiao.html"
-     ],
-     [
-      "2026-10-13 08:00",
-      "Notícias ao Minuto",
-      "Análise à proposta do OE2027: Quem vai sentir mais o alívio do IRS?",
-      "https://www.noticiasaominuto.com/economia/3065565/analise-a-proposta-do-oe2027-quem-vai-sentir-mais-o-alivio-do-irs#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-13 06:10",
-      "Renascença",
-      "“O salário mínimo aumenta mas a farinha não fica mais barata”. OE 2027 visto por três padeiros",
-      "https://rr.pt/especial/pais/2026/10/13/o-salario-minimo-aumenta-mas-a-farinha-nao-fica-mais-barata-oe-2027-visto-por-tres-padeiros/488512/"
      ]
     ]
    },
@@ -3026,42 +3412,60 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1230,
-    "n7": 122,
+    "n": 1234,
+    "n7": 126,
     "n7ant": 182,
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "expressoes",
-    "ultima": "2026-11-05 14:29",
+    "ultima": "2026-11-05 20:48",
     "ultimas": [
      {
       "data": "2026-11-05",
-      "fonte": "ECO",
-      "titulo": "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "url": "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "url": "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "CFP questiona revisão expressiva da despesa com juros no OE2027",
-      "url": "https://www.noticiasaominuto.com/economia/3079070/cfp-questiona-revisao-expressiva-da-despesa-com-juros-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "url": "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
      }
     ],
     "todas": [
      [
-      "2026-11-05 14:29",
-      "ECO",
-      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "2026-11-05 20:48",
+      "Jornal Económico",
+      "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      ],
      [
-      "2026-11-05 13:54",
+      "2026-11-05 20:37",
+      "Executive Digest",
+      "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
+     ],
+     [
+      "2026-11-05 20:29",
+      "Executive Digest",
+      "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
+     ],
+     [
+      "2026-11-05 16:31",
+      "Observador",
+      "PS quer ouvir INE sobre estatísticas da população",
+      "https://observador.pt/2026/11/05/ps-quer-ine-no-parlamento-apos-revisao-que-quintuplica-estimativas-de-emigracao-permanente-em-quatro-anos/"
+     ],
+     [
+      "2026-11-05 13:55",
       "Jornal de Negócios",
       "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
@@ -3076,7 +3480,13 @@
       "2026-11-05 13:13",
       "Diário de Notícias",
       "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
-      "https://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+      "http://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+     ],
+     [
+      "2026-11-05 13:03",
+      "ECO",
+      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
      ],
      [
       "2026-11-05 12:22",
@@ -3103,7 +3513,7 @@
       "https://eco.sapo.pt/2026/11/05/lei-das-rendas-ensombra-negociacoes-entre-governo-e-ps-chega-quer-medidas-no-orcamento-do-estado-para-2027/"
      ],
      [
-      "2026-11-05 02:16",
+      "2026-11-05 01:16",
       "Observador",
       "OE2027. A audição do ministro da Educação no Parlamento",
       "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/"
@@ -5429,30 +5839,6 @@
       "ECO",
       "OE2027: O que está bem, o que falta e a coragem de reformar",
       "https://eco.sapo.pt/opiniao/oe2027-o-que-esta-bem-o-que-falta-e-a-coragem-de-reformar/"
-     ],
-     [
-      "2026-10-13 09:28",
-      "ECO",
-      "Escalões de IRS sobem 3,88% em 2027",
-      "https://eco.sapo.pt/2026/10/13/escaloes-de-irs-sobem-388-em-2027/"
-     ],
-     [
-      "2026-10-13 09:16",
-      "JM Madeira",
-      "Proposta do Orçamento do Estado para 2027 \"é globalmente má\" para a Região",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006955/proposta-do-orcamento-do-estado-para-2027-e-globalmente-ma-para-a-regiao.html"
-     ],
-     [
-      "2026-10-13 08:00",
-      "Notícias ao Minuto",
-      "Análise à proposta do OE2027: Quem vai sentir mais o alívio do IRS?",
-      "https://www.noticiasaominuto.com/economia/3065565/analise-a-proposta-do-oe2027-quem-vai-sentir-mais-o-alivio-do-irs#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-13 06:10",
-      "Renascença",
-      "“O salário mínimo aumenta mas a farinha não fica mais barata”. OE 2027 visto por três padeiros",
-      "https://rr.pt/especial/pais/2026/10/13/o-salario-minimo-aumenta-mas-a-farinha-nao-fica-mais-barata-oe-2027-visto-por-tres-padeiros/488512/"
      ]
     ]
    },
@@ -5494,42 +5880,60 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 1230,
-    "n7": 122,
+    "n": 1234,
+    "n7": 126,
     "n7ant": 182,
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "expressoes",
-    "ultima": "2026-11-05 14:29",
+    "ultima": "2026-11-05 20:48",
     "ultimas": [
      {
       "data": "2026-11-05",
-      "fonte": "ECO",
-      "titulo": "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "url": "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "url": "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "CFP questiona revisão expressiva da despesa com juros no OE2027",
-      "url": "https://www.noticiasaominuto.com/economia/3079070/cfp-questiona-revisao-expressiva-da-despesa-com-juros-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "url": "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
      }
     ],
     "todas": [
      [
-      "2026-11-05 14:29",
-      "ECO",
-      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "2026-11-05 20:48",
+      "Jornal Económico",
+      "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      ],
      [
-      "2026-11-05 13:54",
+      "2026-11-05 20:37",
+      "Executive Digest",
+      "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
+     ],
+     [
+      "2026-11-05 20:29",
+      "Executive Digest",
+      "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
+     ],
+     [
+      "2026-11-05 16:31",
+      "Observador",
+      "PS quer ouvir INE sobre estatísticas da população",
+      "https://observador.pt/2026/11/05/ps-quer-ine-no-parlamento-apos-revisao-que-quintuplica-estimativas-de-emigracao-permanente-em-quatro-anos/"
+     ],
+     [
+      "2026-11-05 13:55",
       "Jornal de Negócios",
       "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
@@ -5544,7 +5948,13 @@
       "2026-11-05 13:13",
       "Diário de Notícias",
       "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
-      "https://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+      "http://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+     ],
+     [
+      "2026-11-05 13:03",
+      "ECO",
+      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
      ],
      [
       "2026-11-05 12:22",
@@ -5571,7 +5981,7 @@
       "https://eco.sapo.pt/2026/11/05/lei-das-rendas-ensombra-negociacoes-entre-governo-e-ps-chega-quer-medidas-no-orcamento-do-estado-para-2027/"
      ],
      [
-      "2026-11-05 02:16",
+      "2026-11-05 01:16",
       "Observador",
       "OE2027. A audição do ministro da Educação no Parlamento",
       "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/"
@@ -7897,30 +8307,6 @@
       "ECO",
       "OE2027: O que está bem, o que falta e a coragem de reformar",
       "https://eco.sapo.pt/opiniao/oe2027-o-que-esta-bem-o-que-falta-e-a-coragem-de-reformar/"
-     ],
-     [
-      "2026-10-13 09:28",
-      "ECO",
-      "Escalões de IRS sobem 3,88% em 2027",
-      "https://eco.sapo.pt/2026/10/13/escaloes-de-irs-sobem-388-em-2027/"
-     ],
-     [
-      "2026-10-13 09:16",
-      "JM Madeira",
-      "Proposta do Orçamento do Estado para 2027 \"é globalmente má\" para a Região",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006955/proposta-do-orcamento-do-estado-para-2027-e-globalmente-ma-para-a-regiao.html"
-     ],
-     [
-      "2026-10-13 08:00",
-      "Notícias ao Minuto",
-      "Análise à proposta do OE2027: Quem vai sentir mais o alívio do IRS?",
-      "https://www.noticiasaominuto.com/economia/3065565/analise-a-proposta-do-oe2027-quem-vai-sentir-mais-o-alivio-do-irs#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-13 06:10",
-      "Renascença",
-      "“O salário mínimo aumenta mas a farinha não fica mais barata”. OE 2027 visto por três padeiros",
-      "https://rr.pt/especial/pais/2026/10/13/o-salario-minimo-aumenta-mas-a-farinha-nao-fica-mais-barata-oe-2027-visto-por-tres-padeiros/488512/"
      ]
     ]
    },
@@ -7962,42 +8348,60 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1230,
-    "n7": 122,
+    "n": 1234,
+    "n7": 126,
     "n7ant": 182,
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "expressoes",
-    "ultima": "2026-11-05 14:29",
+    "ultima": "2026-11-05 20:48",
     "ultimas": [
      {
       "data": "2026-11-05",
-      "fonte": "ECO",
-      "titulo": "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "url": "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "url": "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "CFP questiona revisão expressiva da despesa com juros no OE2027",
-      "url": "https://www.noticiasaominuto.com/economia/3079070/cfp-questiona-revisao-expressiva-da-despesa-com-juros-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "url": "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
      }
     ],
     "todas": [
      [
-      "2026-11-05 14:29",
-      "ECO",
-      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "2026-11-05 20:48",
+      "Jornal Económico",
+      "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      ],
      [
-      "2026-11-05 13:54",
+      "2026-11-05 20:37",
+      "Executive Digest",
+      "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
+     ],
+     [
+      "2026-11-05 20:29",
+      "Executive Digest",
+      "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
+     ],
+     [
+      "2026-11-05 16:31",
+      "Observador",
+      "PS quer ouvir INE sobre estatísticas da população",
+      "https://observador.pt/2026/11/05/ps-quer-ine-no-parlamento-apos-revisao-que-quintuplica-estimativas-de-emigracao-permanente-em-quatro-anos/"
+     ],
+     [
+      "2026-11-05 13:55",
       "Jornal de Negócios",
       "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
@@ -8012,7 +8416,13 @@
       "2026-11-05 13:13",
       "Diário de Notícias",
       "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
-      "https://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+      "http://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+     ],
+     [
+      "2026-11-05 13:03",
+      "ECO",
+      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
      ],
      [
       "2026-11-05 12:22",
@@ -8039,7 +8449,7 @@
       "https://eco.sapo.pt/2026/11/05/lei-das-rendas-ensombra-negociacoes-entre-governo-e-ps-chega-quer-medidas-no-orcamento-do-estado-para-2027/"
      ],
      [
-      "2026-11-05 02:16",
+      "2026-11-05 01:16",
       "Observador",
       "OE2027. A audição do ministro da Educação no Parlamento",
       "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/"
@@ -10365,30 +10775,6 @@
       "ECO",
       "OE2027: O que está bem, o que falta e a coragem de reformar",
       "https://eco.sapo.pt/opiniao/oe2027-o-que-esta-bem-o-que-falta-e-a-coragem-de-reformar/"
-     ],
-     [
-      "2026-10-13 09:28",
-      "ECO",
-      "Escalões de IRS sobem 3,88% em 2027",
-      "https://eco.sapo.pt/2026/10/13/escaloes-de-irs-sobem-388-em-2027/"
-     ],
-     [
-      "2026-10-13 09:16",
-      "JM Madeira",
-      "Proposta do Orçamento do Estado para 2027 \"é globalmente má\" para a Região",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006955/proposta-do-orcamento-do-estado-para-2027-e-globalmente-ma-para-a-regiao.html"
-     ],
-     [
-      "2026-10-13 08:00",
-      "Notícias ao Minuto",
-      "Análise à proposta do OE2027: Quem vai sentir mais o alívio do IRS?",
-      "https://www.noticiasaominuto.com/economia/3065565/analise-a-proposta-do-oe2027-quem-vai-sentir-mais-o-alivio-do-irs#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-13 06:10",
-      "Renascença",
-      "“O salário mínimo aumenta mas a farinha não fica mais barata”. OE 2027 visto por três padeiros",
-      "https://rr.pt/especial/pais/2026/10/13/o-salario-minimo-aumenta-mas-a-farinha-nao-fica-mais-barata-oe-2027-visto-por-tres-padeiros/488512/"
      ]
     ]
    },
@@ -10430,42 +10816,60 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos",
    "cobertura": {
-    "n": 1230,
-    "n7": 122,
+    "n": 1234,
+    "n7": 126,
     "n7ant": 182,
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "expressoes",
-    "ultima": "2026-11-05 14:29",
+    "ultima": "2026-11-05 20:48",
     "ultimas": [
      {
       "data": "2026-11-05",
-      "fonte": "ECO",
-      "titulo": "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "url": "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "url": "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
      },
      {
       "data": "2026-11-05",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "CFP questiona revisão expressiva da despesa com juros no OE2027",
-      "url": "https://www.noticiasaominuto.com/economia/3079070/cfp-questiona-revisao-expressiva-da-despesa-com-juros-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "fonte": "Executive Digest",
+      "titulo": "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "url": "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
      }
     ],
     "todas": [
      [
-      "2026-11-05 14:29",
-      "ECO",
-      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
+      "2026-11-05 20:48",
+      "Jornal Económico",
+      "Governo quer novo submarino e vai incluí-lo na Lei de Programação Militar",
+      "https://jornaleconomico.sapo.pt/noticias/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/"
      ],
      [
-      "2026-11-05 13:54",
+      "2026-11-05 20:37",
+      "Executive Digest",
+      "OE2027: Apoio aos agricultores é “subsídio direto” a cada português – Ministro",
+      "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/"
+     ],
+     [
+      "2026-11-05 20:29",
+      "Executive Digest",
+      "OE2027: Ministro diz que agricultura terá \"maior orçamento de sempre\"",
+      "https://executivedigest.sapo.pt/oe2027-ministro-diz-que-agricultura-tera-maior-orcamento-de-sempre/"
+     ],
+     [
+      "2026-11-05 16:31",
+      "Observador",
+      "PS quer ouvir INE sobre estatísticas da população",
+      "https://observador.pt/2026/11/05/ps-quer-ine-no-parlamento-apos-revisao-que-quintuplica-estimativas-de-emigracao-permanente-em-quatro-anos/"
+     ],
+     [
+      "2026-11-05 13:55",
       "Jornal de Negócios",
       "OE2027. Com despesa líquida já próxima do limiar, \"a margem de erro é estreita\", avisa CFP",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-com-despesa-liquida-ja-proxima-do-limiar-a-margem-de-erro-e-estreita-avisa-cfp"
@@ -10480,7 +10884,13 @@
       "2026-11-05 13:13",
       "Diário de Notícias",
       "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
-      "https://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+      "http://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+     ],
+     [
+      "2026-11-05 13:03",
+      "ECO",
+      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
      ],
      [
       "2026-11-05 12:22",
@@ -10507,7 +10917,7 @@
       "https://eco.sapo.pt/2026/11/05/lei-das-rendas-ensombra-negociacoes-entre-governo-e-ps-chega-quer-medidas-no-orcamento-do-estado-para-2027/"
      ],
      [
-      "2026-11-05 02:16",
+      "2026-11-05 01:16",
       "Observador",
       "OE2027. A audição do ministro da Educação no Parlamento",
       "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/"
@@ -12833,30 +13243,6 @@
       "ECO",
       "OE2027: O que está bem, o que falta e a coragem de reformar",
       "https://eco.sapo.pt/opiniao/oe2027-o-que-esta-bem-o-que-falta-e-a-coragem-de-reformar/"
-     ],
-     [
-      "2026-10-13 09:28",
-      "ECO",
-      "Escalões de IRS sobem 3,88% em 2027",
-      "https://eco.sapo.pt/2026/10/13/escaloes-de-irs-sobem-388-em-2027/"
-     ],
-     [
-      "2026-10-13 09:16",
-      "JM Madeira",
-      "Proposta do Orçamento do Estado para 2027 \"é globalmente má\" para a Região",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006955/proposta-do-orcamento-do-estado-para-2027-e-globalmente-ma-para-a-regiao.html"
-     ],
-     [
-      "2026-10-13 08:00",
-      "Notícias ao Minuto",
-      "Análise à proposta do OE2027: Quem vai sentir mais o alívio do IRS?",
-      "https://www.noticiasaominuto.com/economia/3065565/analise-a-proposta-do-oe2027-quem-vai-sentir-mais-o-alivio-do-irs#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-13 06:10",
-      "Renascença",
-      "“O salário mínimo aumenta mas a farinha não fica mais barata”. OE 2027 visto por três padeiros",
-      "https://rr.pt/especial/pais/2026/10/13/o-salario-minimo-aumenta-mas-a-farinha-nao-fica-mais-barata-oe-2027-visto-por-tres-padeiros/488512/"
      ]
     ]
    },
@@ -13042,10 +13428,16 @@
     "novos": 0,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-05",
+    "novos": 0,
+    "alterados": 0,
+    "retirados": 1
    }
   ],
-  "atualizado": "2026-11-05T15:46+00:00",
-  "atualizadoLabel": "5 de novembro, 15h46",
+  "atualizado": "2026-11-05T23:30+00:00",
+  "atualizadoLabel": "5 de novembro, 23h30",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "30 de outubro"
@@ -13230,7 +13622,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 73,
+   "novas": 77,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a preparação para o debate parlamentar. A AHRESP propôs medidas para estimular o investimento, enquanto o Governo garantiu a disponibilidade de verbas. O PCP anunciou o voto contra, mas o Governo viabilizou o documento com apoio de outros partidos. O debate na generalidade ocorreu a 27 de outubro, com a habitação a dominar o confronto. O Governo rejeitou o desmantelamento da CP e reafirmou o seu papel estratégico."
   },
   "2026-11-24-plen-rio-discuss-o-de-artigos-remetidos": {
@@ -13412,7 +13804,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 73,
+   "novas": 77,
    "enquadramento": "O debate sobre o Orçamento do Estado para 2027 tem sido um foco central na Assembleia da República, com várias notícias a reportar discussões parlamentares, posições de partidos e medidas governamentais. O Governo apresentou a proposta de lei, que foi alvo de críticas e anúncios de voto contra por parte de partidos da oposição, como o PCP. Entretanto, foram reportados avanços na discussão do orçamento, como a confirmação da suspensão de um inquérito e a aprovação de medidas relacionadas com a habitação e a Carteira Digital de Empresa. A cobertura mediática tem acompanhado a evolução do debate, com ênfase em temas como a dívida pública, a regulação do setor privado e o apoio à juventude."
   },
   "2026-11-03-48569-ministro-da-presid-ncia-ant-nio-leit-o-amar": {
@@ -14231,8 +14623,8 @@
   },
   "2026-11-05-48566-ministro-da-defesa-nacional-nuno-melo-or-am": {
    "titulo": "Ministro da Defesa Nacional, Nuno Melo: Orçamento da Defesa Nacional",
-   "meta": "Comissão de Defesa Nacional · Reunião n.º 50 · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 14h00",
-   "nivel": "curta",
+   "meta": "Comissão de Defesa Nacional · Reunião n.º 50 · Plenário · conjunta com Comissão de Orçamento, Finanças e Administração Pública · quinta, 5 nov, 14h00",
+   "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
    "atencao": [],
@@ -14243,7 +14635,15 @@
      "data": "2026-09-12",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/governo-ainda-espera-receber-em-outubro-primeiro-pagamento-do-safe",
-     "sintese": "O Governo ainda aguarda o primeiro pagamento do empréstimo SAFE para a defesa, enquanto o Ministro da Defesa Nacional, Nuno Melo, discute o Orçamento da Defesa Nacional para 2027.",
+     "sintese": "O Governo ainda espera receber em outubro o primeiro pagamento do empréstimo SAFE para a defesa, um ano após a confirmação, sem acordo de financiamento com Bruxelas. O Ministério da Defesa mantém a confiança de que as primeiras verbas cheguem no próximo mês.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-14",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/mundo/mocambique-pede-acesso-a-arquivos-militares-portugueses-para-contar-historia-comum_n1765309",
+     "sintese": "A ministra dos Combatentes moçambicana solicitou acesso aos arquivos militares portugueses para investigar a história comum do período da luta de libertação nacional, com o ministro da Defesa português a destacar a reconciliação.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -14251,7 +14651,7 @@
      "data": "2026-09-15",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/mundo/ministro-da-defesa-defende-renovacao-do-mandato-da-missao-da-ue-em-mocambique_v1765627",
-     "sintese": "Nuno Melo defende a renovação do mandato da Missão da UE em Moçambique, sublinhando a sua importância no combate ao terrorismo na província de Cabo Delgado.",
+     "sintese": "O Ministro da Defesa Nacional defendeu a renovação do mandato da Missão da UE em Moçambique, essencial para o combate ao terrorismo na província de Cabo Delgado.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14259,61 +14659,149 @@
      "data": "2026-09-22",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/defesa-nuno-melo-ouvido-hoje-no-parlamento-sobre-processo-de-aquisicao-de-fragatas/",
-     "sintese": "Nuno Melo é ouvido no parlamento sobre o processo de aquisição de fragatas.",
+     "sintese": "O Ministro da Defesa Nacional revelou detalhes do preço do maior negócio de sempre na Defesa, com €310 milhões em mísseis para a aquisição de fragatas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-09-23",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/09/23/diretor-da-policia-judiciaria-militar-apela-a-refundacao-legal-que-ministro-diz-estar-a-estudar/",
-     "sintese": "Nuno Melo anuncia a revisão da lei orgânica da PJM e novos investimentos em modernização.",
+     "data": "2026-09-22",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/defesa-nacional/2026-09-22-fragatas-nuno-melo-revela-detalhes-do-preco-do-maior-negocio-de-sempre-na-defesa-com-310-milhoes-em-misseis-9e32f64c?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/defesa-nacional/2026-09-22-fragatas-nuno-melo-revela-detalhes-do-preco-do-maior-negocio-de-sempre-na-defesa-com-310-milhoes-em-misseis-9e32f64c",
+     "sintese": "O Ministro da Defesa Nacional afirmou que o investimento na defesa reforça a economia nacional e não é despesa, com empresas portuguesas a participarem em investimentos no setor.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-22",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/defesa-nacional/2026-09-22-fragatas-nuno-melo-revela-detalhes-o-maior-negocio-de-sempre-na-defesa-com-310-milhoes-em-misseis-9e32f64c?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/defesa-nacional/2026-09-22-fragatas-nuno-melo-revela-detalhes-o-maior-negocio-de-sempre-na-defesa-com-310-milhoes-em-misseis-9e32f64c",
+     "sintese": "O Ministro da Defesa Nacional afirmou que o investimento na defesa só por si significa pouco, sendo necessário evoluir para ganhar vantagem no campo de batalha.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-13",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/13/nuno-melo-vai-rever-criterios-de-acesso-as-forcas-armadas-e-rejeita-tabelas-aprovadas-pelo-ps-em-2023/",
-     "sintese": "Nuno Melo anuncia a revisão dos critérios de acesso às Forças Armadas, substituindo a portaria de Helena Carreiras.",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/nuno-melo-estamos-a-reforcar-a-economia-nacional-com-a-defesa-e-nao-a-fazer-despesa/",
+     "sintese": "O Ministro da Defesa Nacional garantiu que o foco nos meios humanos começou na sua frente do Ministério da Defesa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/14/exercito-assina-acordo-com-nato-e-quer-tornar-portugal-num-centro-europeu-de-experimentacao-tecnologica-militar/",
+     "sintese": "O Ministro da Defesa Nacional afirmou que o serviço militar voluntário para jovens no terreno será implementado já em 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-22",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/22/video/hora-verdade-nuno-melo-20261022-100946",
+     "sintese": "O autarca de Gaia criticou o Ministro da Defesa Nacional, alegando que o bloqueava no processo de construção de casas para 2500 jovens.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-23",
      "fonte": "Expresso",
      "url": "https://expresso.pt/politica/2026-10-23-video-menezes-vs.-nuno-melo-autarca-de-gaia-quer-construir-casas-para-2500-jovens-e-diz-que-o-ministro-da-defesa-esta-a-bloquear-o-processo-a77ac8a1",
-     "sintese": "O autarca de Gaia, Menezes, afirma que o Ministro da Defesa está a bloquear o processo de construção de casas para 2500 jovens.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "O PS questionou o calendário da Lei de Programação Militar e solicitou esclarecimentos ao Ministro da Defesa Nacional sobre a substituição dos caças F-16.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-10-29",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/29/nuno-melo-recusa-desgaste-do-governo-e-critica-instrumentalizacao-radical-dos-protestos-na-habitacao/",
-     "sintese": "Nuno Melo recusa o desgaste do Governo e critica a instrumentalização radical dos protestos na habitação.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "data": "2026-10-24",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/ps-questiona-calendario-da-lei-de-programacao-militar-e-pede-esclarecimentos-a-nuno-melo_n1774032",
+     "sintese": "O PS questionou o calendário da Lei de Programação Militar e solicitou esclarecimentos ao Ministro da Defesa Nacional sobre a substituição dos caças F-16.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-29",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/cds-pp-ouvido-em-belem-nuno-melo-desafia-oposicao-a-aproveitar-especialidade-da-lei-das-rendas/",
-     "sintese": "Nuno Melo desafia a oposição a aproveitar a especialidade da lei das rendas.",
+     "sintese": "O Ministro da Defesa Nacional afirmou que Portugal e a Grécia pretendem aprofundar a cooperação na produção de drones e satélites.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-02",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/02/portugal-e-grecia-querem-aprofundar-cooperacao-na-producao-de-drones-e-satelites/",
+     "sintese": "O Ministro da Defesa Nacional afirmou que a Alemanha é um parceiro estratégico fundamental e um aliado antigo de Portugal, num momento de revisão da Lei de Programação Militar.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "SAPO Tek",
+     "url": "https://tek.sapo.pt/mobile/apps/artigos/telemovel-do-ministro-nuno-melo-foi-atacado-e-usado-para-pedir-dinheiro-no-whatsapp/",
+     "sintese": "O Ministro da Defesa Nacional afirmou que o seu telemóvel foi alvo de um ataque informático, que permitiu desviar comunicações e solicitar dinheiro via WhatsApp.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/04/portugal-e-alemanha-assinam-declaracao-para-reforcar-cooperacao-na-defesa/",
+     "sintese": "O Ministro da Defesa Nacional afirmou que ninguém está imune a intrusões informáticas, incluindo governantes, durante o debate do orçamento para a Defesa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/05/ministro-da-defesa-relativiza-ataque-informatico-a-telemovel-ninguem-esta-imune-a-intrusoes/",
+     "sintese": "O Ministro da Defesa Nacional anunciou que o pagamento de próteses militares deixará de passar pelo IASFA, num processo que atrasava a entrega. O orçamento de Defesa sobe para 2,15% do PIB.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/05/proteses-para-deficientes-das-forcas-armadas-pagas-diretamente-pelo-hospital-militar-a-partir-de-janeiro-de-2027/",
+     "sintese": "O Ministro da Defesa Nacional anunciou que o terceiro submarino será incluído na nova proposta de Lei de Programação Militar.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/05/habitacao-acampada-de-lisboa-acusa-nuno-melo-de-insinuacao-xenofoba/",
+     "sintese": "O Ministro da Defesa Nacional afirmou que os sotaques nas manifestações pela habitação indicam que a crise tem origem na imigração descontrolada, considerando os protestos 'importados'.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/05/novo-submarino-vai-ser-incluido-na-lei-de-programacao-militar/",
+     "sintese": "O Ministro da Defesa Nacional anunciou que o novo submarino será incluído na Lei de Programação Militar.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/11/05/politica/noticia/nuno-melo-revelou-ataque-telemovel-pedagogia-2193960",
+     "sintese": "O PS acusou o Ministro da Defesa Nacional de 'fanfarronice' ao alegar que o aumento do investimento no setor da defesa se deve a Putin e a Trump.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
-    "analisadas": 8,
-    "encontradas": 28
+    "analisadas": 20,
+    "encontradas": 37
    },
    "base": {
-    "ultima": "2026-10-29 12:28",
-    "em": "2026-11-02"
+    "ultima": "2026-11-05 21:22",
+    "em": "2026-11-05"
    },
-   "novas": 3,
-   "enquadramento": "O Governo ainda aguarda o primeiro pagamento do empréstimo SAFE para a defesa, enquanto o Ministro da Defesa Nacional, Nuno Melo, discute o Orçamento da Defesa Nacional para 2027. A discussão conjunta com a Comissão de Orçamento, Finanças e Administração Pública visa avaliar o financiamento e a eficiência das despesas militares."
+   "novas": 0,
+   "enquadramento": "Nas últimas semanas, o debate em torno do Orçamento da Defesa Nacional tem sido central na agenda parlamentar, com o Ministro da Defesa Nacional, Nuno Melo, a apresentar detalhes sobre o financiamento e as prioridades para 2027. As notícias revelam um esforço para reforçar a economia nacional através do investimento na defesa, com o aumento do orçamento para 2,15% do PIB e a inclusão de novos submarinos na Lei de Programação Militar. A cobertura inclui anúncios de aquisição de fragatas e mísseis, bem como discussões sobre a renovação do mandato da Missão da UE em Moçambique e a cooperação com a Alemanha e a Grécia. Embora algumas notícias tenham abordado questões de segurança e proteção de dados, a maioria das informações fornecidas são relevantes para a discussão sobre o orçamento e as prioridades do Ministério da Defesa."
   },
   "2026-11-06-48590-ministra-do-trabalho-solidariedade-e-segura": {
    "titulo": "Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Palma Ramalho: Orçamento do Estado 2027",
@@ -14415,7 +14903,7 @@
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "OE 2027. Montenegro sublinha 'sinal importante' dado pelo PS', indicando um acordo político para a viabilização do Orçamento através da abstenção do PS.",
+     "sintese": "OE 2027. Montenegro sublinha 'sinal importante' dado pelo PS",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14423,15 +14911,15 @@
      "data": "2026-10-02",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
-     "sintese": "PCP anuncia voto contra o Orçamento do Estado para 2027, indicando uma oposição clara à proposta de lei.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "PCP anuncia voto contra o Orçamento do Estado para 2027",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde, marcando o início do debate na especialidade.",
+     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14439,7 +14927,7 @@
      "data": "2026-10-08",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
-     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027, detalhando uma medida fiscal específica.",
+     "sintese": "Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no OE2027",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14447,23 +14935,23 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'.",
+     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-09",
-     "fonte": "Jornal de Notícias",
-     "url": "https://www.jn.pt/jn-direto/artigo/o-aviso-de-centeno-sobre-o-oe2027-e-outros-temas-em-60-segundos/18135402",
-     "sintese": "OE2027: Aviso de Centeno sobre o OE2027 e outros temas em 60 segundos, fornecendo contexto sobre a discussão orçamental.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/09/politica/noticia/debate-esperava-oe2027-habitacao-centeno-roubaram-palco-2190837",
+     "sintese": "Num debate que se esperava sobre o OE2027, habitação e Centeno roubaram o palco",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-10",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-carlos-cesar-diz-que-ps-concorda-com-abstencao/",
-     "sintese": "OE2027. Carlos César diz que PS concorda com abstenção — A Comissão Nacional do PS manifestou a sua concordância com a viabilização, pela abstenção, do Orçamento do Estado para 2027.",
+     "fonte": "Jornal de Notícias",
+     "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
+     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que 'convicções mais profundas' levariam a voto contra",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14471,7 +14959,7 @@
      "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027? — Uma análise factual sobre a proposta de lei.",
+     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14479,7 +14967,7 @@
      "data": "2026-10-13",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/economia/oe2027-carneiro-garante-que-ps-nao-estara-na-origem-de-qualquer-crise-politica_n1771510",
-     "sintese": "OE2027. Carneiro garante que PS 'não estará na origem de qualquer crise política' — O secretário-geral do PS confirma a proposta de abstenção.",
+     "sintese": "Carneiro garante que PS 'não estará na origem de qualquer crise política'",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14487,7 +14975,7 @@
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "Pedro Coelho destaca aumento das transferências do Estado para a Madeira no OE 2027 — Destacando uma transferência específica para a região autónoma.",
+     "sintese": "Pedro Coelho destaca aumento das transferências do Estado para a Madeira no OE 2027",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14495,15 +14983,15 @@
      "data": "2026-10-28",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/national/article/2026-10-28/48026313/oe2027-leit%C3%A3o-amaro-critica-contas-%C3%A0-chega-e-pergunta-se-ficar%C3%A1-ao-lado-da-esquerda-na-lei-das-rendas",
-     "sintese": "OE2027: Leitão Amaro critica 'contas à Chega' e pergunta se ficará ao lado da esquerda na lei das rendas — Uma crítica política sobre a proposta de lei.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "Leitão Amaro critica 'contas à Chega' e pergunta se ficará ao lado da esquerda na lei das rendas",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-29",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/29/politica/noticia/habitacao-iva-zero-combustiveis-temas-confronto-especialidade-oe2027-2192877?ref=hp&cx=ultimas_1",
-     "sintese": "OE2027: Habitação, IVA zero, combustíveis: os temas de confronto na especialidade do OE2027 — Identificando os principais temas de debate.",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-danos-causados-pelas-tempestades-ja-absorveram-mais-de-3-mil-milhoes-de-euros-do-ptrr",
+     "sintese": "OE2027: Danos causados pelas tempestades já absorveram mais de 3 mil milhões de euros do PTRR",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14511,15 +14999,15 @@
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "OE2027. Carteira Digital tem 18 mil empresas — O ministro Gonçalo Matias revela dados sobre uma iniciativa digital.",
+     "sintese": "OE2027. Carteira Digital tem 18 mil empresas — Alemanha diz-se inspirada no modelo português",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-01",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/politica/3076598/oe2027-pcpacores-vai-avancar-com-propostas-na-justica-e-lajes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "OE2027: PCP/Açores vai avançar com propostas na Justiça e Lajes — O PCP anuncia iniciativas específicas para a região autónoma.",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+     "sintese": "OE2027. Carneiro explica tronco comum de Matemática obrigatória até ao 12.º ano",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14527,7 +15015,7 @@
      "data": "2026-11-02",
      "fonte": "Diário de Notícias",
      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
-     "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa — Uma posição do Governo sobre a gestão ferroviária.",
+     "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14535,7 +15023,7 @@
      "data": "2026-11-03",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b",
-     "sintese": "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação — Uma preocupação expressa sobre a política habitacional.",
+     "sintese": "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -14543,45 +15031,45 @@
      "data": "2026-11-03",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
-     "sintese": "OE2027: Falta informação no OE 2027 para avaliar as políticas do Governo, sobretudo na habitação, onde não se sabe quantas casas a mais vão chegar ao mercado.",
+     "sintese": "OE2027: Falta informação no OE 2027 para avaliar políticas na habitação",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-04",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-quer-matematica-obrigatoria-ate-ao-12-o-ano-em-todos-os-cursos/",
+     "sintese": "OE2027: Apoio aos agricultores é 'subsídio direto' a cada português — Ministro",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/economia/3079070/cfp-questiona-revisao-expressiva-da-despesa-com-juros-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "CFP questiona revisão expressiva da despesa com juros no OE2027",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
      "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/oe2027-governo-muito-preocupado-com-impasse-na-eleicao-de-reitor-da-nova/",
-     "sintese": "OE2027: Governo 'muito preocupado' com impasse na eleição de reitor da Nova — Uma preocupação expressa sobre um tema secundário.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-05",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/portugal/amp/oe2027-governo-muito-preocupado-com-impasse-na-eleicao-de-reitor-da-nova",
-     "sintese": "OE2027: Governo 'muito preocupado' com impasse na eleição de reitor da Nova — Repetição de uma notícia sobre um tema secundário.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-05",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/",
-     "sintese": "CFP avisa para 'margem de erro estreita' no Orçamento do Estado para 2027 — Alerta sobre o cumprimento das metas orçamentais.",
+     "url": "https://executivedigest.sapo.pt/oe2027-apoio-aos-agricultores-e-subsidio-direto-a-cada-portugues-ministro/",
+     "sintese": "OE2027: Apoio aos agricultores é 'subsídio direto' a cada português — Ministro",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1230
+    "encontradas": 1234
    },
    "base": {
-    "ultima": "2026-11-05 14:29",
+    "ultima": "2026-11-05 20:48",
     "em": "2026-11-05"
    },
    "novas": 0,
-   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 tem acompanhado o debate na especialidade, com notícias que reportam posições de partidos políticos, medidas fiscais e transferências para regiões autónomas. O Governo tem sido apresentado a apresentar a proposta de lei, com destaque para a estimativa de arrecadação adicional e a viabilização através da abstenção do PS. O PCP anunciou um voto contra, enquanto o PSD e o CDS-PP expressaram posições sobre a viabilidade política. A discussão tem-se focado em temas como habitação, IVA zero e rendas, com críticas sobre a falta de informação em áreas específicas. A cobertura inclui também alertas sobre o cumprimento das metas orçamentais e o risco de um procedimento por défice excessivo."
+   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre as suas medidas, números e posições dos intervenientes. O PSD expressou a expectativa de tranquilidade e previsibilidade, enquanto o PS avisou que os compromissos devem ser cumpridos. O PCP anunciou um voto contra, e o BE indicou uma curta intervenção. O Governo entregou a proposta no Parlamento, e foram discutidas medidas como o aumento das transferências para a Madeira, a abstenção do PS e a introdução da Matemática obrigatória. O debate na especialidade está agendado para 18 de novembro, com a participação de PSD, CH, PS, IL, L, PCP, CDS-PP e BE."
   },
   "2026-11-03-48595-ministra-do-ambiente-e-energia-maria-da-gra": {
    "titulo": "Ministra do Ambiente e Energia, Maria da Graça Carvalho: Orçamento do Estado para 2027",
@@ -14936,7 +15424,7 @@
     "ultima": "2026-11-04 21:06",
     "em": "2026-11-05"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Nos últimos meses, a cobertura mediática focou-se principalmente em questões relacionadas com a gestão do orçamento e a transparência do Ministério da Justiça, particularmente no que diz respeito à Polícia Judiciária. A Ministra Rita Alarcão Júdice enfrentou críticas e acusações sobre a gestão de fundos, incluindo a polémica da destruição de químicos e o orçamento da PJ, que foram objeto de escrutínio parlamentar. Apesar destas controvérsias, a cobertura também destacou a sua posição sobre a reiteração da confiança no diretor da PJ e a sua defesa de medidas como a apostila para documentos estrangeiros. A audição do Orçamento do Estado para 2027 representa um momento chave para a Ministra apresentar as prioridades orçamentais para o sistema judicial e políticas de justiça, num contexto de debate público sobre a gestão de recursos e a eficiência do sistema de justiça."
   },
   "2026-11-19-48392-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -15102,7 +15590,7 @@
     "ultima": "2026-11-05 14:29",
     "em": "2026-11-05"
    },
-   "novas": 0,
+   "novas": 4,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre a sua viabilização, medidas e potenciais desafios. O Governo anunciou a entrega da proposta de lei, destacando medidas como o aumento de impostos sobre tabaco e álcool e a expansão da Carteira Digital de empresa. O debate parlamentar incluiu posições de diferentes partidos, com o PS a anunciar a abstenção e o PCP a manifestar oposição. A cobertura também abordou temas como habitação, IVA zero e rendas, com críticas e propostas de diferentes intervenientes. A Comissão Nacional do PS manifestou concordância com a abstenção, enquanto o PCP anunciou o voto contra. O CFP alertou para a margem de erro estreita no orçamento, podendo levar a um procedimento por défice excessivo."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -15284,7 +15772,7 @@
     "ultima": "2026-11-02 19:47",
     "em": "2026-11-03"
    },
-   "novas": 73,
+   "novas": 77,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão do Orçamento do Estado para 2027, com a apresentação da proposta de lei e a realização de debates parlamentares. A oposição, nomeadamente o PCP, anunciou o seu voto contra, enquanto o Governo procura a viabilização através de compromissos e a gestão de crises internacionais. O PSD e o CDS expressaram preocupações sobre a estabilidade do Orçamento, enquanto o Governo enfatiza a redução da dívida pública e a importância da previsibilidade económica. A cobertura inclui também temas relacionados, como a habitação, a Carteira Digital de Empresa e a valorização da juventude, embora não diretamente relacionados com a discussão do Orçamento."
   },
   "2026-11-05-48635-ministro-da-agricultura-e-mar-jos-manuel-fe": {
@@ -16006,8 +16494,8 @@
     }
    ],
    "cobertura": {
-    "n": 92,
-    "n7": 25,
+    "n": 93,
+    "n7": 26,
     "n7ant": 19,
     "dias": 60,
     "ref": "2026-11-05",
@@ -16022,15 +16510,15 @@
      },
      {
       "data": "2026-11-04",
-      "fonte": "ECO",
+      "fonte": "Renascença",
       "titulo": "Proibição retirou 30% dos veículos pesados da VCI no Porto",
-      "url": "https://eco.sapo.pt/2026/11/04/proibicao-retirou-30-dos-veiculos-pesados-da-vci-no-porto/"
+      "url": "https://rr.pt/noticia/pais/2026/11/04/proibicao-retirou-30-dos-veiculos-pesados-da-vci-no-porto/492128/"
      },
      {
       "data": "2026-11-04",
-      "fonte": "Observador",
-      "titulo": "Terreno do antigo Estádio do Salgueiros será para habitação",
-      "url": "https://observador.pt/2026/11/04/terrenos-do-antigo-estadio-do-salgueiros-no-porto-serao-para-habitacao/"
+      "fonte": "ECO",
+      "titulo": "Proibição retirou 30% dos veículos pesados da VCI no Porto",
+      "url": "https://eco.sapo.pt/2026/11/04/proibicao-retirou-30-dos-veiculos-pesados-da-vci-no-porto/"
      }
     ],
     "todas": [
@@ -16041,7 +16529,13 @@
       "https://www.rtp.pt/noticias/economia/proibicao-retirou-30-dos-veiculos-pesados-da-vci-no-porto-diz-ministro-pinto-luz_n1776913"
      ],
      [
-      "2026-11-04 18:12",
+      "2026-11-04 20:17",
+      "Renascença",
+      "Proibição retirou 30% dos veículos pesados da VCI no Porto",
+      "https://rr.pt/noticia/pais/2026/11/04/proibicao-retirou-30-dos-veiculos-pesados-da-vci-no-porto/492128/"
+     ],
+     [
+      "2026-11-04 18:08",
       "ECO",
       "Proibição retirou 30% dos veículos pesados da VCI no Porto",
       "https://eco.sapo.pt/2026/11/04/proibicao-retirou-30-dos-veiculos-pesados-da-vci-no-porto/"
@@ -17718,34 +18212,46 @@
     }
    ],
    "cobertura": {
-    "n": 19,
-    "n7": 3,
+    "n": 21,
+    "n7": 5,
     "n7ant": 2,
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "expressoes",
-    "ultima": "2026-11-04 21:06",
+    "ultima": "2026-11-05 17:22",
     "ultimas": [
+     {
+      "data": "2026-11-05",
+      "fonte": "Observador",
+      "titulo": "Sindicato da polícia critica ministra da Justiça",
+      "url": "https://observador.pt/2026/11/05/sinapol-critica-ministra-da-justica-por-falar-em-excessos-de-parte-a-parte-autoridade-policial-nao-pode-ser-confundida-com-violencia/"
+     },
+     {
+      "data": "2026-11-05",
+      "fonte": "ECO",
+      "titulo": "Ministra da Justiça aponta “excessos de parte a parte” nos protestos pela habitação",
+      "url": "https://eco.sapo.pt/2026/11/05/ministra-da-justica-aponta-excessos-de-parte-a-parte-nos-protestos-pela-habitacao/"
+     },
      {
       "data": "2026-11-04",
       "fonte": "ECO",
       "titulo": "Governo admite rever regime das lanchas rápidas e criminalizar transporte de combustível",
       "url": "https://eco.sapo.pt/2026/11/04/governo-admite-rever-regime-das-lanchas-rapidas-e-criminalizar-transporte-de-combustivel/"
-     },
-     {
-      "data": "2026-11-04",
-      "fonte": "Observador",
-      "titulo": "18h. Ministra da Justiça pede equilíbrio nos protestos",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2179/"
-     },
-     {
-      "data": "2026-11-04",
-      "fonte": "Público",
-      "titulo": "Ministra recusa dizer se manterá director da PJ se este for constituído arguido",
-      "url": "https://www.publico.pt/2026/11/04/sociedade/noticia/ministra-recusa-dizer-mantera-director-pj-constituido-arguido-2193759"
      }
     ],
     "todas": [
+     [
+      "2026-11-05 17:22",
+      "Observador",
+      "Sindicato da polícia critica ministra da Justiça",
+      "https://observador.pt/2026/11/05/sinapol-critica-ministra-da-justica-por-falar-em-excessos-de-parte-a-parte-autoridade-policial-nao-pode-ser-confundida-com-violencia/"
+     ],
+     [
+      "2026-11-05 16:34",
+      "ECO",
+      "Ministra da Justiça aponta “excessos de parte a parte” nos protestos pela habitação",
+      "https://eco.sapo.pt/2026/11/05/ministra-da-justica-aponta-excessos-de-parte-a-parte-nos-protestos-pela-habitacao/"
+     ],
      [
       "2026-11-04 21:06",
       "ECO",
@@ -17928,14 +18434,8 @@
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "palavras",
-    "ultima": "2026-11-05 10:20",
+    "ultima": "2026-11-05 10:10",
     "ultimas": [
-     {
-      "data": "2026-11-05",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/governo-quer-matematica-obrigatoria-ate-ao-12-ano-em-todos-os-cursos"
-     },
      {
       "data": "2026-11-05",
       "fonte": "Público",
@@ -17947,15 +18447,15 @@
       "fonte": "Observador",
       "titulo": "OE2027. A audição do ministro da Educação no Parlamento",
       "url": "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/"
+     },
+     {
+      "data": "2026-11-05",
+      "fonte": "RTP Notícias",
+      "titulo": "Escolas públicas receberam 400 matrículas novas só na última semana",
+      "url": "https://www.rtp.pt/noticias/pais/escolas-publicas-receberam-400-matriculas-novas-so-na-ultima-semana_n1776968"
      }
     ],
     "todas": [
-     [
-      "2026-11-05 10:20",
-      "Jornal de Negócios",
-      "Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos",
-      "https://www.jornaldenegocios.pt/economia/detalhe/governo-quer-matematica-obrigatoria-ate-ao-12-ano-em-todos-os-cursos"
-     ],
      [
       "2026-11-05 10:10",
       "Público",
@@ -17963,7 +18463,7 @@
       "https://www.publico.pt/2026/11/05/ciencia/noticia/fernando-alexandre-desvaloriza-corte-garante-nao-vai-desinvestir-ciencia-2193828"
      ],
      [
-      "2026-11-05 02:16",
+      "2026-11-05 01:16",
       "Observador",
       "OE2027. A audição do ministro da Educação no Parlamento",
       "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/"
@@ -17979,6 +18479,12 @@
       "Correio da Manhã",
       "Escolas públicas receberam 400 matrículas novas só na última semana",
       "https://www.cmjornal.pt/sociedade/detalhe/escolas-publicas-receberam-400-matriculas-novas-so-na-ultima-semana"
+     ],
+     [
+      "2026-11-04 22:57",
+      "TSF",
+      "Governo quer Matemática obrigatória até ao 12.º ano em todos os cursos",
+      "https://www.tsf.pt/sociedade/artigo/governo-quer-matematica-obrigatoria-ate-ao-12-ano-em-todos-os-cursos/18144697"
      ],
      [
       "2026-11-04 19:09",
@@ -18505,7 +19011,7 @@
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "expressoes",
-    "ultima": "2026-11-05 14:00",
+    "ultima": "2026-11-05 14:01",
     "ultimas": [
      {
       "data": "2026-11-05",
@@ -18516,7 +19022,7 @@
     ],
     "todas": [
      [
-      "2026-11-05 14:00",
+      "2026-11-05 14:01",
       "Jornal de Negócios",
       "Plataforma de registo do 'lobbying' já pode ser testada. Inscrição só será obrigatória em 2027",
       "https://www.jornaldenegocios.pt/economia/detalhe/plataforma-de-registo-do-lobbying-ja-pode-ser-testada-inscricao-so-sera-obrigatoria-em-2027"
@@ -18585,19 +19091,19 @@
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "palavras",
-    "ultima": "2026-11-05 14:29",
+    "ultima": "2026-11-05 13:13",
     "ultimas": [
+     {
+      "data": "2026-11-05",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
+      "url": "http://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+     },
      {
       "data": "2026-11-05",
       "fonte": "ECO",
       "titulo": "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
       "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
-     },
-     {
-      "data": "2026-11-05",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
-      "url": "https://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
      },
      {
       "data": "2026-11-02",
@@ -18608,16 +19114,16 @@
     ],
     "todas": [
      [
-      "2026-11-05 14:29",
-      "ECO",
-      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
-      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
-     ],
-     [
       "2026-11-05 13:13",
       "Diário de Notícias",
       "OE2027: Conselho das Finanças Públicas questiona revisão expressiva da despesa com juros",
-      "https://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+      "http://dinheirovivo.dn.pt/economia/oe2027-conselho-das-finanas-pblicas-questiona-reviso-expressiva-da-despesa-com-juros"
+     ],
+     [
+      "2026-11-05 13:03",
+      "ECO",
+      "CFP avisa para “margem de erro estreita” no Orçamento do Estado para 2027",
+      "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/"
      ],
      [
       "2026-11-02 16:53",
@@ -18919,34 +19425,70 @@
     }
    ],
    "cobertura": {
-    "n": 31,
-    "n7": 3,
+    "n": 37,
+    "n7": 9,
     "n7ant": 7,
     "dias": 60,
     "ref": "2026-11-05",
     "metodo": "palavras",
-    "ultima": "2026-11-04 15:20",
+    "ultima": "2026-11-05 21:22",
     "ultimas": [
      {
-      "data": "2026-11-04",
-      "fonte": "Observador",
-      "titulo": "Portugal e Alemanha reforçam cooperação na Defesa",
-      "url": "https://observador.pt/2026/11/04/portugal-e-alemanha-assinam-declaracao-para-reforcar-cooperacao-na-defesa/"
+      "data": "2026-11-05",
+      "fonte": "Público",
+      "titulo": "Nuno Melo diz que revelou ataque ao seu telemóvel para fazer pedagogia",
+      "url": "https://www.publico.pt/2026/11/05/politica/noticia/nuno-melo-revelou-ataque-telemovel-pedagogia-2193960"
      },
      {
-      "data": "2026-11-03",
-      "fonte": "SAPO Tek",
-      "titulo": "Telemóvel do ministro Nuno Melo foi atacado e usado para pedir dinheiro no WhatsApp",
-      "url": "https://tek.sapo.pt/mobile/apps/artigos/telemovel-do-ministro-nuno-melo-foi-atacado-e-usado-para-pedir-dinheiro-no-whatsapp/"
-     },
-     {
-      "data": "2026-11-02",
+      "data": "2026-11-05",
       "fonte": "ECO",
-      "titulo": "Portugal e Grécia querem aprofundar cooperação na produção de drones e satélites",
-      "url": "https://eco.sapo.pt/2026/11/02/portugal-e-grecia-querem-aprofundar-cooperacao-na-producao-de-drones-e-satelites/"
+      "titulo": "Novo submarino vai ser incluído na Lei de Programação Militar",
+      "url": "https://eco.sapo.pt/2026/11/05/novo-submarino-vai-ser-incluido-na-lei-de-programacao-militar/"
+     },
+     {
+      "data": "2026-11-05",
+      "fonte": "Observador",
+      "titulo": "Acampada de Lisboa acusa Nuno Melo de \"insinuação xenófoba\"",
+      "url": "https://observador.pt/2026/11/05/habitacao-acampada-de-lisboa-acusa-nuno-melo-de-insinuacao-xenofoba/"
      }
     ],
     "todas": [
+     [
+      "2026-11-05 21:22",
+      "Público",
+      "Nuno Melo diz que revelou ataque ao seu telemóvel para fazer pedagogia",
+      "https://www.publico.pt/2026/11/05/politica/noticia/nuno-melo-revelou-ataque-telemovel-pedagogia-2193960"
+     ],
+     [
+      "2026-11-05 21:06",
+      "ECO",
+      "Novo submarino vai ser incluído na Lei de Programação Militar",
+      "https://eco.sapo.pt/2026/11/05/novo-submarino-vai-ser-incluido-na-lei-de-programacao-militar/"
+     ],
+     [
+      "2026-11-05 19:05",
+      "Observador",
+      "Acampada de Lisboa acusa Nuno Melo de \"insinuação xenófoba\"",
+      "https://observador.pt/2026/11/05/habitacao-acampada-de-lisboa-acusa-nuno-melo-de-insinuacao-xenofoba/"
+     ],
+     [
+      "2026-11-05 18:04",
+      "Observador",
+      "Próteses militares com novo sistema em 2027",
+      "https://observador.pt/2026/11/05/proteses-para-deficientes-das-forcas-armadas-pagas-diretamente-pelo-hospital-militar-a-partir-de-janeiro-de-2027/"
+     ],
+     [
+      "2026-11-05 16:14",
+      "ECO",
+      "Ministro da Defesa relativiza ataque informático a telemóvel. “Ninguém está imune a intrusões”",
+      "https://eco.sapo.pt/2026/11/05/ministro-da-defesa-relativiza-ataque-informatico-a-telemovel-ninguem-esta-imune-a-intrusoes/"
+     ],
+     [
+      "2026-11-05 15:52",
+      "ECO",
+      "Nuno Melo alerta que Europa vive “guerra híbrida com expressões crescentes”",
+      "https://eco.sapo.pt/2026/11/05/nuno-melo-alerta-que-europa-vive-guerra-hibrida-com-expressoes-crescentes/"
+     ],
      [
       "2026-11-04 15:20",
       "Observador",
@@ -19236,7 +19778,8 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "retirado": "2026-11-05"
   },
   {
    "tema": "Ministro da Agricultura e Mar, José Manuel Fernandes: Orçamento do Estado 2027",
