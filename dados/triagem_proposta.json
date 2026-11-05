@@ -1,273 +1,9 @@
 {
  "inicio": "2026-11-02",
  "fim": "2026-11-08",
- "recolha": "2026-11-04T23:28",
+ "recolha": "2026-11-05T15:22",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48625,
-   "data": "2026-11-04",
-   "hora": "09h00",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 135 · Plenário",
-   "resumo": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Pedro Pimpão, Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Pombal\n Amadeu Albergaria, Vic",
-   "ordemTrabalhos": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Pedro Pimpão, Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Pombal\n Amadeu Albergaria, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Santa Maria da Feira\n Ricardo Leão, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Loures\n Nuno Piteira Lopes, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Cascais\n Flávio Massano, Vice-Presidente do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Manteigas\n João Fortes, Vogal do Conselho Diretivo da ANMP e Presidente da Câmara Municipal de Mourão\n Paulo Braga, Secretário-Geral da ANMP;\n Joana Ferreira, Secretária-Geral Adjunta da ANMP.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48638,
-   "data": "2026-11-04",
-   "hora": "09h00",
-   "tema": "Comissão da Reforma do Estado e Poder Local",
-   "orgao": "Comissão da Reforma do Estado e Poder Local",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 62 · Plenário",
-   "resumo": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audição da ANMP – Associação Nacional Municípios Portugueses no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx",
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48624,
-   "data": "2026-11-04",
-   "hora": "11h00",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 136 · Plenário",
-   "resumo": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027\n Francisco Branco de Brito – Presidente do Conselho Diretivo \n Ricardo Marques – Vice-Presidente do Conselho Diretivo \n Jorge Ama",
-   "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027\n Francisco Branco de Brito – Presidente do Conselho Diretivo \n Ricardo Marques – Vice-Presidente do Conselho Diretivo \n Jorge Amador – Vice-Presidente do Conselho Diretivo \n Luís Correia – Vice-Presidente do Conselho Diretivo \n José Padrão – Vice-Presidente do Conselho Diretivo \n Luís Almeida Mendes – Vice-Presidente do Conselho Diretivo",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48637,
-   "data": "2026-11-04",
-   "hora": "11h00",
-   "tema": "Comissão da Reforma do Estado e Poder Local",
-   "orgao": "Comissão da Reforma do Estado e Poder Local",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 63 · Plenário",
-   "resumo": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audição da ANAFRE – Associação Nacional de Freguesias no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx",
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48613,
-   "data": "2026-11-04",
-   "hora": "12h30",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 35 · Sala 1",
-   "resumo": "Audiência da ASPTPS Associação Portuguesa de Planos de Saúde, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Sónia Pereira Coutinho, Presidente da Direção;\n José Pina, Associado",
-   "ordemTrabalhos": "Audiência da ASPTPS Associação Portuguesa de Planos de Saúde, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Sónia Pereira Coutinho, Presidente da Direção;\n José Pina, Associado",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48612,
-   "data": "2026-11-04",
-   "hora": "13h15",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 36 · Sala 1",
-   "resumo": "Audiência da Ordem dos Contabilistas Certificados - OCC, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Paula Franco - Bastonária da Ordem dos Contabilistas Certificados;\n Amândio Silva.",
-   "ordemTrabalhos": "Audiência da Ordem dos Contabilistas Certificados - OCC, no âmbito da apreciação, na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Paula Franco - Bastonária da Ordem dos Contabilistas Certificados;\n Amândio Silva.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48568,
-   "data": "2026-11-04",
-   "hora": "14h00",
-   "tema": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-   "orgao": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 110 · Plenário",
-   "resumo": "Audição da Ministra da Justiça, no âmbito da apreciação na especialidade da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 , nos termos conjugados do n.º 5 do artigo 104.º e do n.º 2 do artigo 211.º do Regimento da Assembleia da República (conjunta com a Comissão de Orçamento, Finanças ",
-   "ordemTrabalhos": "Audição da Ministra da Justiça, no âmbito da apreciação na especialidade da Proposta de Lei 110/XVI/2.ª – Orçamento do Estado para 2027 , nos termos conjugados do n.º 5 do artigo 104.º e do n.º 2 do artigo 211.º do Regimento da Assembleia da República (conjunta com a Comissão de Orçamento, Finanças e Administração Pública).",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.aspx",
-   "uo": [
-    "DACDP",
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Vigilância",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "presença de membro do Governo → Vigilância"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48623,
-   "data": "2026-11-04",
-   "hora": "14h00",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 137 · Plenário",
-   "resumo": "Audição da Ministra da Justiça no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Ministra da Justiça – Rita Alarcão Júdice\n Secretário de Estado Adjunto e da Justiça – Gonçalo da Cunha Pires\n Secretária de Estado da Justiça – Ana L",
-   "ordemTrabalhos": "Audição da Ministra da Justiça no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Ministra da Justiça – Rita Alarcão Júdice\n Secretário de Estado Adjunto e da Justiça – Gonçalo da Cunha Pires\n Secretária de Estado da Justiça – Ana Luísa Machado",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
-   "uo": [
-    "DACDP",
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Vigilância",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "presença de membro do Governo → Vigilância"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48602,
-   "data": "2026-11-04",
-   "hora": "18h00",
-   "tema": "Comissão de Educação e Ciência",
-   "orgao": "Comissão de Educação e Ciência",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 59 · Plenário",
-   "resumo": "Audição do Ministro da Educação, Ciência e Inovação , no âmbito da apreciação na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) - «Aprova o Orçamento do Estado para 2027» (conjunta com a Comissão de Orçamento, Finanças e Administração Pública)",
-   "ordemTrabalhos": "Audição do Ministro da Educação, Ciência e Inovação , no âmbito da apreciação na especialidade da Proposta de Lei n.º 110/XVII/2.ª (GOV) - «Aprova o Orçamento do Estado para 2027» (conjunta com a Comissão de Orçamento, Finanças e Administração Pública)",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx",
-   "uo": [
-    "DACDP",
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Vigilância",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "presença de membro do Governo → Vigilância"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48622,
-   "data": "2026-11-04",
-   "hora": "18h00",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 138 · Plenário",
-   "resumo": "Audição do Ministro da Educação, Ciência e Inovação no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Ministro da Educação, Ciência e Inovação – Fernando Alexandre\n Secretário de Estado Adjunto e da Educação – Alexandre Homem Crist",
-   "ordemTrabalhos": "Audição do Ministro da Educação, Ciência e Inovação no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Ministro da Educação, Ciência e Inovação – Fernando Alexandre\n Secretário de Estado Adjunto e da Educação – Alexandre Homem Cristo\n Secretária de Estado da Administração Escolar – Maria Luísa Oliveira\n Secretária de Estado da Ciência e Inovação – Helena Canhão\n Secretária de Estado do Ensino Superior – Claúdia Sarrico",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
-   "uo": [
-    "DACDP",
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Vigilância",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "presença de membro do Governo → Vigilância"
-   ],
-   "validado": false
-  },
   {
    "id_ar": 48591,
    "data": "2026-11-05",
@@ -331,8 +67,8 @@
     "Comissões Parlamentares"
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 21 · Plenário",
-   "resumo": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "resumo": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Luís Pais Antunes, Presidente do Conselho Económico e Social;\n Tiago Abalroado, Conselheiro do CES (Relator do Parecer sobre a Proposta do Orç",
+   "ordemTrabalhos": "Audição do Conselho Económico e Social no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.\n Luís Pais Antunes, Presidente do Conselho Económico e Social;\n Tiago Abalroado, Conselheiro do CES (Relator do Parecer sobre a Proposta do Orçamento do Estado, emitido pelo CES).",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
    "uo": [
     "DAPL",
@@ -485,7 +221,7 @@
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 57 · Sala 1",
    "resumo": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos",
-   "ordemTrabalhos": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos públicos no sentido de limitar negócios com familiares» - Relator: Deputado Pedro Delgado Alves (PS);\n 3 – Apreciação e votação de parecer(es) sobre relativo a ofertas e hospitalidades (matéria reservada); - Autor do parecer: Deputado António Rodrigues (PSD);\n 4 – Apreciação e votação do parecer relativo a ofertas e hospitalidades (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 5 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 6 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 7 – Distribuição de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada)\n 8 – Distribuição de relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relator(a) a indicar pelo Grupo Parlamentar do PSD;\n 9 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação das atas 55 e 56, correspondentes às reuniões da Comissão dos dias 20 e 27 de outubro de 2026;\n 2 – Apreciação e votação do relatório referente ao Projeto de Lei n.º 706/XVII/1.ª (CH) - «Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos públicos no sentido de limitar negócios com familiares» - Relator: Deputado Pedro Delgado Alves (PS);\n 3 – Apreciação e votação de parecer(es) sobre relativo a ofertas e hospitalidades (matéria reservada); - Autor do parecer: Deputado António Rodrigues (PSD);\n 4 – Apreciação e votação do parecer relativo a ofertas e hospitalidades (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 5 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 6 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 7 – Distribuição de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada);\n 8 – Deliberação sobre eventual abertura de inquérito relativo à aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada);\n 9 – Outros assuntos.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
    "uo": [],
    "pertinencia": "Registo",
@@ -696,6 +432,32 @@
    "pertinencia": "Registo",
    "criterio": [
     "«assuntos europeus» (DACDP)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48651,
+   "data": "2026-11-10",
+   "hora": "09h00",
+   "tema": "Comissão de Assuntos Europeus",
+   "orgao": "Comissão de Assuntos Europeus",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 64",
+   "resumo": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europe",
+   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx",
+   "uo": [
+    "DACDP",
+    "DAPL"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "«diretiva» (DAPL)",
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48651@ar-preview
+DTSTAMP:20261105T154204Z
+DTSTART:20261110T090000Z
+DTEND:20261110T110000Z
+SUMMARY:AR · Comissão de Assuntos Europeus
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 64\nSíntese: 
+ Audição com a Vice-Presidente Executiva da Comissão Europeia\, Henna V
+ irkkunen\, responsável pelo pelouro da Soberania Tecnológica\, Seguran
+ ça…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/4CAE/P
+ aginas/default.aspx\nEmissões em direto (quando houver): https://canal.p
+ arlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora 
+ de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
