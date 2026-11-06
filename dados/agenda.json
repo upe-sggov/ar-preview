@@ -12483,8 +12483,9 @@
   "fecho": "2026-11-06",
   "fechoLabel": "6 de novembro de 2026",
   "alteracoes": [],
-  "atualizado": "2026-11-06T14:56+00:00",
-  "atualizadoLabel": "6 de novembro, 14h56"
+  "atualizado": "2026-11-06T15:21+00:00",
+  "atualizadoLabel": "6 de novembro, 15h21",
+  "desdeLabel": "6 de novembro"
  },
  "fichas": {
   "2026-11-18-48393-plen-rio-debate-na-especialidade-do-or-amen": {
@@ -12680,34 +12681,34 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-30",
-     "fonte": "Dinheiro Vivo",
-     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O líder do PSD, Luís Montenegro, sublinhou o 'sinal importante' dado pelo PS relativamente ao Orçamento do Estado para 2027, indicando um possível acordo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "data": "2026-10-01",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/politica/amp/ventura-acusa-ps-de-ter-tornado-documento-inutil-com-anuncio-de-abstencao-no-orcamento-do-estado-para-2027",
+     "sintese": "Ventura acusa PS de tornar documento 'inútil' com anúncio de abstenção no Orçamento do Estado para 2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-02",
      "fonte": "Nascer do SOL",
      "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
-     "sintese": "O PCP anunciou o voto contra o Orçamento do Estado para 2027, demonstrando oposição às medidas propostas.",
+     "sintese": "PCP anuncia voto contra o Orçamento do Estado para 2027.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
+     "sintese": "PS admite mudar viabilização do OE2027 se este tiver 'medidas surpresa' gravosas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-07",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "O Governo entregou a proposta de lei do Orçamento do Estado para 2027 no Parlamento, marcando o início do debate parlamentar.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/politica/amp/governo-estima-arrecadar-mais-166-milhoes-de-euros-com-impostos-sobre-tabaco-e-alcool-no-oe2027",
-     "sintese": "O Governo estima arrecadar mais 166 milhões de euros com impostos sobre tabaco e álcool no Orçamento do Estado para 2027.",
+     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -12715,23 +12716,23 @@
      "data": "2026-10-08",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "O PSD espera 'tranquilidade' e 'previsibilidade' com o Orçamento do Estado para 2027, enquanto o PS alerta para a necessidade de cumprir compromissos.",
+     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-09",
-     "fonte": "Jornal de Notícias",
-     "url": "https://www.jn.pt/jn-direto/artigo/o-aviso-de-centeno-sobre-o-oe2027-e-outros-temas-em-60-segundos/18135402",
-     "sintese": "O aviso de Centeno sobre o Orçamento do Estado para 2027 e outros temas em 60 segundos, com comentários sobre a situação económica.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
+     "sintese": "OE2027: Professores pedem mais investimento na Educação e valorização da carreira.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-10",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-carlos-cesar-diz-que-ps-concorda-com-abstencao/",
-     "sintese": "Carlos César, presidente do PS, manifestou a concordância do partido com a abstenção na votação do Orçamento do Estado para 2027, defendendo o 'sentido de responsabilidade'.",
+     "sintese": "Carlos César diz que PS concorda com abstenção — A Comissão Nacional do PS manifestou a sua concordância com a viabilização, pela abstenção, do Orçamento do Estado para 2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -12739,15 +12740,15 @@
      "data": "2026-10-11",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "O PSD espera 'tranquilidade' e 'previsibilidade' com o Orçamento do Estado para 2027, enquanto o PS alerta para a necessidade de cumprir compromissos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "OE2027: Quais são os seis mitos sobre o Orçamento do Estado para 2027?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-13",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/economia/oe2027-carneiro-garante-que-ps-nao-estara-na-origem-de-qualquer-crise-politica_n1771510",
-     "sintese": "O secretário-geral do PS, Pedro Nuno Santos, confirmou que o partido irá propor a abstenção na votação do Orçamento do Estado para 2027, afirmando que o primeiro-ministro 'correspondeu às exigências'.",
+     "sintese": "OE2027. Carneiro garante que PS 'não estará na origem de qualquer crise política' — O secretário-geral do PS confirmou que vai propor a abstenção na votação do Orçamento do Estado para 2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -12755,7 +12756,7 @@
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "Pedro Coelho, deputado do PSD, destacou o aumento das transferências do Estado para a Madeira no Orçamento do Estado para 2027.",
+     "sintese": "Pedro Coelho destaca aumento das transferências do Estado para a Madeira no OE 2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -12763,15 +12764,7 @@
      "data": "2026-10-28",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/national/article/2026-10-28/48026313/oe2027-leit%C3%A3o-amaro-critica-contas-%C3%A0-chega-e-pergunta-se-ficar%C3%A1-ao-lado-da-esquerda-na-lei-das-rendas",
-     "sintese": "Leitão Amaro, ministro da Habitação, criticou as 'contas à Chega' e questionou se o partido ficaria ao lado da esquerda na lei das rendas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/29/politica/noticia/habitacao-iva-zero-combustiveis-temas-confronto-especialidade-oe2027-2192877?ref=hp&cx=ultimas_1",
-     "sintese": "O debate na especialidade do Orçamento do Estado para 2027 focou-se em temas como habitação, IVA zero e combustíveis, com confrontos entre os partidos.",
+     "sintese": "OE2027: Leitão Amaro critica 'contas à Chega' e pergunta se ficará ao lado da esquerda na lei das rendas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -12779,23 +12772,23 @@
      "data": "2026-10-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/10/30/oe2027-carteira-digital-tem-18-mil-empresas-e-mais-de-10-tipos-de-documentos/",
-     "sintese": "O ministro Gonçalo Matias revelou os números da Carteira Digital de empresa no parlamento, durante a discussão do Orçamento do Estado para 2027, com a Alemanha a mostrar interesse no modelo português.",
+     "sintese": "OE2027. Carteira Digital tem 18 mil empresas — O ministro Gonçalo Matias revelou os números da Carteira Digital de empresa no parlamento, durante a discussão do OE2027. Alemanha diz-se inspirada no modelo português.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-01",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/politica/3076598/oe2027-pcpacores-vai-avancar-com-propostas-na-justica-e-lajes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O deputado do PCP/Açores anunciou propostas na Justiça e Lajes durante a discussão do Orçamento do Estado para 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+     "sintese": "ECO da Semana: ‘Midterms’, contas da EDP e audições do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-02",
      "fonte": "Diário de Notícias",
      "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
-     "sintese": "O Governo rejeitou o desmantelamento da CP e afirmou que a subconcessão preservaria o papel estratégico da empresa, durante a discussão do Orçamento do Estado para 2027.",
+     "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -12803,7 +12796,7 @@
      "data": "2026-11-03",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b",
-     "sintese": "A CES pediu cautela nas rendas de idosos e vulneráveis em risco de perda da habitação, durante a discussão do Orçamento do Estado para 2027.",
+     "sintese": "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -12811,29 +12804,45 @@
      "data": "2026-11-03",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
-     "sintese": "Especialistas do IPP apontaram falta de informação no Orçamento do Estado para 2027 sobre políticas de habitação, investimento e saúde.",
+     "sintese": "OE2027: Falta informação no OE 2027 para avaliar as políticas do Governo, sobretudo na habitação, onde não se sabe quantas casas a mais vão chegar ao mercado.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-05",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/05/cfp-avisa-para-margem-de-erro-estreita-no-orcamento-do-estado-para-2027/",
-     "sintese": "A presidente do CFP alertou para a margem de erro estreita no Orçamento do Estado para 2027, com risco de procedimento por défice excessivo.",
+     "fonte": "Agroportal",
+     "url": "https://www.agroportal.pt/oe2027-custos-aumentaram-mas-agricultor-faz-esforco-maior-ministro/",
+     "sintese": "OE2027: Custos aumentaram, mas agricultor faz esforço maior – Ministro.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/politica/3079768/oe2027-be-avanca-com-30-propostas-para-habitacao-e-regresso-do-autovoucher-nos-combustiveis-atualizada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Bloco desafia oposição no OE2027: 'Enterrar a lei dos despejos'.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-ps-quer-baixar-isp-e-iva-do-cabaz-alimentar-custa-do-irc-e-do-fim-das-rendas-moderadas",
+     "sintese": "OE2027. PS quer baixar ISP e IVA do cabaz alimentar 'à custa' do IRC e do fim das rendas moderadas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
-    "analisadas": 18,
-    "encontradas": 1230
+    "analisadas": 19,
+    "encontradas": 1253
    },
    "base": {
-    "ultima": "2026-11-05 14:29",
-    "em": "2026-11-05"
+    "ultima": "2026-11-06 13:55",
+    "em": "2026-11-06"
    },
-   "novas": 22,
-   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre a sua viabilização, medidas e potenciais desafios. O Governo anunciou a entrega da proposta de lei, destacando medidas como o aumento de impostos sobre tabaco e álcool e a expansão da Carteira Digital de empresa. O debate parlamentar incluiu posições de diferentes partidos, com o PS a anunciar a abstenção e o PCP a manifestar oposição. A cobertura também abordou temas como habitação, IVA zero e rendas, com críticas e propostas de diferentes intervenientes. A Comissão Nacional do PS manifestou concordância com a abstenção, enquanto o PCP anunciou o voto contra. O CFP alertou para a margem de erro estreita no orçamento, podendo levar a um procedimento por défice excessivo."
+   "novas": 0,
+   "enquadramento": "O Orçamento do Estado para 2027 tem sido objeto de intensa discussão parlamentar, com partidos a anunciar posições sobre a sua viabilização. O PS confirmou a abstenção, enquanto PCP e PSD manifestaram posições diferentes, e outros partidos como o Bloco de Esquerda desafiaram a oposição. O Governo tem defendido a sua proposta, com o Secretário-Geral do PS a confirmar a viabilização por abstenção. Entretanto, notícias sobre o impacto do Orçamento em áreas como a Educação, rendas e habitação têm sido reportadas, com críticas e pedidos de cautela."
   },
   "2026-11-20-48391-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
