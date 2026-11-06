@@ -6,18 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48649@ar-preview
-DTSTAMP:20261106T153131Z
+DTSTAMP:20261106T231250Z
 DTSTART:20261109T160000Z
 DTEND:20261109T180000Z
 SUMMARY:AR · Comissão de Ambiente e Energia
-LOCATION:Assembleia da República
-DESCRIPTION:Comissão de Ambiente e Energia · Reunião n.º 62\nSíntese:
-  Audição com a Vice-Presidente Executiva da Comissão Europeia\, Teresa
-  Ribera\, responsável pelo pelouro da Transição Limpa\, Justa e…\nP
- ágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas
- /default.aspx\nEmissões em direto (quando houver): https://canal.parlame
- nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
-  indicativa\; a agenda da AR pode mudar.
+LOCATION:Assembleia da República · Sala Senado
+DESCRIPTION:Comissão de Ambiente e Energia · Reunião n.º 62 · Sala Se
+ nado\nSíntese: Audição com a Vice-Presidente Executiva da Comissão Eu
+ ropeia\, Teresa Ribera\, responsável pelo pelouro da Transição Limpa\,
+  Justa e…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/1
+ 1CAEne/Paginas/default.aspx\nEmissões em direto (quando houver): https:/
+ /canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview
+ /\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.as
  px
 TRANSP:TRANSPARENT

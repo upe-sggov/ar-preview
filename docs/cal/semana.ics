@@ -4,4 +4,22 @@ PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 9 a 15 de novembro de 2026
+BEGIN:VEVENT
+UID:ar-48664@ar-preview
+DTSTAMP:20261106T231250Z
+DTSTART:20261110T160000Z
+DTEND:20261110T180000Z
+SUMMARY:AR · Intervenção de Luís Neves na Polícia Judiciária
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito para avaliação da interv
+ enção de Luís Neves enquanto diretor da Polícia Judiciária durante t
+ odos os seus mandatos (2018-2026) e eventual responsabilidade de membros 
+ do Governo que o nomearam e tutelaram · Reunião n.º 3\nSíntese: Discu
+ ssão e votação do projeto de regulamento da Comissão e das propostas 
+ de alteração apresentadas\nEmissões em direto (quando houver): https:/
+ /canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview
+ /\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
