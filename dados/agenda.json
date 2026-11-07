@@ -6230,6 +6230,7 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
+   "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 245,
     "n7": 20,
@@ -7735,8 +7736,7 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ],
-   "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p"
+   ]
   },
   {
    "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
@@ -7920,8 +7920,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-07T20:47+00:00",
-  "atualizadoLabel": "7 de novembro, 20h47",
+  "atualizado": "2026-11-07T21:39+00:00",
+  "atualizadoLabel": "7 de novembro, 21h39",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
