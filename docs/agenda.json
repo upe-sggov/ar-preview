@@ -7813,8 +7813,8 @@
     "retirados": 7
    }
   ],
-  "atualizado": "2026-11-07T15:19+00:00",
-  "atualizadoLabel": "7 de novembro, 15h19",
+  "atualizado": "2026-11-07T15:39+00:00",
+  "atualizadoLabel": "7 de novembro, 15h39",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8177,138 +8177,154 @@
    "tabelas": [],
    "fundo": [
     {
+     "data": "2026-09-15",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/",
+     "sintese": "O ECO noticiou que o OE2027 pretende ser mais do que um exercício sobre receitas e despesas, focando-se na competitividade económica de Portugal para a próxima década, num contexto de reorganização de cadeias de valor e transição energética.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
+     "sintese": "O Dinheiro Vivo reportou que Luís Montenegro sublinhou um 'sinal importante' dado pelo PS relativamente ao OE2027, indicando um possível diálogo entre os partidos.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
      "data": "2026-10-01",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/politica/amp/ventura-acusa-ps-de-ter-tornado-documento-inutil-com-anuncio-de-abstencao-no-orcamento-do-estado-para-2027",
-     "sintese": "Ventura acusa PS de ter tornado documento 'inútil' com anúncio de abstenção no Orçamento do Estado para 2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-10-02",
-     "fonte": "Nascer do SOL",
-     "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
-     "sintese": "PCP anuncia voto contra o Orçamento do Estado para 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
-     "sintese": "PS admite mudar viabilização do OE2027 se este tiver 'medidas surpresa' gravosas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
-     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde.",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
+     "sintese": "A CNN Portugal destacou que o OE2027 deve promover o investimento, a habitação e a competitividade da construção, com propostas específicas para cada área.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-08",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
-     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'.",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
+     "sintese": "A Renascença noticiou que Miranda Sarmento alertou o PS para a sua 'responsabilidade reforçada' no OE2027, avisando sobre o efeito negativo de um défice orçamental.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
+     "sintese": "O Diário de Notícias reportou que o OE2027 prevê uma estagnação nos benefícios do Complemento Solidário para Idosos.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
+     "sintese": "A Executive Digest noticiou que o Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O Notícias ao Minuto reportou que o Chega reuniu o seu Conselho Nacional para analisar o OE2027 e apresentar propostas de alteração.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-09",
      "fonte": "Sábado",
-     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
-     "sintese": "OE2027: Professores pedem mais investimento na Educação e valorização da carreira.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-10",
-     "fonte": "Jornal de Notícias",
-     "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
-     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que 'convicções mais profundas' levariam a voto contra.",
+     "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
+     "sintese": "O Sábado questionou quais as medidas do OE2027 para os jovens, indicando um interesse em políticas direcionadas a este grupo etário.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-11",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
-     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
+     "sintese": "A Healthnews criticou a ausência de financiamento no OE2027 para a construção de três novos edifícios do Hospital Eduardo Santos Silva, um projeto estimado em 280 milhões de euros.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
-     "data": "2026-10-13",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/artigo/convidado/2026/10/13/o-oe-2027-em-perspetiva/489028/",
-     "sintese": "OE2027 em perspetiva.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "data": "2026-10-12",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
+     "sintese": "O JN reportou que empresários consideram que falta ambição ao OE2027, mas elogiam o equilíbrio das contas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-23",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3071945/anmp-aprova-parecer-positivo-ao-oe2027-mas-alerta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "ANMP aprova parecer positivo ao OE2027, mas alerta.",
+     "fonte": "JM Madeira",
+     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
+     "sintese": "A JM Madeira noticiou que Pedro Coelho destacou o aumento das transferências do Estado para a Madeira no OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-10-28",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/national/article/2026-10-28/48026313/oe2027-leit%C3%A3o-amaro-critica-contas-%C3%A0-chega-e-pergunta-se-ficar%C3%A1-ao-lado-da-esquerda-na-lei-das-rendas",
-     "sintese": "Leitão Amaro critica 'contas à Chega' e pergunta se ficará ao lado da esquerda na lei das rendas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-30",
+     "data": "2026-10-27",
      "fonte": "RTP Notícias",
-     "url": "https://acores.rtp.pt/economia/oe-2027-acores-exigem-mais-verbas-para-voos-interilhas/",
-     "sintese": "OE2027: Açores exigem mais verbas para voos interilhas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "url": "https://www.rtp.pt/noticias/pais/luis-montenegro-acredita-que-oe2027-e-bom-para-os-portugueses_v1774847",
+     "sintese": "A SIC Notícias reportou que Luís Montenegro acredita que o OE2027 é bom para os portugueses, respondendo a críticas sobre o aumento do custo de vida.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
-     "data": "2026-11-01",
+     "data": "2026-11-03",
      "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
-     "sintese": "OE2027: Professores pedem mais investimento na Educação e valorização da carreira. (repetida)",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-02",
-     "fonte": "Diário de Notícias",
-     "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
-     "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
+     "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/",
+     "sintese": "A UTAO concluiu que os ministérios terão mais autonomia na gestão de cativações no OE2027, com um aumento da reserva orçamental setorial.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-03",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b",
-     "sintese": "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação.",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
+     "sintese": "O Jornal de Negócios noticiou que falta informação no OE2027 para avaliar políticas na habitação e na saúde.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
+     "sintese": "O Jornal Económico reportou que sindicatos de professores avaliam o OE2027, apontando a necessidade de melhorias em áreas como a educação.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-11-05",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/oe2027-custos-aumentaram-mas-agricultor-faz-esforco-maior-ministro/",
-     "sintese": "OE2027: Ministro das Finanças promete analisar impacto orçamental de propostas do PS.",
+     "data": "2026-11-06",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/",
+     "sintese": "O Observador noticiou que o PS apresentou 180 propostas de alteração ao OE2027, incluindo o IVA Zero no cabaz alimentar e a redução temporária do imposto sobre produtos petrolíferos.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
+     "sintese": "O Expresso reportou que o Chega e o PCP são os partidos que mais alterações propuseram ao OE2027, com propostas sobre IVA, impostos e idade da reforma.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-06",
      "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-ministro-das-financas-promete-analisar-impacto-orcamental-de-propostas-do-ps/",
-     "sintese": "OE2027: Custos aumentaram, mas agricultor faz esforço maior – Ministro.",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/",
+     "sintese": "O Jornal Económico noticiou que o Chega insiste na descida do IVA dos combustíveis, redução do IRS e aumento do subsídio de refeição, além de medidas para congelar a idade da reforma.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
+     "sintese": "O Observador noticiou que André Ventura comunicou a Montenegro que as propostas do Chega sobre habitação não estão desligadas da lei das rendas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8316,21 +8332,21 @@
      "data": "2026-11-07",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
-     "sintese": "OE2027: Chega quer congelar idade da reforma no próximo ano.",
+     "sintese": "O Jornal de Negócios reportou que mais de 2.800 propostas de alteração foram entregues ao OE2027, com o Chega e o PCP à frente.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
-    "analisadas": 18,
-    "encontradas": 1296
+    "analisadas": 20,
+    "encontradas": 244
    },
    "base": {
-    "ultima": "2026-11-07 11:47",
+    "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com vários partidos a anunciar posições sobre a proposta de lei. O PS admitiu a possibilidade de alterar a viabilização do OE2027 caso este contenha medidas surpresa, enquanto o PCP já declarou o voto contra. O Governo entregou a proposta no Parlamento, e partidos como o PSD e o Chega apresentaram um elevado número de propostas de alteração, com o Chega a liderar com 712 propostas. A ANMP aprovou um parecer positivo, mas alertou para potenciais desafios. A discussão de artigos remetidos a Plenário e normas avocadas na Assembleia da República, na quinta-feira, deverá abordar estas posições e propostas."
+   "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares, críticas e propostas de alteração. Os media noticiaram a discussão de artigos remetidos a Plenário e normas avocadas, bem como a apresentação de propostas de alteração por partidos como o PS, Chega e PCP. O debate tem-se focado em temas como competitividade, investimento, habitação, financiamento de infraestruturas e alterações fiscais. A cobertura inclui também análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas específicas, como a habitação e a educação."
   }
  },
  "destaques": [],
