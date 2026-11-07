@@ -58,7 +58,7 @@ def linha(x):
     mais = f'<div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:5px">{" · ".join(extras)}</div>' if extras else ''
     return f'''    <tr><td style="padding:9px 24px;border-bottom:1px solid #f1f4f7">
       <table width="100%" cellpadding="0" cellspacing="0" role="presentation"><tr>
-        <td width="52" valign="top" style="font:400 12px Arial,sans-serif;color:#5b6068;padding-top:2px">{e(x.get("hora") or "—")}</td>
+        <td width="52" valign="top" style="font:400 12px Arial,sans-serif;color:#5b6068;padding-top:2px">{e(x.get("hora")) if x.get("hora") else '<span style="font-size:10.5px;color:#8a9098">sem hora</span>'}</td>
         <td width="14" valign="top" style="font:400 14px Arial,sans-serif;color:{cor};line-height:1.4">&#9679;</td>
         <td valign="top">{tema}{novo}{info}
           {mais}

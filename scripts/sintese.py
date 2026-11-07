@@ -134,7 +134,12 @@ def vevento(x, pagina_url=''):
              'Hora de fim indicativa; a agenda da AR pode mudar.']
     seg = [t.strip() for t in (x.get('tipoLabel') or '').split('·') if not t.strip().startswith('conjunta com')]
     sala = seg[-1] if len(seg) >= 3 and not seg[-1].startswith('Reunião') else ''
-    linhas = ['BEGIN:VEVENT', f'UID:{uid}', f'DTSTAMP:{utc(datetime.now(LX))}', f'DTSTART:{utc(ini)}', f'DTEND:{utc(fim)}',
+    if x.get('hora'):
+        quando = [f'DTSTART:{utc(ini)}', f'DTEND:{utc(fim)}']
+    else:   # a AR não publica hora (audiências dos grupos parlamentares, visitas): evento de dia inteiro, não às 9h
+        d0 = datetime.fromisoformat(x['data'][:10]); quando = [f"DTSTART;VALUE=DATE:{d0:%Y%m%d}", f"DTEND;VALUE=DATE:{d0 + timedelta(days=1):%Y%m%d}"]
+        desc[-1] = 'A AR não publicou hora para esta entrada; a agenda da AR pode mudar.'
+    linhas = ['BEGIN:VEVENT', f'UID:{uid}', f'DTSTAMP:{utc(datetime.now(LX))}'] + quando + [
               f"SUMMARY:{_esc('AR · ' + x['tema'])}",
               f"LOCATION:{_esc('Assembleia da República' + (' · ' + ('Sala das Sessões' if sala == 'Plenário' else sala) if sala else ''))}",
               f"DESCRIPTION:{_esc(chr(10).join(d for d in desc if d))}",
@@ -162,4 +167,6 @@ def outlook_web(x, pagina_url=''):
                                    'Página na AR: ' + pag if pag else '', 'AR Preview: ' + pagina_url if pagina_url else ''] if t)
     q = {'path': '/calendar/action/compose', 'rru': 'addevent', 'subject': 'AR · ' + x['tema'],
          'startdt': ini.isoformat(), 'enddt': fim.isoformat(), 'location': 'Assembleia da República', 'body': corpo[:900]}
+    if not x.get('hora'):   # sem hora publicada pela AR: dia inteiro
+        q.update(allday='true', startdt=x['data'][:10], enddt=x['data'][:10])
     return 'https://outlook.office.com/calendar/0/deeplink/compose?' + urlencode(q)
