@@ -80,9 +80,13 @@ def obter_tudo():
         if site is None: raise
         abertos = []; print('dados abertos indisponíveis (', e, ')')
     if site is None: return abertos, 'Dados abertos da Assembleia da República — AgendaParlamentar_json.txt'
-    vistos = {x['Id'] for x in site}
-    extra = [x for x in abertos if x.get('Section') == 'Resumo da Calendarização' and x.get('Id') not in vistos]
-    return site + extra, 'Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos'
+    # a página do site só mostra os dias mais próximos (a 7/11/2026 só trazia 9 e 10 de novembro): as reuniões que já estão nos
+    # dados abertos e não estão no site entram também; quando estão nos dois, vale a versão do site (mais atual)
+    chave = lambda x: (x.get('EventStartDate'), (x.get('EventStartTime') or '')[:5], re.sub(r'\W+', ' ', (x.get('Title') or '')).strip().lower()[:60])
+    vistos, chaves = {str(x['Id']) for x in site}, {chave(x) for x in site}
+    extra = [x for x in abertos if str(x.get('Id')) not in vistos and chave(x) not in chaves]
+    print(f'dados abertos: {len(abertos)} registos, {len(extra)} acrescentados (não estavam no site)')
+    return site + extra, 'Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos'
 
 def texto(h):
     t = html.unescape(html.unescape(h or ''))
