@@ -4607,7 +4607,8 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ]
+   ],
+   "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p"
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -7813,8 +7814,8 @@
     "retirados": 7
    }
   ],
-  "atualizado": "2026-11-07T15:39+00:00",
-  "atualizadoLabel": "7 de novembro, 15h39",
+  "atualizado": "2026-11-07T15:56+00:00",
+  "atualizadoLabel": "7 de novembro, 15h56",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8347,6 +8348,188 @@
    },
    "novas": 0,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares, críticas e propostas de alteração. Os media noticiaram a discussão de artigos remetidos a Plenário e normas avocadas, bem como a apresentação de propostas de alteração por partidos como o PS, Chega e PCP. O debate tem-se focado em temas como competitividade, investimento, habitação, financiamento de infraestruturas e alterações fiscais. A cobertura inclui também análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas específicas, como a habitação e a educação."
+  },
+  "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-15",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/",
+     "sintese": "O Orçamento do Estado para 2027 é apresentado como um plano para a competitividade económica, com foco na transição de cadeias de valor e na economia para a próxima década.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
+     "sintese": "O primeiro-ministro Montenegro sublinha que o OE 2027 dá um sinal importante ao PS, embora a discussão sobre a competitividade continue.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-01",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
+     "sintese": "O Orçamento do Estado para 2027 é apresentado como um instrumento para promover o investimento, a habitação e a competitividade da construção.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
+     "sintese": "O ministro da Segurança Social Miranda Sarmento alerta o PS para a responsabilidade reforçada no défice e o efeito negativo de um défice elevado.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
+     "sintese": "O Orçamento do Estado para 2027 prevê estagnação nos benefícios do Complemento Solidário para Idosos.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
+     "sintese": "O Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis no OE 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O partido Chega reúne o seu Conselho Nacional para analisar o OE 2027 e apresentar propostas de alteração.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
+     "sintese": "O PS questiona a falta de financiamento para a construção de três novos edifícios do Hospital Eduardo Santos Silva no OE 2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
+     "sintese": "Empresários consideram que falta ambição ao OE 2027, mas elogiam o equilíbrio das contas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-12",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
+     "sintese": "O Governo destaca um aumento das transferências para a Madeira no OE 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "JM Madeira",
+     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
+     "sintese": "O primeiro-ministro Montenegro afirma que o OE 2027 é bom para os portugueses, respondendo às críticas sobre o aumento do custo de vida.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/luis-montenegro-acredita-que-oe2027-e-bom-para-os-portugueses_v1774847",
+     "sintese": "Os ministérios terão mais autonomia na gestão de cativações no OE 2027, com um aumento da reserva orçamental setorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/",
+     "sintese": "Especialistas do IPP apontam a falta de informação no OE 2027 sobre políticas habitacionais e de investimento na saúde.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
+     "sintese": "O Governo reforça a autonomia dos ministérios na gestão de cativações no OE 2027, com um aumento da reserva orçamental setorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
+     "sintese": "Especialistas do IPP apontam a falta de investimento na educação, com críticas dos sindicatos de professores ao OE 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/",
+     "sintese": "O PS apresenta 180 propostas de alteração ao OE 2027, insistindo no IVA Zero no cabaz alimentar e na redução temporária do imposto sobre os produtos petrolíferos.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
+     "sintese": "O Chega e o PCP apresentam mais de duas mil propostas de alteração ao OE 2027, com foco em medidas como a descida do IVA dos combustíveis e a redução da idade da reforma.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/",
+     "sintese": "O Chega insiste na descida do IVA dos combustíveis, no aumento do subsídio de refeição e no congelamento da idade da reforma no OE 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
+     "sintese": "O Chega apresenta cerca de 600 propostas de alteração ao OE 2027, insistindo em medidas para reduzir o custo dos alimentos e aumentar o subsídio de refeição.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-07",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
+     "sintese": "Mais de 2.800 propostas de alteração foram entregues ao OE 2027, com o Chega e o PCP a liderar em número de propostas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 244
+   },
+   "base": {
+    "ultima": "2026-11-07 10:48",
+    "em": "2026-11-07"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre competitividade, investimento, habitação e outras medidas. O debate parlamentar inclui críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia, e elogios à ambição das contas. Vários partidos apresentaram propostas de alteração, destacando medidas como o IVA Zero no cabaz alimentar e a redução do imposto sobre combustíveis. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas habitacionais."
   }
  },
  "destaques": [],
