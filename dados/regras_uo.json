@@ -78,7 +78,7 @@
   ]
  },
  "pertinencia": {
-  "_nota": "Critérios da UPE (atualizados a 3 nov 2026). Imediato: presença de um cliente ou reunião da comissão parlamentar da área de um cliente (campo «comissoes») — membro do Governo cujo gabinete já fez pedidos à UPE (Registo de Pedidos da UPE, folha «Pedidos», pedidos externos; os pedidos internos da SGGov não contam); matérias que já tiveram varrimento (briefing / fundo mediático) entregue (dados/varrimentos_entregues.csv); debates do Governo no Plenário. Vigilância: restantes membros do Governo; comissões de inquérito; dossiers acompanhados, incluindo os temas de pedidos já recebidos (dados/dossiers.csv). Registo: o resto. A revisão humana (dados/correcoes.csv) prevalece sempre.",
+  "_nota": "Critérios da UPE (atualizados a 3 nov 2026). Imediato: presença de um cliente ou reunião da comissão parlamentar da área de um cliente (campo «comissoes») ou de uma comissão que a área acompanha (comissoes_imediato: Assuntos Europeus, pelo apoio à DCIRI) — membro do Governo cujo gabinete já fez pedidos à UPE (Registo de Pedidos da UPE, folha «Pedidos», pedidos externos; os pedidos internos da SGGov não contam); matérias que já tiveram varrimento (briefing / fundo mediático) entregue (dados/varrimentos_entregues.csv); debates do Governo no Plenário. Vigilância: restantes membros do Governo; comissões de inquérito; dossiers acompanhados, incluindo os temas de pedidos já recebidos (dados/dossiers.csv). Registo: o resto. A revisão humana (dados/correcoes.csv) prevalece sempre.",
   "_fonte_governo": "Composição do XXV Governo Constitucional (portugal.gov.pt, posse de 6 jun 2025), confirmada pelos nomes que a AR publica nas audições de 2–6 nov 2026. Atualizar em remodelações.",
   "clientes": [
    {
@@ -287,6 +287,15 @@
     ]
    }
   ],
-  "_fonte_clientes": "UPE_RegistoPedidos.xlsx (folha «Pedidos», 31 pedidos de UPE-2026-001 a UPE-2026-031), recebido a 3 nov 2026; coluna «Requerente»."
+  "_fonte_clientes": "UPE_RegistoPedidos.xlsx (folha «Pedidos», 31 pedidos de UPE-2026-001 a UPE-2026-031), recebido a 3 nov 2026; coluna «Requerente».",
+  "comissoes_imediato": [
+   {
+    "motivo": "apoio da UPE à DCIRI em assuntos europeus",
+    "comissoes": [
+     "Comissão de Assuntos Europeus",
+     "Grupo de Trabalho de Escrutínio de Iniciativas Europeias"
+    ]
+   }
+  ]
  }
 }
