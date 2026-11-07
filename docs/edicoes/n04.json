@@ -7920,8 +7920,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-07T22:39+00:00",
-  "atualizadoLabel": "7 de novembro, 22h39",
+  "atualizado": "2026-11-07T23:37+00:00",
+  "atualizadoLabel": "7 de novembro, 23h37",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -9000,18 +9000,237 @@
    },
    "novas": 0,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares e análises políticas, com destaque para temas como competitividade económica, investimento na habitação e alterações fiscais. As notícias revelam críticas de partidos como o PS e o Chega, que apontam falhas na informação sobre habitação e combustíveis, e elogiam o equilíbrio das contas por parte de empresários. O documento apresenta propostas de alteração de mais de 2.800 partidos, com o Chega a liderar em número de propostas. A cobertura evolui com discussões sobre a autonomia dos ministérios na gestão de cativações e a falta de financiamento para projetos de saúde e educação."
+  },
+  "2026-11-09-48665-transi-o-limpa-justa-e-competitiva": {
+   "titulo": "Transição Limpa, Justa e Competitiva",
+   "meta": "Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Senado · conjunta com Comissão de Economia e Coesão Territorial e Comissão de Ambiente e Energia · segunda, 9 nov, 16h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-08",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/opiniao/combustiveis-fosseis-e-transicao-um-tema-de-futuro/",
+     "sintese": "A notícia de 8 de setembro de 2026 descreve os objetivos do Pacto Ecológico Europeu, incluindo a redução de 55% das emissões de gases com efeito de estufa até 2030 e a neutralidade climática até 2050, como parte do pacote Fit for 55.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/",
+     "sintese": "A notícia de 14 de outubro de 2026 aborda a preocupação com a segurança da inteligência artificial e a necessidade de manter a orientação humana, conforme enfatizado pela comissária europeia Henna Virkkunen.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    }
+   ],
+   "amostra": {
+    "analisadas": 2,
+    "encontradas": 2
+   },
+   "base": {
+    "ultima": "2026-10-14 15:47",
+    "em": "2026-11-07"
+   },
+   "novas": 0,
+   "enquadramento": "Duas notícias foram publicadas num período de 60 dias, focando-se na transição ecológica e competitividade industrial na Europa. A primeira notícia, de 8 de setembro de 2026, detalha os objetivos do Pacto Ecológico Europeu, incluindo a redução de 55% das emissões de gases com efeito de estufa até 2030 e a neutralidade climática até 2050, como parte do pacote Fit for 55. A segunda notícia, de 14 de outubro de 2026, destaca a preocupação com a segurança da inteligência artificial e a necessidade de manter a orientação humana, conforme enfatizado pela comissária europeia Henna Virkkunen. A cobertura evoluiu de objetivos de transição ecológica para a discussão de riscos tecnológicos, mantendo o foco na competitividade industrial e sustentabilidade."
+  },
+  "2026-11-10-48666-soberania-tecnol-gica-seguran-a-e-democraci": {
+   "titulo": "Soberania Tecnológica, Segurança e Democracia",
+   "meta": "Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta com Comissão de Economia e Coesão Territorial · terça, 10 nov, 09h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-12",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/lusofonia/article/2026-09-12/47764609/novo-regulamento-vai-reorganizar-setor-mineiro-em-mo%C3%A7ambique-pr",
+     "sintese": "A Lusa noticiou a reorganização do setor mineiro em Moçambique, relacionada com políticas de desenvolvimento económico e exploração de recursos naturais.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-15",
+     "fonte": "Ambiente Magazine",
+     "url": "https://www.ambientemagazine.com/municipio-de-setubal-aprova-projeto-de-alteracao-ao-regulamento-dos-servicos-de-abastecimento-de-agua-e-saneamento/",
+     "sintese": "O Ambiente Magazine reportou a aprovação de um projeto de alteração ao regulamento dos serviços de abastecimento de água e saneamento em Setúbal, com o objetivo de adequar a estrutura tarifária.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-16",
+     "fonte": "Açoriano Oriental",
+     "url": "http://www.acorianooriental.pt/noticia/sdpa-aponta-limitacoes-no-novo-regulamento-de-colocacao-de-professores-380406",
+     "sintese": "O Açoriano Oriental criticou o novo regulamento de colocação de professores na Região Autónoma dos Açores, alegando que não corrigiu problemas e tornou o documento mais confuso e limitador.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-09-25",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/09/25/local/noticia/almada-regulamento-apoiar-casas-afectadas-ruido-aeroporto-entra-vigor-2189361",
+     "sintese": "O Público noticiou a entrada em vigor de um regulamento para apoiar casas afetadas por ruído do aeroporto em Almada.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-28",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/novo-regulamento-do-mecenato-cultural-preve-plataforma-operacional-ate-ao-natal_n1768234",
+     "sintese": "A RTP Notícias reportou a publicação de um novo regulamento do mecenato cultural, com o objetivo de criar uma plataforma operacional até ao Natal.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-01",
+     "fonte": "Diário de Notícias",
+     "url": "http://dinheirovivo.dn.pt/economia/bruxelas-d-dois-meses-a-portugal-para-transpor-diretiva-sobre-contratos-de-crdito",
+     "sintese": "O Diário de Notícias noticiou que Bruxelas deu dois meses a Portugal para transpor a diretiva sobre contratos de crédito.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-07",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/08/opiniao/opiniao/onde-regulamento-cml-tuktuks-2190552?ref=transportes",
+     "sintese": "O Público reportou a procura pelo regulamento da Câmara Municipal de Lisboa sobre tuk-tuks.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "SAPO Tek",
+     "url": "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/",
+     "sintese": "A SAPO Tek noticiou a soberania tecnológica como uma prioridade política na Europa, relacionada com a segurança e a democracia.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-18",
+     "fonte": "Diário de Notícias da Madeira",
+     "url": "https://www.dnoticias.pt/tag/geral/regulamento-europeu/",
+     "sintese": "O Diário de Notícias da Madeira mencionou um regulamento europeu, sem especificar o conteúdo.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-20",
+     "fonte": "Agroportal",
+     "url": "https://www.agroportal.pt/acordo-atempado-sobre-a-revisao-do-regulamento-da-agricultura-biologica-da-ue-um-passo-necessario-para-o-setor/",
+     "sintese": "O Público noticiou um acordo sobre a revisão do Regulamento da Agricultura Biológica da UE, relacionado com a sustentabilidade e a produção agrícola.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-22",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/premio-pessoa/2026-10-22-regulamento-2026-5e4f5669",
+     "sintese": "O Expresso reportou um regulamento de 2026, sem especificar o conteúdo.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "JM Madeira",
+     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008093/funchal-aprova-por-unanimidade-inicio-da-revisao-do-regulamento-de-residuos-e-limpeza-urbana.html",
+     "sintese": "O JM Madeira noticiou a aprovação por unanimidade do início da revisão do regulamento de resíduos e limpeza urbana no Funchal.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/",
+     "sintese": "O Jornal Económico reportou que o Governo prepara um plano de aceitação de energias renováveis para evitar contestações.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3078234/melgaco-com-novo-cheque-educacao-de-30-euros-e-regulamento-de-apoios-sociais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O Notícias ao Minuto noticiou um cheque educação de 30€ e um regulamento de apoios sociais em Melgaço.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3078461/camara-de-ourem-vai-criar-regulamento-de-incentivos-a-habitacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O Diário de Notícias reportou que a Câmara de Ourém vai criar um regulamento de incentivos à habitação.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/05/rgpd-e-regulamento-da-ia-sao-insuficientes-para-protecao-dos-trabalhadores-alerta-especialista/",
+     "sintese": "O ECO noticiou que o RGPD e o Regulamento da IA são insuficientes para a proteção dos trabalhadores, relacionado com a privacidade e a segurança.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/05/parlamento-promete-registo-simples-e-objetivo-para-as-entidades-que-fazem-lobi/",
+     "sintese": "O Observador noticiou que o Parlamento promete um registo simples e objetivo para o lóbi, relacionado com a transparência e a representação de interesses.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3079669/camara-da-murtosa-vai-rever-regulamento-de-atribuicao-de-lotes-de-autoconstrucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O Notícias ao Minuto reportou que a Murtosa vai rever o regulamento de atribuição de lotes de autoconstrução.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/economia/habitacao/2026-11-06-video-acao-policial-nas-acampadas-em-lisboa-e-no-porto-sob-investigacao-12b12b63",
+     "sintese": "A SIC Notícias noticiou que bastonadas na cabeça estão a ser investigadas, com o regulamento da PSP a referir zonas a evitar.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-07",
+     "fonte": "Visão",
+     "url": "https://visao.pt/opiniao/ponto-de-vista/incerto-mundo-novo/2026-11-07-dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado/?utm_source=rss&utm_medium=rss&utm_campaign=dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado",
+     "sintese": "A Visão noticiou uma opinião sobre dois pesos e duas medidas na utilização de óculos com Inteligência Artificial, relacionada com a proteção de dados.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 148
+   },
+   "base": {
+    "ultima": "2026-11-07 10:00",
+    "em": "2026-11-07"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos seis meses, a cobertura noticiosa tem-se focado principalmente em regulamentos locais e nacionais, incluindo alterações a serviços públicos, alterações tarifárias, e a implementação de novas políticas em áreas como a agricultura, energias renováveis, e proteção de dados. Embora algumas notícias mencionem a soberania tecnológica, estas são exceções e não constituem um foco central. A cobertura evoluiu de discussões sobre a implementação de regulamentos específicos para uma atenção mais ampla a políticas de âmbito mais vasto, como a proteção de dados e a transparência. No entanto, nenhuma das notícias fornece uma análise direta ou crítica da proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros ou do regulamento sobre o Passaporte Europeu de Segurança Social. A maioria das notícias são de natureza contextual, destacando desenvolvimentos locais e regionais, enquanto apenas algumas abordam temas de âmbito mais amplo, como a soberania tecnológica."
   }
  },
- "destaques": [],
- "agenda": [
+ "destaques": [
   {
-   "tema": "Comissão de Assuntos Europeus",
+   "tema": "Transição Limpa, Justa e Competitiva",
    "data": "2026-11-09",
    "hora": "16h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Senado · conjunta com Comissão de Economia e Coesão Territorial e Comissão de Ambiente e Energia",
+   "resumo": "Audição conjunta com foco nas políticas europeias de transição ecológica e competitividade industrial. Debate sobre o futuro do Pacto Ecológico Europeu e o apoio a setores estratégicos.",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
    "orgao": "Comissão de Assuntos Europeus",
    "id_ar": 48665,
    "chave": "ar-48665",
@@ -9022,10 +9241,12 @@
    "uo": [
     "DACDP"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«assuntos europeus» (DACDP)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo",
+    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato",
+    "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
    ],
    "periodo": "Tarde",
    "ligacoes": [
@@ -9036,58 +9257,28 @@
    ],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 16,
+    "n": 2,
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-07",
-    "metodo": "palavras",
-    "ultima": "2026-10-22 18:39",
+    "metodo": "expressoes",
+    "ultima": "2026-10-14 15:47",
     "ultimas": [
      {
-      "data": "2026-10-22",
-      "fonte": "Observador",
-      "titulo": "\"Montenegro é quase socialista\"",
-      "url": "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
-     },
-     {
-      "data": "2026-10-20",
-      "fonte": "RTP Notícias",
-      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     },
-     {
-      "data": "2026-10-20",
+      "data": "2026-10-14",
       "fonte": "ECO",
-      "titulo": "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "url": "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+      "titulo": "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
+      "url": "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
+     },
+     {
+      "data": "2026-09-08",
+      "fonte": "ECO",
+      "titulo": "Combustíveis fósseis e transição, um tema de futuro",
+      "url": "https://eco.sapo.pt/opiniao/combustiveis-fosseis-e-transicao-um-tema-de-futuro/"
      }
     ],
     "todas": [
-     [
-      "2026-10-22 18:39",
-      "Observador",
-      "\"Montenegro é quase socialista\"",
-      "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
-     ],
-     [
-      "2026-10-20 16:14",
-      "RTP Notícias",
-      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     ],
-     [
-      "2026-10-20 15:31",
-      "ECO",
-      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
-     ],
-     [
-      "2026-10-15 16:20",
-      "Açoriano Oriental",
-      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
-      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
-     ],
      [
       "2026-10-14 15:47",
       "ECO",
@@ -9095,157 +9286,392 @@
       "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
      ],
      [
-      "2026-10-14 00:08",
-      "Observador",
-      "A República deve ter uma Vice-Presidente",
-      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
-     ],
-     [
-      "2026-10-01 13:41",
-      "Jornal Económico",
-      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
-      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
-     ],
-     [
-      "2026-09-23 14:57",
-      "Jornal de Notícias",
-      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
-      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
-     ],
-     [
-      "2026-09-23 11:45",
+      "2026-09-08 14:57",
       "ECO",
-      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
-      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
-     ],
-     [
-      "2026-09-19 17:24",
-      "ECO",
-      "Líder da Paul Weiss investe em luxo no Algarve",
-      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
-     ],
-     [
-      "2026-09-17 15:03",
-      "ECO",
-      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
-      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
-     ],
-     [
-      "2026-09-17 10:00",
-      "JM Madeira",
-      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
-     ],
-     [
-      "2026-09-17 07:07",
-      "Diário de Notícias da Madeira",
-      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
-     ],
-     [
-      "2026-09-16 09:18",
-      "Diário de Notícias da Madeira",
-      "Representante da República recebe Vice-Presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
-     ],
-     [
-      "2026-09-14 13:35",
-      "RTP Notícias",
-      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     ],
-     [
-      "2026-09-09 22:59",
-      "Observador",
-      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
-      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
+      "Combustíveis fósseis e transição, um tema de futuro",
+      "https://eco.sapo.pt/opiniao/combustiveis-fosseis-e-transicao-um-tema-de-futuro/"
      ]
     ]
-   }
+   },
+   "conjunta": [
+    "Comissão de Economia e Coesão Territorial",
+    "Comissão de Ambiente e Energia"
+   ],
+   "ids_ar": [
+    48665,
+    48667,
+    48669
+   ],
+   "tituloRegras": true,
+   "amalia": {
+    "assunto": "Transição Limpa, Justa e Competitiva",
+    "resumo": "Audição conjunta com foco nas políticas europeias de transição ecológica e competitividade industrial. Debate sobre o futuro do Pacto Ecológico Europeu e o apoio a setores estratégicos.",
+    "uo": [
+     "DAPL",
+     "DCIRI"
+    ],
+    "justificacao": "A DAPL assegura o apoio técnico ao processo legislativo europeu e a conformidade com as boas práticas de legística, enquanto a DCIRI gere as relações internacionais e a representação da Comissão Europeia em Portugal.",
+    "expressoes": [
+     "Comissão Europeia",
+     "Pacto Ecológico Europeu",
+     "Vice-Presidente Executiva",
+     "Transição Limpa",
+     "Representação da Comissão Europeia em Portugal"
+    ]
+   },
+   "expressoes": [
+    "Comissão Europeia",
+    "Pacto Ecológico Europeu",
+    "Vice-Presidente Executiva",
+    "Transição Limpa",
+    "Representação da Comissão Europeia em Portugal"
+   ],
+   "varrimento": "2026-11-09-48665-transi-o-limpa-justa-e-competitiva"
   },
   {
-   "tema": "Comissão de Economia e Coesão Territorial",
-   "data": "2026-11-09",
-   "hora": "16h00",
+   "tema": "Soberania Tecnológica, Segurança e Democracia",
+   "data": "2026-11-10",
+   "hora": "09h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Economia e Coesão Territorial · Reunião n.º 22 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicaç",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]",
-   "orgao": "Comissão de Economia e Coesão Territorial",
-   "id_ar": 48667,
-   "chave": "ar-48667",
-   "dataLabel": "segunda, 9 nov",
+   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta com Comissão de Economia e Coesão Territorial",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia sobre a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e o regulamento sobre o Passaporte Europeu de Segurança Social.",
+   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos\n [conjunta com a Comissão de Assuntos Europeus]",
+   "orgao": "Comissão de Assuntos Europeus",
+   "id_ar": 48666,
+   "chave": "ar-48666",
+   "dataLabel": "terça, 10 nov",
    "tipo": [
     "Comissões Parlamentares"
    ],
    "uo": [
-    "DACDP"
+    "DACDP",
+    "DAPL"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«assuntos europeus» (DACDP)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "«diretiva» (DAPL)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo",
+    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
    ],
-   "periodo": "Tarde",
+   "periodo": "Manhã",
    "ligacoes": [
     {
      "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
     }
    ],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 17,
-    "n7": 0,
-    "n7ant": 0,
+    "n": 148,
+    "n7": 10,
+    "n7ant": 14,
     "dias": 60,
     "ref": "2026-11-07",
-    "metodo": "palavras",
-    "ultima": "2026-10-22 18:39",
+    "metodo": "expressoes",
+    "ultima": "2026-11-07 10:00",
     "ultimas": [
      {
-      "data": "2026-10-22",
-      "fonte": "Observador",
-      "titulo": "\"Montenegro é quase socialista\"",
-      "url": "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
+      "data": "2026-11-07",
+      "fonte": "Visão",
+      "titulo": "Dois pesos e duas medidas. Opinião de Sofia Santos Machado",
+      "url": "https://visao.pt/opiniao/ponto-de-vista/incerto-mundo-novo/2026-11-07-dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado/?utm_source=rss&utm_medium=rss&utm_campaign=dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado"
      },
      {
-      "data": "2026-10-20",
-      "fonte": "RTP Notícias",
-      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
+      "data": "2026-11-06",
+      "fonte": "SIC Notícias",
+      "titulo": "Bastonadas na cabeça sob investigação, regulamento da PSP refere zonas a evitar",
+      "url": "https://sicnoticias.pt/economia/habitacao/2026-11-06-video-acao-policial-nas-acampadas-em-lisboa-e-no-porto-sob-investigacao-12b12b63"
      },
      {
-      "data": "2026-10-20",
-      "fonte": "ECO",
-      "titulo": "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "url": "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+      "data": "2026-11-06",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Murtosa vai rever regulamento de atribuição de lotes de autoconstrução",
+      "url": "https://www.noticiasaominuto.com/pais/3079669/camara-da-murtosa-vai-rever-regulamento-de-atribuicao-de-lotes-de-autoconstrucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
      [
-      "2026-10-22 18:39",
+      "2026-11-07 10:00",
+      "Visão",
+      "Dois pesos e duas medidas. Opinião de Sofia Santos Machado",
+      "https://visao.pt/opiniao/ponto-de-vista/incerto-mundo-novo/2026-11-07-dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado/?utm_source=rss&utm_medium=rss&utm_campaign=dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado"
+     ],
+     [
+      "2026-11-06 13:35",
+      "SIC Notícias",
+      "Bastonadas na cabeça sob investigação, regulamento da PSP refere zonas a evitar",
+      "https://sicnoticias.pt/economia/habitacao/2026-11-06-video-acao-policial-nas-acampadas-em-lisboa-e-no-porto-sob-investigacao-12b12b63"
+     ],
+     [
+      "2026-11-06 10:52",
+      "Notícias ao Minuto",
+      "Murtosa vai rever regulamento de atribuição de lotes de autoconstrução",
+      "https://www.noticiasaominuto.com/pais/3079669/camara-da-murtosa-vai-rever-regulamento-de-atribuicao-de-lotes-de-autoconstrucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-05 15:26",
       "Observador",
-      "\"Montenegro é quase socialista\"",
-      "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
+      "Lóbi. Parlamento promete registo simples e objetivo",
+      "https://observador.pt/2026/11/05/parlamento-promete-registo-simples-e-objetivo-para-as-entidades-que-fazem-lobi/"
      ],
      [
-      "2026-10-20 16:14",
-      "RTP Notícias",
-      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     ],
-     [
-      "2026-10-20 15:31",
+      "2026-11-05 11:18",
       "ECO",
-      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+      "RGPD e Regulamento da IA são insuficientes para proteção dos trabalhadores, alerta especialista",
+      "https://eco.sapo.pt/2026/11/05/rgpd-e-regulamento-da-ia-sao-insuficientes-para-protecao-dos-trabalhadores-alerta-especialista/"
      ],
      [
-      "2026-10-15 16:20",
+      "2026-11-04 17:02",
+      "Observador",
+      "Juízes defendem debate amplo sobre liberdade de expressão",
+      "https://observador.pt/2026/11/04/sindicato-dos-juizes-defende-debate-amplo-na-transposicao-de-diretiva-de-protecao-da-liberdade-de-expressao/"
+     ],
+     [
+      "2026-11-04 15:06",
+      "Notícias ao Minuto",
+      "Câmara de Ourém vai criar regulamento de incentivos à habitação",
+      "https://www.noticiasaominuto.com/pais/3078461/camara-de-ourem-vai-criar-regulamento-de-incentivos-a-habitacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-04 10:33",
+      "Notícias ao Minuto",
+      "Melgaço com novo cheque educação de 30€ e regulamento de apoios sociais",
+      "https://www.noticiasaominuto.com/pais/3078234/melgaco-com-novo-cheque-educacao-de-30-euros-e-regulamento-de-apoios-sociais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-03 11:51",
+      "Jornal Económico",
+      "Governo prepara plano de aceitação de energias renováveis para evitar contestações",
+      "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/"
+     ],
+     [
+      "2026-11-03 06:00",
+      "Jornal de Negócios",
+      "Revisão das normas técnicas da construção avança este mês",
+      "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/revisao-das-normas-tecnicas-da-construcao-avanca-este-mes"
+     ],
+     [
+      "2026-10-29 15:15",
+      "RTP Notícias",
+      "Campanha Rights for Nature: \"Pela Natureza com Direitos\"",
+      "https://www.rtp.pt/noticias/pais/campanha-rights-for-nature-pela-natureza-com-direitos_a1775362"
+     ],
+     [
+      "2026-10-29 12:38",
+      "ECO",
+      "Estados-membros começam a aplicar novo Regulamento para embalagens",
+      "https://eco.sapo.pt/2026/10/29/estados-membros-comecam-a-aplicar-novo-regulamento-para-embalagens/"
+     ],
+     [
+      "2026-10-29 11:21",
+      "Agroportal",
+      "NTG | Bruxelas prepara regras para aplicar novo regulamento",
+      "https://www.agroportal.pt/ntg-bruxelas-prepara-regras-para-aplicar-novo-regulamento/"
+     ],
+     [
+      "2026-10-28 23:24",
+      "Observador",
+      "Parlamento aprova regulamento do lobby",
+      "https://observador.pt/2026/10/28/parlamento-aprova-regulamento-dos-deputados-para-registo-e-publicitacoes-de-audiencias/"
+     ],
+     [
+      "2026-10-28 19:21",
+      "Notícias ao Minuto",
+      "AR aprova regulamento para registo e publicitações de audiências",
+      "https://www.noticiasaominuto.com/politica/3074670/parlamento-aprova-regulamento-dos-deputados-para-registo-e-publicitacoes-de-audiencias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-28 18:55",
+      "Observador",
+      "Abrantes quer construir mais 100 habitações acessíveis",
+      "https://observador.pt/2026/10/28/abrantes-quer-construir-mais-100-habitacoes-acessiveis-alem-das-64-previstas/"
+     ],
+     [
+      "2026-10-28 15:01",
+      "JM Madeira",
+      "Funchal aprova por unanimidade início da revisão do regulamento de resíduos e limpeza urbana",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008093/funchal-aprova-por-unanimidade-inicio-da-revisao-do-regulamento-de-residuos-e-limpeza-urbana.html"
+     ],
+     [
+      "2026-10-28 13:03",
+      "Diário de Notícias da Madeira",
+      "Funchal vai rever regulamento da limpeza urbana",
+      "https://www.dnoticias.pt/2026/10/28/510735-funchal-vai-rever-regulamento-da-limpeza-urbana/"
+     ],
+     [
+      "2026-10-27 15:45",
+      "Jornal Económico",
+      "Portugal defende PAC forte com menos burocracia e mais apoio aos agricultores",
+      "https://jornaleconomico.sapo.pt/noticias/portugal-defende-pac-forte-com-menos-burocracia-e-mais-apoio-aos-agricultores/"
+     ],
+     [
+      "2026-10-26 20:12",
+      "ECO",
+      "Porto admite revogar decisão que trocou habitação acessível por dinheiro",
+      "https://eco.sapo.pt/2026/10/26/porto-admite-revogar-decisao-que-trocou-habitacao-acessivel-por-dinheiro/"
+     ],
+     [
+      "2026-10-26 12:30",
+      "ECO",
+      "Bruxelas aceita plano da Temu para detetar produtos ilegais",
+      "https://eco.sapo.pt/2026/10/26/bruxelas-aceita-plano-da-temu-para-detetar-produtos-ilegais/"
+     ],
+     [
+      "2026-10-26 11:33",
+      "ECO",
+      "Tomar começa a cobrar taxa turística de dois euros por dormida em novembro",
+      "https://eco.sapo.pt/2026/10/26/tomar-comeca-a-cobrar-taxa-turistica-de-dois-euros-por-dormida-em-novembro/"
+     ],
+     [
+      "2026-10-26 10:22",
+      "ECO",
+      "Nova Diretiva do Crédito ao Consumo: o custo da incerteza regulatória",
+      "https://eco.sapo.pt/opiniao/nova-diretiva-do-credito-ao-consumo-o-custo-da-incerteza-regulatoria/"
+     ],
+     [
+      "2026-10-26 07:15",
+      "ECO",
+      "Telefónica organiza, no Espaço Fundação Telefónica, uma nova edição do Policy Day",
+      "https://eco.sapo.pt/2026/10/26/telefonica-organiza-no-espaco-fundacao-telefonica-uma-nova-edicao-do-policy-day/"
+     ],
+     [
+      "2026-10-24 15:30",
+      "RTP Notícias",
+      "Novos tarifários nos táxis a partir de hoje",
+      "https://www.rtp.pt/noticias/economia/novos-tarifarios-nos-taxis-a-partir-de-hoje_v1773983"
+     ],
+     [
+      "2026-10-23 21:49",
+      "RTP Notícias",
+      "Táxis com novos tarifários. Tarifa inicial passa a ser mais baixa",
+      "https://www.rtp.pt/noticias/pais/taxis-com-novos-tarifarios-tarifa-inicial-passa-a-ser-mais-baixa_v1773887"
+     ],
+     [
+      "2026-10-23 13:47",
       "Açoriano Oriental",
-      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
-      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
+      "Novas regras para tarifários dos táxis entram em vigor mas taxímetros adaptam-se até janeiro",
+      "https://www.acorianooriental.pt/noticia/novas-regras-para-tarifarios-dos-taxis-entram-em-vigor-mas-taximetros-adaptam-se-ate-janeiro-381418"
+     ],
+     [
+      "2026-10-23 08:24",
+      "ECO",
+      "Bandeirada mais baixa e tarifas variáveis. Novas regras para tarifários dos táxis entram em vigor",
+      "https://eco.sapo.pt/2026/10/23/bandeirada-mais-baixa-e-tarifas-variaveis-novas-regras-para-tarifarios-dos-taxis-entram-em-vigor/"
+     ],
+     [
+      "2026-10-23 06:35",
+      "Observador",
+      "Novas regras para tarifários dos táxis entram em vigor",
+      "https://observador.pt/2026/10/23/novas-regras-para-tarifarios-dos-taxis-entram-esta-sexta-feira-em-vigor-mas-taximetros-adaptam-se-ate-janeiro/"
+     ],
+     [
+      "2026-10-22 12:00",
+      "Jornal de Negócios",
+      "Novas regras de investimento direto estrangeiro exigem “revisão profunda” do regime português",
+      "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/novas-regras-de-investimento-direto-estrangeiro-exigem-revisao-profunda-do-regime-portugues"
+     ],
+     [
+      "2026-10-22 11:10",
+      "Expresso",
+      "Regulamento 2026",
+      "https://expresso.pt/premio-pessoa/2026-10-22-regulamento-2026-5e4f5669"
+     ],
+     [
+      "2026-10-22 00:21",
+      "Observador",
+      "PS: Moedas suspendeu trotinetes para \"tirar gás\" a referendo",
+      "https://observador.pt/2026/10/22/ps-acusa-moedas-de-suspender-trotinetes-para-tirar-gas-ao-referendo-local-subscrito-por-20-mil-lisboetas/"
+     ],
+     [
+      "2026-10-21 17:57",
+      "Jornal Económico",
+      "Câmara de Lisboa aprova suspensão das trotinetes partilhadas com votos contra de Livre e IL",
+      "https://jornaleconomico.sapo.pt/noticias/camara-de-lisboa-aprova-suspensao-das-trotinetes-partilhadas-com-votos-contra-de-livre-e-il/"
+     ],
+     [
+      "2026-10-20 18:34",
+      "Jornal de Negócios",
+      "Portugal atrasa-se nas regras do crédito ao consumo. Perda de investimento entre os receios",
+      "https://www.jornaldenegocios.pt/mercados/detalhe/portugal-atrasa-se-nas-regras-do-credito-ao-consumo-perda-de-investimento-entre-os-receios"
+     ],
+     [
+      "2026-10-20 17:05",
+      "Observador",
+      "PCP: Moedas foi \"complacente\" com trotinetes",
+      "https://observador.pt/2026/10/20/pcp-acusa-moedas-de-complacencia-com-operadores-de-trotinetes-e-propoe-integrar-sistema-na-gira/"
+     ],
+     [
+      "2026-10-20 15:40",
+      "Agroportal",
+      "Acordo atempado sobre a revisão do Regulamento da Agricultura Biológica da UE, um passo necessário para o setor",
+      "https://www.agroportal.pt/acordo-atempado-sobre-a-revisao-do-regulamento-da-agricultura-biologica-da-ue-um-passo-necessario-para-o-setor/"
+     ],
+     [
+      "2026-10-20 14:27",
+      "ECO",
+      "Setor do crédito ao consumo alerta para incerteza com atraso de transposição de diretiva",
+      "https://eco.sapo.pt/2026/10/20/setor-do-credito-ao-consumo-alerta-para-incerteza-com-atraso-de-transposicao-de-diretiva/"
+     ],
+     [
+      "2026-10-20 14:04",
+      "Notícias ao Minuto",
+      "ASFAC critica atraso na transposição da diretiva de crédito ao consumo",
+      "https://www.noticiasaominuto.com/economia/3069816/asfac-critica-atraso-na-transposicao-da-diretiva-de-credito-ao-consumo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-20 13:49",
+      "Executive Digest",
+      "Asfac critica atraso na transposição de diretiva do crédito aos consumidores",
+      "https://executivedigest.sapo.pt/asfac-critica-atraso-na-transposicao-de-diretiva-do-credito-aos-consumidores/"
+     ],
+     [
+      "2026-10-20 10:56",
+      "Agroportal",
+      "Comissão saúda acordo político sobre o futuro regulamento dos produtos biológicos",
+      "https://www.agroportal.pt/comissao-sauda-acordo-politico-sobre-o-futuro-regulamento-dos-produtos-biologicos/"
+     ],
+     [
+      "2026-10-19 11:29",
+      "Observador",
+      "Reitoria da Fernando Pessoa recusa regulamento sem pré-aviso",
+      "https://observador.pt/2026/10/19/reitoria-da-universidade-fernando-pessoa-recusa-estar-a-introduzir-novos-regulamentos-sem-pre-aviso/"
+     ],
+     [
+      "2026-10-18 01:45",
+      "Diário de Notícias da Madeira",
+      "Regulamento Europeu",
+      "https://www.dnoticias.pt/tag/geral/regulamento-europeu/"
+     ],
+     [
+      "2026-10-17 14:03",
+      "Diário de Notícias da Madeira",
+      "Regulamento Municipal de Edificação e Urbanização",
+      "https://www.dnoticias.pt/tag/geral/regulamento-municipal-de-edificacao-e-urbanizacao/"
+     ],
+     [
+      "2026-10-17 13:00",
+      "JM Madeira",
+      "CDS defende revisão do regulamento de obras que combata a crise habitacional",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007308/cds-defende-revisao-do-regulamento-de-obras-que-combata-a-crise-habitacional.html"
+     ],
+     [
+      "2026-10-17 12:46",
+      "Diário de Notícias da Madeira",
+      "CDS quer que revisão do regulamento de obras simplifique legalização de casas",
+      "https://www.dnoticias.pt/2026/10/17/509371-cds-quer-que-revisao-do-regulamento-de-obras-simplifique-legalizacao-de-casas/"
+     ],
+     [
+      "2026-10-15 08:30",
+      "Jornal de Negócios",
+      "Valadares Tavares: “Código dos Contratos Públicos? O problema não é a diretiva europeia. O problema somos nós”",
+      "https://www.jornaldenegocios.pt/podcast/urbanidades/detalhe/valadares-tavares-codigo-dos-contratos-publicos-o-problema-nao-e-a-diretiva-europeia-o-problema-somos-nos"
+     ],
+     [
+      "2026-10-14 17:16",
+      "Observador",
+      "FPT: novos preços dos táxis \"mantêm desiquilibrio regional\"",
+      "https://observador.pt/2026/10/14/novas-regras-para-tarifarios-dos-taxis-mantem-desiquilibrio-regional-diz-federacao/"
      ],
      [
       "2026-10-14 15:47",
@@ -9254,247 +9680,644 @@
       "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
      ],
      [
-      "2026-10-14 00:08",
-      "Observador",
-      "A República deve ter uma Vice-Presidente",
-      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
-     ],
-     [
-      "2026-10-12 12:48",
-      "Ambiente Magazine",
-      "Opinião: “Uma cidade limpa é uma cidade que cuida”",
-      "https://www.ambientemagazine.com/opiniao-uma-cidade-limpa-e-uma-cidade-que-cuida/"
-     ],
-     [
-      "2026-10-01 13:41",
+      "2026-10-14 12:29",
       "Jornal Económico",
-      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
-      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
+      "Comissão Europeia propõe adiar um ano regras de emissões de metano para importadores",
+      "https://jornaleconomico.sapo.pt/noticias/comissao-europeia-propoe-adiar-um-ano-regras-de-emissoes-de-metano-para-importadores/"
      ],
      [
-      "2026-09-23 14:57",
-      "Jornal de Notícias",
-      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
-      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
+      "2026-10-14 00:02",
+      "Observador",
+      "Masséna chegou cedo demais para o Carnaval",
+      "https://observador.pt/opiniao/massena-chegou-cedo-demais-para-o-carnaval/"
      ],
      [
-      "2026-09-23 11:45",
+      "2026-10-13 14:30",
+      "Observador",
+      "Setúbal com 40 agentes a fiscalizar trânsito e ambiente",
+      "https://observador.pt/2026/10/13/policia-municipal-de-setubal-vai-ter-40-agentes-a-fiscalizar-transito-estacionamento-e-ambiente/"
+     ],
+     [
+      "2026-10-13 10:09",
+      "Ambiente Magazine",
+      "Renovar o Compromisso é a 6.ª mesa-redonda do SENAG 2026",
+      "https://www.ambientemagazine.com/renovar-o-compromisso-e-a-6-a-mesa-redonda-do-senag-2026/"
+     ],
+     [
+      "2026-10-13 06:57",
       "ECO",
-      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
-      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
+      "Novos Avisos STEP: mais quatro “passos” para dinamizar o investimento empresarial",
+      "https://eco.sapo.pt/opiniao/novos-avisos-step-mais-quatro-passos-para-dinamizar-o-investimento-empresarial/"
      ],
      [
-      "2026-09-19 17:24",
+      "2026-10-12 16:36",
+      "Jornal Económico",
+      "SNQTB vai compensar perda salarial de associados que aderirem à greve de 30 de novembro",
+      "https://jornaleconomico.sapo.pt/noticias/snqtb-vai-compensar-perda-salarial-de-associados-que-aderirem-a-greve-de-30-de-novembro/"
+     ],
+     [
+      "2026-10-12 14:32",
       "ECO",
-      "Líder da Paul Weiss investe em luxo no Algarve",
-      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
+      "T-Systems celebra o seu 25.º aniversário, contribuindo para o desenvolvimento digital do país e com o olhar voltado para a soberania tecnológica",
+      "https://eco.sapo.pt/2026/10/12/t-systems-celebra-o-seu-25-o-aniversario-contribuindo-para-o-desenvolvimento-digital-do-pais-e-com-o-olhar-voltado-para-a-soberania-tecnologica/"
      ],
      [
-      "2026-09-17 15:03",
-      "ECO",
-      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
-      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
+      "2026-10-12 14:03",
+      "Healthnews",
+      "China aperta cerco a crimes alimentares e às vendas online",
+      "https://healthnews.pt/2026/10/12/china-aperta-cerco-a-crimes-alimentares-e-as-vendas-online/#utm_source=rss&utm_medium=rss&utm_campaign=china-aperta-cerco-a-crimes-alimentares-e-as-vendas-online"
      ],
      [
-      "2026-09-17 10:00",
+      "2026-10-10 00:04",
+      "Observador",
+      "Cinco anos em Berlim, três em Dublin. E em Lisboa?",
+      "https://observador.pt/opiniao/cinco-anos-em-berlim-tres-em-dublin-e-em-lisboa/"
+     ],
+     [
+      "2026-10-09 23:10",
+      "Observador",
+      "Onda xenófoba chega a Durban com saques e incêndios",
+      "https://observador.pt/2026/10/09/protesto-anti-imigracao-causa-pilhagens-e-confrontos-com-a-policia-sul-africana/"
+     ],
+     [
+      "2026-10-09 15:16",
+      "Observador",
+      "Regulamento do Conselho Económico de Caminha entra em vigor",
+      "https://observador.pt/2026/10/09/regulamento-do-conselho-economico-de-caminha-entra-em-vigor-na-segunda-feira/"
+     ],
+     [
+      "2026-10-09 12:12",
+      "Ambiente Magazine",
+      "Governo atualiza metas para renováveis e aprova novo programa de controlo da poluição atmosférica",
+      "https://www.ambientemagazine.com/governo-atualiza-metas-para-renovaveis-e-aprova-novo-programa-de-controlo-da-poluicao-atmosferica/"
+     ],
+     [
+      "2026-10-08 20:09",
       "JM Madeira",
-      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
+      "Governo aprova diploma que transpõe diretiva europeia e fixa meta de 49% de renováveis até 2030",
+      "https://www.jm-madeira.pt/not%C3%ADcias/nacional/30006702/governo-aprova-diploma-que-transpoe-diretiva-europeia-e-fixa-meta-de-49-de-renovaveis-ate-2030.html"
      ],
      [
-      "2026-09-17 07:07",
-      "Diário de Notícias da Madeira",
-      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
+      "2026-10-08 19:57",
+      "Jornal de Negócios",
+      "Governo aprova objetivo de 49% de energias renováveis até 2030",
+      "https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-aprova-objetivo-de-49-de-energias-renovaveis-ate-2030"
      ],
      [
-      "2026-09-16 09:18",
-      "Diário de Notícias da Madeira",
-      "Representante da República recebe Vice-Presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
-     ],
-     [
-      "2026-09-14 13:35",
-      "RTP Notícias",
-      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     ],
-     [
-      "2026-09-09 22:59",
-      "Observador",
-      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
-      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
-     ]
-    ]
-   }
-  },
-  {
-   "tema": "Comissão de Ambiente e Energia",
-   "data": "2026-11-09",
-   "hora": "16h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Ambiente e Energia · Reunião n.º 62 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
-   "orgao": "Comissão de Ambiente e Energia",
-   "id_ar": 48669,
-   "chave": "ar-48669",
-   "dataLabel": "segunda, 9 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx"
-    }
-   ],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 17,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-07",
-    "metodo": "palavras",
-    "ultima": "2026-10-22 18:39",
-    "ultimas": [
-     {
-      "data": "2026-10-22",
-      "fonte": "Observador",
-      "titulo": "\"Montenegro é quase socialista\"",
-      "url": "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
-     },
-     {
-      "data": "2026-10-20",
-      "fonte": "RTP Notícias",
-      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     },
-     {
-      "data": "2026-10-20",
-      "fonte": "ECO",
-      "titulo": "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "url": "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
-     }
-    ],
-    "todas": [
-     [
-      "2026-10-22 18:39",
-      "Observador",
-      "\"Montenegro é quase socialista\"",
-      "https://observador.pt/programas/vichyssoise/montenegro-e-quase-socialista/"
-     ],
-     [
-      "2026-10-20 16:14",
-      "RTP Notícias",
-      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     ],
-     [
-      "2026-10-20 15:31",
+      "2026-10-08 16:20",
       "ECO",
-      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
+      "Câmara de Coimbra prepara programa municipal de arrendamento acessível",
+      "https://eco.sapo.pt/2026/10/08/camara-de-coimbra-prepara-programa-municipal-de-arrendamento-acessivel/"
      ],
      [
-      "2026-10-15 16:20",
+      "2026-10-08 13:15",
+      "Jornal Económico",
+      "Bruxelas multa multinacional Kingspan em 40 milhões de euros por informações enganosas",
+      "https://jornaleconomico.sapo.pt/noticias/bruxelas-multa-multinacional-kingspan-em-40-milhoes-de-euros-por-informacoes-enganosas/"
+     ],
+     [
+      "2026-10-08 12:37",
+      "SAPO Tek",
+      "Soberania tecnológica: a nova urgência europeia",
+      "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/"
+     ],
+     [
+      "2026-10-08 11:51",
+      "SAPO Tek",
+      "Entre a defesa da soberania e o risco de isolamento",
+      "https://tek.sapo.pt/noticias/computadores/artigos/entre-a-defesa-da-soberania-e-o-risco-de-isolamento/"
+     ],
+     [
+      "2026-10-08 00:54",
+      "RTP Notícias",
+      "Grande Entrevista ao CEO da Tekever. Empresa portuguesa tornou-se referência na indústria dos drones",
+      "https://www.rtp.pt/noticias/pais/grande-entrevista-ao-ceo-da-tekever-empresa-portuguesa-tornou-se-referencia-na-industria-dos-drones_n1770189"
+     ],
+     [
+      "2026-10-08 00:20",
+      "Público",
+      "Onde está o regulamento da CML sobre tuk-tuks ?",
+      "https://www.publico.pt/2026/10/08/opiniao/opiniao/onde-regulamento-cml-tuktuks-2190552"
+     ],
+     [
+      "2026-10-07 23:20",
+      "Público",
+      "Onde está o regulamento da CML sobre tuk-tuks?",
+      "https://www.publico.pt/2026/10/08/opiniao/opiniao/onde-regulamento-cml-tuktuks-2190552?ref=transportes"
+     ],
+     [
+      "2026-10-07 22:18",
+      "RTP Notícias",
+      "Castigo a Ronaldo está enquadrado nos regulamentos",
+      "https://www.rtp.pt/noticias/desporto/castigo-a-ronaldo-esta-enquadrado-nos-regulamentos_v1770166"
+     ],
+     [
+      "2026-10-07 18:42",
+      "SAPO Tek",
+      "A próxima década do RGPD começa na responsabilidade",
+      "https://tek.sapo.pt/opiniao/artigos/a-proxima-decada-do-rgpd-comeca-na-responsabilidade/"
+     ],
+     [
+      "2026-10-07 12:30",
+      "Jornal de Negócios",
+      "Alexandre Antunes: “À volta da transparência salarial estão a criar-se mitos”",
+      "https://www.jornaldenegocios.pt/sustentabilidade/detalhe/alexandre-antunes-a-volta-da-transparencia-salarial-estao-a-criar-se-mitos"
+     ],
+     [
+      "2026-10-06 20:28",
+      "Correio da Manhã",
+      "O que diz o Regulamento Disciplinar da FPF: Cristiano Ronaldo arrisca 6 meses de suspensão",
+      "https://www.cmjornal.pt/desporto/futebol/amp/o-que-diz-o-regulamento-disciplinar-da-fpf-cristiano-ronaldo-arrisca-6-meses-de-suspensao"
+     ],
+     [
+      "2026-10-06 12:16",
+      "Público",
+      "ChatGPT vai identificar textos com marcas de água invisíveis na UE",
+      "https://www.publico.pt/2026/10/06/enter/noticia/chatgpt-vai-identificar-textos-marcas-agua-invisiveis-ue-2190409"
+     ],
+     [
+      "2026-10-03 14:19",
+      "JM Madeira",
+      "PSD critica restrições do novo Regulamento do Alojamento Local em Machico",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006394/psd-critica-restricoes-do-novo-regulamento-do-alojamento-local-em-machico.html"
+     ],
+     [
+      "2026-10-03 12:36",
+      "Diário de Notícias da Madeira",
+      "PSD critica novo Regulamento do Alojamento Local em Machico",
+      "https://www.dnoticias.pt/2026/10/3/507707-psd-critica-novo-regulamento-do-alojamento-local-em-machico/"
+     ],
+     [
+      "2026-10-02 20:00",
+      "SAPO Tek",
+      "Reparar em vez de substituir, rumo a uma tecnologia mais sustentável",
+      "https://tek.sapo.pt/opiniao/artigos/reparar-em-vez-de-substituir-rumo-a-uma-tecnologia-mais-sustentavel/"
+     ],
+     [
+      "2026-10-02 19:15",
+      "Observador",
+      "Moedas integrou Comissão que criou diretiva na base do Volta",
+      "https://observador.pt/2026/10/02/moedas-integrou-comissao-que-criou-diretiva-na-origem-do-volta-mas-rejeita-ter-validado-sistema-polemico/"
+     ],
+     [
+      "2026-10-01 18:18",
+      "Jornal Económico",
+      "Bruxelas dá dois meses a Portugal e outros 15 membros para transpôr diretiva relativa aos contratos de crédito",
+      "https://jornaleconomico.sapo.pt/noticias/bruxelas-da-dois-meses-a-portugal-e-outros-15-membros-para-transpor-diretiva-relativa-aos-contratos-de-credito/"
+     ],
+     [
+      "2026-10-01 13:45",
+      "Notícias ao Minuto",
+      "Contratos de crédito: Bruxelas dá 2 meses para Portugal transpor diretiva",
+      "https://www.noticiasaominuto.com/pais/3060164/bruxelas-da-dois-meses-a-portugal-para-transpor-diretiva-sobre-contratos-de-credito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-01 12:33",
+      "Observador",
+      "PAN vai realizar novo congresso para eleger direção",
+      "https://observador.pt/2026/10/01/pan-vai-realizar-novo-congresso-apos-decisao-do-tribunal-constitucional-que-invalidou-eleicao-da-direcao/"
+     ],
+     [
+      "2026-10-01 12:20",
+      "Diário de Notícias",
+      "Bruxelas dá dois meses a Portugal para transpor diretiva sobre contratos de crédito",
+      "http://dinheirovivo.dn.pt/economia/bruxelas-d-dois-meses-a-portugal-para-transpor-diretiva-sobre-contratos-de-crdito"
+     ],
+     [
+      "2026-10-01 11:13",
       "Açoriano Oriental",
-      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
-      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
+      "Cristiano Ronaldo arrisca seis meses de suspensão por abandonar seleção portuguesa",
+      "https://www.acorianooriental.pt/noticia/cristiano-ronaldo-arrisca-seis-meses-de-suspensao-por-abandonar-selecao-portuguesa-380746"
      ],
      [
-      "2026-10-14 15:47",
-      "ECO",
-      "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
-      "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
-     ],
-     [
-      "2026-10-14 00:08",
-      "Observador",
-      "A República deve ter uma Vice-Presidente",
-      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
-     ],
-     [
-      "2026-10-12 12:48",
-      "Ambiente Magazine",
-      "Opinião: “Uma cidade limpa é uma cidade que cuida”",
-      "https://www.ambientemagazine.com/opiniao-uma-cidade-limpa-e-uma-cidade-que-cuida/"
-     ],
-     [
-      "2026-10-01 13:41",
-      "Jornal Económico",
-      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
-      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
-     ],
-     [
-      "2026-09-23 14:57",
-      "Jornal de Notícias",
-      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
-      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
-     ],
-     [
-      "2026-09-23 11:45",
-      "ECO",
-      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
-      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
-     ],
-     [
-      "2026-09-19 17:24",
-      "ECO",
-      "Líder da Paul Weiss investe em luxo no Algarve",
-      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
-     ],
-     [
-      "2026-09-17 15:03",
-      "ECO",
-      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
-      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
-     ],
-     [
-      "2026-09-17 10:00",
+      "2026-10-01 09:53",
       "JM Madeira",
-      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
+      "IL condena aprovação de regulamento de AL em Machico",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006210/il-condena-aprovacao-de-regulamento-de-al-em-machico.html"
      ],
      [
-      "2026-09-17 07:07",
+      "2026-10-01 09:39",
       "Diário de Notícias da Madeira",
-      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
+      "IL critica regulamento do Alojamento Local de Machico",
+      "https://www.dnoticias.pt/2026/10/1/507426-il-critica-regulamento-do-alojamento-local-de-machico/"
      ],
      [
-      "2026-09-16 09:18",
-      "Diário de Notícias da Madeira",
-      "Representante da República recebe Vice-Presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
+      "2026-10-01 06:41",
+      "CNN Portugal",
+      "Cristiano Ronaldo arrisca seis meses de suspensão por abandonar seleção portuguesa: eis o que diz o regulamento da FPF",
+      "https://cnnportugal.iol.pt/cristiano-ronaldo/selecao-nacional/cristiano-ronaldo-arrisca-seis-meses-de-suspensao-por-abandonar-selecao-portuguesa-eis-o-que-diz-o-regulamento-da-fpf/20261001/6abdf27cd34e9a786e75a678"
      ],
      [
-      "2026-09-14 13:35",
+      "2026-09-30 22:30",
       "RTP Notícias",
-      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
+      "Cristiano Ronaldo arrisca seis meses de suspensão por abandonar seleção portuguesa",
+      "https://www.rtp.pt/noticias/selecao-nacional/cristiano-ronaldo-arrisca-seis-meses-de-suspensao-por-abandonar-selecao-portuguesa_d1768752"
      ],
      [
-      "2026-09-09 22:59",
+      "2026-09-30 11:19",
+      "Açoriano Oriental",
+      "PAN/Açores apresenta queixa à Provedora da Justiça sobre regras para ter animais em bairros sociais em Angra do Heroísmo",
+      "https://www.acorianooriental.pt/noticia/pan-acores-apresenta-queixa-a-provedora-da-justica-sobre-regras-para-ter-animais-em-bairros-sociais-em-angra-do-heroismo-380723"
+     ],
+     [
+      "2026-09-30 07:45",
+      "ECO",
+      "Época mais critica de combate aos incêndios termina com menos área ardida e mais fogos",
+      "https://eco.sapo.pt/2026/09/30/epoca-mais-critica-de-combate-aos-incendios-termina-com-menos-area-ardida-e-mais-fogos/"
+     ],
+     [
+      "2026-09-30 06:41",
+      "ECO",
+      "Juízes terão formação prioritária de IA, prova digital e cibersegurança",
+      "https://eco.sapo.pt/2026/09/30/juizes-terao-formacao-prioritaria-de-ia-prova-digital-e-ciberseguranca/"
+     ],
+     [
+      "2026-09-29 15:35",
+      "Agroportal",
+      "Edição genética | EFSA prepara orientações científicas para a aplicação do novo regulamento europeu das NTG",
+      "https://www.agroportal.pt/edicao-genetica-efsa-prepara-orientacoes-cientificas-para-a-aplicacao-do-novo-regulamento-europeu-das-ntg/"
+     ],
+     [
+      "2026-09-29 14:57",
       "Observador",
-      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
-      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
+      "PGR impõe 24 horas para pulseiras em violência doméstica",
+      "https://observador.pt/2026/09/29/violencia-domestica-pgr-quer-vigilancia-eletronica-a-arguidos-no-prazo-maximo-de-24-horas-apos-interrogatorio/"
+     ],
+     [
+      "2026-09-28 18:14",
+      "Observador",
+      "Barcelos vai cobrar taxa municipal turística de dois euros",
+      "https://observador.pt/2026/09/28/barcelos-vai-cobrar-taxa-municipal-turistica-de-dois-euros-por-dormida/"
+     ],
+     [
+      "2026-09-28 17:29",
+      "ECO",
+      "O AI Act e o futuro do Setor Segurador em Portugal",
+      "https://eco.sapo.pt/opiniao/o-ai-act-e-o-futuro-do-setor-segurador-em-portugal/"
+     ],
+     [
+      "2026-09-28 16:08",
+      "RTP Notícias",
+      "Novo regulamento do mecenato cultural prevê plataforma operacional até ao Natal",
+      "https://www.rtp.pt/noticias/economia/novo-regulamento-do-mecenato-cultural-preve-plataforma-operacional-ate-ao-natal_n1768234"
+     ],
+     [
+      "2026-09-28 16:07",
+      "Observador",
+      "Seis milhões para reabilitar três ETAR na Lezíria",
+      "https://observador.pt/2026/09/28/aguas-do-ribatejo-investe-seis-milhoes-para-reabilitar-tres-etar-na-leziria-do-tejo/"
+     ],
+     [
+      "2026-09-28 02:00",
+      "Diário de Notícias da Madeira",
+      "Regulamento do AL de Machico: Mais do mesmo. Muitas proibições. Zero soluções.",
+      "https://www.dnoticias.pt/2026/9/27/506958-regulamento-do-al-de-machico-mais-do-mesmo-muitas-proibicoes-zero-solucoes/"
+     ],
+     [
+      "2026-09-25 18:39",
+      "Público",
+      "Almada: regulamento para apoiar casas afectadas por ruído do aeroporto entra em vigor",
+      "https://www.publico.pt/2026/09/25/local/noticia/almada-regulamento-apoiar-casas-afectadas-ruido-aeroporto-entra-vigor-2189361"
+     ],
+     [
+      "2026-09-25 12:40",
+      "Jornal Económico",
+      "Bruxelas abre processo a Portugal por não transpor diretiva que incentiva reparação de produtos",
+      "https://jornaleconomico.sapo.pt/noticias/bruxelas-abre-processo-a-portugal-por-nao-transpor-diretiva-que-incentiva-reparacao-de-produtos/"
+     ],
+     [
+      "2026-09-25 12:19",
+      "Jornal Económico",
+      "Bruxelas processa Portugal por falhas na legislação contra branqueamento de capitais",
+      "https://jornaleconomico.sapo.pt/noticias/bruxelas-processa-portugal-por-falhas-na-legislacao-contra-branqueamento-de-capitais/"
+     ],
+     [
+      "2026-09-25 10:55",
+      "Visão",
+      "A sua empresa usa IA? Uma decisão errada pode valer milhões em multas",
+      "https://visao.pt/conteudopatrocinado/2026-09-25-a-sua-empresa-usa-ia-uma-decisao-errada-pode-valer-milhoes-em-multas/?utm_source=rss&utm_medium=rss&utm_campaign=a-sua-empresa-usa-ia-uma-decisao-errada-pode-valer-milhoes-em-multas"
+     ],
+     [
+      "2026-09-24 10:42",
+      "ECO",
+      "Bruxelas estuda provocar “apagões seletivos” para garantir a segurança energética",
+      "https://eco.sapo.pt/2026/09/24/bruxelas-estuda-provocar-apagoes-seletivos-para-garantir-a-seguranca-energetica/"
+     ],
+     [
+      "2026-09-23 16:44",
+      "Agroportal",
+      "O novo regulamento das NTG pode devolver competitividade à agricultura europeia",
+      "https://www.agroportal.pt/o-novo-regulamento-das-ntg-pode-devolver-competitividade-a-agricultura-europeia/"
+     ],
+     [
+      "2026-09-22 22:54",
+      "Jornal Económico",
+      "TiJUBU lança solução para pôr empresas à prova na transparência salarial",
+      "https://jornaleconomico.sapo.pt/noticias/tijubu-lanca-solucao-para-por-empresas-a-prova-na-transparencia-salarial/"
+     ],
+     [
+      "2026-09-21 19:18",
+      "SAPO Tek",
+      "A emailite generativa",
+      "https://tek.sapo.pt/opiniao/artigos/a-emailite-generativa/"
+     ],
+     [
+      "2026-09-21 13:46",
+      "SAPO Tek",
+      "Google multada em 403 milhões de euros na Europa por violar o RGPD no tratamento de dados de localização",
+      "https://tek.sapo.pt/noticias/internet/artigos/google-multada-em-403-milhoes-de-euros-na-europa-por-violar-o-rgpd-no-tratamento-de-dados-de-localizacao/"
+     ],
+     [
+      "2026-09-21 10:35",
+      "Agroportal",
+      "EUDR – Alteração da lista de produtos abrangidos pelo Regulamento da UE sobre a Desflorestação",
+      "https://www.agroportal.pt/eudr-alteracao-da-lista-de-produtos-abrangidos-pelo-regulamento-da-ue-sobre-a-desflorestacao/"
+     ],
+     [
+      "2026-09-21 07:28",
+      "ECO",
+      "“Há ainda muita iliteracia relativamente à transparência salarial. Formação é essencial”",
+      "https://eco.sapo.pt/entrevista/ha-ainda-muita-iliteracia-relativamente-a-transparencia-salarial-formacao-e-essencial/"
+     ],
+     [
+      "2026-09-18 17:01",
+      "Observador",
+      "Volta. Metas falhadas tornam sistema obrigatório na UE",
+      "https://observador.pt/especiais/volta-incumprimento-de-metas-obriga-portugal-e-franca-a-terem-sistema-alternativo-de-reciclagem/"
+     ],
+     [
+      "2026-09-18 09:00",
+      "Jornal Económico",
+      "A transparência salarial pode ser uma oportunidade para melhorar a qualidade da gestão",
+      "https://jornaleconomico.sapo.pt/noticias/a-transparencia-salarial-pode-ser-uma-oportunidade-para-melhorar-a-qualidade-da-gestao/"
+     ],
+     [
+      "2026-09-17 19:52",
+      "Observador",
+      "Hyrox altera regras após polémica com atleta",
+      "https://observador.pt/2026/09/17/hyrox-altera-regras-apos-polemica-com-atleta-que-continuou-em-prova-apos-episodio-de-incontinencia-fecal/"
+     ],
+     [
+      "2026-09-17 17:25",
+      "Observador",
+      "Receita de PS e Chega para combustíveis esbarra em Bruxelas",
+      "https://observador.pt/especiais/receita-de-chega-e-ps-para-combustiveis-esbarra-em-regra-europeia-chega-quer-falar-com-bruxelas/"
+     ],
+     [
+      "2026-09-17 14:02",
+      "JM Madeira",
+      "Vereadores do JPP propõem à Câmara regulamento para disciplinar trotinetas",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005269/vereadores-do-jpp-propoem-a-camara-regulamento-para-disciplinar-trotinetas.html"
+     ],
+     [
+      "2026-09-17 12:04",
+      "ECO",
+      "Tribunal de Justiça Europeu considera que Código dos Contratos Públicos português viola diretiva da UE",
+      "https://eco.sapo.pt/2026/09/17/tribunal-de-justica-europeu-considera-que-codigo-dos-contratos-publicos-portugues-viola-diretiva-da-ue/"
+     ],
+     [
+      "2026-09-17 11:20",
+      "Ambiente Magazine",
+      "Revisão do Código da Estrada: MUBi propõe limite de 30 km/h nas localidades e novas regras para bicicletas",
+      "https://www.ambientemagazine.com/revisao-do-codigo-da-estrada-mubi-propoe-limite-de-30-km-h-nas-localidades-e-novas-regras-para-bicicletas/"
+     ],
+     [
+      "2026-09-17 06:19",
+      "Agroportal",
+      "Pescas : Bruxelas pede paci?ncia enquanto analisa aplica??o de regulamento",
+      "https://www.agroportal.pt/pescas-bruxelas-pede-pacincia-enquanto-analisa-aplicao-de-regulamento/"
+     ],
+     [
+      "2026-09-16 18:57",
+      "Açoriano Oriental",
+      "SDPA aponta limitações no novo regulamento de colocação de professores",
+      "http://www.acorianooriental.pt/noticia/sdpa-aponta-limitacoes-no-novo-regulamento-de-colocacao-de-professores-380406"
+     ],
+     [
+      "2026-09-16 16:30",
+      "Diário de Notícias da Madeira",
+      "Regulamento aprovado do Rali Porto Santo",
+      "https://www.dnoticias.pt/2026/9/16/505641-regulamento-aprovado-do-rali-porto-santo/"
+     ],
+     [
+      "2026-09-16 12:28",
+      "Notícias ao Minuto",
+      "Lei e regulamento sobre passagens de nível publicados em DR",
+      "https://www.noticiasaominuto.com/pais/3052257/lei-e-regulamento-sobre-passagens-de-nivel-publicados-em-diario-da-republica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-09-16 10:01",
+      "Correio da Manhã",
+      "Lei e regulamento sobre passagens de nivel publicados em Diário da República",
+      "https://www.cmjornal.pt/sociedade/amp/lei-e-regulamento-sobre-passagens-de-nivel-publicados-em-diario-da-republica"
+     ],
+     [
+      "2026-09-16 09:56",
+      "TSF",
+      "Poucos copos têm nova vida em Lisboa: máquinas quase vazias, Zero acusa Câmara de não cumprir regulamento",
+      "https://www.tsf.pt/sociedade/artigo/poucos-copos-tem-nova-vida-em-lisboa-maquinas-quase-vazias-zero-acusa-camara-de-nao-cumprir-regulamento/18127165"
+     ],
+     [
+      "2026-09-16 09:44",
+      "Agroportal",
+      "NTG | Comissão Europeia prepara as regras que vão tornar o novo regulamento aplicável",
+      "https://www.agroportal.pt/ntg-comissao-europeia-prepara-as-regras-que-vao-tornar-o-novo-regulamento-aplicavel/"
+     ],
+     [
+      "2026-09-15 17:09",
+      "Observador",
+      "Eurodeputados contrariam Comissão em diretiva sobre emissões",
+      "https://observador.pt/2026/09/15/eurodeputados-querem-manter-cancelamento-de-licencas-de-emissao-de-co2/"
+     ],
+     [
+      "2026-09-15 14:29",
+      "RTP Notícias",
+      "Câmara de Sintra pondera aumentar multas para resíduos e \"monos\" na via pública",
+      "https://www.rtp.pt/noticias/pais/camara-de-sintra-pondera-aumentar-multas-para-residuos-e-monos-na-via-publica_a1765551"
+     ],
+     [
+      "2026-09-15 12:05",
+      "Ambiente Magazine",
+      "Município de Setúbal aprova projeto de alteração ao regulamento dos serviços de abastecimento de água e saneamento",
+      "https://www.ambientemagazine.com/municipio-de-setubal-aprova-projeto-de-alteracao-ao-regulamento-dos-servicos-de-abastecimento-de-agua-e-saneamento/"
+     ],
+     [
+      "2026-09-15 11:46",
+      "La Vanguardia",
+      "La gigafactoría de IA en Móra la Nova se pondrá en marcha aunque pierda el apoyo de la UE",
+      "https://www.lavanguardia.com/economia/20260915/11635332/gigafactoria-ia-mora-nova-pondra-marcha-pierda-apoyo-ue.html"
+     ],
+     [
+      "2026-09-15 10:50",
+      "Jornal Económico",
+      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
+      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
+     ],
+     [
+      "2026-09-14 15:09",
+      "Observador",
+      "Japão aprova cama magnética que trata doenças graves?",
+      "https://observador.pt/factchecks/fact-check-japao-aprovou-cama-que-trata-doencas-graves-com-recurso-a-frequencias-magneticas/"
+     ],
+     [
+      "2026-09-14 14:50",
+      "ECO",
+      "Governo cria apoio até 4,5 milhões para autocarros de emissões nulas no Alentejo Litoral",
+      "https://eco.sapo.pt/2026/09/14/governo-cria-apoio-ate-45-milhoes-para-autocarros-de-emissoes-nulas-no-alentejo-litoral/"
+     ],
+     [
+      "2026-09-14 10:47",
+      "ECO",
+      "Municípios do Alentejo Litoral vão ter 4,5 milhões para comprar autocarros limpos",
+      "https://eco.sapo.pt/2026/09/14/municipios-do-alentejo-litoral-vao-ter-45-milhoes-para-comprar-autocarros-limpos/"
+     ],
+     [
+      "2026-09-14 09:18",
+      "RTP Notícias",
+      "Novas regulações introduzem mais garantias laborais para trabalhadores domésticos em Moçambique",
+      "https://www.rtp.pt/noticias/mundo/novas-regulacoes-introduzem-mais-garantias-laborais-para-trabalhadores-domesticos-em-mocambique_n1765238"
+     ],
+     [
+      "2026-09-13 21:00",
+      "Jornal de Negócios",
+      "Líder da CCP: Transparência salarial vai trazer “mais litigância laboral”",
+      "https://www.jornaldenegocios.pt/economia/detalhe/lider-da-ccp-transparencia-salarial-vai-trazer-mais-litigancia-laboral"
+     ],
+     [
+      "2026-09-13 15:06",
+      "ECO",
+      "APS com curso sobre regulamento DORA e cibersegurança",
+      "https://eco.sapo.pt/2026/09/13/aps-com-curso-sobre-regulamento-dora-e-ciberseguranca/"
+     ],
+     [
+      "2026-09-12 20:43",
+      "Notícias ao Minuto",
+      "Novo regulamento vai reorganizar setor mineiro em Moçambique, diz Chapo",
+      "https://www.noticiasaominuto.com/mundo/3050514/novo-regulamento-vai-reorganizar-setor-mineiro-em-mocambique-diz-chapo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-09-12 20:41",
+      "Lusa",
+      "Novo regulamento vai reorganizar setor mineiro em Moçambique - PR",
+      "https://www.lusa.pt/lusofonia/article/2026-09-12/47764609/novo-regulamento-vai-reorganizar-setor-mineiro-em-mo%C3%A7ambique-pr"
+     ],
+     [
+      "2026-09-11 11:29",
+      "Ambiente Magazine",
+      "Entidades gestoras de água e saneamento têm até 2029 para se adaptar às novas regras tarifárias",
+      "https://www.ambientemagazine.com/entidades-gestoras-de-agua-e-saneamento-tem-ate-2029-para-se-adaptar-as-novas-regras-tarifarias/"
+     ],
+     [
+      "2026-09-11 00:16",
+      "Observador",
+      "Regulamento estabelece regras comuns para tarifas de águas",
+      "https://observador.pt/2026/09/11/novo-regulamento-tarifario-para-servicos-de-aguas-tem-regras-comuns-para-definir-tarifas/"
+     ],
+     [
+      "2026-09-10 17:22",
+      "Observador",
+      "Moedas com plano para o lixo, oposição ataca “privatização”",
+      "https://observador.pt/2026/09/10/o-plano-de-moedas-para-o-lixo-restaurantes-com-esplanada-tem-de-limpar-mais-grandes-produtores-sem-recolha-da-cml-e-reforco-de-fiscais/"
+     ],
+     [
+      "2026-09-10 16:40",
+      "Jornal Económico",
+      "ERSAR publica regulamento para harmonizar regras das tarifas da água",
+      "https://jornaleconomico.sapo.pt/noticias/ersar-publica-regulamento-para-harmonizar-regras-das-tarifas-da-agua/"
+     ],
+     [
+      "2026-09-10 14:52",
+      "ECO",
+      "Capital Europeia da Cultura com novas regras e candidaturas transfronteiriças. Portugal só volta ao calendário em 2040",
+      "https://eco.sapo.pt/2026/09/10/capital-europeia-da-cultura-com-novas-regras-e-candidaturas-transfronteiricas-portugal-so-volta-ao-calendario-em-2040/"
+     ],
+     [
+      "2026-09-10 14:26",
+      "Jornal Económico",
+      "Abanca abre candidaturas à 13.ª edição do programa Innova centrado em IA e criptoativos",
+      "https://jornaleconomico.sapo.pt/noticias/abanca-abre-candidaturas-a-13-a-edicao-do-programa-innova-centrado-em-ia-e-criptoativos/"
+     ],
+     [
+      "2026-09-10 07:41",
+      "ECO",
+      "Russiagate. Câmara de Lisboa condenada a pagar 463 mil euros",
+      "https://eco.sapo.pt/2026/09/10/russiagate-camara-de-lisboa-condenada-a-pagar-463-mil-euros/"
+     ],
+     [
+      "2026-09-09 23:41",
+      "Observador",
+      "Lojas com História: consulta pública de regulamento aprovada",
+      "https://observador.pt/2026/09/09/camara-de-lisboa-aprova-consulta-publica-de-novo-regulamento-das-lojas-com-historia/"
+     ],
+     [
+      "2026-09-09 18:14",
+      "Correio da Manhã",
+      "Setúbal aprovou alterações ao regulamento dos serviços de abastecimento de água",
+      "https://www.cmjornal.pt/politica/amp/setubal-aprovou-alteracoes-ao-regulamento-dos-servicos-de-abastecimento-de-agua"
+     ],
+     [
+      "2026-09-09 13:59",
+      "Jornal de Negócios",
+      "ALEP diz que Comissão Europeia falha na proposta para clarificar regulamento do alojamento local",
+      "https://www.jornaldenegocios.pt/economia/detalhe/alep-diz-que-comissao-europeia-falha-na-proposta-para-clarificar-regulamento-do-alojamento-local"
+     ],
+     [
+      "2026-09-09 12:00",
+      "Jornal de Negócios",
+      "Portugal arrisca falhar aplicação das novas regras contra o \"greenwashing\"",
+      "https://www.jornaldenegocios.pt/sustentabilidade/governacao/detalhe/portugal-arrisca-falhar-aplicacao-das-novas-regras-contra-o-greenwashing"
+     ],
+     [
+      "2026-09-08 16:10",
+      "ECO",
+      "Lisboa quer proteger mais Lojas com História e reforçar apoios",
+      "https://eco.sapo.pt/2026/09/08/lisboa-quer-proteger-mais-lojas-com-historia-e-reforcar-apoios/"
+     ],
+     [
+      "2026-09-08 15:33",
+      "Correio da Manhã",
+      "Câmara de Lisboa avança com novo regulamento para reforçar apoios a Lojas com História",
+      "https://www.cmjornal.pt/sociedade/amp/camara-de-lisboa-avanca-com-novo-regulamento-para-reforcar-apoios-a-lojas-com-historia"
      ]
     ]
-   }
-  },
+   },
+   "conjunta": [
+    "Comissão de Economia e Coesão Territorial"
+   ],
+   "ids_ar": [
+    48666,
+    48668
+   ],
+   "tituloRegras": true,
+   "amalia": {
+    "assunto": "Soberania Tecnológica, Segurança e Democracia",
+    "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia sobre a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e o regulamento sobre o Passaporte Europeu de Segurança Social.",
+    "uo": [
+     "DAPL",
+     "UPE"
+    ],
+    "justificacao": "A DAPL assegura o apoio técnico ao processo legislativo europeu e a UPE fornece informação legislativa e dados estatísticos relevantes para a tomada de decisão.",
+    "expressoes": [
+     "Comissão Europeia",
+     "Diretiva",
+     "Regulamento",
+     "Passaporte Europeu de Segurança Social",
+     "Soberania Tecnológica"
+    ]
+   },
+   "expressoes": [
+    "Comissão Europeia",
+    "Diretiva",
+    "Regulamento",
+    "Passaporte Europeu de Segurança Social",
+    "Soberania Tecnológica"
+   ],
+   "varrimento": "2026-11-10-48666-soberania-tecnol-gica-seguran-a-e-democraci"
+  }
+ ],
+ "agenda": [
   {
-   "tema": "Comissão de Assuntos Europeus",
+   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera",
    "data": "2026-11-09",
    "hora": "16h00",
    "interveniente": "",
@@ -9650,10 +10473,11 @@
      ]
     ]
    },
-   "retirado": "2026-11-07"
+   "retirado": "2026-11-07",
+   "tituloRegras": true
   },
   {
-   "tema": "Comissão de Ambiente e Energia",
+   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera",
    "data": "2026-11-09",
    "hora": "16h00",
    "interveniente": "",
@@ -9815,10 +10639,11 @@
      ]
     ]
    },
-   "retirado": "2026-11-07"
+   "retirado": "2026-11-07",
+   "tituloRegras": true
   },
   {
-   "tema": "Comissão de Economia e Coesão Territorial",
+   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera",
    "data": "2026-11-09",
    "hora": "16h00",
    "interveniente": "",
@@ -9980,7 +10805,8 @@
      ]
     ]
    },
-   "retirado": "2026-11-07"
+   "retirado": "2026-11-07",
+   "tituloRegras": true
   },
   {
    "tema": "Audiências do Grupo Parlamentar PSD",
@@ -10184,387 +11010,7 @@
    "retirado": "2026-11-07"
   },
   {
-   "tema": "Comissão de Assuntos Europeus",
-   "data": "2026-11-10",
-   "hora": "09h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 64",
-   "resumo": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europe",
-   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos",
-   "orgao": "Comissão de Assuntos Europeus",
-   "id_ar": 48666,
-   "chave": "ar-48666",
-   "dataLabel": "terça, 10 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DACDP",
-    "DAPL"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "«diretiva» (DAPL)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Manhã",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
-    }
-   ],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 21,
-    "n7": 0,
-    "n7ant": 1,
-    "dias": 60,
-    "ref": "2026-11-07",
-    "metodo": "palavras",
-    "ultima": "2026-10-25 15:07",
-    "ultimas": [
-     {
-      "data": "2026-10-25",
-      "fonte": "RTP Notícias",
-      "titulo": "Vice-presidente brasileiro diz que vencerá democracia",
-      "url": "https://www.rtp.pt/noticias/mundo/vice-presidente-brasileiro-diz-que-vencera-democracia_v1774201"
-     },
-     {
-      "data": "2026-10-23",
-      "fonte": "Jornal Económico",
-      "titulo": "Seixal aprova investimento de 2,1 milhões para reforçar rede de abastecimento de água",
-      "url": "https://jornaleconomico.sapo.pt/noticias/seixal-aprova-investimento-de-21-milhoes-para-reforcar-rede-de-abastecimento-de-agua/"
-     },
-     {
-      "data": "2026-10-20",
-      "fonte": "RTP Notícias",
-      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     }
-    ],
-    "todas": [
-     [
-      "2026-10-25 15:07",
-      "RTP Notícias",
-      "Vice-presidente brasileiro diz que vencerá democracia",
-      "https://www.rtp.pt/noticias/mundo/vice-presidente-brasileiro-diz-que-vencera-democracia_v1774201"
-     ],
-     [
-      "2026-10-23 22:29",
-      "Jornal Económico",
-      "Seixal aprova investimento de 2,1 milhões para reforçar rede de abastecimento de água",
-      "https://jornaleconomico.sapo.pt/noticias/seixal-aprova-investimento-de-21-milhoes-para-reforcar-rede-de-abastecimento-de-agua/"
-     ],
-     [
-      "2026-10-20 16:14",
-      "RTP Notícias",
-      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     ],
-     [
-      "2026-10-20 15:31",
-      "ECO",
-      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
-     ],
-     [
-      "2026-10-15 16:20",
-      "Açoriano Oriental",
-      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
-      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
-     ],
-     [
-      "2026-10-14 15:47",
-      "ECO",
-      "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
-      "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
-     ],
-     [
-      "2026-10-14 00:08",
-      "Observador",
-      "A República deve ter uma Vice-Presidente",
-      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
-     ],
-     [
-      "2026-10-13 06:57",
-      "ECO",
-      "Novos Avisos STEP: mais quatro “passos” para dinamizar o investimento empresarial",
-      "https://eco.sapo.pt/opiniao/novos-avisos-step-mais-quatro-passos-para-dinamizar-o-investimento-empresarial/"
-     ],
-     [
-      "2026-10-08 12:37",
-      "SAPO Tek",
-      "Soberania tecnológica: a nova urgência europeia",
-      "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/"
-     ],
-     [
-      "2026-10-01 13:41",
-      "Jornal Económico",
-      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
-      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
-     ],
-     [
-      "2026-09-23 14:57",
-      "Jornal de Notícias",
-      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
-      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
-     ],
-     [
-      "2026-09-23 11:45",
-      "ECO",
-      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
-      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
-     ],
-     [
-      "2026-09-22 11:08",
-      "Público",
-      "Vice-presidente do PSD Leonor Beleza defende que país precisa de “medidas difíceis”",
-      "https://www.publico.pt/2026/09/22/politica/noticia/vicepresidente-psd-leonor-beleza-defende-pais-precisa-medidas-dificeis-2188868"
-     ],
-     [
-      "2026-09-19 17:24",
-      "ECO",
-      "Líder da Paul Weiss investe em luxo no Algarve",
-      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
-     ],
-     [
-      "2026-09-19 07:13",
-      "Observador",
-      "7h. Passos Coelho pede ousadia ao Governo de Luís Montenegro",
-      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2510/"
-     ],
-     [
-      "2026-09-17 15:03",
-      "ECO",
-      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
-      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
-     ],
-     [
-      "2026-09-17 10:00",
-      "JM Madeira",
-      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
-     ],
-     [
-      "2026-09-17 07:07",
-      "Diário de Notícias da Madeira",
-      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
-     ],
-     [
-      "2026-09-16 09:18",
-      "Diário de Notícias da Madeira",
-      "Representante da República recebe Vice-Presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
-     ],
-     [
-      "2026-09-14 13:35",
-      "RTP Notícias",
-      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     ],
-     [
-      "2026-09-09 22:59",
-      "Observador",
-      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
-      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
-     ]
-    ]
-   }
-  },
-  {
-   "tema": "Comissão de Economia e Coesão Territorial",
-   "data": "2026-11-10",
-   "hora": "09h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Economia e Coesão Territorial · Reunião n.º 23 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n [conjunta com a Comissão de Assuntos Europeus]",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n [conjunta com a Comissão de Assuntos Europeus]",
-   "orgao": "Comissão de Economia e Coesão Territorial",
-   "id_ar": 48668,
-   "chave": "ar-48668",
-   "dataLabel": "terça, 10 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Manhã",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
-    }
-   ],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 21,
-    "n7": 0,
-    "n7ant": 1,
-    "dias": 60,
-    "ref": "2026-11-07",
-    "metodo": "palavras",
-    "ultima": "2026-10-25 15:07",
-    "ultimas": [
-     {
-      "data": "2026-10-25",
-      "fonte": "RTP Notícias",
-      "titulo": "Vice-presidente brasileiro diz que vencerá democracia",
-      "url": "https://www.rtp.pt/noticias/mundo/vice-presidente-brasileiro-diz-que-vencera-democracia_v1774201"
-     },
-     {
-      "data": "2026-10-23",
-      "fonte": "Jornal Económico",
-      "titulo": "Seixal aprova investimento de 2,1 milhões para reforçar rede de abastecimento de água",
-      "url": "https://jornaleconomico.sapo.pt/noticias/seixal-aprova-investimento-de-21-milhoes-para-reforcar-rede-de-abastecimento-de-agua/"
-     },
-     {
-      "data": "2026-10-20",
-      "fonte": "RTP Notícias",
-      "titulo": "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "url": "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     }
-    ],
-    "todas": [
-     [
-      "2026-10-25 15:07",
-      "RTP Notícias",
-      "Vice-presidente brasileiro diz que vencerá democracia",
-      "https://www.rtp.pt/noticias/mundo/vice-presidente-brasileiro-diz-que-vencera-democracia_v1774201"
-     ],
-     [
-      "2026-10-23 22:29",
-      "Jornal Económico",
-      "Seixal aprova investimento de 2,1 milhões para reforçar rede de abastecimento de água",
-      "https://jornaleconomico.sapo.pt/noticias/seixal-aprova-investimento-de-21-milhoes-para-reforcar-rede-de-abastecimento-de-agua/"
-     ],
-     [
-      "2026-10-20 16:14",
-      "RTP Notícias",
-      "PSD acusa socialistas de serem os responsáveis pela crise na habitação",
-      "https://www.rtp.pt/noticias/pais/psd-acusa-socialistas-de-serem-os-responsaveis-pela-crise-na-habitacao_n1772997"
-     ],
-     [
-      "2026-10-20 15:31",
-      "ECO",
-      "PSD acusa PS de ser “responsável” pela crise da habitação mas está aberto a debater “propostas complementares”",
-      "https://eco.sapo.pt/2026/10/20/psd-acusa-ps-de-ser-responsavel-pela-crise-da-habitacao-mas-esta-aberto-a-debater-propostas-complementares/"
-     ],
-     [
-      "2026-10-15 16:20",
-      "Açoriano Oriental",
-      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
-      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
-     ],
-     [
-      "2026-10-14 15:47",
-      "ECO",
-      "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
-      "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
-     ],
-     [
-      "2026-10-14 00:08",
-      "Observador",
-      "A República deve ter uma Vice-Presidente",
-      "https://observador.pt/opiniao/a-republica-deve-ter-uma-vice-presidente/"
-     ],
-     [
-      "2026-10-13 06:57",
-      "ECO",
-      "Novos Avisos STEP: mais quatro “passos” para dinamizar o investimento empresarial",
-      "https://eco.sapo.pt/opiniao/novos-avisos-step-mais-quatro-passos-para-dinamizar-o-investimento-empresarial/"
-     ],
-     [
-      "2026-10-08 12:37",
-      "SAPO Tek",
-      "Soberania tecnológica: a nova urgência europeia",
-      "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/"
-     ],
-     [
-      "2026-10-01 13:41",
-      "Jornal Económico",
-      "Mondelez nomeia Richard Trechman como responsável pelas operações na Península Ibérica",
-      "https://jornaleconomico.sapo.pt/noticias/mondelez-nomeia-richard-trechman-como-responsavel-pelas-operacoes-na-peninsula-iberica/"
-     ],
-     [
-      "2026-09-23 14:57",
-      "Jornal de Notícias",
-      "Juíza portuguesa nomeada vice-presidente de Tribunal Geral da União Europeia",
-      "https://www.jn.pt/amp/18129678/juiza-portuguesa-nomeada-vice-presidente-de-tribunal-geral-da-uniao-europeia"
-     ],
-     [
-      "2026-09-23 11:45",
-      "ECO",
-      "Maria José Costeira eleita vice-presidente do Tribunal Geral da União Europeia",
-      "https://eco.sapo.pt/2026/09/23/maria-jose-costeira-eleita-vice-presidente-do-tribunal-geral-da-uniao-europeia/"
-     ],
-     [
-      "2026-09-22 11:08",
-      "Público",
-      "Vice-presidente do PSD Leonor Beleza defende que país precisa de “medidas difíceis”",
-      "https://www.publico.pt/2026/09/22/politica/noticia/vicepresidente-psd-leonor-beleza-defende-pais-precisa-medidas-dificeis-2188868"
-     ],
-     [
-      "2026-09-19 17:24",
-      "ECO",
-      "Líder da Paul Weiss investe em luxo no Algarve",
-      "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/"
-     ],
-     [
-      "2026-09-19 07:13",
-      "Observador",
-      "7h. Passos Coelho pede ousadia ao Governo de Luís Montenegro",
-      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2510/"
-     ],
-     [
-      "2026-09-17 15:03",
-      "ECO",
-      "Vice da Comissão Europeia diz que é possível mitigar riscos nos fundos para a Madeira",
-      "https://eco.sapo.pt/2026/09/17/vice-da-comissao-europeia-diz-que-e-possivel-mitigar-riscos-nos-fundos-para-a-madeira/"
-     ],
-     [
-      "2026-09-17 10:00",
-      "JM Madeira",
-      "Elenco governativo reúne-se com vice-presidente da Comissão Europeia no salão nobre do GR",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005249/elenco-governativo-reune-se-com-vice-presidente-da-comissao-europeia-no-salao-nobre-do-gr.html"
-     ],
-     [
-      "2026-09-17 07:07",
-      "Diário de Notícias da Madeira",
-      "Madeira recebe a visita de vice-presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/17/505704-madeira-recebe-a-visita-de-vice-presidente-da-comissao-europeia/"
-     ],
-     [
-      "2026-09-16 09:18",
-      "Diário de Notícias da Madeira",
-      "Representante da República recebe Vice-Presidente da Comissão Europeia",
-      "https://www.dnoticias.pt/2026/9/16/505585-representante-da-republica-recebe-vice-presidente-da-comissao-europeia/"
-     ],
-     [
-      "2026-09-14 13:35",
-      "RTP Notícias",
-      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     ],
-     [
-      "2026-09-09 22:59",
-      "Observador",
-      "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
-      "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
-     ]
-    ]
-   }
-  },
-  {
-   "tema": "Comissão de Assuntos Europeus",
+   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
    "data": "2026-11-10",
    "hora": "09h00",
    "interveniente": "",
@@ -10752,10 +11198,11 @@
      ]
     ]
    },
-   "retirado": "2026-11-07"
+   "retirado": "2026-11-07",
+   "tituloRegras": true
   },
   {
-   "tema": "Comissão de Economia e Coesão Territorial",
+   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
    "data": "2026-11-10",
    "hora": "09h00",
    "interveniente": "",
@@ -10941,7 +11388,8 @@
      ]
     ]
    },
-   "retirado": "2026-11-07"
+   "retirado": "2026-11-07",
+   "tituloRegras": true
   },
   {
    "tema": "Conselho de Administração",

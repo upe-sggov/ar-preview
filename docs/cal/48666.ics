@@ -6,18 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48666@ar-preview
-DTSTAMP:20261107T224052Z
+DTSTAMP:20261107T235320Z
 DTSTART:20261110T090000Z
 DTEND:20261110T110000Z
-SUMMARY:AR · Comissão de Assuntos Europeus
+SUMMARY:AR · Soberania Tecnológica\, Segurança e Democracia
 LOCATION:Assembleia da República
-DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 64\nSíntese: 
- Audição com a Vice-Presidente Executiva da Comissão Europeia\, Henna V
- irkkunen\, responsável pelo pelouro da Soberania Tecnológica\, Seguran
- ça…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/4CAE/P
- aginas/default.aspx\nEmissões em direto (quando houver): https://canal.p
- arlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora 
- de fim indicativa\; a agenda da AR pode mudar.
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta
+  com Comissão de Economia e Coesão Territorial\nSíntese: Audição com
+  a Vice-Presidente Executiva da Comissão Europeia\, Henna Virkkunen\, re
+ sponsável pelo pelouro da Soberania Tecnológica\, Segurança…\nPágin
+ a na AR: https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default
+ .aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\
+ nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicat
+ iva\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
