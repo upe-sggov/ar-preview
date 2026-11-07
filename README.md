@@ -1,6 +1,6 @@
 # AR Preview — a semana na Assembleia da República
 
-Agenda parlamentar semanal para os dirigentes da área de Suporte à Decisão da Secretaria-Geral do Governo, triada por prioridade (Imediato, Vigilância, Registo), com cobertura mediática e fichas de varrimento. Desde 2 de novembro de 2026 as matérias não levam etiquetas de unidade orgânica (decisão da Direção).
+Agenda parlamentar semanal para os dirigentes da área de Suporte à Decisão da Secretaria-Geral do Governo, triada por prioridade (Imediato, Vigilância, Registo), com cobertura mediática e fichas de fundo mediático. Desde 2 de novembro de 2026 as matérias não levam etiquetas de unidade orgânica (decisão da Direção).
 
 **Página:** https://upe-sggov.github.io/ar-preview/ (repositório `upe-sggov/ar-preview`; até 30 de outubro de 2026 esteve em `celine-mestre/ar-ahead`)
 **Responsável:** Unidade de Pesquisa e Estatísticas (UPE)
@@ -116,7 +116,7 @@ A agenda vem exclusivamente da Assembleia da República: não se acrescentam mat
   - A seleção é feita ao longo dos 60 dias: cerca de 40 % da última semana e o resto repartido pelas semanas anteriores na proporção da cobertura, com preferência pelo assunto no título e pela variedade de órgãos e de dias.
   - **O Amália** corre como no Radar de Notícias: pesos abertos (layerx-labs/AMALIA-9B-0626-DPO-GGUF, Apache 2.0) descarregados do Hugging Face e guardados em cache, no próprio servidor do GitHub, sem segredo nem serviço externo. Sem placa gráfica é lento: no máximo 120 minutos de fichas por atualização (`AMALIA_MINUTOS`); o que faltar fica para a seguinte, e entretanto a ficha mostra a seleção de notícias do Radar, sem análise. Se o modelo falhar, as fichas ficam só com as notícias.
   - **Triagem pelo Amália**: escreve o assunto e as expressões de pesquisa das matérias Imediato e Vigilância. A prioridade não é dele: segue sempre os critérios da UPE.
-  - **Com o Amália:** a mesma seleção (amostra de até 20/8 notícias: dias de pico, jornais diferentes, as mais recentes), lida pelo Amália: resumo da cobertura, síntese e natureza de cada notícia (Crítica, Relevante, Positiva, Contextual). As restantes ficam na lista completa da página, só com título e jornal e sem etiqueta. Nada vem dos varrimentos feitos pela equipa da UPE.
+  - **Com o Amália:** a mesma seleção (amostra de até 20/8 notícias: dias de pico, jornais diferentes, as mais recentes), lida pelo Amália: resumo da cobertura, síntese e natureza de cada notícia (Crítica, Relevante, Positiva, Contextual). As restantes ficam na lista completa da página, só com título e jornal e sem etiqueta. Nada vem dos fundos mediáticos feitos pela equipa da UPE.
   - As fichas são refeitas até à segunda-feira da semana da matéria quando há notícias novas, quando passam de curta a completa e quando uma ficha sem notícias passa a ter notícias. A mesma matéria em vários dias (por exemplo, duas sessões do mesmo debate) partilha a ficha.
   - `python scripts/amalia_varrimento.py --verificar` diz o que há para fazer, sem carregar o modelo.
 - **Triagem:** `amalia_triagem.py` propõe o assunto e as expressões de pesquisa das matérias Imediato e Vigilância que ainda não os têm.

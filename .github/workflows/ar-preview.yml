@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
     inputs:
       passo:
-        description: 'atualizar | enviar'
+        description: 'atualizar | enviar | teste (envia só para a conta remetente, sem dirigentes nem registo)'
         default: 'atualizar'
 
 permissions:
@@ -127,7 +127,7 @@ jobs:
           attachments: dados/triagem_semana.csv
 
   enviar:
-    if: (github.event_name == 'schedule' && endsWith(github.event.schedule, '* * 1')) || github.event.inputs.passo == 'enviar'
+    if: (github.event_name == 'schedule' && endsWith(github.event.schedule, '* * 1')) || github.event.inputs.passo == 'enviar' || github.event.inputs.passo == 'teste'
     runs-on: ubuntu-latest
     env:
       SMTP_OK: ${{ secrets.SMTP_SERVER != '' && 'sim' || 'nao' }}
@@ -150,7 +150,8 @@ jobs:
         id: corpo
         run: |
           python scripts/email_resumo.py dados/agenda.json assunto.txt > email.html
-          echo "assunto=$(cat assunto.txt)" >> $GITHUB_OUTPUT
+          P=""; if [ "${{ github.event.inputs.passo }}" = "teste" ]; then P="[TESTE] "; fi
+          echo "assunto=${P}$(cat assunto.txt)" >> $GITHUB_OUTPUT
       - name: Enviar aos dirigentes
         id: envio
         if: env.SMTP_OK == 'sim' && steps.ja.outputs.enviado == 'nao'
@@ -162,11 +163,11 @@ jobs:
           password: ${{ secrets.SMTP_PASS }}
           from: AR Preview      # nome que aparece como remetente; o endereço é o da conta SMTP (SMTP_USER)
           to: ${{ secrets.SMTP_USER }}             # o remetente recebe em «Para»; os dirigentes seguem em cópia oculta
-          bcc: ${{ secrets.DIRIGENTES_DSSD }}      # Cco: ninguém vê os endereços dos outros destinatários
+          bcc: ${{ github.event.inputs.passo != 'teste' && secrets.DIRIGENTES_DSSD || '' }}      # Cco (no teste, ninguém além do remetente)
           subject: ${{ steps.corpo.outputs.assunto }}
           html_body: file://email.html   # sem anexo: o PDF está na página (botão Imprimir / PDF)
       - name: Registar o envio (as corridas agendadas seguintes desta edição não voltam a enviar)
-        if: steps.envio.outcome == 'success'
+        if: steps.envio.outcome == 'success' && github.event.inputs.passo != 'teste'
         run: |
           echo "${{ steps.ja.outputs.edicao }}" > docs/.enviado
           git config user.name "ar-preview-bot"; git config user.email "upe@sggoverno.gov.pt"

@@ -146,6 +146,8 @@ def procurar(x, arts):
     # «Orçamento, Finanças e Administração Pública» apanhava as mesmas notícias genéricas em todas as reuniões)
     return _procurar(x, arts, assunto(x), nomes=so_orgao(x))
 
+GERAL = 150   # notícias em 60 dias a partir das quais uma expressão de pesquisa é demasiado geral
+
 def _procurar(x, arts, texto, nomes=True, folga=True):
     if not x.get('expressoes'):
         auto = expressoes_auto(x)
@@ -155,6 +157,20 @@ def _procurar(x, arts, texto, nomes=True, folga=True):
     # as da revisão humana (correcoes.csv) mandam sempre
     if exps and x.get('amalia') and not x.get('validado') and so_orgao(x) and (membros_governo(x) or entidades(x)):
         exps = []
+    if exps and not x.get('validado') and len(exps) > 1:
+        # expressões demasiado gerais («Comissão de Inquérito», «Polícia Judiciária», o nome de um ministro) apanham centenas de
+        # notícias que não são sobre a matéria: uma expressão que sozinha aparece em mais de GERAL notícias só conta junto com outra
+        # expressão da matéria (ex.: «Luís Neves» + «Polícia Judiciária»); as precisas contam sozinhas
+        rxs = {e: re.compile(r'\b' + re.escape(e) + r'\b') for e in exps}
+        conta = {e: sum(1 for a in arts if rxs[e].search(a['_t'])) for e in exps}
+        gerais = {e for e in exps if conta[e] > GERAL}
+        if gerais:
+            res = []
+            for a in arts:
+                hit = [e for e in exps if rxs[e].search(a['_t'])]
+                if any(e not in gerais for e in hit) or len(hit) >= 2: res.append(a)
+            res.sort(key=lambda a: a.get('data', ''), reverse=True)
+            return res
     if exps:   # expressões de pesquisa definidas (pelo Amália ou pela revisão humana): muito mais precisas
         rx = re.compile(r'\b(' + '|'.join(re.escape(e) for e in exps) + r')\b')
         res = [a for a in arts if rx.search(a['_t'])]
@@ -226,7 +242,7 @@ if __name__ == '__main__':
             'contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e contam '
             'também o nome do membro do Governo ouvido — o escrito nessa reunião ou o que a AR publica para o mesmo cargo noutra reunião '
             'da semana — e o nome ou a sigla da entidade ouvida, sempre junto com o assunto; o nome do ministro conta também junto com palavras da sua pasta). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; '
-            'a lista completa das notícias encontradas está disponível em cada matéria. As fichas de varrimento analisam uma amostra '
+            'a lista completa das notícias encontradas está disponível em cada matéria. As fichas de fundo mediático analisam uma amostra '
             'escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes).')
     d['metodologia'] = [m for m in d.get('metodologia', []) if not m.startswith('Cobertura mediática:')] + [NOTA]
     p.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding='utf-8')

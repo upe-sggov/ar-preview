@@ -426,7 +426,7 @@ body.capa-aberta{overflow:hidden}
     <p class="lead" id="hero-lead"></p>
     <div class="hero-kpis" id="hero-kpis"></div>
     <button class="cta" id="hero-cta"><svg class="ic"><use href="#i-list"/></svg>Entrar na agenda</button>
-    <div class="leg"><span><i class="ime"></i>imediato</span><span><i class="vig"></i>vigilância</span><span><i></i>registo</span><span><i class="anel"></i>com ficha de varrimento</span><span>cada lugar é uma matéria · quanto mais perto da Mesa, mais pertinente: anel interior imediato, meio vigilância, exterior registo · da esquerda para a direita, da manhã para a tarde · clique num lugar para ver a matéria</span></div>
+    <div class="leg"><span><i class="ime"></i>imediato</span><span><i class="vig"></i>vigilância</span><span><i></i>registo</span><span><i class="anel"></i>com ficha de fundo mediático</span><span>cada lugar é uma matéria · quanto mais perto da Mesa, mais pertinente: anel interior imediato, meio vigilância, exterior registo · da esquerda para a direita, da manhã para a tarde · clique num lugar para ver a matéria</span></div>
   </div>
   <div class="hemi"><svg id="hemi" viewBox="0 0 800 430" role="img" aria-label="AR Preview — hemiciclo da semana: uma matéria por lugar, agrupadas por dia"></svg></div>
 </div></section>
@@ -447,7 +447,7 @@ body.capa-aberta{overflow:hidden}
     <div class="cal"><div class="cal-top"><button id="cal-ant" aria-label="Mês anterior">‹</button><b id="cal-mes"></b><button id="cal-seg" aria-label="Mês seguinte">›</button></div><div class="cal-g" id="cal-g"></div><div class="cal-leg"><span><i class="ime"></i>imediato</span><span><i class="vig"></i>vigilância</span><span><i></i>registo</span><span><b class="sq hist"></b>edições anteriores</span><span><b class="sq fut"></b>semanas seguintes</span><button class="limpar" id="cal-limpar" hidden>Limpar seleção</button></div></div>
     <div class="ad"><div class="ad-top"><b id="ad-titulo">Agenda da semana</b><span id="ad-sub"></span></div><div id="ad-lista"></div></div>
   </div>
-  <h2 id="t-destaques"><svg class="ic"><use href="#i-layers"/></svg>Destaques com varrimento mediático<small id="n-destaques"></small></h2>
+  <h2 id="t-destaques"><svg class="ic"><use href="#i-layers"/></svg>Destaques com fundo mediático<small id="n-destaques"></small></h2>
   <div class="grelha" id="g-destaques"></div>
   <h2 id="t-agenda"><svg class="ic"><use href="#i-list"/></svg>Mais na agenda<small id="n-agenda"></small></h2>
   <div class="aviso" id="aviso"><svg class="ic"><use href="#i-info"/></svg><div id="aviso-txt"></div></div>
@@ -491,32 +491,32 @@ body.capa-aberta{overflow:hidden}
       <li>Só no <b>Radar de Notícias por área governativa</b> da UPE: órgãos de comunicação social nacionais, notícias dos <b>últimos 60 dias</b>, pesquisadas no título e no resumo. As ligações abrem diretamente o artigo do jornal.</li>
       <li>Em cada matéria procura-se o assunto, não o nome do órgão: nas audições, o membro do Governo ou a entidade ouvida, junto com o assunto (por exemplo, o Orçamento) ou com a pasta do ministro; nas restantes reuniões, as expressões distintivas da ordem de trabalhos; nas matérias recorrentes (Orçamento do Estado, Conta Geral do Estado, PRR…), expressões fixas.</li>
       <li>Os números de notícias são indicativos: mostram-se os últimos 7 dias, a comparação com os 7 anteriores e o total em 60 dias. A lista completa exporta-se para Excel em cada matéria.</li>
-      <li><b>Fichas de varrimento</b>: das notícias que o Radar de Notícias encontrou para a matéria, escolhe-se uma amostra ao longo dos 60 dias — os dias de pico, jornais diferentes e as mais recentes; até 20 nas matérias Imediato, até 8 nas de Vigilância. Só a amostra é lida pelo Amália, que resume a cobertura, escreve uma síntese de cada notícia e classifica a sua natureza em relação à matéria:
+      <li><b>Fundo mediático automático</b>: das notícias que o Radar de Notícias encontrou para a matéria, escolhe-se uma amostra ao longo dos 60 dias — os dias de pico, jornais diferentes e as mais recentes; até 20 nas matérias Imediato, até 8 nas de Vigilância. Só a amostra é lida pelo Amália, que resume a cobertura, escreve uma síntese de cada notícia e classifica a sua natureza em relação à matéria:
         <span class="nat critica">Crítica</span> crítica, acusação, polémica ou problema que pode ser levantado contra o Governo ou a medida na reunião;
         <span class="nat relevante">Relevante</span> diretamente sobre a matéria (medidas, números, posições dos intervenientes), sem polémica;
         <span class="nat positivo">Positiva</span> sobre a matéria, em tom favorável (anúncio, resultado, apoio ou elogio);
         <span class="nat contexto">Contextual</span> enquadramento geral ou menção lateral.
-        A classificação é automática, a partir do título e do resumo de cada notícia, e não é revista. As restantes notícias ficam na lista completa, só com título e jornal. Tudo vem do Radar; nada vem dos varrimentos feitos pela equipa da UPE.</li>
+        A classificação é automática, a partir do título e do resumo de cada notícia, e não é revista. As restantes notícias ficam na lista completa, só com título e jornal. Tudo vem do Radar; nada vem dos fundos mediáticos feitos pela equipa da UPE.</li>
     </ul>
 
     <h3>Como ler o hemiciclo</h3>
     <p>Cada lugar é uma matéria da semana. Quanto mais perto da Mesa, mais pertinente: anel interior Imediato, meio Vigilância, exterior Registo. Da esquerda para a direita, os dias da semana; dentro de cada dia, da manhã para a tarde. Clicar num lugar mostra a matéria; os filtros apagam os lugares que não correspondem.</p>
 
     <h3>Email de segunda-feira</h3>
-    <p>Na segunda-feira de manhã, os dirigentes recebem a lista de todas as reuniões da semana, com a prioridade, o membro do Governo presente, uma síntese curta das matérias Imediato e Vigilância, a ligação à página da comissão na AR, a ligação à ficha de varrimento e a opção de as acrescentar ao calendário do Outlook. O PDF não segue em anexo: está na página. As emissões em direto, quando as há, estão no <a href="https://canal.parlamento.pt/" target="_blank" rel="noopener">Canal Parlamento</a>.</p>
+    <p>Na segunda-feira de manhã, os dirigentes recebem a lista de todas as reuniões da semana, com a prioridade, o membro do Governo presente, uma síntese curta das matérias Imediato e Vigilância, a ligação à página da comissão na AR, a ligação à ficha de fundo mediático e a opção de as acrescentar ao calendário do Outlook. O PDF não segue em anexo: está na página. As emissões em direto, quando as há, estão no <a href="https://canal.parlamento.pt/" target="_blank" rel="noopener">Canal Parlamento</a>.</p>
 
     <h3>Pedidos e correções</h3>
-    <p>Pedidos de varrimento, dossiers a acompanhar e correções de classificação: <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview">upe@sggoverno.gov.pt</a>.</p>
+    <p>Pedidos de fundo mediático, dossiers a acompanhar e correções de classificação: <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview">upe@sggoverno.gov.pt</a>.</p>
   </div>
 </dialog>
 <div class="veu" id="veu"></div>
 <aside class="gaveta" id="gaveta" aria-hidden="true">
   <div class="g-top"><div><h2 id="g-titulo"></h2><p class="meta" id="g-meta"></p></div><button class="fechar" id="g-fechar" aria-label="Fechar"><svg class="ic"><use href="#i-x"/></svg></button></div>
   <div class="g-corpo" id="g-corpo"></div>
-  <div class="g-foot"><span>Fontes com data e ligação. Varrimento amostral, não exaustivo.</span><span class="g-acoes"><button type="button" id="g-exportar" data-exportar hidden>Exportar para Excel</button><button type="button" data-imprimir-gaveta>Imprimir / PDF</button></span><span id="g-nav"></span></div>
+  <div class="g-foot"><span>Fontes com data e ligação. Seleção amostral, não exaustiva.</span><span class="g-acoes"><button type="button" id="g-exportar" data-exportar hidden>Exportar para Excel</button><button type="button" data-imprimir-gaveta>Imprimir / PDF</button></span><span id="g-nav"></span></div>
 </aside>
 
-<footer><div class="ftr"><span><strong>Secretaria-Geral do Governo</strong> · Suporte à Decisão</span><span id="f-edicao"></span><span>Pedidos de varrimento: <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview%20%E2%80%94%20pedido%20de%20varrimento" style="color:#fff">upe@sggoverno.gov.pt</a></span></div></footer>
+<footer><div class="ftr"><span><strong>Secretaria-Geral do Governo</strong> · Suporte à Decisão</span><span id="f-edicao"></span><span>Pedidos de fundo mediático: <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview%20%E2%80%94%20pedido%20de%20fundo%20medi%C3%A1tico" style="color:#fff">upe@sggoverno.gov.pt</a></span></div></footer>
 
 <script id="dados" type="application/json">__DATA__</script>
 <script>
@@ -559,7 +559,7 @@ body.capa-aberta{overflow:hidden}
       else if (o.dataset.f) location.href = BASE_ED + o.dataset.f;
     });
   }
-  $('#aviso-txt').innerHTML = `<strong>Nesta secção não há fichas completas.</strong> As matérias em vigilância podem ter ficha curta automática e todas têm a lista das notícias encontradas no Radar de Notícias. O varrimento das restantes faz-se a pedido, pelo botão «Pedir varrimento» de cada cartão ou por email para <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview%20%E2%80%94%20pedido%20de%20varrimento">upe@sggoverno.gov.pt</a>.`;
+  $('#aviso-txt').innerHTML = `<strong>Nesta secção não há fichas completas.</strong> As matérias em vigilância podem ter ficha curta automática e todas têm a lista das notícias encontradas no Radar de Notícias. O fundo mediático das restantes faz-se a pedido, pelo botão «Pedir fundo mediático» de cada cartão ou por email para <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview%20%E2%80%94%20pedido%20de%20fundo%20medi%C3%A1tico">upe@sggoverno.gov.pt</a>.`;
   if (retiradas.length) { const r=$('#retiradas'); r.hidden=false; r.innerHTML = `<b>Deixaram de constar da agenda da AR (${retiradas.length})</b><ul>${retiradas.map(x=>`<li><s>${esc(x.tema)}</s> · ${esc(x.dataLabel)}${x.hora?' '+esc(x.hora):''} · retirada a ${esc(fmtD(x.retirado))}</li>`).join('')}</ul>`; }
   $('#disc').textContent = D.disclaimer; $('#metod').innerHTML = D.metodologia.map(m=>`<li>${esc(m)}</li>`).join('');
 
@@ -692,7 +692,7 @@ body.capa-aberta{overflow:hidden}
     const semSel = st.semana && st.semana!==segDe(iniSem) ? st.semana : null;
     $('#ad-titulo').textContent = semSel ? `Semana de ${rotSem(semSel)}, hora a hora` : sel ? (dias.length===1 ? `Agenda de ${NOMES[new Date(dias[0]+'T00:00:00').getDay()]}, ${parseInt(dias[0].slice(8))} de ${MESES[parseInt(dias[0].slice(5,7))-1]}` : `Agenda dos ${dias.length} dias selecionados`) : 'Agenda da semana, hora a hora';
     let total = 0, h = '';
-    // edições anteriores envolvidas na seleção: ligação para a edição completa (cartões e varrimentos)
+    // edições anteriores envolvidas na seleção: ligação para a edição completa (cartões e fundos mediáticos)
     const eds = [...new Set(dias.filter(k=>k<iniSem).map(edDe).filter(Boolean))];
     h += eds.map(e => `<div class="ad-arq"><svg class="ic"><use href="#i-layers"/></svg> Arquivo · ${esc(nomeEd(e))} (${esc(e.semana)}). <a href="${esc(BASE_ED+e.ficheiro)}">Abrir a edição completa ›</a></div>`).join('');
     if (sel && dias.some(k=>k>fimSemAtual)) h += `<div class="ad-arq fut">Semanas seguintes: o que a Assembleia da República já publicou, ainda sem triagem completa nem varrimento. Pode mudar até à data.</div>`;
@@ -705,7 +705,7 @@ body.capa-aberta{overflow:hidden}
       h += `<div class="ad-dia">${NOMES[d.getDay()]}, ${d.getDate()} de ${MESES[d.getMonth()]}${datasComAgenda.has(k)?` · ${its.length}`:cal.length?' · calendarização':' · sem agenda publicada'}</div>`;
       if (!its.length) { h += cal.length && !datasComAgenda.has(k) ? cal.map(c=>`<div class="ev cal-ev"><span class="h">${esc(c.horas||'—')}</span><span class="d"></span><span class="t"><b>${esc(c.atividade)}</b><small>Calendarização da Assembleia da República · ordem de trabalhos ainda não publicada</small></span></div>`).join('') : `<div class="vazio-ad">${datasComAgenda.has(k)?'Nada corresponde aos filtros neste dia.':'Nenhuma reunião publicada para este dia à data de fecho.'}</div>`; return; }
       total += its.length;
-      h += its.map(x => x._hist ? `<div class="ev arq"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b><a href="${esc(BASE_ED+x._hist.ficheiro)}" title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}">${esc(x.tema)}</a></b>${x.varrimento?`<a class="vr" href="${esc(BASE_ED+x._hist.ficheiro+'#'+x.varrimento)}" data-f="f-${esc(x.varrimento)}" title="Abrir a ficha de varrimento na ${esc(nomeEd(x._hist).toLowerCase())}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>` : `<div class="ev" data-ir-cartao="${esc(idDe(x))}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.varrimento?`<a href="#f-${esc(x.varrimento)}" class="vr" data-ver="${esc(x.varrimento)}">varrimento ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
+      h += its.map(x => x._hist ? `<div class="ev arq"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b><a href="${esc(BASE_ED+x._hist.ficheiro)}" title="Abrir a ${esc(nomeEd(x._hist).toLowerCase())}">${esc(x.tema)}</a></b>${x.varrimento?`<a class="vr" href="${esc(BASE_ED+x._hist.ficheiro+'#'+x.varrimento)}" data-f="f-${esc(x.varrimento)}" title="Abrir a ficha de fundo mediático na ${esc(nomeEd(x._hist).toLowerCase())}">notícias ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel||'')}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>` : `<div class="ev" data-ir-cartao="${esc(idDe(x))}"><span class="h">${esc(x.hora||'—')}</span><span class="d ${(PERT[x.pertinencia]||['reg'])[0]}"></span><span class="t"><b>${esc(x.tema)}</b>${x.varrimento?`<a href="#f-${esc(x.varrimento)}" class="vr" data-ver="${esc(x.varrimento)}">notícias ›</a>`:''}${arLink(x,'vr ar')}<small>${esc(x.tipoLabel)}${x.interveniente&&x.interveniente!=='—'?` · ${esc(x.interveniente)}`:''}</small></span></div>`).join('');
     });
     $('#ad-sub').textContent = `${total} ${total===1?'matéria':'matérias'}${st.pert.has('Registo')?'':' · registo oculto'}`;
     $('#ad-lista').innerHTML = h || `<div class="vazio-ad">Nada corresponde aos filtros.</div>`;
@@ -764,9 +764,9 @@ body.capa-aberta{overflow:hidden}
     return `<b>${c.n}</b> ${c.n===1?'notícia':'notícias'} em ${c.dias} dias · <b>${c.n7}</b> na última semana${tend} · ${fonte}${ind}`;
   };
   const PEDIDO = 'upe@sggoverno.gov.pt';
-  const pedirVarr = x => { const ass = encodeURIComponent(`AR Preview — pedido de varrimento: ${x.tema}`.slice(0,150));
-    const corpo = encodeURIComponent(`Solicito varrimento mediático da seguinte matéria do AR Preview:\n\nMatéria: ${x.tema}\nData: ${x.dataLabel||x.data}${x.hora?', '+x.hora:''}\nTipo: ${x.tipoLabel||''}\nEdição: n.º ${D.edicao.numero} (${D.edicao.semana})\n\nMotivo / enquadramento do pedido:\n\n`);
-    return `<a class="pedir lig" href="mailto:${PEDIDO}?subject=${ass}&body=${corpo}" title="Abre um email para ${PEDIDO} com a matéria preenchida">Pedir varrimento</a>`; };
+  const pedirVarr = x => { const ass = encodeURIComponent(`AR Preview — pedido de fundo mediático: ${x.tema}`.slice(0,150));
+    const corpo = encodeURIComponent(`Solicito fundo mediático da seguinte matéria do AR Preview:\n\nMatéria: ${x.tema}\nData: ${x.dataLabel||x.data}${x.hora?', '+x.hora:''}\nTipo: ${x.tipoLabel||''}\nEdição: n.º ${D.edicao.numero} (${D.edicao.semana})\n\nMotivo / enquadramento do pedido:\n\n`);
+    return `<a class="pedir lig" href="mailto:${PEDIDO}?subject=${ass}&body=${corpo}" title="Abre um email para ${PEDIDO} com a matéria preenchida">Pedir fundo mediático</a>`; };
   const listaBtn = x => x.cobertura && x.cobertura.n && (x.cobertura.todas||[]).length ? `<button class="ver sec" data-lista="${esc(idDe(x))}"><svg class="ic"><use href="#i-news"/></svg>Notícias (${x.cobertura.n})</button>` : '';
   // critérios da prioridade (sem os das unidades, que já não se mostram)
   const critP = x => (x.criterio||[]).filter(c => /→|revisão humana|dossier acompanhado/.test(c)).map(c => c.replace(/\s*\((DACDP|DAPL|UPE|DCIRI|UnIT|transversal|Transversal)\)\s*$/,''));
@@ -776,9 +776,9 @@ body.capa-aberta{overflow:hidden}
     const uos = '';   // sem etiquetas de unidade (decisão de 2/11/2026)
     const res = x.resumo||''; const longo = res.length>220 || x.ordemTrabalhos;
     const ligs = arLink(x, 'lig') + (x.ligacoes||[]).filter(l => !x.id_ar || l.titulo !== 'Agenda parlamentar').map(l=>`<a class="lig" href="${esc(l.url)}" target="_blank" rel="noopener"><svg class="ic"><use href="#i-ext"/></svg>${esc(l.titulo)}</a>`).join('');
-    const foot = x._hist ? `<a class="ver" href="${esc(BASE_ED+x._hist.ficheiro+(x.varrimento?'#'+x.varrimento:''))}"${x.varrimento?` data-f="f-${esc(x.varrimento)}"`:''}><svg class="ic"><use href="#i-layers"/></svg>${x.varrimento?'Ver varrimento na ':'Abrir a '}${esc(nomeEd(x._hist).toLowerCase())}</a>${ligs}`
-      : x._fut && !x.varrimento ? `<span class="pedir">Semana seguinte · triagem provisória, sem varrimento</span>${listaBtn(x)}${ligs}`
-      : x.varrimento ? `<a class="ver" href="#f-${esc(x.varrimento)}" data-ver="${esc(x.varrimento)}"><svg class="ic"><use href="#i-news"/></svg>${D.fichas[x.varrimento] && D.fichas[x.varrimento].nivel==='curta' ? 'Ver varrimento (curto)' : 'Ver varrimento'}</a>${ligs}` : (x._d ? listaBtn(x)+ligs : `${listaBtn(x)}${pedirVarr(x)}${ligs}`);
+    const foot = x._hist ? `<a class="ver" href="${esc(BASE_ED+x._hist.ficheiro+(x.varrimento?'#'+x.varrimento:''))}"${x.varrimento?` data-f="f-${esc(x.varrimento)}"`:''}><svg class="ic"><use href="#i-layers"/></svg>${x.varrimento?'Ver o fundo mediático na ':'Abrir a '}${esc(nomeEd(x._hist).toLowerCase())}</a>${ligs}`
+      : x._fut && !x.varrimento ? `<span class="pedir">Semana seguinte · triagem provisória, sem fundo mediático</span>${listaBtn(x)}${ligs}`
+      : x.varrimento ? `<a class="ver" href="#f-${esc(x.varrimento)}" data-ver="${esc(x.varrimento)}"><svg class="ic"><use href="#i-news"/></svg>${D.fichas[x.varrimento] && D.fichas[x.varrimento].nivel==='curta' ? 'Ver fundo mediático (curto)' : 'Ver fundo mediático'}</a>${ligs}` : (x._d ? listaBtn(x)+ligs : `${listaBtn(x)}${pedirVarr(x)}${ligs}`);
     return `<article class="cartao ${cls}" data-id="${esc(idDe(x))}">
       <div class="c-top"><span class="quando"><svg class="ic"><use href="#i-cal"/></svg>${esc(x.dataLabel)}${x.hora?` · ${esc(x.hora)}`:''}</span><span class="pert ${pc}">${esc(x.pertinencia)}</span></div>
       <h3 class="c-tema">${esc(x.tema)}</h3>
@@ -819,7 +819,7 @@ body.capa-aberta{overflow:hidden}
     const ordem = (a,b) => (a.data+String(horaNum(a.hora)).padStart(4,'0')).localeCompare(b.data+String(horaNum(b.hora)).padStart(4,'0'));
     if (st.dias.size) { ds.sort(ordem); ag.sort(ordem); }
     $('#n-destaques').textContent = `${ds.length} de ${C.filter(ehDestaque).length}`; $('#n-agenda').textContent = `${ag.length} de ${C.filter(x=>!ehDestaque(x)).length}`;
-    $('#g-destaques').innerHTML = ds.length ? ds.map(cartao).join('') : `<div class="vazio-msg">${st.dias.size?'Sem destaques com varrimento nos dias selecionados.':'Nenhum destaque corresponde aos filtros.'}</div>`;
+    $('#g-destaques').innerHTML = ds.length ? ds.map(cartao).join('') : `<div class="vazio-msg">${st.dias.size?'Sem destaques com fundo mediático nos dias selecionados.':'Nenhum destaque corresponde aos filtros.'}</div>`;
     const semSec = !st.pert.has('Vigilância') && !st.pert.has('Registo');
     ['#t-agenda','#aviso','#g-agenda'].forEach(s => $(s).hidden = semSec);
     $('#g-agenda').innerHTML = ag.length ? ag.map(cartao).join('') : `<div class="vazio-msg">Nenhuma matéria corresponde aos filtros${st.pert.has('Registo')?'':' · as matérias de «Registo» estão ocultas'}.</div>`;
@@ -891,7 +891,7 @@ body.capa-aberta{overflow:hidden}
     const x = pool.find(y => idDe(y)===id); if (!x || !x.cobertura) return; atual = null; x.cobertura._titulo = x.tema; listaAtual = x.cobertura; listaMateria = x;
     $('#g-titulo').innerHTML = esc(x.tema) + `<span class="nivel">notícias · sem ficha</span>`;
     $('#g-meta').textContent = `${x.tipoLabel||''} · ${x.dataLabel||''}${x.hora?', '+x.hora:''} · Radar de Notícias, últimos ${x.cobertura.dias} dias`;
-    botaoExportar(); $('#g-corpo').innerHTML = `<div class="g-amostra">Esta matéria não tem ficha de varrimento. Abaixo, todas as notícias que o Radar de Notícias encontrou sobre o assunto, sem análise. ${pedirVarr(x)}</div>` + (listaHTML(x.cobertura, true) || '<p class="ln-nota">Sem notícias encontradas.</p>');
+    botaoExportar(); $('#g-corpo').innerHTML = `<div class="g-amostra">Esta matéria não tem ficha de fundo mediático. Abaixo, todas as notícias que o Radar de Notícias encontrou sobre o assunto, sem análise. ${pedirVarr(x)}</div>` + (listaHTML(x.cobertura, true) || '<p class="ln-nota">Sem notícias encontradas.</p>');
     $('#g-corpo').scrollTop = 0; $('#g-nav').innerHTML = '';
     $('#gaveta').classList.add('on'); $('#veu').classList.add('on'); $('#gaveta').setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';
   }
@@ -946,7 +946,7 @@ body.capa-aberta{overflow:hidden}
   $('#g-corpo').addEventListener('click', e => { const b = e.target.closest('[data-nat]'); if (!b || !b.classList.contains('chip')) return; b.classList.toggle('on'); const on=[...$('#g-corpo').querySelectorAll('.chip[data-nat]')].filter(c=>c.classList.contains('on')).map(c=>c.dataset.nat); $('#g-corpo').querySelectorAll('.not').forEach(n=>n.style.display=on.includes(n.dataset.nat)?'':'none'); });
   $('#g-nav').addEventListener('click', e => { const a=e.target.closest('[data-ver]'); if(a){ e.preventDefault(); abrir(a.dataset.ver);} });
   // versão para impressão: acompanha a semana mostrada (a da edição, uma semana seguinte ou uma edição anterior) e os filtros.
-  // As fichas saem pela ordem da agenda; as ligações «varrimento ›» e «Ver varrimento» levam à ficha dentro do PDF.
+  // As fichas saem pela ordem da agenda; as ligações «notícias ›» e «Ver fundo mediático» levam à ficha dentro do PDF.
   const FICHAS_ED = {};   // fichas das edições anteriores, carregadas quando se escolhe uma semana passada
   const fichaDe = x => x.varrimento ? (x._hist ? (FICHAS_ED[x._hist.ficheiro] || {})[x.varrimento] : D.fichas[x.varrimento]) : null;
   function carregarFichasEd(e){
@@ -1007,7 +1007,7 @@ body.capa-aberta{overflow:hidden}
       ${extra.length?`<div class="hd-linha"><b>Ligações:</b> ${extra.map(l=>`<a href="${esc(l.url)}" target="_blank" rel="noopener" style="color:#fff">${esc(l.titulo)}</a>`).join(' · ')}</div>`:''}
       <div class="hd-acoes">
         ${x._hist ? `<a class="p1" href="${esc(BASE_ED + x._hist.ficheiro + (x.varrimento ? '#' + x.varrimento : ''))}">Abrir na ${esc(nomeEd(x._hist).toLowerCase())}</a>`
-          : f ? `<button class="p1" data-hd-ver="${esc(x.varrimento)}">${f.origem==='radar'?'Ver notícias':'Ver varrimento'}${c&&c.n?` (${c.n})`:''}</button>`
+          : f ? `<button class="p1" data-hd-ver="${esc(x.varrimento)}">${f.origem==='radar'?'Ver notícias':'Ver fundo mediático'}${c&&c.n?` (${c.n})`:''}</button>`
           : (c && c.n ? `<button class="p1" data-hd-lista="${esc(idDe(x))}">Ver notícias (${c.n})</button>` : '')}
         ${ar?`<a class="p2" href="${esc(ar)}" target="_blank" rel="noopener"><svg class="ic"><use href="#i-ext"/></svg>Ver na agenda da AR</a>`:''}
         ${x.id_ar && !x._hist && x.data >= hojeIso ? `<a class="p2" href="cal/${esc(x.id_ar)}.ics" download title="Abre o evento no Outlook (ou noutro calendário); hora de fim indicativa">Adicionar ao calendário</a>` : ''}
@@ -1074,11 +1074,11 @@ body.capa-aberta{overflow:hidden}
     h += seats + labels + `<text class="centro" x="${cx}" y="${cy-44}"><tspan class="n">${tot}</tspan></text><text class="centro t" x="${cx}" y="${cy-22}">matérias na semana</text><text class="centro t" x="${cx}" y="${cy-4}">clique num lugar para ver a matéria</text><text class="centro t" id="hemi-filtro" x="${cx}" y="${cy+14}" style="fill:#FFD200"></text>`;
     svg.innerHTML = h;
     // texto e contadores
-    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana, com a prioridade de cada matéria e as notícias do Radar; as matérias Imediato e Vigilância têm ficha de varrimento.`
+    $('#hero-lead').textContent = !semSel ? `${D.edicao.semana}. O que a Assembleia da República tem marcado para a semana, com a prioridade de cada matéria e as notícias do Radar; as matérias Imediato e Vigilância têm ficha de fundo mediático.`
       : edSel ? `Arquivo · ${edSel.semana} (${nomeEd(edSel).toLowerCase()}). A semana tal como foi acompanhada na altura; a edição completa abre a partir da agenda.`
-      : `Semana de ${rotSem(semSel)}. O que a Assembleia da República já publicou para esta semana, com triagem provisória; o varrimento entra na sexta-feira anterior.`;
+      : `Semana de ${rotSem(semSel)}. O que a Assembleia da República já publicou para esta semana, com triagem provisória; o fundo mediático entra na sexta-feira anterior.`;
     const kp = [[nIme,'ime',nIme===1?'imediata':'imediatas'],[todos.filter(x=>x.pertinencia==='Vigilância').length,'vig','em vigilância'],[todos.filter(x=>x.pertinencia==='Registo').length,'','só para registo'],
-                [nVar,'var','com ficha de varrimento'],[diasSem.filter(d=>datasComAgenda.has(d)).length,'','dias com reuniões']];
+                [nVar,'var','com ficha de fundo mediático'],[diasSem.filter(d=>datasComAgenda.has(d)).length,'','dias com reuniões']];
     $('#hero-kpis').innerHTML = kp.map(([n,c,l])=>`<div><b class="${c}" data-n="${n}">0</b><span>${l}</span></div>`).join('');
     const reduzido = matchMedia('(prefers-reduced-motion: reduce)').matches || hemiAnimado; hemiAnimado = true;
     $('#hero-kpis').querySelectorAll('b').forEach(b => { const alvo=+b.dataset.n; if (reduzido||!alvo){ b.textContent=alvo; return; } const t0=performance.now(); const f=t=>{ const p=Math.min(1,(t-t0)/900); b.textContent=Math.round(alvo*(1-Math.pow(1-p,3))); if(p<1) requestAnimationFrame(f); }; requestAnimationFrame(f); });
@@ -1086,7 +1086,7 @@ body.capa-aberta{overflow:hidden}
   (function(){
     const svg = $('#hemi');
     $('#hero-cta').addEventListener('click', () => $('.barra').scrollIntoView({behavior:'smooth'}));
-    // interação: dica, clique no lugar (abre varrimento ou salta ao cartão), clique no setor (seleciona o dia)
+    // interação: dica, clique no lugar (abre o fundo mediático ou salta ao cartão), clique no setor (seleciona o dia)
     const tip = $('#tip');
     svg.addEventListener('mousemove', e => { const g = e.target.closest('[data-seat]'); if (!g){ tip.classList.remove('on'); return; } const x = pool.find(t=>idDe(t)===g.dataset.seat); if(!x) return;
       tip.innerHTML = `<b>${esc(x.tema)}</b>${esc(x.dataLabel)}${x.hora?' · '+esc(x.hora):''} · <span class="pert p-${(PERT[x.pertinencia]||['reg'])[0]}" style="font-size:10px">${esc(x.pertinencia)}</span><br><small>${esc(x.tipoLabel||'')}· clique para ver a matéria</small>`;

@@ -9,11 +9,11 @@
  },
  "disclaimer": "O presente levantamento tem por base a Agenda Parlamentar publicada pela Assembleia da República nos seus dados abertos, à data indicada. A agenda está sujeita a alterações após essa data, em particular a das comissões parlamentares, tipicamente publicada com menor antecedência do que a do Plenário. A identificação das matérias pertinentes resulta de um juízo analítico e é meramente indicativa. A classificação automática constitui apenas uma sugestão de triagem, sujeita a validação. O varrimento mediático associado é amostral e ilustrativo, não exaustivo, e privilegia fontes primárias.",
  "metodologia": [
-  "Varrimento amostral e ilustrativo, não exaustivo, com fontes originais e números confrontados com as fontes primárias: parecer do Tribunal de Contas, notificação do INE e comunicação oficial do Governo.",
+  "Seleção amostral e ilustrativo, não exaustivo, com fontes originais e números confrontados com as fontes primárias: parecer do Tribunal de Contas, notificação do INE e comunicação oficial do Governo.",
   "Ordem cronológica crescente. Natureza: vermelho = crítica / muito relevante; dourado = muito relevante; verde = contextual / positivo; cinzento = contextual.",
-  "Cobertura mediática: contagem das notícias dos órgãos de comunicação social nacionais acompanhados pelo Radar de Notícias da UPE cujo título ou resumo refere o assunto (pelas expressões de pesquisa da matéria ou, na sua falta, pelas palavras do assunto, contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e conta também o nome do membro do Governo ouvido). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; a lista completa das notícias encontradas está disponível em cada matéria. As fichas de varrimento analisam uma amostra escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes)."
+  "Cobertura mediática: contagem das notícias dos órgãos de comunicação social nacionais acompanhados pelo Radar de Notícias da UPE cujo título ou resumo refere o assunto (pelas expressões de pesquisa da matéria ou, na sua falta, pelas palavras do assunto, contagem indicativa; nas reuniões de comissão, cujo tema é só o nome da comissão, o assunto é o da ordem de trabalhos e conta também o nome do membro do Governo ouvido). Mostra-se o número dos últimos 7 dias, a comparação com os 7 dias anteriores e o total em 60 dias; a lista completa das notícias encontradas está disponível em cada matéria. As fichas de fundo mediático analisam uma amostra escolhida ao longo dos 60 dias (dias de maior cobertura, diversidade de órgãos e notícias mais recentes)."
  ],
- "pedidos": "O varrimento mediático das matérias sem ficha faz-se a pedido, por email para upe@sggoverno.gov.pt (botão «Pedir varrimento» em cada cartão).",
+ "pedidos": "O fundo mediático das matérias sem ficha faz-se a pedido, por email para upe@sggoverno.gov.pt (botão «Pedir fundo mediático» em cada cartão).",
  "futuro": [
   {
    "tema": "Comissão de Infraestruturas, Mobilidade e Habitação",
@@ -13382,7 +13382,7 @@
   "atualizadoLabel": "29 de outubro, 22h38",
   "desdeLabel": "22 de outubro",
   "estado": "Classificação automática",
-  "aviso": "A prioridade de cada matéria foi atribuída automaticamente. As fichas de varrimento reúnem notícias do Radar de Notícias, selecionadas automaticamente, sem análise nem verificação de números."
+  "aviso": "A prioridade de cada matéria foi atribuída automaticamente. As fichas de fundo mediático reúnem notícias do Radar de Notícias, selecionadas automaticamente, sem análise nem verificação de números."
  },
  "fichas": {
   "2026-10-27-plen-rio-debate-na-generalidade-do-or-a": {

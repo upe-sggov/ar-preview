@@ -4,7 +4,7 @@
   * Com o Amália: a mesma seleção, lida pelo Amália: resumo factual da cobertura, síntese factual e natureza de cada notícia
     (Crítica, Relevante, Positiva, Contextual — critério em CRITERIO, abaixo); substitui as fichas sem análise.
   Só a amostra é lida e classificada; as restantes notícias da matéria ficam na lista completa da página, só com título e jornal.
-  Tudo vem do Radar: nada destas fichas vem dos varrimentos feitos pela equipa, nem lá entra.
+  Tudo vem do Radar: nada destas fichas vem dos fundos mediáticos feitos pela equipa, nem lá entra.
 Níveis:
   Imediato                              → ficha completa: até 20 notícias (dias de pico, jornais diferentes, as mais recentes);
   Vigilância                            → ficha curta: até 8 notícias;

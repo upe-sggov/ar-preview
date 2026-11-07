@@ -2,7 +2,7 @@
 (cartão branco de 640 px, cabeçalho azul com o logótipo de anel branco fino, contagem em destaque,
 matérias agrupadas por dia e rodapé escuro). Gerado do mesmo dados/agenda.json que a página.
 Cada matéria leva: hora, comissão/tema, membro do Governo, síntese curta (sem etiquetas de unidade, por decisão de 2/11/2026)
-e as ligações que existirem (página na AR, varrimento, adicionar ao calendário).
+e as ligações que existirem (página na AR, fundo mediático, adicionar ao calendário).
 Logótipo servido pela própria página (docs/logo-sggov-email.png); HTML simples com estilos em linha (Outlook).
 Uso: PAGINA_URL=https://… python scripts/email_resumo.py dados/agenda.json [assunto.txt] > email.html"""
 import json, sys, html, os
@@ -50,8 +50,8 @@ def linha(x):
     extras = []
     L = 'color:#2B5683;text-decoration:underline'
     if pag: extras.append(f'<a href="{e(pag)}" style="{L}">{rotulo}</a>')
-    if x.get('varrimento') and url: extras.append(f'<a href="{e(url)}#{e(x["varrimento"])}" style="{L}">varrimento</a>')
-    elif x.get('varrimento'): extras.append('com varrimento')
+    if x.get('varrimento') and url: extras.append(f'<a href="{e(url)}#{e(x["varrimento"])}" style="{L}">notícias</a>')
+    elif x.get('varrimento'): extras.append('com fundo mediático')
     if x.get('data'):   # um clique: abre a reunião já preenchida no Outlook (web); o .ics fica como alternativa
         extras.append(f'<a href="{e(outlook_web(x, url))}" style="{L}">adicionar ao Outlook</a>'
                       + (f' <a href="{e(url)}cal/{e(cal_nome(x))}" style="color:#8a9098;text-decoration:underline">(.ics)</a>' if url else ''))
@@ -123,7 +123,7 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <tr><td style="padding:16px 24px 12px;background:#fbfcfd;border-bottom:1px solid #e2e8f0">
     <span style="font:600 24px Arial,sans-serif;color:#0E7433">{len(todos)}</span>
     <span style="font:400 13px Arial,sans-serif;color:#5b6068">matérias para a área de Suporte à Decisão:
-      <b style="color:#D02117">&#9679; {n_ime}</b> imediatas, <b style="color:#BE9C54">&#9679; {n_vig}</b> em vigilância, <b style="color:#8a9098">&#9679; {n_reg}</b> para registo; {len({x["varrimento"] for x in todos if x.get("varrimento")})} com ficha de varrimento</span>
+      <b style="color:#D02117">&#9679; {n_ime}</b> imediatas, <b style="color:#BE9C54">&#9679; {n_vig}</b> em vigilância, <b style="color:#8a9098">&#9679; {n_reg}</b> para registo; {len({x["varrimento"] for x in todos if x.get("varrimento")})} com fundo mediático</span>
     {f'<div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5">{legenda}</div>' if legenda else ''}
   </td></tr>
 
@@ -131,7 +131,7 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
   <tr><td align="center" style="padding:22px 24px 18px">
     <div style="font:400 13px Arial,sans-serif;color:#5b6068;line-height:1.55;padding-bottom:12px">
-      Calendário, cartões e fichas de varrimento estão na página do AR Preview, atualizada diariamente{f'; a versão em PDF está <a href="{e(url)}ar-preview.pdf" style="color:#2B5683;text-decoration:underline">aqui</a>' if url else ''}.</div>
+      Calendário, cartões e fichas de fundo mediático estão na página do AR Preview, atualizada diariamente{f'; a versão em PDF está <a href="{e(url)}ar-preview.pdf" style="color:#2B5683;text-decoration:underline">aqui</a>' if url else ''}.</div>
     {botoes}
     <div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5"><b>Subscrever no Outlook</b> acrescenta, uma só vez, o calendário «AR Preview» com as matérias Imediato e Vigilância, que passa a atualizar-se sozinho{f' (se o botão não abrir o Outlook: Calendário › Adicionar calendário › Da Internet › {e(url)}cal/ar-preview.ics)' if url else ''}.
       <b>Adicionar ao Outlook</b> abre a reunião já preenchida no Outlook na web, para guardar; o <b>.ics</b> faz o mesmo no Outlook do computador. Hora de fim indicativa.
@@ -141,8 +141,8 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <tr><td style="padding:18px 24px;background:#171715">
     <div style="font:400 11px Arial,sans-serif;color:#ffffff;opacity:.85;line-height:1.6">
       Direção de Serviços de Suporte à Decisão · Unidade de Pesquisa e Estatísticas<br>
-      Pedidos de varrimento adicionais:
-      <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview%20%E2%80%94%20pedido%20de%20varrimento" style="color:#ffffff;text-decoration:underline">upe@sggoverno.gov.pt</a><br>
+      Pedidos de fundo mediático:
+      <a href="mailto:upe@sggoverno.gov.pt?subject=AR%20Preview%20%E2%80%94%20pedido%20de%20fundo%20medi%C3%A1tico" style="color:#ffffff;text-decoration:underline">upe@sggoverno.gov.pt</a><br>
       Agenda recolhida dos dados publicados pela Assembleia da República. A leitura e a verificação são de quem recebe.
     </div>
   </td></tr>
