@@ -122,8 +122,10 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
   <tr><td style="padding:16px 24px 12px;background:#fbfcfd;border-bottom:1px solid #e2e8f0">
     <span style="font:600 24px Arial,sans-serif;color:#0E7433">{len(todos)}</span>
-    <span style="font:400 13px Arial,sans-serif;color:#5b6068">matérias para a área de Suporte à Decisão:
-      <b style="color:#D02117">&#9679; {n_ime}</b> imediatas, <b style="color:#BE9C54">&#9679; {n_vig}</b> em vigilância, <b style="color:#8a9098">&#9679; {n_reg}</b> para registo; {len({x["varrimento"] for x in todos if x.get("varrimento")})} com fundo mediático</span>
+    <span style="font:400 13px Arial,sans-serif;color:#5b6068">{'reunião' if len(todos) == 1 else 'reuniões'} na agenda da Assembleia da República esta semana</span>
+    <div style="font:400 13px Arial,sans-serif;color:#5b6068;padding-top:4px">Prioridade para a área de Suporte à Decisão:
+      <b style="color:#D02117">&#9679; {n_ime}</b> Imediato · <b style="color:#BE9C54">&#9679; {n_vig}</b> Vigilância · <b style="color:#8a9098">&#9679; {n_reg}</b> Registo
+      · {len({x["varrimento"] for x in todos if x.get("varrimento")})} com fundo mediático</div>
     {f'<div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5">{legenda}</div>' if legenda else ''}
   </td></tr>
 
