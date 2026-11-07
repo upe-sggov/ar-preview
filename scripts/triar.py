@@ -19,6 +19,8 @@ def norm(t):
 PERT = regras.get('pertinencia', {})
 CLIENTES = [(c['ministerio'], [norm(x) for x in c.get('cargos', [])], [norm(' '.join(n.split()[-2:])) for n in c.get('nomes', [])]) for c in PERT.get('clientes', [])]
 PLEN_IME = [(norm(t), t) for t in PERT.get('plenario_imediato', [])]
+# comissões da área de cada cliente: as suas reuniões são Imediato mesmo sem o cliente presente (decisão de 7/11/2026)
+COM_CLI = [(norm(cm), c['ministerio']) for c in PERT.get('clientes', []) for cm in c.get('comissoes', [])]
 
 def ler_csv(nome):
     f = pathlib.Path('dados') / nome
@@ -59,6 +61,10 @@ def triar(item):
         pert = 'Imediato'; crit.append(f'presença de cliente com pedidos à UPE ({cli}) → Imediato'); uos.add('DACDP')
     if plen:
         pert = 'Imediato'; crit.append(f'Plenário: «{plen}» → Imediato'); uos.add('DACDP')
+    orgao = norm(item.get('orgao') or '')
+    comcli = sorted({m for cm, m in COM_CLI if orgao and (orgao == cm or orgao.startswith(cm))})
+    if comcli:
+        pert = 'Imediato'; crit.append(f"comissão da área de cliente com pedidos à UPE ({'; '.join(comcli)}) → Imediato")
     if pert != 'Imediato':
         if membros or (plenario and re.search(r'(^|\n|/)\s*GOV\s*(\n|/|$)', item['ordemTrabalhos'])):
             pert = 'Vigilância'; crit.append('presença de membro do Governo → Vigilância'); uos.add('DACDP')

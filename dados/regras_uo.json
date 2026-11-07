@@ -78,7 +78,7 @@
   ]
  },
  "pertinencia": {
-  "_nota": "Critérios da UPE (atualizados a 3 nov 2026). Imediato: presença de um cliente — membro do Governo cujo gabinete já fez pedidos à UPE (Registo de Pedidos da UPE, folha «Pedidos», pedidos externos; os pedidos internos da SGGov não contam); matérias que já tiveram varrimento (briefing / fundo mediático) entregue (dados/varrimentos_entregues.csv); debates do Governo no Plenário. Vigilância: restantes membros do Governo; comissões de inquérito; dossiers acompanhados, incluindo os temas de pedidos já recebidos (dados/dossiers.csv). Registo: o resto. A revisão humana (dados/correcoes.csv) prevalece sempre.",
+  "_nota": "Critérios da UPE (atualizados a 3 nov 2026). Imediato: presença de um cliente ou reunião da comissão parlamentar da área de um cliente (campo «comissoes») — membro do Governo cujo gabinete já fez pedidos à UPE (Registo de Pedidos da UPE, folha «Pedidos», pedidos externos; os pedidos internos da SGGov não contam); matérias que já tiveram varrimento (briefing / fundo mediático) entregue (dados/varrimentos_entregues.csv); debates do Governo no Plenário. Vigilância: restantes membros do Governo; comissões de inquérito; dossiers acompanhados, incluindo os temas de pedidos já recebidos (dados/dossiers.csv). Registo: o resto. A revisão humana (dados/correcoes.csv) prevalece sempre.",
   "_fonte_governo": "Composição do XXV Governo Constitucional (portugal.gov.pt, posse de 6 jun 2025), confirmada pelos nomes que a AR publica nas audições de 2–6 nov 2026. Atualizar em remodelações.",
   "clientes": [
    {
@@ -92,6 +92,9 @@
     ],
     "nomes": [
      "António Leitão Amaro"
+    ],
+    "comissoes": [
+     "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias"
     ]
    },
    {
@@ -106,6 +109,9 @@
     ],
     "nomes": [
      "Rui Armindo Freitas"
+    ],
+    "comissoes": [
+     "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias"
     ]
    },
    {
@@ -118,6 +124,9 @@
     ],
     "nomes": [
      "Gonçalo Saraiva Matias"
+    ],
+    "comissoes": [
+     "Comissão da Reforma do Estado e Poder Local"
     ]
    },
    {
@@ -134,6 +143,9 @@
     ],
     "nomes": [
      "Bernardo Correia"
+    ],
+    "comissoes": [
+     "Comissão da Reforma do Estado e Poder Local"
     ]
    },
    {
@@ -146,6 +158,9 @@
     ],
     "nomes": [
      "João Rui Ferreira"
+    ],
+    "comissoes": [
+     "Comissão de Economia e Coesão Territorial"
     ]
    },
    {
@@ -163,6 +178,9 @@
     ],
     "nomes": [
      "Pedro Machado"
+    ],
+    "comissoes": [
+     "Comissão de Economia e Coesão Territorial"
     ]
    },
    {
@@ -176,6 +194,9 @@
     ],
     "nomes": [
      "Maria da Graça Carvalho"
+    ],
+    "comissoes": [
+     "Comissão de Ambiente e Energia"
     ]
    }
   ],

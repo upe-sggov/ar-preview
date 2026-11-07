@@ -50,14 +50,14 @@ def base(i):
         x['tipoLabel'] = x['orgao'] + x['tipoLabel'][len('Comissões Parlamentares'):]
     return x
 
-_AUD = re.compile(r'(Audi(?:ção|ência)(?: conjunta)? d[aeo]s? .+?)(?=,?\s+(?:no âmbito|sobre|relativ|acerca|a propósito)\b|[;\n]|$)')
+_AUD = re.compile(r'(?:Parte I\s+)?(Audi(?:ção|ência)(?: conjunta)? (?:d[aeo]s?|com (?:[ao]s? )?).+?)(?=,?\s+(?:no âmbito|sobre|relativ|acerca|a propósito|responsável)\b|[;\[]|\.\s|\.$|$)')
 def titulo_regras(x):
     """Título das reuniões de comissão cujo tema é só o nome da comissão: quem é ouvido, tal como a AR o escreve
     («Audiência da Associação Nacional das Farmácias (ANF) — Orçamento do Estado 2027»). Só texto publicado pela AR."""
     t, org = (x.get('tema') or '').strip(), (x.get('orgao') or '').strip()
     if (t != org and not x.get('tituloRegras')) or not re.match(r'(Comissão|Subcomissão)\b', org): return None
     ot = (x.get('ordemTrabalhos') or '').strip()
-    m = _AUD.match(ot)
+    m = _AUD.match(re.sub(r'\s*\n\s*', ' ', ot[:500]))   # a AR parte as linhas a meio da frase
     if not m: return None
     q = re.sub(r'\s+', ' ', m.group(1)).strip(' ,.-–')
     if len(q) > 110: q = q[:110].rsplit(' ', 1)[0] + '…'
@@ -83,6 +83,11 @@ def juntar(lista):
     grupos, fora = {}, []
     for x in lista:
         q = quem(x)
+        ot = (x.get('ordemTrabalhos') or '')
+        # audição conjunta sem membro do Governo (ex.: uma comissária europeia ouvida por três comissões): junta-se pelo início do texto
+        t0 = re.sub(r'^parte i\b\s*', '', re.sub(r'\W+', ' ', ot.lower()).strip())
+        if not q and re.match(r'audi[cç][aã]o|audi[eê]ncia', t0):
+            q = 'ot:' + t0[:70]
         if q: grupos.setdefault((x['data'], x.get('hora'), q), []).append(x)
         else: fora.append(x)
     out, absorvidas = list(fora), set()
