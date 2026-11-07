@@ -13,7 +13,12 @@ import json, pathlib, datetime, sys, urllib.request, re, html
 
 URL_AGENDA = "https://app.parlamento.pt/webutils/docs/doc.txt?path=fxkkyG0F2jR%2fL3LMNV0qF1JgWJiaoLvU23RDQflJ4%2fXJwdHaW2uvdFy0D%2bA%2bm7td49uC1M4ipPpx1vOby%2bHpFQjqjUHgC9CR%2fL%2fKZi39QqN%2b8%2bviTj9iPLgwgqj%2b8xe52jxlznSrRwrzeRTK8zv5V8Uu5HBOgvGtaGL%2b1bJWgzGLkV2IqcEYbT7Hpue%2b5vHy5wfR%2bRNZNy9jnEKvaTkW4up7NVxEoZABcdfGv7VRhZ53cHQ1%2fzb1MLTmD9jvqO1kyJ7ePsgv%2bmxt7WeTAPdOiKHCtBSe6DMqL2qcxRHiJsQBIFZcMTamQL95puZga%2bodwh238749aRuSE8hLot%2f6ObkB2VAiDuGX%2fbNlySmM3auUIULk1UWwgozCVOo29y1uySEBmBnvLjk7%2fyMRSSWPDA%3d%3d&fich=AgendaParlamentar_json.txt&Inline=true"
 URL_PASTA = "https://www.parlamento.pt/Cidadania/Paginas/DABoletimInformativo.aspx?t=57465a4a5353424d5a576470633278686448567959513d3d"
-SECCOES = ('Plenário', 'Comissões Parlamentares', 'Grupo de Trabalho', 'Grupo de Trabalho AR', 'Conferência de Líderes', 'Comissão Permanente')   # o resto (visitas, audiências dos grupos parlamentares, agenda do Presidente) fica de fora
+# todas as secções da Agenda Parlamentar entram (decisão de 7/11/2026), incluindo grupos parlamentares, visitas e Conselho de
+# Administração; só o «Resumo da Calendarização» fica à parte, porque não é uma reunião (alimenta a calendarização do Plenário)
+FORA = ('Resumo da Calendarização',)
+class _Todas(tuple):
+    def __contains__(self, sec): return bool(sec) and sec not in FORA
+SECCOES = _Todas()
 
 def semana_alvo(hoje=None):
     """De segunda a quinta: a semana em curso. De sexta a domingo: a semana seguinte."""

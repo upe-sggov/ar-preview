@@ -49,7 +49,7 @@ Tudo corre em `.github/workflows/ar-preview.yml`.
 - **Recurso: dados abertos** (https://www.parlamento.pt/Cidadania/Paginas/DABoletimInformativo.aspx › Agenda Parlamentar › XVII Legislatura › `AgendaParlamentar_json.txt`), usados se o site da agenda não responder. A «Resumo da Calendarização» dos meses seguintes vem sempre daqui.
 - O registo de cada recolha (`dados/agenda_bruta.json`, campo `fonte`) diz qual das duas foi usada.
 
-Secções lidas: Plenário, Comissões Parlamentares, Grupo de Trabalho, Grupo de Trabalho AR, Conferência de Líderes e Comissão Permanente. Ficam de fora as audiências dos grupos parlamentares, as visitas, as assistências e o Conselho de Administração.
+Secções lidas: todas as da Agenda Parlamentar (Plenário, comissões, grupos de trabalho, Conferência de Líderes, Comissão Permanente, grupos parlamentares e partidos, visitas, Conselho de Administração…), por decisão de 7/11/2026. Só o «Resumo da Calendarização» fica à parte, porque alimenta a calendarização do Plenário. As secções que não são reuniões de trabalho ficam, em regra, em Registo.
 
 ---
 
