@@ -1,15 +1,15 @@
 ﻿chave;data;hora;tema;uo;pertinencia;expressoes;noticias_60d;estado;revisto
-ar-48665;2026-11-09;16h00;Comissão de Assuntos Europeus;DACDP;Registo;;;novo;
-ar-48667;2026-11-09;16h00;Comissão de Economia e Coesão Territorial;DACDP;Registo;;;novo;
-ar-48669;2026-11-09;16h00;Comissão de Ambiente e Energia;DACDP;Registo;;;novo;
+ar-48665;2026-11-09;16h00;Comissão de Assuntos Europeus;DACDP;Registo;;16;novo;
+ar-48667;2026-11-09;16h00;Comissão de Economia e Coesão Territorial;DACDP;Registo;;17;novo;
+ar-48669;2026-11-09;16h00;Comissão de Ambiente e Energia;DACDP;Registo;;17;novo;
 ar-48639;2026-11-09;16h00;Comissão de Assuntos Europeus;DACDP;Registo;;16;retirado;
 ar-48649;2026-11-09;16h00;Comissão de Ambiente e Energia;DACDP;Registo;;17;retirado;
 ar-48655;2026-11-09;16h00;Comissão de Economia e Coesão Territorial;DACDP;Registo;;17;retirado;
-ar-48672;2026-11-10;08h30;Grupo de Trabalho de Escrutínio de Iniciativas Europeias;;Registo;;;novo;
+ar-48672;2026-11-10;08h30;Grupo de Trabalho de Escrutínio de Iniciativas Europeias;;Registo;;0;novo;
 ar-48653;2026-11-10;08h30;Grupo de Trabalho de Escrutínio de Iniciativas Europeias;;Registo;;0;retirado;
-ar-48666;2026-11-10;09h00;Comissão de Assuntos Europeus;DACDP,DAPL;Registo;;;novo;
-ar-48668;2026-11-10;09h00;Comissão de Economia e Coesão Territorial;DACDP;Registo;;;novo;
+ar-48666;2026-11-10;09h00;Comissão de Assuntos Europeus;DACDP,DAPL;Registo;;21;novo;
+ar-48668;2026-11-10;09h00;Comissão de Economia e Coesão Territorial;DACDP;Registo;;21;novo;
 ar-48651;2026-11-10;09h00;Comissão de Assuntos Europeus;DACDP,DAPL;Registo;;21;retirado;
 ar-48654;2026-11-10;09h00;Comissão de Economia e Coesão Territorial;DACDP;Registo;;21;retirado;
-ar-48670;2026-11-10;16h00;Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram;DACDP;Vigilância;;;novo;
+ar-48670;2026-11-10;16h00;Intervenção de Luís Neves na Polícia Judiciária;DACDP;Vigilância;Comissão de Inquérito|Polícia Judiciária|Luís Neves|Processo Legislativo|Pegada Legislativa;1216;novo;
 ar-48664;2026-11-10;16h00;Intervenção de Luís Neves na Polícia Judiciária;DACDP;Vigilância;Comissão de Inquérito|Polícia Judiciária|Luís Neves|Processo Legislativo|Pegada Legislativa;1247;retirado;

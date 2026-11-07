@@ -44,11 +44,7 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ],
+   "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
     "n": 1296,
     "n7": 169,
@@ -2480,7 +2476,11 @@
      ]
     ]
    },
-   "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen"
+   "expressoes_auto": [
+    "Orçamento do Estado para 2027",
+    "OE2027",
+    "OE 2027"
+   ]
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -2512,11 +2512,6 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ],
    "cobertura": {
     "n": 1296,
     "n7": 169,
@@ -4947,7 +4942,13 @@
       "https://observador.pt/opiniao/oe-2027-estabilidade-fiscal-escolhas-adiadas/"
      ]
     ]
-   }
+   },
+   "expressoes_auto": [
+    "Orçamento do Estado para 2027",
+    "OE2027",
+    "OE 2027"
+   ],
+   "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p"
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -4979,11 +4980,6 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ],
    "cobertura": {
     "n": 1296,
     "n7": 169,
@@ -7414,7 +7410,12 @@
       "https://observador.pt/opiniao/oe-2027-estabilidade-fiscal-escolhas-adiadas/"
      ]
     ]
-   }
+   },
+   "expressoes_auto": [
+    "Orçamento do Estado para 2027",
+    "OE2027",
+    "OE 2027"
+   ]
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -7446,11 +7447,6 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ],
    "cobertura": {
     "n": 1296,
     "n7": 169,
@@ -9881,7 +9877,12 @@
       "https://observador.pt/opiniao/oe-2027-estabilidade-fiscal-escolhas-adiadas/"
      ]
     ]
-   }
+   },
+   "expressoes_auto": [
+    "Orçamento do Estado para 2027",
+    "OE2027",
+    "OE 2027"
+   ]
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -9913,11 +9914,6 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ],
    "cobertura": {
     "n": 1296,
     "n7": 169,
@@ -12348,7 +12344,12 @@
       "https://observador.pt/opiniao/oe-2027-estabilidade-fiscal-escolhas-adiadas/"
      ]
     ]
-   }
+   },
+   "expressoes_auto": [
+    "Orçamento do Estado para 2027",
+    "OE2027",
+    "OE 2027"
+   ]
   },
   {
    "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
@@ -12492,8 +12493,8 @@
     "retirados": 7
    }
   ],
-  "atualizado": "2026-11-07T13:54+00:00",
-  "atualizadoLabel": "7 de novembro, 13h54",
+  "atualizado": "2026-11-07T14:19+00:00",
+  "atualizadoLabel": "7 de novembro, 14h19",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de varrimento reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -12804,6 +12805,172 @@
    },
    "novas": 0,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 tem-se centrado em debates políticos e posições de partidos, com foco em medidas orçamentais e potenciais alterações. O PSD e o CDS-PP expressaram expectativas de previsibilidade, enquanto o PCP e o Chega anunciaram posições de voto contra. O Governo tem sido alvo de críticas sobre compromissos e propostas, com o Chega a apresentar 600 alterações ao documento. A cobertura inclui também pedidos de investimento em áreas como a Educação e as ilhas, e discussões sobre a viabilização do Orçamento."
+  },
+  "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 18 · Plenário · quinta, 19 nov, 10h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-10-01",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/politica/amp/ventura-acusa-ps-de-ter-tornado-documento-inutil-com-anuncio-de-abstencao-no-orcamento-do-estado-para-2027",
+     "sintese": "Ventura acusa PS de ter tornado documento 'inútil' com anúncio de abstenção no Orçamento do Estado para 2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-02",
+     "fonte": "Nascer do SOL",
+     "url": "https://sol.iol.pt/politica/noticias/pcp-anuncia-voto-contra-o-orcamento-do-estado-para-2027/20261002/6abfdb860cf22b9f8904da6e",
+     "sintese": "PCP anuncia voto contra o Orçamento do Estado para 2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485",
+     "sintese": "PS admite mudar viabilização do OE2027 se este tiver 'medidas surpresa' gravosas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-07",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/economia/artigo/oe2027-governo-entrega-proposta-no-parlamento-esta-quinta-feira-a-tarde/18134613",
+     "sintese": "OE2027: Governo entrega proposta no Parlamento esta quinta-feira à tarde.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-psd-espera-tranquilidade-e-previsibilidade-com-o-oe2027-mas-ps-avisa-que-compromissos-sao-para-cumprir-ab421b1d",
+     "sintese": "PSD espera 'tranquilidade' e 'previsibilidade' com o OE2027, mas PS avisa que 'compromissos são para cumprir'.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe2027-professores-pedem-mais-investimento-na-educacao-e-valorizacao-da-carreira",
+     "sintese": "OE2027: Professores pedem mais investimento na Educação e valorização da carreira.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "Jornal de Notícias",
+     "url": "https://www.jn.pt/nacional/artigo/carneiro-propoe-abstencao-ao-oe2027-mas-admite-que-conviccoes-mais-profundas-levariam-a-voto-contra/18135606",
+     "sintese": "Carneiro propõe abstenção ao OE2027 mas admite que 'convicções mais profundas' levariam a voto contra.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/visto-assim/2026-10-11-video-quais-sao-os-seis-mitos-sobre-o-orcamento-do-estado-para-2027--3ff9f953",
+     "sintese": "Quais são os seis mitos sobre o Orçamento do Estado para 2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/artigo/convidado/2026/10/13/o-oe-2027-em-perspetiva/489028/",
+     "sintese": "OE2027 em perspetiva.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3071945/anmp-aprova-parecer-positivo-ao-oe2027-mas-alerta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "ANMP aprova parecer positivo ao OE2027, mas alerta.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-28",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/national/article/2026-10-28/48026313/oe2027-leit%C3%A3o-amaro-critica-contas-%C3%A0-chega-e-pergunta-se-ficar%C3%A1-ao-lado-da-esquerda-na-lei-das-rendas",
+     "sintese": "Leitão Amaro critica 'contas à Chega' e pergunta se ficará ao lado da esquerda na lei das rendas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-30",
+     "fonte": "RTP Notícias",
+     "url": "https://acores.rtp.pt/economia/oe-2027-acores-exigem-mais-verbas-para-voos-interilhas/",
+     "sintese": "OE2027: Açores exigem mais verbas para voos interilhas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-01",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/01/eco-da-semana-midterms-contas-da-edp-e-audicoes-do-oe2027/",
+     "sintese": "OE2027: Professores pedem mais investimento na Educação e valorização da carreira. (repetida)",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-02",
+     "fonte": "Diário de Notícias",
+     "url": "http://dinheirovivo.dn.pt/empresas/oe2027-governo-rejeita-desmantelamento-da-cp-e-diz-que-subconcesso-preserva-papel-estratgico-da-empresa",
+     "sintese": "OE2027: Governo rejeita desmantelamento da CP e diz que subconcessão preserva papel estratégico da empresa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b",
+     "sintese": "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Agroportal",
+     "url": "https://www.agroportal.pt/oe2027-custos-aumentaram-mas-agricultor-faz-esforco-maior-ministro/",
+     "sintese": "OE2027: Ministro das Finanças promete analisar impacto orçamental de propostas do PS.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-ministro-das-financas-promete-analisar-impacto-orcamental-de-propostas-do-ps/",
+     "sintese": "OE2027: Custos aumentaram, mas agricultor faz esforço maior – Ministro.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-07",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
+     "sintese": "OE2027: Chega quer congelar idade da reforma no próximo ano.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    }
+   ],
+   "amostra": {
+    "analisadas": 18,
+    "encontradas": 1296
+   },
+   "base": {
+    "ultima": "2026-11-07 11:47",
+    "em": "2026-11-07"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com vários partidos a anunciar posições sobre a proposta de lei. O PS admitiu a possibilidade de alterar a viabilização do OE2027 caso este contenha medidas surpresa, enquanto o PCP já declarou o voto contra. O Governo entregou a proposta no Parlamento, e partidos como o PSD e o Chega apresentaram um elevado número de propostas de alteração, com o Chega a liderar com 712 propostas. A ANMP aprovou um parecer positivo, mas alertou para potenciais desafios. A discussão de artigos remetidos a Plenário e normas avocadas na Assembleia da República, na quinta-feira, deverá abordar estas posições e propostas."
   }
  },
  "destaques": [],
