@@ -164,4 +164,8 @@ if __name__ == '__main__':
     cal = calendarizacao(bruto)
     pathlib.Path('dados').mkdir(exist_ok=True)
     pathlib.Path('dados/agenda_bruta.json').write_text(json.dumps({'inicio': ini.isoformat(), 'fim': fim.isoformat(), 'recolha': datetime.datetime.now().isoformat(timespec='minutes'), 'fonte': fonte, 'itens': itens, 'futuro': futuro, 'calendarizacao': cal}, ensure_ascii=False, indent=1), encoding='utf-8')
+    import collections
+    diag = collections.Counter((x.get('EventStartDate'), x.get('Section')) for x in bruto)
+    for (dt, sec), n in sorted(diag.items(), key=lambda kv: (kv[0][0] or '')[6:] + (kv[0][0] or '')[3:5] + (kv[0][0] or '')[:2]):
+        print(f'  diagnóstico: {dt} · {sec}: {n}' + ('' if sec in SECCOES else '  (secção não incluída)'))
     print(f'{len(bruto)} registos na fonte; {len(itens)} para a semana de {ini} a {fim}; {len(futuro)} nas semanas seguintes; {len(cal)} dias de calendarização')
