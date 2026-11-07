@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-07T19:25",
+ "recolha": "2026-11-07T20:47",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -72,6 +72,69 @@
    "pertinencia": "Registo",
    "criterio": [
     "«assuntos europeus» (DACDP)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48663,
+   "data": "2026-11-09",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar PSD",
+   "orgao": "Audiências do Grupo Parlamentar PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48652,
+   "data": "2026-11-09",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48656,
+   "data": "2026-11-09",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
@@ -148,6 +211,27 @@
    "validado": false
   },
   {
+   "id_ar": 48671,
+   "data": "2026-11-10",
+   "hora": "11h00",
+   "tema": "Conselho de Administração",
+   "orgao": "Conselho de Administração",
+   "interveniente": "",
+   "tipo": [
+    "Conselho de Administração"
+   ],
+   "tipoLabel": "Conselho de Administração · Reunião n.º 30 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48670,
    "data": "2026-11-10",
    "hora": "16h00",
@@ -167,6 +251,174 @@
    "pertinencia": "Vigilância",
    "criterio": [
     "«comissão parlamentar de inquérito» → Vigilância"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48642,
+   "data": "2026-11-10",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48508,
+   "data": "2026-11-10",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48657,
+   "data": "2026-11-10",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48662,
+   "data": "2026-11-11",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48658,
+   "data": "2026-11-11",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48645,
+   "data": "2026-11-12",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48659,
+   "data": "2026-11-12",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48660,
+   "data": "2026-11-13",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   }
@@ -289,6 +541,27 @@
    "validado": false
   },
   {
+   "id_ar": 48648,
+   "data": "2026-11-23",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48677,
    "data": "2026-11-24",
    "hora": "10h00",
@@ -351,6 +624,27 @@
    "tipoLabel": "Plenário · Reunião n.º 23 · Plenário",
    "resumo": "Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas \n Tempos: A definir.",
    "ordemTrabalhos": "Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas \n Tempos: A definir.",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48607,
+   "data": "2026-12-16",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",

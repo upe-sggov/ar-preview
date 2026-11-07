@@ -4658,6 +4658,7 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
+   "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 245,
     "n7": 20,
@@ -6163,8 +6164,41 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
+   ]
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "data": "2026-11-23",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "id_ar": 48648,
+   "chave": "ar-48648",
+   "dataLabel": "segunda, 23 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
-   "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p"
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -7701,7 +7735,8 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ]
+   ],
+   "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p"
   },
   {
    "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
@@ -7820,6 +7855,40 @@
      ]
     ]
    }
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-12-16",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48607,
+   "chave": "ar-48607",
+   "dataLabel": "quarta, 16 dez",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
   }
  ],
  "calendarizacao": [],
@@ -7843,10 +7912,16 @@
     "novos": 7,
     "alterados": 0,
     "retirados": 7
+   },
+   {
+    "data": "2026-11-07",
+    "novos": 12,
+    "alterados": 0,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-07T19:25+00:00",
-  "atualizadoLabel": "7 de novembro, 19h25",
+  "atualizado": "2026-11-07T20:47+00:00",
+  "atualizadoLabel": "7 de novembro, 20h47",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8743,6 +8818,188 @@
    },
    "novas": 0,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares, críticas e propostas de alteração de vários partidos políticos. As notícias destacam discussões sobre competitividade, investimento, habitação e financiamento de infraestruturas como o Hospital de Gaia, enquanto alguns partidos expressam preocupações sobre a falta de informação em áreas como habitação e educação. O Governo, através de figuras como Luís Montenegro, defende que o OE2027 é favorável aos portugueses, e partidos como o Chega e o PS apresentam propostas específicas para alterar a proposta de lei. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a avaliação de políticas públicas."
+  },
+  "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-15",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/",
+     "sintese": "O ECO noticiou que o OE2027 pretende ser um orçamento para a competitividade, com foco na economia da próxima década, num contexto de reorganização de cadeias de valor e transição energética.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
+     "sintese": "O Dinheiro Vivo destacou que Montenegro sublinha um 'sinal importante' dado pelo PS, indicando um possível compromisso entre partidos no âmbito do OE2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-01",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
+     "sintese": "A CNN Portugal reportou que o OE2027 deve promover o investimento, a habitação e a competitividade da construção, com foco em medidas específicas para estes setores.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
+     "sintese": "A Renascença noticiou que Miranda Sarmento alerta o PS para a sua 'responsabilidade reforçada' no défice, com implicações para o OE2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
+     "sintese": "O Diário de Notícias reportou que o OE2027 prevê estagnação nos benefícios do Complemento Solidário para Idosos, gerando críticas do PS.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
+     "sintese": "A Executive Digest noticiou que o Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, uma medida prevista no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O Notícias ao Minuto reportou que o Chega reuniu o seu Conselho Nacional para analisar o OE2027, com propostas específicas para o documento.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
+     "sintese": "O Sábado questionou quais as medidas do OE2027 para os jovens, indicando um interesse específico neste grupo etário.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
+     "sintese": "A Healthnews criticou a ausência de financiamento no OE2027 para a construção de um hospital em Gaia, com um projeto estimado em 280 milhões de euros.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-12",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
+     "sintese": "O JN reportou que empresários consideram que falta ambição ao OE2027, mas elogiam o equilíbrio das contas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "JM Madeira",
+     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
+     "sintese": "A JM Madeira noticiou um aumento das transferências do Estado para a Madeira no OE2027, com impacto positivo para a região.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/pais/luis-montenegro-acredita-que-oe2027-e-bom-para-os-portugueses_v1774847",
+     "sintese": "O ECO concluiu que os ministérios terão mais autonomia na gestão de cativações no OE2027, com um aumento da reserva orçamental setorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/",
+     "sintese": "O Jornal de Negócios reportou que o OE2027 não permite saber quantas casas a mais o Governo vai pôr no mercado, uma falha apontada por especialistas do IPP.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
+     "sintese": "O Jornal Económico noticiou que falta investimento na Educação, com críticas dos sindicatos de professores sobre o OE2027.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
+     "sintese": "O Observador reportou que o PS apresentou 180 propostas de alteração ao OE2027, com foco em medidas como o IVA Zero no cabaz alimentar.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/",
+     "sintese": "O Expresso noticiou que o Chega insiste na descida do IVA dos combustíveis e na redução da idade da reforma, com cerca de 2.000 propostas de alteração ao OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
+     "sintese": "O Jornal Económico reportou que o Chega e o PCP são os partidos que mais alterações apresentaram ao OE2027, com o Chega a liderar com 712 propostas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/",
+     "sintese": "O Observador noticiou que o Chega quer congelar a idade da reforma no próximo ano, uma das propostas orçamentais do partido sobre o OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
+     "sintese": "O Jornal de Negócios reportou que mais de 2.800 propostas de alteração foram entregues ao OE2027, com o Chega à frente em número de propostas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-07",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
+     "sintese": "O Jornal Económico noticiou que o Chega insiste em medidas para reduzir o custo dos alimentos e aumentar o subsídio de refeição, como parte das suas propostas de alteração ao OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 245
+   },
+   "base": {
+    "ultima": "2026-11-07 10:48",
+    "em": "2026-11-07"
+   },
+   "novas": 0,
+   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares e análises políticas, com destaque para temas como competitividade económica, investimento na habitação e alterações fiscais. As notícias revelam críticas de partidos como o PS e o Chega, que apontam falhas na informação sobre habitação e combustíveis, e elogiam o equilíbrio das contas por parte de empresários. O documento apresenta propostas de alteração de mais de 2.800 partidos, com o Chega a liderar em número de propostas. A cobertura evolui com discussões sobre a autonomia dos ministérios na gestão de cativações e a falta de financiamento para projetos de saúde e educação."
   }
  },
  "destaques": [],
@@ -9726,6 +9983,137 @@
    "retirado": "2026-11-07"
   },
   {
+   "tema": "Audiências do Grupo Parlamentar PSD",
+   "data": "2026-11-09",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar PSD",
+   "id_ar": 48663,
+   "chave": "ar-48663",
+   "dataLabel": "segunda, 9 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-11-09",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48652,
+   "chave": "ar-48652",
+   "dataLabel": "segunda, 9 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-09",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48656,
+   "chave": "ar-48656",
+   "dataLabel": "segunda, 9 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
+   }
+  },
+  {
    "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
    "data": "2026-11-10",
    "hora": "08h30",
@@ -10554,6 +10942,691 @@
     ]
    },
    "retirado": "2026-11-07"
+  },
+  {
+   "tema": "Conselho de Administração",
+   "data": "2026-11-10",
+   "hora": "11h00",
+   "interveniente": "",
+   "tipoLabel": "Conselho de Administração · Reunião n.º 30 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Conselho de Administração",
+   "id_ar": 48671,
+   "chave": "ar-48671",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Conselho de Administração"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 105,
+    "n7": 20,
+    "n7ant": 9,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "2026-11-07 03:17",
+    "ultimas": [
+     {
+      "data": "2026-11-07",
+      "fonte": "Observador",
+      "titulo": "3h. Agência Lusa está sem diretor de informação",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2489/"
+     },
+     {
+      "data": "2026-11-06",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Nicolau Santos e Hugo Figueiredo reconduzidos para novo mandato na administração da RTP",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/nicolau-santos-e-hugo-figueiredo-reconduzidos-para-novo-mandato-na-administracao-da-rtp"
+     },
+     {
+      "data": "2026-11-06",
+      "fonte": "SIC Notícias",
+      "titulo": "CGI reconduz Nicolau Santos como presidente do Conselho de Administração da RTP",
+      "url": "https://sicnoticias.pt/pais/2026-11-06-cgi-reconduz-nicolau-santos-como-presidente-do-conselho-de-administracao-da-rtp-6c011a05"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-07 03:17",
+      "Observador",
+      "3h. Agência Lusa está sem diretor de informação",
+      "https://observador.pt/programas/noticiario/as-noticias-das-3h-2489/"
+     ],
+     [
+      "2026-11-06 20:54",
+      "Jornal de Negócios",
+      "Nicolau Santos e Hugo Figueiredo reconduzidos para novo mandato na administração da RTP",
+      "https://www.jornaldenegocios.pt/empresas/detalhe/nicolau-santos-e-hugo-figueiredo-reconduzidos-para-novo-mandato-na-administracao-da-rtp"
+     ],
+     [
+      "2026-11-06 19:29",
+      "SIC Notícias",
+      "CGI reconduz Nicolau Santos como presidente do Conselho de Administração da RTP",
+      "https://sicnoticias.pt/pais/2026-11-06-cgi-reconduz-nicolau-santos-como-presidente-do-conselho-de-administracao-da-rtp-6c011a05"
+     ],
+     [
+      "2026-11-06 19:14",
+      "RTP Notícias",
+      "CGI reconduz Nicolau Santos como presidente do Conselho de Administração da RTP",
+      "https://www.rtp.pt/noticias/pais/cgi-reconduz-nicolau-santos-como-presidente-do-conselho-de-administracao-da-rtp_n1777496"
+     ],
+     [
+      "2026-11-06 18:24",
+      "ECO",
+      "Armindo Escalda vai ser o novo CEO das seguradoras Aegon Santander",
+      "https://eco.sapo.pt/2026/11/06/armindo-escalda-vai-ser-o-novo-ceo-das-seguradoras-aegon-santander/"
+     ],
+     [
+      "2026-11-06 10:01",
+      "Ambiente Magazine",
+      "Opinião: “Reciclagem: entre os resultados atuais e as metas de 2030, o que falta percorrer?”",
+      "https://www.ambientemagazine.com/opiniao-reciclagem-entre-os-resultados-atuais-e-as-metas-de-2030-o-que-falta-percorrer/"
+     ],
+     [
+      "2026-11-06 09:10",
+      "Jornal Económico",
+      "BPCE muda governo do Novobanco e compra GamaLife por 400 milhões",
+      "https://jornaleconomico.sapo.pt/noticias/bpce-muda-governo-do-novobanco-e-compra-gamalife-por-400-milhoes/"
+     ],
+     [
+      "2026-11-05 09:17",
+      "Público",
+      "CENA-STE entrega pré-aviso de greve de 12 a 14 de Novembro na Casa da Música",
+      "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/cenaste-entrega-preaviso-greve-12-14-novembro-casa-musica-2193836"
+     ],
+     [
+      "2026-11-04 18:35",
+      "ECO",
+      "Miguel Stilwell d’Andrade de saída da liderança da EDP. “É a altura certa para sair da EDP”, afirma ao ECO",
+      "https://eco.sapo.pt/2026/11/04/miguel-stilwell-dandrade-de-saida-da-lideranca-da-edp/"
+     ],
+     [
+      "2026-11-04 18:01",
+      "RTP Notícias",
+      "Miguel Stilwell de Andrade vai deixar a liderança da EDP",
+      "https://www.rtp.pt/noticias/economia/miguel-stilwell-de-andrade-vai-deixar-a-lideranca-da-edp_n1776912"
+     ],
+     [
+      "2026-11-04 17:45",
+      "Jornal de Negócios",
+      "Reforço na REN dá dois a três administradores ao Governo",
+      "https://www.jornaldenegocios.pt/empresas/energia/detalhe/reforco-na-ren-da-dois-a-tres-administradores-ao-governo"
+     ],
+     [
+      "2026-11-04 17:30",
+      "ECO",
+      "Acordo na Lusa para aumento salarial de 87,50 euros",
+      "https://eco.sapo.pt/2026/11/04/acordo-na-lusa-para-aumento-salarial-de-8750-euros/"
+     ],
+     [
+      "2026-11-04 17:16",
+      "ECO",
+      "Aumento da longevidade obriga seguradoras a repensar poupança para a reforma e seguros de vida",
+      "https://eco.sapo.pt/2026/11/04/aumento-da-longevidade-obriga-seguradoras-a-repensar-poupanca-para-a-reforma-e-seguros-de-vida/"
+     ],
+     [
+      "2026-11-04 16:57",
+      "ECO",
+      "Conselho de Redação da Lusa dá parecer negativo a Diana Ramos, a nova diretora",
+      "https://eco.sapo.pt/2026/11/04/conselho-de-redacao-da-lusa-da-parecer-negativo-a-diana-ramos-a-nova-diretora/"
+     ],
+     [
+      "2026-11-04 09:40",
+      "ECO",
+      "Próximo Conselho de Administração deve fazer “reestruturação profunda” da RTP",
+      "https://eco.sapo.pt/2026/11/04/proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp/"
+     ],
+     [
+      "2026-11-04 01:00",
+      "Diário de Notícias da Madeira",
+      "Próximo Conselho de Administração deve fazer \"reestruturação profunda\" da RTP",
+      "https://www.dnoticias.pt/2026/11/3/511520-proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp/"
+     ],
+     [
+      "2026-11-03 23:14",
+      "Observador",
+      "CTT vão vender posição de controlo do Banco CTT",
+      "https://observador.pt/2026/11/03/ctt-avancam-com-venda-de-posicao-de-controlo-do-banco-ctt-apos-manifestacao-de-interesse-nao-solicitada/"
+     ],
+     [
+      "2026-11-03 22:51",
+      "RTP Notícias",
+      "CTT iniciam processo de venda de posição de controlo no Banco CTT",
+      "https://www.rtp.pt/noticias/economia/ctt-iniciam-processo-de-venda-de-posicao-de-controlo-no-banco-ctt_n1776675"
+     ],
+     [
+      "2026-11-03 22:10",
+      "Diário de Notícias da Madeira",
+      "CTT iniciam processo de venda de posição de controlo no Banco CTT",
+      "https://www.dnoticias.pt/2026/11/3/511519-ctt-iniciam-processo-de-venda-de-posicao-de-controlo-no-banco-ctt/"
+     ],
+     [
+      "2026-11-03 10:29",
+      "Jornal de Negócios",
+      "Afinal, Portugal Gaspar não vai para a Concorrência. Vai presidir ao Instituto Português da Qualidade",
+      "https://www.jornaldenegocios.pt/economia/detalhe/afinal-portugal-gaspar-nao-vai-para-a-concorrencia-vai-presidir-ao-instituto-portugues-da-qualidade"
+     ],
+     [
+      "2026-10-31 13:22",
+      "Healthnews",
+      "Gestão hospitalar: Brasil destaca modelo colegial português, Portugal questiona nomeação dos gestores",
+      "https://healthnews.pt/2026/10/31/gestao-hospitalar-brasil-destaca-modelo-colegial-portugues-portugal-questiona-nomeacao-dos-gestores/"
+     ],
+     [
+      "2026-10-31 00:12",
+      "RTP Notícias",
+      "Conselho de Redação da Lusa pede a regulador parecer urgente sobre nomeação de nova diretora",
+      "https://www.rtp.pt/noticias/economia/conselho-de-redacao-da-lusa-pede-a-regulador-parecer-urgente-sobre-nomeacao-de-nova-diretora_n1775782"
+     ],
+     [
+      "2026-10-30 19:37",
+      "Jornal de Negócios",
+      "Conselho de Administração da Lusa convida Diana Ramos para diretora de informação",
+      "https://www.jornaldenegocios.pt/empresas/detalhe/conselho-de-administracao-da-lusa-convida-diana-ramos-para-diretora-de-informacao"
+     ],
+     [
+      "2026-10-30 19:09",
+      "RTP Notícias",
+      "Conselho de Administração da Lusa convida Diana Ramos para diretora de informação",
+      "https://www.rtp.pt/noticias/economia/conselho-de-administracao-da-lusa-convida-diana-ramos-para-diretora-de-informacao_n1775729"
+     ],
+     [
+      "2026-10-30 06:41",
+      "Healthnews",
+      "5. Previsibilidade, financiamento e pessoas: o que deve estar no Pacto para a Saúde",
+      "https://healthnews.pt/2026/10/30/5-previsibilidade-financiamento-e-pessoas-o-que-deve-estar-no-pacto-para-a-saude/#utm_source=rss&utm_medium=rss&utm_campaign=5-previsibilidade-financiamento-e-pessoas-o-que-deve-estar-no-pacto-para-a-saude"
+     ],
+     [
+      "2026-10-27 18:33",
+      "Público",
+      "Governo quer ter influência na Galp, mas só 200 milhões de euros asseguram um administrador",
+      "https://www.publico.pt/2026/10/27/economia/noticia/governo-quer-influencia-galp-so-200-milhoes-euros-asseguram-administrador-2192825"
+     ],
+     [
+      "2026-10-27 11:11",
+      "Jornal Económico",
+      "Inteligência artificial está a obrigar a Critical Software a refundar-se",
+      "https://jornaleconomico.sapo.pt/noticias/inteligencia-artificial-esta-a-obrigar-a-critical-software-a-refundar-se/"
+     ],
+     [
+      "2026-10-26 14:47",
+      "Healthnews",
+      "Técnicos de diagnóstico e terapêutica da ULS Amadora/Sintra voltam à greve e concentram-se no Ministério da Saúde",
+      "https://healthnews.pt/2026/10/26/tecnicos-de-diagnostico-e-terapeutica-da-uls-amadora-sintra-voltam-a-greve-e-concentram-se-no-ministerio-da-saude/#utm_source=rss&utm_medium=rss&utm_campaign=tecnicos-de-diagnostico-e-terapeutica-da-uls-amadora-sintra-voltam-a-greve-e-concentram-se-no-ministerio-da-saude"
+     ],
+     [
+      "2026-10-25 16:00",
+      "Jornal de Negócios",
+      "Zuckerberg ameaçou sair da Califórnia por causa de um imposto, mas a Meta compensou-o com ações",
+      "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/zuckerberg-ameacou-sair-da-california-por-causa-de-um-imposto-mas-a-meta-compensou-o-com-acoes"
+     ],
+     [
+      "2026-10-23 12:00",
+      "Jornal Económico",
+      "João de Mello reeleito para conselho de administração do Cefic",
+      "https://jornaleconomico.sapo.pt/noticias/joao-de-mello-reeleito-para-conselho-de-administracao-do-cefic/"
+     ],
+     [
+      "2026-10-23 10:26",
+      "ECO",
+      "Conselho de Redação da Lusa critica “falta de frontalidade” da administração",
+      "https://eco.sapo.pt/2026/10/23/conselho-de-redacao-da-lusa-critica-falta-de-frontalidade-da-administracao/"
+     ],
+     [
+      "2026-10-23 10:20",
+      "Executive Digest",
+      "João de Mello reeleito para o conselho de administração da principal associação química europeia",
+      "https://executivedigest.sapo.pt/joao-de-mello-reeleito-para-o-conselho-de-administracao-da-principal-associacao-quimica-europeia/"
+     ],
+     [
+      "2026-10-22 19:22",
+      "ECO",
+      "Proposta “para já” ou pedido da própria? As duas versões da saída da diretora de informação da Lusa",
+      "https://eco.sapo.pt/2026/10/22/proposta-para-ja-ou-pedido-da-propria-as-duas-versoes-da-saida-da-diretora-de-informacao-da-lusa/"
+     ],
+     [
+      "2026-10-21 17:35",
+      "Jornal Económico",
+      "Tribunal de Contas nega estar há dois anos a travar expansão da Linha Vermelha do Metro de Lisboa",
+      "https://jornaleconomico.sapo.pt/noticias/tribunal-de-contas-nega-estar-ha-dois-anos-a-travar-expansao-da-linha-vermelha-do-metro-de-lisboa/"
+     ],
+     [
+      "2026-10-21 17:03",
+      "Observador",
+      "RTP \"precisa de se transformar, não é para desaparecer\"",
+      "https://observador.pt/2026/10/21/rtp-precisa-de-se-transformar-nao-e-para-desaparecer-leitao-amaro-defende-reestrutracao-da-estacao-televisiva/"
+     ],
+     [
+      "2026-10-20 18:40",
+      "Açoriano Oriental",
+      "Direito de Resposta",
+      "https://www.acorianooriental.pt/noticia/direitos-de-resposta-381306"
+     ],
+     [
+      "2026-10-19 17:31",
+      "RTP Notícias",
+      "Mandato do Conselho de Administração do HDES termina a 31 de outubro",
+      "https://acores.rtp.pt/radio/mandato-do-conselho-de-administracao-do-hdes-termina-a-31-de-outubro/"
+     ],
+     [
+      "2026-10-15 09:51",
+      "Ambiente Magazine",
+      "SENAG: Vimágua defende planeamento antecipado e cooperação para reforçar resiliência do setor",
+      "https://www.ambientemagazine.com/senag-vimagua-defende-planeamento-antecipado-e-cooperacao-para-reforcar-resiliencia-do-setor/"
+     ],
+     [
+      "2026-10-14 17:21",
+      "Açoriano Oriental",
+      "Estado mantém maioria no Conselho de Administração e Lufthansa assume gestão operacional",
+      "https://www.acorianooriental.pt/noticia/estado-mantem-maioria-no-conselho-de-administracao-e-lufthansa-assume-gestao-operacional-381118"
+     ],
+     [
+      "2026-10-14 16:55",
+      "Executive Digest",
+      "TAP: Estado mantém maioria no Conselho de Administração e Lufthansa assume gestão operacional",
+      "https://executivedigest.sapo.pt/tap-estado-mantem-maioria-no-conselho-de-administracao-e-lufthansa-assume-gestao-operacional/"
+     ],
+     [
+      "2026-10-14 15:10",
+      "Correio da Manhã",
+      "Estado mantém maioria no Conselho de Administração da TAP e Lufthansa assume gestão operacional",
+      "https://www.cmjornal.pt/economia/amp/estado-mantem-maioria-no-conselho-de-administracao-da-tap-e-lufthansa-assume-gestao-operacional"
+     ],
+     [
+      "2026-10-14 13:32",
+      "ECO",
+      "Estado fica com a maioria no conselho da TAP e Lufthansa com a gestão diária",
+      "https://eco.sapo.pt/2026/10/14/estado-fica-com-a-maioria-no-conselho-da-tap-e-lufthansa-com-a-gestao-diaria/"
+     ],
+     [
+      "2026-10-14 13:01",
+      "CNN Portugal",
+      "Estado vai mandar no Conselho de Administração, Lufthansa manda na Comissão Executiva",
+      "https://cnnportugal.iol.pt/lufthansa/lufthansa-tap/estado-vai-mandar-no-conselho-de-administracao-lufthansa-manda-na-comissao-executiva/20261014/6acf66ead34e9a786e75c1b7"
+     ],
+     [
+      "2026-10-14 07:31",
+      "Healthnews",
+      "Coimbra tem condições para reforçar a saúde global, defende ULS",
+      "https://healthnews.pt/2026/10/14/coimbra-tem-condicoes-para-reforcar-a-saude-global-defende-uls/#utm_source=rss&utm_medium=rss&utm_campaign=coimbra-tem-condicoes-para-reforcar-a-saude-global-defende-uls"
+     ],
+     [
+      "2026-10-14 07:16",
+      "Jornal de Negócios",
+      "Metro de Lisboa encerrado devido a greve de trabalhadores",
+      "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/metro-de-lisboa-encerrado-devido-a-greve-de-trabalhadores"
+     ],
+     [
+      "2026-10-13 19:52",
+      "Notícias ao Minuto",
+      "Aprovada audição de diretora e Conselho de Administração da Lusa na AR",
+      "https://www.noticiasaominuto.com/politica/3066337/aprovada-audicao-de-diretora-e-conselho-de-administracao-da-lusa-na-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-13 19:42",
+      "Executive Digest",
+      "Aprovada audições de Luísa Meireles e Conselho de Administração da Lusa no parlamento",
+      "https://executivedigest.sapo.pt/aprovada-audicoes-de-luisa-meireles-e-conselho-de-administracao-da-lusa-no-parlamento/"
+     ],
+     [
+      "2026-10-12 13:46",
+      "Observador",
+      "Máximo dos Santos deixa administração do Banco de Portugal",
+      "https://observador.pt/2026/10/12/maximo-dos-santos-deixa-administracao-do-banco-de-portugal-no-final-do-mes/"
+     ],
+     [
+      "2026-10-12 12:48",
+      "Ambiente Magazine",
+      "Opinião: “Uma cidade limpa é uma cidade que cuida”",
+      "https://www.ambientemagazine.com/opiniao-uma-cidade-limpa-e-uma-cidade-que-cuida/"
+     ],
+     [
+      "2026-10-12 11:22",
+      "Açoriano Oriental",
+      "Vogal do Conselho de Administração do HDES apresenta escusa de responsabilidade",
+      "https://www.acorianooriental.pt/noticia/vogal-do-conselho-de-administracao-do-hdes-apresenta-escusa-de-responsabilidade-381020"
+     ],
+     [
+      "2026-10-12 06:49",
+      "ECO",
+      "CEO da PPP do Hospital de Cascais: “Candidatámo-nos” a gerir centro de saúde privado na região",
+      "https://eco.sapo.pt/entrevista/ceo-da-ppp-do-hospital-de-cascais-candidatamo-nos-a-gerir-centro-de-saude-privado-na-regiao/"
+     ],
+     [
+      "2026-10-09 20:24",
+      "Observador",
+      "BE questiona Governo sobre saída da diretora da Lusa",
+      "https://observador.pt/2026/10/09/be-questiona-governo-sobre-saida-da-diretora-de-informacao-da-lusa-e-acusa-administracao-de-interferencia-editorial/"
+     ],
+     [
+      "2026-10-09 16:25",
+      "Observador",
+      "CT da Lusa denuncia ingerência editorial da administração",
+      "https://observador.pt/2026/10/09/trabalhadores-da-lusa-denunciam-a-assembleia-da-republica-e-a-erc-ingerencia-editorial/"
+     ],
+     [
+      "2026-10-09 14:23",
+      "Jornal de Notícias",
+      "Trabalhadores da Lusa denunciam ingerência editorial do Conselho de Administração",
+      "https://www.jn.pt/amp/18135267/trabalhadores-da-lusa-denunciam-ingerencia-editorial-do-conselho-de-administracao"
+     ],
+     [
+      "2026-10-09 12:23",
+      "ECO",
+      "Administração da Lusa vai reformular cláusulas do contrato de delegado internacional",
+      "https://eco.sapo.pt/2026/10/09/administracao-da-lusa-vai-reformular-clausulas-do-contrato-de-delegado-internacional/"
+     ],
+     [
+      "2026-10-08 15:37",
+      "RTP Notícias",
+      "Administração da Lusa agradece \"dedicação\" da DI e anuncia \"em breve\" nova equipa",
+      "https://www.rtp.pt/noticias/economia/administracao-da-lusa-agradece-dedicacao-da-di-e-anuncia-em-breve-nova-equipa_n1770351"
+     ],
+     [
+      "2026-10-08 13:25",
+      "ECO",
+      "Mais uma mudança na LVMH. Dior muda gestão",
+      "https://eco.sapo.pt/2026/10/08/mais-uma-mudanca-na-lvmh-dior-muda-gestao/"
+     ],
+     [
+      "2026-10-07 13:51",
+      "Observador",
+      "Moçambique valida estratégia para acelerar acesso à internet",
+      "https://observador.pt/2026/10/07/mocambique-valida-estrategia-para-acelerar-acesso-a-internet-e-inclusao-digital/"
+     ],
+     [
+      "2026-10-06 22:30",
+      "Observador",
+      "CT da Lusa denuncia interferência editorial em Bruxelas",
+      "https://observador.pt/2026/10/06/lusa-trabalhadores-acusam-administracao-de-interferir-na-linha-editorial-ao-propor-nomes-para-delegacao-de-bruxelas/"
+     ],
+     [
+      "2026-10-06 13:00",
+      "Jornal de Negócios",
+      "Gabriel Bernardino: \"Sabendo qual é o objetivo, entende-se muito melhor quais são os riscos\"",
+      "https://www.jornaldenegocios.pt/mercados/detalhe/gabriel-bernardino-sabendo-qual-e-o-objetivo-entende-se-muito-melhor-quais-sao-os-riscos"
+     ],
+     [
+      "2026-10-06 12:03",
+      "Observador",
+      "Dono do Novo Banco compra 7% do Sabadell por 1.200 milhões",
+      "https://observador.pt/2026/10/06/dono-do-novo-banco-compra-7-do-sabadell-por-1-200-milhoes-de-euros/"
+     ],
+     [
+      "2026-10-06 09:20",
+      "Jornal de Negócios",
+      "Dono do Novo Banco compra 7% do Sabadell e quer lugar no conselho de administração",
+      "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/dono-do-novo-banco-compra-7-do-sabadell-e-quer-lugar-no-conselho-de-administracao"
+     ],
+     [
+      "2026-10-03 22:53",
+      "Jornal Económico",
+      "Vítor Ribeiro substitui Juan Carlos Bonifaz como administrador da Ibersol",
+      "https://jornaleconomico.sapo.pt/noticias/vitor-ribeiro-substitui-juan-carlos-bonifaz-como-administrador-da-ibersol/"
+     ],
+     [
+      "2026-10-02 17:33",
+      "Jornal Económico",
+      "Fidelidade conclui compra de 70% da IMGA e eleva ativos sob gestão para 25 mil milhões",
+      "https://jornaleconomico.sapo.pt/noticias/fidelidade-conclui-compra-de-70-da-imga-e-eleva-ativos-sob-gestao-para-25-mil-milhoes/"
+     ],
+     [
+      "2026-10-01 20:11",
+      "RTP Notícias",
+      "Administração da Sonae propõe Cláudia Azevedo para presidente e João Dolores para CEO",
+      "https://www.rtp.pt/noticias/economia/administracao-da-sonae-propoe-claudia-azevedo-para-presidente-e-joao-dolores-para-ceo_n1768966"
+     ],
+     [
+      "2026-10-01 19:06",
+      "Diário de Notícias",
+      "Sonae. Cláudia Azevedo sucede a Paulo Azevedo como presidente do Conselho de Administração",
+      "http://dinheirovivo.dn.pt/empresas/sonae-prope-cludia-azevedo-para-presidente-do-conselho-de-administrao-e-joo-dolores-para-ceo"
+     ],
+     [
+      "2026-10-01 18:58",
+      "Público",
+      "Cláudia Azevedo substituída por João Dolores na liderança da Sonae",
+      "https://www.publico.pt/2026/10/01/economia/noticia/claudia-azevedo-substituida-joao-dolores-lideranca-sonae-2190014"
+     ],
+     [
+      "2026-10-01 18:52",
+      "Jornal Económico",
+      "João Dolores será o novo CEO da Sonae",
+      "https://jornaleconomico.sapo.pt/noticias/joao-dolores-sera-o-novo-ceo-da-sonae/"
+     ],
+     [
+      "2026-10-01 18:51",
+      "Observador",
+      "João Dolores vai ser o novo CEO da Sonae",
+      "https://observador.pt/2026/10/01/claudia-azevedo-deixa-lideranca-da-sonae-joao-dolores-sera-o-novo-ceo/"
+     ],
+     [
+      "2026-10-01 17:23",
+      "Jornal Económico",
+      "António Domingues deixa o Conselho de Administração do Haitong Bank",
+      "https://jornaleconomico.sapo.pt/noticias/antonio-domingues-deixa-o-conselho-de-administracao-do-haitong-bank/"
+     ],
+     [
+      "2026-10-01 09:31",
+      "Executive Digest",
+      "Bison Bank nomeia novo Conselho de Administração e mantém António Henriques como CEO",
+      "https://executivedigest.sapo.pt/bison-bank-nomeia-novo-conselho-de-administracao-e-mantem-antonio-henriques-como-ceo/"
+     ],
+     [
+      "2026-09-30 16:13",
+      "RTP Notícias",
+      "Presidente da Lusa. Agências noticiosas \"são cada vez mais as primeiras a verificar\"",
+      "https://www.rtp.pt/noticias/economia/presidente-da-lusa-agencias-noticiosas-sao-cada-vez-mais-as-primeiras-a-verificar_n1768671"
+     ],
+     [
+      "2026-09-30 11:04",
+      "ECO",
+      "Presidente da Lusa considera “redutor centrar toda a reflexão exclusivamente nos estatutos”",
+      "https://eco.sapo.pt/2026/09/30/presidente-da-lusa-considera-redutor-centrar-toda-a-reflexao-exclusivamente-nos-estatutos/"
+     ],
+     [
+      "2026-09-30 09:34",
+      "Healthnews",
+      "Tribunal da Relação confirma: reportagens da TVI sobre Alexandre Lourenço “não correspondem à verdade”",
+      "https://healthnews.pt/2026/09/30/tribunal-da-relacao-confirma-reportagens-da-tvi-sobre-alexandre-lourenco-nao-correspondem-a-verdade/#utm_source=rss&utm_medium=rss&utm_campaign=tribunal-da-relacao-confirma-reportagens-da-tvi-sobre-alexandre-lourenco-nao-correspondem-a-verdade"
+     ],
+     [
+      "2026-09-29 20:20",
+      "RTP Notícias",
+      "Presidente da Lusa admite que \"todos os modelos\" de governação \"podem ser melhorados\"",
+      "https://www.rtp.pt/noticias/economia/presidente-da-lusa-admite-que-todos-os-modelos-de-governacao-podem-ser-melhorados_n1768506"
+     ],
+     [
+      "2026-09-29 16:50",
+      "RTP Notícias",
+      "CR da Lusa denuncia \"decisões administrativas que permitem a interferência\" na área editorial",
+      "https://www.rtp.pt/noticias/economia/cr-da-lusa-denuncia-decisoes-administrativas-que-permitem-a-interferencia-na-area-editorial_n1768471"
+     ],
+     [
+      "2026-09-29 16:38",
+      "ECO",
+      "CR da Lusa denuncia “decisões administrativas que permitem a interferência” na área editorial",
+      "https://eco.sapo.pt/2026/09/29/cr-da-lusa-denuncia-decisoes-administrativas-que-permitem-a-interferencia-na-area-editorial/"
+     ],
+     [
+      "2026-09-28 18:25",
+      "ECO",
+      "Confagri pede intervenção do Estado face a aumento de custos do setor agroalimentar",
+      "https://eco.sapo.pt/2026/09/28/confagri-pede-intervencao-do-estado-face-a-aumento-de-custos-do-setor-agroalimentar/"
+     ],
+     [
+      "2026-09-28 18:23",
+      "Jornal de Negócios",
+      "\"Custo com jet fuel é preocupação da TAP e de toda a indústria\", garante \"chairman\"",
+      "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/custo-com-jet-fuel-e-preocupacao-da-tap-e-de-toda-a-industria-garante-chairman"
+     ],
+     [
+      "2026-09-28 14:46",
+      "Jornal de Negócios",
+      "Nvidia reforça em 150 mil milhões de dólares programa de recompra de ações",
+      "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/nvidia-reforca-em-150-mil-milhoes-de-dolares-programa-de-recompra-de-acoes"
+     ],
+     [
+      "2026-09-25 12:20",
+      "Jornal Económico",
+      "Joaquim Saurina assume liderança do WiZink após saída de Iheb Nafaa",
+      "https://jornaleconomico.sapo.pt/noticias/joaquim-saurina-assume-lideranca-do-wizink-apos-saida-de-iheb-nafaa/"
+     ],
+     [
+      "2026-09-24 17:38",
+      "RTP Notícias",
+      "Negociações com administração da Lusa terminam sem acordo dizem sindicatos",
+      "https://www.rtp.pt/noticias/economia/negociacoes-com-administracao-da-lusa-terminam-sem-acordo-dizem-sindicatos_n1767515"
+     ],
+     [
+      "2026-09-23 09:24",
+      "RTP Notícias",
+      "Suspensão da Interrupção Voluntária da Gravidez no Garcia de Orta vai até ao Parlamento",
+      "https://www.rtp.pt/noticias/pais/suspensao-da-interrupcao-voluntaria-da-gravidez-no-garcia-de-orta-vai-ate-ao-parlamento_n1767172"
+     ],
+     [
+      "2026-09-21 20:08",
+      "Jornal Económico",
+      "Pedro Portugal Gaspar sai da AIMA e vai ser ouvido para assumir cargo na AdC",
+      "https://jornaleconomico.sapo.pt/noticias/pedro-portugal-gaspar-sai-da-aima-e-vai-ser-ouvido-para-assumir-cargo-na-adc/"
+     ],
+     [
+      "2026-09-21 18:09",
+      "ECO",
+      "Formação executiva do ISEG tem nova administração que quer reforçar ligação às empresas",
+      "https://eco.sapo.pt/2026/09/21/formacao-executiva-do-iseg-tem-nova-administracao-que-quer-reforcar-ligacao-as-empresas/"
+     ],
+     [
+      "2026-09-21 16:41",
+      "ECO",
+      "Pedro Portugal Gaspar deixa presidência da AIMA. Segue-se a Autoridade da Concorrência",
+      "https://eco.sapo.pt/2026/09/21/pedro-portugal-gaspar-troca-aima-pela-autoridade-da-concorrencia/"
+     ],
+     [
+      "2026-09-20 23:00",
+      "Jornal de Negócios",
+      "Um equívoco esclarecedor",
+      "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/um-equivoco-esclarecedor"
+     ],
+     [
+      "2026-09-18 12:02",
+      "Jornal de Negócios",
+      "Buffett deixa presidência da Berkshire Hathaway com efeitos imediatos. Filho é sucessor",
+      "https://www.jornaldenegocios.pt/mercados/detalhe/buffett-deixa-presidencia-da-berkshire-hathaway-com-efeitos-imediatos-filho-e-sucessor"
+     ],
+     [
+      "2026-09-18 11:59",
+      "ECO",
+      "Warren Buffett deixa a presidência da Berkshire Hathaway após seis décadas",
+      "https://eco.sapo.pt/2026/09/18/warren-buffett-deixa-a-presidencia-da-berkshire-hathaway-apos-seis-decadas/"
+     ],
+     [
+      "2026-09-17 19:34",
+      "Jornal de Negócios",
+      "Terminal Vasco da Gama em Sines com concurso previsto no primeiro semestre de 2027",
+      "https://www.jornaldenegocios.pt/empresas/detalhe/terminal-vasco-da-gama-em-sines-com-concurso-previsto-no-primeiro-semestre-de-2027"
+     ],
+     [
+      "2026-09-17 14:50",
+      "Executive Digest",
+      "Oney nomeia Fabrice Gourgeonnet para presidente do Conselho de Administração",
+      "https://executivedigest.sapo.pt/oney-nomeia-fabrice-gourgeonnet-para-presidente-do-conselho-de-administracao/"
+     ],
+     [
+      "2026-09-17 13:48",
+      "Observador",
+      "Teatro D. Maria II garante condições para reabertura",
+      "https://observador.pt/2026/09/17/teatro-nacional-d-maria-ii-garante-condicoes-de-reabertura-e-contesta-queixas-dos-trabalhadores/"
+     ],
+     [
+      "2026-09-17 10:29",
+      "ECO",
+      "Quem vai escolher a nova administração da RTP?",
+      "https://eco.sapo.pt/2026/09/17/quem-vai-escolher-a-nova-administracao-da-rtp/"
+     ],
+     [
+      "2026-09-16 13:29",
+      "Açoriano Oriental",
+      "Onze manifestações de interesse na SATA Handling",
+      "http://www.acorianooriental.pt/noticia/onze-manifestacoes-de-interesse-na-sata-handling-380390"
+     ],
+     [
+      "2026-09-16 10:02",
+      "Observador",
+      "Trump anuncia que Kennedy Center votou pelo encerramento",
+      "https://observador.pt/2026/09/16/trump-anuncia-que-kennedy-center-votou-pelo-encerramento-imediato/"
+     ],
+     [
+      "2026-09-16 00:34",
+      "ECO",
+      "Administração da RTP disputada por quatro duplas",
+      "https://eco.sapo.pt/2026/09/16/administracao-da-rtp-disputada-por-quatro-duplas/"
+     ],
+     [
+      "2026-09-15 19:19",
+      "RTP Notícias",
+      "Juiz federal volta a bloquear atribuição do nome de Trump ao Kennedy Center em Washington",
+      "https://www.rtp.pt/noticias/mundo/juiz-federal-volta-a-bloquear-atribuicao-do-nome-de-trump-ao-kennedy-center-em-washington_n1765628"
+     ],
+     [
+      "2026-09-15 17:53",
+      "ECO",
+      "PIB Group procura novo CEO após saída de Brendan McManus",
+      "https://eco.sapo.pt/2026/09/15/pib-group-procura-novo-ceo-apos-saida-de-brendan-mcmanus/"
+     ],
+     [
+      "2026-09-15 17:48",
+      "Jornal Económico",
+      "Vivalto Santé reforça cooperação europeia com nova estrutura estratégica em sete países",
+      "https://jornaleconomico.sapo.pt/noticias/vivalto-sante-reforca-cooperacao-europeia-com-nova-estrutura-estrategica-em-sete-paises/"
+     ],
+     [
+      "2026-09-14 07:18",
+      "Observador",
+      "7h.Hospital Amadora-Sintra. 40% dos utentes são estrangeiros",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2505/"
+     ],
+     [
+      "2026-09-09 17:36",
+      "ECO",
+      "Ana Casaca, diretora de inovação da Galp, nomeada presidente da AICEP",
+      "https://eco.sapo.pt/2026/09/09/ana-casaca-nomeada-presidente-da-aicep/"
+     ],
+     [
+      "2026-09-09 14:18",
+      "RTP Notícias",
+      "Benfica volta a criticar processo de centralização dos direitos televisivos",
+      "https://www.rtp.pt/noticias/benfica/benfica-volta-a-criticar-processo-de-centralizacao-dos-direitos-televisivos_d1764383"
+     ],
+     [
+      "2026-09-09 10:14",
+      "Açoriano Oriental",
+      "Um sinal de esperança para o futuro da Azores Airlines",
+      "http://www.acorianooriental.pt/noticia/um-sinal-de-esperanca-para-o-futuro-da-azores-airlines-380225"
+     ],
+     [
+      "2026-09-08 17:13",
+      "Jornal de Negócios",
+      "Stefan Doboczky assume presidência executiva da Hovione a 1 de abril de 2027",
+      "https://www.jornaldenegocios.pt/empresas/detalhe/stefan-doboczky-assume-presidencia-executiva-da-hovione-a-1-de-abril-de-2027"
+     ],
+     [
+      "2026-09-08 06:04",
+      "Executive Digest",
+      "Presidente do conselho de administração e CEO do Grupo Lusíadas Saúde",
+      "https://executivedigest.sapo.pt/tag/presidente-do-conselho-de-administracao-e-ceo-do-grupo-lusiadas-saude/"
+     ]
+    ]
+   }
   },
   {
    "tema": "Intervenção de Luís Neves na Polícia Judiciária",
@@ -13939,6 +15012,390 @@
    },
    "varrimento": "2026-11-10-48664-interven-o-de-lu-s-neves-na-pol-cia-judici",
    "retirado": "2026-11-07"
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "data": "2026-11-10",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "id_ar": 48642,
+   "chave": "ar-48642",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-11-10",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48508,
+   "chave": "ar-48508",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-10",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48657,
+   "chave": "ar-48657",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "data": "2026-11-11",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "id_ar": 48662,
+   "chave": "ar-48662",
+   "dataLabel": "quarta, 11 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-11",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48658,
+   "chave": "ar-48658",
+   "dataLabel": "quarta, 11 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "data": "2026-11-12",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "id_ar": 48645,
+   "chave": "ar-48645",
+   "dataLabel": "quinta, 12 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-12",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48659,
+   "chave": "ar-48659",
+   "dataLabel": "quinta, 12 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-13",
+   "hora": "",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48660,
+   "chave": "ar-48660",
+   "dataLabel": "sexta, 13 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
+   }
   }
  ]
 }

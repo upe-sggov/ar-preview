@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48671@ar-preview
+DTSTAMP:20261107T205855Z
+DTSTART:20261110T110000Z
+DTEND:20261110T130000Z
+SUMMARY:AR · Conselho de Administração
+LOCATION:Assembleia da República · Sala 7
+DESCRIPTION:Conselho de Administração · Reunião n.º 30 · Sala 7\nEmi
+ ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
+ w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
+ enda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

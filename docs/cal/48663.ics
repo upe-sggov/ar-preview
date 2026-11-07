@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48663@ar-preview
+DTSTAMP:20261107T205855Z
+DTSTART:20261109T090000Z
+DTEND:20261109T110000Z
+SUMMARY:AR · Audiências do Grupo Parlamentar PSD
+LOCATION:Assembleia da República
+DESCRIPTION:Grupos Parlamentares / Partidos / DURP / Ninsc\nEmissões em d
+ ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
+ upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
+ pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
