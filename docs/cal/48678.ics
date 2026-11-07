@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
-UID:ar-48396@ar-preview
-DTSTAMP:20261106T231250Z
-DTSTART:20261211T100000Z
-DTEND:20261211T120000Z
-SUMMARY:AR · Plenário — Sessão Plenária alusiva às Comemorações d
- os 50 anos das Primeiras Eleições Autárquicas
+UID:ar-48678@ar-preview
+DTSTAMP:20261107T140416Z
+DTSTART:20261125T110000Z
+DTEND:20261125T130000Z
+SUMMARY:AR · Plenário — Sessão Solene Evocativa do 25 de novembro de 
+ 1975
 LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Plenário · Reunião n.º 23 · Plenário\nEmissões em diret
+DESCRIPTION:Plenário · Reunião n.º 22 · Plenário\nEmissões em diret
  o (quando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-
  sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode
   mudar.

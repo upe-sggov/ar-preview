@@ -1,11 +1,11 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-06T22:56",
+ "recolha": "2026-11-07T13:54",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON); calendarização: dados abertos",
  "itens": [
   {
-   "id_ar": 48639,
+   "id_ar": 48665,
    "data": "2026-11-09",
    "hora": "16h00",
    "tema": "Comissão de Assuntos Europeus",
@@ -29,31 +29,7 @@
    "validado": false
   },
   {
-   "id_ar": 48649,
-   "data": "2026-11-09",
-   "hora": "16h00",
-   "tema": "Comissão de Ambiente e Energia",
-   "orgao": "Comissão de Ambiente e Energia",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 62 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx",
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48655,
+   "id_ar": 48667,
    "data": "2026-11-09",
    "hora": "16h00",
    "tema": "Comissão de Economia e Coesão Territorial",
@@ -77,7 +53,31 @@
    "validado": false
   },
   {
-   "id_ar": 48653,
+   "id_ar": 48669,
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "tema": "Comissão de Ambiente e Energia",
+   "orgao": "Comissão de Ambiente e Energia",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 62 · Sala Senado",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48672,
    "data": "2026-11-10",
    "hora": "08h30",
    "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
@@ -98,7 +98,7 @@
    "validado": false
   },
   {
-   "id_ar": 48651,
+   "id_ar": 48666,
    "data": "2026-11-10",
    "hora": "09h00",
    "tema": "Comissão de Assuntos Europeus",
@@ -124,7 +124,7 @@
    "validado": false
   },
   {
-   "id_ar": 48654,
+   "id_ar": 48668,
    "data": "2026-11-10",
    "hora": "09h00",
    "tema": "Comissão de Economia e Coesão Territorial",
@@ -148,7 +148,7 @@
    "validado": false
   },
   {
-   "id_ar": 48664,
+   "id_ar": 48670,
    "data": "2026-11-10",
    "hora": "16h00",
    "tema": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram",
@@ -173,7 +173,7 @@
  ],
  "futuro": [
   {
-   "id_ar": 48393,
+   "id_ar": 48673,
    "data": "2026-11-18",
    "hora": "10h00",
    "tema": "Plenário — Debate na especialidade do Orçamento do Estado para 2027",
@@ -202,7 +202,7 @@
    "validado": false
   },
   {
-   "id_ar": 48392,
+   "id_ar": 48674,
    "data": "2026-11-19",
    "hora": "10h00",
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -231,7 +231,7 @@
    "validado": false
   },
   {
-   "id_ar": 48391,
+   "id_ar": 48675,
    "data": "2026-11-20",
    "hora": "10h00",
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -260,7 +260,7 @@
    "validado": false
   },
   {
-   "id_ar": 48390,
+   "id_ar": 48676,
    "data": "2026-11-23",
    "hora": "10h00",
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -289,7 +289,7 @@
    "validado": false
   },
   {
-   "id_ar": 48395,
+   "id_ar": 48677,
    "data": "2026-11-24",
    "hora": "10h00",
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -318,7 +318,7 @@
    "validado": false
   },
   {
-   "id_ar": 48394,
+   "id_ar": 48678,
    "data": "2026-11-25",
    "hora": "11h00",
    "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
@@ -339,7 +339,7 @@
    "validado": false
   },
   {
-   "id_ar": 48396,
+   "id_ar": 48679,
    "data": "2026-12-11",
    "hora": "10h00",
    "tema": "Plenário — Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas",
