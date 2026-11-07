@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-07T23:37",
+ "recolha": "2026-11-07T23:53",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -21,10 +21,10 @@
    "uo": [
     "DACDP"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«assuntos europeus» (DACDP)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
    ],
    "validado": false
   },
@@ -154,9 +154,9 @@
    "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
    "ligacao": "",
    "uo": [],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
    ],
    "validado": false
   },
@@ -178,11 +178,11 @@
     "DACDP",
     "DAPL"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«assuntos europeus» (DACDP)",
     "«diretiva» (DAPL)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
    ],
    "validado": false
   },

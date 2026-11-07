@@ -7920,8 +7920,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-07T23:37+00:00",
-  "atualizadoLabel": "7 de novembro, 23h37",
+  "atualizado": "2026-11-07T23:53+00:00",
+  "atualizadoLabel": "7 de novembro, 23h53",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -9220,6 +9220,27 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos seis meses, a cobertura noticiosa tem-se focado principalmente em regulamentos locais e nacionais, incluindo alterações a serviços públicos, alterações tarifárias, e a implementação de novas políticas em áreas como a agricultura, energias renováveis, e proteção de dados. Embora algumas notícias mencionem a soberania tecnológica, estas são exceções e não constituem um foco central. A cobertura evoluiu de discussões sobre a implementação de regulamentos específicos para uma atenção mais ampla a políticas de âmbito mais vasto, como a proteção de dados e a transparência. No entanto, nenhuma das notícias fornece uma análise direta ou crítica da proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros ou do regulamento sobre o Passaporte Europeu de Segurança Social. A maioria das notícias são de natureza contextual, destacando desenvolvimentos locais e regionais, enquanto apenas algumas abordam temas de âmbito mais amplo, como a soberania tecnológica."
+  },
+  "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
+   "titulo": "Escrutínio de Iniciativas Europeias",
+   "meta": "Grupo de Trabalho · Reunião n.º 27 · terça, 10 nov, 08h30",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-07"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: Grupo de Trabalho de Escrutínio). A ficha é refeita automaticamente quando surgirem notícias."
   }
  },
  "destaques": [
@@ -9244,7 +9265,7 @@
    "pertinencia": "Imediato",
    "criterio": [
     "«assuntos europeus» (DACDP)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo",
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato",
     "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato",
     "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
    ],
@@ -9329,6 +9350,57 @@
    "varrimento": "2026-11-09-48665-transi-o-limpa-justa-e-competitiva"
   },
   {
+   "tema": "Escrutínio de Iniciativas Europeias",
+   "data": "2026-11-10",
+   "hora": "08h30",
+   "interveniente": "",
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27",
+   "resumo": "O grupo de trabalho analisa propostas legislativas da União Europeia para garantir a conformidade com os interesses nacionais. Discute-se a adequação e o impacto das medidas propostas no contexto português.",
+   "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
+   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "id_ar": 48672,
+   "chave": "ar-48672",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-07",
+    "metodo": "expressoes",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "amalia": {
+    "assunto": "Escrutínio de Iniciativas Europeias",
+    "resumo": "O grupo de trabalho analisa propostas legislativas da União Europeia para garantir a conformidade com os interesses nacionais. Discute-se a adequação e o impacto das medidas propostas no contexto português.",
+    "uo": [],
+    "justificacao": "A DCIRI, enquanto responsável pelas relações internacionais e coordenação de iniciativas europeias, tem competência para apoiar o escrutínio de propostas legislativas da UE.",
+    "expressoes": [
+     "UE",
+     "iniciativas europeias",
+     "transposição de diretivas",
+     "Grupo de Trabalho de Escrutínio"
+    ]
+   },
+   "expressoes": [
+    "Grupo de Trabalho de Escrutínio"
+   ],
+   "varrimento": "2026-11-10-48672-escrut-nio-de-iniciativas-europeias"
+  },
+  {
    "tema": "Soberania Tecnológica, Segurança e Democracia",
    "data": "2026-11-10",
    "hora": "09h00",
@@ -9351,7 +9423,7 @@
    "criterio": [
     "«assuntos europeus» (DACDP)",
     "«diretiva» (DAPL)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo",
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato",
     "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
    ],
    "periodo": "Manhã",
@@ -10937,41 +11009,6 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
-   }
-  },
-  {
-   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "data": "2026-11-10",
-   "hora": "08h30",
-   "interveniente": "",
-   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27",
-   "resumo": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
-   "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
-   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "id_ar": 48672,
-   "chave": "ar-48672",
-   "dataLabel": "terça, 10 nov",
-   "tipo": [
-    "Grupo de Trabalho"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Manhã",
-   "ligacoes": [],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-07",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
    }
   },
   {
