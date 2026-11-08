@@ -79,6 +79,8 @@ def sintese(x, limite=140):
     ot = x.get('ordemTrabalhos') or x.get('resumo') or ''
     tema = (x.get('tema') or '').lower()
     pontos = []
+    ot = re.sub(r'\n\s*(?=[a-zà-ú])', ' ', ot)              # linha partida a meio da frase («pelouro\nda Transição»)
+    ot = re.sub(r'\[conjunt[ao][^\]]*\]', '', ot)            # a junção já vai na linha da comissão
     for l in re.split(r'\n|\s/\s', ot):
         l = _limpa(l)
         if len(l) < 4 or _RUIDO.match(l) or _TEMPOS.search(l): continue

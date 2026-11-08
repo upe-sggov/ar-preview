@@ -50,8 +50,9 @@ def linha(x):
     extras = []
     L = 'color:#2B5683;text-decoration:underline'
     if pag: extras.append(f'<a href="{e(pag)}" style="{L}">{rotulo}</a>')
-    if x.get('varrimento') and url: extras.append(f'<a href="{e(url)}#{e(x["varrimento"])}" style="{L}">notícias</a>')
-    elif x.get('varrimento'): extras.append('com fundo mediático')
+    com_fm = x.get('varrimento') and (x.get('cobertura') or {}).get('n', 1) != 0   # sem notícias, sem ligação
+    if com_fm and url: extras.append(f'<a href="{e(url)}#{e(x["varrimento"])}" style="{L}">notícias</a>')
+    elif com_fm: extras.append('com fundo mediático')
     if x.get('data'):   # um clique: abre a reunião já preenchida no Outlook (web); o .ics fica como alternativa
         extras.append(f'<a href="{e(outlook_web(x, url))}" style="{L}">adicionar ao Outlook</a>'
                       + (f' <a href="{e(url)}cal/{e(cal_nome(x))}" style="color:#8a9098;text-decoration:underline">(.ics)</a>' if url else ''))
@@ -125,7 +126,7 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <span style="font:400 13px Arial,sans-serif;color:#5b6068">{'reunião' if len(todos) == 1 else 'reuniões'} na agenda da Assembleia da República esta semana</span>
     <div style="font:400 13px Arial,sans-serif;color:#5b6068;padding-top:4px">Prioridade para a área de Suporte à Decisão:
       <b style="color:#D02117">&#9679; {n_ime}</b> Imediato · <b style="color:#BE9C54">&#9679; {n_vig}</b> Vigilância · <b style="color:#8a9098">&#9679; {n_reg}</b> Registo
-      · {len({x["varrimento"] for x in todos if x.get("varrimento")})} com fundo mediático</div>
+      · {len({x["varrimento"] for x in todos if x.get("varrimento") and (x.get("cobertura") or {}).get("n", 1) != 0})} com fundo mediático</div>
     {f'<div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5">{legenda}</div>' if legenda else ''}
   </td></tr>
 
