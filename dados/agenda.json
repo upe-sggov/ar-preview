@@ -9000,252 +9000,11 @@
    },
    "novas": 0,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares e análises políticas, com destaque para temas como competitividade económica, investimento na habitação e alterações fiscais. As notícias revelam críticas de partidos como o PS e o Chega, que apontam falhas na informação sobre habitação e combustíveis, e elogiam o equilíbrio das contas por parte de empresários. O documento apresenta propostas de alteração de mais de 2.800 partidos, com o Chega a liderar em número de propostas. A cobertura evolui com discussões sobre a autonomia dos ministérios na gestão de cativações e a falta de financiamento para projetos de saúde e educação."
-  },
-  "2026-11-09-48665-transi-o-limpa-justa-e-competitiva": {
-   "titulo": "Transição Limpa, Justa e Competitiva",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Senado · conjunta com Comissão de Economia e Coesão Territorial e Comissão de Ambiente e Energia · segunda, 9 nov, 16h00",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-08",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/opiniao/combustiveis-fosseis-e-transicao-um-tema-de-futuro/",
-     "sintese": "A notícia de 8 de setembro de 2026 descreve os objetivos do Pacto Ecológico Europeu, incluindo a redução de 55% das emissões de gases com efeito de estufa até 2030 e a neutralidade climática até 2050, como parte do pacote Fit for 55.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-14",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/",
-     "sintese": "A notícia de 14 de outubro de 2026 aborda a preocupação com a segurança da inteligência artificial e a necessidade de manter a orientação humana, conforme enfatizado pela comissária europeia Henna Virkkunen.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 2,
-    "encontradas": 2
-   },
-   "base": {
-    "ultima": "2026-10-14 15:47",
-    "em": "2026-11-07"
-   },
-   "novas": 0,
-   "enquadramento": "Duas notícias foram publicadas num período de 60 dias, focando-se na transição ecológica e competitividade industrial na Europa. A primeira notícia, de 8 de setembro de 2026, detalha os objetivos do Pacto Ecológico Europeu, incluindo a redução de 55% das emissões de gases com efeito de estufa até 2030 e a neutralidade climática até 2050, como parte do pacote Fit for 55. A segunda notícia, de 14 de outubro de 2026, destaca a preocupação com a segurança da inteligência artificial e a necessidade de manter a orientação humana, conforme enfatizado pela comissária europeia Henna Virkkunen. A cobertura evoluiu de objetivos de transição ecológica para a discussão de riscos tecnológicos, mantendo o foco na competitividade industrial e sustentabilidade."
-  },
-  "2026-11-10-48666-soberania-tecnol-gica-seguran-a-e-democraci": {
-   "titulo": "Soberania Tecnológica, Segurança e Democracia",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta com Comissão de Economia e Coesão Territorial · terça, 10 nov, 09h00",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-12",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/lusofonia/article/2026-09-12/47764609/novo-regulamento-vai-reorganizar-setor-mineiro-em-mo%C3%A7ambique-pr",
-     "sintese": "A Lusa noticiou a reorganização do setor mineiro em Moçambique, relacionada com políticas de desenvolvimento económico e exploração de recursos naturais.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-15",
-     "fonte": "Ambiente Magazine",
-     "url": "https://www.ambientemagazine.com/municipio-de-setubal-aprova-projeto-de-alteracao-ao-regulamento-dos-servicos-de-abastecimento-de-agua-e-saneamento/",
-     "sintese": "O Ambiente Magazine reportou a aprovação de um projeto de alteração ao regulamento dos serviços de abastecimento de água e saneamento em Setúbal, com o objetivo de adequar a estrutura tarifária.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "Açoriano Oriental",
-     "url": "http://www.acorianooriental.pt/noticia/sdpa-aponta-limitacoes-no-novo-regulamento-de-colocacao-de-professores-380406",
-     "sintese": "O Açoriano Oriental criticou o novo regulamento de colocação de professores na Região Autónoma dos Açores, alegando que não corrigiu problemas e tornou o documento mais confuso e limitador.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-09-25",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/09/25/local/noticia/almada-regulamento-apoiar-casas-afectadas-ruido-aeroporto-entra-vigor-2189361",
-     "sintese": "O Público noticiou a entrada em vigor de um regulamento para apoiar casas afetadas por ruído do aeroporto em Almada.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-28",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/novo-regulamento-do-mecenato-cultural-preve-plataforma-operacional-ate-ao-natal_n1768234",
-     "sintese": "A RTP Notícias reportou a publicação de um novo regulamento do mecenato cultural, com o objetivo de criar uma plataforma operacional até ao Natal.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-01",
-     "fonte": "Diário de Notícias",
-     "url": "http://dinheirovivo.dn.pt/economia/bruxelas-d-dois-meses-a-portugal-para-transpor-diretiva-sobre-contratos-de-crdito",
-     "sintese": "O Diário de Notícias noticiou que Bruxelas deu dois meses a Portugal para transpor a diretiva sobre contratos de crédito.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-07",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/08/opiniao/opiniao/onde-regulamento-cml-tuktuks-2190552?ref=transportes",
-     "sintese": "O Público reportou a procura pelo regulamento da Câmara Municipal de Lisboa sobre tuk-tuks.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/",
-     "sintese": "A SAPO Tek noticiou a soberania tecnológica como uma prioridade política na Europa, relacionada com a segurança e a democracia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-18",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/tag/geral/regulamento-europeu/",
-     "sintese": "O Diário de Notícias da Madeira mencionou um regulamento europeu, sem especificar o conteúdo.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-20",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/acordo-atempado-sobre-a-revisao-do-regulamento-da-agricultura-biologica-da-ue-um-passo-necessario-para-o-setor/",
-     "sintese": "O Público noticiou um acordo sobre a revisão do Regulamento da Agricultura Biológica da UE, relacionado com a sustentabilidade e a produção agrícola.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/premio-pessoa/2026-10-22-regulamento-2026-5e4f5669",
-     "sintese": "O Expresso reportou um regulamento de 2026, sem especificar o conteúdo.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-28",
-     "fonte": "JM Madeira",
-     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008093/funchal-aprova-por-unanimidade-inicio-da-revisao-do-regulamento-de-residuos-e-limpeza-urbana.html",
-     "sintese": "O JM Madeira noticiou a aprovação por unanimidade do início da revisão do regulamento de resíduos e limpeza urbana no Funchal.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/governo-prepara-plano-de-aceitacao-de-energias-renovaveis-para-evitar-contestacoes/",
-     "sintese": "O Jornal Económico reportou que o Governo prepara um plano de aceitação de energias renováveis para evitar contestações.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-04",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3078234/melgaco-com-novo-cheque-educacao-de-30-euros-e-regulamento-de-apoios-sociais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Notícias ao Minuto noticiou um cheque educação de 30€ e um regulamento de apoios sociais em Melgaço.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-04",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3078461/camara-de-ourem-vai-criar-regulamento-de-incentivos-a-habitacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Diário de Notícias reportou que a Câmara de Ourém vai criar um regulamento de incentivos à habitação.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-05",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/05/rgpd-e-regulamento-da-ia-sao-insuficientes-para-protecao-dos-trabalhadores-alerta-especialista/",
-     "sintese": "O ECO noticiou que o RGPD e o Regulamento da IA são insuficientes para a proteção dos trabalhadores, relacionado com a privacidade e a segurança.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-05",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/11/05/parlamento-promete-registo-simples-e-objetivo-para-as-entidades-que-fazem-lobi/",
-     "sintese": "O Observador noticiou que o Parlamento promete um registo simples e objetivo para o lóbi, relacionado com a transparência e a representação de interesses.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-06",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3079669/camara-da-murtosa-vai-rever-regulamento-de-atribuicao-de-lotes-de-autoconstrucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Notícias ao Minuto reportou que a Murtosa vai rever o regulamento de atribuição de lotes de autoconstrução.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-06",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/economia/habitacao/2026-11-06-video-acao-policial-nas-acampadas-em-lisboa-e-no-porto-sob-investigacao-12b12b63",
-     "sintese": "A SIC Notícias noticiou que bastonadas na cabeça estão a ser investigadas, com o regulamento da PSP a referir zonas a evitar.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-07",
-     "fonte": "Visão",
-     "url": "https://visao.pt/opiniao/ponto-de-vista/incerto-mundo-novo/2026-11-07-dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado/?utm_source=rss&utm_medium=rss&utm_campaign=dois-pesos-e-duas-medidas-opiniao-de-sofia-santos-machado",
-     "sintese": "A Visão noticiou uma opinião sobre dois pesos e duas medidas na utilização de óculos com Inteligência Artificial, relacionada com a proteção de dados.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 20,
-    "encontradas": 148
-   },
-   "base": {
-    "ultima": "2026-11-07 10:00",
-    "em": "2026-11-07"
-   },
-   "novas": 0,
-   "enquadramento": "Nos últimos seis meses, a cobertura noticiosa tem-se focado principalmente em regulamentos locais e nacionais, incluindo alterações a serviços públicos, alterações tarifárias, e a implementação de novas políticas em áreas como a agricultura, energias renováveis, e proteção de dados. Embora algumas notícias mencionem a soberania tecnológica, estas são exceções e não constituem um foco central. A cobertura evoluiu de discussões sobre a implementação de regulamentos específicos para uma atenção mais ampla a políticas de âmbito mais vasto, como a proteção de dados e a transparência. No entanto, nenhuma das notícias fornece uma análise direta ou crítica da proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros ou do regulamento sobre o Passaporte Europeu de Segurança Social. A maioria das notícias são de natureza contextual, destacando desenvolvimentos locais e regionais, enquanto apenas algumas abordam temas de âmbito mais amplo, como a soberania tecnológica."
-  },
-  "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
-   "titulo": "Escrutínio de Iniciativas Europeias",
-   "meta": "Grupo de Trabalho · Reunião n.º 27 · terça, 10 nov, 08h30",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [],
-   "amostra": {
-    "analisadas": 0,
-    "encontradas": 0
-   },
-   "base": {
-    "ultima": "",
-    "em": "2026-11-07"
-   },
-   "novas": 0,
-   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: Grupo de Trabalho de Escrutínio). A ficha é refeita automaticamente quando surgirem notícias."
   }
  },
  "destaques": [
   {
-   "tema": "Transição Limpa, Justa e Competitiva",
+   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera",
    "data": "2026-11-09",
    "hora": "16h00",
    "interveniente": "",
@@ -9341,13 +9100,10 @@
     ]
    },
    "expressoes": [
-    "Comissão Europeia",
-    "Pacto Ecológico Europeu",
-    "Vice-Presidente Executiva",
+    "Teresa Ribera",
     "Transição Limpa",
-    "Representação da Comissão Europeia em Portugal"
-   ],
-   "varrimento": "2026-11-09-48665-transi-o-limpa-justa-e-competitiva"
+    "Pacto Ecológico Europeu"
+   ]
   },
   {
    "tema": "Escrutínio de Iniciativas Europeias",
@@ -9395,13 +9151,10 @@
      "Grupo de Trabalho de Escrutínio"
     ]
    },
-   "expressoes": [
-    "Grupo de Trabalho de Escrutínio"
-   ],
-   "varrimento": "2026-11-10-48672-escrut-nio-de-iniciativas-europeias"
+   "expressoes": []
   },
   {
-   "tema": "Soberania Tecnológica, Segurança e Democracia",
+   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
    "data": "2026-11-10",
    "hora": "09h00",
    "interveniente": "",
@@ -10378,13 +10131,10 @@
     ]
    },
    "expressoes": [
-    "Comissão Europeia",
-    "Diretiva",
-    "Regulamento",
-    "Passaporte Europeu de Segurança Social",
-    "Soberania Tecnológica"
-   ],
-   "varrimento": "2026-11-10-48666-soberania-tecnol-gica-seguran-a-e-democraci"
+    "Henna Virkkunen",
+    "Soberania Tecnológica",
+    "Passaporte Europeu de Segurança Social"
+   ]
   }
  ],
  "agenda": [

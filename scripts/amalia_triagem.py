@@ -19,13 +19,19 @@ Unidades e competências (só estas; nunca inventes outras):
 "Transversal" junta-se às unidades quando a matéria é de todo o Governo (Orçamento do Estado, Conta Geral do Estado, Reforma do Estado).
 Se nenhuma unidade for claramente competente, devolve "uo": []. Não forces atribuições."""
 
-GENERICAS = re.compile(r'^(\d{4}|or[cç]amento( do estado)?|oe|proposta de lei.*|audi[cç][aã]o( parlamentar)?|governo|parlamento|assembleia da rep[uú]blica|ministr[oa].*|secret[aá]ri[oa] de estado.*)$', re.I)
+GENERICAS = re.compile(r'^(\d{4}|or[cç]amento( do estado)?|oe|proposta de lei.*|audi[cç][aã]o( parlamentar)?|governo|parlamento|assembleia da rep[uú]blica|ministr[oa].*|secret[aá]ri[oa] de estado.*|ue|uni[aã]o europeia|comiss[aã]o europeia|parlamento europeu|conselho europeu|diretiva|regulamento|decreto-lei|lei|estado|portugal|vice-presidente.*|presidente.*|comiss[aã]o|grupo de trabalho.*|representa[cç][aã]o da comiss[aã]o europeia.*)$', re.I)
 def util(e):
     """Expressão de pesquisa com valor: nem genérica, nem só um ano, nem cargo (o nome da pessoa é que conta)."""
     e = e.strip()
     # só expressões com nome próprio, sigla ou número («Registo de Transparência», «RTRI», «Lei n.º 5-A/2026»):
     # palavras comuns («transparência», «plataforma informática») apanham notícias de tudo
     return 3 <= len(e) <= 60 and not GENERICAS.match(e) and bool(re.search(r'[A-ZÁÉÍÓÚÂÊÔÃÕÇ0-9]', e))
+
+def nome_ouvido(x):
+    """Nome da pessoa ouvida quando o título pelas regras o traz no fim («…, Teresa Ribera»)."""
+    if not x.get('tituloRegras'): return None
+    m = re.search(r',\s*((?:[A-ZÁÉÍÓÚ][\wÀ-ú-]+\s?){2,4})(?:\s—.*)?$', x.get('tema') or '')
+    return m.group(1).strip() if m else None
 
 def titulo(x, quem, assunto):
     """Nas audições, o título diz quem é ouvido e o assunto («Ministro da Presidência, António Leitão Amaro: Orçamento do Estado 2027»)."""
@@ -56,12 +62,13 @@ Devolve: {{"assunto": "título curto com o ASSUNTO principal (não o nome da com
     x['amalia'] = {k: r.get(k) for k in ('assunto', 'resumo', 'uo', 'justificacao', 'expressoes')}
     quem = membros_governo(x)
     audicao = bool(quem or entidades(x))
-    if not x.get('expressoes') and isinstance(r.get('expressoes'), list) and not audicao:   # nas audições, a pesquisa é por quem é ouvido
-        x['expressoes'] = [e for e in r['expressoes'] if isinstance(e, str) and util(e)][:5]
+    ouvido = nome_ouvido(x)   # «Audição com a Vice-Presidente …, Teresa Ribera» → «Teresa Ribera»
+    if not x.get('expressoes') and isinstance(r.get('expressoes'), list) and (not audicao or ouvido):   # nas audições, a pesquisa é por quem é ouvido
+        x['expressoes'] = ([ouvido] if ouvido else []) + [e for e in r['expressoes'] if isinstance(e, str) and util(e) and e != ouvido][:4]
     if not x.get('validado') and not x['uo']:
         x['uo'] = [u for u in (r.get('uo') or []) if u in UNIDADES]
         if x['uo']: x['criterio'] = (x.get('criterio') or []) + ['unidade pelo Amália: ' + (r.get('justificacao') or 'proposta do modelo')[:140]]
-    if r.get('assunto'):
+    if r.get('assunto') and not x.get('tituloRegras'):   # o título pelas regras já diz quem é ouvido: fica
         x['orgao'] = x.get('orgao') or x['tema']
         x['tema'] = titulo(x, quem, r['assunto'])
     if r.get('resumo'): x['resumo'] = r['resumo']
