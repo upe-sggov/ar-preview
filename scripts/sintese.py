@@ -80,7 +80,8 @@ def sintese(x, limite=140):
     tema = (x.get('tema') or '').lower()
     pontos = []
     ot = re.sub(r'\n\s*(?=[a-zà-ú])', ' ', ot)              # linha partida a meio da frase («pelouro\nda Transição»)
-    ot = re.sub(r'\[conjunt[ao][^\]]*\]', '', ot)            # a junção já vai na linha da comissão
+    ot = re.sub(r'\[conjunt[ao][^\]]*\]', '', ot)
+    ot = re.split(r'\n\s*(?:Delega[cç][aã]o|Convidad[oa]s|Participantes)\s*:', ot)[0]   # a lista da delegação não é o assunto            # a junção já vai na linha da comissão
     for l in re.split(r'\n|\s/\s', ot):
         l = _limpa(l)
         if len(l) < 4 or _RUIDO.match(l) or _TEMPOS.search(l) or re.fullmatch(r'Delega[cç][aã]o:?|Convidad[oa]s?:?|Participantes:?', l): continue
