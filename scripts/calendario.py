@@ -31,6 +31,9 @@ import datetime, glob
 desde = (datetime.date.today() - datetime.timedelta(days=14)).isoformat()
 PRIMEIRA = 3   # edições anteriores à n.º 3 seguiam outros critérios de prioridade: não entram no calendário subscrito
 sub, vistos = [], set()
+# reuniões que a edição em vigor juntou numa audição conjunta: não voltam a entrar a partir de cópias mais antigas da edição
+for x in d['destaques'] + d['agenda'] + d.get('futuro', []):
+    vistos.update(i for i in (x.get('ids_ar') or []) if i and i != x.get('id_ar'))
 fontes = [d] + [e for e in (json.loads(open(f, encoding='utf-8').read()) for f in sorted(glob.glob(os.path.join(os.path.dirname(sys.argv[1]), '..', 'docs', 'edicoes', 'n*.json')), reverse=True))
                 if e.get('edicao', {}).get('numero', 0) >= PRIMEIRA]
 for e in fontes:
