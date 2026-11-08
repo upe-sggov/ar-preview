@@ -136,7 +136,7 @@ def vevento(x, pagina_url=''):
              'AR Preview: ' + pagina_url if pagina_url else '',
              'Hora de fim indicativa; a agenda da AR pode mudar.']
     seg = [t.strip() for t in (x.get('tipoLabel') or '').split('·') if not t.strip().startswith('conjunta com')]
-    sala = seg[-1] if len(seg) >= 3 and not seg[-1].startswith('Reunião') else ''
+    sala = next((t for t in seg if t.startswith('Sala')), '') or (seg[-1] if len(seg) >= 3 and not seg[-1].startswith('Reunião') else '')
     if x.get('hora'):
         quando = [f'DTSTART:{utc(ini)}', f'DTEND:{utc(fim)}']
     else:   # a AR não publica hora (audiências dos grupos parlamentares, visitas): evento de dia inteiro, não às 9h

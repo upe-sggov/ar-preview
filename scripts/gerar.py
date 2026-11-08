@@ -11,7 +11,7 @@ logo = (raiz/'modelo'/'logo_sggov_b64.txt').read_text().strip()
 d = json.loads(dados.read_text(encoding='utf-8'))          # valida o JSON
 d['produto'] = 'AR Preview'                                # nome da ferramenta (também nas edições arquivadas)
 
-CAMPOS = ('data', 'hora', 'tema', 'pertinencia', 'uo', 'tipoLabel', 'interveniente', 'id_ar', 'orgao')
+CAMPOS = ('data', 'hora', 'tema', 'pertinencia', 'uo', 'tipoLabel', 'interveniente', 'id_ar', 'orgao', 'orgaoLabel')
 hist, pasta = [], raiz/'docs'/'edicoes'
 
 # páginas das comissões no site da AR (ficam depois de a reunião passar; a agenda da AR só mostra de hoje em diante):

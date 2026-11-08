@@ -68,11 +68,17 @@ def titulo_regras(x):
 novos_itens = [base(i) for i in tri['itens']]
 
 # audições conjuntas: a AR publica a mesma audição em cada comissão envolvida (ex.: Comissão de Infraestruturas e Comissão de
-# Orçamento, à mesma hora). Desde 8/11/2026 fica uma linha por comissão, como na agenda da AR, cada uma com a indicação
-# «conjunta com …»; as linhas da mesma audição partilham a prioridade (a mais alta), a ficha e o evento de calendário (conjuntaId).
+# Orçamento, à mesma hora). Fica uma só entrada, com todas as comissões em pé de igualdade («Comissões de Assuntos Europeus,
+# de Economia e Coesão Territorial e de Ambiente e Energia (audição conjunta)»), a prioridade mais alta e uma só ficha.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sintese import membros_governo
 PRI = {'Imediato': 0, 'Vigilância': 1, 'Registo': 2}
+def nome_comissoes(orgaos):
+    """«Comissões de Assuntos Europeus, de Economia e Coesão Territorial e de Ambiente e Energia (audição conjunta)»."""
+    n = [re.sub(r'^Comissão\s+', '', o) for o in orgaos]
+    if not all(o.startswith(('Comissão ',)) for o in orgaos): return ' · '.join(orgaos) + ' (audição conjunta)'
+    return 'Comissões ' + (', '.join(n[:-1]) + ' e ' + n[-1]) + ' (audição conjunta)'
+
 def quem(x):
     ot = (x.get('ordemTrabalhos') or '').strip()
     if not re.match(r'Audi(ção|ência)', ot): return None
@@ -97,14 +103,22 @@ def juntar(lista):
         g.sort(key=lambda x: 'Orçamento, Finanças' in (x.get('tema') or ''))   # a comissão setorial primeiro
         pert = min((o.get('pertinencia') for o in g), key=lambda v: PRI.get(v, 2))
         crit = list(dict.fromkeys(c for o in g for c in o.get('criterio', [])))
-        cid = str(min(str(o.get('id_ar') or o['chave']) for o in g))
-        for p in g:
-            orgaos = [o.get('orgao') or o['tema'] for o in g if o is not p]
-            p['conjunta'] = orgaos
-            p['tipoLabel'] = (p.get('tipoLabel') or '') + ' · conjunta com ' + ' e '.join(orgaos)
-            p['pertinencia'], p['criterio'], p['conjuntaId'] = pert, crit, cid
-            p['ids_ar'] = [o.get('id_ar') for o in g]
-            out.append(p)
+        p, outros = dict(g[0]), g[1:]
+        orgaos = [o.get('orgao') or o['tema'] for o in g]
+        p['comissoes'] = orgaos
+        p['conjunta'] = orgaos[1:]
+        p['orgaoLabel'] = nome_comissoes(orgaos)      # «orgao» fica o da 1.ª comissão (ligações à página da comissão)
+        sala = [t for t in (p.get('tipoLabel') or '').split(' · ') if t.startswith('Sala')]
+        p['tipoLabel'] = ' · '.join([p['orgaoLabel']] + sala)
+        linhas = (p.get('ordemTrabalhos') or '').split('\n')
+        for o in outros:
+            linhas += [l for l in (o.get('ordemTrabalhos') or '').split('\n')[1:] if l.strip() and l not in linhas]   # nomes dos membros do Governo, etc.
+            absorvidas.add(o['chave'])
+        p['ordemTrabalhos'] = '\n'.join(linhas)
+        p['pertinencia'], p['criterio'] = pert, crit
+        p['uo'] = sorted({u for o in g for u in o.get('uo', [])})
+        p['ids_ar'] = [o.get('id_ar') for o in g]
+        out.append(p)
     out.sort(key=lambda x: (x['data'], x.get('hora') or '99'))
     return out, absorvidas
 novos_itens, ABSORVIDAS = juntar(novos_itens)
@@ -164,7 +178,9 @@ else:
                 y['criterio'] = x.get('criterio', []) + [c for c in a.get('criterio', []) if c.startswith('unidade pelo Amália')]
             for k in ('hora', 'interveniente', 'tipoLabel', 'ligacoes'):
                 y[k] = x[k] or a.get(k, '')
-            if x.get('conjunta'): y['conjunta'], y['ids_ar'], y['conjuntaId'] = x['conjunta'], x.get('ids_ar', []), x.get('conjuntaId')
+            if x.get('conjunta'):
+                for k in ('conjunta', 'comissoes', 'ids_ar', 'orgaoLabel'): y[k] = x.get(k)
+                y.pop('conjuntaId', None)
             if x.get('conjunta') and not a.get('conjunta'):
                 y['ordemTrabalhos'] = x['ordemTrabalhos']        # junção de audição conjunta: não é alteração da AR
             elif x['ordemTrabalhos'] and x['ordemTrabalhos'] != a.get('ordemTrabalhos'):

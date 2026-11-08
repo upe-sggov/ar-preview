@@ -1521,12 +1521,7 @@
       "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/empresas-nao-precisam-de-mais-criatividade-fiscal-no-oe-2027"
      ]
     ]
-   },
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ]
+   }
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -3035,12 +3030,7 @@
       "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/empresas-nao-precisam-de-mais-criatividade-fiscal-no-oe-2027"
      ]
     ]
-   },
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ]
+   }
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -4549,12 +4539,7 @@
       "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/empresas-nao-precisam-de-mais-criatividade-fiscal-no-oe-2027"
      ]
     ]
-   },
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ]
+   }
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -6063,12 +6048,7 @@
       "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/empresas-nao-precisam-de-mais-criatividade-fiscal-no-oe-2027"
      ]
     ]
-   },
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ]
+   }
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
@@ -7611,12 +7591,7 @@
       "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/empresas-nao-precisam-de-mais-criatividade-fiscal-no-oe-2027"
      ]
     ]
-   },
-   "expressoes_auto": [
-    "Orçamento do Estado para 2027",
-    "OE2027",
-    "OE 2027"
-   ]
+   }
   },
   {
    "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
@@ -7798,16 +7773,10 @@
     "novos": 12,
     "alterados": 0,
     "retirados": 0
-   },
-   {
-    "data": "2026-11-08",
-    "novos": 3,
-    "alterados": 0,
-    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-08T00:48+00:00",
-  "atualizadoLabel": "8 de novembro, 00h48",
+  "atualizado": "2026-11-08T09:13+00:00",
+  "atualizadoLabel": "8 de novembro, 09h13",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8985,9 +8954,9 @@
    "data": "2026-11-09",
    "hora": "16h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Senado · conjunta com Comissão de Economia e Coesão Territorial e Comissão de Ambiente e Energia",
+   "tipoLabel": "Comissões de Assuntos Europeus, de Economia e Coesão Territorial e de Ambiente e Energia (audição conjunta) · Sala Senado",
    "resumo": "Audição conjunta com foco nas políticas europeias de transição ecológica e competitividade industrial. Debate sobre o futuro do Pacto Ecológico Europeu e o apoio a setores estratégicos.",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
    "orgao": "Comissão de Assuntos Europeus",
    "id_ar": 48665,
    "chave": "ar-48665",
@@ -9100,251 +9069,12 @@
     "Pacto Ecológico Europeu"
    ],
    "varrimento": "2026-11-09-48665-audi-o-com-a-vice-presidente-executiva-da-c",
-   "conjuntaId": "48665"
-  },
-  {
-   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera",
-   "data": "2026-11-09",
-   "hora": "16h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Economia e Coesão Territorial · Reunião n.º 22 · Sala Senado · conjunta com Comissão de Assuntos Europeus e Comissão de Ambiente e Energia",
-   "resumo": "Audição conjunta com foco nas políticas europeias de transição ecológica e competitividade industrial. Debate sobre o futuro do Pacto Ecológico Europeu e o apoio a setores estratégicos.",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]",
-   "orgao": "Comissão de Economia e Coesão Territorial",
-   "id_ar": 48667,
-   "chave": "ar-48667",
-   "dataLabel": "segunda, 9 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato",
-    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato",
-    "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
-    }
-   ],
-   "conjunta": [
+   "comissoes": [
     "Comissão de Assuntos Europeus",
+    "Comissão de Economia e Coesão Territorial",
     "Comissão de Ambiente e Energia"
    ],
-   "conjuntaId": "48665",
-   "ids_ar": [
-    48665,
-    48667,
-    48669
-   ],
-   "novo": "2026-11-08",
-   "tituloRegras": true,
-   "amalia": {
-    "assunto": "Transição Limpa, Justa e Competitiva",
-    "resumo": "Audição conjunta com foco nas políticas europeias de transição ecológica e competitividade industrial. Debate sobre o futuro do Pacto Ecológico Europeu e o apoio a setores estratégicos.",
-    "uo": [
-     "DAPL",
-     "DCIRI"
-    ],
-    "justificacao": "A DAPL assegura o apoio técnico ao processo legislativo europeu e a conformidade com as boas práticas de legística, enquanto a DCIRI gere as relações internacionais e a representação da Comissão Europeia em Portugal.",
-    "expressoes": [
-     "Comissão Europeia",
-     "Pacto Ecológico Europeu",
-     "Vice-Presidente Executiva",
-     "Transição Limpa",
-     "Representação da Comissão Europeia em Portugal"
-    ]
-   },
-   "expressoes": [
-    "Teresa Ribera",
-    "Transição Limpa",
-    "Pacto Ecológico Europeu"
-   ],
-   "varrimento": "2026-11-09-48665-audi-o-com-a-vice-presidente-executiva-da-c",
-   "cobertura": {
-    "n": 4,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-08",
-    "metodo": "expressoes",
-    "ultima": "2026-10-14 09:53",
-    "ultimas": [
-     {
-      "data": "2026-10-14",
-      "fonte": "La Vanguardia",
-      "titulo": "Illa pide que la UE priorice a las regiones con una base industrial al activar el 'Made in Europe'",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658549/illa-pide-ue-priorice-regiones-base-industrial-impulsar-made-in-europe.html"
-     },
-     {
-      "data": "2026-10-06",
-      "fonte": "La Vanguardia",
-      "titulo": "Teresa Ribera: “Daremos cobertura legal a los municipios para limitar la vivienda turística”",
-      "url": "https://www.lavanguardia.com/economia/20261006/11651763/teresa-ribera-daremos-cobertura-legal-municipios-limitar-vivienda-turistica.html"
-     },
-     {
-      "data": "2026-09-14",
-      "fonte": "RTP Notícias",
-      "titulo": "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "url": "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     }
-    ],
-    "todas": [
-     [
-      "2026-10-14 09:53",
-      "La Vanguardia",
-      "Illa pide que la UE priorice a las regiones con una base industrial al activar el 'Made in Europe'",
-      "https://www.lavanguardia.com/politica/20261014/11658549/illa-pide-ue-priorice-regiones-base-industrial-impulsar-made-in-europe.html"
-     ],
-     [
-      "2026-10-06 05:00",
-      "La Vanguardia",
-      "Teresa Ribera: “Daremos cobertura legal a los municipios para limitar la vivienda turística”",
-      "https://www.lavanguardia.com/economia/20261006/11651763/teresa-ribera-daremos-cobertura-legal-municipios-limitar-vivienda-turistica.html"
-     ],
-     [
-      "2026-09-14 13:35",
-      "RTP Notícias",
-      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     ],
-     [
-      "2026-09-09 15:52",
-      "Politico Europe",
-      "En Europe, les datacenters devraient construire leurs installations d’énergie propre, selon Teresa Ribera",
-      "https://www.politico.eu/article/en-europe-les-datacenters-devraient-construire-leur-propre-installation-denergie-propre-selon-teresa-ribera/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-     ]
-    ]
-   }
-  },
-  {
-   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera",
-   "data": "2026-11-09",
-   "hora": "16h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Ambiente e Energia · Reunião n.º 62 · Sala Senado · conjunta com Comissão de Assuntos Europeus e Comissão de Economia e Coesão Territorial",
-   "resumo": "Audição conjunta com foco nas políticas europeias de transição ecológica e competitividade industrial. Debate sobre o futuro do Pacto Ecológico Europeu e o apoio a setores estratégicos.",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
-   "orgao": "Comissão de Ambiente e Energia",
-   "id_ar": 48669,
-   "chave": "ar-48669",
-   "dataLabel": "segunda, 9 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato",
-    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato",
-    "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx"
-    }
-   ],
-   "conjunta": [
-    "Comissão de Assuntos Europeus",
-    "Comissão de Economia e Coesão Territorial"
-   ],
-   "conjuntaId": "48665",
-   "ids_ar": [
-    48665,
-    48667,
-    48669
-   ],
-   "novo": "2026-11-08",
-   "tituloRegras": true,
-   "amalia": {
-    "assunto": "Transição Limpa, Justa e Competitiva",
-    "resumo": "Audição conjunta com foco nas políticas europeias de transição ecológica e competitividade industrial. Debate sobre o futuro do Pacto Ecológico Europeu e o apoio a setores estratégicos.",
-    "uo": [
-     "DAPL",
-     "DCIRI"
-    ],
-    "justificacao": "A DAPL assegura o apoio técnico ao processo legislativo europeu e a conformidade com as boas práticas de legística, enquanto a DCIRI gere as relações internacionais e a representação da Comissão Europeia em Portugal.",
-    "expressoes": [
-     "Comissão Europeia",
-     "Pacto Ecológico Europeu",
-     "Vice-Presidente Executiva",
-     "Transição Limpa",
-     "Representação da Comissão Europeia em Portugal"
-    ]
-   },
-   "expressoes": [
-    "Teresa Ribera",
-    "Transição Limpa",
-    "Pacto Ecológico Europeu"
-   ],
-   "varrimento": "2026-11-09-48665-audi-o-com-a-vice-presidente-executiva-da-c",
-   "cobertura": {
-    "n": 4,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-08",
-    "metodo": "expressoes",
-    "ultima": "2026-10-14 09:53",
-    "ultimas": [
-     {
-      "data": "2026-10-14",
-      "fonte": "La Vanguardia",
-      "titulo": "Illa pide que la UE priorice a las regiones con una base industrial al activar el 'Made in Europe'",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658549/illa-pide-ue-priorice-regiones-base-industrial-impulsar-made-in-europe.html"
-     },
-     {
-      "data": "2026-10-06",
-      "fonte": "La Vanguardia",
-      "titulo": "Teresa Ribera: “Daremos cobertura legal a los municipios para limitar la vivienda turística”",
-      "url": "https://www.lavanguardia.com/economia/20261006/11651763/teresa-ribera-daremos-cobertura-legal-municipios-limitar-vivienda-turistica.html"
-     },
-     {
-      "data": "2026-09-14",
-      "fonte": "RTP Notícias",
-      "titulo": "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "url": "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     }
-    ],
-    "todas": [
-     [
-      "2026-10-14 09:53",
-      "La Vanguardia",
-      "Illa pide que la UE priorice a las regiones con una base industrial al activar el 'Made in Europe'",
-      "https://www.lavanguardia.com/politica/20261014/11658549/illa-pide-ue-priorice-regiones-base-industrial-impulsar-made-in-europe.html"
-     ],
-     [
-      "2026-10-06 05:00",
-      "La Vanguardia",
-      "Teresa Ribera: “Daremos cobertura legal a los municipios para limitar la vivienda turística”",
-      "https://www.lavanguardia.com/economia/20261006/11651763/teresa-ribera-daremos-cobertura-legal-municipios-limitar-vivienda-turistica.html"
-     ],
-     [
-      "2026-09-14 13:35",
-      "RTP Notícias",
-      "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
-      "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     ],
-     [
-      "2026-09-09 15:52",
-      "Politico Europe",
-      "En Europe, les datacenters devraient construire leurs installations d’énergie propre, selon Teresa Ribera",
-      "https://www.politico.eu/article/en-europe-les-datacenters-devraient-construire-leur-propre-installation-denergie-propre-selon-teresa-ribera/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-     ]
-    ]
-   }
+   "orgaoLabel": "Comissões de Assuntos Europeus, de Economia e Coesão Territorial e de Ambiente e Energia (audição conjunta)"
   },
   {
    "tema": "Escrutínio de Iniciativas Europeias",
@@ -9400,9 +9130,9 @@
    "data": "2026-11-10",
    "hora": "09h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta com Comissão de Economia e Coesão Territorial",
+   "tipoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta)",
    "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia sobre a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e o regulamento sobre o Passaporte Europeu de Segurança Social.",
-   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos",
+   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos\n [conjunta com a Comissão de Assuntos Europeus]",
    "orgao": "Comissão de Assuntos Europeus",
    "id_ar": 48666,
    "chave": "ar-48666",
@@ -9544,157 +9274,11 @@
     "Passaporte Europeu de Segurança Social"
    ],
    "varrimento": "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c",
-   "conjuntaId": "48666"
-  },
-  {
-   "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
-   "data": "2026-11-10",
-   "hora": "09h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Economia e Coesão Territorial · Reunião n.º 23 · Sala Senado · conjunta com Comissão de Assuntos Europeus",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia sobre a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e o regulamento sobre o Passaporte Europeu de Segurança Social.",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n [conjunta com a Comissão de Assuntos Europeus]",
-   "orgao": "Comissão de Economia e Coesão Territorial",
-   "id_ar": 48668,
-   "chave": "ar-48668",
-   "dataLabel": "terça, 10 nov",
-   "tipo": [
-    "Comissões Parlamentares"
+   "comissoes": [
+    "Comissão de Assuntos Europeus",
+    "Comissão de Economia e Coesão Territorial"
    ],
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "«diretiva» (DAPL)",
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato",
-    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
-   ],
-   "periodo": "Manhã",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx"
-    }
-   ],
-   "conjunta": [
-    "Comissão de Assuntos Europeus"
-   ],
-   "conjuntaId": "48666",
-   "ids_ar": [
-    48666,
-    48668
-   ],
-   "novo": "2026-11-08",
-   "tituloRegras": true,
-   "amalia": {
-    "assunto": "Soberania Tecnológica, Segurança e Democracia",
-    "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia sobre a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e o regulamento sobre o Passaporte Europeu de Segurança Social.",
-    "uo": [
-     "DAPL",
-     "UPE"
-    ],
-    "justificacao": "A DAPL assegura o apoio técnico ao processo legislativo europeu e a UPE fornece informação legislativa e dados estatísticos relevantes para a tomada de decisão.",
-    "expressoes": [
-     "Comissão Europeia",
-     "Diretiva",
-     "Regulamento",
-     "Passaporte Europeu de Segurança Social",
-     "Soberania Tecnológica"
-    ]
-   },
-   "expressoes": [
-    "Henna Virkkunen",
-    "Soberania Tecnológica",
-    "Passaporte Europeu de Segurança Social"
-   ],
-   "varrimento": "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c",
-   "cobertura": {
-    "n": 9,
-    "n7": 0,
-    "n7ant": 1,
-    "dias": 60,
-    "ref": "2026-11-08",
-    "metodo": "expressoes",
-    "ultima": "2026-10-26 07:15",
-    "ultimas": [
-     {
-      "data": "2026-10-26",
-      "fonte": "ECO",
-      "titulo": "Telefónica organiza, no Espaço Fundação Telefónica, uma nova edição do Policy Day",
-      "url": "https://eco.sapo.pt/2026/10/26/telefonica-organiza-no-espaco-fundacao-telefonica-uma-nova-edicao-do-policy-day/"
-     },
-     {
-      "data": "2026-10-14",
-      "fonte": "ECO",
-      "titulo": "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
-      "url": "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
-     },
-     {
-      "data": "2026-10-13",
-      "fonte": "ECO",
-      "titulo": "Novos Avisos STEP: mais quatro “passos” para dinamizar o investimento empresarial",
-      "url": "https://eco.sapo.pt/opiniao/novos-avisos-step-mais-quatro-passos-para-dinamizar-o-investimento-empresarial/"
-     }
-    ],
-    "todas": [
-     [
-      "2026-10-26 07:15",
-      "ECO",
-      "Telefónica organiza, no Espaço Fundação Telefónica, uma nova edição do Policy Day",
-      "https://eco.sapo.pt/2026/10/26/telefonica-organiza-no-espaco-fundacao-telefonica-uma-nova-edicao-do-policy-day/"
-     ],
-     [
-      "2026-10-14 15:47",
-      "ECO",
-      "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação”",
-      "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/"
-     ],
-     [
-      "2026-10-13 06:57",
-      "ECO",
-      "Novos Avisos STEP: mais quatro “passos” para dinamizar o investimento empresarial",
-      "https://eco.sapo.pt/opiniao/novos-avisos-step-mais-quatro-passos-para-dinamizar-o-investimento-empresarial/"
-     ],
-     [
-      "2026-10-12 14:32",
-      "ECO",
-      "T-Systems celebra o seu 25.º aniversário, contribuindo para o desenvolvimento digital do país e com o olhar voltado para a soberania tecnológica",
-      "https://eco.sapo.pt/2026/10/12/t-systems-celebra-o-seu-25-o-aniversario-contribuindo-para-o-desenvolvimento-digital-do-pais-e-com-o-olhar-voltado-para-a-soberania-tecnologica/"
-     ],
-     [
-      "2026-10-08 12:37",
-      "SAPO Tek",
-      "Soberania tecnológica: a nova urgência europeia",
-      "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/"
-     ],
-     [
-      "2026-10-08 11:51",
-      "SAPO Tek",
-      "Entre a defesa da soberania e o risco de isolamento",
-      "https://tek.sapo.pt/noticias/computadores/artigos/entre-a-defesa-da-soberania-e-o-risco-de-isolamento/"
-     ],
-     [
-      "2026-10-08 00:54",
-      "RTP Notícias",
-      "Grande Entrevista ao CEO da Tekever. Empresa portuguesa tornou-se referência na indústria dos drones",
-      "https://www.rtp.pt/noticias/pais/grande-entrevista-ao-ceo-da-tekever-empresa-portuguesa-tornou-se-referencia-na-industria-dos-drones_n1770189"
-     ],
-     [
-      "2026-09-29 14:39",
-      "Politico Europe",
-      "EU to Trump: We will keep pushing for global AI safety rules",
-      "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-     ],
-     [
-      "2026-09-15 11:46",
-      "La Vanguardia",
-      "La gigafactoría de IA en Móra la Nova se pondrá en marcha aunque pierda el apoyo de la UE",
-      "https://www.lavanguardia.com/economia/20260915/11635332/gigafactoria-ia-mora-nova-pondra-marcha-pierda-apoyo-ue.html"
-     ]
-    ]
-   }
+   "orgaoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta)"
   }
  ],
  "agenda": [

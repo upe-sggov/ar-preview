@@ -42,9 +42,9 @@ def linha(x):
             if pag else f'<span style="{ft};line-height:1.4">{e(x["tema"])}</span>')
     novo = ''   # sem a etiqueta «novo» no email: para quem o recebe, tudo é novo (na página, «novo» é o que mudou desde o fecho da edição)
     gov, sin = membro_governo(x), ('' if reg else sintese(x))
-    org = x.get('orgao') or ''
+    org = x.get('orgaoLabel') or x.get('orgao') or ''
     info = f'<div style="font:400 11.5px Arial,sans-serif;color:#8a9098;padding-top:2px;line-height:1.45">{e(org)}</div>' if org and org != x['tema'] else ''
-    if x.get('conjunta'): info += f'<div style="font:400 11.5px Arial,sans-serif;color:#8a9098;padding-top:2px;line-height:1.45">Audição conjunta com a {e(" e a ".join(x["conjunta"]))}</div>'
+    if x.get('conjunta') and not x.get('comissoes'): info += f'<div style="font:400 11.5px Arial,sans-serif;color:#8a9098;padding-top:2px;line-height:1.45">Audição conjunta com a {e(" e a ".join(x["conjunta"]))}</div>'
     if gov: info += f'<div style="font:400 12px Arial,sans-serif;color:#171715;padding-top:3px;line-height:1.45"><span style="color:#8a9098">Governo:</span> {e(gov)}</div>'
     if sin: info += f'<div style="font:400 12px Arial,sans-serif;color:#5b6068;padding-top:3px;line-height:1.45">{e(sin)}</div>'
     extras = []
