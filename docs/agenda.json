@@ -7800,8 +7800,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-08T14:29+00:00",
-  "atualizadoLabel": "8 de novembro, 14h29",
+  "atualizado": "2026-11-08T21:53+00:00",
+  "atualizadoLabel": "8 de novembro, 21h53",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -9462,14 +9462,20 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 103,
-    "n7": 20,
+    "n": 104,
+    "n7": 21,
     "n7ant": 8,
     "dias": 60,
     "ref": "2026-11-08",
     "metodo": "palavras",
-    "ultima": "2026-11-07 03:17",
+    "ultima": "2026-11-08 13:29",
     "ultimas": [
+     {
+      "data": "2026-11-08",
+      "fonte": "Açoriano Oriental",
+      "titulo": "Play Racing quer renovar o título de Pedro Câmara em 2027",
+      "url": "https://www.acorianooriental.pt/noticia/play-racing-quer-renovar-o-titulo-de-pedro-camara-em-2027-381872"
+     },
      {
       "data": "2026-11-07",
       "fonte": "Observador",
@@ -9481,15 +9487,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "Nicolau Santos e Hugo Figueiredo reconduzidos para novo mandato na administração da RTP",
       "url": "https://www.jornaldenegocios.pt/empresas/detalhe/nicolau-santos-e-hugo-figueiredo-reconduzidos-para-novo-mandato-na-administracao-da-rtp"
-     },
-     {
-      "data": "2026-11-06",
-      "fonte": "SIC Notícias",
-      "titulo": "CGI reconduz Nicolau Santos como presidente do Conselho de Administração da RTP",
-      "url": "https://sicnoticias.pt/pais/2026-11-06-cgi-reconduz-nicolau-santos-como-presidente-do-conselho-de-administracao-da-rtp-6c011a05"
      }
     ],
     "todas": [
+     [
+      "2026-11-08 13:29",
+      "Açoriano Oriental",
+      "Play Racing quer renovar o título de Pedro Câmara em 2027",
+      "https://www.acorianooriental.pt/noticia/play-racing-quer-renovar-o-titulo-de-pedro-camara-em-2027-381872"
+     ],
      [
       "2026-11-07 03:17",
       "Observador",
