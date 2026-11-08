@@ -7800,91 +7800,13 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-08T00:01+00:00",
-  "atualizadoLabel": "8 de novembro, 00h01",
+  "atualizado": "2026-11-08T00:11+00:00",
+  "atualizadoLabel": "8 de novembro, 00h11",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
  },
  "fichas": {
-  "2026-11-10-48664-interven-o-de-lu-s-neves-na-pol-cia-judici": {
-   "titulo": "Intervenção de Luís Neves na Polícia Judiciária",
-   "meta": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram · Reunião n.º 3 · terça, 10 nov, 16h00",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-16",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/politica/aguiar-branco-rejeita-comissao-de-inquerito-do-chega-a-luis-neves-aceita-jpp_v1765904",
-     "sintese": "Aguiar-Branco rejeita comissão de inquérito do Chega a Luís Neves aceita JPP, justificando a decisão com uma falta de objetivo concreto apresentado pelo Chega.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-13",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/cpi-a-lus-neves-arranca-com-atraso-e-polmica",
-     "sintese": "CPI a Luís Neves arranca com atraso e polémica, indicando que a comissão está a investigar a atuação de Luís Neves.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-25",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/25/politica/noticia/ps-quer-chamar-depor-montenegro-costa-lucilia-gago-amadeu-guerra-cpi-luis-neves-2192603",
-     "sintese": "PS quer chamar a depor Montenegro, Costa, Lucília Gago e Amadeu Guerra na CPI sobre Luís Neves, demonstrando a relevância da comissão.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-01",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/videos/alexandra-leitao-tem-vontade-de-rir-cada-vez-que-luis-neves-fala-de-cumprimento-da-legalidade/6ae7cbcd0cf299bc29544237",
-     "sintese": "Alexandra Leitão tem 'vontade de rir' cada vez que Luís Neves fala de 'cumprimento da legalidade', indicando uma crítica à atuação de Luís Neves.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-04",
-     "fonte": "JM Madeira",
-     "url": "https://www.jm-madeira.pt/not%C3%ADcias/nacional/30008587/acampada-do-porto-aprova-encontro-com-pr-e-exige-lhe-a-demissao-de-luis-neves.html",
-     "sintese": "Acampada do Porto aprova encontro com PR e exige-lhe a demissão de Luís Neves, demonstrando uma crítica à atuação de Luís Neves.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-05",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/pais/politica/2026-11-05-video-sondagem-metade-dos-portugueses-quer-remodelacao-no-governo-e-aponta-luis-neves-como-primeira-saida-a0a98986",
-     "sintese": "Sondagem: metade dos portugueses quer remodelação no Governo e aponta Luís Neves como primeira saída, indicando uma crítica à atuação de Luís Neves.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-06",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/fora-do-baralho/renata-cambra-ou-luis-neves-quem-vence-a-tenda-de-dourada/",
-     "sintese": "Renata Cambra ou Luís Neves, quem vence a Tenda de Dourada? Um tribunal deu força jurídica aos manifestantes e enfraqueceu o Governo e a PSP, indicando um contexto relacionado com a comissão.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 7,
-    "encontradas": 1247
-   },
-   "base": {
-    "ultima": "2026-11-06 20:34",
-    "em": "2026-11-06"
-   },
-   "novas": 0,
-   "enquadramento": "A comissão investiga a atuação de Luís Neves como diretor da Polícia Judiciária entre 2018 e 2026, procurando eventuais irregularidades e responsabilidades políticas. São analisadas nomeações e tutelas governamentais durante os seus mandatos."
-  },
   "2026-11-10-48670-interven-o-de-lu-s-neves-na-pol-cia-judici": {
    "titulo": "Intervenção de Luís Neves na Polícia Judiciária",
    "meta": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram · Reunião n.º 3 · terça, 10 nov, 16h00",
