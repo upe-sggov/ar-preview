@@ -6,26 +6,25 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 9 a 15 de novembro de 2026
 BEGIN:VEVENT
 UID:ar-48665@ar-preview
-DTSTAMP:20261108T004938Z
+DTSTAMP:20261108T091557Z
 DTSTART:20261109T160000Z
 DTEND:20261109T180000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
  eia\, Teresa Ribera
 LOCATION:Assembleia da República · Sala Senado
-DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Sen
- ado · conjunta com Comissão de Economia e Coesão Territorial e Comiss
- ão de Ambiente e Energia\nSíntese: Teresa Ribera\, responsável pelo pe
- louro da Transição Limpa\, Justa e Competitiva\nPágina na AR: https://
- www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões 
- em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: http
- s://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da
-  AR pode mudar.
+DESCRIPTION:Comissões de Assuntos Europeus\, de Economia e Coesão Territ
+ orial e de Ambiente e Energia (audição conjunta) · Sala Senado\nSínte
+ se: Teresa Ribera\, responsável pelo pelouro da Transição Limpa\, Just
+ a e Competitiva\nPágina na AR: https://www.parlamento.pt/sites/com/XVIIL
+ eg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): https:
+ //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
+ w/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48672@ar-preview
-DTSTAMP:20261108T004938Z
+DTSTAMP:20261108T091557Z
 DTSTART:20261110T083000Z
 DTEND:20261110T103000Z
 SUMMARY:AR · Escrutínio de Iniciativas Europeias
@@ -39,26 +38,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48666@ar-preview
-DTSTAMP:20261108T004938Z
+DTSTAMP:20261108T091557Z
 DTSTART:20261110T090000Z
 DTEND:20261110T110000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
  eia\, Henna Virkkunen
 LOCATION:Assembleia da República
-DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta
-  com Comissão de Economia e Coesão Territorial\nSíntese: Grupo de Trab
- alho – Escrutínio de Iniciativas Europeias\; Nomeação de Deputado au
- tor de parecer no âmbito de iniciativas europeias\nPágina na AR: https:
- //www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissõe
- s em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: ht
- tps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda 
- da AR pode mudar.
+DESCRIPTION:Comissões de Assuntos Europeus e de Economia e Coesão Territ
+ orial (audição conjunta)\nSíntese: Grupo de Trabalho – Escrutínio d
+ e Iniciativas Europeias\; Nomeação de Deputado autor de parecer no âmb
+ ito de iniciativas europeias\nPágina na AR: https://www.parlamento.pt/si
+ tes/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando ho
+ uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
+ .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48670@ar-preview
-DTSTAMP:20261108T004938Z
+DTSTAMP:20261108T091557Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:AR · Intervenção de Luís Neves na Polícia Judiciária
