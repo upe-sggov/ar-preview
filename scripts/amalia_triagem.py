@@ -49,8 +49,16 @@ def pendente(x):
     # já não se usam unidades (decisão de 2/11/2026): o Amália só trabalha o assunto e as expressões das matérias com ficha
     return x['pertinencia'] in ('Imediato', 'Vigilância') and not x.get('expressoes')
 n = 0
+# audição conjunta (uma linha por comissão): as outras linhas da mesma audição herdam o trabalho já feito numa delas
+FEITAS = {(x['data'], x['conjuntaId']): x for x in dados['destaques'] + dados['agenda'] if x.get('conjuntaId') and x.get('amalia')}
 for x in dados['destaques'] + dados['agenda']:
     if not pendente(x): continue
+    irma = x.get('conjuntaId') and FEITAS.get((x['data'], x['conjuntaId']))
+    if irma:
+        for k in ('amalia', 'expressoes', 'resumo', 'varrimento'):
+            if irma.get(k) is not None: x[k] = irma[k]
+        if irma.get('tituloRegras') or irma.get('amalia'): x['tema'] = irma['tema']
+        continue
     r = json_da_resposta(perguntar(SISTEMA, f"""Reunião: {x['tema']}
 Data e hora: {x['data']} {x.get('hora','')}
 Tipo: {x.get('tipoLabel','')}
@@ -72,6 +80,7 @@ Devolve: {{"assunto": "título curto com o ASSUNTO principal (não o nome da com
         x['orgao'] = x.get('orgao') or x['tema']
         x['tema'] = titulo(x, quem, r['assunto'])
     if r.get('resumo'): x['resumo'] = r['resumo']
+    if x.get('conjuntaId'): FEITAS[(x['data'], x['conjuntaId'])] = x
     n += 1
 todos = dados['destaques'] + dados['agenda']
 ordem = lambda x: (x['data'], x.get('hora') or '99')

@@ -68,7 +68,8 @@ def titulo_regras(x):
 novos_itens = [base(i) for i in tri['itens']]
 
 # audições conjuntas: a AR publica a mesma audição em cada comissão envolvida (ex.: Comissão de Infraestruturas e Comissão de
-# Orçamento, à mesma hora). Fica uma só linha — a da comissão setorial — com a indicação «conjunta com …».
+# Orçamento, à mesma hora). Desde 8/11/2026 fica uma linha por comissão, como na agenda da AR, cada uma com a indicação
+# «conjunta com …»; as linhas da mesma audição partilham a prioridade (a mais alta), a ficha e o evento de calendário (conjuntaId).
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sintese import membros_governo
 PRI = {'Imediato': 0, 'Vigilância': 1, 'Registo': 2}
@@ -94,19 +95,16 @@ def juntar(lista):
     for g in grupos.values():
         if len(g) == 1: out.append(g[0]); continue
         g.sort(key=lambda x: 'Orçamento, Finanças' in (x.get('tema') or ''))   # a comissão setorial primeiro
-        p, outros = dict(g[0]), g[1:]
-        p['conjunta'] = [o['tema'] for o in outros]
-        p['tipoLabel'] = (p.get('tipoLabel') or '') + ' · conjunta com ' + ' e '.join(p['conjunta'])
-        linhas = (p.get('ordemTrabalhos') or '').split('\n')
-        for o in outros:
-            linhas += [l for l in (o.get('ordemTrabalhos') or '').split('\n')[1:] if l.strip() and l not in linhas]   # nomes dos membros do Governo, etc.
-            p['uo'] = sorted(set(p.get('uo', [])) | set(o.get('uo', [])))
-            if PRI.get(o.get('pertinencia'), 2) < PRI.get(p.get('pertinencia'), 2): p['pertinencia'] = o['pertinencia']
-            p['criterio'] = list(dict.fromkeys(p.get('criterio', []) + o.get('criterio', [])))
-            p.setdefault('ids_ar', [p.get('id_ar')]).append(o.get('id_ar'))
-            absorvidas.add(o['chave'])
-        p['ordemTrabalhos'] = '\n'.join(linhas)
-        out.append(p)
+        pert = min((o.get('pertinencia') for o in g), key=lambda v: PRI.get(v, 2))
+        crit = list(dict.fromkeys(c for o in g for c in o.get('criterio', [])))
+        cid = str(min(str(o.get('id_ar') or o['chave']) for o in g))
+        for p in g:
+            orgaos = [o.get('orgao') or o['tema'] for o in g if o is not p]
+            p['conjunta'] = orgaos
+            p['tipoLabel'] = (p.get('tipoLabel') or '') + ' · conjunta com ' + ' e '.join(orgaos)
+            p['pertinencia'], p['criterio'], p['conjuntaId'] = pert, crit, cid
+            p['ids_ar'] = [o.get('id_ar') for o in g]
+            out.append(p)
     out.sort(key=lambda x: (x['data'], x.get('hora') or '99'))
     return out, absorvidas
 novos_itens, ABSORVIDAS = juntar(novos_itens)
@@ -166,7 +164,7 @@ else:
                 y['criterio'] = x.get('criterio', []) + [c for c in a.get('criterio', []) if c.startswith('unidade pelo Amália')]
             for k in ('hora', 'interveniente', 'tipoLabel', 'ligacoes'):
                 y[k] = x[k] or a.get(k, '')
-            if x.get('conjunta'): y['conjunta'], y['ids_ar'] = x['conjunta'], x.get('ids_ar', [])
+            if x.get('conjunta'): y['conjunta'], y['ids_ar'], y['conjuntaId'] = x['conjunta'], x.get('ids_ar', []), x.get('conjuntaId')
             if x.get('conjunta') and not a.get('conjunta'):
                 y['ordemTrabalhos'] = x['ordemTrabalhos']        # junção de audição conjunta: não é alteração da AR
             elif x['ordemTrabalhos'] and x['ordemTrabalhos'] != a.get('ordemTrabalhos'):
