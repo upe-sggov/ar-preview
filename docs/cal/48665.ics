@@ -6,19 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48665@ar-preview
-DTSTAMP:20261107T235707Z
+DTSTAMP:20261108T000957Z
 DTSTART:20261109T160000Z
 DTEND:20261109T180000Z
-SUMMARY:AR · Transição Limpa\, Justa e Competitiva
+SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
+ eia\, Teresa Ribera
 LOCATION:Assembleia da República · Sala Senado
 DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Sen
  ado · conjunta com Comissão de Economia e Coesão Territorial e Comiss
- ão de Ambiente e Energia\nSíntese: Audição com a Vice-Presidente Exec
- utiva da Comissão Europeia\,\; Teresa Ribera\, responsável pelo pelouro
- \nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas
- /default.aspx\nEmissões em direto (quando houver): https://canal.parlame
- nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
-  indicativa\; a agenda da AR pode mudar.
+ ão de Ambiente e Energia\nSíntese: Teresa Ribera\, responsável pelo pe
+ louro\; da Transição Limpa\, Justa e Competitiva\nPágina na AR: https:
+ //www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissõe
+ s em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: ht
+ tps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda 
+ da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
