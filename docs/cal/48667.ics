@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48667@ar-preview
+DTSTAMP:20261108T004616Z
+DTSTART:20261109T160000Z
+DTEND:20261109T180000Z
+SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
+ eia\, Teresa Ribera
+LOCATION:Assembleia da República · Sala Senado
+DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 2
+ 2 · Sala Senado · conjunta com Comissão de Assuntos Europeus e Comiss
+ ão de Ambiente e Energia\nPágina na AR: https://www.parlamento.pt/sites
+ /com/XVIILeg/6CECT/Paginas/default.aspx\nEmissões em direto (quando houv
+ er): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.i
+ o/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

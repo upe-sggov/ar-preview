@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48668@ar-preview
+DTSTAMP:20261108T004616Z
+DTSTART:20261110T090000Z
+DTEND:20261110T110000Z
+SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
+ eia\, Henna Virkkunen
+LOCATION:Assembleia da República · Sala Senado
+DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 2
+ 3 · Sala Senado · conjunta com Comissão de Assuntos Europeus\nPágina 
+ na AR: https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.
+ aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\n
+ AR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicati
+ va\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
