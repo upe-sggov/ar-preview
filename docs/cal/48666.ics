@@ -6,20 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48666@ar-preview
-DTSTAMP:20261108T001224Z
+DTSTAMP:20261108T001521Z
 DTSTART:20261110T090000Z
 DTEND:20261110T110000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
  eia\, Henna Virkkunen
 LOCATION:Assembleia da República
 DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta
-  com Comissão de Economia e Coesão Territorial\nSíntese: [conjunta com
-  a Comissão de Economia e Coesão Territorial]\; Grupo de Trabalho – E
- scrutínio de Iniciativas Europeias\nPágina na AR: https://www.parlament
- o.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (qu
- ando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov
- .github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode muda
- r.
+  com Comissão de Economia e Coesão Territorial\nSíntese: Grupo de Trab
+ alho – Escrutínio de Iniciativas Europeias\; Nomeação de Deputado au
+ tor de parecer no âmbito de iniciativas europeias\nPágina na AR: https:
+ //www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissõe
+ s em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: ht
+ tps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda 
+ da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
