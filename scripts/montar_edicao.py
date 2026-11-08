@@ -110,6 +110,13 @@ def juntar(lista):
     out.sort(key=lambda x: (x['data'], x.get('hora') or '99'))
     return out, absorvidas
 novos_itens, ABSORVIDAS = juntar(novos_itens)
+def _ot0(x):
+    return re.sub(r'^parte i\b\s*', '', re.sub(r'\W+', ' ', (x.get('ordemTrabalhos') or '').lower()).strip())[:60]
+def substitui(a, x):
+    """A reunião x (nova) é a mesma que a (antiga): mesmo dia e hora, e a mesma comissão ou o mesmo início da ordem de trabalhos."""
+    if a.get('data') != x.get('data') or (a.get('hora') or '') != (x.get('hora') or ''): return False
+    org = a.get('orgao') or a.get('tema')
+    return org in [x.get('orgao') or x.get('tema')] + (x.get('conjunta') or []) or (_ot0(a) and _ot0(a) == _ot0(x))
 
 # o que já se sabia das semanas seguintes (classificação do Amália ou da revisão humana, expressões, cobertura, ficha) não se perde:
 # passa para a nova edição quando a semana chega, e mantém-se de uma recolha para a outra
@@ -180,6 +187,8 @@ else:
             y = dict(a)
             if y.get('retirado') and y['retirado'] > y.get('data', ''): y.pop('retirado')   # desfaz retiradas por este motivo
             itens.append(y)
+        elif k not in vistos and any(substitui(a, x) for x in novos_itens):
+            continue                                         # a AR republicou a mesma reunião com outro número: não é retirada
         elif k not in vistos:
             y = dict(a)
             if not y.get('retirado'): y['retirado'] = hoje; n_ret += 1
