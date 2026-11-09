@@ -7860,8 +7860,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-09T11:17+00:00",
-  "atualizadoLabel": "9 de novembro, 11h17",
+  "atualizado": "2026-11-09T11:19+00:00",
+  "atualizadoLabel": "9 de novembro, 11h19",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8865,7 +8865,7 @@
   },
   "2026-11-09-48665-audi-o-com-a-vice-presidente-executiva-da-c": {
    "titulo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 63 · Sala Senado · conjunta com Comissão de Economia e Coesão Territorial e Comissão de Ambiente e Energia · segunda, 9 nov, 16h00",
+   "meta": "Comissões de Assuntos Europeus, de Economia e Coesão Territorial e de Ambiente e Energia (audição conjunta) · Sala Senado · segunda, 9 nov, 16h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -8919,7 +8919,7 @@
   },
   "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
    "titulo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta com Comissão de Economia e Coesão Territorial · terça, 10 nov, 09h00",
+   "meta": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta) · Sala Senado · terça, 10 nov, 09h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -9010,6 +9010,188 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática tem-se focado na soberania tecnológica e na Inteligência Artificial na Europa, com notícias sobre a Tekever, a T-Systems e a Comissão Europeia. A Comissão Europeia, através da Vice-Presidente Executiva Henna Virkkunen, tem sido mencionada em discussões sobre a segurança da IA e a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros. A cobertura inclui anúncios de iniciativas para reforçar a soberania tecnológica, como os Avisos STEP, e a discussão sobre a necessidade de equilibrar a defesa da soberania com a inovação tecnológica. Não foram encontradas notícias que critiquem diretamente a matéria da audiência, mas sim que fornecem contexto sobre as prioridades tecnológicas da UE."
+  },
+  "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
+   "titulo": "Escrutínio de Iniciativas Europeias",
+   "meta": "Grupo de Trabalho · Reunião n.º 27 · Sala Senado · terça, 10 nov, 08h30",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-10",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c",
+     "sintese": "Reunião entre António Costa e Luís Montenegro para discutir o orçamento da UE, com foco em posições políticas e negociações futuras.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-19",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/montenegro-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum",
+     "sintese": "Montenegro defende que o próximo Orçamento da UE deve privilegiar a coesão e a política agrícola comum, alertando para potenciais cortes.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/franqueira-rodrigues-defende-reforco-do-orcamento-europeu-380730",
+     "sintese": "Eurodeputado socialista André Franqueira Rodrigues defende o reforço do próximo Orçamento da UE, sem retirar recursos à Coesão, Agricultura, Pescas e regiões.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/international/article/2026-10-06/47892045/pm-avisa-que-ser%C3%A1-intransigente-com-cortes-no-or%C3%A7amento-da-ue-e-recusa-concurso-de-pedinchices",
+     "sintese": "Primeiro-Ministro alerta contra cortes no Orçamento da UE, rejeitando o que descreve como um 'concurso de pedinchices'.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/mundo/artigo/cortes-de-141-mil-milhoes-no-orcamento-da-ue-recebemos-esta-proposta-com-preocupacao/18135603",
+     "sintese": "Proposta de cortes de 141 mil milhões de euros no Orçamento da UE, recebida com preocupação por Portugal.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/10/economia/noticia/envelope-nacional-cortes-nova-proposta-compromisso-orcamento-ue-2190942",
+     "sintese": "Presidência irlandesa propõe um envelope nacional sem cortes na nova proposta de compromisso para o Orçamento da UE.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/antonio-costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/",
+     "sintese": "António Costa designado como principal negociador para o Orçamento da UE após críticas à proposta irlandesa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/noticia/amp/mundo/2026/10/11/antonio-costa-assume-negociacoes-do-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/488760/",
+     "sintese": "António Costa assume as negociações do Orçamento da UE após críticas à proposta irlandesa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "Jornal de Notícias",
+     "url": "https://www.jn.pt/nacional/artigo/os-pequenos-paises-vao-sair-a-perder-com-o-orcamento-europeu-avisa-comite-das-regioes/18136567",
+     "sintese": "Comité das Regiões alerta que os pequenos países vão sair a perder com o orçamento europeu.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/14/moedas-pede-uniao-de-todos-os-partidos-contra-cortes-no-orcamento-da-ue-o-montante-nao-pode-descer/",
+     "sintese": "Moedas alerta para o mau precedente do corte de 8% proposto pela presidência irlandesa no QFP 2028-2034.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-15",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/internacional/seguro-considera-imprescindvel-aprovao-de-oramento-da-ue-at-final-do-ano?utm_source=website&utm_medium=related-stories",
+     "sintese": "Seguro considera 'imprescindível' a aprovação do Orçamento da UE até final do ano.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-16",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/ue-cimeira-costa-compromete-se-a-trabalhar-nos-recursos-proprios-para-orcamento/",
+     "sintese": "Costa compromete-se a trabalhar nos recursos próprios para o Orçamento da UE.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-17",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/opiniao/o-quadro-financeiro-plurianual-esta-aie-nos-estamos-preparados/",
+     "sintese": "Discussão sobre o Quadro Financeiro Plurianual para o período de sete anos (2028–2034).",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-22",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/fundos-europeus/2026-10-22-antonio-costa-prepara-nova-proposta-de-orcamento-europeu-00294242?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/fundos-europeus/2026-10-22-antonio-costa-prepara-nova-proposta-de-orcamento-europeu-00294242",
+     "sintese": "António Costa prepara nova proposta de orçamento europeu.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Agroportal",
+     "url": "https://www.agroportal.pt/grupos-de-acao-local-exigem-que-desenvolvimento-rural-seja-prioridade-no-orcamento-europeu-pos-2027/",
+     "sintese": "Grupos de Ação Local exigem que o desenvolvimento rural seja prioridade no orçamento europeu pós-2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/economia/3078504/tce-alerta-sobre-riscos-no-orcamento-da-ue-para-2028-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "TCE alerta sobre riscos no orçamento da UE para 2028-2034.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/tce-ve-avancos-na-simplificacao-do-orcamento-europeu-mas-pede-mais-foco-nos-resultados",
+     "sintese": "TCE vê avanços na simplificação do orçamento europeu mas pede mais foco nos resultados.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/uniao-europeia/tribunal-de-contas-europeu/tce-alerta-para-falhas-no-controlo-de-fundos-e-avaliacao-de-resultados-em-orcamento-da-ue/20261104/6aeb5e38d34e5a653d732d34",
+     "sintese": "TCE alerta para falhas no controlo de fundos e avaliação de resultados no orçamento da UE.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano_n1777236",
+     "sintese": "Kallas acredita num compromisso sobre o orçamento da UE ainda este ano.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano",
+     "sintese": "Kallas acredita que António Costa conseguirá alcançar um compromisso sobre o orçamento da UE.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 165
+   },
+   "base": {
+    "ultima": "2026-11-05 23:15",
+    "em": "2026-11-09"
+   },
+   "novas": 0,
+   "enquadramento": "A cobertura mediática tem-se focado na discussão do orçamento da União Europeia, com ênfase nas posições de Portugal e de outros Estados-membros. António Costa e Luís Montenegro têm estado envolvidos em negociações, com críticas à proposta da presidência irlandesa e defesa de prioridades como a coesão e a política agrícola. O Quadro Financeiro Plurianual para 2028-2034 tem sido objeto de debate, com alertas sobre cortes e potenciais consequências para os países mais pequenos. O Tribunal de Contas da UE tem levantado preocupações sobre o controlo de fundos e a avaliação de resultados, enquanto a Comissão Europeia procura simplificar a gestão dos fundos. A cobertura evoluiu de discussões iniciais sobre o orçamento para propostas de novas propostas e compromissos, com foco na defesa dos interesses nacionais e na garantia de recursos adequados para as prioridades europeias."
   }
  },
  "destaques": [
@@ -9158,15 +9340,1025 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
+    "n": 165,
+    "n7": 6,
+    "n7ant": 2,
     "dias": 60,
     "ref": "2026-11-09",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
+    "metodo": "expressoes",
+    "ultima": "2026-11-05 23:15",
+    "ultimas": [
+     {
+      "data": "2026-11-05",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano"
+     },
+     {
+      "data": "2026-11-05",
+      "fonte": "RTP Notícias",
+      "titulo": "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
+      "url": "https://www.rtp.pt/noticias/economia/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano_n1777236"
+     },
+     {
+      "data": "2026-11-04",
+      "fonte": "CNN Portugal",
+      "titulo": "TCE alerta para falhas no controlo de fundos e avaliação de resultados em orçamento da UE",
+      "url": "https://cnnportugal.iol.pt/uniao-europeia/tribunal-de-contas-europeu/tce-alerta-para-falhas-no-controlo-de-fundos-e-avaliacao-de-resultados-em-orcamento-da-ue/20261104/6aeb5e38d34e5a653d732d34"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-05 23:15",
+      "Jornal de Negócios",
+      "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
+      "https://www.jornaldenegocios.pt/economia/detalhe/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano"
+     ],
+     [
+      "2026-11-05 21:29",
+      "RTP Notícias",
+      "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
+      "https://www.rtp.pt/noticias/economia/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano_n1777236"
+     ],
+     [
+      "2026-11-04 16:32",
+      "CNN Portugal",
+      "TCE alerta para falhas no controlo de fundos e avaliação de resultados em orçamento da UE",
+      "https://cnnportugal.iol.pt/uniao-europeia/tribunal-de-contas-europeu/tce-alerta-para-falhas-no-controlo-de-fundos-e-avaliacao-de-resultados-em-orcamento-da-ue/20261104/6aeb5e38d34e5a653d732d34"
+     ],
+     [
+      "2026-11-04 16:00",
+      "Notícias ao Minuto",
+      "TCE alerta sobre riscos no orçamento da UE para 2028-2034",
+      "https://www.noticiasaominuto.com/economia/3078504/tce-alerta-sobre-riscos-no-orcamento-da-ue-para-2028-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-04 16:00",
+      "Jornal de Negócios",
+      "TCE vê avanços na simplificação do orçamento europeu mas pede mais foco nos resultados",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/tce-ve-avancos-na-simplificacao-do-orcamento-europeu-mas-pede-mais-foco-nos-resultados"
+     ],
+     [
+      "2026-11-03 13:00",
+      "Agroportal",
+      "Grupos de Ação Local exigem que desenvolvimento rural seja prioridade no orçamento europeu pós-2027",
+      "https://www.agroportal.pt/grupos-de-acao-local-exigem-que-desenvolvimento-rural-seja-prioridade-no-orcamento-europeu-pos-2027/"
+     ],
+     [
+      "2026-10-30 15:42",
+      "Expresso",
+      "Portugal despede-se do PRR e luta por €31,5 mil milhões no próximo orçamento europeu",
+      "https://expresso.pt/newsletters/expresso-fundos-europeus/2026-10-30-portugal-despede-se-do-prr-e-luta-por-315-mil-milhoes-no-proximo-orcamento-europeu-d0686b47"
+     ],
+     [
+      "2026-10-27 11:02",
+      "ECO",
+      "Conselho da UE aprova reforma da PAC que privilegia agricultores ativos e jovens",
+      "https://eco.sapo.pt/2026/10/27/conselho-da-ue-aprova-reforma-da-pac-que-privilegia-agricultores-ativos-e-jovens/"
+     ],
+     [
+      "2026-10-23 12:30",
+      "RTP Notícias",
+      "Comité das Regiões Europeu receia perder poder local a partir de 2028",
+      "https://www.rtp.pt/noticias/rtpeuropa-comite-das-regioes/comite-das-regioes-europeu-receia-perder-poder-local-a-partir-de-2028_v1773742"
+     ],
+     [
+      "2026-10-22 07:31",
+      "Expresso",
+      "António Costa prepara nova proposta de orçamento europeu",
+      "https://expresso.pt/fundos-europeus/2026-10-22-antonio-costa-prepara-nova-proposta-de-orcamento-europeu-00294242?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/fundos-europeus/2026-10-22-antonio-costa-prepara-nova-proposta-de-orcamento-europeu-00294242"
+     ],
+     [
+      "2026-10-21 15:59",
+      "Açoriano Oriental",
+      "Bolieiro pede financiamento europeu “justo” para os Açores",
+      "https://www.acorianooriental.pt/noticia/bolieiro-pede-financiamento-europeu-justo-para-os-acores-381327"
+     ],
+     [
+      "2026-10-21 15:07",
+      "RTP Notícias",
+      "Orçamento da UE. António Costa pede acordo até ao final do ano",
+      "https://www.rtp.pt/noticias/economia/orcamento-da-ue-antonio-costa-pede-acordo-ate-ao-final-do-ano_v1773244"
+     ],
+     [
+      "2026-10-21 11:32",
+      "ECO",
+      "Costa pede orçamento na UE “suficientemente ambicioso” e acordo até ao final do ano",
+      "https://eco.sapo.pt/2026/10/21/costa-pede-orcamento-na-ue-suficientemente-ambicioso-e-acordo-ate-ao-final-do-ano/"
+     ],
+     [
+      "2026-10-21 11:05",
+      "Notícias ao Minuto",
+      "Costa defende orçamento da UE \"suficientemente ambicioso\"",
+      "https://www.noticiasaominuto.com/economia/3070348/costa-defende-orcamento-da-ue-suficientemente-ambicioso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-20 19:45",
+      "Observador",
+      "Aguiar-Branco apela a coesão na União Europeia",
+      "https://observador.pt/2026/10/20/aguiar-branco-apela-a-coesao-na-uniao-europeia-afirmando-que-so-assim-sera-competitiva/"
+     ],
+     [
+      "2026-10-20 18:48",
+      "ECO",
+      "Novo quadro comunitário vai criar tensões entre Agricultura e Coesão",
+      "https://eco.sapo.pt/2026/10/20/novo-quadro-comunitario-vai-criar-tensoes-entre-agricultura-e-coesao/"
+     ],
+     [
+      "2026-10-20 16:00",
+      "Jornal de Negócios",
+      "Bazuca deu \"pouca atenção\" aos problemas de fundo das administrações públicas, diz TCE",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/bazuca-deu-pouca-atencao-aos-problemas-de-fundo-das-administracoes-publicas-diz-tce"
+     ],
+     [
+      "2026-10-20 13:31",
+      "ECO",
+      "Portugal tem linhas vermelhas nos recursos próprios para financiar orçamento europeu",
+      "https://eco.sapo.pt/2026/10/20/portugal-tem-linhas-vermelhas-nos-recursos-proprios-para-financiar-orcamento-europeu/"
+     ],
+     [
+      "2026-10-19 09:53",
+      "Agroportal",
+      "QFP 2028-2034: Conselho concorda com posição sobre a organização comum dos mercados dos produtos agrícolas",
+      "https://www.agroportal.pt/qfp-2028-2034-conselho-concorda-com-posicao-sobre-a-organizacao-comum-dos-mercados-dos-produtos-agricolas/"
+     ],
+     [
+      "2026-10-17 09:06",
+      "ECO",
+      "O Quadro Financeiro Plurianual está aí…e nós, estamos preparados?",
+      "https://eco.sapo.pt/opiniao/o-quadro-financeiro-plurianual-esta-aie-nos-estamos-preparados/"
+     ],
+     [
+      "2026-10-16 23:28",
+      "RTP Notícias",
+      "Organizações pedem ao Governo para se opor a cortes na ciência no próximo orçamento da UE",
+      "https://www.rtp.pt/noticias/pais/organizacoes-pedem-ao-governo-para-se-opor-a-cortes-na-ciencia-no-proximo-orcamento-da-ue_n1772147"
+     ],
+     [
+      "2026-10-16 21:29",
+      "RTP Notícias",
+      "Crise de preços da energia e quadro financeiro plurianual: os temas que marcaram o Conselho Europeu em Bruxelas",
+      "https://www.rtp.pt/noticias/uniao-europeia/crise-de-precos-da-energia-e-quadro-financeiro-plurianual-os-temas-que-marcaram-o-conselho-europeu-em-bruxelas_n1772215"
+     ],
+     [
+      "2026-10-16 18:43",
+      "Notícias ao Minuto",
+      "Montenegro relata avanços que abrem \"aproximação\" no orçamento da UE",
+      "https://www.noticiasaominuto.com/pais/3068253/montenegro-relata-avancos-que-abrem-aproximacao-no-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-16 18:35",
+      "Notícias ao Minuto",
+      "Costa compromete-se a acelerar trabalho sobre recursos próprios da UE",
+      "https://www.noticiasaominuto.com/mundo/3068240/costa-compromete-se-a-acelerar-trabalho-sobre-recursos-proprios-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-16 18:22",
+      "Executive Digest",
+      "UE/Cimeira: Costa compromete-se a trabalhar nos recursos próprios para orçamento",
+      "https://executivedigest.sapo.pt/ue-cimeira-costa-compromete-se-a-trabalhar-nos-recursos-proprios-para-orcamento/"
+     ],
+     [
+      "2026-10-16 17:32",
+      "Notícias ao Minuto",
+      "Portugal e Alemanha querem concluir orçamento da UE até final do ano",
+      "https://www.noticiasaominuto.com/mundo/3068197/portugal-e-alemanha-querem-concluir-orcamento-da-ue-ate-final-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-16 17:25",
+      "Notícias ao Minuto",
+      "Organizações pedem oposição a cortes na ciência no orçamento da UE",
+      "https://www.noticiasaominuto.com/pais/3068181/organizacoes-pedem-ao-governo-para-se-opor-a-cortes-na-ciencia-no-proximo-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-16 17:11",
+      "Executive Digest",
+      "Organizações pedem ao Governo para se opor a cortes na ciência no próximo orçamento da UE",
+      "https://executivedigest.sapo.pt/organizacoes-pedem-ao-governo-para-se-opor-a-cortes-na-ciencia-no-proximo-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-16 09:57",
+      "Público",
+      "Vasco Cordeiro alerta para efeitos “profundamente negativos” da proposta de orçamento europeu",
+      "https://www.publico.pt/2026/10/16/economia/noticia/vasco-cordeiro-alerta-efeitos-profundamente-negativos-proposta-orcamento-europeu-2191581"
+     ],
+     [
+      "2026-10-15 21:57",
+      "Notícias ao Minuto",
+      "Líder do PS/Açores quer \"recursos previsíveis\" no próximo orçamento da UE",
+      "https://www.noticiasaominuto.com/pais/3067633/lider-do-psacores-quer-recursos-previsiveis-no-proximo-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-15 19:19",
+      "Jornal de Negócios",
+      "Seguro considera \"imprescindível\" aprovação de orçamento da UE até final do ano",
+      "https://www.jornaldenegocios.pt/economia/detalhe/seguro-considera-imprescindivel-aprovacao-de-orcamento-da-ue-ate-final-do-ano"
+     ],
+     [
+      "2026-10-15 19:15",
+      "Diário de Notícias",
+      "Seguro considera “imprescindível” aprovação de orçamento da UE até final do ano",
+      "https://www.dn.pt/internacional/seguro-considera-imprescindvel-aprovao-de-oramento-da-ue-at-final-do-ano?utm_source=website&utm_medium=related-stories"
+     ],
+     [
+      "2026-10-15 16:20",
+      "Açoriano Oriental",
+      "Açores exigem \"justos\" montantes no orçamento europeu 2028-2034",
+      "https://www.acorianooriental.pt/noticia/acores-exigem-justos-montantes-no-orcamento-europeu-2028-2034-381137"
+     ],
+     [
+      "2026-10-15 16:14",
+      "Açoriano Oriental",
+      "Partidos que governam nos Açores querem novo orçamento da UE nunca inferior a 2021-2027",
+      "https://www.acorianooriental.pt/noticia/partidos-que-governam-nos-acores-querem-novo-orcamento-da-ue-nunca-inferior-a-2021-2027-381136"
+     ],
+     [
+      "2026-10-15 15:20",
+      "ECO",
+      "Países da coesão garantem que vão manter-se unidos contra cortes no orçamento",
+      "https://eco.sapo.pt/2026/10/15/paises-da-coesao-garantem-que-vao-manter-se-unidos-contra-cortes-no-orcamento/"
+     ],
+     [
+      "2026-10-15 15:16",
+      "Notícias ao Minuto",
+      "Carla Tavares alerta sobre fragilidade da maioria no orçamento da UE",
+      "https://www.noticiasaominuto.com/mundo/3067384/carla-tavares-alerta-sobre-fragilidade-da-maioria-no-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-15 14:25",
+      "RTP Notícias",
+      "Eurodeputada do PS avisa que orçamento da UE precisa de consentimento parlamentar",
+      "https://www.rtp.pt/noticias/politica/eurodeputada-do-ps-avisa-que-orcamento-da-ue-precisa-de-consentimento-parlamentar_n1771870"
+     ],
+     [
+      "2026-10-15 14:02",
+      "Jornal de Negócios",
+      "CAP pede posição firme de Portugal nas negociações do próximo orçamento europeu",
+      "https://www.jornaldenegocios.pt/empresas/agricultura-e-pescas/detalhe/cap-pede-posicao-firme-de-portugal-nas-negociacoes-do-proximo-orcamento-europeu"
+     ],
+     [
+      "2026-10-15 13:48",
+      "Jornal Económico",
+      "UE/Cimeira: Países da coesão garantem que vão manter-se unidos contra cortes no orçamento",
+      "https://jornaleconomico.sapo.pt/noticias/ue-cimeira-paises-da-coesao-garantem-que-vao-manter-se-unidos-contra-cortes-no-orcamento/"
+     ],
+     [
+      "2026-10-15 13:36",
+      "Notícias ao Minuto",
+      "CAP pede posição firme de Portugal nas negociações do orçamento europeu",
+      "https://www.noticiasaominuto.com/pais/3067379/cap-pede-posicao-firme-de-portugal-nas-negociacoes-do-orcamento-europeu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-15 12:37",
+      "Notícias ao Minuto",
+      "Açores exigem montantes justos no orçamento europeu 2028-2034",
+      "https://www.noticiasaominuto.com/pais/3067300/acores-exigem-montantes-justos-no-orcamento-europeu-2028-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-15 12:30",
+      "Agroportal",
+      "CAP quer posição firme de Portugal nas negociações do próximo orçamento europeu",
+      "https://www.agroportal.pt/cap-quer-posicao-firme-de-portugal-nas-negociacoes-do-proximo-orcamento-europeu/"
+     ],
+     [
+      "2026-10-15 12:01",
+      "Notícias ao Minuto",
+      "Países da coesão prometem unidade contra cortes no orçamento da UE",
+      "https://www.noticiasaominuto.com/mundo/3067310/paises-da-coesao-prometem-unidade-contra-cortes-no-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-15 12:00",
+      "RTP Notícias",
+      "Sánchez critica proposta de orçamento da UE e admite impostos europeus para empresas",
+      "https://www.rtp.pt/noticias/mundo/sanchez-critica-proposta-de-orcamento-da-ue-e-admite-impostos-europeus-para-empresas_n1771827"
+     ],
+     [
+      "2026-10-15 11:45",
+      "Jornal de Negócios",
+      "Chanceler alemão diz que negociação do orçamento europeu será \"muito difícil\"",
+      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/chanceler-alemao-diz-que-negociacao-do-orcamento-europeu-sera-muito-dificil"
+     ],
+     [
+      "2026-10-15 11:32",
+      "Agroportal",
+      "CAP exige salvaguarda da PAC e proteção do segundo pilar no próximo orçamento europeu",
+      "https://www.agroportal.pt/cap-exige-salvaguarda-da-pac-e-protecao-do-segundo-pilar-no-proximo-orcamento-europeu/"
+     ],
+     [
+      "2026-10-15 11:28",
+      "Notícias ao Minuto",
+      "Chanceler alemão admite que discussão do orçamento da UE será difícil",
+      "https://www.noticiasaominuto.com/mundo/3067272/uecimeira-chanceler-alemao-admite-que-discussao-do-orcamento-sera-muito-dificil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-15 11:03",
+      "Notícias ao Minuto",
+      "Sánchez critica orçamento da UE e defende impostos europeus para empresas",
+      "https://www.noticiasaominuto.com/mundo/3067260/sanchez-critica-orcamento-da-ue-e-defende-impostos-europeus-para-empresas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-15 09:57",
+      "Renascença",
+      "Conselho Europeu já começou. Energia e quadro financeiro plurianual são as prioridades",
+      "https://rr.pt/noticia/amp/mundo/2026/10/15/conselho-europeu-ja-comecou-energia-e-quadro-financeiro-plurianual-sao-as-prioridades/489281/"
+     ],
+     [
+      "2026-10-15 08:00",
+      "Jornal de Negócios",
+      "Braço de ferro entre os 27 complica calendário de Costa para orçamento da UE",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/braco-de-ferro-entre-os-27-complica-calendario-de-costa-para-orcamento-da-ue"
+     ],
+     [
+      "2026-10-15 06:45",
+      "Jornal de Negócios",
+      "Conselho Europeu, época de resultados e 3 outras coisas que precisa de saber para começar o dia",
+      "https://www.jornaldenegocios.pt/mercados/detalhe/conselho-europeu-epoca-de-resultados-e-3-outras-coisas-que-precisa-de-saber-para-comecar-o-dia"
+     ],
+     [
+      "2026-10-14 20:02",
+      "RTP Notícias",
+      "Cimeira UE. Líderes exigem mais medidas para enfrentar escalada de preços da energia",
+      "https://www.rtp.pt/noticias/economia/cimeira-ue-lideres-exigem-mais-medidas-para-enfrentar-escalada-de-precos-da-energia_n1771693"
+     ],
+     [
+      "2026-10-14 16:30",
+      "Observador",
+      "Moedas contra cortes no orçamento da UE",
+      "https://observador.pt/2026/10/14/moedas-pede-uniao-de-todos-os-partidos-contra-cortes-no-orcamento-da-ue-o-montante-nao-pode-descer/"
+     ],
+     [
+      "2026-10-14 16:15",
+      "Notícias ao Minuto",
+      "Carlos Moedas pede unidade dos partidos contra corte no orçamento europeu",
+      "https://www.noticiasaominuto.com/pais/3066786/carlos-moedas-pede-unidade-dos-partidos-contra-corte-no-orcamento-europeu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-14 06:18",
+      "Público",
+      "Comissão não está “nada satisfeita” com proposta de compromisso para o orçamento da UE",
+      "https://www.publico.pt/2026/10/14/economia/noticia/comissao-nao-nada-satisfeita-proposta-compromisso-orcamento-ue-2191261"
+     ],
+     [
+      "2026-10-13 22:52",
+      "Observador",
+      "João Leão alerta para queda dos fundos europeus em Portugal",
+      "https://observador.pt/2026/10/13/joao-leao-alerta-para-reducao-mais-acentuada-dos-fundos-europeus-a-partir-de-2030/"
+     ],
+     [
+      "2026-10-13 19:06",
+      "ECO",
+      "Orçamento da UE sem fumo branco para Açores e Madeira. “Não podemos aceitar”, diz Carla Tavares",
+      "https://eco.sapo.pt/2026/10/13/orcamento-da-ue-sem-fumo-branco-para-acores-e-madeira-nao-podemos-aceitar-diz-carla-tavares/"
+     ],
+     [
+      "2026-10-13 17:37",
+      "CNN Portugal",
+      "Sul e leste da Europa recusam cortes no orçamento da UE e voltam a chocar com os \"países frugais\"",
+      "https://cnnportugal.iol.pt/orcamento-comunitario/coesao/sul-e-leste-da-europa-recusam-cortes-no-orcamento-da-ue-e-voltam-a-chocar-com-os-paises-frugais/20261013/6ace5c51d34e9a786e75c051"
+     ],
+     [
+      "2026-10-13 17:10",
+      "Jornal de Notícias",
+      "\"Os pequenos países vão sair a perder\" com o orçamento europeu, avisa Comité das Regiões",
+      "https://www.jn.pt/nacional/artigo/os-pequenos-paises-vao-sair-a-perder-com-o-orcamento-europeu-avisa-comite-das-regioes/18136567"
+     ],
+     [
+      "2026-10-13 11:07",
+      "Agroportal",
+      "Orçamento da UE: parem de fingir que \"a PAC está assegurada\"!",
+      "https://www.agroportal.pt/orcamento-da-ue-parem-de-fingir-que-a-pac-esta-assegurada/"
+     ],
+     [
+      "2026-10-13 00:05",
+      "Público",
+      "Novo orçamento europeu deixa Montenegro a ver navios",
+      "https://www.publico.pt/2026/10/13/opiniao/opiniao/novo-orcamento-europeu-deixa-montenegro-navios-2191167"
+     ],
+     [
+      "2026-10-12 18:22",
+      "ECO",
+      "Corte de 141 mil milhões na proposta irlandesa mantém orçamento da UE longe de consenso",
+      "https://eco.sapo.pt/2026/10/12/corte-de-141-mil-milhoes-na-proposta-irlandesa-mantem-orcamento-da-ue-longe-de-consenso/"
+     ],
+     [
+      "2026-10-12 16:45",
+      "Jornal Económico",
+      "Costa alerta para repercussões de atraso na aprovação do orçamento da UE",
+      "https://jornaleconomico.sapo.pt/noticias/1451390/"
+     ],
+     [
+      "2026-10-12 16:19",
+      "Observador",
+      "Costa alerta para a importância de aprovar orçamento da UE",
+      "https://observador.pt/2026/10/12/antonio-costa-adverte-para-repercussoes-de-atraso-na-aprovacao-do-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-12 15:50",
+      "Sábado",
+      "António Costa adverte para repercussões de atraso na aprovação do orçamento da UE",
+      "https://www.sabado.pt/ultima-hora/detalhe/antonio-costa-adverte-para-repercussoes-de-atraso-na-aprovacao-do-orcamento-da-ue"
+     ],
+     [
+      "2026-10-12 15:14",
+      "Jornal de Notícias",
+      "António Costa avisa que atraso no orçamento europeu terá \"impacto direto\" nas câmaras em 2028",
+      "https://www.jn.pt/amp/18136231/antonio-costa-avisa-que-atraso-no-orcamento-europeu-tera-impacto-direto-nas-camaras-em-2028"
+     ],
+     [
+      "2026-10-12 14:57",
+      "Notícias ao Minuto",
+      "Costa adverte para repercussões de atraso na aprovação do orçamento da UE",
+      "https://www.noticiasaominuto.com/economia/3065591/antonio-costa-adverte-para-repercussoes-de-atraso-na-aprovacao-do-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-12 13:13",
+      "Açoriano Oriental",
+      "Bruxelas critica cortes propostos pela Irlanda no próximo orçamento da UE",
+      "https://www.acorianooriental.pt/noticia/bruxelas-critica-cortes-propostos-pela-irlanda-no-proximo-orcamento-da-ue-381033"
+     ],
+     [
+      "2026-10-12 12:50",
+      "Jornal de Negócios",
+      "\"Não estamos satisfeitos com estes cortes\". Bruxelas critica proposta da Irlanda para orçamento da UE",
+      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/nao-estamos-satisfeitos-com-estes-cortes-bruxelas-critica-proposta-da-irlanda-para-orcamento-da-ue"
+     ],
+     [
+      "2026-10-12 12:28",
+      "Observador",
+      "A Europa quer gastar mais, mas quem paga? — Debate",
+      "https://observador.pt/programas/contra-corrente/a-europa-quer-gastar-mais-mas-quem-paga-debate/"
+     ],
+     [
+      "2026-10-12 00:14",
+      "Observador",
+      "Cortes à proposta do QFP 2028-2034 são inaceitáveis",
+      "https://observador.pt/opiniao/cortes-a-proposta-do-qfp-2028-2034-anunciados-pela-presidencia-irlandesa-do-conselho-sao-inaceitaveis/"
+     ],
+     [
+      "2026-10-12 00:14",
+      "Observador",
+      "Cortes à proposta do QFP 2028-2034 anunciados pela Presidência Irlandesa do Conselho são inaceitáveis",
+      "https://observador.pt/opiniao/cortes-a-proposta-do-qfp-2028-2034-anunciados-pela-presidencia-irlandesa-do-conselho-sao-inaceitaveis/"
+     ],
+     [
+      "2026-10-11 21:18",
+      "RTP Notícias",
+      "Costa será \"principal negociador\" para orçamento da UE após críticas a proposta irlandesa",
+      "https://www.rtp.pt/noticias/mundo/costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa_n1771047"
+     ],
+     [
+      "2026-10-11 20:20",
+      "Notícias ao Minuto",
+      "Costa será \"principal negociador\" para orçamento da UE após críticas",
+      "https://www.noticiasaominuto.com/mundo/3065203/costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-11 20:11",
+      "Renascença",
+      "António Costa assume negociações do orçamento da UE após críticas à proposta irlandesa",
+      "https://rr.pt/noticia/amp/mundo/2026/10/11/antonio-costa-assume-negociacoes-do-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/488760/"
+     ],
+     [
+      "2026-10-11 19:44",
+      "Observador",
+      "Costa será \"principal negociador\" para orçamento da UE",
+      "https://observador.pt/2026/10/11/costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/"
+     ],
+     [
+      "2026-10-11 19:44",
+      "Observador",
+      "Costa será \"principal negociador\" para orçamento da UE após críticas a proposta irlandesa",
+      "https://observador.pt/2026/10/11/costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/"
+     ],
+     [
+      "2026-10-11 19:28",
+      "Diário de Notícias",
+      "Costa será “principal negociador” para orçamento da UE após críticas a proposta irlandesa",
+      "https://www.dn.pt/internacional/costa-ser-principal-negociador-para-oramento-da-ue-aps-crticas-a-proposta-irlandesa"
+     ],
+     [
+      "2026-10-11 18:57",
+      "Jornal de Negócios",
+      "António Costa à procura de entendimentos para orçamento da UE. Calendário é obstáculo",
+      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-a-procura-de-entendimentos-para-orcamento-da-ue-calendario-e-obstaculo"
+     ],
+     [
+      "2026-10-11 18:42",
+      "Jornal Económico",
+      "António Costa será “principal negociador” para orçamento da UE após críticas a proposta irlandesa",
+      "https://jornaleconomico.sapo.pt/noticias/antonio-costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/"
+     ],
+     [
+      "2026-10-11 18:26",
+      "Correio da Manhã",
+      "António Costa será \"principal negociador\" para orçamento da UE após críticas a proposta irlandesa",
+      "https://www.cmjornal.pt/mundo/amp/antonio-costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa"
+     ],
+     [
+      "2026-10-10 17:48",
+      "Público",
+      "Envelope nacional sem cortes na nova proposta de compromisso para o orçamento da UE",
+      "https://www.publico.pt/2026/10/10/economia/noticia/envelope-nacional-cortes-nova-proposta-compromisso-orcamento-ue-2190942"
+     ],
+     [
+      "2026-10-10 17:45",
+      "Expresso",
+      "Portugal quer mais €900 milhões, frugais batem o pé: novo orçamento europeu ou encolhe ou não passa",
+      "https://expresso.pt/fundos-europeus/2026-10-10-portugal-quer-mais-900-milhoes-frugais-batem-o-pe-novo-orcamento-europeu-ou-encolhe-ou-nao-passa-28f1cb17-1?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/fundos-europeus/2026-10-10-portugal-quer-mais-900-milhoes-frugais-batem-o-pe-novo-orcamento-europeu-ou-encolhe-ou-nao-passa-28f1cb17-1"
+     ],
+     [
+      "2026-10-10 15:44",
+      "ECO",
+      "Portugal contemplado com 35,1 mil milhões na proposta orçamental da UE, mas exige mais 900 milhões",
+      "https://eco.sapo.pt/2026/10/10/portugal-contemplado-com-351-mil-milhoes-na-proposta-orcamental-da-ue-mas-exige-mais-900-milhoes/"
+     ],
+     [
+      "2026-10-10 15:27",
+      "RTP Notícias",
+      "Parlamento Europeu critica proposta \"pouco ambiciosa\" da Irlanda para orçamento da UE",
+      "https://www.rtp.pt/noticias/mundo/parlamento-europeu-critica-proposta-pouco-ambiciosa-da-irlanda-para-orcamento-da-ue_n1770867"
+     ],
+     [
+      "2026-10-10 14:46",
+      "TSF",
+      "Cortes de 141 mil milhões no orçamento da UE. \"Recebemos esta proposta com preocupação\"",
+      "https://www.tsf.pt/mundo/artigo/cortes-de-141-mil-milhoes-no-orcamento-da-ue-recebemos-esta-proposta-com-preocupacao/18135603"
+     ],
+     [
+      "2026-10-10 14:43",
+      "Notícias ao Minuto",
+      "Norte da Europa considera insuficiente corte no orçamento da UE",
+      "https://www.noticiasaominuto.com/economia/3064766/norte-da-europa-considera-insuficiente-corte-no-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-10 13:15",
+      "Jornal Económico",
+      "Parlamento Europeu critica proposta “pouco ambiciosa” da Irlanda para orçamento da UE",
+      "https://jornaleconomico.sapo.pt/noticias/parlamento-europeu-critica-proposta-pouco-ambiciosa-da-irlanda-para-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-10 13:03",
+      "Notícias ao Minuto",
+      "PE critica proposta \"pouco ambiciosa\" da Irlanda para orçamento da UE",
+      "https://www.noticiasaominuto.com/economia/3064726/parlamento-europeu-critica-proposta-pouco-ambiciosa-da-irlanda-para-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-10 12:48",
+      "Observador",
+      "Irlanda quer poupar 141 mil milhões no orçamento da UE",
+      "https://observador.pt/2026/10/10/presidencia-irlandesa-da-ue-propoe-cortes-de-8-na-proposta-orcamental-ate-2034/"
+     ],
+     [
+      "2026-10-10 12:42",
+      "Executive Digest",
+      "Parlamento Europeu critica proposta \"pouco ambiciosa\" da Irlanda para orçamento da UE",
+      "https://executivedigest.sapo.pt/parlamento-europeu-critica-proposta-pouco-ambiciosa-da-irlanda-para-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-10 11:56",
+      "ECO",
+      "Comissão e países divididos sobre cortes e prioridades no orçamento da UE. O que se segue?",
+      "https://eco.sapo.pt/2026/10/10/comissao-e-paises-divididos-sobre-cortes-e-prioridades-no-orcamento-da-ue-o-que-se-segue/"
+     ],
+     [
+      "2026-10-10 11:56",
+      "Diário de Notícias",
+      "Irlanda quer fechar orçamento da UE até ao Natal com cortes de 8%",
+      "https://www.dn.pt/internacional/irlanda-quer-fechar-oramento-da-ue-at-ao-natal-com-cortes-de-8"
+     ],
+     [
+      "2026-10-10 11:51",
+      "Executive Digest",
+      "Portugal QFP",
+      "https://executivedigest.sapo.pt/tag/portugal-qfp/"
+     ],
+     [
+      "2026-10-10 10:47",
+      "Notícias ao Minuto",
+      "Presidência irlandesa propõe cortes de 8% no orçamento da UE até 2034",
+      "https://www.noticiasaominuto.com/null/3064696/presidencia-irlandesa-propoe-cortes-de-8-no-orcamento-da-ue-ate-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-10 10:32",
+      "Observador",
+      "Partidos divididos sobre orçamento da UE",
+      "https://observador.pt/2026/10/10/do-ataque-a-soberania-aos-gastos-em-armamento-assim-veem-os-partidos-o-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-10 10:32",
+      "Observador",
+      "Do ataque à soberania aos gastos em armamento assim veem os partidos o orçamento da UE",
+      "https://observador.pt/2026/10/10/do-ataque-a-soberania-aos-gastos-em-armamento-assim-veem-os-partidos-o-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-10 08:22",
+      "CNN Portugal",
+      "Do ataque à soberania aos gastos em armamento. Como os partidos portugueses olham para o orçamento da UE",
+      "https://cnnportugal.iol.pt/europa/uniao-europeia/do-ataque-a-soberania-aos-gastos-em-armamento-como-os-partidos-portugueses-olham-para-o-orcamento-da-ue/20261010/6ac9e6a9d34e9a786e75b9f4"
+     ],
+     [
+      "2026-10-09 13:15",
+      "Notícias ao Minuto",
+      "Primeiro-ministro admite não estar otimista sobre próximo QFP da UE",
+      "https://www.noticiasaominuto.com/null/3064152/primeiro-ministro-admite-nao-estar-otimista-sobre-proximo-qfp-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-08 09:30",
+      "Jornal de Negócios",
+      "Bruxelas estuda forma de tributar Apple, Meta e Google sem visar o setor digital",
+      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/bruxelas-estuda-forma-de-tributar-apple-meta-e-google-sem-visar-o-setor-digital"
+     ],
+     [
+      "2026-10-07 23:00",
+      "Jornal de Negócios",
+      "O outro orçamento",
+      "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/o-outro-orcamento"
+     ],
+     [
+      "2026-10-07 22:23",
+      "RTP Notícias",
+      "Montenegro quer novas regras para formação do preço do petróleo",
+      "https://www.rtp.pt/noticias/politica/montenegro-quer-novas-regras-para-formacao-do-preco-do-petroleo_v1770173"
+     ],
+     [
+      "2026-10-07 17:57",
+      "ECO",
+      "Carlos Moedas, presidente do Comité das Regiões e 20 autarcas contra cortes no orçamento da UE",
+      "https://eco.sapo.pt/2026/10/07/carlos-moedas-presidente-do-comite-das-regioes-e-20-autarcas-contra-cortes-no-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-07 16:45",
+      "Notícias ao Minuto",
+      "MED9 quer orçamento da UE forte e sem sacrificar políticas essenciais",
+      "https://www.noticiasaominuto.com/mundo/3062948/med9-quer-orcamento-da-ue-forte-e-sem-sacrificar-politicas-essenciais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-07 15:06",
+      "Agroportal",
+      "MED9 defende orçamento da UE ambicioso mas sem sacrificar PAC e política de coesão",
+      "https://www.agroportal.pt/med9-defende-orcamento-da-ue-ambicioso-mas-sem-sacrificar-pac-e-politica-de-coesao/"
+     ],
+     [
+      "2026-10-07 09:45",
+      "Notícias ao Minuto",
+      "Irlanda promete aproximar posições sobre orçamento da UE",
+      "https://www.noticiasaominuto.com/mundo/3062651/irlanda-promete-aproximar-posicoes-sobre-orcamento-mas-avisa-que-nao-vai-agradar-a-todos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-07 05:15",
+      "Renascença",
+      "Países do sul da Europa afinam estratégia sobre preços da energia e orçamento europeu",
+      "https://rr.pt/noticia/amp/politica/2026/10/07/paises-do-sul-da-europa-afinam-estrategia-sobre-precos-da-energia-e-orcamento-europeu/488112/"
+     ],
+     [
+      "2026-10-06 22:20",
+      "Jornal de Negócios",
+      "Estados-membros puxam orçamento europeu a seu favor antes de nova \"guerra de milhões\"",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/estados-membros-puxam-orcamento-europeu-a-seu-favor-antes-de-nova-guerra-de-milhoes"
+     ],
+     [
+      "2026-10-06 16:30",
+      "Renascença",
+      "Raro consenso: eurodeputados portugueses unidos contra corte no Orçamento da UE",
+      "https://rr.pt/noticia/amp/politica/2026/10/06/raro-consenso-eurodeputados-portugueses-unidos-contra-corte-no-orcamento-da-ue/488080/"
+     ],
+     [
+      "2026-10-06 12:43",
+      "Diário de Notícias",
+      "Montenegro avisa que será intransigente com cortes no orçamento da UE e recusa “concurso de pedinchices”",
+      "https://www.dn.pt/pol%C3%ADtica/montenegro-avisa-que-ser-intransigente-com-cortes-no-oramento-da-ue-e-recusa-concurso-de-pedinchices"
+     ],
+     [
+      "2026-10-06 11:29",
+      "CNN Portugal",
+      "Montenegro avisa que será intransigente com cortes no orçamento da UE e recusa \"concurso de pedinchices\"",
+      "https://cnnportugal.iol.pt/luis-montenegro/orcamento/montenegro-avisa-que-sera-intransigente-com-cortes-no-orcamento-da-ue-e-recusa-concurso-de-pedinchices/20261006/6ac4cdaed34e53c759c7520c"
+     ],
+     [
+      "2026-10-06 11:17",
+      "Lusa",
+      "PM avisa que será intransigente com cortes no orçamento da UE e recusa “concurso de pedinchices”",
+      "https://www.lusa.pt/international/article/2026-10-06/47892045/pm-avisa-que-ser%C3%A1-intransigente-com-cortes-no-or%C3%A7amento-da-ue-e-recusa-concurso-de-pedinchices"
+     ],
+     [
+      "2026-10-06 11:00",
+      "Agroportal",
+      "Portugal defende reforço da PAC no próximo orçamento da UE",
+      "https://www.agroportal.pt/portugal-defende-reforco-da-pac-no-proximo-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-06 10:59",
+      "Diário de Notícias da Madeira",
+      "PM avisa que será intransigente com cortes no orçamento da UE e recusa \"concurso de pedinchices\"",
+      "https://www.dnoticias.pt/2026/10/6/507925-pm-avisa-que-sera-intransigente-com-cortes-no-orcamento-da-ue-e-recusa-concurso-de-pedinchices/"
+     ],
+     [
+      "2026-10-06 10:58",
+      "Notícias ao Minuto",
+      "Orçamento da UE: PM não entra em \"concurso de pedinchices\", mas faz aviso",
+      "https://www.noticiasaominuto.com/economia/3062139/pm-avisa-que-sera-intransigente-com-cortes-no-orcamento-da-ue-e-recusa-concurso-de-pedinchices#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-06 10:40",
+      "Expresso",
+      "Montenegro separa aprovação do OE da lei das rendas e diz que não quer um \"concurso de pedinchice\" no orçamento da UE",
+      "https://expresso.pt/europa/2026-10-06-montenegro-separa-aprovacao-do-oe-da-lei-das-rendas-e-diz-que-nao-quer-um-concurso-de-pedinchice-no-orcamento-da-ue-85049b12?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/europa/2026-10-06-montenegro-separa-aprovacao-do-oe-da-lei-das-rendas-e-diz-que-nao-quer-um-concurso-de-pedinchice-no-orcamento-da-ue-85049b12"
+     ],
+     [
+      "2026-10-06 09:10",
+      "ECO",
+      "Von der Leyen alerta para risco de grandes cortes no orçamento da UE a longo prazo",
+      "https://eco.sapo.pt/2026/10/06/von-der-leyen-alerta-para-risco-de-grandes-cortes-no-orcamento-da-ue-a-longo-prazo/"
+     ],
+     [
+      "2026-10-06 08:01",
+      "Diário de Notícias",
+      "Montenegro discursa no Parlamento Europeu com orçamento da UE em pano de fundo",
+      "http://dinheirovivo.dn.pt/economia/montenegro-discursa-no-parlamento-europeu-com-oramento-da-ue-em-pano-de-fundo"
+     ],
+     [
+      "2026-10-06 07:52",
+      "Renascença",
+      "Von der Leyen alerta para risco de grandes cortes no orçamento da UE",
+      "https://rr.pt/noticia/mundo/2026/10/06/von-der-leyen-alerta-para-risco-de-grandes-cortes-no-orcamento-da-ue/488006/"
+     ],
+     [
+      "2026-10-06 07:42",
+      "SIC Notícias",
+      "Montenegro discursa no Parlamento Europeu em plena negociação do próximo orçamento da UE",
+      "https://sicnoticias.pt/pais/2026-10-06-montenegro-discursa-no-parlamento-europeu-em-plena-negociacao-do-proximo-orcamento-da-ue-d5186623"
+     ],
+     [
+      "2026-10-06 07:18",
+      "CNN Portugal",
+      "Montenegro discursa no Parlamento Europeu com o futuro orçamento da UE e os fundos de coesão na agenda",
+      "https://cnnportugal.iol.pt/luis-montenegro/parlamento-europeu/montenegro-discursa-no-parlamento-europeu-com-o-futuro-orcamento-da-ue-e-os-fundos-de-coesao-na-agenda/20261006/6ac492dbd34e9a786e75af84"
+     ],
+     [
+      "2026-10-06 05:15",
+      "Observador",
+      "5h. Primeiro-ministro discursa no Parlamento Europeu",
+      "https://observador.pt/programas/noticiario/as-noticias-das-5h-1572/"
+     ],
+     [
+      "2026-10-06 05:10",
+      "Correio da Manhã",
+      "Montenegro discursa hoje no Parlamento Europeu com orçamento da UE em pano de fundo",
+      "https://www.cmjornal.pt/politica/amp/montenegro-discursa-hoje-no-parlamento-europeu-com-orcamento-da-ue-em-pano-de-fundo"
+     ],
+     [
+      "2026-10-06 00:02",
+      "Observador",
+      "A Global Gateway e o Fim da Ambiguidade",
+      "https://observador.pt/opiniao/a-global-gateway-e-o-fim-da-ambiguidade/"
+     ],
+     [
+      "2026-10-05 21:37",
+      "Expresso",
+      "Uma guerra de epístolas: Montenegro vai a Estrasburgo defender zero cortes no orçamento europeu contra vontade dos \"frugais\"",
+      "https://expresso.pt/uniao-europeia/2026-10-05-uma-guerra-de-epistolas-montenegro-vai-a-estrasburgo-defender-zero-cortes-no-orcamento-europeu-contra-vontade-dos-frugais-043c9118?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/uniao-europeia/2026-10-05-uma-guerra-de-epistolas-montenegro-vai-a-estrasburgo-defender-zero-cortes-no-orcamento-europeu-contra-vontade-dos-frugais-043c9118"
+     ],
+     [
+      "2026-10-03 10:35",
+      "Jornal Económico",
+      "Próxima sessão do Parlamento Europeu recebe Luís Montenegro e debate orçamento da UE",
+      "https://jornaleconomico.sapo.pt/noticias/proxima-sessao-do-parlamento-europeu-recebe-luis-montenegro-e-debate-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-03 10:20",
+      "RTP Notícias",
+      "Próxima sessão do Parlamento Europeu recebe Luís Montenegro e debate orçamento da UE",
+      "https://www.rtp.pt/noticias/mundo/proxima-sessao-do-parlamento-europeu-recebe-luis-montenegro-e-debate-orcamento-da-ue_n1769312"
+     ],
+     [
+      "2026-10-03 10:03",
+      "Jornal de Negócios",
+      "Montenegro no Parlamento Europeu com orçamento da UE em discussão",
+      "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-no-parlamento-europeu-com-orcamento-da-ue-em-discussao"
+     ],
+     [
+      "2026-10-03 09:24",
+      "ECO",
+      "Montenegro em Estrasburgo com orçamento da UE discussão",
+      "https://eco.sapo.pt/2026/10/03/montenegro-em-estrasburgo-com-orcamento-da-ue-discussao/"
+     ],
+     [
+      "2026-10-03 00:15",
+      "Jornal Económico",
+      "Luís Montenegro e 16 líderes recusam novos cortes na PAC no orçamento da UE",
+      "https://jornaleconomico.sapo.pt/noticias/luis-montenegro-e-16-lideres-recusam-novos-cortes-na-pac-no-orcamento-da-ue/"
+     ],
+     [
+      "2026-10-02 20:12",
+      "RTP Notícias",
+      "Portugal e mais 16 países da UE admitem nova dívida comum para financiar Política Agrícola Comum e de Coesão",
+      "https://www.rtp.pt/noticias/economia/portugal-e-mais-16-paises-da-ue-admitem-nova-divida-comum-para-financiar-politica-agricola-comum-e-de-coesao_n1769235"
+     ],
+     [
+      "2026-10-02 17:24",
+      "Notícias ao Minuto",
+      "Montenegro e 16 líderes recusam novos cortes na PAC no orçamento da UE",
+      "https://www.noticiasaominuto.com/economia/3060965/montenegro-e-16-lideres-recusam-novos-cortes-na-pac-no-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-02 16:55",
+      "Executive Digest",
+      "Portugal integra frente de 17 países contra cortes no próximo orçamento europeu",
+      "https://executivedigest.sapo.pt/portugal-integra-frente-de-17-paises-contra-cortes-no-proximo-orcamento-europeu/"
+     ],
+     [
+      "2026-09-30 18:07",
+      "Açoriano Oriental",
+      "Franqueira Rodrigues defende reforço do orçamento europeu",
+      "https://www.acorianooriental.pt/noticia/franqueira-rodrigues-defende-reforco-do-orcamento-europeu-380730"
+     ],
+     [
+      "2026-09-30 11:58",
+      "Público",
+      "Portugal, Espanha e França recusam cortes no financiamento das regiões ultraperiféricas",
+      "https://www.publico.pt/2026/09/30/economia/noticia/portugal-espanha-franca-recusam-cortes-financiamento-regioes-ultraperifericas-2189755"
+     ],
+     [
+      "2026-09-29 18:26",
+      "Jornal de Negócios",
+      "Portugal, Espanha e França pressionam Bruxelas com orçamento europeu",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/portugal-espanha-e-franca-exigem-fundos-adequados-para-regioes-ultraperifericas-apos-2028"
+     ],
+     [
+      "2026-09-29 10:28",
+      "Açoriano Oriental",
+      "Artur Lima critica proposta do próximo orçamento europeu",
+      "http://www.acorianooriental.pt/noticia/artur-lima-critica-proposta-do-proximo-orcamento-europeu-380686"
+     ],
+     [
+      "2026-09-29 09:30",
+      "Jornal Económico",
+      "França sugere usar multas da Google para financiar orçamento da UE",
+      "https://jornaleconomico.sapo.pt/noticias/franca-sugere-usar-multas-da-google-para-financiar-orcamento-da-ue/"
+     ],
+     [
+      "2026-09-29 09:22",
+      "Jornal de Negócios",
+      "Frugais ameaçam bloquear orçamento europeu caso não haja cortes de \"centenas de milhões\"",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/frugais-ameacam-bloquear-orcamento-europeu-caso-nao-haja-cortes-de-centenas-de-milhoes"
+     ],
+     [
+      "2026-09-23 11:40",
+      "CNN Portugal",
+      "\"Terá perdido completamente o contacto com a realidade\": Alemanha critica António Costa e pede \"mais realismo\" nas negociações do orçamento da UE",
+      "https://cnnportugal.iol.pt/alemanha/antonio-costa/tera-perdido-completamente-o-contacto-com-a-realidade-alemanha-critica-antonio-costa-e-pede-mais-realismo-nas-negociacoes-do-orcamento-da-ue/20260923/6ab3ab46d34e53c759c735c9"
+     ],
+     [
+      "2026-09-22 17:40",
+      "Observador",
+      "Cripto no orçamento da UE: imposto ganha força",
+      "https://observador.pt/2026/09/22/imposto-europeu-sobre-criptoativos-ganha-forca-nas-negociacoes-do-orcamento-da-ue-para-2028-2034/"
+     ],
+     [
+      "2026-09-22 12:26",
+      "Executive Digest",
+      "Alemanha acusa António Costa de estar a perder “contacto com a realidade” nas negociações do orçamento da UE",
+      "https://executivedigest.sapo.pt/alemanha-acusa-antonio-costa-de-estar-a-perder-contacto-com-a-realidade-nas-negociacoes-do-orcamento-da-ue/"
+     ],
+     [
+      "2026-09-21 11:48",
+      "Jornal Económico",
+      "António Costa insiste na procura de novas fontes de recursos próprios para financiar o orçamento",
+      "https://jornaleconomico.sapo.pt/noticias/antonio-costa-insiste-na-procura-de-novas-fontes-de-recursos-proprios-para-financiar-o-orcamento/"
+     ],
+     [
+      "2026-09-20 10:30",
+      "Jornal Económico",
+      "Portugal sem linhas vermelhas absolutas mas com reservas sobre novas receitas da UE",
+      "https://jornaleconomico.sapo.pt/noticias/portugal-sem-linhas-vermelhas-absolutas-mas-com-reservas-sobre-novas-receitas-da-ue/"
+     ],
+     [
+      "2026-09-19 15:08",
+      "Jornal de Negócios",
+      "PM quer que próximo Orçamento da UE privilegie coesão e política agrícola comum",
+      "https://www.jornaldenegocios.pt/economia/detalhe/pm-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum"
+     ],
+     [
+      "2026-09-19 14:42",
+      "Sábado",
+      "Montenegro quer que próximo Orçamento da UE privilegie coesão e política agrícola comum",
+      "https://www.sabado.pt/portugal/detalhe/montenegro-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum"
+     ],
+     [
+      "2026-09-19 14:39",
+      "Notícias ao Minuto",
+      "PM quer que próximo Orçamento da UE privilegie coesão e política agrícola",
+      "https://www.noticiasaominuto.com/pais/3054151/pm-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-09-19 14:30",
+      "Público",
+      "Nem “voluntarista nem “pai da austeridade”: a promessa de Luís Montenegro",
+      "https://www.publico.pt/2026/09/19/politica/noticia/voluntarista-pai-austeridade-promessa-luis-montenegro-2188638"
+     ],
+     [
+      "2026-09-19 13:51",
+      "Correio da Manhã",
+      "Primeiro-ministro quer que próximo Orçamento da UE privilegie coesão e política agrícola comum",
+      "https://www.cmjornal.pt/politica/amp/primeiro-ministro-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum"
+     ],
+     [
+      "2026-09-19 06:08",
+      "Público",
+      "Coesão, regiões ultraperiféricas e competitividade: as prioridades do Governo para negociar orçamento da UE",
+      "https://www.publico.pt/2026/09/19/economia/noticia/coesao-regioes-ultraperifericas-competitividade-prioridades-governo-negociar-orcamento-ue-2188541"
+     ],
+     [
+      "2026-09-17 16:59",
+      "Observador",
+      "Costa fecha acordo para orçamento da UE até ao final do ano",
+      "https://observador.pt/2026/09/17/costa-diz-ter-apoio-unanime-para-fechar-acordo-para-o-orcamento-da-uniao-ate-ao-final-do-ano/"
+     ],
+     [
+      "2026-09-17 16:45",
+      "Jornal de Negócios",
+      "Costa garante \"apoio unânime\" dos 27 para fechar orçamento europeu até ao final do ano",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/costa-garante-apoio-unanime-dos-27-para-fechar-orcamento-europeu-ate-ao-final-do-ano"
+     ],
+     [
+      "2026-09-17 15:09",
+      "Jornal Económico",
+      "CIP queria mais competitividade no discurso do Estado da União",
+      "https://jornaleconomico.sapo.pt/noticias/cip-queria-mais-competitividade-no-discurso-do-estado-da-uniao/"
+     ],
+     [
+      "2026-09-16 15:44",
+      "Jornal Económico",
+      "Conselho Europeu de outubro terá dois dias e vai abordar orçamento da UE",
+      "https://jornaleconomico.sapo.pt/noticias/conselho-europeu-de-outubro-tera-dois-dias-e-vai-abordar-orcamento-da-ue/"
+     ],
+     [
+      "2026-09-16 10:54",
+      "Renascença",
+      "Dois eurodeputados açorianos e o orçamento da UE",
+      "https://rr.pt/noticia/amp/mundo/2026/09/16/dois-eurodeputados-acorianos-e-o-orcamento-da-ue/485645/"
+     ],
+     [
+      "2026-09-16 09:10",
+      "Notícias ao Minuto",
+      "\"Qualquer orçamento moderno precisa de novos recursos próprios\"",
+      "https://www.noticiasaominuto.com/economia/3052184/estado-da-uniao-qualquer-orcamento-moderno-precisa-de-novas-receitas-von-der-leyen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-09-14 23:26",
+      "Observador",
+      "S. Pedro do Sul quer integrar projeto de controlo de javalis",
+      "https://observador.pt/2026/09/14/sao-pedro-do-sul-quer-integrar-projeto-piloto-para-controlo-de-javalis/"
+     ],
+     [
+      "2026-09-11 08:51",
+      "Notícias ao Minuto",
+      "Costa revela \"muito boa reunião\" com Montenegro sobre orçamento da UE",
+      "https://www.noticiasaominuto.com/mundo/3049769/costa-revela-muito-boa-reuniao-com-montenegro-sobre-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-09-10 19:56",
+      "ECO",
+      "Macron defende aliança europeia para tecnologia direct-to-device",
+      "https://eco.sapo.pt/2026/09/10/macron-defende-alianca-europeia-para-tecnologia-direct-to-device/"
+     ],
+     [
+      "2026-09-10 12:34",
+      "Expresso",
+      "António Costa reúne-se esta quinta-feira com Montenegro em São Bento para discutir o próximo orçamento da UE",
+      "https://expresso.pt/uniao-europeia/2026-09-10-antonio-costa-reune-se-esta-quinta-feira-com-montenegro-em-sao-bento-para-discutir-o-proximo-orcamento-da-ue-fe8d7e98"
+     ],
+     [
+      "2026-09-10 08:10",
+      "Jornal de Notícias",
+      "Costa reúne-se com Montenegro em Lisboa para discutir orçamento da UE",
+      "https://www.jn.pt/amp/18125129/costa-reune-se-com-montenegro-em-lisboa-para-discutir-orcamento-da-ue"
+     ],
+     [
+      "2026-09-10 06:31",
+      "SIC Notícias",
+      "António Costa reúne-se com Luís Montenegro em São Bento para discutir orçamento da UE",
+      "https://sicnoticias.pt/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c"
+     ],
+     [
+      "2026-09-10 06:25",
+      "Correio da Manhã",
+      "Costa reúne-se hoje com Montenegro em Lisboa para discutir orçamento da UE",
+      "https://www.cmjornal.pt/politica/amp/costa-reune-se-hoje-com-montenegro-em-lisboa-para-discutir-orcamento-da-ue"
+     ],
+     [
+      "2026-09-10 06:24",
+      "Notícias ao Minuto",
+      "Costa reúne-se hoje com Montenegro para discutir orçamento da UE",
+      "https://www.noticiasaominuto.com/mundo/3049118/costa-reune-se-hoje-com-montenegro-em-lisboa-para-discutir-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-09-10 06:00",
+      "Jornal de Negócios",
+      "Montenegro prepara \"oposição firme\" a cortes no orçamento europeu em encontro com Costa",
+      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/montenegro-prepara-oposicao-firme-a-cortes-no-orcamento-europeu-em-encontro-com-costa"
+     ]
+    ]
    },
    "amalia": {
     "assunto": "Escrutínio de Iniciativas Europeias",
@@ -9187,7 +10379,8 @@
     "orçamento europeu",
     "recursos próprios"
    ],
-   "expressoesFixas": true
+   "expressoesFixas": true,
+   "varrimento": "2026-11-10-48672-escrut-nio-de-iniciativas-europeias"
   },
   {
    "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
