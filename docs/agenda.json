@@ -46,14 +46,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 241,
-    "n7": 20,
-    "n7ant": 27,
+    "n": 242,
+    "n7": 21,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-07 10:48",
+    "ultima": "2026-11-08 21:40",
     "ultimas": [
+     {
+      "data": "2026-11-08",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: Partidos apostam forte na habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     },
      {
       "data": "2026-11-07",
       "fonte": "Jornal de Negócios",
@@ -65,15 +71,15 @@
       "fonte": "Correio da Manhã",
       "titulo": "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
       "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
-     },
-     {
-      "data": "2026-11-06",
-      "fonte": "ECO",
-      "titulo": "Partidos apresentam mais de 2.800 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "url": "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
      }
     ],
     "todas": [
+     [
+      "2026-11-08 21:40",
+      "Jornal de Negócios",
+      "OE 2027: Partidos apostam forte na habitação",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     ],
      [
       "2026-11-07 10:48",
       "Jornal de Negócios",
@@ -1560,14 +1566,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 241,
-    "n7": 20,
-    "n7ant": 27,
+    "n": 242,
+    "n7": 21,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-07 10:48",
+    "ultima": "2026-11-08 21:40",
     "ultimas": [
+     {
+      "data": "2026-11-08",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: Partidos apostam forte na habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     },
      {
       "data": "2026-11-07",
       "fonte": "Jornal de Negócios",
@@ -1579,15 +1591,15 @@
       "fonte": "Correio da Manhã",
       "titulo": "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
       "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
-     },
-     {
-      "data": "2026-11-06",
-      "fonte": "ECO",
-      "titulo": "Partidos apresentam mais de 2.800 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "url": "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
      }
     ],
     "todas": [
+     [
+      "2026-11-08 21:40",
+      "Jornal de Negócios",
+      "OE 2027: Partidos apostam forte na habitação",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     ],
      [
       "2026-11-07 10:48",
       "Jornal de Negócios",
@@ -3074,14 +3086,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 241,
-    "n7": 20,
-    "n7ant": 27,
+    "n": 242,
+    "n7": 21,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-07 10:48",
+    "ultima": "2026-11-08 21:40",
     "ultimas": [
+     {
+      "data": "2026-11-08",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: Partidos apostam forte na habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     },
      {
       "data": "2026-11-07",
       "fonte": "Jornal de Negócios",
@@ -3093,15 +3111,15 @@
       "fonte": "Correio da Manhã",
       "titulo": "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
       "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
-     },
-     {
-      "data": "2026-11-06",
-      "fonte": "ECO",
-      "titulo": "Partidos apresentam mais de 2.800 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "url": "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
      }
     ],
     "todas": [
+     [
+      "2026-11-08 21:40",
+      "Jornal de Negócios",
+      "OE 2027: Partidos apostam forte na habitação",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     ],
      [
       "2026-11-07 10:48",
       "Jornal de Negócios",
@@ -4588,14 +4606,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 241,
-    "n7": 20,
-    "n7ant": 27,
+    "n": 242,
+    "n7": 21,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-07 10:48",
+    "ultima": "2026-11-08 21:40",
     "ultimas": [
+     {
+      "data": "2026-11-08",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: Partidos apostam forte na habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     },
      {
       "data": "2026-11-07",
       "fonte": "Jornal de Negócios",
@@ -4607,15 +4631,15 @@
       "fonte": "Correio da Manhã",
       "titulo": "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
       "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
-     },
-     {
-      "data": "2026-11-06",
-      "fonte": "ECO",
-      "titulo": "Partidos apresentam mais de 2.800 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "url": "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
      }
     ],
     "todas": [
+     [
+      "2026-11-08 21:40",
+      "Jornal de Negócios",
+      "OE 2027: Partidos apostam forte na habitação",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     ],
      [
       "2026-11-07 10:48",
       "Jornal de Negócios",
@@ -6097,7 +6121,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6136,14 +6160,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 241,
-    "n7": 20,
-    "n7ant": 27,
+    "n": 242,
+    "n7": 21,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-07 10:48",
+    "ultima": "2026-11-08 21:40",
     "ultimas": [
+     {
+      "data": "2026-11-08",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: Partidos apostam forte na habitação",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     },
      {
       "data": "2026-11-07",
       "fonte": "Jornal de Negócios",
@@ -6155,15 +6185,15 @@
       "fonte": "Correio da Manhã",
       "titulo": "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
       "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
-     },
-     {
-      "data": "2026-11-06",
-      "fonte": "ECO",
-      "titulo": "Partidos apresentam mais de 2.800 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "url": "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
      }
     ],
     "todas": [
+     [
+      "2026-11-08 21:40",
+      "Jornal de Negócios",
+      "OE 2027: Partidos apostam forte na habitação",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
+     ],
      [
       "2026-11-07 10:48",
       "Jornal de Negócios",
@@ -7645,7 +7675,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7679,7 +7709,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -7763,7 +7793,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7800,8 +7830,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-08T21:53+00:00",
-  "atualizadoLabel": "8 de novembro, 21h53",
+  "atualizado": "2026-11-09T10:18+00:00",
+  "atualizadoLabel": "9 de novembro, 10h18",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8072,7 +8102,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares e análises políticas, com foco em temas como competitividade económica, investimento em infraestruturas e políticas sociais. As notícias destacam posições de diferentes partidos, como a crítica do PS à falta de financiamento para projetos específicos (Hospital de Gaia) e a avaliação de sindicatos sobre o investimento na educação. A cobertura também aborda potenciais falhas na informação orçamental, como a ausência de detalhes sobre políticas de habitação. Apesar de algumas críticas, há também anúncios positivos, como o aumento de transferências para a Madeira e a apresentação de propostas de alteração por partidos. O debate evoluiu para incluir discussões sobre a autonomia dos ministérios na gestão de cativações e a apresentação de mais de 2.800 propostas de alteração por diversos partidos."
   },
   "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8254,7 +8284,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares, críticas e propostas de alteração. Os media noticiaram a discussão de artigos remetidos a Plenário e normas avocadas, bem como a apresentação de propostas de alteração por partidos como o PS, Chega e PCP. O debate tem-se focado em temas como competitividade, investimento, habitação, financiamento de infraestruturas e alterações fiscais. A cobertura inclui também análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas específicas, como a habitação e a educação."
   },
   "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8436,7 +8466,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre competitividade, investimento, habitação e outras medidas. O debate parlamentar inclui críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia, e elogios à ambição das contas. Vários partidos apresentaram propostas de alteração, destacando medidas como o IVA Zero no cabaz alimentar e a redução do imposto sobre combustíveis. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas habitacionais."
   },
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8618,7 +8648,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares, críticas e propostas de alteração de vários partidos políticos. As notícias destacam discussões sobre competitividade, investimento, habitação e financiamento de infraestruturas como o Hospital de Gaia, enquanto alguns partidos expressam preocupações sobre a falta de informação em áreas como habitação e educação. O Governo, através de figuras como Luís Montenegro, defende que o OE2027 é favorável aos portugueses, e partidos como o Chega e o PS apresentam propostas específicas para alterar a proposta de lei. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a avaliação de políticas públicas."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8800,7 +8830,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares e análises políticas, com destaque para temas como competitividade económica, investimento na habitação e alterações fiscais. As notícias revelam críticas de partidos como o PS e o Chega, que apontam falhas na informação sobre habitação e combustíveis, e elogiam o equilíbrio das contas por parte de empresários. O documento apresenta propostas de alteração de mais de 2.800 partidos, com o Chega a liderar em número de propostas. A cobertura evolui com discussões sobre a autonomia dos ministérios na gestão de cativações e a falta de financiamento para projetos de saúde e educação."
   },
   "2026-11-09-48665-audi-o-com-a-vice-presidente-executiva-da-c": {
@@ -9008,11 +9038,11 @@
    ],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 4,
+    "n": 3,
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
     "ultima": "2026-10-14 09:53",
     "ultimas": [
@@ -9053,12 +9083,6 @@
       "RTP Notícias",
       "Bruxelas não pode ceder nas regras para gigantes tecnológicos e IA",
       "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311"
-     ],
-     [
-      "2026-09-09 15:52",
-      "Politico Europe",
-      "En Europe, les datacenters devraient construire leurs installations d’énergie propre, selon Teresa Ribera",
-      "https://www.politico.eu/article/en-europe-les-datacenters-devraient-construire-leur-propre-installation-denergie-propre-selon-teresa-ribera/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
      ]
     ]
    },
@@ -9106,7 +9130,7 @@
    "data": "2026-11-10",
    "hora": "08h30",
    "interveniente": "",
-   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27",
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27 · Sala Senado",
    "resumo": "O grupo de trabalho analisa propostas legislativas da União Europeia para garantir a conformidade com os interesses nacionais. Discute-se a adequação e o impacto das medidas propostas no contexto português.",
    "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
    "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
@@ -9129,7 +9153,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -9155,7 +9179,7 @@
    "data": "2026-11-10",
    "hora": "09h00",
    "interveniente": "",
-   "tipoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta)",
+   "tipoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta) · Sala Senado",
    "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia sobre a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e o regulamento sobre o Passaporte Europeu de Segurança Social.",
    "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos\n [conjunta com a Comissão de Assuntos Europeus]",
    "orgao": "Comissão de Assuntos Europeus",
@@ -9187,9 +9211,9 @@
    "cobertura": {
     "n": 9,
     "n7": 0,
-    "n7ant": 1,
+    "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
     "ultima": "2026-10-26 07:15",
     "ultimas": [
@@ -9335,7 +9359,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -9370,7 +9394,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -9405,7 +9429,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -9462,34 +9486,46 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 104,
-    "n7": 21,
-    "n7ant": 8,
+    "n": 103,
+    "n7": 23,
+    "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
-    "ultima": "2026-11-08 13:29",
+    "ultima": "2026-11-08 23:18",
     "ultimas": [
+     {
+      "data": "2026-11-08",
+      "fonte": "Observador",
+      "titulo": "Nvidia investiga CEO por relação com suspeita de espionagem",
+      "url": "https://observador.pt/2026/11/08/nvidia-abre-investigacao-ao-ceo-jensen-huang-por-relacao-com-executiva-suspeita-de-passar-dados-a-china/"
+     },
+     {
+      "data": "2026-11-08",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Jensen Huang foi mesmo alvo de espionagem? “Board” da Nvidia investiga",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/jensen-huang-foi-mesmo-alvo-de-espionagem-board-da-nvidia-investiga"
+     },
      {
       "data": "2026-11-08",
       "fonte": "Açoriano Oriental",
       "titulo": "Play Racing quer renovar o título de Pedro Câmara em 2027",
       "url": "https://www.acorianooriental.pt/noticia/play-racing-quer-renovar-o-titulo-de-pedro-camara-em-2027-381872"
-     },
-     {
-      "data": "2026-11-07",
-      "fonte": "Observador",
-      "titulo": "3h. Agência Lusa está sem diretor de informação",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2489/"
-     },
-     {
-      "data": "2026-11-06",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Nicolau Santos e Hugo Figueiredo reconduzidos para novo mandato na administração da RTP",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/nicolau-santos-e-hugo-figueiredo-reconduzidos-para-novo-mandato-na-administracao-da-rtp"
      }
     ],
     "todas": [
+     [
+      "2026-11-08 23:18",
+      "Observador",
+      "Nvidia investiga CEO por relação com suspeita de espionagem",
+      "https://observador.pt/2026/11/08/nvidia-abre-investigacao-ao-ceo-jensen-huang-por-relacao-com-executiva-suspeita-de-passar-dados-a-china/"
+     ],
+     [
+      "2026-11-08 21:18",
+      "Jornal de Negócios",
+      "Jensen Huang foi mesmo alvo de espionagem? “Board” da Nvidia investiga",
+      "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/jensen-huang-foi-mesmo-alvo-de-espionagem-board-da-nvidia-investiga"
+     ],
      [
       "2026-11-08 13:29",
       "Açoriano Oriental",
@@ -10095,24 +10131,6 @@
       "Observador",
       "7h.Hospital Amadora-Sintra. 40% dos utentes são estrangeiros",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2505/"
-     ],
-     [
-      "2026-09-09 17:36",
-      "ECO",
-      "Ana Casaca, diretora de inovação da Galp, nomeada presidente da AICEP",
-      "https://eco.sapo.pt/2026/09/09/ana-casaca-nomeada-presidente-da-aicep/"
-     ],
-     [
-      "2026-09-09 14:18",
-      "RTP Notícias",
-      "Benfica volta a criticar processo de centralização dos direitos televisivos",
-      "https://www.rtp.pt/noticias/benfica/benfica-volta-a-criticar-processo-de-centralizacao-dos-direitos-televisivos_d1764383"
-     ],
-     [
-      "2026-09-09 10:14",
-      "Açoriano Oriental",
-      "Um sinal de esperança para o futuro da Azores Airlines",
-      "http://www.acorianooriental.pt/noticia/um-sinal-de-esperanca-para-o-futuro-da-azores-airlines-380225"
      ]
     ]
    }
@@ -10166,11 +10184,11 @@
     "Pegada Legislativa"
    ],
    "cobertura": {
-    "n": 134,
+    "n": 132,
     "n7": 0,
-    "n7ant": 15,
+    "n7ant": 10,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "expressoes",
     "ultima": "2026-10-27 19:08",
     "ultimas": [
@@ -10985,18 +11003,6 @@
       "ECO",
       "Chega insiste na comissão de inquérito a Luís Neves em colisão com Aguiar-Branco",
       "https://eco.sapo.pt/2026/09/10/chega-insiste-na-comissao-de-inquerito-a-luis-neves-em-colisao-com-aguiar-branco/"
-     ],
-     [
-      "2026-09-09 17:33",
-      "RTP Notícias",
-      "Chega pede audição parlamentar urgente do diretor nacional da PJ",
-      "https://www.rtp.pt/noticias/politica/chega-pede-audicao-parlamentar-urgente-do-diretor-nacional-da-pj_n1764444"
-     ],
-     [
-      "2026-09-09 17:22",
-      "Observador",
-      "17h. Chega vai chamar diretor da Polícia Judiciária ao Parlamento para discutir caso Luís Neves",
-      "https://observador.pt/programas/noticiario/as-noticias-das-17h-2280/"
      ]
     ]
    },
@@ -11030,7 +11036,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11065,7 +11071,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11100,7 +11106,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11161,7 +11167,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11196,7 +11202,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11257,7 +11263,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11292,7 +11298,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11353,7 +11359,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-08",
+    "ref": "2026-11-09",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [

@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-08T21:53",
+ "recolha": "2026-11-09T10:18",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -104,7 +104,7 @@
    "tipo": [
     "Grupo de Trabalho"
    ],
-   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27",
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27 · Sala Senado",
    "resumo": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
    "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
    "ligacao": ""
@@ -119,7 +119,7 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 64",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 64 · Sala Senado",
    "resumo": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europe",
    "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
