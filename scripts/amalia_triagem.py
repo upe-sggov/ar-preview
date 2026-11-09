@@ -44,6 +44,10 @@ def titulo(x, quem, assunto):
         return f'{m.group(1).strip()}: {assunto}'
     return assunto
 
+def parte_i(ot):
+    """Reuniões com «Parte I» (a audição) e «Parte II» (outros assuntos da comissão): o assunto é o da Parte I."""
+    return re.split(r'\n\s*Parte II\b', ot)[0] if re.match(r'\s*Parte I\b', ot) else ot
+
 def pendente(x):
     if x.get('retirado') or x.get('amalia'): return False
     # já não se usam unidades (decisão de 2/11/2026): o Amália só trabalha o assunto e as expressões das matérias com ficha
@@ -63,7 +67,7 @@ for x in dados['destaques'] + dados['agenda']:
 Data e hora: {x['data']} {x.get('hora','')}
 Tipo: {x.get('tipoLabel','')}
 Interveniente: {x.get('interveniente','')}
-Ordem de trabalhos: {(x.get('ordemTrabalhos') or x.get('resumo',''))[:3500]}
+Ordem de trabalhos: {parte_i(x.get('ordemTrabalhos') or x.get('resumo',''))[:3500]}
 
 Devolve: {{"assunto": "título curto com o ASSUNTO principal (não o nome da comissão)", "resumo": "duas frases", "uo": [...], "justificacao": "uma frase: que competência da unidade se aplica", "expressoes": ["3 a 5 expressões curtas como a imprensa as escreve: siglas, nomes próprios de entidades e pessoas, nome do diploma; nada genérico como 'governo' ou 'parlamento'"]}}""", 450))
     if not r: continue

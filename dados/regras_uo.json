@@ -299,11 +299,13 @@
   ],
   "fundo_mediatico_fixo": [
    {
-    "_nota": "Reuniões cuja ordem de trabalhos não diz o assunto (ex.: «Informações; Propostas de deliberação; Outros assuntos»). Sem isto não há notícias. Decisão de 9/11/2026: o Grupo de Trabalho de Escrutínio acompanha as iniciativas da Comissão Europeia, e a principal em discussão é o orçamento da UE para 2028-2034. Rever quando mudar a agenda europeia.",
+    "_nota": "Reuniões cuja ordem de trabalhos não diz o assunto (ex.: «Informações; Propostas de deliberação; Outros assuntos»). Sem isto não há notícias. Decisão de 9/11/2026: o Grupo de Trabalho de Escrutínio acompanha as iniciativas da Comissão Europeia, e a principal em discussão é o orçamento da UE para 2028-2034. Rever quando mudar a agenda europeia. Acrescentadas a 9/11/2026 as duas iniciativas em escrutínio nesta semana (COM(2026) 980, Passaporte Europeu de Segurança Social; COM(2026) 990, reconhecimento de qualificações de nacionais de países terceiros), que quase não têm cobertura.",
     "comissoes": [
      "Grupo de Trabalho de Escrutínio de Iniciativas Europeias"
     ],
     "expressoes": [
+     "Passaporte Europeu de Segurança Social",
+     "reconhecimento de qualificações",
      "Quadro Financeiro Plurianual",
      "QFP",
      "orçamento da UE",
