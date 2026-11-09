@@ -136,9 +136,9 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <div style="font:400 13px Arial,sans-serif;color:#5b6068;line-height:1.55;padding-bottom:12px">
       Calendário, cartões e fichas de fundo mediático estão na página do AR Preview, atualizada diariamente{f'; a versão em PDF está <a href="{e(url)}ar-preview.pdf" style="color:#2B5683;text-decoration:underline">aqui</a>' if url else ''}.</div>
     {botoes}
-    <div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5"><b>Subscrever no Outlook</b> acrescenta, uma só vez, o calendário «AR Preview» com as matérias Imediato e Vigilância, que passa a atualizar-se sozinho{f' (se o botão não abrir o Outlook: Calendário › Adicionar calendário › Da Internet › {e(url)}cal/ar-preview.ics)' if url else ''}.
-      <b>Adicionar ao Outlook</b> abre a reunião já preenchida no Outlook na web, para guardar; o <b>.ics</b> faz o mesmo no Outlook do computador. Hora de fim indicativa.
-      As emissões em direto, quando as há, estão no Canal Parlamento. A agenda da Assembleia da República pode mudar depois desta edição.</div>
+    <div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5"><b>Subscrever no Outlook</b> junta ao seu calendário as matérias Imediato e Vigilância e mantém-nas atualizadas.
+      <b>adicionar ao Outlook</b>, em cada matéria, guarda só essa reunião.
+      A agenda da Assembleia da República pode mudar depois desta edição.</div>
   </td></tr>
 
   <tr><td style="padding:18px 24px;background:#171715">
