@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48680@ar-preview
+DTSTAMP:20261109T123730Z
+DTSTART:20261110T150000Z
+DTEND:20261110T170000Z
+SUMMARY:AR · Comissão de Transparência e Estatuto dos Deputados
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Transparência e Estatuto dos Deputados · Reuni
+ ão n.º 58\nSíntese: Apreciação e votação do relatório sobre o Pro
+ jeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização d
+ as obrigações declarativas…\nPágina na AR: https://www.parlamento.pt
+ /sites/com/XVIILeg/15CTED/Paginas/default.aspx\nEmissões em direto (quan
+ do houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.g
+ ithub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.asp
+ x
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

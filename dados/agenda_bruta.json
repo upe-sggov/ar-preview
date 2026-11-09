@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-09T12:15",
+ "recolha": "2026-11-09T12:36",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -150,9 +150,39 @@
     "Conselho de Administração"
    ],
    "tipoLabel": "Conselho de Administração · Reunião n.º 30 · Sala 7",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "1 - Informações                           \n 2 - Apreciação das Atas: 28/XVII/2ª Sessão (13 outubro) e 29/XVII/2ª Sessão (27 outubro)\n  3 - Informação 97/DGF/2026 - 8.ª Alteração orçamental ao OAR2026\n 4 - Informação 383/DC/2026 - Aquisição de serviços de monitorização e controlo de pragas infestante",
+   "ordemTrabalhos": "1 - Informações                           \n 2 - Apreciação das Atas: 28/XVII/2ª Sessão (13 outubro) e 29/XVII/2ª Sessão (27 outubro)\n  3 - Informação 97/DGF/2026 - 8.ª Alteração orçamental ao OAR2026\n 4 - Informação 383/DC/2026 - Aquisição de serviços de monitorização e controlo de pragas infestantes nos edifícios da Assembleia da República\n 5 - Informação 369/DC/2026 - Aquisição de serviços de agenciamento de viagens e alojamentos\n 6 - Informação 375/DC/2026 - Aquisição de serviços de implementação de plataforma de gestão de todo o ciclo de vida dos contratos Públicos para a Assembleia da República\n 7 - Informação 379/DC/2026 - Aquisição de Bens e Serviços para “Requalificação da sala de comunicações existente no Palácio de São Bento”\n 8 - Informação 370/DC/2026 - Aquisição de serviços de assistência técnica e manutenção para o Sistema de Gestão Documental\n 9 - Informação 65/DGPL/2026 - Lugares de estacionamento privativo para a Assembleia da República - Av. D. Carlos I\n 10 - Informação – Reforço - PAD - Água 2026\n 11 - Informação 388/DC/2026 - Aquisição de manutenção e suporte ao hardware da marca DELL\n 12 - Informação 386/DC/2026 - Aquisição de equipamentos periféricos e acessórios informáticos\n 13 - Informação 361/DC/2026 - Aquisição de subscrição para software de suporte remoto\n 14 - Informação 387/DC/2026 - Aquisição de serviços de limpeza, desentupimento e tratamento de resíduos dos separadores de gorduras\n 15 - Informação 385/DC/2026 - Aquisição de Serviços de Manutenção das coberturas, telhados e janelas de telhado dos edifícios da Assembleia da República\n 16 - Informação 393/DC/2026 - Fornecimento de Switches para bastidores de comunicações e respetivos serviços conexos\n 17 - Informação 392/DC/2026 - Aquisição de Unidades de Alimentação Ininterrupta (UPS) para os bastidores de comunicações\n 18 - Informação 390/DC/2026 - Aquisição e implementação de uma solução destinada à gravação, transcrição, proteção, preservação e consulta de procedimentos administrativos\n 19 - Informação 389/DC/2026 - Aquisição solução de fornecimento de nova infraestrutura de energia e UPS para a Sala Técnica\n 20 - Informação 378/DC/2026 - Fornecimento e respetiva aquisição de serviços de impressão e acabamento de livros da Coleção Parlamento para a Assembleia da República\n 21 - Informação 377/DC/2026 - Aquisição de equipamentos informáticos para processamento gráfico\n 22 - Informação 94/DGF/2026 - Transferência de verbas de despesa corrente para despesa de capital - CADA\n 23 - Informação 011/GCA/2026 - Monitorização dos encargos com contratos para aquisição de serviços - Relatório sobre a evolução dos encargos autorizados no 3.º trimestre de 2026\n 24 - Despacho PAR 340/XVII - Distribuição de espaços na Assembleia da República\n 25 - Informação 69/DGPL/2026 - Proposta de abate de bens\n 26 - Aprovação da Ata em minuta para imediata produção de efeitos das deliberações",
    "ligacao": ""
+  },
+  {
+   "id_ar": 48681,
+   "data": "2026-11-10",
+   "hora": "14h30",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48680,
+   "data": "2026-11-10",
+   "hora": "15h00",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 58",
+   "resumo": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos público",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho -  Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 6 – Deliberação sobre as eventuais diligências relativamente à aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada)\n 7 – Apreciação e votação de requerimento (matéria reservada);\n 8 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
   },
   {
    "id_ar": 48670,

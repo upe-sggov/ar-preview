@@ -7868,10 +7868,16 @@
     "novos": 0,
     "alterados": 11,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-09",
+    "novos": 2,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-09T12:15+00:00",
-  "atualizadoLabel": "9 de novembro, 12h15",
+  "atualizado": "2026-11-09T12:36+00:00",
+  "atualizadoLabel": "9 de novembro, 12h36",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -10752,8 +10758,8 @@
    "hora": "11h00",
    "interveniente": "",
    "tipoLabel": "Conselho de Administração · Reunião n.º 30 · Sala 7",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "1 - Informações                           \n 2 - Apreciação das Atas: 28/XVII/2ª Sessão (13 outubro) e 29/XVII/2ª Sessão (27 outubro)\n  3 - Informação 97/DGF/2026 - 8.ª Alteração orçamental ao OAR2026\n 4 - Informação 383/DC/2026 - Aquisição de serviços de monitorização e controlo de pragas infestante",
+   "ordemTrabalhos": "1 - Informações                           \n 2 - Apreciação das Atas: 28/XVII/2ª Sessão (13 outubro) e 29/XVII/2ª Sessão (27 outubro)\n  3 - Informação 97/DGF/2026 - 8.ª Alteração orçamental ao OAR2026\n 4 - Informação 383/DC/2026 - Aquisição de serviços de monitorização e controlo de pragas infestantes nos edifícios da Assembleia da República\n 5 - Informação 369/DC/2026 - Aquisição de serviços de agenciamento de viagens e alojamentos\n 6 - Informação 375/DC/2026 - Aquisição de serviços de implementação de plataforma de gestão de todo o ciclo de vida dos contratos Públicos para a Assembleia da República\n 7 - Informação 379/DC/2026 - Aquisição de Bens e Serviços para “Requalificação da sala de comunicações existente no Palácio de São Bento”\n 8 - Informação 370/DC/2026 - Aquisição de serviços de assistência técnica e manutenção para o Sistema de Gestão Documental\n 9 - Informação 65/DGPL/2026 - Lugares de estacionamento privativo para a Assembleia da República - Av. D. Carlos I\n 10 - Informação – Reforço - PAD - Água 2026\n 11 - Informação 388/DC/2026 - Aquisição de manutenção e suporte ao hardware da marca DELL\n 12 - Informação 386/DC/2026 - Aquisição de equipamentos periféricos e acessórios informáticos\n 13 - Informação 361/DC/2026 - Aquisição de subscrição para software de suporte remoto\n 14 - Informação 387/DC/2026 - Aquisição de serviços de limpeza, desentupimento e tratamento de resíduos dos separadores de gorduras\n 15 - Informação 385/DC/2026 - Aquisição de Serviços de Manutenção das coberturas, telhados e janelas de telhado dos edifícios da Assembleia da República\n 16 - Informação 393/DC/2026 - Fornecimento de Switches para bastidores de comunicações e respetivos serviços conexos\n 17 - Informação 392/DC/2026 - Aquisição de Unidades de Alimentação Ininterrupta (UPS) para os bastidores de comunicações\n 18 - Informação 390/DC/2026 - Aquisição e implementação de uma solução destinada à gravação, transcrição, proteção, preservação e consulta de procedimentos administrativos\n 19 - Informação 389/DC/2026 - Aquisição solução de fornecimento de nova infraestrutura de energia e UPS para a Sala Técnica\n 20 - Informação 378/DC/2026 - Fornecimento e respetiva aquisição de serviços de impressão e acabamento de livros da Coleção Parlamento para a Assembleia da República\n 21 - Informação 377/DC/2026 - Aquisição de equipamentos informáticos para processamento gráfico\n 22 - Informação 94/DGF/2026 - Transferência de verbas de despesa corrente para despesa de capital - CADA\n 23 - Informação 011/GCA/2026 - Monitorização dos encargos com contratos para aquisição de serviços - Relatório sobre a evolução dos encargos autorizados no 3.º trimestre de 2026\n 24 - Despacho PAR 340/XVII - Distribuição de espaços na Assembleia da República\n 25 - Informação 69/DGPL/2026 - Proposta de abate de bens\n 26 - Aprovação da Ata em minuta para imediata produção de efeitos das deliberações",
    "orgao": "Conselho de Administração",
    "id_ar": 48671,
    "chave": "ar-48671",
@@ -11429,6 +11435,47 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2505/"
      ]
     ]
+   },
+   "alterado": "2026-11-09"
+  },
+  {
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "data": "2026-11-10",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 9",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "id_ar": 48681,
+   "chave": "ar-48681",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-09",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
    }
   },
   {
@@ -11492,6 +11539,132 @@
     ]
    },
    "alterado": "2026-11-09"
+  },
+  {
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "data": "2026-11-10",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 58",
+   "resumo": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos público",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho -  Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 6 – Deliberação sobre as eventuais diligências relativamente à aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada)\n 7 – Apreciação e votação de requerimento (matéria reservada);\n 8 – Outros assuntos.",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "id_ar": 48680,
+   "chave": "ar-48680",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-09",
+   "cobertura": {
+    "n": 11,
+    "n7": 1,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "2026-11-06 13:09",
+    "ultimas": [
+     {
+      "data": "2026-11-06",
+      "fonte": "Observador",
+      "titulo": "Spinumviva. Montenegro perde recursos no TC",
+      "url": "https://observador.pt/2026/11/06/spinumviva-montenegro-perde-recursos-no-tribunal-constitucional/"
+     },
+     {
+      "data": "2026-10-16",
+      "fonte": "TSF",
+      "titulo": "Movimento pela habitação \"não subscreve vídeos que possam pôr em causa a integridade física dos titulares de cargos políticos\"",
+      "url": "https://www.tsf.pt/amp/18137970/movimento-pela-habitacao-nao-subscreve-videos-que-possam-por-em-causa-a-integridade-fisica-dos-titulares-de-cargos-politicos"
+     },
+     {
+      "data": "2026-09-28",
+      "fonte": "CNN Portugal",
+      "titulo": "Lacerda Sales terá de \"ser acusado nos termos da lei que criminaliza titulares de cargos políticos\"",
+      "url": "https://cnnportugal.iol.pt/videos/lacerda-sales-tera-de-ser-acusado-nos-termos-da-lei-que-criminaliza-titulares-de-cargos-politicos/6aba486b0cf299bc2953d810"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-06 13:09",
+      "Observador",
+      "Spinumviva. Montenegro perde recursos no TC",
+      "https://observador.pt/2026/11/06/spinumviva-montenegro-perde-recursos-no-tribunal-constitucional/"
+     ],
+     [
+      "2026-10-16 21:06",
+      "TSF",
+      "Movimento pela habitação \"não subscreve vídeos que possam pôr em causa a integridade física dos titulares de cargos políticos\"",
+      "https://www.tsf.pt/amp/18137970/movimento-pela-habitacao-nao-subscreve-videos-que-possam-por-em-causa-a-integridade-fisica-dos-titulares-de-cargos-politicos"
+     ],
+     [
+      "2026-09-28 12:32",
+      "CNN Portugal",
+      "Lacerda Sales terá de \"ser acusado nos termos da lei que criminaliza titulares de cargos políticos\"",
+      "https://cnnportugal.iol.pt/videos/lacerda-sales-tera-de-ser-acusado-nos-termos-da-lei-que-criminaliza-titulares-de-cargos-politicos/6aba486b0cf299bc2953d810"
+     ],
+     [
+      "2026-09-17 09:00",
+      "Visão",
+      "Melhores do que nós, por favor. Opinião de Pedro Marques Lopes",
+      "https://visao.pt/opiniao/politicamente-correto/2026-09-17-melhores-do-que-nos-por-favor-opiniao-de-pedro-marques-lopes/?utm_source=rss&utm_medium=rss&utm_campaign=melhores-do-que-nos-por-favor-opiniao-de-pedro-marques-lopes"
+     ],
+     [
+      "2026-09-16 11:51",
+      "Observador",
+      "BE quer mais meios para garantir declarações de património",
+      "https://observador.pt/2026/09/16/be-quer-mais-meios-e-sancoes-para-garantir-declaracoes-de-patrimonio-de-politicos/"
+     ],
+     [
+      "2026-09-15 21:35",
+      "RTP Notícias",
+      "Transparência não sabe quantos políticos estão obrigados a declarar rendimentos",
+      "https://www.rtp.pt/noticias/politica/transparencia-nao-sabe-quantos-politicos-estao-obrigados-a-declarar-rendimentos_v1765653"
+     ],
+     [
+      "2026-09-15 17:08",
+      "Observador",
+      "Transparência não sabe universo de declarações obrigatórias",
+      "https://observador.pt/2026/09/15/entidade-para-a-transparencia-nao-sabe-quantos-politicos-e-titulares-de-cargos-publicos-tem-de-declarar-rendimentos/"
+     ],
+     [
+      "2026-09-15 11:21",
+      "RTP Notícias",
+      "EpT desconhece quantos políticos e titulares de cargos públicos têm de declarar rendimentos",
+      "https://www.rtp.pt/noticias/politica/ept-desconhece-quantos-politicos-e-titulares-de-cargos-publicos-tem-de-declarar-rendimentos_n1765519"
+     ],
+     [
+      "2026-09-15 11:12",
+      "Jornal Económico",
+      "Transparência não verificou todas as declarações de interesses e rendimentos do atual Governo",
+      "https://jornaleconomico.sapo.pt/noticias/transparencia-nao-verificou-todas-as-declaracoes-de-interesses-e-rendimentos-do-atual-governo/"
+     ],
+     [
+      "2026-09-15 06:59",
+      "ECO",
+      "Tribunal Constitucional falha “lista negra” de políticos e altos cargos públicos",
+      "https://eco.sapo.pt/2026/09/15/tribunal-constitucional-falha-lista-negra-de-politicos-e-altos-cargos-publicos/"
+     ],
+     [
+      "2026-09-10 23:30",
+      "La Vanguardia",
+      "Eufemismos políticos",
+      "https://www.lavanguardia.com/opinion/20260911/11632074/eufemismos-politicos.html"
+     ]
+    ]
+   }
   },
   {
    "tema": "Intervenção de Luís Neves na Polícia Judiciária",
