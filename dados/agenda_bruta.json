@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-09T12:55",
+ "recolha": "2026-11-09T17:23",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -155,21 +155,6 @@
    "ligacao": ""
   },
   {
-   "id_ar": 48681,
-   "data": "2026-11-10",
-   "hora": "14h30",
-   "tema": "Comissão de Transparência e Estatuto dos Deputados",
-   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9",
-   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
-   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
-  },
-  {
    "id_ar": 48680,
    "data": "2026-11-10",
    "hora": "15h00",
@@ -179,7 +164,7 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 58",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 58 · Sala 5",
    "resumo": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos público",
    "ordemTrabalhos": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho -  Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 6 – Deliberação sobre as eventuais diligências relativamente à aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada)\n 7 – Apreciação e votação de requerimento (matéria reservada);\n 8 – Outros assuntos.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
@@ -194,9 +179,24 @@
    "tipo": [
     "Comissões Parlamentares"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 3",
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 3 · Sala 1",
    "resumo": "1. Discussão e votação do projeto de regulamento da Comissão e das propostas de alteração apresentadas.\n 2. Discussão e votação dos requerimentos de pedido de documentação.\n 3. Análise dos procedimentos de acesso à documentação classificada.\n 4. Outros assuntos.",
    "ordemTrabalhos": "1. Discussão e votação do projeto de regulamento da Comissão e das propostas de alteração apresentadas.\n 2. Discussão e votação dos requerimentos de pedido de documentação.\n 3. Análise dos procedimentos de acesso à documentação classificada.\n 4. Outros assuntos.",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48682,
+   "data": "2026-11-10",
+   "hora": "10h00",
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR)\n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais ",
+   "ordemTrabalhos": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR)\n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais da Informação e Documentação",
    "ligacao": ""
   },
   {
@@ -334,6 +334,21 @@
    "tipoLabel": "Plenário · Reunião n.º 17 · Plenário",
    "resumo": "ORDEM DO DIA \n 10H00 \n Debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n",
    "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n Debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48683,
+   "data": "2026-11-18",
+   "hora": "14h30",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h30 - Comissão de Utentes do Litoral Alentejano",
+   "ordemTrabalhos": "14h30 - Comissão de Utentes do Litoral Alentejano",
    "ligacao": ""
   },
   {

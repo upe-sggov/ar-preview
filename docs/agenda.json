@@ -46,14 +46,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 243,
-    "n7": 22,
+    "n": 244,
+    "n7": 23,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-09 09:28",
+    "ultima": "2026-11-09 14:00",
     "ultimas": [
+     {
+      "data": "2026-11-09",
+      "fonte": "ECO",
+      "titulo": "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "url": "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     },
      {
       "data": "2026-11-09",
       "fonte": "Jornal de Negócios",
@@ -65,17 +71,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Partidos apostam forte na habitação",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
-     },
-     {
-      "data": "2026-11-07",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
      }
     ],
     "todas": [
      [
-      "2026-11-09 09:28",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:29",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -1541,6 +1547,40 @@
    ]
   },
   {
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "data": "2026-11-18",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h30 - Comissão de Utentes do Litoral Alentejano",
+   "ordemTrabalhos": "14h30 - Comissão de Utentes do Litoral Alentejano",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "id_ar": 48683,
+   "chave": "ar-48683",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "data": "2026-11-19",
    "hora": "10h00",
@@ -1572,14 +1612,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 243,
-    "n7": 22,
+    "n": 244,
+    "n7": 23,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-09 09:28",
+    "ultima": "2026-11-09 14:00",
     "ultimas": [
+     {
+      "data": "2026-11-09",
+      "fonte": "ECO",
+      "titulo": "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "url": "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     },
      {
       "data": "2026-11-09",
       "fonte": "Jornal de Negócios",
@@ -1591,17 +1637,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Partidos apostam forte na habitação",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
-     },
-     {
-      "data": "2026-11-07",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
      }
     ],
     "todas": [
      [
-      "2026-11-09 09:28",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:29",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -3098,14 +3144,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 243,
-    "n7": 22,
+    "n": 244,
+    "n7": 23,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-09 09:28",
+    "ultima": "2026-11-09 14:00",
     "ultimas": [
+     {
+      "data": "2026-11-09",
+      "fonte": "ECO",
+      "titulo": "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "url": "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     },
      {
       "data": "2026-11-09",
       "fonte": "Jornal de Negócios",
@@ -3117,17 +3169,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Partidos apostam forte na habitação",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
-     },
-     {
-      "data": "2026-11-07",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
      }
     ],
     "todas": [
      [
-      "2026-11-09 09:28",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:29",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -4624,14 +4676,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 243,
-    "n7": 22,
+    "n": 244,
+    "n7": 23,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-09 09:28",
+    "ultima": "2026-11-09 14:00",
     "ultimas": [
+     {
+      "data": "2026-11-09",
+      "fonte": "ECO",
+      "titulo": "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "url": "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     },
      {
       "data": "2026-11-09",
       "fonte": "Jornal de Negócios",
@@ -4643,17 +4701,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Partidos apostam forte na habitação",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
-     },
-     {
-      "data": "2026-11-07",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
      }
     ],
     "todas": [
      [
-      "2026-11-09 09:28",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:29",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -6184,14 +6242,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 243,
-    "n7": 22,
+    "n": 244,
+    "n7": 23,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "expressoes",
-    "ultima": "2026-11-09 09:28",
+    "ultima": "2026-11-09 14:00",
     "ultimas": [
+     {
+      "data": "2026-11-09",
+      "fonte": "ECO",
+      "titulo": "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "url": "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     },
      {
       "data": "2026-11-09",
       "fonte": "Jornal de Negócios",
@@ -6203,17 +6267,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Partidos apostam forte na habitação",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
-     },
-     {
-      "data": "2026-11-07",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
      }
     ],
     "todas": [
      [
-      "2026-11-09 09:28",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:29",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -7874,10 +7938,16 @@
     "novos": 2,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-09",
+    "novos": 1,
+    "alterados": 0,
+    "retirados": 1
    }
   ],
-  "atualizado": "2026-11-09T12:55+00:00",
-  "atualizadoLabel": "9 de novembro, 12h55",
+  "atualizado": "2026-11-09T17:23+00:00",
+  "atualizadoLabel": "9 de novembro, 17h23",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -7885,7 +7955,7 @@
  "fichas": {
   "2026-11-10-48670-interven-o-de-lu-s-neves-na-pol-cia-judici": {
    "titulo": "Intervenção de Luís Neves na Polícia Judiciária",
-   "meta": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram · Reunião n.º 3 · terça, 10 nov, 16h00",
+   "meta": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram · Reunião n.º 3 · Sala 1 · terça, 10 nov, 16h00",
    "nivel": "curta",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -8148,7 +8218,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares e análises políticas, com foco em temas como competitividade económica, investimento em infraestruturas e políticas sociais. As notícias destacam posições de diferentes partidos, como a crítica do PS à falta de financiamento para projetos específicos (Hospital de Gaia) e a avaliação de sindicatos sobre o investimento na educação. A cobertura também aborda potenciais falhas na informação orçamental, como a ausência de detalhes sobre políticas de habitação. Apesar de algumas críticas, há também anúncios positivos, como o aumento de transferências para a Madeira e a apresentação de propostas de alteração por partidos. O debate evoluiu para incluir discussões sobre a autonomia dos ministérios na gestão de cativações e a apresentação de mais de 2.800 propostas de alteração por diversos partidos."
   },
   "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8330,7 +8400,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares, críticas e propostas de alteração. Os media noticiaram a discussão de artigos remetidos a Plenário e normas avocadas, bem como a apresentação de propostas de alteração por partidos como o PS, Chega e PCP. O debate tem-se focado em temas como competitividade, investimento, habitação, financiamento de infraestruturas e alterações fiscais. A cobertura inclui também análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas específicas, como a habitação e a educação."
   },
   "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8512,7 +8582,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre competitividade, investimento, habitação e outras medidas. O debate parlamentar inclui críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia, e elogios à ambição das contas. Vários partidos apresentaram propostas de alteração, destacando medidas como o IVA Zero no cabaz alimentar e a redução do imposto sobre combustíveis. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas habitacionais."
   },
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8694,7 +8764,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares, críticas e propostas de alteração de vários partidos políticos. As notícias destacam discussões sobre competitividade, investimento, habitação e financiamento de infraestruturas como o Hospital de Gaia, enquanto alguns partidos expressam preocupações sobre a falta de informação em áreas como habitação e educação. O Governo, através de figuras como Luís Montenegro, defende que o OE2027 é favorável aos portugueses, e partidos como o Chega e o PS apresentam propostas específicas para alterar a proposta de lei. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a avaliação de políticas públicas."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8876,7 +8946,7 @@
     "ultima": "2026-11-07 10:48",
     "em": "2026-11-07"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares e análises políticas, com destaque para temas como competitividade económica, investimento na habitação e alterações fiscais. As notícias revelam críticas de partidos como o PS e o Chega, que apontam falhas na informação sobre habitação e combustíveis, e elogiam o equilíbrio das contas por parte de empresários. O documento apresenta propostas de alteração de mais de 2.800 partidos, com o Chega a liderar em número de propostas. A cobertura evolui com discussões sobre a autonomia dos ministérios na gestão de cativações e a falta de financiamento para projetos de saúde e educação."
   },
   "2026-11-09-48665-audi-o-com-a-vice-presidente-executiva-da-c": {
@@ -10717,6 +10787,41 @@
    "alterado": "2026-11-09"
   },
   {
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "data": "2026-11-10",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR)\n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais ",
+   "ordemTrabalhos": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR)\n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais da Informação e Documentação",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "id_ar": 48682,
+   "chave": "ar-48682",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-09",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Audiências do Grupo Parlamentar do PS",
    "data": "2026-11-10",
    "hora": "10h30",
@@ -10776,14 +10881,20 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 105,
-    "n7": 25,
+    "n": 106,
+    "n7": 26,
     "n7ant": 7,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "palavras",
-    "ultima": "2026-11-09 09:45",
+    "ultima": "2026-11-09 11:16",
     "ultimas": [
+     {
+      "data": "2026-11-09",
+      "fonte": "CNN Portugal",
+      "titulo": "Ex-diretor da urgência de Portimão \"enviou dezenas de e-mails ao Conselho de Administração a alertar para a rutura do serviço\"",
+      "url": "https://cnnportugal.iol.pt/videos/ex-diretor-da-urgencia-de-portimao-enviou-dezenas-de-e-mails-ao-conselho-de-administracao-a-alertar-para-a-rutura-do-servico/6af193a80cf2cb2507aa7e27"
+     },
      {
       "data": "2026-11-09",
       "fonte": "SAPO Tek",
@@ -10795,15 +10906,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "China rejeita acusações de ter feito espionagem ao CEO da Nvidia",
       "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/china-rejeita-acusacoes-de-espionagem-que-envolvem-o-ceo-da-nvidia"
-     },
-     {
-      "data": "2026-11-08",
-      "fonte": "Observador",
-      "titulo": "Nvidia investiga CEO por relação com suspeita de espionagem",
-      "url": "https://observador.pt/2026/11/08/nvidia-abre-investigacao-ao-ceo-jensen-huang-por-relacao-com-executiva-suspeita-de-passar-dados-a-china/"
      }
     ],
     "todas": [
+     [
+      "2026-11-09 11:16",
+      "CNN Portugal",
+      "Ex-diretor da urgência de Portimão \"enviou dezenas de e-mails ao Conselho de Administração a alertar para a rutura do serviço\"",
+      "https://cnnportugal.iol.pt/videos/ex-diretor-da-urgencia-de-portimao-enviou-dezenas-de-e-mails-ao-conselho-de-administracao-a-alertar-para-a-rutura-do-servico/6af193a80cf2cb2507aa7e27"
+     ],
      [
       "2026-11-09 09:45",
       "SAPO Tek",
@@ -10811,7 +10922,7 @@
       "https://tek.sapo.pt/noticias/negocios/artigos/nvidia-abre-investigacao-para-saber-se-jensen-huang-foi-alvo-de-espionagem-depois-de-o-ceo-admitir-infidelidade/"
      ],
      [
-      "2026-11-09 09:39",
+      "2026-11-09 09:40",
       "Jornal de Negócios",
       "China rejeita acusações de ter feito espionagem ao CEO da Nvidia",
       "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/china-rejeita-acusacoes-de-espionagem-que-envolvem-o-ceo-da-nvidia"
@@ -11439,46 +11550,6 @@
    "alterado": "2026-11-09"
   },
   {
-   "tema": "Comissão de Transparência e Estatuto dos Deputados",
-   "data": "2026-11-10",
-   "hora": "14h30",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 9",
-   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
-   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
-   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
-   "id_ar": 48681,
-   "chave": "ar-48681",
-   "dataLabel": "terça, 10 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
-    }
-   ],
-   "novo": "2026-11-09",
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-09",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
-  {
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-10",
    "hora": "14h30",
@@ -11543,9 +11614,50 @@
   {
    "tema": "Comissão de Transparência e Estatuto dos Deputados",
    "data": "2026-11-10",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 9",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "id_ar": 48681,
+   "chave": "ar-48681",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-09",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "retirado": "2026-11-09"
+  },
+  {
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "data": "2026-11-10",
    "hora": "15h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 58",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 58 · Sala 5",
    "resumo": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos público",
    "ordemTrabalhos": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho -  Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 6 – Deliberação sobre as eventuais diligências relativamente à aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada)\n 7 – Apreciação e votação de requerimento (matéria reservada);\n 8 – Outros assuntos.",
    "orgao": "Comissão de Transparência e Estatuto dos Deputados",
@@ -11671,7 +11783,7 @@
    "data": "2026-11-10",
    "hora": "16h00",
    "interveniente": "",
-   "tipoLabel": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram · Reunião n.º 3",
+   "tipoLabel": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram · Reunião n.º 3 · Sala 1",
    "resumo": "A comissão investiga a atuação de Luís Neves como diretor da Polícia Judiciária entre 2018 e 2026, procurando eventuais irregularidades e responsabilidades políticas. São analisadas nomeações e tutelas governamentais durante os seus mandatos.",
    "ordemTrabalhos": "1. Discussão e votação do projeto de regulamento da Comissão e das propostas de alteração apresentadas.\n 2. Discussão e votação dos requerimentos de pedido de documentação.\n 3. Análise dos procedimentos de acesso à documentação classificada.\n 4. Outros assuntos.",
    "orgao": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram",

@@ -6,18 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48680@ar-preview
-DTSTAMP:20261109T125632Z
+DTSTAMP:20261109T172435Z
 DTSTART:20261110T150000Z
 DTEND:20261110T170000Z
 SUMMARY:AR · Comissão de Transparência e Estatuto dos Deputados
-LOCATION:Assembleia da República
+LOCATION:Assembleia da República · Sala 5
 DESCRIPTION:Comissão de Transparência e Estatuto dos Deputados · Reuni
- ão n.º 58\nSíntese: Apreciação e votação do relatório sobre o Pro
- jeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização d
- as obrigações declarativas…\nPágina na AR: https://www.parlamento.pt
- /sites/com/XVIILeg/15CTED/Paginas/default.aspx\nEmissões em direto (quan
- do houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.g
- ithub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ ão n.º 58 · Sala 5\nSíntese: Apreciação e votação do relatório s
+ obre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscal
+ ização das obrigações declarativas…\nPágina na AR: https://www.par
+ lamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx\nEmissões em di
+ reto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://u
+ pe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR p
+ ode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.asp
  x
 TRANSP:TRANSPARENT
