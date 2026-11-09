@@ -29,10 +29,14 @@ def _e_nome(t):
 
 def membros_governo(x):
     """Membros do Governo referidos na ordem de trabalhos, como pares (cargo, nome); nome vazio quando a AR não o escreve."""
+    if 'Visitas' in (x.get('tipoLabel') or '') or (x.get('orgao') or x.get('tema') or '').startswith('Visitas guiadas'):
+        return []                                           # visitas ao Palácio: delegações (muitas vezes estrangeiras), não o Governo
     texto = ' / '.join([x.get('interveniente') or '', x.get('tema') or '', x.get('ordemTrabalhos') or ''])
     achados = {}                                            # cargo -> nome (o primeiro com nome ganha)
     for m in _CARGO.finditer(texto):
         if _ESTRANGEIRO.search(texto[max(0, m.start() - 30):m.start()]): continue
+        linha = re.split(r'[\n/]', texto[m.start():m.start() + 250])[0]
+        if re.search(r'delega[cç][aã]o d[aeo]s?\b|Kosovo|Rep[uú]blica d[aeo]', linha): continue   # «… e delegação do Kosovo»
         resto = texto[m.start():m.start() + 200]
         f = _FIM.search(resto, len(m.group(1)))
         trecho = resto[:f.start()] if f else resto
