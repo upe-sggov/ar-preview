@@ -55,17 +55,30 @@ def obter_site():
     pagina = ler(SITE + '/')
     tok = re.search(r'"XSRF-TOKEN",\s*"([^"]+)"', pagina)
     if not tok: raise RuntimeError('token de exportação não encontrado na página da agenda')
-    ids = list(dict.fromkeys(re.findall(r'id="card_(\d+)"', ler(SITE + '/Index?handler=SectionContents'))))
+    seccoes = ler(SITE + '/Index?handler=SectionContents')
+    pathlib.Path('dados/site_seccoes.html').write_text(seccoes, encoding='utf-8')   # cópia para diagnóstico
+    ids = list(dict.fromkeys(re.findall(r'id="card_(\d+)"', seccoes)))
     if not ids: raise RuntimeError('nenhuma reunião na página da agenda')
     fronteira = uuid.uuid4().hex
     corpo = ''.join(f'--{fronteira}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n' for k, v in
                     (('Input.ContentIds', ','.join(ids)), ('Input.Format', 'JSON'))) + f'--{fronteira}--\r\n'
     bruto = json.loads(ler(SITE + '/ContentExport?tz=Europe/Lisbon', corpo.encode(), {'XSRF-TOKEN': tok.group(1), 'Content-Type': f'multipart/form-data; boundary={fronteira}'}))
     pathlib.Path('dados/site_exportacao.json').write_text(json.dumps(bruto, ensure_ascii=False, indent=1), encoding='utf-8')   # cópia tal como vem, para diagnóstico
-    return converter_site(bruto)
+    return converter_site(bruto, linhas_dos_cartoes(seccoes))
 
-def converter_site(lista):
-    out = []
+def linhas_dos_cartoes(pagina):
+    """Texto que a página mostra dentro de cada cartão e que a exportação JSON não traz (ex.: as audiências dos grupos
+    parlamentares: «11h00 – Comissão de Trabalhadores da RTP»). Guarda-se só as linhas que começam por uma hora."""
+    out = {}
+    for bloco in re.split(r'(?=id="card_\d+")', pagina)[1:]:
+        cid = re.match(r'id="card_(\d+)"', bloco).group(1)
+        linhas = [l.strip() for l in texto(bloco).split('\n')]
+        horas = [l for l in linhas if re.match(r'\d{1,2}[hH:]\d{2}\b', l)]
+        if horas: out.setdefault(cid, list(dict.fromkeys(horas)))
+    return out
+
+def converter_site(lista, cartoes=None):
+    out, cartoes = [], cartoes or {}
     for x in lista:
         dt = x.get('eventStartDate') or ''
         try: d = datetime.datetime.fromisoformat(dt[:19])
@@ -74,6 +87,12 @@ def converter_site(lista):
                     'EventStartTime': d.strftime('%H:%M:%S') if (d.hour or d.minute) else None,
                     'Section': x.get('section'), 'Title': x.get('title'), 'Subtitle': x.get('subtitle'), 'Local': x.get('local'),
                     'Link': x.get('link'), 'InternetText': x.get('intranetText')})
+        linhas = cartoes.get(str(x.get('id')))
+        if linhas and not (out[-1]['InternetText'] or '').strip():      # o texto só está no cartão da página
+            out[-1]['InternetText'] = '<br>'.join(linhas)
+        if linhas and not out[-1]['EventStartTime']:                     # sem hora na exportação: a primeira hora do cartão
+            h = sorted((int(a), b) for a, b in (re.match(r'(\d{1,2})[hH:](\d{2})', l).groups() for l in linhas))[0]
+            out[-1]['EventStartTime'] = f'{h[0]:02d}:{h[1]}:00'
     return out
 
 def obter_tudo():
