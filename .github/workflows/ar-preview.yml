@@ -46,6 +46,8 @@ jobs:
       - name: Montar ou atualizar a edição
         id: montar
         run: python scripts/montar_edicao.py
+      - name: Expressões fixas de pesquisa (reuniões sem assunto na ordem de trabalhos)
+        run: python scripts/expressoes_fixas.py
       - name: "Amália — há trabalho para o modelo?"
         id: amalia
         run: |

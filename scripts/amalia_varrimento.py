@@ -193,6 +193,12 @@ if __name__ == '__main__':
                 if f_['origem'] == 'amalia' and n_.get('natureza') in ROT: n_['naturezaLabel'] = ROT[n_['natureza']]
                 elif f_['origem'] == 'radar': n_.pop('natureza', None); n_.pop('naturezaLabel', None)
             f_['gerado_por'] = GERADO_AMALIA if f_['origem'] == 'amalia' else GERADO_RADAR
+    # cabeçalho da ficha sempre igual ao da matéria (a AR muda salas, junta comissões, etc.)
+    for x in d['destaques'] + d['agenda']:
+        f_ = d['fichas'].get(x.get('varrimento') or '')
+        if f_ and f_.get('origem') in ('radar', 'amalia') and not f_.get('revista_por'):
+            f_['titulo'] = x['tema']
+            f_['meta'] = f"{x.get('tipoLabel','')} · {x['dataLabel']}{', ' + x['hora'] if x.get('hora') else ''}"
     # fichas manuais que deixam de ser usadas: retiradas
     usadas = {x.get('varrimento') for x in d['destaques'] + d['agenda'] + d.get('futuro', [])}
     for k in [k for k, f in d['fichas'].items() if f.get('origem') not in ('radar', 'amalia') and not f.get('revista_por')]:

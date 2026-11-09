@@ -8917,27 +8917,6 @@
    "novas": 0,
    "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se na Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, com 4 notícias relacionadas com as políticas europeias de transição ecológica e competitividade industrial. A primeira notícia, de 9 de setembro, alertava para a necessidade de datacenters construírem instalações de energia limpa devido ao aumento da procura de eletricidade para IA, um tema relevante para a transição ecológica. Seguiu-se, a 14 de setembro, uma defesa das regras da UE para gigantes tecnológicos e IA, também relevante para a competitividade industrial. A 6 de outubro, Ribera anunciou cobertura legal para limitar a habitação turística, um tema de contexto para políticas regionais. Por fim, a 14 de outubro, Ribera participou numa reunião com o presidente da Generalitat, enquadrando-se no apoio a regiões com base industrial. Nenhuma das notícias apresentadas foi de natureza crítica ou polémica em relação à matéria da audiência."
   },
-  "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
-   "titulo": "Escrutínio de Iniciativas Europeias",
-   "meta": "Grupo de Trabalho · Reunião n.º 27 · terça, 10 nov, 08h30",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [],
-   "amostra": {
-    "analisadas": 0,
-    "encontradas": 0
-   },
-   "base": {
-    "ultima": "",
-    "em": "2026-11-08"
-   },
-   "novas": 0,
-   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
-  },
   "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
    "titulo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
    "meta": "Comissão de Assuntos Europeus · Reunião n.º 64 · conjunta com Comissão de Economia e Coesão Territorial · terça, 10 nov, 09h00",
@@ -9201,8 +9180,14 @@
      "Grupo de Trabalho de Escrutínio"
     ]
    },
-   "expressoes": [],
-   "varrimento": "2026-11-10-48672-escrut-nio-de-iniciativas-europeias"
+   "expressoes": [
+    "Quadro Financeiro Plurianual",
+    "QFP",
+    "orçamento da UE",
+    "orçamento europeu",
+    "recursos próprios"
+   ],
+   "expressoesFixas": true
   },
   {
    "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
