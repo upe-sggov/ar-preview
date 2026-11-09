@@ -6121,11 +6121,11 @@
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
    "data": "2026-11-23",
-   "hora": "",
+   "hora": "15h30",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "15h30 - Tabaqueira",
+   "ordemTrabalhos": "15h30 - Tabaqueira",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "id_ar": 48648,
    "chave": "ar-48648",
@@ -7799,11 +7799,11 @@
   {
    "tema": "Audiências do Grupo Parlamentar do PCP",
    "data": "2026-12-16",
-   "hora": "",
+   "hora": "16h00",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "16h00 - Comissão de Cidadãos de negócios Estrangeiros e Comunidades Portuguesas d’os 230",
+   "ordemTrabalhos": "16h00 - Comissão de Cidadãos de negócios Estrangeiros e Comunidades Portuguesas d’os 230",
    "orgao": "Audiências do Grupo Parlamentar do PCP",
    "id_ar": 48607,
    "chave": "ar-48607",
@@ -7811,9 +7811,13 @@
    "tipo": [
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
-   "uo": [],
+   "uo": [
+    "DCIRI"
+   ],
    "pertinencia": "Registo",
    "criterio": [
+    "«negócios estrangeiros» (DCIRI)",
+    "«comunidades portuguesas» (DCIRI)",
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "periodo": "Tarde",
@@ -7858,10 +7862,16 @@
     "novos": 12,
     "alterados": 0,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-09",
+    "novos": 0,
+    "alterados": 11,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-09T12:00+00:00",
-  "atualizadoLabel": "9 de novembro, 12h00",
+  "atualizado": "2026-11-09T12:09+00:00",
+  "atualizadoLabel": "9 de novembro, 12h09",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -9200,6 +9210,27 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática tem-se focado na implementação e nos desafios do AI Act da UE, destacando a sua importância para a soberania tecnológica, a segurança e a democracia. As notícias revelam preocupações sobre a conformidade das empresas, a fiscalização das autoridades e as potenciais multas, bem como a necessidade de transparência e supervisão humana. A cobertura também inclui discussões sobre a inovação e as oportunidades que o novo quadro regulamentar pode oferecer. A Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, é mencionada em vários artigos como a responsável pela política de IA. A cobertura evoluiu de discussões iniciais sobre a implementação do AI Act para análises mais aprofundadas sobre as suas implicações e potenciais benefícios."
+  },
+  "2026-11-11-48658-ministra-da-ind-stria-empreendedorismo-com": {
+   "titulo": "Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo: Visita ao Palácio de São Bento",
+   "meta": "Visitas ao Palácio de S. Bento · quarta, 11 nov, 15h30",
+   "nivel": "curta",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-09"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
   }
  },
  "destaques": [
@@ -10564,83 +10595,13 @@
  ],
  "agenda": [
   {
-   "tema": "Audiências do Grupo Parlamentar PSD",
-   "data": "2026-11-09",
-   "hora": "",
-   "interveniente": "",
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
-   "orgao": "Audiências do Grupo Parlamentar PSD",
-   "id_ar": 48663,
-   "chave": "ar-48663",
-   "dataLabel": "segunda, 9 nov",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-09",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
-  {
-   "tema": "Audiências do Grupo Parlamentar do PCP",
-   "data": "2026-11-09",
-   "hora": "",
-   "interveniente": "",
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
-   "orgao": "Audiências do Grupo Parlamentar do PCP",
-   "id_ar": 48652,
-   "chave": "ar-48652",
-   "dataLabel": "segunda, 9 nov",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-09",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
-  {
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-09",
-   "hora": "",
+   "hora": "10h30",
    "interveniente": "",
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n",
+   "ordemTrabalhos": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n14h30 - Um grupo de 30 alunos e professores do Agrupamento de Escolas AquaAlba, Cacém\n17h30 - Uma delegação da Comissão Europeia e Delegação\n18h30 - Um grupo de 30 alunos e professores da Sociedade de Belas Artes, Lisboa",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "id_ar": 48656,
    "chave": "ar-48656",
@@ -10692,7 +10653,119 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
-   }
+   },
+   "alterado": "2026-11-09"
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar PSD",
+   "data": "2026-11-09",
+   "hora": "11h00",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "11h00 – Comissão de Trabalhadores da RTP",
+   "ordemTrabalhos": "11h00 – Comissão de Trabalhadores da RTP",
+   "orgao": "Audiências do Grupo Parlamentar PSD",
+   "id_ar": 48663,
+   "chave": "ar-48663",
+   "dataLabel": "segunda, 9 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [
+    "UPE"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«rtp» (UPE)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "alterado": "2026-11-09"
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-11-09",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h30 - VIDAS Menopausa",
+   "ordemTrabalhos": "14h30 - VIDAS Menopausa",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48652,
+   "chave": "ar-48652",
+   "dataLabel": "segunda, 9 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "alterado": "2026-11-09"
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "data": "2026-11-10",
+   "hora": "10h30",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h30 - Comissões de Cidadãos da Associação Os 230\n15h00 - João Ribeiro - Bidaoui\n15h00 - Trabalhadores das Estruturas de Missão do PT 2030 (COMPETE 2030, Pessoas 2030, Sustentável 2030, e Mar 2030)",
+   "ordemTrabalhos": "10h30 - Comissões de Cidadãos da Associação Os 230\n15h00 - João Ribeiro - Bidaoui\n15h00 - Trabalhadores das Estruturas de Missão do PT 2030 (COMPETE 2030, Pessoas 2030, Sustentável 2030, e Mar 2030)",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "id_ar": 48642,
+   "chave": "ar-48642",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "alterado": "2026-11-09"
   },
   {
    "tema": "Conselho de Administração",
@@ -11378,6 +11451,68 @@
      ]
     ]
    }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-10",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "14h30 - Um grupo de 24 alunos e professores da Escola Profissional de hotelaria e Turismo de Lisboa\n15h00 - Um grupo de 30 alunos e professores da Escola Básica Vale de Pedras, Albufeira",
+   "ordemTrabalhos": "14h30 - Um grupo de 24 alunos e professores da Escola Profissional de hotelaria e Turismo de Lisboa\n15h00 - Um grupo de 30 alunos e professores da Escola Básica Vale de Pedras, Albufeira",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48657,
+   "chave": "ar-48657",
+   "dataLabel": "terça, 10 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-07",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-09",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
+   },
+   "alterado": "2026-11-09"
   },
   {
    "tema": "Intervenção de Luís Neves na Polícia Judiciária",
@@ -12253,48 +12388,13 @@
    "varrimento": "2026-11-10-48670-interven-o-de-lu-s-neves-na-pol-cia-judici"
   },
   {
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "data": "2026-11-10",
-   "hora": "",
-   "interveniente": "",
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "id_ar": 48642,
-   "chave": "ar-48642",
-   "dataLabel": "terça, 10 nov",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-09",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
-  {
    "tema": "Audiências do Grupo Parlamentar do PCP",
    "data": "2026-11-10",
-   "hora": "",
+   "hora": "16h00",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "16h00 – Associação Cannabis CEE",
+   "ordemTrabalhos": "16h00 – Associação Cannabis CEE",
    "orgao": "Audiências do Grupo Parlamentar do PCP",
    "id_ar": 48508,
    "chave": "ar-48508",
@@ -12320,77 +12420,17 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
-  },
-  {
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "data": "2026-11-10",
-   "hora": "",
-   "interveniente": "",
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "id_ar": 48657,
-   "chave": "ar-48657",
-   "dataLabel": "terça, 10 nov",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [],
-   "novo": "2026-11-07",
-   "cobertura": {
-    "n": 2,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-09",
-    "metodo": "palavras",
-    "ultima": "2026-10-05 15:16",
-    "ultimas": [
-     {
-      "data": "2026-10-05",
-      "fonte": "Observador",
-      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     },
-     {
-      "data": "2026-10-05",
-      "fonte": "Observador",
-      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     }
-    ],
-    "todas": [
-     [
-      "2026-10-05 15:16",
-      "Observador",
-      "15h. Palácio de São Bento abre portas para visitas livres",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     ],
-     [
-      "2026-10-05 15:16",
-      "Observador",
-      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     ]
-    ]
-   }
+   },
+   "alterado": "2026-11-09"
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
    "data": "2026-11-11",
-   "hora": "",
+   "hora": "13h30",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
+   "ordemTrabalhos": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "id_ar": 48662,
    "chave": "ar-48662",
@@ -12416,16 +12456,17 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "alterado": "2026-11-09"
   },
   {
-   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "tema": "Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo: Visita ao Palácio de São Bento",
    "data": "2026-11-11",
-   "hora": "",
+   "hora": "15h30",
    "interveniente": "",
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "Ministra da Indústria e delegação do Kosovo visitam o Palácio de São Bento para conhecer as instalações e o funcionamento da Assembleia da República. O encontro serve para reforçar a cooperação bilateral e o diálogo político.",
+   "ordemTrabalhos": "15h30 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "id_ar": 48658,
    "chave": "ar-48658",
@@ -12433,60 +12474,55 @@
    "tipo": [
     "Visitas ao Palácio de S. Bento"
    ],
-   "uo": [],
-   "pertinencia": "Registo",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Vigilância",
    "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "presença de membro do Governo → Vigilância"
    ],
    "periodo": "Tarde",
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 2,
+    "n": 0,
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "palavras",
-    "ultima": "2026-10-05 15:16",
-    "ultimas": [
-     {
-      "data": "2026-10-05",
-      "fonte": "Observador",
-      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     },
-     {
-      "data": "2026-10-05",
-      "fonte": "Observador",
-      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     }
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "alterado": "2026-11-09",
+   "amalia": {
+    "assunto": "Visita ao Palácio de São Bento",
+    "resumo": "Ministra da Indústria e delegação do Kosovo visitam o Palácio de São Bento para conhecer as instalações e o funcionamento da Assembleia da República. O encontro serve para reforçar a cooperação bilateral e o diálogo político.",
+    "uo": [
+     "DACDP",
+     "DAPL",
+     "DCIRI"
     ],
-    "todas": [
-     [
-      "2026-10-05 15:16",
-      "Observador",
-      "15h. Palácio de São Bento abre portas para visitas livres",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     ],
-     [
-      "2026-10-05 15:16",
-      "Observador",
-      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
-      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
-     ]
+    "justificacao": "A DACDP assegura a coordenação técnica de iniciativas intergovernamentais, incluindo visitas de delegações estrangeiras. A DAPL trata do processo legislativo e a DCIRI da cooperação internacional.",
+    "expressoes": [
+     "Palácio de São Bento",
+     "Assembleia da República",
+     "Kosovo",
+     "Ministra da Indústria",
+     "Diálogo político"
     ]
-   }
+   },
+   "varrimento": "2026-11-11-48658-ministra-da-ind-stria-empreendedorismo-com"
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
    "data": "2026-11-12",
-   "hora": "",
+   "hora": "11h00",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
+   "ordemTrabalhos": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "id_ar": 48645,
    "chave": "ar-48645",
@@ -12512,16 +12548,17 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "alterado": "2026-11-09"
   },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-12",
-   "hora": "",
+   "hora": "11h30",
    "interveniente": "",
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h30 - Um grupo de 28 cidadãos da UNICEF, Lisboa\n15h30 - Um grupo de 29 cidadãos da UNICEF, Lisboa",
+   "ordemTrabalhos": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h30 - Um grupo de 28 cidadãos da UNICEF, Lisboa\n15h30 - Um grupo de 29 cidadãos da UNICEF, Lisboa",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "id_ar": 48659,
    "chave": "ar-48659",
@@ -12573,16 +12610,17 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
-   }
+   },
+   "alterado": "2026-11-09"
   },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-13",
-   "hora": "",
+   "hora": "14h30",
    "interveniente": "",
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "14h30 - Um grupo de 15 cidadãos da Associação CAIS, Braço de Prata\n15h30 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã\n16h00 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã",
+   "ordemTrabalhos": "14h30 - Um grupo de 15 cidadãos da Associação CAIS, Braço de Prata\n15h30 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã\n16h00 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "id_ar": 48660,
    "chave": "ar-48660",
@@ -12634,7 +12672,8 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
-   }
+   },
+   "alterado": "2026-11-09"
   }
  ]
 }

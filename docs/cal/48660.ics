@@ -6,15 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48660@ar-preview
-DTSTAMP:20261109T120145Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
+DTSTAMP:20261109T121404Z
+DTSTART:20261113T143000Z
+DTEND:20261113T163000Z
 SUMMARY:AR · Visitas guiadas ao Palácio de São Bento
 LOCATION:Assembleia da República
 DESCRIPTION:Visitas ao Palácio de S. Bento\nEmissões em direto (quando h
  ouver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.githu
- b.io/ar-preview/\nA AR não publicou hora para esta entrada\; a agenda da
-  AR pode mudar.
+ b.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-09T12:00",
+ "recolha": "2026-11-09T12:09",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -79,7 +79,7 @@
   {
    "id_ar": 48663,
    "data": "2026-11-09",
-   "hora": "",
+   "hora": "11h00",
    "tema": "Audiências do Grupo Parlamentar PSD",
    "orgao": "Audiências do Grupo Parlamentar PSD",
    "interveniente": "",
@@ -87,12 +87,15 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "11h00 – Comissão de Trabalhadores da RTP",
+   "ordemTrabalhos": "11h00 – Comissão de Trabalhadores da RTP",
    "ligacao": "",
-   "uo": [],
+   "uo": [
+    "UPE"
+   ],
    "pertinencia": "Registo",
    "criterio": [
+    "«rtp» (UPE)",
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
@@ -100,7 +103,7 @@
   {
    "id_ar": 48652,
    "data": "2026-11-09",
-   "hora": "",
+   "hora": "14h30",
    "tema": "Audiências do Grupo Parlamentar do PCP",
    "orgao": "Audiências do Grupo Parlamentar do PCP",
    "interveniente": "",
@@ -108,8 +111,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "14h30 - VIDAS Menopausa",
+   "ordemTrabalhos": "14h30 - VIDAS Menopausa",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -121,7 +124,7 @@
   {
    "id_ar": 48656,
    "data": "2026-11-09",
-   "hora": "",
+   "hora": "10h30",
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "interveniente": "",
@@ -129,8 +132,8 @@
     "Visitas ao Palácio de S. Bento"
    ],
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n",
+   "ordemTrabalhos": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n14h30 - Um grupo de 30 alunos e professores do Agrupamento de Escolas AquaAlba, Cacém\n17h30 - Uma delegação da Comissão Europeia e Delegação\n18h30 - Um grupo de 30 alunos e professores da Sociedade de Belas Artes, Lisboa",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -257,7 +260,7 @@
   {
    "id_ar": 48642,
    "data": "2026-11-10",
-   "hora": "",
+   "hora": "10h30",
    "tema": "Audiências do Grupo Parlamentar do PS",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "interveniente": "",
@@ -265,8 +268,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "10h30 - Comissões de Cidadãos da Associação Os 230\n15h00 - João Ribeiro - Bidaoui\n15h00 - Trabalhadores das Estruturas de Missão do PT 2030 (COMPETE 2030, Pessoas 2030, Sustentável 2030, e Mar 2030)",
+   "ordemTrabalhos": "10h30 - Comissões de Cidadãos da Associação Os 230\n15h00 - João Ribeiro - Bidaoui\n15h00 - Trabalhadores das Estruturas de Missão do PT 2030 (COMPETE 2030, Pessoas 2030, Sustentável 2030, e Mar 2030)",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -278,7 +281,7 @@
   {
    "id_ar": 48508,
    "data": "2026-11-10",
-   "hora": "",
+   "hora": "16h00",
    "tema": "Audiências do Grupo Parlamentar do PCP",
    "orgao": "Audiências do Grupo Parlamentar do PCP",
    "interveniente": "",
@@ -286,8 +289,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "16h00 – Associação Cannabis CEE",
+   "ordemTrabalhos": "16h00 – Associação Cannabis CEE",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -299,7 +302,7 @@
   {
    "id_ar": 48657,
    "data": "2026-11-10",
-   "hora": "",
+   "hora": "14h30",
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "interveniente": "",
@@ -307,8 +310,8 @@
     "Visitas ao Palácio de S. Bento"
    ],
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "14h30 - Um grupo de 24 alunos e professores da Escola Profissional de hotelaria e Turismo de Lisboa\n15h00 - Um grupo de 30 alunos e professores da Escola Básica Vale de Pedras, Albufeira",
+   "ordemTrabalhos": "14h30 - Um grupo de 24 alunos e professores da Escola Profissional de hotelaria e Turismo de Lisboa\n15h00 - Um grupo de 30 alunos e professores da Escola Básica Vale de Pedras, Albufeira",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -320,7 +323,7 @@
   {
    "id_ar": 48662,
    "data": "2026-11-11",
-   "hora": "",
+   "hora": "13h30",
    "tema": "Audiências do Grupo Parlamentar do PS",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "interveniente": "",
@@ -328,8 +331,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
+   "ordemTrabalhos": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -341,7 +344,7 @@
   {
    "id_ar": 48658,
    "data": "2026-11-11",
-   "hora": "",
+   "hora": "15h30",
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "interveniente": "",
@@ -349,20 +352,22 @@
     "Visitas ao Palácio de S. Bento"
    ],
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "15h30 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
+   "ordemTrabalhos": "15h30 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
    "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Vigilância",
    "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
   {
    "id_ar": 48645,
    "data": "2026-11-12",
-   "hora": "",
+   "hora": "11h00",
    "tema": "Audiências do Grupo Parlamentar do PS",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "interveniente": "",
@@ -370,8 +375,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
+   "ordemTrabalhos": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -383,7 +388,7 @@
   {
    "id_ar": 48659,
    "data": "2026-11-12",
-   "hora": "",
+   "hora": "11h30",
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "interveniente": "",
@@ -391,8 +396,8 @@
     "Visitas ao Palácio de S. Bento"
    ],
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h30 - Um grupo de 28 cidadãos da UNICEF, Lisboa\n15h30 - Um grupo de 29 cidadãos da UNICEF, Lisboa",
+   "ordemTrabalhos": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h30 - Um grupo de 28 cidadãos da UNICEF, Lisboa\n15h30 - Um grupo de 29 cidadãos da UNICEF, Lisboa",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -404,7 +409,7 @@
   {
    "id_ar": 48660,
    "data": "2026-11-13",
-   "hora": "",
+   "hora": "14h30",
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "interveniente": "",
@@ -412,8 +417,8 @@
     "Visitas ao Palácio de S. Bento"
    ],
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "14h30 - Um grupo de 15 cidadãos da Associação CAIS, Braço de Prata\n15h30 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã\n16h00 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã",
+   "ordemTrabalhos": "14h30 - Um grupo de 15 cidadãos da Associação CAIS, Braço de Prata\n15h30 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã\n16h00 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -543,7 +548,7 @@
   {
    "id_ar": 48648,
    "data": "2026-11-23",
-   "hora": "",
+   "hora": "15h30",
    "tema": "Audiências do Grupo Parlamentar do PS",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "interveniente": "",
@@ -551,8 +556,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "15h30 - Tabaqueira",
+   "ordemTrabalhos": "15h30 - Tabaqueira",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -635,7 +640,7 @@
   {
    "id_ar": 48607,
    "data": "2026-12-16",
-   "hora": "",
+   "hora": "16h00",
    "tema": "Audiências do Grupo Parlamentar do PCP",
    "orgao": "Audiências do Grupo Parlamentar do PCP",
    "interveniente": "",
@@ -643,12 +648,16 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "resumo": "16h00 - Comissão de Cidadãos de negócios Estrangeiros e Comunidades Portuguesas d’os 230",
+   "ordemTrabalhos": "16h00 - Comissão de Cidadãos de negócios Estrangeiros e Comunidades Portuguesas d’os 230",
    "ligacao": "",
-   "uo": [],
+   "uo": [
+    "DCIRI"
+   ],
    "pertinencia": "Registo",
    "criterio": [
+    "«negócios estrangeiros» (DCIRI)",
+    "«comunidades portuguesas» (DCIRI)",
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false

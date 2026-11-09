@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48662@ar-preview
-DTSTAMP:20261109T120145Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
+DTSTAMP:20261109T121404Z
+DTSTART:20261111T133000Z
+DTEND:20261111T153000Z
 SUMMARY:AR · Audiências do Grupo Parlamentar do PS
 LOCATION:Assembleia da República
 DESCRIPTION:Grupos Parlamentares / Partidos / DURP / Ninsc\nEmissões em d
  ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
- upe-sggov.github.io/ar-preview/\nA AR não publicou hora para esta entrad
- a\; a agenda da AR pode mudar.
+ upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
+ pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
