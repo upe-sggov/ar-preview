@@ -9210,27 +9210,6 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática tem-se focado na implementação e nos desafios do AI Act da UE, destacando a sua importância para a soberania tecnológica, a segurança e a democracia. As notícias revelam preocupações sobre a conformidade das empresas, a fiscalização das autoridades e as potenciais multas, bem como a necessidade de transparência e supervisão humana. A cobertura também inclui discussões sobre a inovação e as oportunidades que o novo quadro regulamentar pode oferecer. A Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, é mencionada em vários artigos como a responsável pela política de IA. A cobertura evoluiu de discussões iniciais sobre a implementação do AI Act para análises mais aprofundadas sobre as suas implicações e potenciais benefícios."
-  },
-  "2026-11-11-48658-ministra-da-ind-stria-empreendedorismo-com": {
-   "titulo": "Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo: Visita ao Palácio de São Bento",
-   "meta": "Visitas ao Palácio de S. Bento · quarta, 11 nov, 15h30",
-   "nivel": "curta",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [],
-   "amostra": {
-    "analisadas": 0,
-    "encontradas": 0
-   },
-   "base": {
-    "ultima": "",
-    "em": "2026-11-09"
-   },
-   "novas": 0,
-   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
   }
  },
  "destaques": [
@@ -12460,7 +12439,7 @@
    "alterado": "2026-11-09"
   },
   {
-   "tema": "Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo: Visita ao Palácio de São Bento",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-11",
    "hora": "15h30",
    "interveniente": "",
@@ -12477,9 +12456,9 @@
    "uo": [
     "DACDP"
    ],
-   "pertinencia": "Vigilância",
+   "pertinencia": "Registo",
    "criterio": [
-    "presença de membro do Governo → Vigilância"
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "periodo": "Tarde",
    "ligacoes": [],
@@ -12496,24 +12475,7 @@
     "todas": []
    },
    "alterado": "2026-11-09",
-   "amalia": {
-    "assunto": "Visita ao Palácio de São Bento",
-    "resumo": "Ministra da Indústria e delegação do Kosovo visitam o Palácio de São Bento para conhecer as instalações e o funcionamento da Assembleia da República. O encontro serve para reforçar a cooperação bilateral e o diálogo político.",
-    "uo": [
-     "DACDP",
-     "DAPL",
-     "DCIRI"
-    ],
-    "justificacao": "A DACDP assegura a coordenação técnica de iniciativas intergovernamentais, incluindo visitas de delegações estrangeiras. A DAPL trata do processo legislativo e a DCIRI da cooperação internacional.",
-    "expressoes": [
-     "Palácio de São Bento",
-     "Assembleia da República",
-     "Kosovo",
-     "Ministra da Indústria",
-     "Diálogo político"
-    ]
-   },
-   "varrimento": "2026-11-11-48658-ministra-da-ind-stria-empreendedorismo-com"
+   "expressoes": []
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",

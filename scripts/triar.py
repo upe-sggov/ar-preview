@@ -50,7 +50,9 @@ def triar(item):
     # --- pertinência (critérios da UPE): Imediato › Vigilância › Registo
     pert = 'Registo'
     entregue = next(((a, u) for a, es, u in ENTREGUES if any(tem(e, tn) for e in es)), None)
-    membros = [(norm(c), n) for c, n in membros_governo(item)]
+    visita = 'visitas' in norm(item.get('tipoLabel') or '') or norm(item.get('orgao') or item['tema']).startswith('visitas guiadas')
+    # visitas ao Palácio: as delegações são muitas vezes estrangeiras (ex.: «Ministra da Indústria … do Kosovo»), não são o Governo
+    membros = [] if visita else [(norm(c), n) for c, n in membros_governo(item)]
     cli = next((m for m, cargos, nomes in CLIENTES
                 if any(mc == c or mc.startswith(c) or c.startswith(mc) for mc, _ in membros for c in cargos)
                 or any(tem(n, tn) for n in nomes)), None)
