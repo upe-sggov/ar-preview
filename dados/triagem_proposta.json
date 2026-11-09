@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-09T12:09",
+ "recolha": "2026-11-09T12:15",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -355,12 +355,10 @@
    "resumo": "15h30 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
    "ordemTrabalhos": "15h30 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
    "ligacao": "",
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Vigilância",
+   "uo": [],
+   "pertinencia": "Registo",
    "criterio": [
-    "presença de membro do Governo → Vigilância"
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },

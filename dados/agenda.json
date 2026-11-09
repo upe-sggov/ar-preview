@@ -7870,8 +7870,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-09T12:09+00:00",
-  "atualizadoLabel": "9 de novembro, 12h09",
+  "atualizado": "2026-11-09T12:15+00:00",
+  "atualizadoLabel": "9 de novembro, 12h15",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -12453,9 +12453,7 @@
    "tipo": [
     "Visitas ao Palácio de S. Bento"
    ],
-   "uo": [
-    "DACDP"
-   ],
+   "uo": [],
    "pertinencia": "Registo",
    "criterio": [
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
@@ -12464,15 +12462,41 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 0,
+    "n": 2,
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-09",
     "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
    },
    "alterado": "2026-11-09",
    "expressoes": []
