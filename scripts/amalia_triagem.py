@@ -48,6 +48,11 @@ def pendente(x):
     if x.get('retirado') or x.get('amalia'): return False
     # já não se usam unidades (decisão de 2/11/2026): o Amália só trabalha o assunto e as expressões das matérias com ficha
     return x['pertinencia'] in ('Imediato', 'Vigilância') and not x.get('expressoes')
+# reuniões sem assunto na ordem de trabalhos: expressões fixas definidas pela UPE (dados/regras_uo.json › fundo_mediatico_fixo)
+FIXO = [(c, f['expressoes']) for f in json.loads(pathlib.Path('dados/regras_uo.json').read_text(encoding='utf-8')).get('pertinencia', {}).get('fundo_mediatico_fixo', []) for c in f['comissoes']]
+for x in dados['destaques'] + dados['agenda']:
+    fx = next((e for c, e in FIXO if (x.get('orgao') or '').startswith(c)), None)
+    if fx and x.get('expressoes') != fx: x['expressoes'], x['expressoesFixas'] = list(fx), True
 n = 0
 # audição conjunta (uma linha por comissão): as outras linhas da mesma audição herdam o trabalho já feito numa delas
 FEITAS = {(x['data'], x['conjuntaId']): x for x in dados['destaques'] + dados['agenda'] if x.get('conjuntaId') and x.get('amalia')}
