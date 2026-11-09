@@ -7944,10 +7944,16 @@
     "novos": 1,
     "alterados": 0,
     "retirados": 1
+   },
+   {
+    "data": "2026-11-09",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-09T17:23+00:00",
-  "atualizadoLabel": "9 de novembro, 17h23",
+  "atualizado": "2026-11-09T17:47+00:00",
+  "atualizadoLabel": "9 de novembro, 17h47",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8053,7 +8059,7 @@
      "data": "2026-09-15",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/",
-     "sintese": "O ECO noticiou que o OE2027 pretende ser um orçamento focado na competitividade económica, num contexto de reorganização de cadeias de valor e transição energética.",
+     "sintese": "O ECO noticiou que o OE2027 deve ser mais do que um exercício sobre receitas e despesas, focando-se na competitividade económica para a próxima década, num contexto de reorganização de cadeias de valor e transição energética.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8061,15 +8067,15 @@
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O Dinheiro Vivo reportou que Luís Montenegro sublinhou um 'sinal importante' dado pelo PS, indicando um possível compromisso entre partidos no debate do OE2027.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "O Diário de Notícias reportou que Luís Montenegro afirmou que o OE2027 é bom para os portugueses, respondendo a críticas sobre o aumento do custo de vida.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
      "data": "2026-10-01",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "A Renascença noticiou que Miranda Sarmento alertou o PS para a sua 'responsabilidade reforçada' no défice, num contexto de debate sobre o OE2027.",
+     "sintese": "O Dinheiro Vivo destacou que Montenegro sublinha um sinal importante dado pelo PS, indicando um esforço de diálogo.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8077,15 +8083,15 @@
      "data": "2026-10-08",
      "fonte": "Renascença",
      "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
-     "sintese": "OE 2027. Miranda Sarmento avisa PS que tem \"responsabilidade reforçada\" e alerta para efeito \"muito negativo\" de défice",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "A Renascença noticiou que Miranda Sarmento alerta o PS para a responsabilidade reforçada e o efeito negativo de um défice.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-08",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
-     "sintese": "O Diário de Notícias reportou que o OE2027 prevê uma estagnação nos benefícios do Complemento Solidário para Idosos, uma medida criticada pelo PS.",
+     "sintese": "O Diário de Notícias reportou que o Complemento Solidário para Idosos no OE2027 prevê estagnação nos beneficiários, gerando preocupação.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8093,7 +8099,7 @@
      "data": "2026-10-08",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
-     "sintese": "O Executive Digest noticiou que o Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, uma medida que poderá ser alvo de debate no OE2027.",
+     "sintese": "O Executive Digest noticiou que o Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8101,7 +8107,7 @@
      "data": "2026-10-09",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Notícias ao Minuto reportou que o Chega reuniu o seu Conselho Nacional para analisar o OE2027, indicando um envolvimento ativo do partido no debate orçamental.",
+     "sintese": "O Notícias ao Minuto reportou que o Chega reúne o seu Conselho Nacional para analisar o OE2027, com propostas de alteração.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8109,7 +8115,7 @@
      "data": "2026-10-09",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O Sábado questionou quais as medidas do OE2027 para os jovens, um tema que poderá ser abordado no debate parlamentar.",
+     "sintese": "O Sábado questionou quais as medidas do OE2027 para os jovens, indicando interesse no tema.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8117,7 +8123,7 @@
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "O Jornal de Negócios noticiou que o Hospital de Gaia foi criticado pelo PS pela falta de financiamento no OE2027, um projeto de 280 milhões de euros.",
+     "sintese": "A Healthnews criticou a falta de financiamento para o Hospital de Gaia no OE2027, com um projeto de 280 milhões de euros.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8125,7 +8131,7 @@
      "data": "2026-10-12",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "O Jornal de Negócios reportou que empresários consideram que falta ambição ao OE2027, mas elogiam o equilíbrio das contas.",
+     "sintese": "O Jornal Económico reportou que empresários consideram que falta ambição ao OE2027, mas elogiam o equilíbrio das contas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8133,15 +8139,15 @@
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "A JM Madeira noticiou que Pedro Coelho destacou o aumento das transferências do Estado para a Madeira no OE2027.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "O JM Madeira noticiou um aumento das transferências do Estado para a Madeira no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/luis-montenegro-acredita-que-oe2027-e-bom-para-os-portugueses_v1774847",
-     "sintese": "O SIC Notícias reportou que Luís Montenegro acredita que o OE2027 é 'bom para os portugueses', defendendo a sua viabilidade económica.",
+     "sintese": "O SIC Notícias reportou que Luís Montenegro acredita que o OE2027 é bom para os portugueses.",
      "natureza": "positivo",
      "naturezaLabel": "Positiva"
     },
@@ -8149,23 +8155,15 @@
      "data": "2026-11-03",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/",
-     "sintese": "A UTAO concluiu que o OE2027 reforça a autonomia dos ministérios na gestão de cativações, através do aumento da reserva orçamental setorial.",
+     "sintese": "A UTAO concluiu que os ministérios terão mais autonomia na gestão de cativações no OE2027, com um aumento de 150 milhões de euros.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
-     "sintese": "O Jornal de Negócios noticiou que o OE2027 não permite saber quantas casas a mais o Governo vai pôr no mercado, uma falha apontada por especialistas do IPP.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-04",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
-     "sintese": "O Jornal Económico reportou que sindicatos da educação avaliam o OE2027, apontando a necessidade de melhorias em áreas como o investimento na educação.",
+     "sintese": "O Jornal Económico noticiou que sindicatos de professores avaliam o OE2027, indicando preocupações sobre a falta de investimento na educação.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8173,7 +8171,7 @@
      "data": "2026-11-06",
      "fonte": "Observador",
      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/",
-     "sintese": "O Observador noticiou que o PS apresentou 180 propostas de alteração ao OE2027, insistindo em medidas como o IVA Zero no cabaz alimentar.",
+     "sintese": "O PS apresenta 180 propostas de alteração ao OE2027, insistindo no IVA Zero no cabaz alimentar e na redução do imposto sobre combustíveis.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8181,7 +8179,7 @@
      "data": "2026-11-06",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
-     "sintese": "O Expresso reportou que o OE2027 inclui propostas de alteração de diversos partidos, incluindo a descida do IVA dos combustíveis e a redução da idade da reforma.",
+     "sintese": "O Expresso noticiou que o OE2027 inclui propostas de alteração sobre IVA, IRS e habitação, com diferentes partidos a insistir em medidas específicas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8189,7 +8187,7 @@
      "data": "2026-11-06",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/",
-     "sintese": "O Jornal Económico noticiou que o Chega insistirá na descida do IVA dos combustíveis e no aumento do subsídio de refeição no OE2027.",
+     "sintese": "O Jornal Económico reportou que o Chega insiste na descida do IVA dos combustíveis, redução da idade da reforma e aumento do subsídio de refeição.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8197,17 +8195,25 @@
      "data": "2026-11-06",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
-     "sintese": "O Observador noticiou que o Chega quer congelar a idade da reforma no próximo ano, uma proposta que será apresentada no OE2027.",
+     "sintese": "O Observador noticiou que o Chega quer congelar a idade da reforma e que Ventura comunica que as propostas sobre habitação não estão desligadas da lei das rendas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-11-07",
+     "data": "2026-11-08",
      "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
-     "sintese": "O Jornal de Negócios reportou que o Chega e o PCP foram os partidos que mais alterações apresentaram ao OE2027, com 712 e 653 propostas respetivamente.",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao",
+     "sintese": "O Jornal de Negócios reportou que partidos apostam forte na habitação, com PSD e CDS a proporem suspensão das comissões na amortização de crédito.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-09",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027",
+     "sintese": "Centeno acusa o Governo de opacidade e de ter um défice escondido no OE2027, alertando para aquisições de ativos financeiros.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     }
    ],
    "amostra": {
@@ -8215,11 +8221,11 @@
     "encontradas": 244
    },
    "base": {
-    "ultima": "2026-11-07 10:48",
-    "em": "2026-11-07"
+    "ultima": "2026-11-09 14:00",
+    "em": "2026-11-09"
    },
-   "novas": 3,
-   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares e análises políticas, com foco em temas como competitividade económica, investimento em infraestruturas e políticas sociais. As notícias destacam posições de diferentes partidos, como a crítica do PS à falta de financiamento para projetos específicos (Hospital de Gaia) e a avaliação de sindicatos sobre o investimento na educação. A cobertura também aborda potenciais falhas na informação orçamental, como a ausência de detalhes sobre políticas de habitação. Apesar de algumas críticas, há também anúncios positivos, como o aumento de transferências para a Madeira e a apresentação de propostas de alteração por partidos. O debate evoluiu para incluir discussões sobre a autonomia dos ministérios na gestão de cativações e a apresentação de mais de 2.800 propostas de alteração por diversos partidos."
+   "novas": 0,
+   "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates parlamentares, propostas de alteração e análises económicas. As notícias destacam temas como competitividade, investimento, habitação e financiamento de infraestruturas, com críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia. O Governo apresenta a proposta como favorável, enfatizando a competitividade e o equilíbrio das contas públicas. Os partidos apresentam propostas de alteração, focando-se em IVA Zero, redução de impostos e medidas para a habitação. A cobertura evolui com a discussão de cativações, autonomia orçamental e potenciais impactos económicos."
   },
   "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -10491,7 +10497,7 @@
    "interveniente": "",
    "tipoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta) · Sala Senado",
    "resumo": "Audição conjunta das Comissões de Assuntos Europeus e de Economia e Coesão Territorial com a Vice-Presidente Executiva da Comissão Europeia Henna Virkkunen, responsável pela Soberania Tecnológica, Segurança e Democracia (política digital e de inteligência artificial da UE).",
-   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos\n [conjunta com a Comissão de Assuntos Europeus]",
+   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos\n Delegação: \n Henna Virkkunen, Vice-Presidente Executiva da Comissão Europeia;\n Vítor Nogueira, Chefe de Representação Interino da Comissão Europeia em Portugal;\n Fausto Matos, Membro do Gabinete da Senhora Vice-Presidente;\n Giuseppe Ianniello, Direção-Geral das Redes de Comunicação, Conteúdos e Tecnologias (DG CONNECT) da Comissão Europeia;\n Catarina Caria, Digital EU Ambassador.\n [conjunta com a Comissão de Assuntos Europeus]",
    "orgao": "Comissão de Assuntos Europeus",
    "id_ar": 48666,
    "chave": "ar-48666",
@@ -10645,7 +10651,8 @@
     "Comissão de Economia e Coesão Territorial"
    ],
    "orgaoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta)",
-   "varrimento": "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c"
+   "varrimento": "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c",
+   "alterado": "2026-11-09"
   }
  ],
  "agenda": [
