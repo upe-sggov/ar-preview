@@ -7860,8 +7860,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-09T11:35+00:00",
-  "atualizadoLabel": "9 de novembro, 11h35",
+  "atualizado": "2026-11-09T11:45+00:00",
+  "atualizadoLabel": "9 de novembro, 11h45",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8916,6 +8916,290 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se na Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, com 4 notícias relacionadas com as políticas europeias de transição ecológica e competitividade industrial. A primeira notícia, de 9 de setembro, alertava para a necessidade de datacenters construírem instalações de energia limpa devido ao aumento da procura de eletricidade para IA, um tema relevante para a transição ecológica. Seguiu-se, a 14 de setembro, uma defesa das regras da UE para gigantes tecnológicos e IA, também relevante para a competitividade industrial. A 6 de outubro, Ribera anunciou cobertura legal para limitar a habitação turística, um tema de contexto para políticas regionais. Por fim, a 14 de outubro, Ribera participou numa reunião com o presidente da Generalitat, enquadrando-se no apoio a regiões com base industrial. Nenhuma das notícias apresentadas foi de natureza crítica ou polémica em relação à matéria da audiência."
+  },
+  "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
+   "titulo": "Escrutínio de Iniciativas Europeias",
+   "meta": "Grupo de Trabalho · Reunião n.º 27 · Sala Senado · terça, 10 nov, 08h30",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-10",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c",
+     "sintese": "António Costa reúne-se com Luís Montenegro em São Bento para discutir o orçamento da UE, marcando o início de um período de negociações.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-19",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/montenegro-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum",
+     "sintese": "Montenegro defende que o próximo Orçamento da UE deve privilegiar a coesão e a política agrícola comum.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-30",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/franqueira-rodrigues-defende-reforco-do-orcamento-europeu-380730",
+     "sintese": "André Franqueira Rodrigues, eurodeputado socialista, defende o reforço do orçamento europeu sem retirar recursos à Coesão, Agricultura, Pescas e regiões.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/international/article/2026-10-06/47892045/pm-avisa-que-ser%C3%A1-intransigente-com-cortes-no-or%C3%A7amento-da-ue-e-recusa-concurso-de-pedinchices",
+     "sintese": "O primeiro-ministro avisa que será intransigente com cortes no orçamento da UE e recusa um 'concurso de pedinchices'.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/mundo/artigo/cortes-de-141-mil-milhoes-no-orcamento-da-ue-recebemos-esta-proposta-com-preocupacao/18135603",
+     "sintese": "Cortes de 141 mil milhões no orçamento da UE são recebidos com preocupação por Portugal.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/10/economia/noticia/envelope-nacional-cortes-nova-proposta-compromisso-orcamento-ue-2190942",
+     "sintese": "A Presidência irlandesa propõe um envelope nacional sem cortes na nova proposta de compromisso para o orçamento da UE.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/antonio-costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/",
+     "sintese": "António Costa é designado como principal negociador para o orçamento da UE após críticas à proposta irlandesa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/noticia/amp/mundo/2026/10/11/antonio-costa-assume-negociacoes-do-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/488760/",
+     "sintese": "António Costa assume as negociações do orçamento da UE após críticas à proposta irlandesa.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-13",
+     "fonte": "Jornal de Notícias",
+     "url": "https://www.jn.pt/nacional/artigo/os-pequenos-paises-vao-sair-a-perder-com-o-orcamento-europeu-avisa-comite-das-regioes/18136567",
+     "sintese": "O Comité das Regiões alerta que os pequenos países vão sair a perder com o orçamento europeu.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/10/14/moedas-pede-uniao-de-todos-os-partidos-contra-cortes-no-orcamento-da-ue-o-montante-nao-pode-descer/",
+     "sintese": "Moedas alerta para o mau precedente do corte de 8% proposto pela presidência irlandesa no QFP 2028-2034.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-10-15",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/internacional/seguro-considera-imprescindvel-aprovao-de-oramento-da-ue-at-final-do-ano?utm_source=website&utm_medium=related-stories",
+     "sintese": "Seguro considera imprescindível a aprovação do orçamento da UE até final do ano.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-16",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/ue-cimeira-costa-compromete-se-a-trabalhar-nos-recursos-proprios-para-orcamento/",
+     "sintese": "Costa compromete-se a trabalhar nos recursos próprios para o orçamento da UE.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-17",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/opiniao/o-quadro-financeiro-plurianual-esta-aie-nos-estamos-preparados/",
+     "sintese": "O Quadro Financeiro Plurianual está aí…e nós, estamos preparados?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-22",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/fundos-europeus/2026-10-22-antonio-costa-prepara-nova-proposta-de-orcamento-europeu-00294242?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/fundos-europeus/2026-10-22-antonio-costa-prepara-nova-proposta-de-orcamento-europeu-00294242",
+     "sintese": "António Costa prepara nova proposta de orçamento europeu.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-03",
+     "fonte": "Agroportal",
+     "url": "https://www.agroportal.pt/grupos-de-acao-local-exigem-que-desenvolvimento-rural-seja-prioridade-no-orcamento-europeu-pos-2027/",
+     "sintese": "Grupos de Ação Local exigem que o desenvolvimento rural seja prioridade no orçamento europeu pós-2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/economia/3078504/tce-alerta-sobre-riscos-no-orcamento-da-ue-para-2028-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O TCE alerta para riscos no orçamento da UE para 2028-2034.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/tce-ve-avancos-na-simplificacao-do-orcamento-europeu-mas-pede-mais-foco-nos-resultados",
+     "sintese": "O TCE vê avanços na simplificação do orçamento europeu mas pede mais foco nos resultados.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-04",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/uniao-europeia/tribunal-de-contas-europeu/tce-alerta-para-falhas-no-controlo-de-fundos-e-avaliacao-de-resultados-em-orcamento-da-ue/20261104/6aeb5e38d34e5a653d732d34",
+     "sintese": "O TCE alerta para falhas no controlo de fundos e avaliação de resultados no orçamento da UE.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano_n1777236",
+     "sintese": "Kallas acredita num compromisso sobre o orçamento da UE ainda este ano.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-11-05",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano",
+     "sintese": "Kallas acredita num compromisso sobre o orçamento da UE ainda este ano.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 166
+   },
+   "base": {
+    "ultima": "2026-11-05 23:15",
+    "em": "2026-11-09"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se intensamente no escrutínio do orçamento da União Europeia, com 166 notícias que abordam as negociações para o Quadro Financeiro Plurianual 2028-2034. Inicialmente, a discussão centrou-se em críticas e preocupações com cortes propostos, como a proposta de 141 mil milhões de euros (notícias 5 e 10) e a redução de 8% face à proposta da Comissão (notícia 6). Posteriormente, surgiram anúncios de novas propostas e posições negociais, como a preparação de uma nova proposta por António Costa (notícia 14) e a defesa de prioridades como a coesão e a política agrícola (notícias 3 e 15). A cobertura evoluiu também para incluir alertas sobre riscos e falhas no controlo de fundos, como os avisos do TCE (notícias 16 e 18), e para discutir a necessidade de compromissos até ao final do ano (notícias 11 e 19)."
+  },
+  "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
+   "titulo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
+   "meta": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta) · Sala Senado · terça, 10 nov, 09h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-16",
+     "fonte": "Observador",
+     "url": "https://observador.pt/opiniao/os-dois-novos-polos-na-politica-de-inteligencia-artificial/",
+     "sintese": "Os dois novos polos na política de Inteligência Artificial — A Europa não tem um lugar à mesa no debate sobre IA, e não é o AI Act, que lhe vai dar essa prerrogativa.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-21",
+     "fonte": "SAPO Tek",
+     "url": "https://tek.sapo.pt/pesquisar?q=ai+act",
+     "sintese": "AI Act - Tek Sapo — A discussão sobre o AI Act e a sua implementação em Portugal, com foco na transparência e nas obrigações das empresas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-25",
+     "fonte": "Visão",
+     "url": "https://visao.pt/conteudopatrocinado/2026-09-25-a-sua-empresa-usa-ia-uma-decisao-errada-pode-valer-milhoes-em-multas/?utm_source=rss&utm_medium=rss&utm_campaign=a-sua-empresa-usa-ia-uma-decisao-errada-pode-valer-milhoes-em-multas",
+     "sintese": "A sua empresa usa IA? Uma decisão errada pode valer milhões em multas — As obrigações de transparência do AI Act entraram em vigor há pouco mais de 1 mês e com elas as fiscalizações pelas autoridades. A E-goi prepara um Kit prático para ajudar as empresas a cumprirem as obrigações e",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-28",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/opiniao/o-ai-act-e-o-futuro-do-setor-segurador-em-portugal/",
+     "sintese": "O AI Act e o futuro do Setor Segurador em Portugal — A inteligência artificial está a transformar rapidamente o setor segurador português, desde a subscrição automática de riscos até à deteção de fraude e gestão de sinistros.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-29",
+     "fonte": "Politico Europe",
+     "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "sintese": "EU to Trump: We will keep pushing for global AI safety rules — A posição da UE sobre a cooperação internacional em matéria de segurança da IA, liderada pela Vice-Presidente Executiva Henna Virkkunen.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-12",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/ai-act-coimas-podem-chegar-aos-35-milhoes-de-euros-e-o-primeiro-passo-e-saber-onde-a-empresa-usa-ia/",
+     "sintese": "AI Act: coimas podem chegar aos 35 milhões de euros e o primeiro passo é saber onde a empresa usa IA — Aumento das potenciais multas e a necessidade de identificar a utilização de IA nas empresas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/",
+     "sintese": "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação” — A mensagem da UE sobre a importância da supervisão humana e da transparência na IA.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-22",
+     "fonte": "La Vanguardia",
+     "url": "https://www.lavanguardia.com/empresas-de-vanguardia/historias-de-exito/20261022/11653261/ai-act-convierte-regulacion-inteligencia-artificial-oportunidad-innovar.html",
+     "sintese": "El AI Act convierte la regulación de la IA en una oportunidad para innovar — A oportunidade de inovação que o novo quadro regulamentar da IA pode oferecer às empresas.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/internacional/comisso-europeia-conclui-preliminarmente-que-feed-para-ti-do-tiktok-viola-a-lei-dos-servios-digitais",
+     "sintese": "Comissão Europeia conclui preliminarmente que feed 'Para ti' do TikTok viola a Lei dos Serviços Digitais — A investigação sobre a conformidade do feed 'Para ti' do TikTok com a Lei dos Serviços Digitais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/topic/lei-dos-servios-digitais",
+     "sintese": "Lei dos Serviços Digitais — A discussão sobre a Lei dos Serviços Digitais e a sua aplicação em plataformas digitais.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    }
+   ],
+   "amostra": {
+    "analisadas": 10,
+    "encontradas": 10
+   },
+   "base": {
+    "ultima": "2026-11-06 17:03",
+    "em": "2026-11-09"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos 60 dias, a cobertura mediática tem-se focado na implementação e nos desafios do AI Act da UE, destacando a sua importância para a soberania tecnológica, a segurança e a democracia. As notícias revelam preocupações sobre a conformidade das empresas, a fiscalização das autoridades e as potenciais multas, bem como a necessidade de transparência e supervisão humana. A cobertura também inclui discussões sobre a inovação e as oportunidades que o novo quadro regulamentar pode oferecer. A Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, é mencionada em vários artigos como a responsável pela política de IA. A cobertura evoluiu de discussões iniciais sobre a implementação do AI Act para análises mais aprofundadas sobre as suas implicações e potenciais benefícios."
   }
  },
  "destaques": [
@@ -9064,7 +9348,7 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 165,
+    "n": 166,
     "n7": 6,
     "n7ant": 2,
     "dias": 60,
@@ -10029,6 +10313,12 @@
       "https://www.noticiasaominuto.com/economia/3052184/estado-da-uniao-qualquer-orcamento-moderno-precisa-de-novas-receitas-von-der-leyen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
+      "2026-09-15 17:51",
+      "RTP Notícias",
+      "Bruxelas quer mais direitos para trabalhadores móveis na UE com benefícios de seis mil ME",
+      "https://www.rtp.pt/noticias/mundo/bruxelas-quer-mais-direitos-para-trabalhadores-moveis-na-ue-com-beneficios-de-seis-mil-me_n1765595"
+     ],
+     [
       "2026-09-14 23:26",
       "Observador",
       "S. Pedro do Sul quer integrar projeto de controlo de javalis",
@@ -10097,13 +10387,16 @@
     ]
    },
    "expressoes": [
+    "Passaporte Europeu de Segurança Social",
+    "reconhecimento de qualificações",
     "Quadro Financeiro Plurianual",
     "QFP",
     "orçamento da UE",
     "orçamento europeu",
     "recursos próprios"
    ],
-   "expressoesFixas": true
+   "expressoesFixas": true,
+   "varrimento": "2026-11-10-48672-escrut-nio-de-iniciativas-europeias"
   },
   {
    "tema": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
@@ -10265,7 +10558,8 @@
     "Comissão de Assuntos Europeus",
     "Comissão de Economia e Coesão Territorial"
    ],
-   "orgaoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta)"
+   "orgaoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta)",
+   "varrimento": "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c"
   }
  ],
  "agenda": [

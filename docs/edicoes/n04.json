@@ -7860,8 +7860,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-09T11:35+00:00",
-  "atualizadoLabel": "9 de novembro, 11h35",
+  "atualizado": "2026-11-09T11:45+00:00",
+  "atualizadoLabel": "9 de novembro, 11h45",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8931,7 +8931,7 @@
      "data": "2026-09-10",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/pais/politica/2026-09-10-antonio-costa-reune-se-com-luis-montenegro-em-sao-bento-para-discutir-orcamento-da-ue-a6ca563c",
-     "sintese": "Reunião entre António Costa e Luís Montenegro para discutir o orçamento da UE, com foco em posições políticas e negociações futuras.",
+     "sintese": "António Costa reúne-se com Luís Montenegro em São Bento para discutir o orçamento da UE, marcando o início de um período de negociações.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -8939,7 +8939,7 @@
      "data": "2026-09-19",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/portugal/detalhe/montenegro-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum",
-     "sintese": "Montenegro defende que o próximo Orçamento da UE deve privilegiar a coesão e a política agrícola comum, alertando para potenciais cortes.",
+     "sintese": "Montenegro defende que o próximo Orçamento da UE deve privilegiar a coesão e a política agrícola comum.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8947,7 +8947,7 @@
      "data": "2026-09-30",
      "fonte": "Açoriano Oriental",
      "url": "https://www.acorianooriental.pt/noticia/franqueira-rodrigues-defende-reforco-do-orcamento-europeu-380730",
-     "sintese": "Eurodeputado socialista André Franqueira Rodrigues defende o reforço do próximo Orçamento da UE, sem retirar recursos à Coesão, Agricultura, Pescas e regiões.",
+     "sintese": "André Franqueira Rodrigues, eurodeputado socialista, defende o reforço do orçamento europeu sem retirar recursos à Coesão, Agricultura, Pescas e regiões.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8955,7 +8955,7 @@
      "data": "2026-10-06",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/international/article/2026-10-06/47892045/pm-avisa-que-ser%C3%A1-intransigente-com-cortes-no-or%C3%A7amento-da-ue-e-recusa-concurso-de-pedinchices",
-     "sintese": "Primeiro-Ministro alerta contra cortes no Orçamento da UE, rejeitando o que descreve como um 'concurso de pedinchices'.",
+     "sintese": "O primeiro-ministro avisa que será intransigente com cortes no orçamento da UE e recusa um 'concurso de pedinchices'.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8963,7 +8963,7 @@
      "data": "2026-10-10",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/mundo/artigo/cortes-de-141-mil-milhoes-no-orcamento-da-ue-recebemos-esta-proposta-com-preocupacao/18135603",
-     "sintese": "Proposta de cortes de 141 mil milhões de euros no Orçamento da UE, recebida com preocupação por Portugal.",
+     "sintese": "Cortes de 141 mil milhões no orçamento da UE são recebidos com preocupação por Portugal.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8971,7 +8971,7 @@
      "data": "2026-10-10",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/10/economia/noticia/envelope-nacional-cortes-nova-proposta-compromisso-orcamento-ue-2190942",
-     "sintese": "Presidência irlandesa propõe um envelope nacional sem cortes na nova proposta de compromisso para o Orçamento da UE.",
+     "sintese": "A Presidência irlandesa propõe um envelope nacional sem cortes na nova proposta de compromisso para o orçamento da UE.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8979,7 +8979,7 @@
      "data": "2026-10-11",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/antonio-costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/",
-     "sintese": "António Costa designado como principal negociador para o Orçamento da UE após críticas à proposta irlandesa.",
+     "sintese": "António Costa é designado como principal negociador para o orçamento da UE após críticas à proposta irlandesa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8987,7 +8987,7 @@
      "data": "2026-10-11",
      "fonte": "Renascença",
      "url": "https://rr.pt/noticia/amp/mundo/2026/10/11/antonio-costa-assume-negociacoes-do-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/488760/",
-     "sintese": "António Costa assume as negociações do Orçamento da UE após críticas à proposta irlandesa.",
+     "sintese": "António Costa assume as negociações do orçamento da UE após críticas à proposta irlandesa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8995,7 +8995,7 @@
      "data": "2026-10-13",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/nacional/artigo/os-pequenos-paises-vao-sair-a-perder-com-o-orcamento-europeu-avisa-comite-das-regioes/18136567",
-     "sintese": "Comité das Regiões alerta que os pequenos países vão sair a perder com o orçamento europeu.",
+     "sintese": "O Comité das Regiões alerta que os pequenos países vão sair a perder com o orçamento europeu.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -9011,7 +9011,7 @@
      "data": "2026-10-15",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/internacional/seguro-considera-imprescindvel-aprovao-de-oramento-da-ue-at-final-do-ano?utm_source=website&utm_medium=related-stories",
-     "sintese": "Seguro considera 'imprescindível' a aprovação do Orçamento da UE até final do ano.",
+     "sintese": "Seguro considera imprescindível a aprovação do orçamento da UE até final do ano.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -9019,7 +9019,7 @@
      "data": "2026-10-16",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/ue-cimeira-costa-compromete-se-a-trabalhar-nos-recursos-proprios-para-orcamento/",
-     "sintese": "Costa compromete-se a trabalhar nos recursos próprios para o Orçamento da UE.",
+     "sintese": "Costa compromete-se a trabalhar nos recursos próprios para o orçamento da UE.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -9027,9 +9027,9 @@
      "data": "2026-10-17",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/opiniao/o-quadro-financeiro-plurianual-esta-aie-nos-estamos-preparados/",
-     "sintese": "Discussão sobre o Quadro Financeiro Plurianual para o período de sete anos (2028–2034).",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O Quadro Financeiro Plurianual está aí…e nós, estamos preparados?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-22",
@@ -9051,7 +9051,7 @@
      "data": "2026-11-04",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/economia/3078504/tce-alerta-sobre-riscos-no-orcamento-da-ue-para-2028-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "TCE alerta sobre riscos no orçamento da UE para 2028-2034.",
+     "sintese": "O TCE alerta para riscos no orçamento da UE para 2028-2034.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -9059,7 +9059,7 @@
      "data": "2026-11-04",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/tce-ve-avancos-na-simplificacao-do-orcamento-europeu-mas-pede-mais-foco-nos-resultados",
-     "sintese": "TCE vê avanços na simplificação do orçamento europeu mas pede mais foco nos resultados.",
+     "sintese": "O TCE vê avanços na simplificação do orçamento europeu mas pede mais foco nos resultados.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -9067,7 +9067,7 @@
      "data": "2026-11-04",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/uniao-europeia/tribunal-de-contas-europeu/tce-alerta-para-falhas-no-controlo-de-fundos-e-avaliacao-de-resultados-em-orcamento-da-ue/20261104/6aeb5e38d34e5a653d732d34",
-     "sintese": "TCE alerta para falhas no controlo de fundos e avaliação de resultados no orçamento da UE.",
+     "sintese": "O TCE alerta para falhas no controlo de fundos e avaliação de resultados no orçamento da UE.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -9076,28 +9076,28 @@
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/economia/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano_n1777236",
      "sintese": "Kallas acredita num compromisso sobre o orçamento da UE ainda este ano.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
      "data": "2026-11-05",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/detalhe/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano",
-     "sintese": "Kallas acredita que António Costa conseguirá alcançar um compromisso sobre o orçamento da UE.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Kallas acredita num compromisso sobre o orçamento da UE ainda este ano.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 165
+    "encontradas": 166
    },
    "base": {
     "ultima": "2026-11-05 23:15",
     "em": "2026-11-09"
    },
    "novas": 0,
-   "enquadramento": "A cobertura mediática tem-se focado na discussão do orçamento da União Europeia, com ênfase nas posições de Portugal e de outros Estados-membros. António Costa e Luís Montenegro têm estado envolvidos em negociações, com críticas à proposta da presidência irlandesa e defesa de prioridades como a coesão e a política agrícola. O Quadro Financeiro Plurianual para 2028-2034 tem sido objeto de debate, com alertas sobre cortes e potenciais consequências para os países mais pequenos. O Tribunal de Contas da UE tem levantado preocupações sobre o controlo de fundos e a avaliação de resultados, enquanto a Comissão Europeia procura simplificar a gestão dos fundos. A cobertura evoluiu de discussões iniciais sobre o orçamento para propostas de novas propostas e compromissos, com foco na defesa dos interesses nacionais e na garantia de recursos adequados para as prioridades europeias."
+   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se intensamente no escrutínio do orçamento da União Europeia, com 166 notícias que abordam as negociações para o Quadro Financeiro Plurianual 2028-2034. Inicialmente, a discussão centrou-se em críticas e preocupações com cortes propostos, como a proposta de 141 mil milhões de euros (notícias 5 e 10) e a redução de 8% face à proposta da Comissão (notícia 6). Posteriormente, surgiram anúncios de novas propostas e posições negociais, como a preparação de uma nova proposta por António Costa (notícia 14) e a defesa de prioridades como a coesão e a política agrícola (notícias 3 e 15). A cobertura evoluiu também para incluir alertas sobre riscos e falhas no controlo de fundos, como os avisos do TCE (notícias 16 e 18), e para discutir a necessidade de compromissos até ao final do ano (notícias 11 e 19)."
   },
   "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
    "titulo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
@@ -9113,7 +9113,7 @@
      "data": "2026-09-16",
      "fonte": "Observador",
      "url": "https://observador.pt/opiniao/os-dois-novos-polos-na-politica-de-inteligencia-artificial/",
-     "sintese": "A notícia discute a posição da Europa no debate sobre a Inteligência Artificial, focando-se na falta de um lugar à mesa no debate sobre a IA e no AI Act, que visa dar à UE uma prerrogativa nesta área.",
+     "sintese": "Os dois novos polos na política de Inteligência Artificial — A Europa não tem um lugar à mesa no debate sobre IA, e não é o AI Act, que lhe vai dar essa prerrogativa.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -9121,71 +9121,71 @@
      "data": "2026-09-21",
      "fonte": "SAPO Tek",
      "url": "https://tek.sapo.pt/pesquisar?q=ai+act",
-     "sintese": "A notícia aborda o AI Act, destacando a transparência e as obrigações de fiscalização para as empresas, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "AI Act - Tek Sapo — A discussão sobre o AI Act e a sua implementação em Portugal, com foco na transparência e nas obrigações das empresas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-09-25",
      "fonte": "Visão",
      "url": "https://visao.pt/conteudopatrocinado/2026-09-25-a-sua-empresa-usa-ia-uma-decisao-errada-pode-valer-milhoes-em-multas/?utm_source=rss&utm_medium=rss&utm_campaign=a-sua-empresa-usa-ia-uma-decisao-errada-pode-valer-milhoes-em-multas",
-     "sintese": "A notícia menciona a E-goi a preparar um Kit prático para ajudar as empresas a cumprirem as obrigações do AI Act, mas não aborda diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "A sua empresa usa IA? Uma decisão errada pode valer milhões em multas — As obrigações de transparência do AI Act entraram em vigor há pouco mais de 1 mês e com elas as fiscalizações pelas autoridades. A E-goi prepara um Kit prático para ajudar as empresas a cumprirem as obrigações e",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-09-28",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/opiniao/o-ai-act-e-o-futuro-do-setor-segurador-em-portugal/",
-     "sintese": "A notícia aborda a transformação do setor segurador português através da IA, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "O AI Act e o futuro do Setor Segurador em Portugal — A inteligência artificial está a transformar rapidamente o setor segurador português, desde a subscrição automática de riscos até à deteção de fraude e gestão de sinistros.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-09-29",
      "fonte": "Politico Europe",
      "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "sintese": "A notícia discute a posição da UE sobre a segurança da IA e a oposição de Washington, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "EU to Trump: We will keep pushing for global AI safety rules — A posição da UE sobre a cooperação internacional em matéria de segurança da IA, liderada pela Vice-Presidente Executiva Henna Virkkunen.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-12",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/ai-act-coimas-podem-chegar-aos-35-milhoes-de-euros-e-o-primeiro-passo-e-saber-onde-a-empresa-usa-ia/",
-     "sintese": "A notícia destaca a mensagem de Henna Virkkunen sobre a IA sob orientação humana, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "AI Act: coimas podem chegar aos 35 milhões de euros e o primeiro passo é saber onde a empresa usa IA — Aumento das potenciais multas e a necessidade de identificar a utilização de IA nas empresas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-14",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/",
-     "sintese": "A notícia enfatiza a importância da transparência e da supervisão humana na IA, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "Bruxelas quer controlar riscos da IA sem perder terreno: “Confiança é a base da inovação” — A mensagem da UE sobre a importância da supervisão humana e da transparência na IA.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-22",
      "fonte": "La Vanguardia",
      "url": "https://www.lavanguardia.com/empresas-de-vanguardia/historias-de-exito/20261022/11653261/ai-act-convierte-regulacion-inteligencia-artificial-oportunidad-innovar.html",
-     "sintese": "A notícia destaca a oportunidade de inovação proporcionada pela regulamentação da IA, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "El AI Act convierte la regulación de la IA en una oportunidad para innovar — A oportunidade de inovação que o novo quadro regulamentar da IA pode oferecer às empresas.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
      "data": "2026-11-06",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/internacional/comisso-europeia-conclui-preliminarmente-que-feed-para-ti-do-tiktok-viola-a-lei-dos-servios-digitais",
-     "sintese": "A notícia discute a investigação da Comissão Europeia sobre o feed 'Para ti' do TikTok, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "Comissão Europeia conclui preliminarmente que feed 'Para ti' do TikTok viola a Lei dos Serviços Digitais — A investigação sobre a conformidade do feed 'Para ti' do TikTok com a Lei dos Serviços Digitais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-06",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/topic/lei-dos-servios-digitais",
-     "sintese": "A notícia discute a Lei dos Serviços Digitais, mas não menciona diretamente a proposta de diretiva ou o regulamento sobre o Passaporte Europeu de Segurança Social.",
+     "sintese": "Lei dos Serviços Digitais — A discussão sobre a Lei dos Serviços Digitais e a sua aplicação em plataformas digitais.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     }
@@ -9199,7 +9199,7 @@
     "em": "2026-11-09"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos seis meses, a cobertura mediática focou-se principalmente na proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e no regulamento sobre o Passaporte Europeu de Segurança Social, ambos liderados pela Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen. As notícias destacam a importância destas medidas para a integração de trabalhadores migrantes e para a proteção dos direitos dos trabalhadores, enfatizando a necessidade de transparência e segurança social. Embora não haja anúncios positivos específicos sobre estas medidas, a cobertura sublinha a sua relevância para a política social e económica da UE. A oposição de Washington à regulamentação global da IA, mencionada numa notícia, fornece um contexto adicional sobre os desafios regulatórios da UE. Nenhuma das notícias apresenta críticas diretas ao Governo português ou a estas medidas específicas."
+   "enquadramento": "Nos últimos 60 dias, a cobertura mediática tem-se focado na implementação e nos desafios do AI Act da UE, destacando a sua importância para a soberania tecnológica, a segurança e a democracia. As notícias revelam preocupações sobre a conformidade das empresas, a fiscalização das autoridades e as potenciais multas, bem como a necessidade de transparência e supervisão humana. A cobertura também inclui discussões sobre a inovação e as oportunidades que o novo quadro regulamentar pode oferecer. A Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, é mencionada em vários artigos como a responsável pela política de IA. A cobertura evoluiu de discussões iniciais sobre a implementação do AI Act para análises mais aprofundadas sobre as suas implicações e potenciais benefícios."
   }
  },
  "destaques": [
@@ -9348,7 +9348,7 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 165,
+    "n": 166,
     "n7": 6,
     "n7ant": 2,
     "dias": 60,
@@ -10313,6 +10313,12 @@
       "https://www.noticiasaominuto.com/economia/3052184/estado-da-uniao-qualquer-orcamento-moderno-precisa-de-novas-receitas-von-der-leyen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
+      "2026-09-15 17:51",
+      "RTP Notícias",
+      "Bruxelas quer mais direitos para trabalhadores móveis na UE com benefícios de seis mil ME",
+      "https://www.rtp.pt/noticias/mundo/bruxelas-quer-mais-direitos-para-trabalhadores-moveis-na-ue-com-beneficios-de-seis-mil-me_n1765595"
+     ],
+     [
       "2026-09-14 23:26",
       "Observador",
       "S. Pedro do Sul quer integrar projeto de controlo de javalis",
@@ -10381,6 +10387,8 @@
     ]
    },
    "expressoes": [
+    "Passaporte Europeu de Segurança Social",
+    "reconhecimento de qualificações",
     "Quadro Financeiro Plurianual",
     "QFP",
     "orçamento da UE",
@@ -10396,7 +10404,7 @@
    "hora": "09h00",
    "interveniente": "",
    "tipoLabel": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta) · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia sobre a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros e o regulamento sobre o Passaporte Europeu de Segurança Social.",
+   "resumo": "Audição conjunta das Comissões de Assuntos Europeus e de Economia e Coesão Territorial com a Vice-Presidente Executiva da Comissão Europeia Henna Virkkunen, responsável pela Soberania Tecnológica, Segurança e Democracia (política digital e de inteligência artificial da UE).",
    "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos\n [conjunta com a Comissão de Assuntos Europeus]",
    "orgao": "Comissão de Assuntos Europeus",
    "id_ar": 48666,
