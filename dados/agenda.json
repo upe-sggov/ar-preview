@@ -8917,100 +8917,6 @@
    "novas": 0,
    "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se na Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, com 4 notícias relacionadas com as políticas europeias de transição ecológica e competitividade industrial. A primeira notícia, de 9 de setembro, alertava para a necessidade de datacenters construírem instalações de energia limpa devido ao aumento da procura de eletricidade para IA, um tema relevante para a transição ecológica. Seguiu-se, a 14 de setembro, uma defesa das regras da UE para gigantes tecnológicos e IA, também relevante para a competitividade industrial. A 6 de outubro, Ribera anunciou cobertura legal para limitar a habitação turística, um tema de contexto para políticas regionais. Por fim, a 14 de outubro, Ribera participou numa reunião com o presidente da Generalitat, enquadrando-se no apoio a regiões com base industrial. Nenhuma das notícias apresentadas foi de natureza crítica ou polémica em relação à matéria da audiência."
   },
-  "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
-   "titulo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen",
-   "meta": "Comissões de Assuntos Europeus e de Economia e Coesão Territorial (audição conjunta) · Sala Senado · terça, 10 nov, 09h00",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-15",
-     "fonte": "La Vanguardia",
-     "url": "https://www.lavanguardia.com/economia/20260915/11635332/gigafactoria-ia-mora-nova-pondra-marcha-pierda-apoyo-ue.html",
-     "sintese": "La gigafactoría de IA en Móra la Nova se pondrá en marcha aunque pierda el apoyo de la UE — El director ejecutivo afirma que el proyecto es estratégico para la soberanía tecnológica.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "Politico Europe",
-     "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "sintese": "EU to Trump: We will keep pushing for global AI safety rules — EU tech chief Henna Virkkunen said Washington's opposition to global AI regulations won't stop Brussels from moving forward on a new international safety system.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/pais/grande-entrevista-ao-ceo-da-tekever-empresa-portuguesa-tornou-se-referencia-na-industria-dos-drones_n1770189",
-     "sintese": "Grande Entrevista ao CEO da Tekever. Empresa portuguesa tornou-se referência na indústria dos drones — Os drones da Tekever operam num dos conflitos mais decisivos do nosso tempo: a guerra da Ucrânia. Num momento em que a Europa discute a defesa, soberania tecnológica e Inteligência Artificial, a Tekever cruza-se com algumas das maiores questões do século XXI.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/noticias/computadores/artigos/entre-a-defesa-da-soberania-e-o-risco-de-isolamento/",
-     "sintese": "Entre a defesa da soberania e o risco de isolamento — Hasta dónde debe ir la defensa de la soberanía tecnológica en Europa? Rui Ribeiro avisa para la importancia de alinear conceptos y defiende que la soberanía no se garantiza prohibiendo proveedores.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/noticias/negocios/artigos/soberania-tecnologica-a-nova-urgencia-europeia/",
-     "sintese": "Soberanía tecnológica: la nueva urgencia europea — La soberanía tecnológica dejó de ser un concepto estratégico para convertirse en una prioridad política en la Unión Europea y en los Estados miembros.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-12",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/12/t-systems-celebra-o-seu-25-o-aniversario-contribuindo-para-o-desenvolvimento-digital-do-pais-e-com-o-olhar-voltado-para-a-soberania-tecnologica/",
-     "sintese": "T-Systems celebra el su 25.º aniversario, contribuyendo para el desarrollo digital del país y con el ojo puesto en la soberanía tecnológica.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-13",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/opiniao/novos-avisos-step-mais-quatro-passos-para-dinamizar-o-investimento-empresarial/",
-     "sintese": "Nuevos Avisos STEP: cuatro pasos para dinamizar el inversión empresarial — Se publicaron recientemente cuatro Avisos para la presentación de candidaturas en el contexto de la dinamización de la inversión en sectores estratégicos de la Plataforma de Tecnologías Estratégicas para Europa (STEP), como respuesta de la Unión Europea a la necesidad de reforzar la soberanía tecnológica.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-14",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/14/bruxelas-quer-controlar-riscos-da-ia-sem-perder-terreno-confianca-e-a-base-da-inovacao/",
-     "sintese": "Bruxelas quiere controlar riesgos de la IA sin perder terreno: 'La confianza es la base de la innovación' — En un contexto de creciente preocupación mundial por la seguridad de la inteligencia artificial (IA), la comisaria europea Henna Virkkunen subrayó que, para Europa, 'la IA debe permanecer bajo orientación humana'.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-26",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/26/telefonica-organiza-no-espaco-fundacao-telefonica-uma-nova-edicao-do-policy-day/",
-     "sintese": "El ministro de la Transformación Digital analiza el papel de Europa en la carrera tecnológica global y las condiciones necesarias para reforzar su competitividad, en el contexto de la publicación del paquete europeo de soberanía tecnológica y futuras regulaciones en las que trabaja la Comisión.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 9,
-    "encontradas": 9
-   },
-   "base": {
-    "ultima": "2026-10-26 07:15",
-    "em": "2026-11-08"
-   },
-   "novas": 0,
-   "enquadramento": "Nos últimos 60 dias, a cobertura mediática tem-se focado na soberania tecnológica e na Inteligência Artificial na Europa, com notícias sobre a Tekever, a T-Systems e a Comissão Europeia. A Comissão Europeia, através da Vice-Presidente Executiva Henna Virkkunen, tem sido mencionada em discussões sobre a segurança da IA e a proposta de diretiva relativa ao reconhecimento de qualificações de nacionais de países terceiros. A cobertura inclui anúncios de iniciativas para reforçar a soberania tecnológica, como os Avisos STEP, e a discussão sobre a necessidade de equilibrar a defesa da soberania com a inovação tecnológica. Não foram encontradas notícias que critiquem diretamente a matéria da audiência, mas sim que fornecem contexto sobre as prioridades tecnológicas da UE."
-  },
   "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
    "titulo": "Escrutínio de Iniciativas Europeias",
    "meta": "Grupo de Trabalho · Reunião n.º 27 · Sala Senado · terça, 10 nov, 08h30",
@@ -10527,10 +10433,11 @@
    },
    "expressoes": [
     "Henna Virkkunen",
-    "Soberania Tecnológica",
-    "Passaporte Europeu de Segurança Social"
+    "AI Act",
+    "Lei dos Serviços Digitais",
+    "gigafábricas de IA",
+    "soberania tecnológica europeia"
    ],
-   "varrimento": "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c",
    "comissoes": [
     "Comissão de Assuntos Europeus",
     "Comissão de Economia e Coesão Territorial"
