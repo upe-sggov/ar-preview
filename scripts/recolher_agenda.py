@@ -60,7 +60,9 @@ def obter_site():
     fronteira = uuid.uuid4().hex
     corpo = ''.join(f'--{fronteira}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n' for k, v in
                     (('Input.ContentIds', ','.join(ids)), ('Input.Format', 'JSON'))) + f'--{fronteira}--\r\n'
-    return converter_site(json.loads(ler(SITE + '/ContentExport?tz=Europe/Lisbon', corpo.encode(), {'XSRF-TOKEN': tok.group(1), 'Content-Type': f'multipart/form-data; boundary={fronteira}'})))
+    bruto = json.loads(ler(SITE + '/ContentExport?tz=Europe/Lisbon', corpo.encode(), {'XSRF-TOKEN': tok.group(1), 'Content-Type': f'multipart/form-data; boundary={fronteira}'}))
+    pathlib.Path('dados/site_exportacao.json').write_text(json.dumps(bruto, ensure_ascii=False, indent=1), encoding='utf-8')   # cópia tal como vem, para diagnóstico
+    return converter_site(bruto)
 
 def converter_site(lista):
     out = []
