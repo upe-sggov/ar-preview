@@ -1,147 +1,9 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-09T17:47",
+ "recolha": "2026-11-10T01:23",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48665,
-   "data": "2026-11-09",
-   "hora": "16h00",
-   "tema": "Comissão de Assuntos Europeus",
-   "orgao": "Comissão de Assuntos Europeus",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 63 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx",
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48667,
-   "data": "2026-11-09",
-   "hora": "16h00",
-   "tema": "Comissão de Economia e Coesão Territorial",
-   "orgao": "Comissão de Economia e Coesão Territorial",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 22 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicaç",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48669,
-   "data": "2026-11-09",
-   "hora": "16h00",
-   "tema": "Comissão de Ambiente e Energia",
-   "orgao": "Comissão de Ambiente e Energia",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 62 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx",
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48663,
-   "data": "2026-11-09",
-   "hora": "11h00",
-   "tema": "Audiências do Grupo Parlamentar PSD",
-   "orgao": "Audiências do Grupo Parlamentar PSD",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "11h00 – Comissão de Trabalhadores da RTP",
-   "ordemTrabalhos": "11h00 – Comissão de Trabalhadores da RTP",
-   "ligacao": "",
-   "uo": [
-    "UPE"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«rtp» (UPE)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48652,
-   "data": "2026-11-09",
-   "hora": "14h30",
-   "tema": "Audiências do Grupo Parlamentar do PCP",
-   "orgao": "Audiências do Grupo Parlamentar do PCP",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "14h30 - VIDAS Menopausa",
-   "ordemTrabalhos": "14h30 - VIDAS Menopausa",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48656,
-   "data": "2026-11-09",
-   "hora": "10h30",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n",
-   "ordemTrabalhos": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n14h30 - Um grupo de 30 alunos e professores do Agrupamento de Escolas AquaAlba, Cacém\n17h30 - Uma delegação da Comissão Europeia e Delegação\n18h30 - Um grupo de 30 alunos e professores da Sociedade de Belas Artes, Lisboa",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
   {
    "id_ar": 48672,
    "data": "2026-11-10",
@@ -464,6 +326,144 @@
    "pertinencia": "Registo",
    "criterio": [
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48656,
+   "data": "2026-11-09",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n",
+   "ordemTrabalhos": "10h30 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n10h45 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n11h15 - Um grupo de 25 alunos e professores do Colégio Guadalupe, Corroios\n14h30 - Um grupo de 30 alunos e professores do Agrupamento de Escolas AquaAlba, Cacém\n17h30 - Uma delegação da Comissão Europeia e Delegação\n18h30 - Um grupo de 30 alunos e professores da Sociedade de Belas Artes, Lisboa",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48663,
+   "data": "2026-11-09",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar PSD",
+   "orgao": "Audiências do Grupo Parlamentar PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "11h00 – Comissão de Trabalhadores da RTP",
+   "ordemTrabalhos": "11h00 – Comissão de Trabalhadores da RTP",
+   "ligacao": "",
+   "uo": [
+    "UPE"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«rtp» (UPE)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48652,
+   "data": "2026-11-09",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h30 - VIDAS Menopausa",
+   "ordemTrabalhos": "14h30 - VIDAS Menopausa",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48669,
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "tema": "Comissão de Ambiente e Energia",
+   "orgao": "Comissão de Ambiente e Energia",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 62 · Sala Senado",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n [conjunta com a Comissão de Assuntos Europeus e a Comissão de Economia e Coesão Territorial)",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48665,
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "tema": "Comissão de Assuntos Europeus",
+   "orgao": "Comissão de Assuntos Europeus",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 63 · Sala Senado",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia,\nTeresa Ribera, responsável pelo pelouro\nda Transição Limpa, Justa e Competitiva\n[conjunta com a Comissão de Economia e Coesão Territorial e a\nComissão de Ambiente e Energia]",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48667,
+   "data": "2026-11-09",
+   "hora": "16h00",
+   "tema": "Comissão de Economia e Coesão Territorial",
+   "orgao": "Comissão de Economia e Coesão Territorial",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 22 · Sala Senado",
+   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicaç",
+   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, responsável pelo pelouro da Transição Limpa, Justa e Competitiva.\n Delegação: \n Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera;\n Thomas Auger, Membro do Gabinete VPE;\n Iolanda Marmol, responsável de Comunicação, Membro do Gabinete VPE;\n Isabel Martinho, Chefe equipa política da Representação da Comissão Europeia em Portugal.\n [Audição conjunta com a Comissão de Assuntos Europeus e a Comissão de Ambiente e Energia]",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
    ],
    "validado": false
   }

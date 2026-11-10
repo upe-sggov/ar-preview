@@ -5,21 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
-UID:ar-48665@ar-preview
-DTSTAMP:20261109T175927Z
+UID:ar-48669@ar-preview
+DTSTAMP:20261110T014548Z
 DTSTART:20261109T160000Z
 DTEND:20261109T180000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
  eia\, Teresa Ribera
 LOCATION:Assembleia da República · Sala Senado
-DESCRIPTION:Comissões de Assuntos Europeus\, de Economia e Coesão Territ
- orial e de Ambiente e Energia (audição conjunta) · Sala Senado\nSínte
+DESCRIPTION:Comissões de Ambiente e Energia\, de Assuntos Europeus e de E
+ conomia e Coesão Territorial (audição conjunta) · Sala Senado\nSínte
  se: Teresa Ribera\, responsável pelo pelouro da Transição Limpa\, Just
  a e Competitiva\nPágina na AR: https://www.parlamento.pt/sites/com/XVIIL
- eg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): https:
- //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
- w/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+ eg/11CAEne/Paginas/default.aspx\nEmissões em direto (quando houver): htt
+ ps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pre
+ view/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.as
+ px
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
