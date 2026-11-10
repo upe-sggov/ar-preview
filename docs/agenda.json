@@ -81,7 +81,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:40",
+      "2026-11-10 08:41",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -1653,7 +1653,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:40",
+      "2026-11-10 08:41",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -3191,7 +3191,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:40",
+      "2026-11-10 08:41",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -4729,7 +4729,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:40",
+      "2026-11-10 08:41",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -6301,7 +6301,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:40",
+      "2026-11-10 08:41",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -7992,10 +7992,16 @@
     "novos": 0,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-10",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 1
    }
   ],
-  "atualizado": "2026-11-10T15:48+00:00",
-  "atualizadoLabel": "10 de novembro, 15h48",
+  "atualizado": "2026-11-10T23:04+00:00",
+  "atualizadoLabel": "10 de novembro, 23h04",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8084,7 +8090,7 @@
     "ultima": "2026-10-27 19:08",
     "em": "2026-11-07"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A Comissão Parlamentar de Inquérito à atuação de Luís Neves como diretor da Polícia Judiciária entre 2018 e 2026 está a ser analisada por eventuais irregularidades e responsabilidades políticas. A comissão investiga nomeações e tutelas governamentais durante os seus mandatos."
   },
   "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen": {
@@ -8465,15 +8471,15 @@
      "data": "2026-09-15",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/",
-     "sintese": "O Orçamento do Estado para 2027 é apresentado como um plano para a competitividade económica, com foco na transição de cadeias de valor e na economia para a próxima década.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "OE 2027: um Orçamento para a competitividade",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O primeiro-ministro Montenegro sublinha que o OE 2027 dá um sinal importante ao PS, embora a discussão sobre a competitividade continue.",
+     "sintese": "OE 2027. Montenegro sublinha \"sinal importante\" dado pelo PS",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -8481,157 +8487,157 @@
      "data": "2026-10-01",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "O Orçamento do Estado para 2027 é apresentado como um instrumento para promover o investimento, a habitação e a competitividade da construção.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "OE 2027 deve promover o investimento, a habitação e a competitividade da construção",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-08",
      "fonte": "Renascença",
      "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
-     "sintese": "O ministro da Segurança Social Miranda Sarmento alerta o PS para a responsabilidade reforçada no défice e o efeito negativo de um défice elevado.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "OE 2027. Miranda Sarmento avisa PS que tem \"responsabilidade reforçada\" e alerta para efeito \"muito negativo\" de défice",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-08",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
-     "sintese": "O Orçamento do Estado para 2027 prevê estagnação nos benefícios do Complemento Solidário para Idosos.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "Complemento Solidário para Idosos. OE 2027 aposta em estagnação nos beneficiários",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-08",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
-     "sintese": "O Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis no OE 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "OE 2027: Estado prevê arrecadar 3.796 ME com imposto sobre combustíveis",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
-     "data": "2026-10-09",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O partido Chega reúne o seu Conselho Nacional para analisar o OE 2027 e apresentar propostas de alteração.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "data": "2026-10-08",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/08/oe2027-ps-levanta-duvidas-sobre-duas-condicoes-para-viabilizar-chega-recusa-ser-muleta/",
+     "sintese": "OE2027. PS levanta dúvidas sobre duas condições para viabilizar, Chega recusa ser “muleta”",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-09",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O PS questiona a falta de financiamento para a construção de três novos edifícios do Hospital Eduardo Santos Silva no OE 2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "Quais as medidas do OE 2027 para os jovens?",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "Empresários consideram que falta ambição ao OE 2027, mas elogiam o equilíbrio das contas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Hospital de Gaia: PS critica Governo por ausência de financiamento no OE2027",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-12",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "O Governo destaca um aumento das transferências para a Madeira no OE 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Empresários dizem que falta ambição ao OE 2027, mas elogiam equilíbrio das contas",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "O primeiro-ministro Montenegro afirma que o OE 2027 é bom para os portugueses, respondendo às críticas sobre o aumento do custo de vida.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "Pedro Coelho destaca aumento das transferências do Estado para a Madeira no OE 2027",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/luis-montenegro-acredita-que-oe2027-e-bom-para-os-portugueses_v1774847",
-     "sintese": "Os ministérios terão mais autonomia na gestão de cativações no OE 2027, com um aumento da reserva orçamental setorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/",
-     "sintese": "Especialistas do IPP apontam a falta de informação no OE 2027 sobre políticas habitacionais e de investimento na saúde.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
-     "sintese": "O Governo reforça a autonomia dos ministérios na gestão de cativações no OE 2027, com um aumento da reserva orçamental setorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Luís Montenegro acredita que OE2027 \"é bom para os portugueses\"",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-04",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
-     "sintese": "Especialistas do IPP apontam a falta de investimento na educação, com críticas dos sindicatos de professores ao OE 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-06",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/",
-     "sintese": "O PS apresenta 180 propostas de alteração ao OE 2027, insistindo no IVA Zero no cabaz alimentar e na redução temporária do imposto sobre os produtos petrolíferos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-06",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
-     "sintese": "O Chega e o PCP apresentam mais de duas mil propostas de alteração ao OE 2027, com foco em medidas como a descida do IVA dos combustíveis e a redução da idade da reforma.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-06",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/",
-     "sintese": "O Chega insiste na descida do IVA dos combustíveis, no aumento do subsídio de refeição e no congelamento da idade da reforma no OE 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Do IRC trocado por combustíveis à descida do IRS: veja aqui algumas das mais duas mil alterações que os partidos querem fazer ao OE 2027",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-06",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
-     "sintese": "O Chega apresenta cerca de 600 propostas de alteração ao OE 2027, insistindo em medidas para reduzir o custo dos alimentos e aumentar o subsídio de refeição.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "OE 2027: Chega quer congelar idade da reforma no próximo ano",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-07",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
-     "sintese": "Mais de 2.800 propostas de alteração foram entregues ao OE 2027, com o Chega e o PCP a liderar em número de propostas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-08",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao",
+     "sintese": "OE 2027: Partidos apostam forte na habitação",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-09",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898",
+     "sintese": "Paulo Moniz entrega propostas de alteração ao OE2027",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4",
+     "sintese": "OE 2027: Portugal precisa de crescer mais e de convergir",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Cabo Verde: CFP alerta sobre OE 2027",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 244
+    "encontradas": 245
    },
    "base": {
-    "ultima": "2026-11-07 10:48",
-    "em": "2026-11-07"
+    "ultima": "2026-11-10 14:27",
+    "em": "2026-11-10"
    },
-   "novas": 7,
-   "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre competitividade, investimento, habitação e outras medidas. O debate parlamentar inclui críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia, e elogios à ambição das contas. Vários partidos apresentaram propostas de alteração, destacando medidas como o IVA Zero no cabaz alimentar e a redução do imposto sobre combustíveis. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a falta de informação sobre políticas habitacionais."
+   "novas": 0,
+   "enquadramento": "20 notícias analisadas no Radar de Notícias; enquadramento por gerar."
   },
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -9359,7 +9365,7 @@
      "data": "2026-09-14",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/economia/bruxelas-nao-pode-ceder-nas-regras-para-gigantes-tecnologicos-e-ia_n1765311",
-     "sintese": "A vice-presidente da Comissão Europeia, Teresa Ribera, defendeu que a UE deve manter as regras para gigantes tecnológicas e IA, mesmo que causem conflitos com outros países.",
+     "sintese": "A vice-presidente da Comissão Europeia Teresa Ribera defendeu que a UE deve manter regras para gigantes tecnológicos e IA, mesmo que causem conflitos com outros países.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -9367,7 +9373,15 @@
      "data": "2026-09-16",
      "fonte": "Ambiente Magazine",
      "url": "https://www.ambientemagazine.com/opiniao-nao-ha-transicao-verde-sem-as-pessoas-que-estao-no-terreno/",
-     "sintese": "Rui Nobre, Diretor-Geral Adjunto de Operações da DPD Portugal, expressou a importância de envolver as pessoas no terreno para uma transição verde eficaz nos transportes.",
+     "sintese": "Rui Nobre, Diretor-Geral Adjunto de Operações da DPD Portugal, discute a transição verde dos transportes, focando-se em veículos elétricos e na importância de envolver as pessoas no terreno.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-18",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-18-guimaraes-do-desenvolvimento-economico-aos-desafios-da-transicao-verde-b196ffec?utm_source=expresso&utm_medium=root&utm_campaign=WEB&utm_content=/iniciativaseprodutos/projetos-expresso/2026-09-18-guimaraes-do-desenvolvimento-economico-aos-desafios-da-transicao-verde-b196ffec",
+     "sintese": "Guimarães debate o desenvolvimento económico e os desafios da transição verde, com foco em políticas locais e sustentabilidade.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -9375,7 +9389,7 @@
      "data": "2026-09-25",
      "fonte": "Observador",
      "url": "https://observador.pt/programas/empresas-em-transformacao/os-desafios-da-industria-na-transicao-verde/",
-     "sintese": "Especialistas debateram os desafios da indústria na transição verde, incluindo metas para 2030 e apoios públicos.",
+     "sintese": "Especialistas discutem os desafios da indústria na transição verde, incluindo metas para 2030, risco ESG e apoios públicos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -9391,7 +9405,7 @@
      "data": "2026-10-14",
      "fonte": "La Vanguardia",
      "url": "https://www.lavanguardia.com/politica/20261014/11658549/illa-pide-ue-priorice-regiones-base-industrial-impulsar-made-in-europe.html",
-     "sintese": "O presidente da Generalitat reuniu-se com António Costa e Teresa Ribera em Bruxelas para discutir a priorização de regiões com base industrial.",
+     "sintese": "O presidente da Generalitat reuniu-se com António Costa e Teresa Ribera em Bruxelas, discutindo prioridades para regiões com base industrial.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -9399,7 +9413,7 @@
      "data": "2026-10-23",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/agefe-quer-incentivos-fiscais-para-acelerar-transicao-verde-e-digital-no-oe-2027/",
-     "sintese": "A AGEFE propõe incentivos fiscais para acelerar a transição verde e digital no Orçamento do Estado para 2027.",
+     "sintese": "A AGEFE propõe incentivos fiscais para acelerar a transição verde e digital no Orçamento do Estado para 2027, incluindo deduções para famílias e equipamentos digitais.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -9407,21 +9421,37 @@
      "data": "2026-10-23",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/agefe-propoe-incentivos-fiscais-a-transicao-verde-e-digital-no-orcamento-do-estado-para-2027/",
-     "sintese": "A AGEFE propõe incentivos fiscais para a transição verde e digital, incluindo deduções em IRS e apoios à compra de equipamentos digitais.",
+     "sintese": "A AGEFE propõe incentivos fiscais para acelerar a transição verde e digital no Orçamento do Estado para 2027, com deduções para famílias e equipamentos digitais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "El País",
+     "url": "https://cincodias.elpais.com/companias/2026-11-10/el-santander-pide-a-bruselas-cambios-regulatorios-para-atraer-inversion-privada-a-las-grandes-interconexiones-electricas.html",
+     "sintese": "O banco Santander solicita alterações regulatórias para atrair investimento privado em grandes interconexões elétricas, após uma reunião com o gabinete de Teresa Ribera.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/11/10/azul/entrevista/teresa-ribera-nao-podemos-so-dizer-familias-desculpem-dificil-2194325",
+     "sintese": "Teresa Ribera reconhece que a Europa não está preparada para a emergência climática e defende a proteção das famílias na crise energética.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
-    "analisadas": 7,
-    "encontradas": 8
+    "analisadas": 10,
+    "encontradas": 10
    },
    "base": {
-    "ultima": "2026-10-23 12:01",
+    "ultima": "2026-11-10 21:03",
     "em": "2026-11-10"
    },
-   "novas": 1,
-   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se em vários aspetos da política europeia de transição energética e competitividade industrial, com destaque para a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera. Inicialmente, a atenção centrou-se em posições políticas e regulamentares, como a defesa de regras para gigantes tecnológicas e IA (notícia 1) e a discussão sobre a transição verde nos transportes (notícia 2). Posteriormente, a cobertura expandiu-se para incluir temas como o desenvolvimento económico e os desafios da transição verde em regiões específicas (notícia 3), as metas industriais para 2030 e o risco ESG no crédito (notícia 4). Mais recentemente, a discussão aprofundou-se sobre a implementação de incentivos fiscais para acelerar a transição verde e digital (notícias 7 e 8), demonstrando um crescente interesse em medidas concretas para apoiar a transição."
+   "novas": 0,
+   "enquadramento": "Ao longo de 60 dias, a cobertura mediática focou-se principalmente em políticas europeias de transição energética e competitividade industrial, com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, como figura central. As notícias detalham estratégias para o Pacto Ecológico Europeu, financiamento da transição verde e desafios industriais. Embora algumas notícias apresentem críticas ou contextos relacionados, a maioria fornece informações relevantes sobre as posições e medidas de Ribera. Não foram reportadas notícias que questionem diretamente a sua atuação nesta matéria."
   }
  },
  "destaques": [
@@ -9496,14 +9526,20 @@
     "Transição Verde"
    ],
    "cobertura": {
-    "n": 9,
-    "n7": 1,
+    "n": 10,
+    "n7": 2,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-10",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 04:15",
+    "ultima": "2026-11-10 21:03",
     "ultimas": [
+     {
+      "data": "2026-11-10",
+      "fonte": "Público",
+      "titulo": "Teresa Ribera “Não podemos só dizer às famílias ‘desculpem, é difícil’”",
+      "url": "https://www.publico.pt/2026/11/10/azul/entrevista/teresa-ribera-nao-podemos-so-dizer-familias-desculpem-dificil-2194325"
+     },
      {
       "data": "2026-11-10",
       "fonte": "El País",
@@ -9515,15 +9551,15 @@
       "fonte": "Jornal Económico",
       "titulo": "AGEFE propõe incentivos fiscais à transição verde e digital no Orçamento do Estado para 2027",
       "url": "https://jornaleconomico.sapo.pt/noticias/agefe-propoe-incentivos-fiscais-a-transicao-verde-e-digital-no-orcamento-do-estado-para-2027/"
-     },
-     {
-      "data": "2026-10-23",
-      "fonte": "Executive Digest",
-      "titulo": "AGEFE quer incentivos fiscais para acelerar transição verde e digital no OE 2027",
-      "url": "https://executivedigest.sapo.pt/agefe-quer-incentivos-fiscais-para-acelerar-transicao-verde-e-digital-no-oe-2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-10 21:03",
+      "Público",
+      "Teresa Ribera “Não podemos só dizer às famílias ‘desculpem, é difícil’”",
+      "https://www.publico.pt/2026/11/10/azul/entrevista/teresa-ribera-nao-podemos-so-dizer-familias-desculpem-dificil-2194325"
+     ],
      [
       "2026-11-10 04:15",
       "El País",
@@ -10708,13 +10744,13 @@
       "https://observador.pt/2026/11/10/uniao-europeia-tem-de-conseguir-cortar-dependencias-arriscadas-na-tecnologia-diz-comissaria-virkkunen/"
      ],
      [
-      "2026-11-10 12:35",
+      "2026-11-10 12:36",
       "Jornal de Negócios",
       "\"Boa regulação é uma boa base para a inovação\", considera vice-presidente da Comissão Europeia",
       "https://www.jornaldenegocios.pt/empresas/web-summit/detalhe/boa-regulacao-e-uma-boa-base-para-a-inovacao-considera-vice-presidente-da-comissao-europeia"
      ],
      [
-      "2026-11-10 12:15",
+      "2026-11-10 12:16",
       "Jornal de Negócios",
       "\"Soberania não é protecionismo, mas evitar correr o risco de dependência\", diz Henna Virkkunen",
       "https://www.jornaldenegocios.pt/empresas/web-summit/detalhe/soberania-nao-e-protecionismo-mas-evitar-correr-o-risco-de-dependencia-diz-henna-virkkunen"
@@ -11066,8 +11102,8 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 120,
-    "n7": 36,
+    "n": 121,
+    "n7": 37,
     "n7ant": 9,
     "dias": 60,
     "ref": "2026-11-10",
@@ -11082,15 +11118,15 @@
      },
      {
       "data": "2026-11-10",
+      "fonte": "Healthnews",
+      "titulo": "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
+      "url": "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/#utm_source=rss&utm_medium=rss&utm_campaign=usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior"
+     },
+     {
+      "data": "2026-11-10",
       "fonte": "Observador",
       "titulo": "8h. Mau tempo. Governo aconselha população a não sair casa",
       "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2573/"
-     },
-     {
-      "data": "2026-11-09",
-      "fonte": "ECO",
-      "titulo": "Ministra da Saúde vai demitir presidente da ULS do Algarve",
-      "url": "https://eco.sapo.pt/2026/11/09/ministra-da-saude-vai-demitir-presidente-da-uls-do-algarve/"
      }
     ],
     "todas": [
@@ -11101,10 +11137,22 @@
       "https://www.dn.pt/sociedade/ministra-da-sade-demite-presidentedo-conselho-de-administraoda-uls-de-aveiro"
      ],
      [
+      "2026-11-10 12:23",
+      "Healthnews",
+      "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
+      "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/#utm_source=rss&utm_medium=rss&utm_campaign=usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior"
+     ],
+     [
       "2026-11-10 08:13",
       "Observador",
       "8h. Mau tempo. Governo aconselha população a não sair casa",
       "https://observador.pt/programas/noticiario/as-noticias-das-8h-2573/"
+     ],
+     [
+      "2026-11-09 22:27",
+      "CNN Portugal",
+      "Ministra da Saúde vai demitir o presidente do Conselho de Administração da ULS do Algarve",
+      "https://cnnportugal.iol.pt/ana-paula-martins/tiago-martins-da-silva/ministra-da-saude-vai-demitir-presidente-do-conselho-de-administracao-da-uls-do-algarve/20261109/6af2340ad34e9ce6f1b43c04"
      ],
      [
       "2026-11-09 21:50",
@@ -11135,12 +11183,6 @@
       "TSF",
       "Ministra da Saúde vai demitir presidente do conselho de administração da ULS do Algarve após mortes",
       "https://www.tsf.pt/amp/18146474/ministra-da-saude-vai-demitir-presidente-do-conselho-de-administracao-da-uls-do-algarve"
-     ],
-     [
-      "2026-11-09 20:57",
-      "CNN Portugal",
-      "Ministra da Saúde vai demitir o presidente do Conselho de Administração da ULS do Algarve",
-      "https://cnnportugal.iol.pt/ana-paula-martins/tiago-martins-da-silva/ministra-da-saude-vai-demitir-presidente-do-conselho-de-administracao-da-uls-do-algarve/20261109/6af2340ad34e9ce6f1b43c04"
      ],
      [
       "2026-11-09 20:53",
@@ -12090,14 +12132,20 @@
     "Pegada Legislativa"
    ],
    "cobertura": {
-    "n": 131,
-    "n7": 0,
+    "n": 132,
+    "n7": 1,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-10",
     "metodo": "expressoes",
-    "ultima": "2026-10-27 19:08",
+    "ultima": "2026-11-10 20:06",
     "ultimas": [
+     {
+      "data": "2026-11-10",
+      "fonte": "CNN Portugal",
+      "titulo": "Chega força audição do juiz Carlos Alexandre e de jornalistas na comissão de inquérito a Luís Neves",
+      "url": "https://cnnportugal.iol.pt/chega/carlos-alexandre/chega-forca-audicao-do-juiz-carlos-alexandre-e-de-jornalistas-na-comissao-de-inquerito-a-luis-neves/20261110/6af36696d34e9ce6f1b43dd9"
+     },
      {
       "data": "2026-10-27",
       "fonte": "CNN Portugal",
@@ -12109,15 +12157,15 @@
       "fonte": "ECO",
       "titulo": "CPI a Luís Neves aprova audição de Montenegro, Costa e Ventura, mas rejeita a de Marcelo",
       "url": "https://eco.sapo.pt/2026/10/27/cpi-a-luis-neves-aprova-audicao-de-montenegro-costa-e-ventura-mas-rejeita-a-de-marcelo/"
-     },
-     {
-      "data": "2026-10-27",
-      "fonte": "Nascer do SOL",
-      "titulo": "Comissão de inquérito a Luís Neves chama Montenegro, Costa e Ventura. Há um nome que fica de fora",
-      "url": "https://sol.iol.pt/politica/noticias/comissao-de-inquerito-a-luis-neves-chama-montenegro-costa-e-ventura-ha-um-nome-que-fica-de-fora/20261027/6ae0e2870cf299bc295439cf"
      }
     ],
     "todas": [
+     [
+      "2026-11-10 20:06",
+      "CNN Portugal",
+      "Chega força audição do juiz Carlos Alexandre e de jornalistas na comissão de inquérito a Luís Neves",
+      "https://cnnportugal.iol.pt/chega/carlos-alexandre/chega-forca-audicao-do-juiz-carlos-alexandre-e-de-jornalistas-na-comissao-de-inquerito-a-luis-neves/20261110/6af36696d34e9ce6f1b43dd9"
+     ],
      [
       "2026-10-27 19:08",
       "CNN Portugal",
@@ -13041,7 +13089,8 @@
     ]
    },
    "alterado": "2026-11-09",
-   "expressoes": []
+   "expressoes": [],
+   "retirado": "2026-11-10"
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
@@ -13085,8 +13134,8 @@
    "hora": "11h30",
    "interveniente": "",
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h30 - Um grupo de 28 cidadãos da UNICEF, Lisboa\n15h30 - Um grupo de 29 cidadãos da UNICEF, Lisboa",
-   "ordemTrabalhos": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h30 - Um grupo de 28 cidadãos da UNICEF, Lisboa\n15h30 - Um grupo de 29 cidadãos da UNICEF, Lisboa",
+   "resumo": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h00 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
+   "ordemTrabalhos": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h00 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
    "id_ar": 48659,
    "chave": "ar-48659",
@@ -13139,7 +13188,7 @@
      ]
     ]
    },
-   "alterado": "2026-11-09"
+   "alterado": "2026-11-10"
   },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",
