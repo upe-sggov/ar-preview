@@ -47,10 +47,10 @@
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
     "n": 245,
-    "n7": 23,
-    "n7ant": 17,
+    "n7": 22,
+    "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 14:27",
     "ultimas": [
@@ -1579,7 +1579,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -1619,10 +1619,10 @@
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 245,
-    "n7": 23,
-    "n7ant": 17,
+    "n7": 22,
+    "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 14:27",
     "ultimas": [
@@ -3157,10 +3157,10 @@
    "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 245,
-    "n7": 23,
-    "n7ant": 17,
+    "n7": 22,
+    "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 14:27",
     "ultimas": [
@@ -4695,10 +4695,10 @@
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 245,
-    "n7": 23,
-    "n7ant": 17,
+    "n7": 22,
+    "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 14:27",
     "ultimas": [
@@ -6227,7 +6227,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6267,10 +6267,10 @@
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 245,
-    "n7": 23,
-    "n7ant": 17,
+    "n7": 22,
+    "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 14:27",
     "ultimas": [
@@ -7799,7 +7799,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7833,7 +7833,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -7921,7 +7921,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -8000,8 +8000,8 @@
     "retirados": 1
    }
   ],
-  "atualizado": "2026-11-10T23:04+00:00",
-  "atualizadoLabel": "10 de novembro, 23h04",
+  "atualizado": "2026-11-10T23:58+00:00",
+  "atualizadoLabel": "10 de novembro, 23h58",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8653,7 +8653,7 @@
      "data": "2026-09-15",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/",
-     "sintese": "O ECO noticiou que o OE2027 pretende ser mais do que um exercício sobre receitas e despesas, focando-se na competitividade económica de Portugal para a próxima década, num contexto de reorganização de cadeias de valor e transição energética.",
+     "sintese": "O Orçamento do Estado para 2027 é apresentado como um instrumento para impulsionar a competitividade económica de Portugal, num contexto de reorganização das cadeias de valor e transição energética.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8661,15 +8661,15 @@
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O PS sublinhou que o OE2027 dá um sinal importante ao promover o investimento, a habitação e a competitividade da construção, enquanto Montenegro afirmou que é bom para os portugueses.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "O primeiro-ministro Luís Montenegro sublinha que o OE2027 representa um sinal importante dado pelo PS, procurando um equilíbrio entre as exigências políticas e as prioridades económicas.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-01",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "A CNN Portugal noticiou que o OE2027 deve promover o investimento, a habitação e a competitividade da construção, com foco na economia portuguesa.",
+     "sintese": "O Orçamento do Estado para 2027 é apontado como um instrumento para promover o investimento, a habitação e a competitividade da construção, com foco em setores estratégicos da economia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8677,7 +8677,7 @@
      "data": "2026-10-08",
      "fonte": "Renascença",
      "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
-     "sintese": "O Miranda Sarmento avisou o PS de que tem uma responsabilidade reforçada no défice e alertou para um efeito negativo caso este se concretize.",
+     "sintese": "O ministro da Segurança Social Miranda Sarmento alerta o PS para a sua responsabilidade reforçada no cumprimento das condições para a viabilização do OE2027, alertando para o efeito negativo de um défice.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8685,7 +8685,7 @@
      "data": "2026-10-08",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
-     "sintese": "O OE2027 prevê estagnação nos beneficiários do Complemento Solidário para Idosos, segundo o Diário de Notícias.",
+     "sintese": "O Orçamento do Estado para 2027 prevê uma estagnação nos benefícios do Complemento Solidário para Idosos, gerando críticas sobre a proteção social.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8693,95 +8693,63 @@
      "data": "2026-10-08",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
-     "sintese": "O Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, segundo o Executive Digest.",
+     "sintese": "O Governo estima arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, uma medida que pode ser vista como um contributo para a sustentabilidade ambiental.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-10-09",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Chega reuniu o seu Conselho Nacional para analisar o OE2027, com propostas de alteração focadas em combustíveis, redução de impostos sobre alimentos e aumento de subsídios de refeição.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "data": "2026-10-08",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/08/oe2027-ps-levanta-duvidas-sobre-duas-condicoes-para-viabilizar-chega-recusa-ser-muleta/",
+     "sintese": "O Orçamento do Estado para 2027 é alvo de críticas do PS e do Chega, que levantam dúvidas sobre a inclusão de certas condições para a sua viabilização.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-09",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O PS questionou a falta de financiamento no OE2027 para a construção de três novos edifícios do Hospital Eduardo Santos Silva, um projeto de 280 milhões de euros.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "O Orçamento do Estado para 2027 inclui medidas específicas para os jovens, como incentivos ao emprego e apoio à formação profissional.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "Empresários consideram que falta ambição ao OE2027, mas elogiam o equilíbrio das contas, segundo o Jornal de Negócios.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O Governo é acusado de não prever financiamento para a construção de um hospital em Gaia, um projeto estimado em 280 milhões de euros.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-12",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "O Pedro Coelho destacou o aumento das transferências do Estado para a Madeira no OE2027, segundo a JM Madeira.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Empresários consideram que o OE2027 carece de ambição para impulsionar o investimento e a competitividade da economia portuguesa.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "O Luís Montenegro acredita que o OE2027 é bom para os portugueses, respondendo a críticas sobre o aumento do custo de vida.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "O Governo destaca um aumento das transferências para a Madeira no Orçamento do Estado para 2027, respondendo a reivindicações regionais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/luis-montenegro-acredita-que-oe2027-e-bom-para-os-portugueses_v1774847",
-     "sintese": "A UTAO concluiu que os ministérios terão mais autonomia na gestão de cativações no OE2027, com um aumento de 150 milhões de euros na reserva orçamental setorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/",
-     "sintese": "Falta informação no OE2027 para avaliar políticas na habitação e na saúde, segundo especialistas do IPP.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
-     "sintese": "O OE2027 reforça a autonomia dos ministérios na gestão de cativações, com um aumento de 150 milhões de euros na reserva orçamental setorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-04",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
-     "sintese": "Falta investimento na Educação, segundo sindicatos de professores, que avaliam a proposta do OE2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-06",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/",
-     "sintese": "O PS apresenta 180 propostas de alteração ao OE2027, insistindo no IVA Zero no cabaz alimentar e na redução temporária do imposto sobre produtos petrolíferos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O primeiro-ministro Luís Montenegro afirma que o OE2027 é bom para os portugueses, defendendo a sua viabilidade económica e social.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
      "data": "2026-11-06",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
-     "sintese": "O Chega insiste na descida do IVA dos combustíveis, redução do IRS e aumento do subsídio de refeição, com cerca de 600 propostas de alteração ao OE2027.",
+     "sintese": "O OE2027 inclui alterações propostas por diversos partidos, incluindo a descida do IRC para combustíveis e a redução da idade da reforma.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8789,7 +8757,7 @@
      "data": "2026-11-06",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/",
-     "sintese": "O Chega quer congelar a idade da reforma no próximo ano, segundo André Ventura, que comunicou a Montenegro que as propostas sobre habitação não estão desligadas da lei das rendas.",
+     "sintese": "O Chega insiste na descida do IVA dos combustíveis, no aumento do subsídio de refeição e no congelamento da idade da reforma como condições para a viabilização do OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8797,7 +8765,7 @@
      "data": "2026-11-06",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
-     "sintese": "O Chega apresentou cerca de 600 propostas de alteração ao OE2027, com foco em combustíveis, redução de impostos sobre alimentos e aumento do subsídio de refeição.",
+     "sintese": "O Chega apresenta cerca de 600 propostas de alteração ao OE2027, defendendo medidas para a habitação e a redução do custo dos alimentos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8805,21 +8773,53 @@
      "data": "2026-11-07",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
-     "sintese": "Mais de 2.800 propostas de alteração foram entregues ao OE2027, com o Chega e o PCP a liderar em número de propostas.",
+     "sintese": "O Chega e o PCP são os partidos que mais alterações propuseram ao OE2027, com foco em temas como a habitação e a reforma.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-08",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao",
+     "sintese": "A crise da habitação domina as propostas de alteração ao OE2027, com o PSD e o CDS a defenderem a suspensão das comissões na amortização de crédito.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-09",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898",
+     "sintese": "O deputado do PSD/Açores Paulo Moniz apresenta propostas de alteração ao OE2027, focando-se em áreas fundamentais para a Região Autónoma dos Açores.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4",
+     "sintese": "O OE2027 é apresentado como um instrumento para impulsionar o crescimento económico e a convergência com a União Europeia.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O CFP de Cabo Verde emite um alerta sobre o OE2027, questionando a sua sustentabilidade e impacto económico.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 245
+    "encontradas": 244
    },
    "base": {
-    "ultima": "2026-11-07 10:48",
-    "em": "2026-11-07"
+    "ultima": "2026-11-10 14:27",
+    "em": "2026-11-11"
    },
-   "novas": 7,
-   "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares, críticas e propostas de alteração de vários partidos políticos. As notícias destacam discussões sobre competitividade, investimento, habitação e financiamento de infraestruturas como o Hospital de Gaia, enquanto alguns partidos expressam preocupações sobre a falta de informação em áreas como habitação e educação. O Governo, através de figuras como Luís Montenegro, defende que o OE2027 é favorável aos portugueses, e partidos como o Chega e o PS apresentam propostas específicas para alterar a proposta de lei. A cobertura evoluiu para incluir análises sobre a autonomia dos ministérios na gestão de cativações e a avaliação de políticas públicas."
+   "novas": 0,
+   "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas de partidos da oposição, que questionam a sua viabilidade e a inclusão de certas medidas. Embora alguns meios de comunicação tenham destacado aspetos positivos como o potencial de crescimento económico e a aposta na competitividade, a maioria das notícias enfatiza a necessidade de ajustes e a importância de cumprir condições para a viabilização do documento. A discussão sobre o OE2027 tem sido marcada por divergências sobre a habitação, o financiamento de infraestruturas e a sustentabilidade das contas públicas."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -9530,7 +9530,7 @@
     "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 21:03",
     "ultimas": [
@@ -9643,10 +9643,10 @@
    "novo": "2026-11-07",
    "cobertura": {
     "n": 160,
-    "n7": 6,
-    "n7ant": 2,
+    "n7": 3,
+    "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-09 17:00",
     "ultimas": [
@@ -10695,7 +10695,7 @@
     "n7": 10,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 13:11",
     "ultimas": [
@@ -10898,7 +10898,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -10963,7 +10963,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -10999,7 +10999,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11035,7 +11035,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11070,7 +11070,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11103,10 +11103,10 @@
    "novo": "2026-11-07",
    "cobertura": {
     "n": 121,
-    "n7": 37,
-    "n7ant": 9,
+    "n7": 29,
+    "n7ant": 17,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "2026-11-10 13:18",
     "ultimas": [
@@ -11888,7 +11888,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11996,7 +11996,7 @@
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "2026-11-06 13:09",
     "ultimas": [
@@ -12136,7 +12136,7 @@
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "expressoes",
     "ultima": "2026-11-10 20:06",
     "ultimas": [
@@ -12984,7 +12984,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13020,7 +13020,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13120,7 +13120,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13156,7 +13156,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -13218,7 +13218,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-10",
+    "ref": "2026-11-11",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
