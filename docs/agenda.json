@@ -46,7 +46,7 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 245,
+    "n": 244,
     "n7": 22,
     "n7ant": 11,
     "dias": 60,
@@ -1537,12 +1537,6 @@
       "Jornal Económico",
       "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
       "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-11 07:56",
-      "Nascer do SOL",
-      "OE 2027. Proposta minimalista neutraliza Oposição",
-      "https://sol.iol.pt/opiniao/noticias/oe-2027-proposta-minimalista-neutraliza-oposicao/20260911/6aa3a7fb0cf299bc2953c0f5"
      ]
     ]
    },
@@ -1618,7 +1612,7 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 245,
+    "n": 244,
     "n7": 22,
     "n7ant": 11,
     "dias": 60,
@@ -3109,12 +3103,6 @@
       "Jornal Económico",
       "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
       "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-11 07:56",
-      "Nascer do SOL",
-      "OE 2027. Proposta minimalista neutraliza Oposição",
-      "https://sol.iol.pt/opiniao/noticias/oe-2027-proposta-minimalista-neutraliza-oposicao/20260911/6aa3a7fb0cf299bc2953c0f5"
      ]
     ]
    },
@@ -3156,7 +3144,7 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 245,
+    "n": 244,
     "n7": 22,
     "n7ant": 11,
     "dias": 60,
@@ -4647,12 +4635,6 @@
       "Jornal Económico",
       "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
       "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-11 07:56",
-      "Nascer do SOL",
-      "OE 2027. Proposta minimalista neutraliza Oposição",
-      "https://sol.iol.pt/opiniao/noticias/oe-2027-proposta-minimalista-neutraliza-oposicao/20260911/6aa3a7fb0cf299bc2953c0f5"
      ]
     ]
    },
@@ -4694,7 +4676,7 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 245,
+    "n": 244,
     "n7": 22,
     "n7ant": 11,
     "dias": 60,
@@ -6185,12 +6167,6 @@
       "Jornal Económico",
       "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
       "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-11 07:56",
-      "Nascer do SOL",
-      "OE 2027. Proposta minimalista neutraliza Oposição",
-      "https://sol.iol.pt/opiniao/noticias/oe-2027-proposta-minimalista-neutraliza-oposicao/20260911/6aa3a7fb0cf299bc2953c0f5"
      ]
     ]
    },
@@ -6266,7 +6242,7 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 245,
+    "n": 244,
     "n7": 22,
     "n7ant": 11,
     "dias": 60,
@@ -7757,12 +7733,6 @@
       "Jornal Económico",
       "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
       "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-11 07:56",
-      "Nascer do SOL",
-      "OE 2027. Proposta minimalista neutraliza Oposição",
-      "https://sol.iol.pt/opiniao/noticias/oe-2027-proposta-minimalista-neutraliza-oposicao/20260911/6aa3a7fb0cf299bc2953c0f5"
      ]
     ]
    },
@@ -7983,12 +7953,6 @@
    },
    {
     "data": "2026-11-10",
-    "novos": 1,
-    "alterados": 0,
-    "retirados": 0
-   },
-   {
-    "data": "2026-11-10",
     "novos": 0,
     "alterados": 1,
     "retirados": 0
@@ -7998,10 +7962,16 @@
     "novos": 0,
     "alterados": 1,
     "retirados": 1
+   },
+   {
+    "data": "2026-11-11",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-10T23:58+00:00",
-  "atualizadoLabel": "10 de novembro, 23h58",
+  "atualizado": "2026-11-11T00:12+00:00",
+  "atualizadoLabel": "11 de novembro, 00h12",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8835,7 +8805,7 @@
      "data": "2026-09-15",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/",
-     "sintese": "O ECO noticiou que o OE2027 pretende ser um orçamento para a competitividade, com foco na economia da próxima década, num contexto de reorganização de cadeias de valor e transição energética.",
+     "sintese": "O Orçamento do Estado para 2027 é apresentado como um documento que visa impulsionar a competitividade económica e a transição para uma nova economia, num contexto de reorganização de cadeias de valor.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8843,7 +8813,7 @@
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O Dinheiro Vivo destacou que Montenegro sublinha um 'sinal importante' dado pelo PS, indicando um possível compromisso entre partidos no âmbito do OE2027.",
+     "sintese": "O primeiro-ministro Luís Montenegro sublinha que o OE2027 representa um sinal importante dado pelo PS, procurando um equilíbrio entre as necessidades económicas e as prioridades políticas.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -8851,7 +8821,7 @@
      "data": "2026-10-01",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "A CNN Portugal reportou que o OE2027 deve promover o investimento, a habitação e a competitividade da construção, com foco em medidas específicas para estes setores.",
+     "sintese": "O Orçamento do Estado para 2027 é apresentado como um instrumento para promover o investimento, a habitação e a competitividade da construção, com foco em setores estratégicos da economia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8859,7 +8829,7 @@
      "data": "2026-10-08",
      "fonte": "Renascença",
      "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
-     "sintese": "A Renascença noticiou que Miranda Sarmento alerta o PS para a sua 'responsabilidade reforçada' no défice, com implicações para o OE2027.",
+     "sintese": "O ministro da Segurança Social Miranda Sarmento alerta o PS para a sua responsabilidade reforçada no cumprimento das condições para a viabilização do OE2027, referindo potenciais efeitos negativos de um défice.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8867,7 +8837,7 @@
      "data": "2026-10-08",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
-     "sintese": "O Diário de Notícias reportou que o OE2027 prevê estagnação nos benefícios do Complemento Solidário para Idosos, gerando críticas do PS.",
+     "sintese": "O Orçamento do Estado para 2027 prevê uma estagnação nos benefícios do Complemento Solidário para Idosos, levantando preocupações sobre o impacto nas famílias mais vulneráveis.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8875,23 +8845,23 @@
      "data": "2026-10-08",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
-     "sintese": "A Executive Digest noticiou que o Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, uma medida prevista no OE2027.",
+     "sintese": "O Governo prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, uma medida que visa aumentar as receitas e financiar políticas públicas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-10-09",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Notícias ao Minuto reportou que o Chega reuniu o seu Conselho Nacional para analisar o OE2027, com propostas específicas para o documento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "data": "2026-10-08",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/08/oe2027-ps-levanta-duvidas-sobre-duas-condicoes-para-viabilizar-chega-recusa-ser-muleta/",
+     "sintese": "O Orçamento do Estado para 2027 levanta dúvidas no PS sobre duas condições para a sua viabilização, enquanto o Chega recusa ser visto como uma 'muleta' para o documento.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-09",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O Sábado questionou quais as medidas do OE2027 para os jovens, indicando um interesse específico neste grupo etário.",
+     "sintese": "O Orçamento do Estado para 2027 inclui medidas específicas para os jovens, como incentivos ao emprego e apoio à formação profissional.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8899,7 +8869,7 @@
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "A Healthnews criticou a ausência de financiamento no OE2027 para a construção de um hospital em Gaia, com um projeto estimado em 280 milhões de euros.",
+     "sintese": "O PS de Vila Nova de Gaia acusa o Governo de não prever financiamento para a construção de um hospital, um projeto estimado em 280 milhões de euros.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -8907,63 +8877,31 @@
      "data": "2026-10-12",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "O JN reportou que empresários consideram que falta ambição ao OE2027, mas elogiam o equilíbrio das contas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Empresários consideram que o OE2027 carece de ambição para impulsionar o crescimento económico, embora reconheçam o equilíbrio das contas públicas.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "A JM Madeira noticiou um aumento das transferências do Estado para a Madeira no OE2027, com impacto positivo para a região.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "O Governo destaca um aumento das transferências do Estado para a Madeira no OE2027, respondendo a críticas sobre a falta de financiamento para projetos regionais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/luis-montenegro-acredita-que-oe2027-e-bom-para-os-portugueses_v1774847",
-     "sintese": "O ECO concluiu que os ministérios terão mais autonomia na gestão de cativações no OE2027, com um aumento da reserva orçamental setorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/",
-     "sintese": "O Jornal de Negócios reportou que o OE2027 não permite saber quantas casas a mais o Governo vai pôr no mercado, uma falha apontada por especialistas do IPP.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado",
-     "sintese": "O Jornal Económico noticiou que falta investimento na Educação, com críticas dos sindicatos de professores sobre o OE2027.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-11-04",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/",
-     "sintese": "O Observador reportou que o PS apresentou 180 propostas de alteração ao OE2027, com foco em medidas como o IVA Zero no cabaz alimentar.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-06",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/",
-     "sintese": "O Expresso noticiou que o Chega insiste na descida do IVA dos combustíveis e na redução da idade da reforma, com cerca de 2.000 propostas de alteração ao OE2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Luís Montenegro afirma que o OE2027 é bom para os portugueses, defendendo que responde às necessidades do país e da economia.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
      "data": "2026-11-06",
      "fonte": "Expresso",
      "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
-     "sintese": "O Jornal Económico reportou que o Chega e o PCP são os partidos que mais alterações apresentaram ao OE2027, com o Chega a liderar com 712 propostas.",
+     "sintese": "O OE2027 inclui alterações propostas por diversos partidos, incluindo a descida do IRC para combustíveis e a redução da idade da reforma, visando melhorar a competitividade e o poder de compra.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8971,7 +8909,7 @@
      "data": "2026-11-06",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/",
-     "sintese": "O Observador noticiou que o Chega quer congelar a idade da reforma no próximo ano, uma das propostas orçamentais do partido sobre o OE2027.",
+     "sintese": "O Chega insiste na descida do IVA dos combustíveis e em medidas para reduzir o custo dos alimentos, como parte das suas propostas de alteração ao OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8979,7 +8917,7 @@
      "data": "2026-11-06",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
-     "sintese": "O Jornal de Negócios reportou que mais de 2.800 propostas de alteração foram entregues ao OE2027, com o Chega à frente em número de propostas.",
+     "sintese": "O Chega apresenta cerca de 600 propostas de alteração ao OE2027, com foco em medidas para a habitação e o aumento do subsídio de refeição.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -8987,21 +8925,53 @@
      "data": "2026-11-07",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente",
-     "sintese": "O Jornal Económico noticiou que o Chega insiste em medidas para reduzir o custo dos alimentos e aumentar o subsídio de refeição, como parte das suas propostas de alteração ao OE2027.",
+     "sintese": "O Chega e o PCP são os partidos que mais alterações propuseram ao OE2027, com o partido liderado por Ventura a insistir em medidas para a habitação e a convergência da reforma.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-08",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao",
+     "sintese": "A crise da habitação domina as propostas de alteração ao OE2027, com PSD e CDS a proporem a suspensão das comissões na amortização de crédito.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-09",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898",
+     "sintese": "Paulo Moniz, deputado do PSD/Açores, apresenta propostas de alteração ao OE2027 focadas em áreas fundamentais para a Região Autónoma dos Açores.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4",
+     "sintese": "O OE2027 é apresentado como um documento que visa impulsionar o crescimento económico e a convergência com a União Europeia.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-10",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O CFP de Cabo Verde emite um alerta sobre o OE2027, considerando que este pode não ser suficiente para atingir os objetivos de desenvolvimento económico e social.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 245
+    "encontradas": 244
    },
    "base": {
-    "ultima": "2026-11-07 10:48",
-    "em": "2026-11-07"
+    "ultima": "2026-11-10 14:27",
+    "em": "2026-11-11"
    },
-   "novas": 7,
-   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares e análises políticas, com destaque para temas como competitividade económica, investimento na habitação e alterações fiscais. As notícias revelam críticas de partidos como o PS e o Chega, que apontam falhas na informação sobre habitação e combustíveis, e elogiam o equilíbrio das contas por parte de empresários. O documento apresenta propostas de alteração de mais de 2.800 partidos, com o Chega a liderar em número de propostas. A cobertura evolui com discussões sobre a autonomia dos ministérios na gestão de cativações e a falta de financiamento para projetos de saúde e educação."
+   "novas": 0,
+   "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas sobre as medidas propostas, com foco em áreas como competitividade, habitação e financiamento de infraestruturas. Os partidos da oposição, como o PS e o Chega, têm levantado preocupações sobre o cumprimento de condições para a viabilização do documento, enquanto o Governo defende a sua adequação. A discussão inclui propostas de alteração que visam a melhoria de políticas públicas, como a habitação e o investimento, e a análise de potenciais impactos económicos. A cobertura evoluiu para incluir análises de especialistas e empresários sobre a ambição e o equilíbrio financeiro do OE2027."
   },
   "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
    "titulo": "Escrutínio de Iniciativas Europeias",
@@ -9502,7 +9472,7 @@
     48665,
     48667
    ],
-   "novo": "2026-11-10",
+   "novo": "2026-11-07",
    "tituloRegras": true,
    "amalia": {
     "assunto": "Transição Limpa, Justa e Competitiva",
@@ -9642,7 +9612,7 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 160,
+    "n": 159,
     "n7": 3,
     "n7ant": 5,
     "dias": 60,
@@ -10623,12 +10593,6 @@
       "Observador",
       "S. Pedro do Sul quer integrar projeto de controlo de javalis",
       "https://observador.pt/2026/09/14/sao-pedro-do-sul-quer-integrar-projeto-piloto-para-controlo-de-javalis/"
-     ],
-     [
-      "2026-09-11 08:51",
-      "Notícias ao Minuto",
-      "Costa revela \"muito boa reunião\" com Montenegro sobre orçamento da UE",
-      "https://www.noticiasaominuto.com/mundo/3049769/costa-revela-muito-boa-reuniao-com-montenegro-sobre-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
@@ -11013,8 +10977,8 @@
    "hora": "10h00",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR)\n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais ",
-   "ordemTrabalhos": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR)\n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais da Informação e Documentação",
+   "resumo": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR) \n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais",
+   "ordemTrabalhos": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR) \n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais da Informação e Documentação",
    "orgao": "Audiências do Grupo Parlamentar do PSD",
    "id_ar": 48682,
    "chave": "ar-48682",
@@ -11040,7 +11004,8 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "alterado": "2026-11-11"
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
@@ -12132,7 +12097,7 @@
     "Pegada Legislativa"
    ],
    "cobertura": {
-    "n": 132,
+    "n": 131,
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
@@ -12945,12 +12910,6 @@
       "Jornal Económico",
       "Transparência não verificou todas as declarações de interesses e rendimentos do atual Governo",
       "https://jornaleconomico.sapo.pt/noticias/transparencia-nao-verificou-todas-as-declaracoes-de-interesses-e-rendimentos-do-atual-governo/"
-     ],
-     [
-      "2026-09-11 17:45",
-      "Notícias ao Minuto",
-      "JPP também quer comissão de inquérito à gestão de Luís Neves na PJ",
-      "https://www.noticiasaominuto.com/pais/3050111/jpp-requer-inquerito-parlamentar-sobre-atuacao-de-luis-neves-enquanto-diretor-da-pj#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
