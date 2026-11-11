@@ -167,9 +167,12 @@ else:
     vistos, itens, n_novo, n_alt = set(), [], 0, 0
     for x in novos_itens:
         a = antigos.get(x['chave'])
+        if not a:   # audição conjunta cuja entrada principal passou a ser outra comissão: é a mesma reunião
+            a = next((antigos[f'ar-{i}'] for i in (x.get('ids_ar') or []) if f'ar-{i}' in antigos), None)
         if a:
-            vistos.add(x['chave'])
+            vistos.add(x['chave']); vistos.add(a.get('chave') or chave(a))
             y = dict(a); y.pop('retirado', None)
+            y['chave'], y['id_ar'] = x['chave'], x.get('id_ar')
             if not a.get('validado') and not a.get('amalia'):   # sem revisão humana nem Amália: as regras (atualizadas) voltam a classificar
                 y['uo'], y['pertinencia'], y['criterio'] = x['uo'], x['pertinencia'], x.get('criterio', [])
             elif not a.get('validado'):   # vista pelo Amália: prioridade sempre pelas regras; unidade das regras, ou a do Amália se as regras não derem nenhuma

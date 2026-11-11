@@ -7983,12 +7983,6 @@
    },
    {
     "data": "2026-11-10",
-    "novos": 1,
-    "alterados": 0,
-    "retirados": 0
-   },
-   {
-    "data": "2026-11-10",
     "novos": 0,
     "alterados": 1,
     "retirados": 0
@@ -9502,7 +9496,7 @@
     48665,
     48667
    ],
-   "novo": "2026-11-10",
+   "novo": "2026-11-07",
    "tituloRegras": true,
    "amalia": {
     "assunto": "Transição Limpa, Justa e Competitiva",
