@@ -46,14 +46,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 244,
-    "n7": 22,
+    "n": 247,
+    "n7": 23,
     "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 14:27",
+    "ultima": "2026-11-11 17:42",
     "ultimas": [
+     {
+      "data": "2026-11-11",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     },
      {
       "data": "2026-11-10",
       "fonte": "Notícias ao Minuto",
@@ -65,15 +71,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Expresso",
-      "titulo": "OE 2027: Portugal precisa de crescer mais e de convergir",
-      "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 17:42",
+      "Jornal de Negócios",
+      "OE 2027: na saúde, previsibilidade também é eficiência",
+      "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     ],
      [
       "2026-11-10 14:27",
       "Notícias ao Minuto",
@@ -219,6 +225,12 @@
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
      ],
      [
+      "2026-11-03 21:08",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
       "2026-11-03 13:39",
       "Jornal Económico",
       "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
@@ -231,7 +243,13 @@
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
      ],
      [
-      "2026-11-03 07:09",
+      "2026-11-03 07:18",
+      "Healthnews",
+      "Cheques de psicologia e nutrição mantêm-se em 2027",
+      "https://healthnews.pt/2026/11/03/cheques-de-psicologia-e-nutricao-mantem-se-em-2027/#utm_source=rss&utm_medium=rss&utm_campaign=cheques-de-psicologia-e-nutricao-mantem-se-em-2027"
+     ],
+     [
+      "2026-11-03 07:07",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -1573,7 +1591,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -1612,14 +1630,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 244,
-    "n7": 22,
+    "n": 247,
+    "n7": 23,
     "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 14:27",
+    "ultima": "2026-11-11 17:42",
     "ultimas": [
+     {
+      "data": "2026-11-11",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     },
      {
       "data": "2026-11-10",
       "fonte": "Notícias ao Minuto",
@@ -1631,15 +1655,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Expresso",
-      "titulo": "OE 2027: Portugal precisa de crescer mais e de convergir",
-      "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 17:42",
+      "Jornal de Negócios",
+      "OE 2027: na saúde, previsibilidade também é eficiência",
+      "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     ],
      [
       "2026-11-10 14:27",
       "Notícias ao Minuto",
@@ -1785,6 +1809,12 @@
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
      ],
      [
+      "2026-11-03 21:08",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
       "2026-11-03 13:39",
       "Jornal Económico",
       "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
@@ -1797,7 +1827,13 @@
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
      ],
      [
-      "2026-11-03 07:09",
+      "2026-11-03 07:18",
+      "Healthnews",
+      "Cheques de psicologia e nutrição mantêm-se em 2027",
+      "https://healthnews.pt/2026/11/03/cheques-de-psicologia-e-nutricao-mantem-se-em-2027/#utm_source=rss&utm_medium=rss&utm_campaign=cheques-de-psicologia-e-nutricao-mantem-se-em-2027"
+     ],
+     [
+      "2026-11-03 07:07",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -3144,14 +3180,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 244,
-    "n7": 22,
+    "n": 247,
+    "n7": 23,
     "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 14:27",
+    "ultima": "2026-11-11 17:42",
     "ultimas": [
+     {
+      "data": "2026-11-11",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     },
      {
       "data": "2026-11-10",
       "fonte": "Notícias ao Minuto",
@@ -3163,15 +3205,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Expresso",
-      "titulo": "OE 2027: Portugal precisa de crescer mais e de convergir",
-      "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 17:42",
+      "Jornal de Negócios",
+      "OE 2027: na saúde, previsibilidade também é eficiência",
+      "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     ],
      [
       "2026-11-10 14:27",
       "Notícias ao Minuto",
@@ -3317,6 +3359,12 @@
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
      ],
      [
+      "2026-11-03 21:08",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
       "2026-11-03 13:39",
       "Jornal Económico",
       "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
@@ -3329,7 +3377,13 @@
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
      ],
      [
-      "2026-11-03 07:09",
+      "2026-11-03 07:18",
+      "Healthnews",
+      "Cheques de psicologia e nutrição mantêm-se em 2027",
+      "https://healthnews.pt/2026/11/03/cheques-de-psicologia-e-nutricao-mantem-se-em-2027/#utm_source=rss&utm_medium=rss&utm_campaign=cheques-de-psicologia-e-nutricao-mantem-se-em-2027"
+     ],
+     [
+      "2026-11-03 07:07",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -4676,14 +4730,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 244,
-    "n7": 22,
+    "n": 247,
+    "n7": 23,
     "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 14:27",
+    "ultima": "2026-11-11 17:42",
     "ultimas": [
+     {
+      "data": "2026-11-11",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     },
      {
       "data": "2026-11-10",
       "fonte": "Notícias ao Minuto",
@@ -4695,15 +4755,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Expresso",
-      "titulo": "OE 2027: Portugal precisa de crescer mais e de convergir",
-      "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 17:42",
+      "Jornal de Negócios",
+      "OE 2027: na saúde, previsibilidade também é eficiência",
+      "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     ],
      [
       "2026-11-10 14:27",
       "Notícias ao Minuto",
@@ -4849,6 +4909,12 @@
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
      ],
      [
+      "2026-11-03 21:08",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
       "2026-11-03 13:39",
       "Jornal Económico",
       "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
@@ -4861,7 +4927,13 @@
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
      ],
      [
-      "2026-11-03 07:09",
+      "2026-11-03 07:18",
+      "Healthnews",
+      "Cheques de psicologia e nutrição mantêm-se em 2027",
+      "https://healthnews.pt/2026/11/03/cheques-de-psicologia-e-nutricao-mantem-se-em-2027/#utm_source=rss&utm_medium=rss&utm_campaign=cheques-de-psicologia-e-nutricao-mantem-se-em-2027"
+     ],
+     [
+      "2026-11-03 07:07",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -6203,7 +6275,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6242,14 +6314,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 244,
-    "n7": 22,
+    "n": 247,
+    "n7": 23,
     "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 14:27",
+    "ultima": "2026-11-11 17:42",
     "ultimas": [
+     {
+      "data": "2026-11-11",
+      "fonte": "Jornal de Negócios",
+      "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     },
      {
       "data": "2026-11-10",
       "fonte": "Notícias ao Minuto",
@@ -6261,15 +6339,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Expresso",
-      "titulo": "OE 2027: Portugal precisa de crescer mais e de convergir",
-      "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 17:42",
+      "Jornal de Negócios",
+      "OE 2027: na saúde, previsibilidade também é eficiência",
+      "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
+     ],
      [
       "2026-11-10 14:27",
       "Notícias ao Minuto",
@@ -6415,6 +6493,12 @@
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-nao-permite-saber-quantas-casas-a-mais-o-governo-vai-por-no-mercado"
      ],
      [
+      "2026-11-03 21:08",
+      "ECO",
+      "Anafre suspende protesto que previa encerramento de freguesias na quarta-feira",
+      "https://eco.sapo.pt/2026/11/03/anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira/"
+     ],
+     [
       "2026-11-03 13:39",
       "Jornal Económico",
       "Água para sul do Tejo pode passar por ponte 25 de Abril, refere ministra do Ambiente",
@@ -6427,7 +6511,13 @@
       "https://jornaleconomico.sapo.pt/noticias/apoio-na-compra-de-carros-eletricos-para-mais-carenciados-pode-chegar-a-15-mil-euros-afirma-ministra/"
      ],
      [
-      "2026-11-03 07:09",
+      "2026-11-03 07:18",
+      "Healthnews",
+      "Cheques de psicologia e nutrição mantêm-se em 2027",
+      "https://healthnews.pt/2026/11/03/cheques-de-psicologia-e-nutricao-mantem-se-em-2027/#utm_source=rss&utm_medium=rss&utm_campaign=cheques-de-psicologia-e-nutricao-mantem-se-em-2027"
+     ],
+     [
+      "2026-11-03 07:07",
       "ECO",
       "Ministérios vão ter mais autonomia na gestão das cativações no OE2027, conclui UTAO",
       "https://eco.sapo.pt/2026/11/03/ministerios-vao-ter-mais-autonomia-na-gestao-das-cativacoes-no-oe2027-conclui-utao/"
@@ -7769,7 +7859,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7803,7 +7893,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -7891,7 +7981,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7970,8 +8060,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-11T00:12+00:00",
-  "atualizadoLabel": "11 de novembro, 00h12",
+  "atualizado": "2026-11-12T00:22+00:00",
+  "atualizadoLabel": "12 de novembro, 00h22",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8242,7 +8332,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e análises económicas, com críticas sobre a falta de investimento em áreas como a educação e a saúde, e elogios ao equilíbrio das contas públicas. Os partidos da oposição têm levantado preocupações sobre o cumprimento de condições para a viabilização do orçamento, enquanto o Governo defende a sua viabilidade e ambição. A discussão sobre a competitividade, o investimento e a habitação tem sido um tema central, com propostas de alteração que visam melhorar a eficiência económica e a qualidade de vida. A cobertura tem evoluído para incluir análises sobre o impacto do orçamento em diferentes setores da economia e a sua capacidade de promover o crescimento e a convergência."
   },
   "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8424,7 +8514,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre competitividade, investimento, habitação e financiamento de infraestruturas. Os partidos da oposição expressaram preocupações sobre o cumprimento de condições para a viabilização do documento, enquanto o Governo enfatizou a sua adequação e benefícios para os portugueses. A cobertura inclui críticas sobre a falta de investimento em áreas como a Educação e a saúde, bem como propostas de alteração que visam melhorar a eficiência e a equidade. O debate parlamentar tem sido marcado por posições divergentes sobre a viabilidade e o impacto do Orçamento, com o PS a defender a estabilidade política e a oposição a levantar questões sobre a sua eficácia."
   },
   "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8606,7 +8696,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "20 notícias analisadas no Radar de Notícias; enquadramento por gerar."
   },
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8788,7 +8878,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-11"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas de partidos da oposição, que questionam a sua viabilidade e a inclusão de certas medidas. Embora alguns meios de comunicação tenham destacado aspetos positivos como o potencial de crescimento económico e a aposta na competitividade, a maioria das notícias enfatiza a necessidade de ajustes e a importância de cumprir condições para a viabilização do documento. A discussão sobre o OE2027 tem sido marcada por divergências sobre a habitação, o financiamento de infraestruturas e a sustentabilidade das contas públicas."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8970,7 +9060,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-11"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas sobre as medidas propostas, com foco em áreas como competitividade, habitação e financiamento de infraestruturas. Os partidos da oposição, como o PS e o Chega, têm levantado preocupações sobre o cumprimento de condições para a viabilização do documento, enquanto o Governo defende a sua adequação. A discussão inclui propostas de alteração que visam a melhoria de políticas públicas, como a habitação e o investimento, e a análise de potenciais impactos económicos. A cobertura evoluiu para incluir análises de especialistas e empresários sobre a ambição e o equilíbrio financeiro do OE2027."
   },
   "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
@@ -9152,7 +9242,7 @@
     "ultima": "2026-11-05 23:15",
     "em": "2026-11-09"
    },
-   "novas": 1,
+   "novas": 9,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se intensamente no escrutínio do orçamento da União Europeia, com 166 notícias que abordam as negociações para o Quadro Financeiro Plurianual 2028-2034. Inicialmente, a discussão centrou-se em críticas e preocupações com cortes propostos, como a proposta de 141 mil milhões de euros (notícias 5 e 10) e a redução de 8% face à proposta da Comissão (notícia 6). Posteriormente, surgiram anúncios de novas propostas e posições negociais, como a preparação de uma nova proposta por António Costa (notícia 14) e a defesa de prioridades como a coesão e a política agrícola (notícias 3 e 15). A cobertura evoluiu também para incluir alertas sobre riscos e falhas no controlo de fundos, como os avisos do TCE (notícias 16 e 18), e para discutir a necessidade de compromissos até ao final do ano (notícias 11 e 19)."
   },
   "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
@@ -9420,7 +9510,7 @@
     "ultima": "2026-11-10 21:03",
     "em": "2026-11-10"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "Ao longo de 60 dias, a cobertura mediática focou-se principalmente em políticas europeias de transição energética e competitividade industrial, com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, como figura central. As notícias detalham estratégias para o Pacto Ecológico Europeu, financiamento da transição verde e desafios industriais. Embora algumas notícias apresentem críticas ou contextos relacionados, a maioria fornece informações relevantes sobre as posições e medidas de Ribera. Não foram reportadas notícias que questionem diretamente a sua atuação nesta matéria."
   }
  },
@@ -9500,15 +9590,15 @@
     "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 21:03",
+    "ultima": "2026-11-11 07:20",
     "ultimas": [
      {
-      "data": "2026-11-10",
+      "data": "2026-11-11",
       "fonte": "Público",
       "titulo": "Teresa Ribera “Não podemos só dizer às famílias ‘desculpem, é difícil’”",
-      "url": "https://www.publico.pt/2026/11/10/azul/entrevista/teresa-ribera-nao-podemos-so-dizer-familias-desculpem-dificil-2194325"
+      "url": "https://www.publico.pt/primeira-hora/noticia/2194325"
      },
      {
       "data": "2026-11-10",
@@ -9525,10 +9615,10 @@
     ],
     "todas": [
      [
-      "2026-11-10 21:03",
+      "2026-11-11 07:20",
       "Público",
       "Teresa Ribera “Não podemos só dizer às famílias ‘desculpem, é difícil’”",
-      "https://www.publico.pt/2026/11/10/azul/entrevista/teresa-ribera-nao-podemos-so-dizer-familias-desculpem-dificil-2194325"
+      "https://www.publico.pt/primeira-hora/noticia/2194325"
      ],
      [
       "2026-11-10 04:15",
@@ -9612,34 +9702,82 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 159,
-    "n7": 3,
-    "n7ant": 5,
+    "n": 167,
+    "n7": 9,
+    "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-09 17:00",
+    "ultima": "2026-11-11 16:47",
     "ultimas": [
      {
-      "data": "2026-11-09",
-      "fonte": "CNN Portugal",
-      "titulo": "Sem acordo na ajuda à Ucrânia não há apoio ao orçamento da UE: Alemanha faz aviso a Costa",
-      "url": "https://cnnportugal.iol.pt/ucrania/russia/sem-acordo-na-ajuda-a-ucrania-nao-ha-apoio-ao-orcamento-da-ue-alemanha-faz-aviso-a-costa/20261109/6af1fa7ad34e5a653d733832"
+      "data": "2026-11-11",
+      "fonte": "Açoriano Oriental",
+      "titulo": "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
+      "url": "https://www.acorianooriental.pt/noticia/costa-preve-apresentar-nova-proposta-de-orcamento-da-ue-em-21-de-novembro-381952"
      },
      {
-      "data": "2026-11-05",
+      "data": "2026-11-11",
       "fonte": "Jornal de Negócios",
-      "titulo": "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano"
+      "titulo": "António Costa deve fazer nova proposta de orçamento da UE em 21 de novembro",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-deve-fazer-nova-proposta-de-orcamento-da-ue-em-21-de-novembro"
      },
      {
-      "data": "2026-11-05",
-      "fonte": "RTP Notícias",
-      "titulo": "Kallas acredita em compromisso sobre orçamento da UE ainda este ano",
-      "url": "https://www.rtp.pt/noticias/economia/kallas-acredita-em-compromisso-sobre-orcamento-da-ue-ainda-este-ano_n1777236"
+      "data": "2026-11-11",
+      "fonte": "Diário de Notícias",
+      "titulo": "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
+      "url": "https://www.dn.pt/economia/costa-prev-apresentar-nova-proposta-de-oramento-da-ue-em-21-de-novembro"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 16:47",
+      "Açoriano Oriental",
+      "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
+      "https://www.acorianooriental.pt/noticia/costa-preve-apresentar-nova-proposta-de-orcamento-da-ue-em-21-de-novembro-381952"
+     ],
+     [
+      "2026-11-11 11:43",
+      "Jornal de Negócios",
+      "António Costa deve fazer nova proposta de orçamento da UE em 21 de novembro",
+      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-deve-fazer-nova-proposta-de-orcamento-da-ue-em-21-de-novembro"
+     ],
+     [
+      "2026-11-11 11:21",
+      "Diário de Notícias",
+      "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
+      "https://www.dn.pt/economia/costa-prev-apresentar-nova-proposta-de-oramento-da-ue-em-21-de-novembro"
+     ],
+     [
+      "2026-11-11 10:56",
+      "Notícias ao Minuto",
+      "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
+      "https://www.noticiasaominuto.com/mundo/3082312/costa-preve-apresentar-nova-proposta-de-orcamento-da-ue-em-21-de-novembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-11 10:38",
+      "Jornal de Negócios",
+      "Conselho e Parlamento fecham acordo sobre orçamento da UE. São 199 mil milhões no próximo ano",
+      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/conselho-e-parlamento-fecham-acordo-sobre-orcamento-da-ue-sao-199-mil-milhoes-no-proximo-ano"
+     ],
+     [
+      "2026-11-11 09:58",
+      "Jornal Económico",
+      "Conselho e Parlamento chegam a acordo sobre orçamento da UE para 2027 de 199,7 mil milhões de euros",
+      "https://jornaleconomico.sapo.pt/noticias/conselho-e-parlamento-chegam-a-acordo-sobre-orcamento-da-ue-para-2027-de-1997-mil-milhoes-de-euros/"
+     ],
+     [
+      "2026-11-11 08:16",
+      "Executive Digest",
+      "Conselho e Parlamento chegam a acordo sobre orçamento da UE para 2027 de 199,7 mil ME",
+      "https://executivedigest.sapo.pt/conselho-e-parlamento-chegam-a-acordo-sobre-orcamento-da-ue-para-2027-de-1997-mil-me/"
+     ],
+     [
+      "2026-11-11 08:03",
+      "ECO",
+      "Conselho e Parlamento Europeu chegam a acordo sobre orçamento da UE para 2027 de 199,7 mil milhões de euros",
+      "https://eco.sapo.pt/2026/11/11/conselho-e-parlamento-europeu-chegam-a-acordo-sobre-orcamento-da-ue-para-2027-de-1997-mil-milhoes-de-euros/"
+     ],
      [
       "2026-11-09 17:00",
       "CNN Portugal",
@@ -10659,7 +10797,7 @@
     "n7": 10,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
     "ultima": "2026-11-10 13:11",
     "ultimas": [
@@ -10708,13 +10846,13 @@
       "https://observador.pt/2026/11/10/uniao-europeia-tem-de-conseguir-cortar-dependencias-arriscadas-na-tecnologia-diz-comissaria-virkkunen/"
      ],
      [
-      "2026-11-10 12:36",
+      "2026-11-10 12:35",
       "Jornal de Negócios",
       "\"Boa regulação é uma boa base para a inovação\", considera vice-presidente da Comissão Europeia",
       "https://www.jornaldenegocios.pt/empresas/web-summit/detalhe/boa-regulacao-e-uma-boa-base-para-a-inovacao-considera-vice-presidente-da-comissao-europeia"
      ],
      [
-      "2026-11-10 12:16",
+      "2026-11-10 12:15",
       "Jornal de Negócios",
       "\"Soberania não é protecionismo, mas evitar correr o risco de dependência\", diz Henna Virkkunen",
       "https://www.jornaldenegocios.pt/empresas/web-summit/detalhe/soberania-nao-e-protecionismo-mas-evitar-correr-o-risco-de-dependencia-diz-henna-virkkunen"
@@ -10862,7 +11000,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -10927,7 +11065,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -10963,7 +11101,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -10999,7 +11137,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11035,7 +11173,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11071,41 +11209,47 @@
     "n7": 29,
     "n7ant": 17,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
-    "ultima": "2026-11-10 13:18",
+    "ultima": "2026-11-11 07:58",
     "ultimas": [
      {
-      "data": "2026-11-10",
-      "fonte": "Diário de Notícias",
-      "titulo": "Ministra da Saúde demite presidente do Conselho de Administração da ULS de Aveiro",
-      "url": "https://www.dn.pt/sociedade/ministra-da-sade-demite-presidentedo-conselho-de-administraoda-uls-de-aveiro"
+      "data": "2026-11-11",
+      "fonte": "Observador",
+      "titulo": "Mau tempo. Transtejo Soflusa \"não prevê alteração da oferta\"",
+      "url": "https://observador.pt/programas/resposta-pronta/mau-tempo-transtejo-soflusa-nao-preve-alteracao-da-oferta/"
      },
      {
       "data": "2026-11-10",
       "fonte": "Healthnews",
       "titulo": "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
-      "url": "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/#utm_source=rss&utm_medium=rss&utm_campaign=usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior"
+      "url": "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/"
      },
      {
       "data": "2026-11-10",
-      "fonte": "Observador",
-      "titulo": "8h. Mau tempo. Governo aconselha população a não sair casa",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2573/"
+      "fonte": "Diário de Notícias",
+      "titulo": "Ministra da Saúde demite presidente do Conselho de Administração da ULS de Aveiro",
+      "url": "https://www.dn.pt/sociedade/ministra-da-sade-demite-presidentedo-conselho-de-administraoda-uls-de-aveiro"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 07:58",
+      "Observador",
+      "Mau tempo. Transtejo Soflusa \"não prevê alteração da oferta\"",
+      "https://observador.pt/programas/resposta-pronta/mau-tempo-transtejo-soflusa-nao-preve-alteracao-da-oferta/"
+     ],
+     [
+      "2026-11-10 14:16",
+      "Healthnews",
+      "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
+      "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/"
+     ],
      [
       "2026-11-10 13:18",
       "Diário de Notícias",
       "Ministra da Saúde demite presidente do Conselho de Administração da ULS de Aveiro",
       "https://www.dn.pt/sociedade/ministra-da-sade-demite-presidentedo-conselho-de-administraoda-uls-de-aveiro"
-     ],
-     [
-      "2026-11-10 12:23",
-      "Healthnews",
-      "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
-      "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/#utm_source=rss&utm_medium=rss&utm_campaign=usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior"
      ],
      [
       "2026-11-10 08:13",
@@ -11330,13 +11474,7 @@
       "https://www.rtp.pt/noticias/economia/ctt-iniciam-processo-de-venda-de-posicao-de-controlo-no-banco-ctt_n1776675"
      ],
      [
-      "2026-11-03 22:10",
-      "Diário de Notícias da Madeira",
-      "CTT iniciam processo de venda de posição de controlo no Banco CTT",
-      "https://www.dnoticias.pt/2026/11/3/511519-ctt-iniciam-processo-de-venda-de-posicao-de-controlo-no-banco-ctt/"
-     ],
-     [
-      "2026-11-03 10:29",
+      "2026-11-03 10:28",
       "Jornal de Negócios",
       "Afinal, Portugal Gaspar não vai para a Concorrência. Vai presidir ao Instituto Português da Qualidade",
       "https://www.jornaldenegocios.pt/economia/detalhe/afinal-portugal-gaspar-nao-vai-para-a-concorrencia-vai-presidir-ao-instituto-portugues-da-qualidade"
@@ -11853,7 +11991,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11961,7 +12099,7 @@
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "2026-11-06 13:09",
     "ultimas": [
@@ -12101,7 +12239,7 @@
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "expressoes",
     "ultima": "2026-11-10 20:06",
     "ultimas": [
@@ -12943,7 +13081,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12979,7 +13117,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13079,7 +13217,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13115,7 +13253,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -13177,7 +13315,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-11",
+    "ref": "2026-11-12",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [

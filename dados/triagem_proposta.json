@@ -1,30 +1,9 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-11T00:12",
+ "recolha": "2026-11-12T00:22",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48662,
-   "data": "2026-11-11",
-   "hora": "13h30",
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
-   "ordemTrabalhos": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
   {
    "id_ar": 48645,
    "data": "2026-11-12",
@@ -89,50 +68,8 @@
    "validado": false
   },
   {
-   "id_ar": 48657,
-   "data": "2026-11-10",
-   "hora": "",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "14h30 - Um grupo de 24 alunos e professores da Escola Profissional de hotelaria e Turismo de Lisboa\n15h00 - Um grupo de 30 alunos e professores da Escola Básica Vale de Pedras, Albufeira",
-   "ordemTrabalhos": "14h30 - Um grupo de 24 alunos e professores da Escola Profissional de hotelaria e Turismo de Lisboa\n15h00 - Um grupo de 30 alunos e professores da Escola Básica Vale de Pedras, Albufeira",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48508,
-   "data": "2026-11-10",
-   "hora": "",
-   "tema": "Audiências do Grupo Parlamentar do PCP",
-   "orgao": "Audiências do Grupo Parlamentar do PCP",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "16h00 – Associação Cannabis CEE",
-   "ordemTrabalhos": "16h00 – Associação Cannabis CEE",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48642,
-   "data": "2026-11-10",
+   "id_ar": 48662,
+   "data": "2026-11-11",
    "hora": "",
    "tema": "Audiências do Grupo Parlamentar do PS",
    "orgao": "Audiências do Grupo Parlamentar do PS",
@@ -141,170 +78,13 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "10h30 - Comissões de Cidadãos da Associação Os 230\n15h00 - João Ribeiro - Bidaoui\n15h00 - Trabalhadores das Estruturas de Missão do PT 2030 (COMPETE 2030, Pessoas 2030, Sustentável 2030, e Mar 2030)",
-   "ordemTrabalhos": "10h30 - Comissões de Cidadãos da Associação Os 230\n15h00 - João Ribeiro - Bidaoui\n15h00 - Trabalhadores das Estruturas de Missão do PT 2030 (COMPETE 2030, Pessoas 2030, Sustentável 2030, e Mar 2030)",
+   "resumo": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
+   "ordemTrabalhos": "13h30 - Associação Portuguesa da Menopausa (Vidas)",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
    "criterio": [
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48682,
-   "data": "2026-11-10",
-   "hora": "",
-   "tema": "Audiências do Grupo Parlamentar do PSD",
-   "orgao": "Audiências do Grupo Parlamentar do PSD",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR) \n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais",
-   "ordemTrabalhos": "10h00 - Audiogest - Associação para a Gestão e Distribuição de Direitos\n10h30 - Associação de Proteção e Socorro (APROSOC)\n11h00 - Associação Nacional de Imprensa Regional (ANIR) \n14h00 - Confederação do Desporto de Portugal\n15h00 - Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais da Informação e Documentação",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48672,
-   "data": "2026-11-10",
-   "hora": "08h30",
-   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "interveniente": "",
-   "tipo": [
-    "Grupo de Trabalho"
-   ],
-   "tipoLabel": "Grupo de Trabalho · Reunião n.º 27 · Sala Senado",
-   "resumo": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
-   "ordemTrabalhos": "1. Informações;\n 2. Propostas de deliberação;\n 3. Outros assuntos.",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48666,
-   "data": "2026-11-10",
-   "hora": "09h00",
-   "tema": "Comissão de Assuntos Europeus",
-   "orgao": "Comissão de Assuntos Europeus",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 64 · Sala Senado",
-   "resumo": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europe",
-   "ordemTrabalhos": "Parte I \n Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia\n [conjunta com a Comissão de Economia e Coesão Territorial]\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n COM(2026) 990 - Proposta de DIRETIVA DO PARLAMENTO EUROPEU E DO CONSELHO relativa ao reconhecimento de qualificações dos nacionais de países terceiros\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 16/12/2026\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 980 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da coordenação dos sistemas de segurança social, que estabelece um quadro para o Passaporte Europeu de Segurança Social (PESS) e que altera os Regulamentos (CE) n.º 883/2004, (CE) n.º 987/2009 e (UE) 2018/1724 – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 18/11/2026\n Outros assuntos",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx",
-   "uo": [
-    "DACDP",
-    "DAPL"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "«diretiva» (DAPL)",
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48668,
-   "data": "2026-11-10",
-   "hora": "09h00",
-   "tema": "Comissão de Economia e Coesão Territorial",
-   "orgao": "Comissão de Economia e Coesão Territorial",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 23 · Sala Senado",
-   "resumo": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n Delegação: \n Henna Virkkunen, Vice-Presidente Executiva da Comissão Europeia;\n Vítor Nogueira, Chefe de Representação Interino da Comissão Europe",
-   "ordemTrabalhos": "Audição com a Vice-Presidente Executiva da Comissão Europeia, Henna Virkkunen, responsável pelo pelouro da Soberania Tecnológica, Segurança e Democracia.\n Delegação: \n Henna Virkkunen, Vice-Presidente Executiva da Comissão Europeia;\n Vítor Nogueira, Chefe de Representação Interino da Comissão Europeia em Portugal;\n Fausto Matos, Membro do Gabinete da Senhora Vice-Presidente;\n Giuseppe Ianniello, Direção-Geral das Redes de Comunicação, Conteúdos e Tecnologias (DG CONNECT) da Comissão Europeia;\n Catarina Caria, Digital EU Ambassador.\n [conjunta com a Comissão de Assuntos Europeus]",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«assuntos europeus» (DACDP)",
-    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48671,
-   "data": "2026-11-10",
-   "hora": "11h00",
-   "tema": "Conselho de Administração",
-   "orgao": "Conselho de Administração",
-   "interveniente": "",
-   "tipo": [
-    "Conselho de Administração"
-   ],
-   "tipoLabel": "Conselho de Administração · Reunião n.º 30 · Sala 7",
-   "resumo": "1 - Informações                           \n 2 - Apreciação das Atas: 28/XVII/2ª Sessão (13 outubro) e 29/XVII/2ª Sessão (27 outubro)\n  3 - Informação 97/DGF/2026 - 8.ª Alteração orçamental ao OAR2026\n 4 - Informação 383/DC/2026 - Aquisição de serviços de monitorização e controlo de pragas infestante",
-   "ordemTrabalhos": "1 - Informações                           \n 2 - Apreciação das Atas: 28/XVII/2ª Sessão (13 outubro) e 29/XVII/2ª Sessão (27 outubro)\n  3 - Informação 97/DGF/2026 - 8.ª Alteração orçamental ao OAR2026\n 4 - Informação 383/DC/2026 - Aquisição de serviços de monitorização e controlo de pragas infestantes nos edifícios da Assembleia da República\n 5 - Informação 369/DC/2026 - Aquisição de serviços de agenciamento de viagens e alojamentos\n 6 - Informação 375/DC/2026 - Aquisição de serviços de implementação de plataforma de gestão de todo o ciclo de vida dos contratos Públicos para a Assembleia da República\n 7 - Informação 379/DC/2026 - Aquisição de Bens e Serviços para “Requalificação da sala de comunicações existente no Palácio de São Bento”\n 8 - Informação 370/DC/2026 - Aquisição de serviços de assistência técnica e manutenção para o Sistema de Gestão Documental\n 9 - Informação 65/DGPL/2026 - Lugares de estacionamento privativo para a Assembleia da República - Av. D. Carlos I\n 10 - Informação – Reforço - PAD - Água 2026\n 11 - Informação 388/DC/2026 - Aquisição de manutenção e suporte ao hardware da marca DELL\n 12 - Informação 386/DC/2026 - Aquisição de equipamentos periféricos e acessórios informáticos\n 13 - Informação 361/DC/2026 - Aquisição de subscrição para software de suporte remoto\n 14 - Informação 387/DC/2026 - Aquisição de serviços de limpeza, desentupimento e tratamento de resíduos dos separadores de gorduras\n 15 - Informação 385/DC/2026 - Aquisição de Serviços de Manutenção das coberturas, telhados e janelas de telhado dos edifícios da Assembleia da República\n 16 - Informação 393/DC/2026 - Fornecimento de Switches para bastidores de comunicações e respetivos serviços conexos\n 17 - Informação 392/DC/2026 - Aquisição de Unidades de Alimentação Ininterrupta (UPS) para os bastidores de comunicações\n 18 - Informação 390/DC/2026 - Aquisição e implementação de uma solução destinada à gravação, transcrição, proteção, preservação e consulta de procedimentos administrativos\n 19 - Informação 389/DC/2026 - Aquisição solução de fornecimento de nova infraestrutura de energia e UPS para a Sala Técnica\n 20 - Informação 378/DC/2026 - Fornecimento e respetiva aquisição de serviços de impressão e acabamento de livros da Coleção Parlamento para a Assembleia da República\n 21 - Informação 377/DC/2026 - Aquisição de equipamentos informáticos para processamento gráfico\n 22 - Informação 94/DGF/2026 - Transferência de verbas de despesa corrente para despesa de capital - CADA\n 23 - Informação 011/GCA/2026 - Monitorização dos encargos com contratos para aquisição de serviços - Relatório sobre a evolução dos encargos autorizados no 3.º trimestre de 2026\n 24 - Despacho PAR 340/XVII - Distribuição de espaços na Assembleia da República\n 25 - Informação 69/DGPL/2026 - Proposta de abate de bens\n 26 - Aprovação da Ata em minuta para imediata produção de efeitos das deliberações",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48680,
-   "data": "2026-11-10",
-   "hora": "15h00",
-   "tema": "Comissão de Transparência e Estatuto dos Deputados",
-   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 58 · Sala 5",
-   "resumo": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos público",
-   "ordemTrabalhos": "1 – Apreciação e votação da ata 57, correspondente à reunião da Comissão de 5 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho -  Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relatora: Deputada Nuna Menezes (PSD);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 6 – Deliberação sobre as eventuais diligências relativamente à aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada)\n 7 – Apreciação e votação de requerimento (matéria reservada);\n 8 – Outros assuntos.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48670,
-   "data": "2026-11-10",
-   "hora": "16h00",
-   "tema": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram",
-   "orgao": "Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 3 · Sala 1",
-   "resumo": "1. Discussão e votação do projeto de regulamento da Comissão e das propostas de alteração apresentadas.\n 2. Discussão e votação dos requerimentos de pedido de documentação.\n 3. Análise dos procedimentos de acesso à documentação classificada.\n 4. Outros assuntos.",
-   "ordemTrabalhos": "1. Discussão e votação do projeto de regulamento da Comissão e das propostas de alteração apresentadas.\n 2. Discussão e votação dos requerimentos de pedido de documentação.\n 3. Análise dos procedimentos de acesso à documentação classificada.\n 4. Outros assuntos.",
-   "ligacao": "",
-   "uo": [
-    "DACDP"
-   ],
-   "pertinencia": "Vigilância",
-   "criterio": [
-    "«comissão parlamentar de inquérito» → Vigilância"
    ],
    "validado": false
   }
