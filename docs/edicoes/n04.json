@@ -112,6 +112,7 @@
    ],
    "periodo": "Tarde",
    "ligacoes": [],
+   "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati",
    "cobertura": {
     "n": 0,
     "n7": 0,
@@ -122,8 +123,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati"
+   }
   },
   {
    "tema": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
@@ -157,7 +157,7 @@
      "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
     }
    ],
-   "tituloRegras": true,
+   "varrimento": "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun",
    "cobertura": {
     "n": 6,
     "n7": 0,
@@ -225,7 +225,7 @@
      ]
     ]
    },
-   "varrimento": "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun"
+   "tituloRegras": true
   },
   {
    "tema": "Plenário — Debate na especialidade do Orçamento do Estado para 2027",
@@ -8515,8 +8515,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-12T15:55+00:00",
-  "atualizadoLabel": "12 de novembro, 15h55",
+  "atualizado": "2026-11-12T16:11+00:00",
+  "atualizadoLabel": "12 de novembro, 16h11",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
