@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48689@ar-preview
+DTSTAMP:20261112T160128Z
+DTSTART:20261123T150000Z
+DTEND:20261123T170000Z
+SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
+ ca
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
+  · Reunião n.º 148 · Plenário\nSíntese: Conclusão da votação\, n
+ a especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçame
+ nto do Estado para 2027\nPágina na AR: https://www.parlamento.pt/sites/c
+ om/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (quando houve
+ r): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io
+ /ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
+ x
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

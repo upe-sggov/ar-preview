@@ -15,6 +15,219 @@
  "pedidos": "O fundo mediático das matérias sem ficha faz-se a pedido, por email para upe@sggoverno.gov.pt (botão «Pedir fundo mediático» em cada cartão).",
  "futuro": [
   {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-11-16",
+   "hora": "10h30",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h30 - Gonçalo de Oliveira",
+   "ordemTrabalhos": "10h30 - Gonçalo de Oliveira",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48693,
+   "chave": "ar-48693",
+   "dataLabel": "segunda, 16 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-16",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 22 · Sala 1",
+   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48685,
+   "chave": "ar-48685",
+   "dataLabel": "segunda, 16 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "data": "2026-11-17",
+   "hora": "15h30",
+   "interveniente": "",
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28",
+   "resumo": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "ordemTrabalhos": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "id_ar": 48695,
+   "chave": "ar-48695",
+   "dataLabel": "terça, 17 nov",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati"
+  },
+  {
+   "tema": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
+   "data": "2026-11-17",
+   "hora": "16h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 65",
+   "resumo": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as al",
+   "ordemTrabalhos": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as alterações introduzidas pela Lei n.º 21/2012, de 17 de maio, Lei n.º 18/2018, de 2 de maio, Lei n.º 64/2020, de 2 de novembro e Lei n.º 44/2023, de 14 de agosto\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n a) COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos)\n Deputado Autor de Parecer: Cabe ao PSD\n Iniciativa sinalizada pela CAE: Prazo de envio – 12/01/2027\n b) COM(2026)1037 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 15/01/2027\n Fixação da redação final do Projeto de Resolução n.º 1309/XVII/2.ª (CH) – Recomenda ao Governo que crie as condições necessárias para o cumprimento interno do regulamento europeu relativo à análise dos investimentos estrangeiros na União e que revoga o Regulamento (UE) 2019/452.\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n a) COM(2026) 599 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um quadro de medidas nos Estados-Membros para salvaguardar a acessibilidade dos preços e a disponibilidade de habitação (Regulamento Habitação a Preços Acessíveis)\n Autor de Parecer: Deputado Paulo Moniz (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 17/11/2026\n b) COM(2026) 567 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um regime de medidas para reforçar o ecossistema de inovação da União e que altera o Regulamento (UE) 2017/1001 (Regulamento Inovação Europeia) – Relatório da 6.ª CECT\n Autor de Parecer: Deputado Ricardo Carvalho (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 19/11/2026\n c) COM(2026) 985 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que altera o Regulamento (UE) 2019/1149 que institui uma Autoridade Europeia do Trabalho, o Regulamento (UE) 2016/589 relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho e o Regulamento (UE) n.º 1024/2012 relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno, e revoga as Decisões de Execução (UE) 2017/1256, (UE) 2018/170, (UE) 2018/1020 e (UE) 2018/1021 da Comissão – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Rui Tavares (L)\n Iniciativa sinalizada pela CAE: Prazo de envio – 20/11/2026\n d) COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
+   "orgao": "Comissão de Assuntos Europeus",
+   "id_ar": 48691,
+   "chave": "ar-48691",
+   "dataLabel": "terça, 17 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DACDP",
+    "DCIRI"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "«cooperação» (DCIRI)",
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
+    }
+   ],
+   "tituloRegras": true,
+   "cobertura": {
+    "n": 6,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "2026-10-10 16:14",
+    "ultimas": [
+     {
+      "data": "2026-10-10",
+      "fonte": "RTP Notícias",
+      "titulo": "Cortes de 8%. Nova proposta para Orçamento Comunitário diminui a despesa em quase todas as políticas europeias",
+      "url": "https://www.rtp.pt/noticias/economia/cortes-de-8-nova-proposta-para-orcamento-comunitario-diminui-a-despesa-em-quase-todas-as-politicas-europeias_n1770888"
+     },
+     {
+      "data": "2026-10-06",
+      "fonte": "Jornal Económico",
+      "titulo": "Luís Montenegro apoia continuação de António Costa no Conselho Europeu",
+      "url": "https://jornaleconomico.sapo.pt/noticias/luis-montenegro-apoia-continuacao-de-antonio-costa-no-conselho-europeu/"
+     },
+     {
+      "data": "2026-10-03",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Montenegro no Parlamento Europeu com orçamento da UE em discussão",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-no-parlamento-europeu-com-orcamento-da-ue-em-discussao"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-10 16:14",
+      "RTP Notícias",
+      "Cortes de 8%. Nova proposta para Orçamento Comunitário diminui a despesa em quase todas as políticas europeias",
+      "https://www.rtp.pt/noticias/economia/cortes-de-8-nova-proposta-para-orcamento-comunitario-diminui-a-despesa-em-quase-todas-as-politicas-europeias_n1770888"
+     ],
+     [
+      "2026-10-06 13:24",
+      "Jornal Económico",
+      "Luís Montenegro apoia continuação de António Costa no Conselho Europeu",
+      "https://jornaleconomico.sapo.pt/noticias/luis-montenegro-apoia-continuacao-de-antonio-costa-no-conselho-europeu/"
+     ],
+     [
+      "2026-10-03 10:03",
+      "Jornal de Negócios",
+      "Montenegro no Parlamento Europeu com orçamento da UE em discussão",
+      "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-no-parlamento-europeu-com-orcamento-da-ue-em-discussao"
+     ],
+     [
+      "2026-10-03 09:24",
+      "ECO",
+      "Montenegro em Estrasburgo com orçamento da UE discussão",
+      "https://eco.sapo.pt/2026/10/03/montenegro-em-estrasburgo-com-orcamento-da-ue-discussao/"
+     ],
+     [
+      "2026-09-17 18:14",
+      "Diário de Notícias",
+      "Parlamento Europeu pede reforço do combate ao tráfico de droga nas águas europeias",
+      "https://www.dn.pt/internacional/parlamento-europeu-pede-reforo-do-combate-ao-trfico-de-droga-nas-guas-europeias"
+     ],
+     [
+      "2026-09-15 15:52",
+      "RTP Notícias",
+      "O Parlamento Europeu quer dar mais voz aos jovens na definição das políticas europeias",
+      "https://www.rtp.pt/noticias/uniao-europeia/o-parlamento-europeu-quer-dar-mais-voz-aos-jovens-na-definicao-das-politicas-europeias_n1765588"
+     ]
+    ]
+   },
+   "varrimento": "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun"
+  },
+  {
    "tema": "Plenário — Debate na especialidade do Orçamento do Estado para 2027",
    "data": "2026-11-18",
    "hora": "10h00",
@@ -46,14 +259,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 247,
-    "n7": 23,
-    "n7ant": 11,
+    "n": 249,
+    "n7": 24,
+    "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-11 17:42",
+    "ultima": "2026-11-12 11:52",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "ECO",
+      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     },
      {
       "data": "2026-11-11",
       "fonte": "Jornal de Negócios",
@@ -65,15 +284,15 @@
       "fonte": "Notícias ao Minuto",
       "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
       "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 11:52",
+      "ECO",
+      "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     ],
      [
       "2026-11-11 17:42",
       "Jornal de Negócios",
@@ -217,6 +436,12 @@
       "Jornal Económico",
       "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
       "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      ],
      [
       "2026-11-03 23:59",
@@ -1599,6 +1824,50 @@
    }
   },
   {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-18",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 145 · Plenário",
+   "resumo": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48686,
+   "chave": "ar-48686",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "data": "2026-11-19",
    "hora": "10h00",
@@ -1630,14 +1899,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 247,
-    "n7": 23,
-    "n7ant": 11,
+    "n": 249,
+    "n7": 24,
+    "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-11 17:42",
+    "ultima": "2026-11-12 11:52",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "ECO",
+      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     },
      {
       "data": "2026-11-11",
       "fonte": "Jornal de Negócios",
@@ -1649,15 +1924,15 @@
       "fonte": "Notícias ao Minuto",
       "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
       "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 11:52",
+      "ECO",
+      "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     ],
      [
       "2026-11-11 17:42",
       "Jornal de Negócios",
@@ -1801,6 +2076,12 @@
       "Jornal Económico",
       "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
       "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      ],
      [
       "2026-11-03 23:59",
@@ -3147,6 +3428,50 @@
     "OE2027",
     "OE 2027"
    ]
+  },
+  {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-19",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 146 · Plenário",
+   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48687,
+   "chave": "ar-48687",
+   "dataLabel": "quinta, 19 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
   },
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -3180,14 +3505,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 247,
-    "n7": 23,
-    "n7ant": 11,
+    "n": 249,
+    "n7": 24,
+    "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-11 17:42",
+    "ultima": "2026-11-12 11:52",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "ECO",
+      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     },
      {
       "data": "2026-11-11",
       "fonte": "Jornal de Negócios",
@@ -3199,15 +3530,15 @@
       "fonte": "Notícias ao Minuto",
       "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
       "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 11:52",
+      "ECO",
+      "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     ],
      [
       "2026-11-11 17:42",
       "Jornal de Negócios",
@@ -3351,6 +3682,12 @@
       "Jornal Económico",
       "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
       "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      ],
      [
       "2026-11-03 23:59",
@@ -4699,6 +5036,50 @@
    ]
   },
   {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-20",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 147 · Plenário",
+   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48688,
+   "chave": "ar-48688",
+   "dataLabel": "sexta, 20 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "data": "2026-11-23",
    "hora": "10h00",
@@ -4730,14 +5111,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 247,
-    "n7": 23,
-    "n7ant": 11,
+    "n": 249,
+    "n7": 24,
+    "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-11 17:42",
+    "ultima": "2026-11-12 11:52",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "ECO",
+      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     },
      {
       "data": "2026-11-11",
       "fonte": "Jornal de Negócios",
@@ -4749,15 +5136,15 @@
       "fonte": "Notícias ao Minuto",
       "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
       "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 11:52",
+      "ECO",
+      "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     ],
      [
       "2026-11-11 17:42",
       "Jornal de Negócios",
@@ -4901,6 +5288,12 @@
       "Jornal Económico",
       "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
       "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      ],
      [
       "2026-11-03 23:59",
@@ -6247,6 +6640,50 @@
     "OE2027",
     "OE 2027"
    ]
+  },
+  {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-23",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 148 · Plenário",
+   "resumo": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48689,
+   "chave": "ar-48689",
+   "dataLabel": "segunda, 23 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
@@ -6314,14 +6751,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 247,
-    "n7": 23,
-    "n7ant": 11,
+    "n": 249,
+    "n7": 24,
+    "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-11 17:42",
+    "ultima": "2026-11-12 11:52",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "ECO",
+      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     },
      {
       "data": "2026-11-11",
       "fonte": "Jornal de Negócios",
@@ -6333,15 +6776,15 @@
       "fonte": "Notícias ao Minuto",
       "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
       "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 11:52",
+      "ECO",
+      "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
+      "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
+     ],
      [
       "2026-11-11 17:42",
       "Jornal de Negócios",
@@ -6485,6 +6928,12 @@
       "Jornal Económico",
       "Falta investimento na Educação. Sindicatos dos professores avaliam OE2027",
       "https://jornaleconomico.sapo.pt/noticias/falta-investimento-na-educacao-sindicatos-dos-professores-avaliam-oe2027/"
+     ],
+     [
+      "2026-11-04 13:11",
+      "ECO",
+      "OE2027. Chega vai exigir dedução dos juros do crédito da casa no IRS",
+      "https://eco.sapo.pt/2026/11/04/oe2027-chega-vai-exigir-deducao-dos-juros-do-credito-da-casa-no-irs/"
      ],
      [
       "2026-11-03 23:59",
@@ -8058,10 +8507,16 @@
     "novos": 0,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-12",
+    "novos": 2,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-12T00:22+00:00",
-  "atualizadoLabel": "12 de novembro, 00h22",
+  "atualizado": "2026-11-12T15:55+00:00",
+  "atualizadoLabel": "12 de novembro, 15h55",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8150,7 +8605,7 @@
     "ultima": "2026-10-27 19:08",
     "em": "2026-11-07"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "A Comissão Parlamentar de Inquérito à atuação de Luís Neves como diretor da Polícia Judiciária entre 2018 e 2026 está a ser analisada por eventuais irregularidades e responsabilidades políticas. A comissão investiga nomeações e tutelas governamentais durante os seus mandatos."
   },
   "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen": {
@@ -8332,7 +8787,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e análises económicas, com críticas sobre a falta de investimento em áreas como a educação e a saúde, e elogios ao equilíbrio das contas públicas. Os partidos da oposição têm levantado preocupações sobre o cumprimento de condições para a viabilização do orçamento, enquanto o Governo defende a sua viabilidade e ambição. A discussão sobre a competitividade, o investimento e a habitação tem sido um tema central, com propostas de alteração que visam melhorar a eficiência económica e a qualidade de vida. A cobertura tem evoluído para incluir análises sobre o impacto do orçamento em diferentes setores da economia e a sua capacidade de promover o crescimento e a convergência."
   },
   "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8514,7 +8969,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre competitividade, investimento, habitação e financiamento de infraestruturas. Os partidos da oposição expressaram preocupações sobre o cumprimento de condições para a viabilização do documento, enquanto o Governo enfatizou a sua adequação e benefícios para os portugueses. A cobertura inclui críticas sobre a falta de investimento em áreas como a Educação e a saúde, bem como propostas de alteração que visam melhorar a eficiência e a equidade. O debate parlamentar tem sido marcado por posições divergentes sobre a viabilidade e o impacto do Orçamento, com o PS a defender a estabilidade política e a oposição a levantar questões sobre a sua eficácia."
   },
   "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8696,7 +9151,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "20 notícias analisadas no Radar de Notícias; enquadramento por gerar."
   },
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8878,7 +9333,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-11"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas de partidos da oposição, que questionam a sua viabilidade e a inclusão de certas medidas. Embora alguns meios de comunicação tenham destacado aspetos positivos como o potencial de crescimento económico e a aposta na competitividade, a maioria das notícias enfatiza a necessidade de ajustes e a importância de cumprir condições para a viabilização do documento. A discussão sobre o OE2027 tem sido marcada por divergências sobre a habitação, o financiamento de infraestruturas e a sustentabilidade das contas públicas."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -9060,7 +9515,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-11"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas sobre as medidas propostas, com foco em áreas como competitividade, habitação e financiamento de infraestruturas. Os partidos da oposição, como o PS e o Chega, têm levantado preocupações sobre o cumprimento de condições para a viabilização do documento, enquanto o Governo defende a sua adequação. A discussão inclui propostas de alteração que visam a melhoria de políticas públicas, como a habitação e o investimento, e a análise de potenciais impactos económicos. A cobertura evoluiu para incluir análises de especialistas e empresários sobre a ambição e o equilíbrio financeiro do OE2027."
   },
   "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
@@ -9242,7 +9697,7 @@
     "ultima": "2026-11-05 23:15",
     "em": "2026-11-09"
    },
-   "novas": 9,
+   "novas": 8,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se intensamente no escrutínio do orçamento da União Europeia, com 166 notícias que abordam as negociações para o Quadro Financeiro Plurianual 2028-2034. Inicialmente, a discussão centrou-se em críticas e preocupações com cortes propostos, como a proposta de 141 mil milhões de euros (notícias 5 e 10) e a redução de 8% face à proposta da Comissão (notícia 6). Posteriormente, surgiram anúncios de novas propostas e posições negociais, como a preparação de uma nova proposta por António Costa (notícia 14) e a defesa de prioridades como a coesão e a política agrícola (notícias 3 e 15). A cobertura evoluiu também para incluir alertas sobre riscos e falhas no controlo de fundos, como os avisos do TCE (notícias 16 e 18), e para discutir a necessidade de compromissos até ao final do ano (notícias 11 e 19)."
   },
   "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
@@ -9408,7 +9863,7 @@
     "ultima": "2026-11-10 13:11",
     "em": "2026-11-10"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "18 notícias analisadas no Radar de Notícias; enquadramento por gerar."
   },
   "2026-11-09-48669-audi-o-com-a-vice-presidente-executiva-da-c": {
@@ -9510,8 +9965,99 @@
     "ultima": "2026-11-10 21:03",
     "em": "2026-11-10"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "Ao longo de 60 dias, a cobertura mediática focou-se principalmente em políticas europeias de transição energética e competitividade industrial, com a Vice-Presidente Executiva da Comissão Europeia, Teresa Ribera, como figura central. As notícias detalham estratégias para o Pacto Ecológico Europeu, financiamento da transição verde e desafios industriais. Embora algumas notícias apresentem críticas ou contextos relacionados, a maioria fornece informações relevantes sobre as posições e medidas de Ribera. Não foram reportadas notícias que questionem diretamente a sua atuação nesta matéria."
+  },
+  "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati": {
+   "titulo": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "meta": "Grupo de Trabalho · Reunião n.º 28 · terça, 17 nov, 15h30",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-12"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun": {
+   "titulo": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
+   "meta": "Comissão de Assuntos Europeus · Reunião n.º 65 · terça, 17 nov, 16h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-15",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/uniao-europeia/o-parlamento-europeu-quer-dar-mais-voz-aos-jovens-na-definicao-das-politicas-europeias_n1765588",
+     "sintese": "O Parlamento Europeu aprovou recomendações para envolver os jovens nas políticas europeias, focando-se na integração das perspetivas dos jovens em todos os domínios de intervenção da União Europeia.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-17",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/internacional/parlamento-europeu-pede-reforo-do-combate-ao-trfico-de-droga-nas-guas-europeias",
+     "sintese": "O Parlamento Europeu debateu o combate ao tráfico de droga nas águas europeias, destacando a necessidade de reforçar as medidas de segurança e cooperação.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-03",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/10/03/montenegro-em-estrasburgo-com-orcamento-da-ue-discussao/",
+     "sintese": "Montenegro discursou no Parlamento Europeu sobre o orçamento da UE, enfatizando a estabilidade institucional e a importância de uma abordagem equilibrada.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-03",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-no-parlamento-europeu-com-orcamento-da-ue-em-discussao",
+     "sintese": "Montenegro discursou no Parlamento Europeu como o 16.º líder da UE, defendendo a estabilidade institucional e a continuidade das presidências europeias.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/luis-montenegro-apoia-continuacao-de-antonio-costa-no-conselho-europeu/",
+     "sintese": "Montenegro apoiou a continuação de António Costa no Conselho Europeu, defendendo a estabilidade e a capacidade operacional das instituições europeias.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-10",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/cortes-de-8-nova-proposta-para-orcamento-comunitario-diminui-a-despesa-em-quase-todas-as-politicas-europeias_n1770888",
+     "sintese": "Uma proposta de cortes de 8% no Orçamento Comunitário foi apresentada, gerando críticas e desacordo entre os países, incluindo a rejeição do Parlamento Europeu.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    }
+   ],
+   "amostra": {
+    "analisadas": 6,
+    "encontradas": 6
+   },
+   "base": {
+    "ultima": "2026-10-10 16:14",
+    "em": "2026-11-12"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em eventos políticos europeus e na atividade governamental portuguesa relacionada com a União Europeia. O Parlamento Europeu aprovou recomendações para envolver os jovens nas políticas europeias (1), discutiu o combate ao tráfico de droga nas águas europeias (2), e Montenegro discursou no Parlamento Europeu sobre o orçamento da UE (3). Montenegro foi o 16.º líder da UE a intervir, enfatizando a estabilidade institucional (4). Apoiou a continuação de António Costa no Conselho Europeu, defendendo a estabilidade operacional (5). Uma proposta de cortes de 8% no Orçamento Comunitário foi apresentada, gerando críticas e desacordo entre os países (6). A cobertura evoluiu de discussões orçamentais e políticas para a preparação para o Conselho Europeu extraordinário, com a Secretária de Estado dos Assuntos Europeus a ser ouvida após o Conselho Europeu de 15 e 16 de outubro."
   }
  },
  "destaques": [
@@ -9586,14 +10132,20 @@
     "Transição Verde"
    ],
    "cobertura": {
-    "n": 10,
-    "n7": 2,
+    "n": 11,
+    "n7": 3,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-11 07:20",
+    "ultima": "2026-11-11 20:03",
     "ultimas": [
+     {
+      "data": "2026-11-11",
+      "fonte": "Agroportal",
+      "titulo": "Teresa Ribera: “Não podemos só dizer às famílias ‘desculpem, é difícil’”",
+      "url": "https://www.agroportal.pt/teresa-ribera-nao-podemos-so-dizer-as-familias-desculpem-e-dificil/"
+     },
      {
       "data": "2026-11-11",
       "fonte": "Público",
@@ -9605,15 +10157,15 @@
       "fonte": "El País",
       "titulo": "El Santander pide a Bruselas cambios regulatorios para atraer inversión privada a las grandes interconexiones eléctricas",
       "url": "https://cincodias.elpais.com/companias/2026-11-10/el-santander-pide-a-bruselas-cambios-regulatorios-para-atraer-inversion-privada-a-las-grandes-interconexiones-electricas.html"
-     },
-     {
-      "data": "2026-10-23",
-      "fonte": "Jornal Económico",
-      "titulo": "AGEFE propõe incentivos fiscais à transição verde e digital no Orçamento do Estado para 2027",
-      "url": "https://jornaleconomico.sapo.pt/noticias/agefe-propoe-incentivos-fiscais-a-transicao-verde-e-digital-no-orcamento-do-estado-para-2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-11 20:03",
+      "Agroportal",
+      "Teresa Ribera: “Não podemos só dizer às famílias ‘desculpem, é difícil’”",
+      "https://www.agroportal.pt/teresa-ribera-nao-podemos-so-dizer-as-familias-desculpem-e-dificil/"
+     ],
      [
       "2026-11-11 07:20",
       "Público",
@@ -9702,8 +10254,8 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 167,
-    "n7": 9,
+    "n": 166,
+    "n7": 8,
     "n7ant": 7,
     "dias": 60,
     "ref": "2026-11-12",
@@ -9724,9 +10276,9 @@
      },
      {
       "data": "2026-11-11",
-      "fonte": "Diário de Notícias",
+      "fonte": "Notícias ao Minuto",
       "titulo": "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
-      "url": "https://www.dn.pt/economia/costa-prev-apresentar-nova-proposta-de-oramento-da-ue-em-21-de-novembro"
+      "url": "https://www.noticiasaominuto.com/mundo/3082312/costa-preve-apresentar-nova-proposta-de-orcamento-da-ue-em-21-de-novembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
@@ -9741,12 +10293,6 @@
       "Jornal de Negócios",
       "António Costa deve fazer nova proposta de orçamento da UE em 21 de novembro",
       "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-deve-fazer-nova-proposta-de-orcamento-da-ue-em-21-de-novembro"
-     ],
-     [
-      "2026-11-11 11:21",
-      "Diário de Notícias",
-      "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
-      "https://www.dn.pt/economia/costa-prev-apresentar-nova-proposta-de-oramento-da-ue-em-21-de-novembro"
      ],
      [
       "2026-11-11 10:56",
@@ -9804,15 +10350,15 @@
      ],
      [
       "2026-11-04 16:00",
-      "Notícias ao Minuto",
-      "TCE alerta sobre riscos no orçamento da UE para 2028-2034",
-      "https://www.noticiasaominuto.com/economia/3078504/tce-alerta-sobre-riscos-no-orcamento-da-ue-para-2028-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-11-04 16:00",
       "Jornal de Negócios",
       "TCE vê avanços na simplificação do orçamento europeu mas pede mais foco nos resultados",
       "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/tce-ve-avancos-na-simplificacao-do-orcamento-europeu-mas-pede-mais-foco-nos-resultados"
+     ],
+     [
+      "2026-11-04 16:00",
+      "Notícias ao Minuto",
+      "TCE alerta sobre riscos no orçamento da UE para 2028-2034",
+      "https://www.noticiasaominuto.com/economia/3078504/tce-alerta-sobre-riscos-no-orcamento-da-ue-para-2028-2034#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
       "2026-11-03 13:00",
@@ -10793,34 +11339,46 @@
    ],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 18,
-    "n7": 10,
+    "n": 20,
+    "n7": 12,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-10 13:11",
+    "ultima": "2026-11-12 07:32",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "Healthnews",
+      "titulo": "Ataques à refrigeração de bancos de sangue motivam alerta europeu",
+      "url": "https://healthnews.pt/2026/11/12/ataques-a-refrigeracao-de-bancos-de-sangue-motivam-alerta-europeu/#utm_source=rss&utm_medium=rss&utm_campaign=ataques-a-refrigeracao-de-bancos-de-sangue-motivam-alerta-europeu"
+     },
+     {
+      "data": "2026-11-11",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Ataques híbridos a supermercados e bancos de sangue devem servir de \"alerta\"",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ataques-hibridos-a-supermercados-e-bancos-de-sangue-devem-servir-de-alerta"
+     },
      {
       "data": "2026-11-10",
       "fonte": "SAPO Tek",
       "titulo": "Henna Virkkunen defende Europa soberana na tecnologia, mas sem isolamento. “Não podemos fazer tudo sozinhos: não é realista”",
       "url": "https://tek.sapo.pt/noticias/computadores/artigos/henna-virkkunen-defende-europa-soberana-na-tecnologia-mas-sem-isolamento-nao-podemos-fazer-tudo-sozinhos-nao-e-realista/"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Web Summit: Henna Virkkunen diz que Europa pode ser forte em robótica",
-      "url": "https://www.noticiasaominuto.com/tech/3081625/web-summit-henna-virkkunen-diz-que-europa-pode-ser-forte-em-robotica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Lusa",
-      "titulo": "Web Summit: Europa pode ser forte na área da robótica - Henna Virkkunen",
-      "url": "https://www.lusa.pt/economia/article/2026-11-10/48101343/web-summit-europa-pode-ser-forte-na-%C3%A1rea-da-rob%C3%B3tica-henna-virkkunen"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 07:32",
+      "Healthnews",
+      "Ataques à refrigeração de bancos de sangue motivam alerta europeu",
+      "https://healthnews.pt/2026/11/12/ataques-a-refrigeracao-de-bancos-de-sangue-motivam-alerta-europeu/#utm_source=rss&utm_medium=rss&utm_campaign=ataques-a-refrigeracao-de-bancos-de-sangue-motivam-alerta-europeu"
+     ],
+     [
+      "2026-11-11 21:06",
+      "Jornal de Negócios",
+      "Ataques híbridos a supermercados e bancos de sangue devem servir de \"alerta\"",
+      "https://www.jornaldenegocios.pt/empresas/detalhe/ataques-hibridos-a-supermercados-e-bancos-de-sangue-devem-servir-de-alerta"
+     ],
      [
       "2026-11-10 13:11",
       "SAPO Tek",
@@ -11205,34 +11763,70 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 121,
-    "n7": 29,
-    "n7ant": 17,
+    "n": 126,
+    "n7": 35,
+    "n7ant": 16,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "palavras",
-    "ultima": "2026-11-11 07:58",
+    "ultima": "2026-11-12 14:04",
     "ultimas": [
      {
-      "data": "2026-11-11",
-      "fonte": "Observador",
-      "titulo": "Mau tempo. Transtejo Soflusa \"não prevê alteração da oferta\"",
-      "url": "https://observador.pt/programas/resposta-pronta/mau-tempo-transtejo-soflusa-nao-preve-alteracao-da-oferta/"
+      "data": "2026-11-12",
+      "fonte": "Jornal Económico",
+      "titulo": "Jensen Huang demite-se da liderança da Nvidia",
+      "url": "https://jornaleconomico.sapo.pt/noticias/jensen-huang-demite-se-da-lideranca-da-nvidia/"
      },
      {
-      "data": "2026-11-10",
-      "fonte": "Healthnews",
-      "titulo": "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
-      "url": "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/"
+      "data": "2026-11-12",
+      "fonte": "ECO",
+      "titulo": "Jensen Huang demite-se da liderança da Nvidia",
+      "url": "https://eco.sapo.pt/2026/11/12/jensen-huang-deixa-lideranca-da-nvidia/"
      },
      {
-      "data": "2026-11-10",
-      "fonte": "Diário de Notícias",
-      "titulo": "Ministra da Saúde demite presidente do Conselho de Administração da ULS de Aveiro",
-      "url": "https://www.dn.pt/sociedade/ministra-da-sade-demite-presidentedo-conselho-de-administraoda-uls-de-aveiro"
+      "data": "2026-11-12",
+      "fonte": "RTP Notícias",
+      "titulo": "Fundador da Nvidia pode perder o comando da gigante da IA",
+      "url": "https://www.rtp.pt/noticias/mundo/fundador-da-nvidia-pode-perder-o-comando-da-gigante-da-ia_n1778658"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 14:04",
+      "Jornal Económico",
+      "Jensen Huang demite-se da liderança da Nvidia",
+      "https://jornaleconomico.sapo.pt/noticias/jensen-huang-demite-se-da-lideranca-da-nvidia/"
+     ],
+     [
+      "2026-11-12 13:58",
+      "ECO",
+      "Jensen Huang demite-se da liderança da Nvidia",
+      "https://eco.sapo.pt/2026/11/12/jensen-huang-deixa-lideranca-da-nvidia/"
+     ],
+     [
+      "2026-11-12 12:51",
+      "RTP Notícias",
+      "Fundador da Nvidia pode perder o comando da gigante da IA",
+      "https://www.rtp.pt/noticias/mundo/fundador-da-nvidia-pode-perder-o-comando-da-gigante-da-ia_n1778658"
+     ],
+     [
+      "2026-11-12 10:58",
+      "ECO",
+      "Quem vai suceder a Jensen Huang na liderança da Nvidia?",
+      "https://eco.sapo.pt/2026/11/12/quem-vai-suceder-a-jensen-huang-na-lideranca-da-nvidia/"
+     ],
+     [
+      "2026-11-12 06:53",
+      "CNN Portugal",
+      "De antigos executivos da Pepsi-Cola e da NFL a cientistas: quem faz parte do conselho de administração da Nvidia que vai decidir o futuro de Jensen Huang",
+      "https://cnnportugal.iol.pt/nvidia/jensen-huang/de-antigos-executivos-da-pepsi-cola-e-da-nfl-a-cientistas-quem-faz-parte-do-conselho-de-administracao-da-nvidia-que-vai-decidir-o-futuro-de-jensen-huang/20261112/6af560dbd34e5a653d733eb9"
+     ],
+     [
+      "2026-11-12 05:40",
+      "ECO",
+      "Nvidia prepara saída de Jensen Huang e ações afundam mais de 9%",
+      "https://eco.sapo.pt/2026/11/12/nvidia-prepara-saida-de-jensen-huang-e-acoes-afundam-mais-de-9/"
+     ],
      [
       "2026-11-11 07:58",
       "Observador",
@@ -11414,10 +12008,10 @@
       "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/cenaste-entrega-preaviso-greve-12-14-novembro-casa-musica-2193836"
      ],
      [
-      "2026-11-04 18:35",
+      "2026-11-04 18:30",
       "ECO",
-      "Miguel Stilwell d’Andrade de saída da liderança da EDP. “É a altura certa para sair da EDP”, afirma ao ECO",
-      "https://eco.sapo.pt/2026/11/04/miguel-stilwell-dandrade-de-saida-da-lideranca-da-edp/"
+      "Acordo na Lusa para aumento salarial de 87,50 euros",
+      "https://eco.sapo.pt/2026/11/04/acordo-na-lusa-para-aumento-salarial-de-8750-euros/"
      ],
      [
       "2026-11-04 18:01",
@@ -11426,31 +12020,25 @@
       "https://www.rtp.pt/noticias/economia/miguel-stilwell-de-andrade-vai-deixar-a-lideranca-da-edp_n1776912"
      ],
      [
+      "2026-11-04 17:57",
+      "ECO",
+      "Conselho de Redação da Lusa dá parecer negativo a Diana Ramos, a nova diretora",
+      "https://eco.sapo.pt/2026/11/04/conselho-de-redacao-da-lusa-da-parecer-negativo-a-diana-ramos-a-nova-diretora/"
+     ],
+     [
       "2026-11-04 17:45",
       "Jornal de Negócios",
       "Reforço na REN dá dois a três administradores ao Governo",
       "https://www.jornaldenegocios.pt/empresas/energia/detalhe/reforco-na-ren-da-dois-a-tres-administradores-ao-governo"
      ],
      [
-      "2026-11-04 17:30",
-      "ECO",
-      "Acordo na Lusa para aumento salarial de 87,50 euros",
-      "https://eco.sapo.pt/2026/11/04/acordo-na-lusa-para-aumento-salarial-de-8750-euros/"
-     ],
-     [
-      "2026-11-04 17:16",
+      "2026-11-04 17:09",
       "ECO",
       "Aumento da longevidade obriga seguradoras a repensar poupança para a reforma e seguros de vida",
       "https://eco.sapo.pt/2026/11/04/aumento-da-longevidade-obriga-seguradoras-a-repensar-poupanca-para-a-reforma-e-seguros-de-vida/"
      ],
      [
-      "2026-11-04 16:57",
-      "ECO",
-      "Conselho de Redação da Lusa dá parecer negativo a Diana Ramos, a nova diretora",
-      "https://eco.sapo.pt/2026/11/04/conselho-de-redacao-da-lusa-da-parecer-negativo-a-diana-ramos-a-nova-diretora/"
-     ],
-     [
-      "2026-11-04 09:40",
+      "2026-11-04 10:40",
       "ECO",
       "Próximo Conselho de Administração deve fazer “reestruturação profunda” da RTP",
       "https://eco.sapo.pt/2026/11/04/proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp/"
@@ -12235,9 +12823,9 @@
     "Pegada Legislativa"
    ],
    "cobertura": {
-    "n": 131,
+    "n": 132,
     "n7": 1,
-    "n7ant": 0,
+    "n7ant": 1,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
@@ -12250,16 +12838,16 @@
       "url": "https://cnnportugal.iol.pt/chega/carlos-alexandre/chega-forca-audicao-do-juiz-carlos-alexandre-e-de-jornalistas-na-comissao-de-inquerito-a-luis-neves/20261110/6af36696d34e9ce6f1b43dd9"
      },
      {
+      "data": "2026-11-04",
+      "fonte": "ECO",
+      "titulo": "Polícia Judiciária afasta diretor financeiro",
+      "url": "https://eco.sapo.pt/2026/11/04/policia-judiciaria-afasta-diretor-financeiro/"
+     },
+     {
       "data": "2026-10-27",
       "fonte": "CNN Portugal",
       "titulo": "Comissão de inquérito a Luís Neves não vai ouvir Marcelo, mas chama Costa, Montenegro e Ventura",
       "url": "https://cnnportugal.iol.pt/comissao-de-inquerito/luis-neves/comissao-de-inquerito-a-luis-neves-nao-vai-ouvir-marcelo-mas-chama-costa-montenegro-e-ventura/20261027/6ae0d640d34e53c759c78392"
-     },
-     {
-      "data": "2026-10-27",
-      "fonte": "ECO",
-      "titulo": "CPI a Luís Neves aprova audição de Montenegro, Costa e Ventura, mas rejeita a de Marcelo",
-      "url": "https://eco.sapo.pt/2026/10/27/cpi-a-luis-neves-aprova-audicao-de-montenegro-costa-e-ventura-mas-rejeita-a-de-marcelo/"
      }
     ],
     "todas": [
@@ -12268,6 +12856,12 @@
       "CNN Portugal",
       "Chega força audição do juiz Carlos Alexandre e de jornalistas na comissão de inquérito a Luís Neves",
       "https://cnnportugal.iol.pt/chega/carlos-alexandre/chega-forca-audicao-do-juiz-carlos-alexandre-e-de-jornalistas-na-comissao-de-inquerito-a-luis-neves/20261110/6af36696d34e9ce6f1b43dd9"
+     ],
+     [
+      "2026-11-04 10:17",
+      "ECO",
+      "Polícia Judiciária afasta diretor financeiro",
+      "https://eco.sapo.pt/2026/11/04/policia-judiciaria-afasta-diretor-financeiro/"
      ],
      [
       "2026-10-27 19:08",
@@ -13195,8 +13789,8 @@
    "hora": "11h00",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANE",
-   "ordemTrabalhos": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
+   "resumo": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n15h30 - Trabalhadores Contratados ao Abrigo do PRR para Serviços Públicos\n16h30 - Associação Nacional do Ramo Automóvel (",
+   "ordemTrabalhos": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n15h30 - Trabalhadores Contratados ao Abrigo do PRR para Serviços Públicos\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "id_ar": 48645,
    "chave": "ar-48645",
@@ -13204,9 +13798,14 @@
    "tipo": [
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
-   "uo": [],
+   "uo": [
+    "DACDP",
+    "UPE"
+   ],
    "pertinencia": "Registo",
    "criterio": [
+    "«prr» (DACDP)",
+    "«prr» (UPE)",
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "periodo": "Tarde",
@@ -13223,7 +13822,7 @@
     "ultimas": [],
     "todas": []
    },
-   "alterado": "2026-11-10"
+   "alterado": "2026-11-12"
   },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",
@@ -13286,6 +13885,76 @@
     ]
    },
    "alterado": "2026-11-10"
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do Livre",
+   "data": "2026-11-12",
+   "hora": "12h00",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "12h00 - Plataforma Casa Para Viver",
+   "ordemTrabalhos": "12h00 - Plataforma Casa Para Viver",
+   "orgao": "Audiências do Grupo Parlamentar do Livre",
+   "id_ar": 48692,
+   "chave": "ar-48692",
+   "dataLabel": "quinta, 12 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-12",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "data": "2026-11-12",
+   "hora": "14h00",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h00 – Associação de Obrigacionistas Sénior Particulares Lesados do Novo Banco (AOSPNB)",
+   "ordemTrabalhos": "14h00 – Associação de Obrigacionistas Sénior Particulares Lesados do Novo Banco (AOSPNB)",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "id_ar": 48684,
+   "chave": "ar-48684",
+   "dataLabel": "quinta, 12 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-12",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
   },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",

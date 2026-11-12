@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48691@ar-preview
+DTSTAMP:20261112T160128Z
+DTSTART:20261117T160000Z
+DTEND:20261117T180000Z
+SUMMARY:AR · Audição com a Secretária de Estado dos Assuntos Europeus 
+ após o Conselho Europeu de 15 e 16 de outubro e…
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 65\nGoverno: S
+ ecretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15
+  e 16 de outubro e… · Secretária de Estado dos Assuntos Europeus apó
+ s o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Euro
+ peu extraordinário de 26 e 27 de novembro\, cumprindo o estabelecido nas
+  alíneas a\nSíntese: Grupo de Trabalho – Escrutínio de Iniciativas E
+ uropeias\; Nomeação de Deputado autor de parecer no âmbito de iniciati
+ vas europeias: a)…\nPágina na AR: https://www.parlamento.pt/sites/com/
+ XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): h
+ ttps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-p
+ review/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,9 +1,30 @@
 {
  "inicio": "2026-11-09",
  "fim": "2026-11-15",
- "recolha": "2026-11-12T00:22",
+ "recolha": "2026-11-12T15:55",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
+  {
+   "id_ar": 48684,
+   "data": "2026-11-12",
+   "hora": "14h00",
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h00 – Associação de Obrigacionistas Sénior Particulares Lesados do Novo Banco (AOSPNB)",
+   "ordemTrabalhos": "14h00 – Associação de Obrigacionistas Sénior Particulares Lesados do Novo Banco (AOSPNB)",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
   {
    "id_ar": 48645,
    "data": "2026-11-12",
@@ -15,8 +36,34 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANE",
-   "ordemTrabalhos": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
+   "resumo": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n15h30 - Trabalhadores Contratados ao Abrigo do PRR para Serviços Públicos\n16h30 - Associação Nacional do Ramo Automóvel (",
+   "ordemTrabalhos": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n15h30 - Trabalhadores Contratados ao Abrigo do PRR para Serviços Públicos\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
+   "ligacao": "",
+   "uo": [
+    "DACDP",
+    "UPE"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«prr» (DACDP)",
+    "«prr» (UPE)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48692,
+   "data": "2026-11-12",
+   "hora": "12h00",
+   "tema": "Audiências do Grupo Parlamentar do Livre",
+   "orgao": "Audiências do Grupo Parlamentar do Livre",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "12h00 - Plataforma Casa Para Viver",
+   "ordemTrabalhos": "12h00 - Plataforma Casa Para Viver",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -91,6 +138,98 @@
  ],
  "futuro": [
   {
+   "id_ar": 48685,
+   "data": "2026-11-16",
+   "hora": "14h30",
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 22 · Sala 1",
+   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
+   "uo": [
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48693,
+   "data": "2026-11-16",
+   "hora": "10h30",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h30 - Gonçalo de Oliveira",
+   "ordemTrabalhos": "10h30 - Gonçalo de Oliveira",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48695,
+   "data": "2026-11-17",
+   "hora": "15h30",
+   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "interveniente": "",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28",
+   "resumo": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "ordemTrabalhos": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48691,
+   "data": "2026-11-17",
+   "hora": "16h00",
+   "tema": "Comissão de Assuntos Europeus",
+   "orgao": "Comissão de Assuntos Europeus",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 65",
+   "resumo": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as al",
+   "ordemTrabalhos": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as alterações introduzidas pela Lei n.º 21/2012, de 17 de maio, Lei n.º 18/2018, de 2 de maio, Lei n.º 64/2020, de 2 de novembro e Lei n.º 44/2023, de 14 de agosto\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n a) COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos)\n Deputado Autor de Parecer: Cabe ao PSD\n Iniciativa sinalizada pela CAE: Prazo de envio – 12/01/2027\n b) COM(2026)1037 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 15/01/2027\n Fixação da redação final do Projeto de Resolução n.º 1309/XVII/2.ª (CH) – Recomenda ao Governo que crie as condições necessárias para o cumprimento interno do regulamento europeu relativo à análise dos investimentos estrangeiros na União e que revoga o Regulamento (UE) 2019/452.\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n a) COM(2026) 599 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um quadro de medidas nos Estados-Membros para salvaguardar a acessibilidade dos preços e a disponibilidade de habitação (Regulamento Habitação a Preços Acessíveis)\n Autor de Parecer: Deputado Paulo Moniz (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 17/11/2026\n b) COM(2026) 567 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um regime de medidas para reforçar o ecossistema de inovação da União e que altera o Regulamento (UE) 2017/1001 (Regulamento Inovação Europeia) – Relatório da 6.ª CECT\n Autor de Parecer: Deputado Ricardo Carvalho (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 19/11/2026\n c) COM(2026) 985 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que altera o Regulamento (UE) 2019/1149 que institui uma Autoridade Europeia do Trabalho, o Regulamento (UE) 2016/589 relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho e o Regulamento (UE) n.º 1024/2012 relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno, e revoga as Decisões de Execução (UE) 2017/1256, (UE) 2018/170, (UE) 2018/1020 e (UE) 2018/1021 da Comissão – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Rui Tavares (L)\n Iniciativa sinalizada pela CAE: Prazo de envio – 20/11/2026\n d) COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx",
+   "uo": [
+    "DACDP",
+    "DCIRI"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "«cooperação» (DCIRI)",
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48673,
    "data": "2026-11-18",
    "hora": "10h00",
@@ -116,6 +255,32 @@
     "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
     "Plenário: «orçamento do estado» → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48686,
+   "data": "2026-11-18",
+   "hora": "15h00",
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 145 · Plenário",
+   "resumo": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -170,6 +335,32 @@
    "validado": false
   },
   {
+   "id_ar": 48687,
+   "data": "2026-11-19",
+   "hora": "15h00",
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 146 · Plenário",
+   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48675,
    "data": "2026-11-20",
    "hora": "10h00",
@@ -199,6 +390,32 @@
    "validado": false
   },
   {
+   "id_ar": 48688,
+   "data": "2026-11-20",
+   "hora": "15h00",
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 147 · Plenário",
+   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48676,
    "data": "2026-11-23",
    "hora": "10h00",
@@ -224,6 +441,32 @@
     "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
     "Plenário: «orçamento do estado» → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48689,
+   "data": "2026-11-23",
+   "hora": "15h00",
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 148 · Plenário",
+   "resumo": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
