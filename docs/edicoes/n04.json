@@ -91,6 +91,164 @@
    }
   },
   {
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "data": "2026-11-17",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 9",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "id_ar": 48697,
+   "chave": "ar-48697",
+   "dataLabel": "terça, 17 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "data": "2026-11-17",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 59",
+   "resumo": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públic",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho – Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 6 – Outros assuntos.",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "id_ar": 48696,
+   "chave": "ar-48696",
+   "dataLabel": "terça, 17 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 10,
+    "n7": 1,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "2026-11-06 13:09",
+    "ultimas": [
+     {
+      "data": "2026-11-06",
+      "fonte": "Observador",
+      "titulo": "Spinumviva. Montenegro perde recursos no TC",
+      "url": "https://observador.pt/2026/11/06/spinumviva-montenegro-perde-recursos-no-tribunal-constitucional/"
+     },
+     {
+      "data": "2026-10-16",
+      "fonte": "TSF",
+      "titulo": "Movimento pela habitação \"não subscreve vídeos que possam pôr em causa a integridade física dos titulares de cargos políticos\"",
+      "url": "https://www.tsf.pt/amp/18137970/movimento-pela-habitacao-nao-subscreve-videos-que-possam-por-em-causa-a-integridade-fisica-dos-titulares-de-cargos-politicos"
+     },
+     {
+      "data": "2026-09-28",
+      "fonte": "CNN Portugal",
+      "titulo": "Lacerda Sales terá de \"ser acusado nos termos da lei que criminaliza titulares de cargos políticos\"",
+      "url": "https://cnnportugal.iol.pt/videos/lacerda-sales-tera-de-ser-acusado-nos-termos-da-lei-que-criminaliza-titulares-de-cargos-politicos/6aba486b0cf299bc2953d810"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-06 13:09",
+      "Observador",
+      "Spinumviva. Montenegro perde recursos no TC",
+      "https://observador.pt/2026/11/06/spinumviva-montenegro-perde-recursos-no-tribunal-constitucional/"
+     ],
+     [
+      "2026-10-16 21:06",
+      "TSF",
+      "Movimento pela habitação \"não subscreve vídeos que possam pôr em causa a integridade física dos titulares de cargos políticos\"",
+      "https://www.tsf.pt/amp/18137970/movimento-pela-habitacao-nao-subscreve-videos-que-possam-por-em-causa-a-integridade-fisica-dos-titulares-de-cargos-politicos"
+     ],
+     [
+      "2026-09-28 12:32",
+      "CNN Portugal",
+      "Lacerda Sales terá de \"ser acusado nos termos da lei que criminaliza titulares de cargos políticos\"",
+      "https://cnnportugal.iol.pt/videos/lacerda-sales-tera-de-ser-acusado-nos-termos-da-lei-que-criminaliza-titulares-de-cargos-politicos/6aba486b0cf299bc2953d810"
+     ],
+     [
+      "2026-09-17 09:00",
+      "Visão",
+      "Melhores do que nós, por favor. Opinião de Pedro Marques Lopes",
+      "https://visao.pt/opiniao/politicamente-correto/2026-09-17-melhores-do-que-nos-por-favor-opiniao-de-pedro-marques-lopes/?utm_source=rss&utm_medium=rss&utm_campaign=melhores-do-que-nos-por-favor-opiniao-de-pedro-marques-lopes"
+     ],
+     [
+      "2026-09-16 11:51",
+      "Observador",
+      "BE quer mais meios para garantir declarações de património",
+      "https://observador.pt/2026/09/16/be-quer-mais-meios-e-sancoes-para-garantir-declaracoes-de-patrimonio-de-politicos/"
+     ],
+     [
+      "2026-09-15 21:35",
+      "RTP Notícias",
+      "Transparência não sabe quantos políticos estão obrigados a declarar rendimentos",
+      "https://www.rtp.pt/noticias/politica/transparencia-nao-sabe-quantos-politicos-estao-obrigados-a-declarar-rendimentos_v1765653"
+     ],
+     [
+      "2026-09-15 17:08",
+      "Observador",
+      "Transparência não sabe universo de declarações obrigatórias",
+      "https://observador.pt/2026/09/15/entidade-para-a-transparencia-nao-sabe-quantos-politicos-e-titulares-de-cargos-publicos-tem-de-declarar-rendimentos/"
+     ],
+     [
+      "2026-09-15 11:21",
+      "RTP Notícias",
+      "EpT desconhece quantos políticos e titulares de cargos públicos têm de declarar rendimentos",
+      "https://www.rtp.pt/noticias/politica/ept-desconhece-quantos-politicos-e-titulares-de-cargos-publicos-tem-de-declarar-rendimentos_n1765519"
+     ],
+     [
+      "2026-09-15 11:12",
+      "Jornal Económico",
+      "Transparência não verificou todas as declarações de interesses e rendimentos do atual Governo",
+      "https://jornaleconomico.sapo.pt/noticias/transparencia-nao-verificou-todas-as-declaracoes-de-interesses-e-rendimentos-do-atual-governo/"
+     ],
+     [
+      "2026-09-15 06:59",
+      "ECO",
+      "Tribunal Constitucional falha “lista negra” de políticos e altos cargos públicos",
+      "https://eco.sapo.pt/2026/09/15/tribunal-constitucional-falha-lista-negra-de-politicos-e-altos-cargos-publicos/"
+     ]
+    ]
+   }
+  },
+  {
    "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
    "data": "2026-11-17",
    "hora": "15h30",
@@ -259,14 +417,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 249,
-    "n7": 24,
+    "n": 250,
+    "n7": 25,
     "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-12 11:52",
+    "ultima": "2026-11-12 17:28",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "Açoriano Oriental",
+      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     },
      {
       "data": "2026-11-12",
       "fonte": "ECO",
@@ -278,17 +442,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
       "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
-      "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
      [
-      "2026-11-12 11:52",
+      "2026-11-12 17:28",
+      "Açoriano Oriental",
+      "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     ],
+     [
+      "2026-11-12 10:32",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -1868,6 +2032,108 @@
    }
   },
   {
+   "tema": "Conferência de Líderes",
+   "data": "2026-11-18",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Conferência de Líderes · Reunião n.º 30 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Conferência de Líderes",
+   "id_ar": 48698,
+   "chave": "ar-48698",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Conferência de Líderes"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 8,
+    "n7": 0,
+    "n7ant": 1,
+    "dias": 60,
+    "ref": "2026-11-12",
+    "metodo": "palavras",
+    "ultima": "2026-11-01 15:50",
+    "ultimas": [
+     {
+      "data": "2026-11-01",
+      "fonte": "Observador",
+      "titulo": "PCP quer debate de urgência no Parlamento sobre cargas",
+      "url": "https://observador.pt/2026/11/01/pcp-aponta-governo-como-o-maior-fator-de-instabilidade-no-pais-e-quer-debate-de-urgencia-no-parlamento/"
+     },
+     {
+      "data": "2026-10-22",
+      "fonte": "Observador",
+      "titulo": "Rita Matias propõe criação de sala de amamentação na AR",
+      "url": "https://observador.pt/2026/10/22/rita-matias-propoe-criacao-de-sala-de-amamentacao-no-parlamento/"
+     },
+     {
+      "data": "2026-10-07",
+      "fonte": "Jornal Económico",
+      "titulo": "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
+      "url": "https://jornaleconomico.sapo.pt/noticias/parlamento-aprova-audicao-da-ministra-do-trabalho-e-cga-sobre-erro-no-calculo-de-pensoes/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-01 15:50",
+      "Observador",
+      "PCP quer debate de urgência no Parlamento sobre cargas",
+      "https://observador.pt/2026/11/01/pcp-aponta-governo-como-o-maior-fator-de-instabilidade-no-pais-e-quer-debate-de-urgencia-no-parlamento/"
+     ],
+     [
+      "2026-10-22 07:54",
+      "Observador",
+      "Rita Matias propõe criação de sala de amamentação na AR",
+      "https://observador.pt/2026/10/22/rita-matias-propoe-criacao-de-sala-de-amamentacao-no-parlamento/"
+     ],
+     [
+      "2026-10-07 13:46",
+      "Jornal Económico",
+      "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
+      "https://jornaleconomico.sapo.pt/noticias/parlamento-aprova-audicao-da-ministra-do-trabalho-e-cga-sobre-erro-no-calculo-de-pensoes/"
+     ],
+     [
+      "2026-10-07 13:17",
+      "Jornal Económico",
+      "Maioria apoia Aguiar-Branco para limitar a duas as comissões de inquérito parlamentar",
+      "https://jornaleconomico.sapo.pt/noticias/maioria-apoia-aguiar-branco-para-limitar-a-duas-as-comissoes-de-inquerito-parlamentar/"
+     ],
+     [
+      "2026-10-05 17:16",
+      "Público",
+      "Aguiar-Branco defende limite de duas comissões de inquérito a funcionar em simultâneo",
+      "https://www.publico.pt/2026/10/05/politica/noticia/aguiarbranco-defende-limite-duas-comissoes-inquerito-funcionar-simultaneo-2190343"
+     ],
+     [
+      "2026-10-05 17:14",
+      "Observador",
+      "17h. PAR pede duas comissões de inquérito em simultâneo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-17h-2299/"
+     ],
+     [
+      "2026-09-23 14:11",
+      "ECO",
+      "OE2027. Proposta debatida na generalidade em 27 e 28 de outubro, votação final em 24 novembro",
+      "https://eco.sapo.pt/2026/09/23/oe2027-proposta-debatida-na-generalidade-em-27-e-28-de-outubro-votacao-final-em-24-novembro/"
+     ],
+     [
+      "2026-09-23 13:41",
+      "Jornal de Negócios",
+      "Orçamento debatido na generalidade nos dias 27 e 28 de outubro. Votação final em 24 novembro",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/proposta-do-orcamento-debatida-na-generalidade-em-27-e-28-de-outubro-votacao-final-em-24-novembro"
+     ]
+    ]
+   }
+  },
+  {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "data": "2026-11-19",
    "hora": "10h00",
@@ -1899,14 +2165,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 249,
-    "n7": 24,
+    "n": 250,
+    "n7": 25,
     "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-12 11:52",
+    "ultima": "2026-11-12 17:28",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "Açoriano Oriental",
+      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     },
      {
       "data": "2026-11-12",
       "fonte": "ECO",
@@ -1918,17 +2190,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
       "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
-      "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
      [
-      "2026-11-12 11:52",
+      "2026-11-12 17:28",
+      "Açoriano Oriental",
+      "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     ],
+     [
+      "2026-11-12 10:32",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -3505,14 +3777,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 249,
-    "n7": 24,
+    "n": 250,
+    "n7": 25,
     "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-12 11:52",
+    "ultima": "2026-11-12 17:28",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "Açoriano Oriental",
+      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     },
      {
       "data": "2026-11-12",
       "fonte": "ECO",
@@ -3524,17 +3802,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
       "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
-      "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
      [
-      "2026-11-12 11:52",
+      "2026-11-12 17:28",
+      "Açoriano Oriental",
+      "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     ],
+     [
+      "2026-11-12 10:32",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -5111,14 +5389,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 249,
-    "n7": 24,
+    "n": 250,
+    "n7": 25,
     "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-12 11:52",
+    "ultima": "2026-11-12 17:28",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "Açoriano Oriental",
+      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     },
      {
       "data": "2026-11-12",
       "fonte": "ECO",
@@ -5130,17 +5414,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
       "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
-      "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
      [
-      "2026-11-12 11:52",
+      "2026-11-12 17:28",
+      "Açoriano Oriental",
+      "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     ],
+     [
+      "2026-11-12 10:32",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -6751,14 +7035,20 @@
    "ligacoes": [],
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 249,
-    "n7": 24,
+    "n": 250,
+    "n7": 25,
     "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-12 11:52",
+    "ultima": "2026-11-12 17:28",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "Açoriano Oriental",
+      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     },
      {
       "data": "2026-11-12",
       "fonte": "ECO",
@@ -6770,17 +7060,17 @@
       "fonte": "Jornal de Negócios",
       "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
       "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
-     },
-     {
-      "data": "2026-11-10",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
-      "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
      [
-      "2026-11-12 11:52",
+      "2026-11-12 17:28",
+      "Açoriano Oriental",
+      "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
+      "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
+     ],
+     [
+      "2026-11-12 10:32",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -8515,8 +8805,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-12T16:11+00:00",
-  "atualizadoLabel": "12 de novembro, 16h11",
+  "atualizado": "2026-11-12T23:27+00:00",
+  "atualizadoLabel": "12 de novembro, 23h27",
   "desdeLabel": "6 de novembro",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
@@ -8787,7 +9077,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e análises económicas, com críticas sobre a falta de investimento em áreas como a educação e a saúde, e elogios ao equilíbrio das contas públicas. Os partidos da oposição têm levantado preocupações sobre o cumprimento de condições para a viabilização do orçamento, enquanto o Governo defende a sua viabilidade e ambição. A discussão sobre a competitividade, o investimento e a habitação tem sido um tema central, com propostas de alteração que visam melhorar a eficiência económica e a qualidade de vida. A cobertura tem evoluído para incluir análises sobre o impacto do orçamento em diferentes setores da economia e a sua capacidade de promover o crescimento e a convergência."
   },
   "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -8969,7 +9259,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre competitividade, investimento, habitação e financiamento de infraestruturas. Os partidos da oposição expressaram preocupações sobre o cumprimento de condições para a viabilização do documento, enquanto o Governo enfatizou a sua adequação e benefícios para os portugueses. A cobertura inclui críticas sobre a falta de investimento em áreas como a Educação e a saúde, bem como propostas de alteração que visam melhorar a eficiência e a equidade. O debate parlamentar tem sido marcado por posições divergentes sobre a viabilidade e o impacto do Orçamento, com o PS a defender a estabilidade política e a oposição a levantar questões sobre a sua eficácia."
   },
   "2026-11-20-48675-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -9151,7 +9441,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-10"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "20 notícias analisadas no Radar de Notícias; enquadramento por gerar."
   },
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -9333,7 +9623,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-11"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas de partidos da oposição, que questionam a sua viabilidade e a inclusão de certas medidas. Embora alguns meios de comunicação tenham destacado aspetos positivos como o potencial de crescimento económico e a aposta na competitividade, a maioria das notícias enfatiza a necessidade de ajustes e a importância de cumprir condições para a viabilização do documento. A discussão sobre o OE2027 tem sido marcada por divergências sobre a habitação, o financiamento de infraestruturas e a sustentabilidade das contas públicas."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -9515,7 +9805,7 @@
     "ultima": "2026-11-10 14:27",
     "em": "2026-11-11"
    },
-   "novas": 2,
+   "novas": 3,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado para 2027 (OE2027) tem-se centrado em debates políticos e críticas sobre as medidas propostas, com foco em áreas como competitividade, habitação e financiamento de infraestruturas. Os partidos da oposição, como o PS e o Chega, têm levantado preocupações sobre o cumprimento de condições para a viabilização do documento, enquanto o Governo defende a sua adequação. A discussão inclui propostas de alteração que visam a melhoria de políticas públicas, como a habitação e o investimento, e a análise de potenciais impactos económicos. A cobertura evoluiu para incluir análises de especialistas e empresários sobre a ambição e o equilíbrio financeiro do OE2027."
   },
   "2026-11-10-48672-escrut-nio-de-iniciativas-europeias": {
@@ -9697,7 +9987,7 @@
     "ultima": "2026-11-05 23:15",
     "em": "2026-11-09"
    },
-   "novas": 8,
+   "novas": 9,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se intensamente no escrutínio do orçamento da União Europeia, com 166 notícias que abordam as negociações para o Quadro Financeiro Plurianual 2028-2034. Inicialmente, a discussão centrou-se em críticas e preocupações com cortes propostos, como a proposta de 141 mil milhões de euros (notícias 5 e 10) e a redução de 8% face à proposta da Comissão (notícia 6). Posteriormente, surgiram anúncios de novas propostas e posições negociais, como a preparação de uma nova proposta por António Costa (notícia 14) e a defesa de prioridades como a coesão e a política agrícola (notícias 3 e 15). A cobertura evoluiu também para incluir alertas sobre riscos e falhas no controlo de fundos, como os avisos do TCE (notícias 16 e 18), e para discutir a necessidade de compromissos até ao final do ano (notícias 11 e 19)."
   },
   "2026-11-10-48666-audi-o-com-a-vice-presidente-executiva-da-c": {
@@ -10254,14 +10544,20 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 166,
-    "n7": 8,
+    "n": 167,
+    "n7": 9,
     "n7ant": 7,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "expressoes",
-    "ultima": "2026-11-11 16:47",
+    "ultima": "2026-11-12 21:43",
     "ultimas": [
+     {
+      "data": "2026-11-12",
+      "fonte": "Observador",
+      "titulo": "Seguro diz ser \"incompreensível\" cortar recursos da UE",
+      "url": "https://observador.pt/2026/11/12/seguro-considera-incompreensivel-que-alguns-lideres-de-paises-da-uniao-europeia-queiram-cortar-recursos/"
+     },
      {
       "data": "2026-11-11",
       "fonte": "Açoriano Oriental",
@@ -10273,15 +10569,15 @@
       "fonte": "Jornal de Negócios",
       "titulo": "António Costa deve fazer nova proposta de orçamento da UE em 21 de novembro",
       "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-deve-fazer-nova-proposta-de-orcamento-da-ue-em-21-de-novembro"
-     },
-     {
-      "data": "2026-11-11",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
-      "url": "https://www.noticiasaominuto.com/mundo/3082312/costa-preve-apresentar-nova-proposta-de-orcamento-da-ue-em-21-de-novembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-12 21:43",
+      "Observador",
+      "Seguro diz ser \"incompreensível\" cortar recursos da UE",
+      "https://observador.pt/2026/11/12/seguro-considera-incompreensivel-que-alguns-lideres-de-paises-da-uniao-europeia-queiram-cortar-recursos/"
+     ],
      [
       "2026-11-11 16:47",
       "Açoriano Oriental",
@@ -11763,19 +12059,19 @@
    "ligacoes": [],
    "novo": "2026-11-07",
    "cobertura": {
-    "n": 126,
-    "n7": 35,
+    "n": 125,
+    "n7": 34,
     "n7ant": 16,
     "dias": 60,
     "ref": "2026-11-12",
     "metodo": "palavras",
-    "ultima": "2026-11-12 14:04",
+    "ultima": "2026-11-12 12:51",
     "ultimas": [
      {
       "data": "2026-11-12",
-      "fonte": "Jornal Económico",
-      "titulo": "Jensen Huang demite-se da liderança da Nvidia",
-      "url": "https://jornaleconomico.sapo.pt/noticias/jensen-huang-demite-se-da-lideranca-da-nvidia/"
+      "fonte": "RTP Notícias",
+      "titulo": "Fundador da Nvidia pode perder o comando da gigante da IA",
+      "url": "https://www.rtp.pt/noticias/mundo/fundador-da-nvidia-pode-perder-o-comando-da-gigante-da-ia_n1778658"
      },
      {
       "data": "2026-11-12",
@@ -11785,24 +12081,12 @@
      },
      {
       "data": "2026-11-12",
-      "fonte": "RTP Notícias",
-      "titulo": "Fundador da Nvidia pode perder o comando da gigante da IA",
-      "url": "https://www.rtp.pt/noticias/mundo/fundador-da-nvidia-pode-perder-o-comando-da-gigante-da-ia_n1778658"
+      "fonte": "CNN Portugal",
+      "titulo": "De antigos executivos da Pepsi-Cola e da NFL a cientistas: quem faz parte do conselho de administração da Nvidia que vai decidir o futuro de Jensen Huang",
+      "url": "https://cnnportugal.iol.pt/nvidia/jensen-huang/de-antigos-executivos-da-pepsi-cola-e-da-nfl-a-cientistas-quem-faz-parte-do-conselho-de-administracao-da-nvidia-que-vai-decidir-o-futuro-de-jensen-huang/20261112/6af560dbd34e5a653d733eb9"
      }
     ],
     "todas": [
-     [
-      "2026-11-12 14:04",
-      "Jornal Económico",
-      "Jensen Huang demite-se da liderança da Nvidia",
-      "https://jornaleconomico.sapo.pt/noticias/jensen-huang-demite-se-da-lideranca-da-nvidia/"
-     ],
-     [
-      "2026-11-12 13:58",
-      "ECO",
-      "Jensen Huang demite-se da liderança da Nvidia",
-      "https://eco.sapo.pt/2026/11/12/jensen-huang-deixa-lideranca-da-nvidia/"
-     ],
      [
       "2026-11-12 12:51",
       "RTP Notícias",
@@ -11810,10 +12094,10 @@
       "https://www.rtp.pt/noticias/mundo/fundador-da-nvidia-pode-perder-o-comando-da-gigante-da-ia_n1778658"
      ],
      [
-      "2026-11-12 10:58",
+      "2026-11-12 09:58",
       "ECO",
-      "Quem vai suceder a Jensen Huang na liderança da Nvidia?",
-      "https://eco.sapo.pt/2026/11/12/quem-vai-suceder-a-jensen-huang-na-lideranca-da-nvidia/"
+      "Jensen Huang demite-se da liderança da Nvidia",
+      "https://eco.sapo.pt/2026/11/12/jensen-huang-deixa-lideranca-da-nvidia/"
      ],
      [
       "2026-11-12 06:53",
@@ -11826,6 +12110,12 @@
       "ECO",
       "Nvidia prepara saída de Jensen Huang e ações afundam mais de 9%",
       "https://eco.sapo.pt/2026/11/12/nvidia-prepara-saida-de-jensen-huang-e-acoes-afundam-mais-de-9/"
+     ],
+     [
+      "2026-11-12 04:39",
+      "ECO",
+      "Quem vai suceder a Jensen Huang na liderança da Nvidia?",
+      "https://eco.sapo.pt/2026/11/12/quem-vai-suceder-a-jensen-huang-na-lideranca-da-nvidia/"
      ],
      [
       "2026-11-11 07:58",
