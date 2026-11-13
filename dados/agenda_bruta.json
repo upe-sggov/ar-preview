@@ -1,86 +1,9 @@
 {
- "inicio": "2026-11-09",
- "fim": "2026-11-15",
- "recolha": "2026-11-12T23:27",
+ "inicio": "2026-11-16",
+ "fim": "2026-11-22",
+ "recolha": "2026-11-13T15:17",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48684,
-   "data": "2026-11-12",
-   "hora": "14h00",
-   "tema": "Audiências do Grupo Parlamentar do PSD",
-   "orgao": "Audiências do Grupo Parlamentar do PSD",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "14h00 – Associação de Obrigacionistas Sénior Particulares Lesados do Novo Banco (AOSPNB)",
-   "ordemTrabalhos": "14h00 – Associação de Obrigacionistas Sénior Particulares Lesados do Novo Banco (AOSPNB)",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48645,
-   "data": "2026-11-12",
-   "hora": "11h00",
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n15h30 - Trabalhadores Contratados ao Abrigo do PRR para Serviços Públicos\n16h30 - Associação Nacional do Ramo Automóvel (",
-   "ordemTrabalhos": "11h00 - Plataforma Pela Reposição das SCUTs na A23 e A25\n14h30 - Associação pela Mobilidade Urbana em Bicicleta (MUBi)\n15h30 - BIRD\n15h30 - André Corrêa d'Almeida - All4Integrity\n15h30 - Trabalhadores Contratados ao Abrigo do PRR para Serviços Públicos\n16h30 - Associação Nacional do Ramo Automóvel (ARAN)\n17h30 - Associação Nacional de Empresas de Bebidas Espirituosas (ANEBE)",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48692,
-   "data": "2026-11-12",
-   "hora": "12h00",
-   "tema": "Audiências do Grupo Parlamentar do Livre",
-   "orgao": "Audiências do Grupo Parlamentar do Livre",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "12h00 - Plataforma Casa Para Viver",
-   "ordemTrabalhos": "12h00 - Plataforma Casa Para Viver",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48659,
-   "data": "2026-11-12",
-   "hora": "11h30",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h00 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
-   "ordemTrabalhos": "11h30 - Um grupo de 11 alunos e professores do Centro de Formação e Empreendedorismo de Pombal\n14h00 - Ministra da Indústria, Empreendedorismo, Comércio e Inovação e delegação do Kosovo",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48660,
-   "data": "2026-11-13",
-   "hora": "14h30",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "14h30 - Um grupo de 15 cidadãos da Associação CAIS, Braço de Prata\n15h30 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã\n16h00 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã",
-   "ordemTrabalhos": "14h30 - Um grupo de 15 cidadãos da Associação CAIS, Braço de Prata\n15h30 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã\n16h00 - Um grupo de 25 alunos e professores da Universidade da Beira Interior, Covilhã",
-   "ligacao": ""
-  }
- ],
- "futuro": [
   {
    "id_ar": 48685,
    "data": "2026-11-16",
@@ -109,6 +32,21 @@
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
    "resumo": "10h30 - Gonçalo de Oliveira",
    "ordemTrabalhos": "10h30 - Gonçalo de Oliveira",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48701,
+   "data": "2026-11-16",
+   "hora": "10h30",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "10h30 - Um grupo de 20 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 30 cidadãos da Associação de Mulheres Internacionais em Portugal, Cascais\n11h00 - Uma delegação da Embaixada da República Dominicana\n11h30 - Um grupo de 26 alunos e professores da Escola Profissional de Ho",
+   "ordemTrabalhos": "10h30 - Um grupo de 20 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 30 cidadãos da Associação de Mulheres Internacionais em Portugal, Cascais\n11h00 - Uma delegação da Embaixada da República Dominicana\n11h30 - Um grupo de 26 alunos e professores da Escola Profissional de Hotelaria e Turismo de Lisboa\n14h30 - Um grupo de 27 alunos e professores da Escola Secundária Manuel Cargaleiro, Amora\n15h00 - Um grupo de 27 alunos e professores da Escola Secundária Manuel Cargaleiro, Amora",
    "ligacao": ""
   },
   {
@@ -168,8 +106,38 @@
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 65",
    "resumo": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as al",
-   "ordemTrabalhos": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as alterações introduzidas pela Lei n.º 21/2012, de 17 de maio, Lei n.º 18/2018, de 2 de maio, Lei n.º 64/2020, de 2 de novembro e Lei n.º 44/2023, de 14 de agosto\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n a) COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos)\n Deputado Autor de Parecer: Cabe ao PSD\n Iniciativa sinalizada pela CAE: Prazo de envio – 12/01/2027\n b) COM(2026)1037 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 15/01/2027\n Fixação da redação final do Projeto de Resolução n.º 1309/XVII/2.ª (CH) – Recomenda ao Governo que crie as condições necessárias para o cumprimento interno do regulamento europeu relativo à análise dos investimentos estrangeiros na União e que revoga o Regulamento (UE) 2019/452.\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n a) COM(2026) 599 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um quadro de medidas nos Estados-Membros para salvaguardar a acessibilidade dos preços e a disponibilidade de habitação (Regulamento Habitação a Preços Acessíveis)\n Autor de Parecer: Deputado Paulo Moniz (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 17/11/2026\n b) COM(2026) 567 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um regime de medidas para reforçar o ecossistema de inovação da União e que altera o Regulamento (UE) 2017/1001 (Regulamento Inovação Europeia) – Relatório da 6.ª CECT\n Autor de Parecer: Deputado Ricardo Carvalho (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 19/11/2026\n c) COM(2026) 985 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que altera o Regulamento (UE) 2019/1149 que institui uma Autoridade Europeia do Trabalho, o Regulamento (UE) 2016/589 relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho e o Regulamento (UE) n.º 1024/2012 relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno, e revoga as Decisões de Execução (UE) 2017/1256, (UE) 2018/170, (UE) 2018/1020 e (UE) 2018/1021 da Comissão – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Rui Tavares (L)\n Iniciativa sinalizada pela CAE: Prazo de envio – 20/11/2026\n d) COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
+   "ordemTrabalhos": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as alterações introduzidas pela Lei n.º 21/2012, de 17 de maio, Lei n.º 18/2018, de 2 de maio, Lei n.º 64/2020, de 2 de novembro e Lei n.º 44/2023, de 14 de agosto\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n a) COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos)\n Deputado Autor de Parecer: Cabe ao PSD\n Iniciativa sinalizada pela CAE: Prazo de envio – 12/01/2027\n b) COM(2026)1037 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 15/01/2027\n Fixação da redação final do Projeto de Resolução n.º 1309/XVII/2.ª (CH) – Recomenda ao Governo que crie as condições necessárias para o cumprimento interno do regulamento europeu relativo à análise dos investimentos estrangeiros na União e que revoga o Regulamento (UE) 2019/452.\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n a) COM(2026) 599 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um quadro de medidas nos Estados-Membros para salvaguardar a acessibilidade dos preços e a disponibilidade de habitação (Regulamento Habitação a Preços Acessíveis)\n Autor de Parecer: Deputado Paulo Moniz (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 17/11/2026\n b) COM(2026) 567 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um regime de medidas para reforçar o ecossistema de inovação da União e que altera o Regulamento (UE) 2017/1001 (Regulamento Inovação Europeia) – Relatório da 6.ª CECT\n Autor de Parecer: Deputado Ricardo Carvalho (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 19/11/2026\n c) COM(2026) 985 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que altera o Regulamento (UE) 2019/1149 que institui uma Autoridade Europeia do Trabalho, o Regulamento (UE) 2016/589 relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho e o Regulamento (UE) n.º 1024/2012 relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno, e revoga as Decisões de Execução (UE) 2017/1256, (UE) 2018/170, (UE) 2018/1020 e (UE) 2018/1021 da Comissão – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Rui Tavares (L)\n Iniciativa sinalizada pela CAE: Prazo de envio – 20/11/2026\n Outros assuntos",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48705,
+   "data": "2026-11-17",
+   "hora": "15h00",
+   "tema": "Audiências do Grupo Parlamentar do CH",
+   "orgao": "Audiências do Grupo Parlamentar do CH",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "15h00 – Sindicato do Sector Financeiro",
+   "ordemTrabalhos": "15h00 – Sindicato do Sector Financeiro",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48702,
+   "data": "2026-11-17",
+   "hora": "10h00",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "10h00 - Um grupo de 23 alunos e professores da Escola Básica Nova, Peniche\n10h30 - Um grupo de 22 alunos e professores da Escola Básica Nova, Peniche\n14h30 - Um grupo de 28 alunos e professores do Colégio Colibri, Massamá\n15h00 - Um grupo de 26 alunos e professores do Colégio Colibri, Massamá\n15h30 ",
+   "ordemTrabalhos": "10h00 - Um grupo de 23 alunos e professores da Escola Básica Nova, Peniche\n10h30 - Um grupo de 22 alunos e professores da Escola Básica Nova, Peniche\n14h30 - Um grupo de 28 alunos e professores do Colégio Colibri, Massamá\n15h00 - Um grupo de 26 alunos e professores do Colégio Colibri, Massamá\n15h30 - Um grupo de 24 alunos e professores da Escola Secundária António Damásio, Olivais",
+   "ligacao": ""
   },
   {
    "id_ar": 48673,
@@ -185,6 +153,21 @@
    "resumo": "ORDEM DO DIA \n 10H00 \n Debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n",
    "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n Debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
    "ligacao": ""
+  },
+  {
+   "id_ar": 48700,
+   "data": "2026-11-18",
+   "hora": "14h15",
+   "tema": "Comissão de Assuntos Europeus",
+   "orgao": "Comissão de Assuntos Europeus",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 66",
+   "resumo": "Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Auto",
+   "ordemTrabalhos": "Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
   },
   {
    "id_ar": 48686,
@@ -232,6 +215,36 @@
    "ligacao": ""
   },
   {
+   "id_ar": 48703,
+   "data": "2026-11-18",
+   "hora": "15h00",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "15h00 - Um grupo de 23 alunos e professores da Escola Básica de Mação, Santarém\n15h30 - Um grupo de 22 alunos e professores da Escola Básica de Mação, Santarém",
+   "ordemTrabalhos": "15h00 - Um grupo de 23 alunos e professores da Escola Básica de Mação, Santarém\n15h30 - Um grupo de 22 alunos e professores da Escola Básica de Mação, Santarém",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48707,
+   "data": "2026-11-18",
+   "hora": "10h00",
+   "tema": "Assistências à Sessão Plenária",
+   "orgao": "Assistências à Sessão Plenária",
+   "interveniente": "",
+   "tipo": [
+    "Assistências ao Plenário"
+   ],
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Instituto Superior de Contabilidade e Administração de Coimbra\n10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola B/S Lima de Freitas, Setúbal\n10h00 - 11h15 - Um grupo de 45 alunos e professores da Escola Básica de Mação\n10h00 - 11h15 - Um grupo de 45 Autarcas do concelho de Castro Marim\n10h00 - 11h15 - Um grupo de 10 alunos de Direito, Coimbra\n11h30 - 13h00 - Um grupo de 34 alunos e professores da Escola Secundária de Leal da Câmara, Sintra\n11h30 - 13h00 - Um grupo de 136 alunos e professores da    Escola Secundária de Sertã",
+   "ligacao": ""
+  },
+  {
    "id_ar": 48674,
    "data": "2026-11-19",
    "hora": "10h00",
@@ -260,6 +273,51 @@
    "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
    "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+  },
+  {
+   "id_ar": 48699,
+   "data": "2026-11-19",
+   "hora": "15h00",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA",
+   "ordemTrabalhos": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48704,
+   "data": "2026-11-19",
+   "hora": "16h00",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "16h00 - Um grupo de 28 cidadãos da Junta de Freguesia do Seixo",
+   "ordemTrabalhos": "16h00 - Um grupo de 28 cidadãos da Junta de Freguesia do Seixo",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48708,
+   "data": "2026-11-19",
+   "hora": "10h00",
+   "tema": "Assistências à Sessão Plenária",
+   "orgao": "Assistências à Sessão Plenária",
+   "interveniente": "",
+   "tipo": [
+    "Assistências ao Plenário"
+   ],
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "10h00 - 11h15 - Um grupo de 68 alunos e professores do Agrupamento de Escolas de Búzio, Vale de Cambra\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Luís António Verney, Lisboa\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas Carolina Mich",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 68 alunos e professores do Agrupamento de Escolas de Búzio, Vale de Cambra\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Luís António Verney, Lisboa\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas Carolina Michaelis, Porto\n10h00 - 11h15 - Um grupo de 40 cidadãos do concelho de Mira\n10h00 - 11h15 - Um grupo de 50 alunos e professores do ISCTE\n10h00 - 11h15 - Um grupo de 34 alunos e professores da Escola Profissional António Lago Cerqueira - Amarante\n11h30 - 13h00 - Um grupo de 33 alunos e professores da Escola Secundária João de Barros, Seixal\n11h30 - 13h00 - Um grupo de 104 alunos e professores do Colégio Miramar, Mafra\n11h30 - 13h00 - Um grupo de 30 alunos e professores da Escola Profissional do Fundão\n11h30 - 13h00 - Um grupo de 25 alunos e professores da Escola Secundária José Gomes Ferreira, Benfica",
+   "ligacao": ""
   },
   {
    "id_ar": 48675,
@@ -291,6 +349,38 @@
    "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   },
+  {
+   "id_ar": 48706,
+   "data": "2026-11-20",
+   "hora": "14h30",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "14h30 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n15h00 - Um grupo de 28 cidadãos da Câmara Municipal de Marvão\n15h30 - Um grupo de 27 cidadãos da Câmara Municipal de Marvão\n16h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agual",
+   "ordemTrabalhos": "14h30 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n15h00 - Um grupo de 28 cidadãos da Câmara Municipal de Marvão\n15h30 - Um grupo de 27 cidadãos da Câmara Municipal de Marvão\n16h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira, Sintra",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48709,
+   "data": "2026-11-20",
+   "hora": "10h00",
+   "tema": "Assistências à Sessão Plenária",
+   "orgao": "Assistências à Sessão Plenária",
+   "interveniente": "",
+   "tipo": [
+    "Assistências ao Plenário"
+   ],
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintr",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
+   "ligacao": ""
+  }
+ ],
+ "futuro": [
   {
    "id_ar": 48676,
    "data": "2026-11-23",

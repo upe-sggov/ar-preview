@@ -6,17 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48673@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261118T100000Z
 DTEND:20261118T120000Z
-SUMMARY:AR · Plenário — Debate na especialidade do Orçamento do Estad
- o para 2027
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 17 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Proposta de Lei n.º 110/XVII/2.ª (GO
- V)\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR
-  Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa
- \; a agenda da AR pode mudar.
+ intervenção prevista)\nSíntese: Debate na especialidade do Orçamento 
+ do Estado para 2027\; Proposta de Lei n.º 110/XVII/2.ª (GOV)\nEmissões
+  em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: htt
+ ps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda d
+ a AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

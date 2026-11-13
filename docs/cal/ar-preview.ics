@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-CALDESC:Matérias Imediato e Vigilância da agenda da Assembleia da República (AR Preview). Atualização automática.
 BEGIN:VEVENT
 UID:ar-48600@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261102T090000Z
 DTEND:20261102T110000Z
 SUMMARY:AR · Ministro das Infraestruturas e Habitação\, Miguel Pinto Lu
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48571@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261102T150000Z
 DTEND:20261102T170000Z
 SUMMARY:AR · Ministra da Cultura\, Juventude e Desporto\, Margarida Balse
@@ -57,7 +57,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48595@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261103T090000Z
 DTEND:20261103T110000Z
 SUMMARY:AR · Ministra do Ambiente e Energia\, Maria da Graça Carvalho: O
@@ -80,7 +80,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48570@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261103T143000Z
 DTEND:20261103T163000Z
 SUMMARY:AR · Regulamento de registo e publicitação de audiências e int
@@ -99,7 +99,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48569@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261103T150000Z
 DTEND:20261103T170000Z
 SUMMARY:AR · Ministro da Presidência\, António Leitão Amaro: Orçament
@@ -123,7 +123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48568@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261104T140000Z
 DTEND:20261104T160000Z
 SUMMARY:AR · Ministra da Justiça\, Rita Alarcão Júdice: Orçamento do 
@@ -146,7 +146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48602@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
 SUMMARY:AR · Ministro da Educação\, Ciência e Inovação\, Fernando Al
@@ -168,7 +168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48566@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261105T140000Z
 DTEND:20261105T160000Z
 SUMMARY:AR · Ministro da Defesa Nacional\, Nuno Melo: Orçamento da Defes
@@ -190,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48635@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261105T180000Z
 DTEND:20261105T200000Z
 SUMMARY:AR · Ministro da Agricultura e Mar\, José Manuel Fernandes: Orç
@@ -213,7 +213,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48590@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261106T090000Z
 DTEND:20261106T110000Z
 SUMMARY:AR · Ministra do Trabalho\, Solidariedade e Segurança Social\, M
@@ -237,7 +237,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48630@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261106T150000Z
 DTEND:20261106T170000Z
 SUMMARY:AR · Ministro de Estado e das Finanças\, Joaquim Miranda Sarment
@@ -259,7 +259,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48669@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261109T160000Z
 DTEND:20261109T180000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
@@ -278,7 +278,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48672@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261110T083000Z
 DTEND:20261110T103000Z
 SUMMARY:AR · Escrutínio de Iniciativas Europeias
@@ -292,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48666@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261110T090000Z
 DTEND:20261110T110000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
@@ -311,7 +311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48670@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:AR · Intervenção de Luís Neves na Polícia Judiciária
@@ -329,7 +329,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48695@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261117T153000Z
 DTEND:20261117T173000Z
 SUMMARY:AR · Grupo de Trabalho de Escrutínio de Iniciativas Europeias
@@ -343,7 +343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48691@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
 SUMMARY:AR · Audição com a Secretária de Estado dos Assuntos Europeus 
@@ -365,57 +365,71 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48673@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261118T100000Z
 DTEND:20261118T120000Z
-SUMMARY:AR · Plenário — Debate na especialidade do Orçamento do Estad
- o para 2027
+SUMMARY:AR · Orçamento do Estado 2027
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 17 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Proposta de Lei n.º 110/XVII/2.ª (GO
- V)\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR
-  Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa
- \; a agenda da AR pode mudar.
+ intervenção prevista)\nSíntese: Debate na especialidade do Orçamento 
+ do Estado para 2027\; Proposta de Lei n.º 110/XVII/2.ª (GOV)\nEmissões
+  em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: htt
+ ps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda d
+ a AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48700@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261118T141500Z
+DTEND:20261118T161500Z
+SUMMARY:AR · Escrutínio de iniciativa europeia sobre segurança digital
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 66\nSíntese: 
+ Apreciação e votação de parecer da CAE no âmbito do escrutínio de i
+ niciativas europeias\nPágina na AR: https://www.parlamento.pt/sites/com/
+ XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): h
+ ttps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-p
+ review/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48674@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261119T100000Z
 DTEND:20261119T120000Z
-SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
- normas avocadas
+SUMMARY:AR · Debate e Votações do Orçamento do Estado para 2027
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 18 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Votações\; Continuação do debate n
- a especialidade do Orçamento do Estado para 2027\nEmissões em direto (q
- uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
- v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
- ar.
+ intervenção prevista)\nSíntese: Discussão de artigos remetidos a Plen
+ ário e normas avocadas\; Continuação do debate na especialidade do Or
+ çamento do Estado para 2027\nEmissões em direto (quando houver): https:
+ //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
+ w/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48675@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261120T100000Z
 DTEND:20261120T120000Z
-SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
- normas avocadas
+SUMMARY:AR · Debate e votação de artigos do Orçamento do Estado para 2
+ 027
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 19 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Votações\; Continuação do debate n
- a especialidade do Orçamento do Estado para 2027\nEmissões em direto (q
- uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
- v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
- ar.
+ intervenção prevista)\nSíntese: Discussão de artigos remetidos a Plen
+ ário e normas avocadas\; Votações\nEmissões em direto (quando houver)
+ : https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/a
+ r-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48676@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261123T100000Z
 DTEND:20261123T120000Z
 SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
@@ -432,7 +446,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48677@ar-preview
-DTSTAMP:20261112T232836Z
+DTSTAMP:20261113T161117Z
 DTSTART:20261124T100000Z
 DTEND:20261124T120000Z
 SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 

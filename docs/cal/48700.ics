@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48700@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261118T141500Z
+DTEND:20261118T161500Z
+SUMMARY:AR · Escrutínio de iniciativa europeia sobre segurança digital
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 66\nSíntese: 
+ Apreciação e votação de parecer da CAE no âmbito do escrutínio de i
+ niciativas europeias\nPágina na AR: https://www.parlamento.pt/sites/com/
+ XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): h
+ ttps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-p
+ review/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

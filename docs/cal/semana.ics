@@ -3,74 +3,104 @@ VERSION:2.0
 PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:AR Preview · 9 a 15 de novembro de 2026
+X-WR-CALNAME:AR Preview · 16 a 22 de novembro de 2026
 BEGIN:VEVENT
-UID:ar-48669@ar-preview
-DTSTAMP:20261112T232836Z
-DTSTART:20261109T160000Z
-DTEND:20261109T180000Z
-SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
- eia\, Teresa Ribera
-LOCATION:Assembleia da República · Sala Senado
-DESCRIPTION:Comissões de Ambiente e Energia\, de Assuntos Europeus e de E
- conomia e Coesão Territorial (audição conjunta) · Sala Senado\nSínte
- se: Teresa Ribera\, responsável pelo pelouro da Transição Limpa\, Just
- a e Competitiva\nPágina na AR: https://www.parlamento.pt/sites/com/XVIIL
- eg/11CAEne/Paginas/default.aspx\nEmissões em direto (quando houver): htt
- ps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pre
- view/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.as
- px
+UID:ar-48695@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261117T153000Z
+DTEND:20261117T173000Z
+SUMMARY:AR · Grupo de Trabalho de Escrutínio de Iniciativas Europeias
+LOCATION:Assembleia da República
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 28\nSíntese: Propostas de 
+ deliberação\nEmissões em direto (quando houver): https://canal.parlame
+ nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
+  indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48672@ar-preview
-DTSTAMP:20261112T232836Z
-DTSTART:20261110T083000Z
-DTEND:20261110T103000Z
-SUMMARY:AR · Escrutínio de Iniciativas Europeias
-LOCATION:Assembleia da República · Sala Senado
-DESCRIPTION:Grupo de Trabalho · Reunião n.º 27 · Sala Senado\nSíntese
- : Propostas de deliberação\nEmissões em direto (quando houver): https:
+UID:ar-48691@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261117T160000Z
+DTEND:20261117T180000Z
+SUMMARY:AR · Audição com a Secretária de Estado dos Assuntos Europeus 
+ após o Conselho Europeu de 15 e 16 de outubro e…
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 65\nGoverno: S
+ ecretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15
+  e 16 de outubro e… · Secretária de Estado dos Assuntos Europeus apó
+ s o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Euro
+ peu extraordinário de 26 e 27 de novembro\, cumprindo o estabelecido nas
+  alíneas a\nSíntese: Grupo de Trabalho – Escrutínio de Iniciativas E
+ uropeias\; Nomeação de Deputado autor de parecer no âmbito de iniciati
+ vas europeias: a)…\nPágina na AR: https://www.parlamento.pt/sites/com/
+ XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): h
+ ttps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-p
+ review/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48673@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261118T100000Z
+DTEND:20261118T120000Z
+SUMMARY:AR · Orçamento do Estado 2027
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 17 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Debate na especialidade do Orçamento 
+ do Estado para 2027\; Proposta de Lei n.º 110/XVII/2.ª (GOV)\nEmissões
+  em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: htt
+ ps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda d
+ a AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48700@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261118T141500Z
+DTEND:20261118T161500Z
+SUMMARY:AR · Escrutínio de iniciativa europeia sobre segurança digital
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 66\nSíntese: 
+ Apreciação e votação de parecer da CAE no âmbito do escrutínio de i
+ niciativas europeias\nPágina na AR: https://www.parlamento.pt/sites/com/
+ XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): h
+ ttps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-p
+ review/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48674@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261119T100000Z
+DTEND:20261119T120000Z
+SUMMARY:AR · Debate e Votações do Orçamento do Estado para 2027
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 18 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Discussão de artigos remetidos a Plen
+ ário e normas avocadas\; Continuação do debate na especialidade do Or
+ çamento do Estado para 2027\nEmissões em direto (quando houver): https:
  //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
  w/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48666@ar-preview
-DTSTAMP:20261112T232836Z
-DTSTART:20261110T090000Z
-DTEND:20261110T110000Z
-SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
- eia\, Henna Virkkunen
-LOCATION:Assembleia da República · Sala Senado
-DESCRIPTION:Comissões de Assuntos Europeus e de Economia e Coesão Territ
- orial (audição conjunta) · Sala Senado\nSíntese: Grupo de Trabalho 
- – Escrutínio de Iniciativas Europeias\; Nomeação de Deputado autor d
- e parecer no âmbito de iniciativas europeias\nPágina na AR: https://www
- .parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em 
- direto (quando houver): https://canal.parlamento.pt/\nAR Preview: https:/
- /upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR
-  pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48670@ar-preview
-DTSTAMP:20261112T232836Z
-DTSTART:20261110T160000Z
-DTEND:20261110T180000Z
-SUMMARY:AR · Intervenção de Luís Neves na Polícia Judiciária
-LOCATION:Assembleia da República · Sala 1
-DESCRIPTION:Comissão Parlamentar de Inquérito para avaliação da interv
- enção de Luís Neves enquanto diretor da Polícia Judiciária durante t
- odos os seus mandatos (2018-2026) e eventual responsabilidade de membros 
- do Governo que o nomearam e tutelaram · Reunião n.º 3 · Sala 1\nSínt
- ese: Discussão e votação do projeto de regulamento da Comissão e das 
- propostas de alteração apresentadas\nEmissões em direto (quando houver
- ): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/
- ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+UID:ar-48675@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261120T100000Z
+DTEND:20261120T120000Z
+SUMMARY:AR · Debate e votação de artigos do Orçamento do Estado para 2
+ 027
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 19 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Discussão de artigos remetidos a Plen
+ ário e normas avocadas\; Votações\nEmissões em direto (quando houver)
+ : https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/a
+ r-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48709@ar-preview
+DTSTAMP:20261113T161117Z
+DTSTART:20261120T100000Z
+DTEND:20261120T120000Z
+SUMMARY:AR · Assistências à Sessão Plenária
+LOCATION:Assembleia da República
+DESCRIPTION:Assistências ao Plenário\nEmissões em direto (quando houver
+ ): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/
+ ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
