@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-16",
  "fim": "2026-11-22",
- "recolha": "2026-11-13T15:17",
+ "recolha": "2026-11-13T16:11",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -103,33 +103,12 @@
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 59",
    "resumo": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públic",
-   "ordemTrabalhos": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho – Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 6 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho – Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 6 – Deliberação sobre a admissibilidade e distribuição de participações e denúncias enviadas à Comissão (matéria reservada);\n 7 – Outros assuntos.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
    "uo": [],
    "pertinencia": "Registo",
    "criterio": [
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48695,
-   "data": "2026-11-17",
-   "hora": "15h30",
-   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "interveniente": "",
-   "tipo": [
-    "Grupo de Trabalho"
-   ],
-   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28",
-   "resumo": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
-   "ordemTrabalhos": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
    ],
    "validado": false
   },
@@ -227,6 +206,27 @@
     "«orçamento do estado» (UPE)",
     "«orçamento do estado» (transversal)",
     "Plenário: «orçamento do estado» → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48695,
+   "data": "2026-11-18",
+   "hora": "14h00",
+   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "interveniente": "",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28",
+   "resumo": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "ordemTrabalhos": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
    ],
    "validado": false
   },
@@ -355,7 +355,7 @@
    ],
    "tipoLabel": "Assistências ao Plenário",
    "resumo": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Instituto Superior de Contabilidade e Administração de Coimbra\n10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola B/S Lima de Freitas, Setúbal\n10h00 - 11h15 - Um grupo de 45 alunos e professores da Escola Básica de Mação\n10h00 - 11h15 - Um grupo de 45 Autarcas do concelho de Castro Marim\n10h00 - 11h15 - Um grupo de 10 alunos de Direito, Coimbra\n11h30 - 13h00 - Um grupo de 34 alunos e professores da Escola Secundária de Leal da Câmara, Sintra\n11h30 - 13h00 - Um grupo de 136 alunos e professores da    Escola Secundária de Sertã",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Instituto Superior de Contabilidade e Administração de Coimbra\n10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola B/S Lima de Freitas, Setúbal\n10h00 - 11h15 - Um grupo de 45 alunos e professores da Escola Básica de Mação\n10h00 - 11h15 - Um grupo de 45 Autarcas do concelho de Castro Marim\n10h00 - 11h15 - Um grupo de 10 alunos de Direito, Coimbra\n11h30 - 13h00 - Um grupo de 34 alunos e professores da Escola Secundária de Leal da Câmara, Sintra\n11h30 - 13h00 - Um grupo de 136 alunos e professores da  Escola Secundária de Sertã",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -572,8 +572,8 @@
     "Assistências ao Plenário"
    ],
    "tipoLabel": "Assistências ao Plenário",
-   "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintr",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
+   "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 20 cidadãos da UNICEF\n11h30 - 13h00 - Um grupo de 26 alunos e profes",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 20 cidadãos da UNICEF\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
