@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48710@ar-preview
+DTSTAMP:20261113T232657Z
+DTSTART:20261210T093000Z
+DTEND:20261210T113000Z
+SUMMARY:AR · Audiências do Grupo Parlamentar do PCP
+LOCATION:Assembleia da República
+DESCRIPTION:Grupos Parlamentares / Partidos / DURP / Ninsc\nEmissões em d
+ ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
+ upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
+ pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

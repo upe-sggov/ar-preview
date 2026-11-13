@@ -3275,6 +3275,40 @@
    }
   },
   {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-12-10",
+   "hora": "09h30",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "09h30 - Associação Nacional de Estudantes de Medicina (ANEM)",
+   "ordemTrabalhos": "09h30 - Associação Nacional de Estudantes de Medicina (ANEM)",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48710,
+   "chave": "ar-48710",
+   "dataLabel": "quinta, 10 dez",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-13",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Plenário — Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas",
    "data": "2026-12-11",
    "hora": "10h00",
@@ -3414,8 +3448,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-13T16:11+00:00",
-  "atualizadoLabel": "13 de novembro, 16h11",
+  "atualizado": "2026-11-13T23:26+00:00",
+  "atualizadoLabel": "13 de novembro, 23h26",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -7231,7 +7265,7 @@
       "data": "2026-11-13",
       "fonte": "RTP Notícias",
       "titulo": "Escrutínio de titulares de cargos políticos e públicos pode estar comprometido",
-      "url": "https://www.rtp.pt/noticias/pais/pode-estar-comprometido-o-escrutinio-de-titulares-de-cargos-politicos-e-de-altos-cargos-publicos_v1778948"
+      "url": "https://www.rtp.pt/noticias/politica/escrutinio-de-titulares-de-cargos-politicos-e-publicos-pode-estar-comprometido_v1778948"
      },
      {
       "data": "2026-11-06",
@@ -7251,7 +7285,7 @@
       "2026-11-13 13:41",
       "RTP Notícias",
       "Escrutínio de titulares de cargos políticos e públicos pode estar comprometido",
-      "https://www.rtp.pt/noticias/pais/pode-estar-comprometido-o-escrutinio-de-titulares-de-cargos-politicos-e-de-altos-cargos-publicos_v1778948"
+      "https://www.rtp.pt/noticias/politica/escrutinio-de-titulares-de-cargos-politicos-e-publicos-pode-estar-comprometido_v1778948"
      ],
      [
       "2026-11-06 13:09",

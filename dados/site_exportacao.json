@@ -608,6 +608,25 @@
   "reuNumero": null
  },
  {
+  "id": 48710,
+  "title": "Audiências do Grupo Parlamentar do PCP",
+  "subtitle": null,
+  "section": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+  "theme": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+  "eventStartDate": "2026-12-10T00:00:00",
+  "eventStartTime": null,
+  "eventEndDate": "2026-12-10T00:00:00",
+  "eventEndTime": null,
+  "local": null,
+  "intranetText": null,
+  "link": null,
+  "icon": null,
+  "documents": [],
+  "legDes": "XVII",
+  "selNumero": null,
+  "reuNumero": null
+ },
+ {
   "id": 48679,
   "title": "Plenário",
   "subtitle": "Reunião n.º 23",

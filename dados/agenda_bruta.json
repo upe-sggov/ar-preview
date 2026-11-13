@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-16",
  "fim": "2026-11-22",
- "recolha": "2026-11-13T16:11",
+ "recolha": "2026-11-13T23:26",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -454,6 +454,21 @@
    "tipoLabel": "Plenário · Reunião n.º 22 · Plenário",
    "resumo": "Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
    "ordemTrabalhos": "Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48710,
+   "data": "2026-12-10",
+   "hora": "09h30",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "09h30 - Associação Nacional de Estudantes de Medicina (ANEM)",
+   "ordemTrabalhos": "09h30 - Associação Nacional de Estudantes de Medicina (ANEM)",
    "ligacao": ""
   },
   {
