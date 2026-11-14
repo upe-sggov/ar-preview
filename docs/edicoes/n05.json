@@ -47,13 +47,19 @@
    "varrimento": "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 251,
-    "n7": 12,
-    "n7ant": 22,
+    "n7": 11,
+    "n7ant": 23,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "expressoes",
-    "ultima": "2026-11-12 17:28",
+    "ultima": "2026-11-14 10:01",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+     },
      {
       "data": "2026-11-12",
       "fonte": "Açoriano Oriental",
@@ -65,15 +71,15 @@
       "fonte": "ECO",
       "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
-     },
-     {
-      "data": "2026-11-11",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 10:01",
+      "Jornal Económico",
+      "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+     ],
      [
       "2026-11-12 17:28",
       "Açoriano Oriental",
@@ -147,16 +153,22 @@
       "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
-      "2026-11-06 21:50",
-      "ECO",
-      "Partidos apresentam mais de 2.800 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
-     ],
-     [
-      "2026-11-06 21:14",
+      "2026-11-06 22:14",
       "Observador",
       "22h. Renata Cambra acusa CML de não executar a sentença",
       "https://observador.pt/programas/noticiario/as-noticias-das-22h-1893/"
+     ],
+     [
+      "2026-11-06 21:50",
+      "ECO",
+      "Partidos apresentam 2.847 propostas de alteração ao Orçamento. Novo máximo histórico",
+      "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
+     ],
+     [
+      "2026-11-06 20:45",
+      "Observador",
+      "OE 2027: Chega quer congelar idade da reforma no próximo ano",
+      "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/"
      ],
      [
       "2026-11-06 19:52",
@@ -165,22 +177,10 @@
       "https://eco.sapo.pt/2026/11/06/chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis/"
      ],
      [
-      "2026-11-06 19:45",
-      "Observador",
-      "OE 2027: Chega quer congelar idade da reforma no próximo ano",
-      "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/"
-     ],
-     [
       "2026-11-06 19:25",
       "Jornal Económico",
       "OE2027: Descida do IVA dos combustíveis e redução da idade da reforma entre as medidas que o Chega vai insistir",
       "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/"
-     ],
-     [
-      "2026-11-06 19:09",
-      "Jornal de Negócios",
-      "OE 2027: Chega insiste em diminuir idade da reforma e descer IVA dos combustíveis",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-chega-insiste-em-diminuir-idade-da-reforma-e-descer-iva-dos-combustiveis"
      ],
      [
       "2026-11-06 18:59",
@@ -190,15 +190,15 @@
      ],
      [
       "2026-11-06 18:18",
-      "Jornal de Negócios",
-      "OE 2027: AD quer programa E-Lar específico para o interior",
-      "https://www.jornaldenegocios.pt/economia/detalhe/oe2027-ad-quer-programa-e-lar-especifico-para-o-interior"
-     ],
-     [
-      "2026-11-06 18:18",
       "Observador",
       "18h. PS apresenta 180 propostas de alteração ao OE 2027",
       "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/"
+     ],
+     [
+      "2026-11-06 18:18",
+      "Jornal de Negócios",
+      "OE 2027: AD quer programa E-Lar específico para o interior",
+      "https://www.jornaldenegocios.pt/economia/detalhe/oe2027-ad-quer-programa-e-lar-especifico-para-o-interior"
      ],
      [
       "2026-11-06 16:00",
@@ -213,7 +213,7 @@
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-ad-volta-a-prometer-bonus-das-pensoes-se-houver-margem-ps-quer-torna-lo-permanente"
      ],
      [
-      "2026-11-06 10:59",
+      "2026-11-06 13:33",
       "ECO",
       "PS quer suspender corte do IRC para compensar descida do ISP",
       "https://eco.sapo.pt/2026/11/06/ps-quer-suspender-corte-do-irc-para-compensar-descida-do-isp-e-iva-zero-no-cabaz-alimentar/"
@@ -1625,7 +1625,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -1659,7 +1659,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -1699,13 +1699,19 @@
    "varrimento": "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 251,
-    "n7": 12,
-    "n7ant": 22,
+    "n7": 11,
+    "n7ant": 23,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "expressoes",
-    "ultima": "2026-11-12 17:28",
+    "ultima": "2026-11-14 10:01",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+     },
      {
       "data": "2026-11-12",
       "fonte": "Açoriano Oriental",
@@ -1717,15 +1723,15 @@
       "fonte": "ECO",
       "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
-     },
-     {
-      "data": "2026-11-11",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: na saúde, previsibilidade também é eficiência",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 10:01",
+      "Jornal Económico",
+      "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+     ],
      [
       "2026-11-12 17:28",
       "Açoriano Oriental",
@@ -1799,16 +1805,22 @@
       "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
-      "2026-11-06 21:50",
-      "ECO",
-      "Partidos apresentam mais de 2.800 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
-     ],
-     [
-      "2026-11-06 21:14",
+      "2026-11-06 22:14",
       "Observador",
       "22h. Renata Cambra acusa CML de não executar a sentença",
       "https://observador.pt/programas/noticiario/as-noticias-das-22h-1893/"
+     ],
+     [
+      "2026-11-06 21:50",
+      "ECO",
+      "Partidos apresentam 2.847 propostas de alteração ao Orçamento. Novo máximo histórico",
+      "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/"
+     ],
+     [
+      "2026-11-06 20:45",
+      "Observador",
+      "OE 2027: Chega quer congelar idade da reforma no próximo ano",
+      "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/"
      ],
      [
       "2026-11-06 19:52",
@@ -1817,22 +1829,10 @@
       "https://eco.sapo.pt/2026/11/06/chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis/"
      ],
      [
-      "2026-11-06 19:45",
-      "Observador",
-      "OE 2027: Chega quer congelar idade da reforma no próximo ano",
-      "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/"
-     ],
-     [
       "2026-11-06 19:25",
       "Jornal Económico",
       "OE2027: Descida do IVA dos combustíveis e redução da idade da reforma entre as medidas que o Chega vai insistir",
       "https://jornaleconomico.sapo.pt/noticias/oe2027-descida-do-iva-dos-combustiveis-e-reducao-da-idade-da-reforma-entre-as-medidas-que-o-chega-vai-insistir/"
-     ],
-     [
-      "2026-11-06 19:09",
-      "Jornal de Negócios",
-      "OE 2027: Chega insiste em diminuir idade da reforma e descer IVA dos combustíveis",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-chega-insiste-em-diminuir-idade-da-reforma-e-descer-iva-dos-combustiveis"
      ],
      [
       "2026-11-06 18:59",
@@ -1842,15 +1842,15 @@
      ],
      [
       "2026-11-06 18:18",
-      "Jornal de Negócios",
-      "OE 2027: AD quer programa E-Lar específico para o interior",
-      "https://www.jornaldenegocios.pt/economia/detalhe/oe2027-ad-quer-programa-e-lar-especifico-para-o-interior"
-     ],
-     [
-      "2026-11-06 18:18",
       "Observador",
       "18h. PS apresenta 180 propostas de alteração ao OE 2027",
       "https://observador.pt/programas/noticiario/as-noticias-das-18h-2181/"
+     ],
+     [
+      "2026-11-06 18:18",
+      "Jornal de Negócios",
+      "OE 2027: AD quer programa E-Lar específico para o interior",
+      "https://www.jornaldenegocios.pt/economia/detalhe/oe2027-ad-quer-programa-e-lar-especifico-para-o-interior"
      ],
      [
       "2026-11-06 16:00",
@@ -1865,7 +1865,7 @@
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-ad-volta-a-prometer-bonus-das-pensoes-se-houver-margem-ps-quer-torna-lo-permanente"
      ],
      [
-      "2026-11-06 10:59",
+      "2026-11-06 13:33",
       "ECO",
       "PS quer suspender corte do IRC para compensar descida do ISP",
       "https://eco.sapo.pt/2026/11/06/ps-quer-suspender-corte-do-irc-para-compensar-descida-do-isp-e-iva-zero-no-cabaz-alimentar/"
@@ -3267,7 +3267,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3301,7 +3301,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3335,7 +3335,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -3423,7 +3423,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3448,8 +3448,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-13T23:26+00:00",
-  "atualizadoLabel": "13 de novembro, 23h26",
+  "atualizado": "2026-11-14T14:04+00:00",
+  "atualizadoLabel": "14 de novembro, 14h04",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -4186,7 +4186,7 @@
     "ultima": "2026-11-12 17:28",
     "em": "2026-11-13"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "20 notícias analisadas no Radar de Notícias; enquadramento por gerar."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -4368,7 +4368,7 @@
     "ultima": "2026-11-12 17:28",
     "em": "2026-11-13"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares, críticas e propostas de alteração. As notícias destacam a discussão de medidas como a competitividade económica, o investimento na habitação e a sustentabilidade das contas públicas. O PSD e o CDS-PP promovem sessões de esclarecimento, enquanto partidos como o Chega e o PCP apresentam alterações significativas. O antigo ministro das Finanças, Centeno, alerta para opacidade orçamental, e o PS e o Chega focam-se em questões de rendas e habitação. A cobertura evolui com propostas de alteração, críticas e anúncios de medidas."
   },
   "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg": {
@@ -4467,11 +4467,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati",
    "cobertura": {
-    "n": 168,
+    "n": 167,
     "n7": 11,
     "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "expressoes",
     "ultima": "2026-11-13 14:09",
     "ultimas": [
@@ -5496,12 +5496,6 @@
       "RTP Notícias",
       "Bruxelas quer mais direitos para trabalhadores móveis na UE com benefícios de seis mil ME",
       "https://www.rtp.pt/noticias/mundo/bruxelas-quer-mais-direitos-para-trabalhadores-moveis-na-ue-com-beneficios-de-seis-mil-me_n1765595"
-     ],
-     [
-      "2026-09-14 23:26",
-      "Observador",
-      "S. Pedro do Sul quer integrar projeto de controlo de javalis",
-      "https://observador.pt/2026/09/14/sao-pedro-do-sul-quer-integrar-projeto-piloto-para-controlo-de-javalis/"
      ]
     ]
    },
@@ -5554,7 +5548,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5608,11 +5602,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
-    "n": 14,
-    "n7": 1,
-    "n7ant": 1,
+    "n": 13,
+    "n7": 0,
+    "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "expressoes",
     "ultima": "2026-11-07 17:00",
     "ultimas": [
@@ -5713,12 +5707,6 @@
       "The Guardian · Europe",
       "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
       "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships"
-     ],
-     [
-      "2026-09-14 19:55",
-      "Politico",
-      "Latino leaders press Beshear to expand DGA’s midterm map",
-      "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891"
      ]
     ]
    },
@@ -5797,11 +5785,11 @@
     "Regulamento UE"
    ],
    "cobertura": {
-    "n": 6,
+    "n": 5,
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "expressoes",
     "ultima": "2026-09-20 14:59",
     "ultimas": [
@@ -5854,12 +5842,6 @@
       "Jornal de Negócios",
       "UE vai legislar redes sociais para jovens. Associações pedem que direitos não sejam esquecidos",
       "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/ue-vai-legislar-redes-sociais-para-jovens-associacoes-pedem-que-direitos-nao-sejam-esquecidos"
-     ],
-     [
-      "2026-09-14 19:03",
-      "SAPO Tek",
-      "EU KIDS Act - Tek Notícias",
-      "https://tek.sapo.pt/tag/eu-kids-act/"
      ]
     ]
    },
@@ -5897,11 +5879,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 80,
+    "n": 76,
     "n7": 11,
-    "n7ant": 6,
+    "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "expressoes",
     "ultima": "2026-11-12 16:28",
     "ultimas": [
@@ -6380,30 +6362,6 @@
       "Diário de Notícias da Madeira",
       "Plenário dos trabalhadores",
       "https://www.dnoticias.pt/app/tag/geral/plenario-dos-trabalhadores/"
-     ],
-     [
-      "2026-09-14 21:56",
-      "ECO",
-      "Governo chamado ao Parlamento para debate de urgência sobre aumento do custo de vida",
-      "https://eco.sapo.pt/2026/09/14/governo-chamado-ao-parlamento-para-debate-de-urgencia-sobre-aumento-do-custo-de-vida/"
-     ],
-     [
-      "2026-09-14 18:30",
-      "Açoriano Oriental",
-      "Dois debates de urgência marcam rentrée parlamentar nos Açores",
-      "http://www.acorianooriental.pt/noticia/dois-debates-de-urgencia-marcam-rentree-parlamentar-nos-acores-380365"
-     ],
-     [
-      "2026-09-14 17:22",
-      "Público",
-      "Reitor vai nomear directamente novos órgãos da Universidade Técnica do Porto: sindicato contesta",
-      "https://www.publico.pt/2026/09/14/sociedade/noticia/reitor-vai-nomear-directamente-novos-orgaos-universidade-tecnica-porto-sindicato-contesta-2188007"
-     ],
-     [
-      "2026-09-14 12:51",
-      "Diário de Notícias da Madeira",
-      "Transportes circulam sem constrangimentos apesar do plenário do STRAMM",
-      "https://www.dnoticias.pt/2026/9/14/505357-transportes-circulam-sem-constrangimentos-apesar-do-plenario-do-stramm/"
      ]
     ]
    },
@@ -6459,11 +6417,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
-    "n": 80,
+    "n": 76,
     "n7": 11,
-    "n7ant": 6,
+    "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "expressoes",
     "ultima": "2026-11-12 16:28",
     "ultimas": [
@@ -6942,30 +6900,6 @@
       "Diário de Notícias da Madeira",
       "Plenário dos trabalhadores",
       "https://www.dnoticias.pt/app/tag/geral/plenario-dos-trabalhadores/"
-     ],
-     [
-      "2026-09-14 21:56",
-      "ECO",
-      "Governo chamado ao Parlamento para debate de urgência sobre aumento do custo de vida",
-      "https://eco.sapo.pt/2026/09/14/governo-chamado-ao-parlamento-para-debate-de-urgencia-sobre-aumento-do-custo-de-vida/"
-     ],
-     [
-      "2026-09-14 18:30",
-      "Açoriano Oriental",
-      "Dois debates de urgência marcam rentrée parlamentar nos Açores",
-      "http://www.acorianooriental.pt/noticia/dois-debates-de-urgencia-marcam-rentree-parlamentar-nos-acores-380365"
-     ],
-     [
-      "2026-09-14 17:22",
-      "Público",
-      "Reitor vai nomear directamente novos órgãos da Universidade Técnica do Porto: sindicato contesta",
-      "https://www.publico.pt/2026/09/14/sociedade/noticia/reitor-vai-nomear-directamente-novos-orgaos-universidade-tecnica-porto-sindicato-contesta-2188007"
-     ],
-     [
-      "2026-09-14 12:51",
-      "Diário de Notícias da Madeira",
-      "Transportes circulam sem constrangimentos apesar do plenário do STRAMM",
-      "https://www.dnoticias.pt/2026/9/14/505357-transportes-circulam-sem-constrangimentos-apesar-do-plenario-do-stramm/"
      ]
     ]
    },
@@ -7017,7 +6951,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7051,7 +6985,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7119,7 +7053,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7153,7 +7087,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7218,7 +7152,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7257,7 +7191,7 @@
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-11-13 13:41",
     "ultimas": [
@@ -7378,7 +7312,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7412,7 +7346,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7447,7 +7381,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7491,7 +7425,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7525,7 +7459,7 @@
     "n7": 0,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-11-01 15:50",
     "ultimas": [
@@ -7627,7 +7561,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7687,7 +7621,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7731,7 +7665,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7768,7 +7702,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7802,7 +7736,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7862,7 +7796,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7897,7 +7831,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7967,7 +7901,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-13",
+    "ref": "2026-11-14",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],

@@ -1,24 +1,5 @@
 [
  {
-  "id": 48660,
-  "title": "Visitas guiadas ao Palácio de São Bento",
-  "subtitle": null,
-  "section": "Visitas ao Palácio de S. Bento",
-  "theme": "Visitas ao Palácio de S. Bento",
-  "eventStartDate": "2026-11-13T00:00:00",
-  "eventStartTime": null,
-  "eventEndDate": "2026-11-13T00:00:00",
-  "eventEndTime": null,
-  "local": null,
-  "intranetText": null,
-  "link": null,
-  "icon": null,
-  "documents": [],
-  "legDes": "XVII",
-  "selNumero": null,
-  "reuNumero": null
- },
- {
   "id": 48685,
   "title": "Comissão de Orçamento, Finanças e Administração Pública",
   "subtitle": "Reunião n.º 22",
