@@ -1850,6 +1850,7 @@
      "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
     }
    ],
+   "varrimento": "2026-11-23-48689-comiss-o-de-or-amento-finan-as-e-administra",
    "expressoes": [
     "OE 2027",
     "OE2027",
@@ -3621,8 +3622,7 @@
       "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
-   },
-   "varrimento": "2026-11-23-48689-comiss-o-de-or-amento-finan-as-e-administra"
+   }
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
@@ -5670,8 +5670,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-14T22:07+00:00",
-  "atualizadoLabel": "14 de novembro, 22h07",
+  "atualizado": "2026-11-14T22:17+00:00",
+  "atualizadoLabel": "14 de novembro, 22h17",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
