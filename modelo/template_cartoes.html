@@ -768,7 +768,7 @@ body.capa-aberta{overflow:hidden}
   const pedirVarr = x => { const ass = encodeURIComponent(`AR Preview — pedido de fundo mediático: ${x.tema}`.slice(0,150));
     const corpo = encodeURIComponent(`Solicito fundo mediático da seguinte matéria do AR Preview:\n\nMatéria: ${x.tema}\nData: ${x.dataLabel||x.data}${x.hora?', '+x.hora:''}\nTipo: ${x.tipoLabel||''}\nEdição: n.º ${D.edicao.numero} (${D.edicao.semana})\n\nMotivo / enquadramento do pedido:\n\n`);
     return `<a class="pedir lig" href="mailto:${PEDIDO}?subject=${ass}&body=${corpo}" title="Abre um email para ${PEDIDO} com a matéria preenchida">Pedir fundo mediático</a>`; };
-  const listaBtn = x => x.cobertura && x.cobertura.n && (x.cobertura.todas||[]).length ? `<button class="ver sec" data-lista="${esc(idDe(x))}"><svg class="ic"><use href="#i-news"/></svg>Notícias (${x.cobertura.n})</button>` : '';
+  const listaBtn = x => x.cobertura && x.cobertura.n && (x.cobertura.todas||[]).length ? `<a class="ver sec" href="#lista-${esc(idDe(x))}" data-lista="${esc(idDe(x))}"><svg class="ic"><use href="#i-news"/></svg>Notícias (${x.cobertura.n})</a>` : '';
   // critérios da prioridade (sem os das unidades, que já não se mostram)
   const critP = x => (x.criterio||[]).filter(c => /→|revisão humana|dossier acompanhado/.test(c)).map(c => c.replace(/\s*\((DACDP|DAPL|UPE|DCIRI|UnIT|transversal|Transversal)\)\s*$/,''));
   const icTipo = t => /Audi/.test(t)?'i-mic':/Debate|Plenário/.test(t)?'i-users':/vota|Vota/.test(t)?'i-vote':'i-file';
@@ -1122,6 +1122,7 @@ body.capa-aberta{overflow:hidden}
     document.addEventListener('keydown', e => { if (!capa.classList.contains('saiu') && (e.key === 'Escape' || e.key === 'Enter')) fechar(); });
   })();
   if (location.hash && D.fichas[location.hash.slice(1)]) abrir(location.hash.slice(1));
+  else if (location.hash.startsWith('#lista-')) abrirLista(decodeURIComponent(location.hash.slice(7)));   // ligação do PDF: lista completa das notícias
 })();
 </script>
 </body></html>

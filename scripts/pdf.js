@@ -14,6 +14,7 @@ const { chromium } = require('playwright');
     document.querySelectorAll('a[href^="#f-"], a.web-ficha').forEach(a => {
       const k = a.getAttribute('href').replace(/^#(f-)?/, ''); a.setAttribute('href', url(k)); a.removeAttribute('data-ver');
     });
+    document.querySelectorAll('a[href^="#lista-"]').forEach(a => { a.setAttribute('href', url(a.getAttribute('href').slice(1))); a.removeAttribute('data-lista'); });
   }, [base, num]);
   await p.pdf({ path: process.argv[3], format: 'A4', printBackground: true, margin: { top: '11mm', bottom: '11mm', left: '10mm', right: '10mm' } });
   await b.close();

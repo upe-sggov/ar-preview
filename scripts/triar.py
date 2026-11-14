@@ -64,6 +64,10 @@ def triar(item):
         pert = 'Imediato'; crit.append(f'presença de cliente com pedidos à UPE ({cli}) → Imediato'); uos.add('DACDP')
     if plen:
         pert = 'Imediato'; crit.append(f'Plenário: «{plen}» → Imediato'); uos.add('DACDP')
+    if not plen:   # assuntos acompanhados pela área, em qualquer órgão (ex.: votações do OE na especialidade, na COFAP)
+        ass = next((a_['motivo'] for a_ in PERT.get('assuntos_imediato', []) if re.search(a_['padrao'], norm(item['tema'] + ' ' + (item.get('ordemTrabalhos') or '')))), None)
+        if ass:
+            pert = 'Imediato'; crit.append(f'assunto acompanhado pela área: {ass} → Imediato')
     orgao = norm(item.get('orgao') or '')
     comcli = sorted({m for cm, m in COM_CLI if orgao and (orgao == cm or orgao.startswith(cm))})
     if comcli:

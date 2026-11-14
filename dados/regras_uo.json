@@ -315,7 +315,7 @@
    },
    {
     "_nota": "Debates do Orçamento do Estado para 2027 no Plenário (decisão de 14/11/2026): o Amália propunha «Plenário» ou «GOV», que apanham notícias de tudo.",
-    "assunto": "Or[cç]amento do Estado para 2027",
+    "assunto": "Or[cç]amento do Estado para 202[67]|110/XVII",
     "expressoes": [
      "OE 2027",
      "OE2027",
@@ -323,6 +323,13 @@
      "Orçamento do Estado 2027",
      "Proposta de Lei n.º 110/XVII"
     ]
+   }
+  ],
+  "assuntos_imediato": [
+   {
+    "_nota": "Decisão de 14/11/2026: o OE 2027 é acompanhado pela área (levantamento das propostas de alteração pela DACDP, com apoio da UPE); as votações na especialidade na COFAP valem tanto como o debate no Plenário.",
+    "padrao": "or[cç]amento do estado|proposta de lei n\\.? ?º? ?110/xvii",
+    "motivo": "Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE)"
    }
   ]
  }

@@ -1837,11 +1837,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
    ],
    "periodo": "Tarde",
    "ligacoes": [
@@ -1860,7 +1860,15 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "expressoes": [
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
@@ -3908,8 +3916,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-14T21:51+00:00",
-  "atualizadoLabel": "14 de novembro, 21h51",
+  "atualizado": "2026-11-14T22:07+00:00",
+  "atualizadoLabel": "14 de novembro, 22h07",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -4881,6 +4889,57 @@
   }
  },
  "destaques": [
+  {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-16",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 22 · Sala 1",
+   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48685,
+   "chave": "ar-48685",
+   "dataLabel": "segunda, 16 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "Transversal"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«orçamento do estado» (transversal)",
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-14",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "expressoes": [
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true,
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027"
+  },
   {
    "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
    "data": "2026-11-17",
@@ -8613,6 +8672,59 @@
    "varrimento": "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg"
   },
   {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-18",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 145 · Plenário",
+   "resumo": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48686,
+   "chave": "ar-48686",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-14",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "expressoes": [
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true,
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027"
+  },
+  {
    "tema": "Debate e Votações do Orçamento do Estado para 2027",
    "data": "2026-11-19",
    "hora": "10h00",
@@ -10422,6 +10534,59 @@
      "artigos remetidos",
      "debate na especialidade"
     ]
+   },
+   "expressoes": [
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true,
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027"
+  },
+  {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-19",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 146 · Plenário",
+   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48687,
+   "chave": "ar-48687",
+   "dataLabel": "quinta, 19 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-14",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
    },
    "expressoes": [
     "OE 2027",
@@ -12252,6 +12417,59 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "expressoesFixas": true
+  },
+  {
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "data": "2026-11-20",
+   "hora": "15h00",
+   "interveniente": "",
+   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 147 · Plenário",
+   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48688,
+   "chave": "ar-48688",
+   "dataLabel": "sexta, 20 nov",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "uo": [
+    "DAPL",
+    "Transversal"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«orçamento do estado» (transversal)",
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
+    }
+   ],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-14",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "expressoes": [
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true,
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027"
   }
  ],
  "agenda": [
@@ -12347,48 +12565,6 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
-   }
-  },
-  {
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "data": "2026-11-16",
-   "hora": "14h30",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 22 · Sala 1",
-   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
-   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "id_ar": 48685,
-   "chave": "ar-48685",
-   "dataLabel": "segunda, 16 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
-    }
-   ],
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-14",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
    }
   },
   {
@@ -12720,50 +12896,6 @@
    }
   },
   {
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "data": "2026-11-18",
-   "hora": "15h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 145 · Plenário",
-   "resumo": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "id_ar": 48686,
-   "chave": "ar-48686",
-   "dataLabel": "quarta, 18 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
-    }
-   ],
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-14",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
-  {
    "tema": "Conferência de Líderes",
    "data": "2026-11-18",
    "hora": "15h00",
@@ -12947,50 +13079,6 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-14",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
-  {
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "data": "2026-11-19",
-   "hora": "15h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 146 · Plenário",
-   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "id_ar": 48687,
-   "chave": "ar-48687",
-   "dataLabel": "quinta, 19 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
-    }
-   ],
    "cobertura": {
     "n": 0,
     "n7": 0,
@@ -13193,50 +13281,6 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
-   }
-  },
-  {
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "data": "2026-11-20",
-   "hora": "15h00",
-   "interveniente": "",
-   "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 147 · Plenário",
-   "resumo": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Continuação da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "id_ar": 48688,
-   "chave": "ar-48688",
-   "dataLabel": "sexta, 20 nov",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Registo",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [
-    {
-     "titulo": "Agenda parlamentar",
-     "url": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
-    }
-   ],
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-14",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
    }
   }
  ]
