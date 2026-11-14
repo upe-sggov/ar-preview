@@ -4461,76 +4461,6 @@
    "novas": 1,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares, críticas e propostas de alteração. As notícias destacam a discussão de medidas como a competitividade económica, o investimento na habitação e a sustentabilidade das contas públicas. O PSD e o CDS-PP promovem sessões de esclarecimento, enquanto partidos como o Chega e o PCP apresentam alterações significativas. O antigo ministro das Finanças, Centeno, alerta para opacidade orçamental, e o PS e o Chega focam-se em questões de rendas e habitação. A cobertura evolui com propostas de alteração, críticas e anúncios de medidas."
   },
-  "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg": {
-   "titulo": "Escrutínio de iniciativa europeia sobre segurança digital",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 66 · quarta, 18 nov, 14h15",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-14",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/tag/eu-kids-act/",
-     "sintese": "A notícia informa sobre a apresentação da proposta EU Kids Act pela Comissão Europeia, sem mencionar críticas ou posições do Governo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/ue-vai-legislar-redes-sociais-para-jovens-associacoes-pedem-que-direitos-nao-sejam-esquecidos",
-     "sintese": "A notícia destaca preocupações de associações de serviços digitais sobre potenciais perdas de oportunidades para os jovens caso a proposta seja implementada.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-09-17",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/noticias/internet/artigos/eu-kids-act-o-que-vai-mudar-no-acesso-das-criancas-e-jovens-as-redes-sociais/",
-     "sintese": "A notícia descreve as potenciais alterações na proposta, incluindo a proibição de acesso a redes sociais para menores até aos 13 anos e a responsabilização das plataformas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-17",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/09/17/mundo/noticia/kids-act-bruxelas-quer-mudar-acesso-criancas-jovens-redes-sociais-2188388",
-     "sintese": "A notícia apresenta a perspetiva da Comissão Europeia sobre a proposta, focando-se nos objetivos de proteção de crianças online.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-18",
-     "fonte": "Jornal de Notícias",
-     "url": "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143",
-     "sintese": "A notícia informa sobre as novas regras propostas para proteger menores nas redes sociais, sem mencionar críticas ou posições do Governo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-20",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/descodificador/eu-kids-act-vai-alem-da-proibicao-das-redes-sociais-o-que-a-ue-quer-mudar/",
-     "sintese": "A notícia discute as potenciais implicações da proposta, indo além da simples proibição de acesso às redes sociais.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 6,
-    "encontradas": 6
-   },
-   "base": {
-    "ultima": "2026-09-20 14:59",
-    "em": "2026-11-13"
-   },
-   "novas": 0,
-   "enquadramento": "Nos últimos seis dias, a cobertura mediática tem-se focado na proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia. As notícias detalham as potenciais alterações, como a proibição de acesso a redes sociais para menores até aos 13 anos e a responsabilização das plataformas. Embora algumas notícias apresentem preocupações sobre potenciais perdas de oportunidades para os jovens, a maioria foca-se na natureza da proposta e nas suas implicações. A cobertura evoluiu de anúncios iniciais para discussões sobre a implementação e os impactos da medida. A maioria das notícias reporta sobre a iniciativa em si, sem críticas diretas ao Governo ou à medida nesta reunião."
-  },
   "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun": {
    "titulo": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
    "meta": "Comissão de Assuntos Europeus · Reunião n.º 65 · terça, 17 nov, 16h00",
@@ -4706,8 +4636,8 @@
    "enquadramento": "Nos últimos seis meses, a cobertura mediática focou-se principalmente em decisões e posições do Conselho Europeu, particularmente em relação à Ucrânia, ao orçamento da UE e a questões energéticas. O Conselho Europeu de outubro abordou a crise dos combustíveis e a situação da Ucrânia, com declarações de apoio e discussões sobre a defesa energética. O Presidente António Costa antecipou a apresentação de uma nova proposta orçamental para o período 2028-2034. As negociações de paz com a Rússia foram um tema central, com a definição de delegações europeias e a participação de vários países. A cobertura evoluiu de discussões sobre a liderança do Conselho Europeu para a análise de políticas e resultados concretos."
   },
   "2026-11-18-48673-or-amento-do-estado-2027": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00",
+   "titulo": "Debate e votação de artigos do Orçamento do Estado para 2027",
+   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -8617,8 +8547,7 @@
       "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/ue-vai-legislar-redes-sociais-para-jovens-associacoes-pedem-que-direitos-nao-sejam-esquecidos"
      ]
     ]
-   },
-   "varrimento": "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg"
+   }
   },
   {
    "tema": "Debate e Votações do Orçamento do Estado para 2027",
@@ -10438,7 +10367,8 @@
     "Orçamento do Estado 2027",
     "Proposta de Lei n.º 110/XVII"
    ],
-   "expressoesFixas": true
+   "expressoesFixas": true,
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027"
   },
   {
    "tema": "Debate e votação de artigos do Orçamento do Estado para 2027",
@@ -10470,7 +10400,7 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
    "cobertura": {
     "n": 289,
     "n7": 12,

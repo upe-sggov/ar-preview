@@ -7,13 +7,14 @@ const { chromium } = require('playwright');
   // «notícias ›», «Ver fundo mediático» e «Ver a lista completa»: no PDF levam à ficha na página da edição (lista completa
   // e contagem atual); as ligações internas do PDF não funcionam em todos os leitores (Outlook, telemóvel).
   const base = (process.env.PAGINA_URL || 'https://upe-sggov.github.io/ar-preview/').replace(/\/?$/, '/');
-  await p.evaluate(base => {
-    const n = (typeof D !== 'undefined' && D.edicao && D.edicao.numero) ? String(D.edicao.numero).padStart(2, '0') : null;
+  let num = null; try { num = JSON.parse(require('fs').readFileSync('dados/agenda.json', 'utf8')).edicao.numero; } catch (e) {}
+  await p.evaluate(([base, num]) => {
+    const n = num ? String(num).padStart(2, '0') : null;   // página da edição: a ligação continua a funcionar nas semanas seguintes
     const url = k => n ? `${base}edicoes/n${n}.html#${k}` : `${base}#${k}`;
     document.querySelectorAll('a[href^="#f-"], a.web-ficha').forEach(a => {
       const k = a.getAttribute('href').replace(/^#(f-)?/, ''); a.setAttribute('href', url(k)); a.removeAttribute('data-ver');
     });
-  }, base);
+  }, [base, num]);
   await p.pdf({ path: process.argv[3], format: 'A4', printBackground: true, margin: { top: '11mm', bottom: '11mm', left: '10mm', right: '10mm' } });
   await b.close();
 })();

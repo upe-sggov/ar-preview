@@ -194,7 +194,7 @@ if __name__ == '__main__':
                 elif f_['origem'] == 'radar': n_.pop('natureza', None); n_.pop('naturezaLabel', None)
             f_['gerado_por'] = GERADO_AMALIA if f_['origem'] == 'amalia' else GERADO_RADAR
     # cabeçalho da ficha sempre igual ao da matéria (a AR muda salas, junta comissões, etc.)
-    for x in d['destaques'] + d['agenda']:
+    for x in d['destaques'] + d['agenda'] + d.get('futuro', []):
         f_ = d['fichas'].get(x.get('varrimento') or '')
         if f_ and f_.get('origem') in ('radar', 'amalia') and not f_.get('revista_por'):
             f_['titulo'] = x['tema']
