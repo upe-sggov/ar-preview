@@ -342,7 +342,7 @@ a.pedir.lig{font-style:normal;color:var(--azul);text-decoration:underline;font-s
 .semana-imp{display:none}
 @media print{ body.sel-semana #h-semana{display:none} body.sel-semana .semana-imp{display:block} .cd .cnt{display:none}
   .c-foot .ver{background:none!important;color:var(--azul)!important;padding:0!important;text-decoration:underline!important;font-weight:500}
-  .c-foot .ver .ic{display:none} .imp-sep{font-size:14px;font-weight:600;color:var(--azul);border-bottom:2px solid var(--azul);padding-bottom:4px;margin:0 0 10px}
+  .c-foot .ver .ic{display:none} .imp-web{font-size:10.5px;margin:0 0 8px} .imp-web a{color:var(--azul)} .imp-sep{font-size:14px;font-weight:600;color:var(--azul);border-bottom:2px solid var(--azul);padding-bottom:4px;margin:0 0 10px}
   body.sel-semana #h-edicao, body.sel-semana #aviso-edicao{display:none!important} }
 
 .leg i.anel{background:transparent!important;border:2px solid #fff;box-sizing:border-box}
@@ -961,7 +961,10 @@ body.capa-aberta{overflow:hidden}
     const vis = conjunto().filter(visiveis).filter(x => !st.dias.size || st.dias.has(x.data)).sort(ordem);
     vis.filter(x => x._hist).forEach(x => carregarFichasEd(x._hist));
     const vistos = new Set();
-    const secao = (k, f) => `<section id="f-${esc(k)}"><h2>${esc(f.titulo)}</h2><p style="font-size:10px;color:var(--suave)">${esc(f.meta||'')}</p>${fichaHTML(f, false)}</section>`;
+    const secao = (k, f) => { const c = coberturaDe(k); const n = c && c.n;
+      return `<section id="f-${esc(k)}"><h2>${esc(f.titulo)}</h2><p style="font-size:10px;color:var(--suave)">${esc(f.meta||'')}</p>`
+        + (n ? `<p class="imp-web">${n} notícias encontradas no Radar de Notícias em 60 dias. <a class="web-ficha" href="#${esc(k)}">Ver a lista completa na página ›</a></p>` : '')
+        + `${fichaHTML(f, false)}</section>`; };
     const daSemana = vis.map(x => { const f = fichaDe(x); if (!f || vistos.has(x.varrimento)) return ''; vistos.add(x.varrimento); return secao(x.varrimento, f); }).join('');
     let seguintes = '';
     if (!st.semana && !st.dias.size) {   // edição em vigor: as fichas já feitas para as semanas seguintes vão no fim

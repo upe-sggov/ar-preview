@@ -199,6 +199,9 @@ if __name__ == '__main__':
         if f_ and f_.get('origem') in ('radar', 'amalia') and not f_.get('revista_por'):
             f_['titulo'] = x['tema']
             f_['meta'] = f"{x.get('tipoLabel','')} · {x['dataLabel']}{', ' + x['hora'] if x.get('hora') else ''}"
+            c_ = x.get('cobertura') or {}
+            if isinstance(f_.get('amostra'), dict) and c_.get('n') is not None:
+                f_['amostra']['encontradas'] = max(c_['n'], f_['amostra'].get('analisadas') or 0)   # o n.º atual, igual ao do cartão
     # fichas manuais que deixam de ser usadas: retiradas
     usadas = {x.get('varrimento') for x in d['destaques'] + d['agenda'] + d.get('futuro', [])}
     for k in [k for k, f in d['fichas'].items() if f.get('origem') not in ('radar', 'amalia') and not f.get('revista_por')]:

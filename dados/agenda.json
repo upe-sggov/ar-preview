@@ -1586,7 +1586,15 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ]
+   ],
+   "expressoes": [
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -3238,7 +3246,15 @@
     "Orçamento do Estado para 2027",
     "OE2027",
     "OE 2027"
-   ]
+   ],
+   "expressoes": [
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true
   },
   {
    "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
@@ -3636,376 +3652,6 @@
    },
    "novas": 0,
    "enquadramento": "Nos últimos seis meses, a cobertura mediática tem-se focado intensamente nas negociações do orçamento da União Europeia, com discussões sobre cortes propostos, prioridades como a coesão e a Política Agrícola Comum, e a posição de Portugal sob a liderança de António Costa. Os debates começaram em janeiro de 2022 e continuaram ao longo de 2026, com vários países e instituições a expressarem preocupações sobre cortes orçamentais e potenciais consequências para os Estados-membros. Embora algumas notícias tenham apresentado críticas e acusações, outras destacaram resultados positivos, como o acordo alcançado em novembro de 2026 sobre o orçamento de 2027. O contexto inclui também a posição de diferentes atores, como o Comité das Regiões e a MED9, que enfatizaram a importância de manter a coesão e a PAC."
-  },
-  "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun": {
-   "titulo": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 65 · terça, 17 nov, 16h00",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-15",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/uniao-europeia/o-parlamento-europeu-quer-dar-mais-voz-aos-jovens-na-definicao-das-politicas-europeias_n1765588",
-     "sintese": "O Parlamento Europeu aprovou recomendações para envolver os jovens nas políticas europeias, focando-se na integração das perspetivas dos jovens em todos os domínios de intervenção da União Europeia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-17",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/internacional/parlamento-europeu-pede-reforo-do-combate-ao-trfico-de-droga-nas-guas-europeias",
-     "sintese": "O Parlamento Europeu debateu o combate ao tráfico de droga nas águas europeias, destacando a necessidade de reforçar as medidas de segurança e cooperação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-03",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/10/03/montenegro-em-estrasburgo-com-orcamento-da-ue-discussao/",
-     "sintese": "Montenegro discursou no Parlamento Europeu sobre o orçamento da UE, enfatizando a estabilidade institucional e a importância de uma abordagem equilibrada.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-03",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-no-parlamento-europeu-com-orcamento-da-ue-em-discussao",
-     "sintese": "Montenegro discursou no Parlamento Europeu como o 16.º líder da UE, defendendo a estabilidade institucional e a continuidade das presidências europeias.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/luis-montenegro-apoia-continuacao-de-antonio-costa-no-conselho-europeu/",
-     "sintese": "Montenegro apoiou a continuação de António Costa no Conselho Europeu, defendendo a estabilidade e a capacidade operacional das instituições europeias.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-10",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/cortes-de-8-nova-proposta-para-orcamento-comunitario-diminui-a-despesa-em-quase-todas-as-politicas-europeias_n1770888",
-     "sintese": "Uma proposta de cortes de 8% no Orçamento Comunitário foi apresentada, gerando críticas e desacordo entre os países, incluindo a rejeição do Parlamento Europeu.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 6,
-    "encontradas": 6
-   },
-   "base": {
-    "ultima": "2026-10-10 16:14",
-    "em": "2026-11-12"
-   },
-   "novas": 0,
-   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em eventos políticos europeus e na atividade governamental portuguesa relacionada com a União Europeia. O Parlamento Europeu aprovou recomendações para envolver os jovens nas políticas europeias (1), discutiu o combate ao tráfico de droga nas águas europeias (2), e Montenegro discursou no Parlamento Europeu sobre o orçamento da UE (3). Montenegro foi o 16.º líder da UE a intervir, enfatizando a estabilidade institucional (4). Apoiou a continuação de António Costa no Conselho Europeu, defendendo a estabilidade operacional (5). Uma proposta de cortes de 8% no Orçamento Comunitário foi apresentada, gerando críticas e desacordo entre os países (6). A cobertura evoluiu de discussões orçamentais e políticas para a preparação para o Conselho Europeu extraordinário, com a Secretária de Estado dos Assuntos Europeus a ser ouvida após o Conselho Europeu de 15 e 16 de outubro."
-  },
-  "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen": {
-   "titulo": "Orçamento do Estado 2027",
-   "meta": "Plenário · Reunião n.º 17 · Plenário · quarta, 18 nov, 10h00",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-14",
-     "fonte": "Politico",
-     "url": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
-     "sintese": "Líderes latinos pressionam o governador de Kentucky para expandir o mapa interino da DGA, refletindo a frustração com a falta de progresso em estados como o Texas.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "The Guardian · Europe",
-     "url": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships",
-     "sintese": "Estudantes em Gaza expressam a sua devastação após o fracasso do plano de evacuação para a Bélgica, onde deveriam receber bolsas de estudo.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-18",
-     "fonte": "The Guardian · Europe",
-     "url": "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants",
-     "sintese": "O espectro da 'remigração' assombra a Europa, com a experiência da Eslovénia em 1992 a servir de modelo para a exclusão de cidadãos.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-23",
-     "fonte": "The Guardian · Mundo",
-     "url": "https://www.theguardian.com/us-news/2026/sep/23/fbi-jobs-website-hacked",
-     "sintese": "O FBI investiga uma violação do site de empregos, com um grupo de hackers a reivindicar o acesso a dados sensíveis.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-25",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/programa/mundo-digital?ep=18002644&page=42",
-     "sintese": "A aplicação GOV.PT recebe novas funcionalidades, melhorando a interação com os cidadãos.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "El País",
-     "url": "https://elpais.com/us/2026-09-29/trump-lanza-una-pagina-oficial-de-informacion-sobre-el-gobierno-de-ee-uu-que-le-desmiente.html",
-     "sintese": "A plataforma America.gov, lançada por Trump, nega a vitória de Biden nas eleições de 2020.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-29",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/video/detalhe/poderosa-e-brilhante-trump-lanca-plataforma-america-gov",
-     "sintese": "O grupo de hackers ShinyHunters reivindica o acesso a dados do site de empregos do FBI.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-30",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/edicao-diaria/absteno-do-chega-faz-avanar-mudanas-no-arrendamento-para-o-debate-na-especialidade",
-     "sintese": "A abstenção do Chega faz avançar as mudanças no arrendamento para o debate na especialidade.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "The New York Times · Mundo",
-     "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-     "sintese": "Burlões utilizam o número do Gov.PT para roubar dados bancários e pessoais.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-14",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-para-a-habitacao-alerta-para-a-urgencia-das-medidas/",
-     "sintese": "A Associação para a Habitação alerta para a urgência das medidas de habitação, criticando a demora das medidas governamentais.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/seguranca/2026-10-21-burloes-usam-numero-do-gov.pt-para-roubar-dados-bancarios-e-pessoais-5df39980?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/seguranca/2026-10-21-burloes-usam-numero-do-gov.pt-para-roubar-dados-bancarios-e-pessoais-5df39980",
-     "sintese": "O debate na especialidade do Orçamento de Estado discute as políticas governamentais.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/programa/pura-economia?ep=18142187",
-     "sintese": "A ministra do Ambiente sugere que a água para o sul do Tejo possa passar pela Ponte 25 de Abril.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/agua-para-sul-do-tejo-pode-passar-por-ponte-25-de-abril-refere-ministra-do-ambiente/",
-     "sintese": "O governador de Oklahoma critica a falta de civilidade de Trump, atribuindo a derrota republicana a este fator.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-07",
-     "fonte": "Politico",
-     "url": "https://www.politico.com/news/2026/11/07/kevin-stitt-republicans-butt-whipping-be-nice-01155140",
-     "sintese": "O debate na Assembleia da República discute a proposta de lei para o Orçamento do Estado 2027, com intervenções sobre despesas, receitas e políticas setoriais.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 14,
-    "encontradas": 14
-   },
-   "base": {
-    "ultima": "2026-11-07 17:00",
-    "em": "2026-11-13"
-   },
-   "novas": 0,
-   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em desenvolvimentos políticos e de segurança, com algumas referências a políticas governamentais. A notícia 14, sobre o Orçamento do Estado 2027, é diretamente relevante para a matéria em discussão. Outras notícias, como a 12 e a 13, abordam o debate na especialidade do Orçamento de Estado, fornecendo contexto para a discussão parlamentar. As notícias 11 e 13 mencionam medidas relacionadas com a habitação e a água, que podem estar relacionadas com as prioridades orçamentais. As restantes notícias, de natureza crítica ou lateral, não abordam diretamente a matéria do Orçamento do Estado."
-  },
-  "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
-   "titulo": "Debate e votação de artigos do Orçamento do Estado para 2027",
-   "meta": "Plenário · Reunião n.º 19 · Plenário · sexta, 20 nov, 10h00",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-16",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/rasi-e-bandeira-em-edifcios-pblicos-discutidos-num-plenrio-marcado-pelo-chumbo-do-requerimento-do-chega",
-     "sintese": "RASI e bandeira em edifícios públicos discutidos num plenário marcado pelo chumbo do requerimento do Chega — debate sobre artigos do Orçamento do Estado.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-17",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/programa/tv/p48583/e28",
-     "sintese": "Episódio n.º - Plenário Parlamentar Açores - Informação - Actualidades — cobertura de um plenário regional.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-24",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/health-parliament-portugal/2026-09-24-primeiro-plenario-do-health-parliament-portugal-9a6ea614",
-     "sintese": "Primeiro plenário do Health Parliament Portugal — debate sobre saúde e finanças públicas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-01",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/01/politica/noticia/chega-quer-convencao-dia-plenario-aguiarbranco-mantem-calendario-2189919",
-     "sintese": "Chega quer fazer convenção em dia de plenário, mas Aguiar-Branco mantém calendário — Presidente do Parlamento recusa alterar calendário da discussão do OE2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-13",
-     "fonte": "Healthnews",
-     "url": "https://healthnews.pt/2026/10/13/chega-acores-leva-financas-dos-hospitais-a-debate-de-urgencia-no-plenario/",
-     "sintese": "Chega/Açores leva finanças dos hospitais a debate de urgência no plenário — discussão sobre finanças públicas e saúde.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-14",
-     "fonte": "JM Madeira",
-     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007072/peticao-pela-salvaguarda-do-modelo-urbano-da-madeira-apreciada-em-plenario-a-20-de-outubro.html",
-     "sintese": "Petição ‘Pela salvaguarda do modelo urbano da Madeira' apreciada em plenário a 20 de outubro — discussão de uma petição relacionada com urbanismo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-20",
-     "fonte": "Jornal de Notícias",
-     "url": "https://www.jn.pt/nacional/artigo/livre-recorre-para-plenario-de-decisao-de-aguiar-branco-sobre-debate-de-urgencia/18139148",
-     "sintese": "Livre recorre para plenário da decisão de Aguiar-Branco sobre debate de urgência — recurso sobre decisão de calendário.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-20",
-     "fonte": "TSF",
-     "url": "https://www.tsf.pt/amp/18139177/livre-recorre-para-plenario-de-decisao-de-aguiar-branco-sobre-debate-de-urgencia-sobre-habitacao",
-     "sintese": "Crise na habitação. Livre recorre para plenário de decisão de Aguiar-Branco sobre debate de urgência — crise da habitação e debate de urgência.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/mundo/pc-chines-conclui-plenario-sobre-disciplina-interna-apos-purgas-de-altos-dirigentes_n1775211",
-     "sintese": "PC Chinês conclui plenário sobre disciplina interna após purgas de altos dirigentes — notícias sobre o Partido Comunista Chinês.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-29",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/10/29/partido-comunista-chines-conclui-plenario-sobre-disciplina-interna-apos-purgas-de-altos-dirigentes/",
-     "sintese": "Partido Comunista Chinês conclui plenário interno — notícias sobre o Partido Comunista Chinês.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-03",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/podcasts/expresso-da-manha/2026-11-03-teresa-violenta-se-a-discussao-persistir-o-presidente-da-republica-deve-pedir-ao-plenario-do-tribunal-constitucional-que-se-pronuncie-0f7b27ef",
-     "sintese": "Teresa Violenta: “Se a discussão persistir, o Presidente da República deve pedir ao plenário do Tribunal Constitucional que se pronuncie” — declaração sobre possível recurso.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-08",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/chega-acores-so-revela-sentido-de-voto-apos-discussao-do-orcamento-em-plenario-381869",
-     "sintese": "Chega/Açores só revela sentido de voto após discussão do Orçamento em plenário — posição do Chega sobre o Orçamento.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-09",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/pais/rossio-manifestantes-rejeitam-desmobilizacao_v1777817",
-     "sintese": "Assembleia não realiza plenário amanhã — adiamento devido ao mau tempo.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-10",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/2026/11/10/512348-assembleia-nao-realiza-plenario-amanha/",
-     "sintese": "Plenário de amanhã adiado devido ao mau tempo — adiamento devido ao mau tempo.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-10",
-     "fonte": "JM Madeira",
-     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008987/plenario-de-amanha-cancelado-devido-ao-mau-tempo.html",
-     "sintese": "Parlamento da Madeira adia plenário de quarta para quinta-feira — adiamento devido ao mau tempo.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-10",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3081675/mau-tempo-parlamento-da-madeira-adia-plenario-de-quarta-para-quinta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Espanha volta a votar decretos da habitação chumbados em outubro — votação de decretos sobre habitação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-12",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/espanha-volta-a-votar-decretos-da-habitacao-chumbados-em-outubro",
-     "sintese": "Parlamento espanhol aprova decreto que prolonga proteção contra despejos e limita aumentos das rendas — aprovação de decreto sobre habitação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-12",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/12/parlamento-espanhol-aprova-decreto-que-prolonga-protecao-contra-despejos-e-limita-aumentos-das-rendas/",
-     "sintese": "Parlamento espanhol aprova decreto que prolonga proteção contra despejos e limita aumentos das rendas",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    }
-   ],
-   "amostra": {
-    "analisadas": 18,
-    "encontradas": 80
-   },
-   "base": {
-    "ultima": "2026-11-12 16:28",
-    "em": "2026-11-13"
-   },
-   "novas": 0,
-   "enquadramento": "A cobertura mediática acompanhou a preparação e o debate do Orçamento do Estado para 2027, com notícias sobre intervenções parlamentares, discussões de artigos e posições dos grupos políticos. O período registou debates na especialidade, discussões de artigos remetidos a Plenário e intervenções de grupos parlamentares, incluindo o Chega, que levantou questões sobre o calendário e prioridades. Algumas notícias abordaram temas relacionados com a habitação e finanças públicas, enquanto outras forneceram contexto sobre outros assuntos políticos. A cobertura evoluiu com notícias sobre adiamentos de plenários devido ao mau tempo e discussões sobre a organização do debate."
   },
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -5542,7 +5188,6 @@
      "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
     }
    ],
-   "varrimento": "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun",
    "cobertura": {
     "n": 0,
     "n7": 0,
@@ -5568,7 +5213,12 @@
      "Secretária de Estado",
      "Lei n.º 43/2006"
     ]
-   }
+   },
+   "expressoes": [
+    "Conselho Europeu",
+    "Secretária de Estado dos Assuntos Europeus"
+   ],
+   "expressoesFixas": true
   },
   {
    "tema": "Orçamento do Estado 2027",
@@ -5600,7 +5250,6 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "varrimento": "2026-11-18-48673-plen-rio-debate-na-especialidade-do-or-amen",
    "cobertura": {
     "n": 13,
     "n7": 0,
@@ -5728,9 +5377,13 @@
     ]
    },
    "expressoes": [
-    "Debate na especialidade",
-    "GOV"
-   ]
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true
   },
   {
    "tema": "Escrutínio de iniciativa europeia sobre segurança digital",
@@ -5877,7 +5530,6 @@
    ],
    "periodo": "Manhã",
    "ligacoes": [],
-   "varrimento": "2026-11-19-48674-plen-rio-discuss-o-de-artigos-remetidos-a-p",
    "cobertura": {
     "n": 76,
     "n7": 11,
@@ -6382,8 +6034,13 @@
     ]
    },
    "expressoes": [
-    "Plenário"
-   ]
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true
   },
   {
    "tema": "Debate e votação de artigos do Orçamento do Estado para 2027",
@@ -6919,8 +6576,13 @@
     ]
    },
    "expressoes": [
-    "Plenário"
-   ]
+    "OE 2027",
+    "OE2027",
+    "Orçamento do Estado para 2027",
+    "Orçamento do Estado 2027",
+    "Proposta de Lei n.º 110/XVII"
+   ],
+   "expressoesFixas": true
   }
  ],
  "agenda": [

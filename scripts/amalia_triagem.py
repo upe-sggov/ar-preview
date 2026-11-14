@@ -19,7 +19,7 @@ Unidades e competências (só estas; nunca inventes outras):
 "Transversal" junta-se às unidades quando a matéria é de todo o Governo (Orçamento do Estado, Conta Geral do Estado, Reforma do Estado).
 Se nenhuma unidade for claramente competente, devolve "uo": []. Não forces atribuições."""
 
-GENERICAS = re.compile(r'^(\d{4}|or[cç]amento( do estado)?|oe|proposta de lei.*|audi[cç][aã]o( parlamentar)?|governo|parlamento|assembleia da rep[uú]blica|ministr[oa].*|secret[aá]ri[oa] de estado.*|ue|uni[aã]o europeia|comiss[aã]o europeia|parlamento europeu|conselho europeu|diretiva|regulamento|decreto-lei|lei|estado|portugal|vice-presidente.*|presidente.*|comiss[aã]o|grupo de trabalho.*|representa[cç][aã]o da comiss[aã]o europeia.*)$', re.I)
+GENERICAS = re.compile(r'^(\d{4}|or[cç]amento( do estado)?|oe|proposta de lei.*|audi[cç][aã]o( parlamentar)?|governo|parlamento|assembleia da rep[uú]blica|ministr[oa].*|secret[aá]ri[oa] de estado.*|ue|uni[aã]o europeia|comiss[aã]o europeia|parlamento europeu|conselho europeu|diretiva|regulamento|decreto-lei|lei|estado|portugal|vice-presidente.*|presidente.*|comiss[aã]o|grupo de trabalho.*|representa[cç][aã]o da comiss[aã]o europeia.*|plen[aá]rio|debate na especialidade|gov|artigos remetidos|assuntos europeus|or[cç]amento do estado|20\d\d)$', re.I)
 def util(e):
     """Expressão de pesquisa com valor: nem genérica, nem só um ano, nem cargo (o nome da pessoa é que conta)."""
     e = e.strip()

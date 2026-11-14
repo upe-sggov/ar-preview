@@ -155,7 +155,7 @@ def _procurar(x, arts, texto, nomes=True, folga=True):
     exps = [norm(e).strip() for e in (x.get('expressoes') or x.get('expressoes_auto') or []) if e and e.strip()]
     # expressões propostas pelo Amália não mandam nas audições: aí a pesquisa é por quem é ouvido (mais precisa);
     # as da revisão humana (correcoes.csv) mandam sempre
-    if exps and x.get('amalia') and not x.get('validado') and so_orgao(x) and (membros_governo(x) or entidades(x)):
+    if exps and x.get('amalia') and not x.get('validado') and not x.get('expressoesFixas') and so_orgao(x) and (membros_governo(x) or entidades(x)):
         exps = []
     if exps and not x.get('validado') and len(exps) > 1:
         # expressões demasiado gerais («Comissão de Inquérito», «Polícia Judiciária», o nome de um ministro) apanham centenas de
