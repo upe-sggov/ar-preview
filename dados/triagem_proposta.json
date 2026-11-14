@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-16",
  "fim": "2026-11-22",
- "recolha": "2026-11-14T21:51",
+ "recolha": "2026-11-14T22:07",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -21,10 +21,10 @@
    "uo": [
     "Transversal"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
    ],
    "validado": false
   },
@@ -272,11 +272,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
    ],
    "validado": false
   },
@@ -411,11 +411,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
    ],
    "validado": false
   },
@@ -532,11 +532,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
    ],
    "validado": false
   },
@@ -631,11 +631,11 @@
     "DAPL",
     "Transversal"
    ],
-   "pertinencia": "Registo",
+   "pertinencia": "Imediato",
    "criterio": [
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
    ],
    "validado": false
   },
