@@ -3908,8 +3908,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-14T21:32+00:00",
-  "atualizadoLabel": "14 de novembro, 21h32",
+  "atualizado": "2026-11-14T21:51+00:00",
+  "atualizadoLabel": "14 de novembro, 21h51",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -4270,7 +4270,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 251
+    "encontradas": 289
    },
    "base": {
     "ultima": "2026-11-12 17:28",
@@ -4452,7 +4452,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 251
+    "encontradas": 289
    },
    "base": {
     "ultima": "2026-11-12 17:28",
@@ -4816,6 +4816,68 @@
    },
    "novas": 0,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado 2027 começou com anúncios governamentais e de parceiros sociais, como a confirmação do salário mínimo e a discussão de prioridades como investimento, habitação e competitividade. Grupos parlamentares e empresários expressaram opiniões sobre a ambição e o equilíbrio das contas, com críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia. Entretanto, foram apresentadas propostas de alteração focadas em habitação, infraestruturas e políticas fiscais, como a redução do IVA para obras em condomínios. O debate evoluiu para incluir perspetivas regionais, como as transferências para a Madeira, e temas transversais como a transição ecológica e a eficiência na saúde."
+  },
+  "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg": {
+   "titulo": "Escrutínio de iniciativa europeia sobre segurança digital",
+   "meta": "Comissão de Assuntos Europeus · Reunião n.º 66 · quarta, 18 nov, 14h15",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-16",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/ue-vai-legislar-redes-sociais-para-jovens-associacoes-pedem-que-direitos-nao-sejam-esquecidos",
+     "sintese": "A Comissão Europeia prepara-se para apresentar o EU Kids Act, mas associações de serviços digitais alertam para potenciais perdas de oportunidades para os jovens se o acesso à Internet for restringido.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-09-17",
+     "fonte": "SAPO Tek",
+     "url": "https://tek.sapo.pt/noticias/internet/artigos/eu-kids-act-o-que-vai-mudar-no-acesso-das-criancas-e-jovens-as-redes-sociais/",
+     "sintese": "Ainda em fase de proposta, o EU Kids Act propõe proibir o acesso de crianças e jovens até aos 13 anos às redes sociais em toda a Europa, com plataformas responsabilizadas pela aplicação da medida.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-17",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/09/17/mundo/noticia/kids-act-bruxelas-quer-mudar-acesso-criancas-jovens-redes-sociais-2188388",
+     "sintese": "A Comissão Europeia propõe novas regras para proteger menores nas redes sociais, incluindo a proibição de acesso para menores de 13 anos e a responsabilização das plataformas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-18",
+     "fonte": "Jornal de Notícias",
+     "url": "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143",
+     "sintese": "A proposta de regulamento EU Kids Act visa reforçar a proteção de crianças e jovens online, com novas regras para o acesso às redes sociais e a responsabilização das plataformas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-09-20",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/descodificador/eu-kids-act-vai-alem-da-proibicao-das-redes-sociais-o-que-a-ue-quer-mudar/",
+     "sintese": "A iniciativa EU Kids Act vai além da simples proibição de acesso às redes sociais, com foco na proteção de menores e na responsabilização das plataformas digitais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    }
+   ],
+   "amostra": {
+    "analisadas": 5,
+    "encontradas": 5
+   },
+   "base": {
+    "ultima": "2026-09-20 14:59",
+    "em": "2026-11-14"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na proposta de regulamento da Comissão Europeia, o EU Kids Act, que visa reforçar a proteção de crianças e jovens online. Inicialmente, a discussão centrava-se na potencial proibição de acesso às redes sociais para menores de 13 anos, com associações a expressarem preocupações sobre a perda de oportunidades para os jovens. Posteriormente, a cobertura evoluiu para detalhar as novas regras e a responsabilização das plataformas, sem gerar polémica. As notícias confirmam que a iniciativa é um tema de debate ativo, com diferentes perspetivas sobre os seus impactos."
   }
  },
  "destaques": [
@@ -8547,7 +8609,8 @@
       "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/ue-vai-legislar-redes-sociais-para-jovens-associacoes-pedem-que-direitos-nao-sejam-esquecidos"
      ]
     ]
-   }
+   },
+   "varrimento": "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg"
   },
   {
    "tema": "Debate e Votações do Orçamento do Estado para 2027",
