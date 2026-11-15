@@ -53,34 +53,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -158,12 +170,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -1790,30 +1796,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    }
@@ -1859,34 +1841,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -1964,12 +1958,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -3596,30 +3584,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    }
@@ -3651,7 +3615,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3697,34 +3661,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -3802,12 +3778,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -5434,30 +5404,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    }
@@ -5489,7 +5435,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5523,7 +5469,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5557,7 +5503,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -5645,7 +5591,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5670,8 +5616,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-14T22:17+00:00",
-  "atualizadoLabel": "14 de novembro, 22h17",
+  "atualizado": "2026-11-15T14:40+00:00",
+  "atualizadoLabel": "15 de novembro, 14h40",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -5850,7 +5796,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 167
+    "encontradas": 166
    },
    "base": {
     "ultima": "2026-11-13 14:09",
@@ -6032,13 +5978,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 289
+    "encontradas": 286
    },
    "base": {
     "ultima": "2026-11-12 17:28",
     "em": "2026-11-13"
    },
-   "novas": 1,
+   "novas": 3,
    "enquadramento": "20 notícias analisadas no Radar de Notícias; enquadramento por gerar."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -6214,13 +6160,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 289
+    "encontradas": 286
    },
    "base": {
     "ultima": "2026-11-12 17:28",
     "em": "2026-11-13"
    },
-   "novas": 1,
+   "novas": 3,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem-se focado em debates parlamentares, críticas e propostas de alteração. As notícias destacam a discussão de medidas como a competitividade económica, o investimento na habitação e a sustentabilidade das contas públicas. O PSD e o CDS-PP promovem sessões de esclarecimento, enquanto partidos como o Chega e o PCP apresentam alterações significativas. O antigo ministro das Finanças, Centeno, alerta para opacidade orçamental, e o PS e o Chega focam-se em questões de rendas e habitação. A cobertura evolui com propostas de alteração, críticas e anúncios de medidas."
   },
   "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun": {
@@ -6388,7 +6334,7 @@
    ],
    "amostra": {
     "analisadas": 19,
-    "encontradas": 107
+    "encontradas": 105
    },
    "base": {
     "ultima": "2026-11-13 20:52",
@@ -6570,13 +6516,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 289
+    "encontradas": 286
    },
    "base": {
     "ultima": "2026-11-14 10:01",
     "em": "2026-11-14"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado 2027 começou com anúncios governamentais e de parceiros sociais, como a confirmação do salário mínimo e a discussão de prioridades como investimento, habitação e competitividade. Grupos parlamentares e empresários expressaram opiniões sobre a ambição e o equilíbrio das contas, com críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia. Entretanto, foram apresentadas propostas de alteração focadas em habitação, infraestruturas e políticas fiscais, como a redução do IVA para obras em condomínios. O debate evoluiu para incluir perspetivas regionais, como as transferências para a Madeira, e temas transversais como a transição ecológica e a eficiência na saúde."
   },
   "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg": {
@@ -6814,13 +6760,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 289
+    "encontradas": 286
    },
    "base": {
     "ultima": "2026-11-14 10:01",
     "em": "2026-11-14"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "A cobertura mediática acompanhou a elaboração e discussão do Orçamento do Estado para 2027, com notícias que reportaram anúncios governamentais, posições de partidos políticos e críticas de entidades sobre a falta de financiamento para projetos específicos. Inicialmente, a cobertura focou-se em anúncios e intenções do Governo, como a subida do salário mínimo para 970 euros e o aumento das transferências para a Madeira. Posteriormente, surgiram críticas de partidos e entidades sobre a falta de financiamento para projetos como o Hospital de Gaia e a construção de infraestruturas rodoviárias. A discussão sobre o Orçamento do Estado para 2027 evoluiu para incluir propostas de alteração de partidos políticos, como a suspensão das comissões na amortização de crédito e a aplicação da taxa reduzida de IVA nas obras de edifícios. A cobertura mediática manteve-se ativa durante o período, com sessões de diálogo entre o Governo e os partidos políticos, demonstrando a importância do Orçamento do Estado para 2027 na agenda política."
   }
  },
@@ -6856,34 +6802,46 @@
     }
    ],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -6961,12 +6919,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -8593,30 +8545,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    },
@@ -8654,11 +8582,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati",
    "cobertura": {
-    "n": 167,
+    "n": 166,
     "n7": 11,
     "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
     "ultima": "2026-11-13 14:09",
     "ultimas": [
@@ -9677,12 +9605,6 @@
       "Notícias ao Minuto",
       "\"Qualquer orçamento moderno precisa de novos recursos próprios\"",
       "https://www.noticiasaominuto.com/economia/3052184/estado-da-uniao-qualquer-orcamento-moderno-precisa-de-novas-receitas-von-der-leyen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-09-15 17:51",
-      "RTP Notícias",
-      "Bruxelas quer mais direitos para trabalhadores móveis na UE com benefícios de seis mil ME",
-      "https://www.rtp.pt/noticias/mundo/bruxelas-quer-mais-direitos-para-trabalhadores-moveis-na-ue-com-beneficios-de-seis-mil-me_n1765595"
      ]
     ]
    },
@@ -9730,11 +9652,11 @@
     }
    ],
    "cobertura": {
-    "n": 107,
+    "n": 105,
     "n7": 12,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
     "ultima": "2026-11-13 20:52",
     "ultimas": [
@@ -10387,18 +10309,6 @@
       "Observador",
       "3h. Luís Montenegro apoia António Costa num segundo mandato como presidente do Conselho Europeu",
       "https://observador.pt/programas/noticiario/as-noticias-das-3h-2438/"
-     ],
-     [
-      "2026-09-15 20:43",
-      "Expresso",
-      "Montenegro apoia Costa para 2º mandato no Conselho Europeu (e já há outros apoios no PPE)",
-      "https://expresso.pt/conselho-europeu/2026-09-15-montenegro-apoia-costa-para-2-mandato-no-conselho-europeu--e-ja-ha-outros-apoios-no-ppe--bf4a0cc2?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/conselho-europeu/2026-09-15-montenegro-apoia-costa-para-2-mandato-no-conselho-europeu--e-ja-ha-outros-apoios-no-ppe--bf4a0cc2"
-     ],
-     [
-      "2026-09-15 09:13",
-      "CNN Portugal",
-      "\"Não está à altura dos desafios\": antigo presidente do Conselho Europeu Charles Michel faz duras criticas a Ursula von der Leyen",
-      "https://cnnportugal.iol.pt/ursula-von-der-leyen/charles-michel/nao-esta-a-altura-dos-desafios-antigo-presidente-do-conselho-europeu-charles-michel-faz-duras-criticas-a-ursula-von-der-leyen/20260915/6aa8fe45d34e9a786e757fc1"
      ]
     ]
    },
@@ -10455,34 +10365,46 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -10560,12 +10482,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -12192,30 +12108,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    },
@@ -12303,7 +12195,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
     "ultima": "2026-09-20 14:59",
     "ultimas": [
@@ -12394,34 +12286,46 @@
     }
    ],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -12499,12 +12403,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -14131,30 +14029,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    },
@@ -14199,34 +14073,46 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -14304,12 +14190,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -15936,30 +15816,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    },
@@ -16022,34 +15878,46 @@
     }
    ],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -16127,12 +15995,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -17759,30 +17621,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    },
@@ -17828,34 +17666,46 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -17933,12 +17783,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -19565,30 +19409,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    },
@@ -19649,34 +19469,46 @@
     }
    ],
    "cobertura": {
-    "n": 289,
-    "n7": 12,
+    "n": 286,
+    "n7": 13,
     "n7ant": 28,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 10:01",
+    "ultima": "2026-11-14 20:20",
     "ultimas": [
+     {
+      "data": "2026-11-14",
+      "fonte": "Açoriano Oriental",
+      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-14",
       "fonte": "Jornal Económico",
       "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
       "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "Açoriano Oriental",
-      "titulo": "PS com alterações para apoiar pescadores, agricultores e turismo dos Açores",
-      "url": "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
-     },
-     {
-      "data": "2026-11-12",
-      "fonte": "ECO",
-      "titulo": "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
-      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
      }
     ],
     "todas": [
+     [
+      "2026-11-14 20:20",
+      "Açoriano Oriental",
+      "OE2027: Chega apresenta 22 medidas específicas para os Açores",
+      "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+     ],
+     [
+      "2026-11-14 19:14",
+      "Notícias ao Minuto",
+      "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
+      "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-14 10:01",
       "Jornal Económico",
@@ -19754,12 +19586,6 @@
       "Jornal de Negócios",
       "OE 2027: Partidos entregaram mais de 2.800 propostas de alteração. Chega à frente",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao-chega-a-frente"
-     ],
-     [
-      "2026-11-07 07:25",
-      "Correio da Manhã",
-      "Chega insiste na descida da idade da reforma e do IVA dos combustíveis",
-      "https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-082534-chega-insiste-na-descida-da-idade-da-reforma-e-do-iva-dos-combustiveis"
      ],
      [
       "2026-11-07 06:45",
@@ -21386,30 +21212,6 @@
       "Renascença",
       "Orçamento do Estado 2027. Governo chama parceiros sociais com proposta na agenda",
       "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/"
-     ],
-     [
-      "2026-09-15 15:33",
-      "ECO",
-      "Fesap exige aumento do salário mínimo no Estado para 1.050 euros",
-      "https://eco.sapo.pt/2026/09/15/fesap-exige-aumento-do-salario-minimo-no-estado-para-1-050-euros/"
-     ],
-     [
-      "2026-09-15 14:00",
-      "ECO",
-      "OE 2027: um Orçamento para a competitividade",
-      "https://eco.sapo.pt/opiniao/oe-2027-um-orcamento-para-a-competitividade/"
-     ],
-     [
-      "2026-09-15 11:04",
-      "ECO",
-      "Patrões querem reduzir carga fiscal para empresas e centrais sindicais pedem alívio no IRS",
-      "https://eco.sapo.pt/2026/09/15/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-sindicais-pedem-alivio-no-irs/"
-     ],
-     [
-      "2026-09-15 10:50",
-      "Jornal Económico",
-      "Patrões querem reduzir carga fiscal para empresas e centrais pedem alívio no IRS",
-      "https://jornaleconomico.sapo.pt/noticias/patroes-querem-reduzir-carga-fiscal-para-empresas-e-centrais-pedem-alivio-no-irs/"
      ]
     ]
    },
@@ -21452,7 +21254,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21486,7 +21288,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -21546,7 +21348,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -21611,7 +21413,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21646,11 +21448,11 @@
     }
    ],
    "cobertura": {
-    "n": 11,
+    "n": 6,
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-11-13 13:41",
     "ultimas": [
@@ -21709,36 +21511,6 @@
       "Observador",
       "BE quer mais meios para garantir declarações de património",
       "https://observador.pt/2026/09/16/be-quer-mais-meios-e-sancoes-para-garantir-declaracoes-de-patrimonio-de-politicos/"
-     ],
-     [
-      "2026-09-15 21:35",
-      "RTP Notícias",
-      "Transparência não sabe quantos políticos estão obrigados a declarar rendimentos",
-      "https://www.rtp.pt/noticias/politica/transparencia-nao-sabe-quantos-politicos-estao-obrigados-a-declarar-rendimentos_v1765653"
-     ],
-     [
-      "2026-09-15 17:08",
-      "Observador",
-      "Transparência não sabe universo de declarações obrigatórias",
-      "https://observador.pt/2026/09/15/entidade-para-a-transparencia-nao-sabe-quantos-politicos-e-titulares-de-cargos-publicos-tem-de-declarar-rendimentos/"
-     ],
-     [
-      "2026-09-15 11:21",
-      "RTP Notícias",
-      "EpT desconhece quantos políticos e titulares de cargos públicos têm de declarar rendimentos",
-      "https://www.rtp.pt/noticias/politica/ept-desconhece-quantos-politicos-e-titulares-de-cargos-publicos-tem-de-declarar-rendimentos_n1765519"
-     ],
-     [
-      "2026-09-15 11:12",
-      "Jornal Económico",
-      "Transparência não verificou todas as declarações de interesses e rendimentos do atual Governo",
-      "https://jornaleconomico.sapo.pt/noticias/transparencia-nao-verificou-todas-as-declaracoes-de-interesses-e-rendimentos-do-atual-governo/"
-     ],
-     [
-      "2026-09-15 06:59",
-      "ECO",
-      "Tribunal Constitucional falha “lista negra” de políticos e altos cargos públicos",
-      "https://eco.sapo.pt/2026/09/15/tribunal-constitucional-falha-lista-negra-de-politicos-e-altos-cargos-publicos/"
      ]
     ]
    },
@@ -21771,7 +21543,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21805,7 +21577,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21840,7 +21612,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21872,9 +21644,9 @@
    "cobertura": {
     "n": 8,
     "n7": 0,
-    "n7ant": 1,
+    "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-11-01 15:50",
     "ultimas": [
@@ -21976,7 +21748,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -22036,7 +21808,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -22073,7 +21845,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -22107,7 +21879,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -22167,7 +21939,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -22202,7 +21974,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-14",
+    "ref": "2026-11-15",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
