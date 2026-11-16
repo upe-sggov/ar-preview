@@ -387,7 +387,7 @@ body.capa-aberta{overflow:hidden}
     <h1>AR Preview<br><em>a semana na Assembleia da República</em></h1>
     <p class="capa-sub">A agenda da Assembleia da República para a área de Suporte à Decisão: cada reunião com a prioridade e as notícias do Radar de Notícias sobre o que vai ser discutido.</p>
     <div class="capa-ed" id="capa-ed"></div><br>
-    <button class="capa-btn" id="capa-entrar">Entrar no AR Preview <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></button>
+    <button class="capa-btn" id="capa-entrar">Entrar na AR Preview <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></button>
     <p class="capa-rodape">Área de Suporte à Decisão · Unidade de Pesquisa e Estatísticas<br><span id="capa-versao"></span></p>
   </div>
 </div>
@@ -415,7 +415,7 @@ body.capa-aberta{overflow:hidden}
 <div class="hdr-side"><small id="h-edicao"></small><div class="hdr-btns"><select class="edicoes" id="h-edicoes" aria-label="Edição" hidden></select>
   <button class="hdr-btn" id="btn-tema" title="Modo escuro" aria-label="Alternar modo claro/escuro"><svg id="ic-tema" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   <button class="hdr-btn" id="btn-ecra" title="Ecrã inteiro" aria-label="Ecrã inteiro"><svg id="ic-ecra" viewBox="0 0 24 24"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg></button>
-  <button class="hdr-btn" id="btn-info" title="Sobre o AR Preview: o que faz, de onde vêm os dados e como classifica" aria-label="Sobre o AR Preview" aria-haspopup="dialog"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button></div></div>
+  <button class="hdr-btn" id="btn-info" title="Sobre a AR Preview: o que faz, de onde vêm os dados e como classifica" aria-label="Sobre a AR Preview" aria-haspopup="dialog"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button></div></div>
 </div></header>
 
 
@@ -460,7 +460,7 @@ body.capa-aberta{overflow:hidden}
 </main>
 
 <dialog class="sobre" id="sobre" aria-labelledby="sobre-t">
-  <div class="sobre-top"><h2 id="sobre-t">Sobre o AR Preview</h2><button class="fechar" id="sobre-x" aria-label="Fechar">×</button></div>
+  <div class="sobre-top"><h2 id="sobre-t">Sobre a AR Preview</h2><button class="fechar" id="sobre-x" aria-label="Fechar">×</button></div>
   <div class="sobre-corpo">
     <p class="sobre-lead">Agenda semanal da Assembleia da República para os dirigentes da área de Suporte à Decisão: o que está marcado, com que prioridade, e o que a comunicação social tem dito sobre cada matéria. Produzida pela Unidade de Pesquisa e Estatísticas (UPE).</p>
 
@@ -589,7 +589,7 @@ body.capa-aberta{overflow:hidden}
   $('#btn-tema').addEventListener('click', () => aplicarTema(document.documentElement.dataset.tema !== 'escuro'));
   // ecrã inteiro
   const ENTRAR = '<path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/>', SAIR = '<path d="M8 3v3a2 2 0 0 1-2 2H3M21 8h-3a2 2 0 0 1-2-2V3M3 16h3a2 2 0 0 1 2 2v3M16 21v-3a2 2 0 0 1 2-2h3"/>';
-  // «i»: sobre o AR Preview
+  // «i»: sobre a AR Preview
   const dlgSobre = $('#sobre');
   $('#btn-info').addEventListener('click', () => { if (dlgSobre.showModal) dlgSobre.showModal(); else dlgSobre.setAttribute('open', ''); });
   $('#sobre-x').addEventListener('click', () => dlgSobre.close ? dlgSobre.close() : dlgSobre.removeAttribute('open'));
@@ -766,7 +766,7 @@ body.capa-aberta{overflow:hidden}
   };
   const PEDIDO = 'upe@sggoverno.gov.pt';
   const pedirVarr = x => { const ass = encodeURIComponent(`AR Preview — pedido de fundo mediático: ${x.tema}`.slice(0,150));
-    const corpo = encodeURIComponent(`Solicito fundo mediático da seguinte matéria do AR Preview:\n\nMatéria: ${x.tema}\nData: ${x.dataLabel||x.data}${x.hora?', '+x.hora:''}\nTipo: ${x.tipoLabel||''}\nEdição: n.º ${D.edicao.numero} (${D.edicao.semana})\n\nMotivo / enquadramento do pedido:\n\n`);
+    const corpo = encodeURIComponent(`Solicito fundo mediático da seguinte matéria da AR Preview:\n\nMatéria: ${x.tema}\nData: ${x.dataLabel||x.data}${x.hora?', '+x.hora:''}\nTipo: ${x.tipoLabel||''}\nEdição: n.º ${D.edicao.numero} (${D.edicao.semana})\n\nMotivo / enquadramento do pedido:\n\n`);
     return `<a class="pedir lig" href="mailto:${PEDIDO}?subject=${ass}&body=${corpo}" title="Abre um email para ${PEDIDO} com a matéria preenchida">Pedir fundo mediático</a>`; };
   const listaBtn = x => x.cobertura && x.cobertura.n && (x.cobertura.todas||[]).length ? `<a class="ver sec" href="#lista-${esc(idDe(x))}" data-lista="${esc(idDe(x))}"><svg class="ic"><use href="#i-news"/></svg>Notícias (${x.cobertura.n})</a>` : '';
   // critérios da prioridade (sem os das unidades, que já não se mostram)

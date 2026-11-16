@@ -92,7 +92,7 @@ def texto_radar(n_sel, c, n_total=None):
     n = c.get('n', n_total or 0); n7 = c.get('n7', 0)
     return (f"Das {n} notícias que o Radar de Notícias encontrou sobre esta matéria nos últimos 60 dias ({n7} na última semana), "
             f"estas são {n_sel}, escolhidas automaticamente: os dias com mais notícias, jornais diferentes e as mais recentes. "
-            f"A lista completa está no AR Preview. Sem análise: a síntese e a natureza de cada notícia chegam quando o Amália correr.")
+            f"A lista completa está na AR Preview. Sem análise: a síntese e a natureza de cada notícia chegam quando o Amália correr.")
 
 def alvos(d):
     """Matérias da semana (Imediato e Vigilância) e matérias Imediato das semanas seguintes, por esta ordem."""

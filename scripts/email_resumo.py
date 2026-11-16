@@ -1,4 +1,4 @@
-"""Corpo do email de segunda-feira do AR Preview, com o mesmo desenho do email do Radar de Notícias
+"""Corpo do email de segunda-feira da AR Preview, com o mesmo desenho do email do Radar de Notícias
 (cartão branco de 640 px, cabeçalho azul com o logótipo de anel branco fino, contagem em destaque,
 matérias agrupadas por dia e rodapé escuro). Gerado do mesmo dados/agenda.json que a página.
 Cada matéria leva: hora, comissão/tema, membro do Governo, síntese curta (sem etiquetas de unidade, por decisão de 2/11/2026)
@@ -96,7 +96,7 @@ def botao(txt, href, cheio=False):
             f'<a href="{e(href)}" style="font:600 13px Arial,sans-serif;color:{cor};text-decoration:none;white-space:nowrap">{e(txt)}</a>'
             f'</td></tr></table></td>')
 bts = []
-if url: bts.append(botao('Abrir o AR Preview', url, True))
+if url: bts.append(botao('Abrir a AR Preview', url, True))
 if url and todos: bts.append(botao('Subscrever no Outlook', 'webcal://' + url.split('://', 1)[1] + 'cal/ar-preview.ics'))
 bts.append(botao('Agenda parlamentar', AGENDA_AR))
 bts.append(botao('Canal Parlamento', CANAL))
@@ -134,7 +134,7 @@ print(f'''<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
   <tr><td align="center" style="padding:22px 24px 18px">
     <div style="font:400 13px Arial,sans-serif;color:#5b6068;line-height:1.55;padding-bottom:12px">
-      Calendário, cartões e fichas de fundo mediático estão na página do AR Preview, atualizada diariamente{f'; a versão em PDF está <a href="{e(url)}ar-preview.pdf" style="color:#2B5683;text-decoration:underline">aqui</a>' if url else ''}.</div>
+      Calendário, cartões e fichas de fundo mediático estão na página da AR Preview, atualizada diariamente{f'; a versão em PDF está <a href="{e(url)}ar-preview.pdf" style="color:#2B5683;text-decoration:underline">aqui</a>' if url else ''}.</div>
     {botoes}
     <div style="font:400 11px Arial,sans-serif;color:#8a9098;padding-top:6px;line-height:1.5"><b>Subscrever no Outlook</b> junta ao seu calendário as matérias Imediato e Vigilância e mantém-nas atualizadas.
       <b>adicionar ao Outlook</b>, em cada matéria, guarda só essa reunião.
