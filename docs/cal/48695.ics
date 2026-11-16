@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48695@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261117T140000Z
 DTEND:20261117T160000Z
 SUMMARY:AR · Grupo de Trabalho de Escrutínio de Iniciativas Europeias
-LOCATION:Assembleia da República
-DESCRIPTION:Grupo de Trabalho · Reunião n.º 28\nSíntese: Propostas de 
- deliberação\nEmissões em direto (quando houver): https://canal.parlame
- nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
-  indicativa\; a agenda da AR pode mudar.
+LOCATION:Assembleia da República · Sala 6
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 28 · Sala 6\nSíntese: Pro
+ postas de deliberação\nEmissões em direto (quando houver): https://can
+ al.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nH
+ ora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

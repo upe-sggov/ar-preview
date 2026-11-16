@@ -5578,10 +5578,16 @@
     "novos": 0,
     "alterados": 3,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-16",
+    "novos": 1,
+    "alterados": 2,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-16T08:13+00:00",
-  "atualizadoLabel": "16 de novembro, 08h13",
+  "atualizado": "2026-11-16T16:56+00:00",
+  "atualizadoLabel": "16 de novembro, 16h56",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -5589,7 +5595,7 @@
  "fichas": {
   "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati": {
    "titulo": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "meta": "Grupo de Trabalho · Reunião n.º 28 · terça, 17 nov, 14h00",
+   "meta": "Grupo de Trabalho · Reunião n.º 28 · Sala 6 · terça, 17 nov, 14h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -6133,180 +6139,6 @@
    "novas": 0,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre o seu impacto em áreas como o investimento, a habitação, a transição ecológica e as transferências para as regiões autónomas. O Governo confirmou a subida do salário mínimo para 970 euros e reviu as previsões de despesa, enquanto partidos como o PSD, o CDS-PP e o Chega apresentaram propostas específicas para as suas regiões. A cobertura inclui críticas sobre a falta de financiamento para projetos importantes, como o Hospital de Gaia, e elogios ao equilíbrio das contas públicas. A discussão sobre o OE2027 tem sido acompanhada por sessões de esclarecimento em todo o país, com a participação de ministros e dirigentes dos partidos da coligação governamental."
   },
-  "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun": {
-   "titulo": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 65 · terça, 17 nov, 16h00",
-   "nivel": "completa",
-   "origem": "amalia",
-   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
-   "atencao": [],
-   "blocos": [],
-   "tabelas": [],
-   "fundo": [
-    {
-     "data": "2026-09-15",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/conselho-europeu/2026-09-15-montenegro-apoia-costa-para-2-mandato-no-conselho-europeu--e-ja-ha-outros-apoios-no-ppe--bf4a0cc2?utm_source=expresso&utm_medium=category&utm_campaign=WEB&utm_content=/conselho-europeu/2026-09-15-montenegro-apoia-costa-para-2-mandato-no-conselho-europeu--e-ja-ha-outros-apoios-no-ppe--bf4a0cc2",
-     "sintese": "Montenegro apoia Costa para um segundo mandato no Conselho Europeu, com outros apoios no PPE, indicando um contexto político em torno da liderança europeia.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-16",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/estado-da-uniao-comissao-e-conselho-europeu-promovem-direitos-sociais-na-ue-em-cimeira/",
-     "sintese": "A Comissão e o Conselho Europeu promovem os direitos sociais na UE durante uma cimeira, enquadrando a agenda social europeia.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-30",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/09/30/azul/noticia/conselho-europeu-outubro-vai-tomar-decisoes-resposta-crise-combustiveis-2189819",
-     "sintese": "O Conselho Europeu de outubro toma decisões sobre a resposta à crise dos combustíveis, com críticas à falta de coordenação entre os Estados-Membros.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "Nascer do SOL",
-     "url": "https://sol.iol.pt/politica/noticias/montenegro-quer-antonio-costa-a-frente-do-conselho-europeu-por-mais-dois-anos-e-meio/20261006/6ac4f95d0cf22b9f8904e041",
-     "sintese": "Montenegro propõe que António Costa lidere o Conselho Europeu por mais dois anos e meio, indicando um contexto político sobre a liderança europeia.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3064297/psd-e-ps-mantem-apoio-a-reconducao-de-costa-mesmo-se-sanchez-perder-eleicoes-espanholas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O PSD e o PS mantêm o apoio à recondução de António Costa no Conselho Europeu, reforçando a posição política em torno da liderança europeia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-15",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/amp/mundo/2026/10/15/conselho-europeu-ja-comecou-energia-e-quadro-financeiro-plurianual-sao-as-prioridades/489281/",
-     "sintese": "O Conselho Europeu de outubro inicia os trabalhos com a energia e o quadro financeiro plurianual como prioridades, delineando a agenda política.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-15",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/cap-reiune-com-o-comissario-da-agricultura-e-envia-carta-ao-primeiro-ministro-em-vesperas-de-conselho-europeu/",
-     "sintese": "A CAP envia uma carta ao primeiro-ministro antes do Conselho Europeu, expressando preocupações sobre a agricultura europeia.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-15",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/internacional/conselho-europeu-ucrnia-no-estava-na-agenda-do-dia-mas-teve-a-ateno-dos-lderes-dos-27",
-     "sintese": "O Conselho Europeu discute a situação da Ucrânia, embora não estivesse na agenda oficial, demonstrando a atenção aos assuntos de segurança.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-16",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2503/",
-     "sintese": "António Costa garante o apoio da UE à Ucrânia durante o Conselho Europeu, reforçando a posição política sobre a crise.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-18",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/mais-cm/especiais/europa-viva/amp/apoio-da-uniao-a-ucrania-esta-forte-como-sempre-garante-antonio-costa-em-conselho-europeu",
-     "sintese": "Costa prevê apresentar uma nova proposta orçamental de longo prazo da UE em 21 de novembro, delineando a agenda política para o futuro financeiro da UE.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-21",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/costa-quer-cimeira-em-italia-em-marco-para-assinalar-70-o-aniversario-do-tratado-de-roma-381341",
-     "sintese": "Costa prevê apresentar uma nova proposta orçamental da UE em 21 de novembro, indicando a preparação para o Conselho Europeu.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-09",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/sucessao-no-bce-eurogrupo-avalia-candidaturas-de-pablo-de-cos-e-klaas-knot",
-     "sintese": "O Eurogrupo avalia candidaturas para a sucessão no BCE, indicando a preparação para mudanças na liderança europeia.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-11",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/11/costa-preve-apresentar-nova-proposta-de-orcamento-de-longo-prazo-da-ue-em-21-de-novembro/",
-     "sintese": "Costa prevê apresentar uma nova proposta orçamental de longo prazo da UE em 21 de novembro, reforçando a agenda política para o futuro financeiro da UE.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-11",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/costa-preve-apresentar-nova-proposta-de-orcamento-da-ue-em-21-de-novembro-381952",
-     "sintese": "Costa prevê apresentar uma nova proposta orçamental da UE em 21 de novembro, indicando a preparação para o Conselho Europeu.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-12",
-     "fonte": "Observador",
-     "url": "https://observador.pt/2026/11/12/costa-avisa-que-negociador-da-ue-nao-pode-abordar-todos-os-temas-com-moscovo/",
-     "sintese": "Costa afirma que um negociador da UE não chega para tudo, indicando a complexidade das negociações europeias.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-13",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/amp/europa-sera-representada-em-negociacoes-com-a-russia-por-cinco-paises-comissao-e-conselho-europeu",
-     "sintese": "Europa será representada em negociações com a Rússia por cinco países, Comissão e Conselho Europeu, delineando a equipa de negociação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-13",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/mundo/conselho-europeu-define-paises-representantes-para-negociar-paz-com-a-russia_n1779001",
-     "sintese": "O Conselho Europeu define países representantes para negociar paz com a Rússia, indicando a preparação para as negociações.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-13",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/11/13/mundo/noticia/kaja-kallas-lugar-equipa-europeia-vai-participar-negociacoes-paz-2194944",
-     "sintese": "Kaja Kallas não tem lugar na equipa europeia para as negociações de paz, indicando a composição da delegação europeia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-13",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/mundo/negociacoes-sobre-ucrania-cinco-paises-juntam-se-a-comissao-e-conselho-europeu_v1779032",
-     "sintese": "Cinco países juntam-se à Comissão e ao Conselho Europeu para as negociações de paz com a Rússia, delineando a equipa de negociação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    }
-   ],
-   "amostra": {
-    "analisadas": 19,
-    "encontradas": 96
-   },
-   "base": {
-    "ultima": "2026-11-13 20:52",
-    "em": "2026-11-14"
-   },
-   "novas": 0,
-   "enquadramento": "Nos últimos seis meses, a cobertura mediática focou-se principalmente em decisões e posições do Conselho Europeu, particularmente em relação à Ucrânia, ao orçamento da UE e a questões energéticas. O Conselho Europeu de outubro abordou a crise dos combustíveis e a situação da Ucrânia, com declarações de apoio e discussões sobre a defesa energética. O Presidente António Costa antecipou a apresentação de uma nova proposta orçamental para o período 2028-2034. As negociações de paz com a Rússia foram um tema central, com a definição de delegações europeias e a participação de vários países. A cobertura evoluiu de discussões sobre a liderança do Conselho Europeu para a análise de políticas e resultados concretos."
-  },
   "2026-11-18-48673-or-amento-do-estado-2027": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
    "meta": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 147 · Plenário · sexta, 20 nov, 15h00",
@@ -6491,7 +6323,7 @@
   },
   "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg": {
    "titulo": "Escrutínio de iniciativa europeia sobre segurança digital",
-   "meta": "Comissão de Assuntos Europeus · Reunião n.º 66 · quarta, 18 nov, 14h15",
+   "meta": "Comissão de Assuntos Europeus · Reunião n.º 66 · Sala 6 · quarta, 18 nov, 14h15",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -6732,6 +6564,27 @@
    },
    "novas": 2,
    "enquadramento": "A cobertura mediática acompanhou a elaboração e discussão do Orçamento do Estado para 2027, com notícias que reportaram anúncios governamentais, posições de partidos políticos e críticas de entidades sobre a falta de financiamento para projetos específicos. Inicialmente, a cobertura focou-se em anúncios e intenções do Governo, como a subida do salário mínimo para 970 euros e o aumento das transferências para a Madeira. Posteriormente, surgiram críticas de partidos e entidades sobre a falta de financiamento para projetos como o Hospital de Gaia e a construção de infraestruturas rodoviárias. A discussão sobre o Orçamento do Estado para 2027 evoluiu para incluir propostas de alteração de partidos políticos, como a suspensão das comissões na amortização de crédito e a aplicação da taxa reduzida de IVA nas obras de edifícios. A cobertura mediática manteve-se ativa durante o período, com sessões de diálogo entre o Governo e os partidos políticos, demonstrando a importância do Orçamento do Estado para 2027 na agenda política."
+  },
+  "2026-11-17-48711-audi-o-com-a-secret-ria-de-estado-dos-assun": {
+   "titulo": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
+   "meta": "Comissão de Assuntos Europeus · Reunião n.º 65 · Sala 1 · terça, 17 nov, 16h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [],
+   "amostra": {
+    "analisadas": 0,
+    "encontradas": 0
+   },
+   "base": {
+    "ultima": "",
+    "em": "2026-11-16"
+   },
+   "novas": 0,
+   "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: palavras do assunto). A ficha é refeita automaticamente quando surgirem notícias."
   }
  },
  "destaques": [
@@ -6741,8 +6594,8 @@
    "hora": "14h30",
    "interveniente": "",
    "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 22 · Sala 1",
-   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
-   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2026:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2027:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2027:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
    "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
    "id_ar": 48685,
    "chave": "ar-48685",
@@ -8508,14 +8361,15 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "expressoesFixas": true,
-   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027"
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
+   "alterado": "2026-11-16"
   },
   {
    "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
    "data": "2026-11-17",
    "hora": "14h00",
    "interveniente": "",
-   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28",
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28 · Sala 6",
    "resumo": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
    "ordemTrabalhos": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
    "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
@@ -9558,12 +9412,12 @@
    "data": "2026-11-17",
    "hora": "16h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 65",
-   "resumo": "A Secretária de Estado apresenta as conclusões do Conselho Europeu de outubro e antecipa os temas do Conselho extraordinário de novembro.",
-   "ordemTrabalhos": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as alterações introduzidas pela Lei n.º 21/2012, de 17 de maio, Lei n.º 18/2018, de 2 de maio, Lei n.º 64/2020, de 2 de novembro e Lei n.º 44/2023, de 14 de agosto\n Parte II \n Informações\n Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n a) COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos)\n Deputado Autor de Parecer: Cabe ao PSD\n Iniciativa sinalizada pela CAE: Prazo de envio – 12/01/2027\n b) COM(2026)1037 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 15/01/2027\n Fixação da redação final do Projeto de Resolução n.º 1309/XVII/2.ª (CH) – Recomenda ao Governo que crie as condições necessárias para o cumprimento interno do regulamento europeu relativo à análise dos investimentos estrangeiros na União e que revoga o Regulamento (UE) 2019/452.\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n a) COM(2026) 599 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um quadro de medidas nos Estados-Membros para salvaguardar a acessibilidade dos preços e a disponibilidade de habitação (Regulamento Habitação a Preços Acessíveis)\n Autor de Parecer: Deputado Paulo Moniz (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 17/11/2026\n b) COM(2026) 567 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um regime de medidas para reforçar o ecossistema de inovação da União e que altera o Regulamento (UE) 2017/1001 (Regulamento Inovação Europeia) – Relatório da 6.ª CECT\n Autor de Parecer: Deputado Ricardo Carvalho (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 19/11/2026\n c) COM(2026) 985 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que altera o Regulamento (UE) 2019/1149 que institui uma Autoridade Europeia do Trabalho, o Regulamento (UE) 2016/589 relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho e o Regulamento (UE) n.º 1024/2012 relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno, e revoga as Decisões de Execução (UE) 2017/1256, (UE) 2018/170, (UE) 2018/1020 e (UE) 2018/1021 da Comissão – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Rui Tavares (L)\n Iniciativa sinalizada pela CAE: Prazo de envio – 20/11/2026\n Outros assuntos",
+   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 65 · Sala 1",
+   "resumo": "A Secretária de Estado apresenta as conclusões do Conselho Europeu de 15 e 16 de outubro e antecipa os temas do Conselho extraordinário de 26 e 27 de novembro.",
+   "ordemTrabalhos": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as alterações introduzidas pela Lei n.º 21/2012, de 17 de maio, Lei n.º 18/2018, de 2 de maio, Lei n.º 64/2020, de 2 de novembro e Lei n.º 44/2023, de 14 de agosto\n Parte II \n Informações\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n a) COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos)\n Deputado Autor de Parecer: Cabe ao PSD\n Iniciativa sinalizada pela CAE: Prazo de envio – 12/01/2027\n b) COM(2026)1037 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 15/01/2027\n Fixação da redação final do Projeto de Resolução n.º 1309/XVII/2.ª (CH) – Recomenda ao Governo que crie as condições necessárias para o cumprimento interno do regulamento europeu relativo à análise dos investimentos estrangeiros na União e que revoga o Regulamento (UE) 2019/452.\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n a) COM(2026) 599 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um quadro de medidas nos Estados-Membros para salvaguardar a acessibilidade dos preços e a disponibilidade de habitação (Regulamento Habitação a Preços Acessíveis)\n Autor de Parecer: Deputado Paulo Moniz (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 17/11/2026\n b) COM(2026) 567 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um regime de medidas para reforçar o ecossistema de inovação da União e que altera o Regulamento (UE) 2017/1001 (Regulamento Inovação Europeia) – Relatório da 6.ª CECT\n Autor de Parecer: Deputado Ricardo Carvalho (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 19/11/2026\n c) COM(2026) 985 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que altera o Regulamento (UE) 2019/1149 que institui uma Autoridade Europeia do Trabalho, o Regulamento (UE) 2016/589 relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho e o Regulamento (UE) n.º 1024/2012 relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno, e revoga as Decisões de Execução (UE) 2017/1256, (UE) 2018/170, (UE) 2018/1020 e (UE) 2018/1021 da Comissão – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Rui Tavares (L)\n Iniciativa sinalizada pela CAE: Prazo de envio – 20/11/2026\n Outros assuntos",
    "orgao": "Comissão de Assuntos Europeus",
-   "id_ar": 48691,
-   "chave": "ar-48691",
+   "id_ar": 48711,
+   "chave": "ar-48711",
    "dataLabel": "terça, 17 nov",
    "tipo": [
     "Comissões Parlamentares"
@@ -9585,634 +9439,34 @@
      "url": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
     }
    ],
-   "cobertura": {
-    "n": 96,
-    "n7": 11,
-    "n7ant": 1,
-    "dias": 60,
-    "ref": "2026-11-16",
-    "metodo": "expressoes",
-    "ultima": "2026-11-13 20:52",
-    "ultimas": [
-     {
-      "data": "2026-11-13",
-      "fonte": "RTP Notícias",
-      "titulo": "Negociações sobre Ucrânia. Cinco países juntam-se à Comissão e Conselho Europeu",
-      "url": "https://www.rtp.pt/noticias/mundo/negociacoes-sobre-ucrania-cinco-paises-juntam-se-a-comissao-e-conselho-europeu_v1779032"
-     },
-     {
-      "data": "2026-11-13",
-      "fonte": "Público",
-      "titulo": "Kaja Kallas sem lugar na equipa europeia que vai participar nas negociações de paz",
-      "url": "https://www.publico.pt/2026/11/13/mundo/noticia/kaja-kallas-lugar-equipa-europeia-vai-participar-negociacoes-paz-2194944"
-     },
-     {
-      "data": "2026-11-13",
-      "fonte": "ECO",
-      "titulo": "Europa acorda formato de representação nas negociações de paz para a Ucrânia, diz Montenegro",
-      "url": "https://eco.sapo.pt/2026/11/13/europa-acorda-formato-de-representacao-nas-negociacoes-de-paz-para-a-ucrania-diz-montenegro/"
-     }
-    ],
-    "todas": [
-     [
-      "2026-11-13 20:52",
-      "RTP Notícias",
-      "Negociações sobre Ucrânia. Cinco países juntam-se à Comissão e Conselho Europeu",
-      "https://www.rtp.pt/noticias/mundo/negociacoes-sobre-ucrania-cinco-paises-juntam-se-a-comissao-e-conselho-europeu_v1779032"
-     ],
-     [
-      "2026-11-13 19:32",
-      "Público",
-      "Kaja Kallas sem lugar na equipa europeia que vai participar nas negociações de paz",
-      "https://www.publico.pt/2026/11/13/mundo/noticia/kaja-kallas-lugar-equipa-europeia-vai-participar-negociacoes-paz-2194944"
-     ],
-     [
-      "2026-11-13 18:26",
-      "ECO",
-      "Europa acorda formato de representação nas negociações de paz para a Ucrânia, diz Montenegro",
-      "https://eco.sapo.pt/2026/11/13/europa-acorda-formato-de-representacao-nas-negociacoes-de-paz-para-a-ucrania-diz-montenegro/"
-     ],
-     [
-      "2026-11-13 18:01",
-      "RTP Notícias",
-      "Conselho Europeu define países representantes para negociar paz com a Rússia",
-      "https://www.rtp.pt/noticias/mundo/conselho-europeu-define-paises-representantes-para-negociar-paz-com-a-russia_n1779001"
-     ],
-     [
-      "2026-11-13 16:45",
-      "Correio da Manhã",
-      "Europa será representada em negociações com a Rússia por cinco países, Comissão e Conselho Europeu",
-      "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/amp/europa-sera-representada-em-negociacoes-com-a-russia-por-cinco-paises-comissao-e-conselho-europeu"
-     ],
-     [
-      "2026-11-12 21:15",
-      "Observador",
-      "Costa: um negociador da UE não chega para tudo",
-      "https://observador.pt/2026/11/12/costa-avisa-que-negociador-da-ue-nao-pode-abordar-todos-os-temas-com-moscovo/"
-     ],
-     [
-      "2026-11-12 16:05",
-      "RTP Notícias",
-      "Montenegro propõe Costa ou Durão Barroso para negociadores da UE com a Rússia",
-      "https://www.rtp.pt/noticias/guerra-na-ucrania/montenegro-propoe-costa-ou-durao-barroso-para-negociadores-da-ue-com-a-russia_n1778720"
-     ],
-     [
-      "2026-11-12 14:15",
-      "Observador",
-      "14h. Tempestades. José Luís Carneiro defende prevenção",
-      "https://observador.pt/programas/noticiario/as-noticias-das-14h-2531/"
-     ],
-     [
-      "2026-11-11 16:47",
-      "Açoriano Oriental",
-      "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
-      "https://www.acorianooriental.pt/noticia/costa-preve-apresentar-nova-proposta-de-orcamento-da-ue-em-21-de-novembro-381952"
-     ],
-     [
-      "2026-11-11 11:43",
-      "Jornal de Negócios",
-      "António Costa deve fazer nova proposta de orçamento da UE em 21 de novembro",
-      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-deve-fazer-nova-proposta-de-orcamento-da-ue-em-21-de-novembro"
-     ],
-     [
-      "2026-11-11 09:52",
-      "ECO",
-      "Costa prevê apresentar nova proposta de orçamento de longo prazo da UE em 21 de novembro",
-      "https://eco.sapo.pt/2026/11/11/costa-preve-apresentar-nova-proposta-de-orcamento-de-longo-prazo-da-ue-em-21-de-novembro/"
-     ],
-     [
-      "2026-11-09 07:23",
-      "Jornal de Negócios",
-      "Sucessão no BCE. Eurogrupo avalia candidaturas de Pablo de Cos e Klaas Knot",
-      "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/sucessao-no-bce-eurogrupo-avalia-candidaturas-de-pablo-de-cos-e-klaas-knot"
-     ],
-     [
-      "2026-10-30 21:14",
-      "Observador",
-      "Membro associado. Canadá quer concluir até junho negociações",
-      "https://observador.pt/2026/10/30/carney-quer-concluir-ate-junho-negociacoes-para-tornar-canada-membro-associado-da-ue/"
-     ],
-     [
-      "2026-10-29 10:13",
-      "ECO",
-      "É oficial. Christine Lagarde abandona presidência do Banco Central Europeu a 7 de fevereiro",
-      "https://eco.sapo.pt/2026/10/29/e-oficial-christine-lagarde-abandona-presidencia-do-banco-central-europeu-a-7-de-fevereiro/"
-     ],
-     [
-      "2026-10-29 10:05",
-      "Jornal de Negócios",
-      "Lagarde abandona a presidência do Banco Central Europeu a 7 de fevereiro",
-      "https://www.jornaldenegocios.pt/mercados/detalhe/lagarde-abandona-a-presidencia-do-banco-central-europeu-a-7-de-fevereiro"
-     ],
-     [
-      "2026-10-27 15:45",
-      "Observador",
-      "Costa exorta houthis para negociarem sob a égide da ONU",
-      "https://observador.pt/2026/10/27/antonio-costa-exorta-houthis-a-pararem-ataques-e-negociarem-sob-egide-da-onu/"
-     ],
-     [
-      "2026-10-23 18:31",
-      "Observador",
-      "Costa condena ataques no mar Negro e apela ao fim dos mesmos",
-      "https://observador.pt/2026/10/23/antonio-costa-condena-ataques-no-mar-negro-apos-romenia-responsabilizar-russia-por-morte-de-tripulante/"
-     ],
-     [
-      "2026-10-21 18:34",
-      "Açoriano Oriental",
-      "Costa quer cimeira em Itália em março para assinalar 70.º aniversário do Tratado de Roma",
-      "https://www.acorianooriental.pt/noticia/costa-quer-cimeira-em-italia-em-marco-para-assinalar-70-o-aniversario-do-tratado-de-roma-381341"
-     ],
-     [
-      "2026-10-21 15:07",
-      "RTP Notícias",
-      "Orçamento da UE. António Costa pede acordo até ao final do ano",
-      "https://www.rtp.pt/noticias/economia/orcamento-da-ue-antonio-costa-pede-acordo-ate-ao-final-do-ano_v1773244"
-     ],
-     [
-      "2026-10-21 11:32",
-      "ECO",
-      "Costa pede orçamento na UE “suficientemente ambicioso” e acordo até ao final do ano",
-      "https://eco.sapo.pt/2026/10/21/costa-pede-orcamento-na-ue-suficientemente-ambicioso-e-acordo-ate-ao-final-do-ano/"
-     ],
-     [
-      "2026-10-20 13:31",
-      "ECO",
-      "Portugal tem linhas vermelhas nos recursos próprios para financiar orçamento europeu",
-      "https://eco.sapo.pt/2026/10/20/portugal-tem-linhas-vermelhas-nos-recursos-proprios-para-financiar-orcamento-europeu/"
-     ],
-     [
-      "2026-10-20 07:25",
-      "Público",
-      "“Precisamos de defesa, mas precisamos de continuar a financiar a ciência fundamental”",
-      "https://www.publico.pt/2026/10/20/ciencia/entrevista/precisamos-defesa-precisamos-continuar-financiar-ciencia-fundamental-2191093"
-     ],
-     [
-      "2026-10-18 00:30",
-      "Correio da Manhã",
-      "“Apoio da União à Ucrânia está forte como sempre”, garante António Costa em Conselho Europeu",
-      "https://www.cmjornal.pt/mais-cm/especiais/europa-viva/amp/apoio-da-uniao-a-ucrania-esta-forte-como-sempre-garante-antonio-costa-em-conselho-europeu"
-     ],
-     [
-      "2026-10-16 22:07",
-      "Jornal Económico",
-      "UE/Cimeira: Von der Leyen anuncia compras conjuntas para baixar preço de energia",
-      "https://jornaleconomico.sapo.pt/noticias/ue-cimeira-von-der-leyen-anuncia-compras-conjuntas-para-baixar-preco-de-energia/"
-     ],
-     [
-      "2026-10-16 21:29",
-      "RTP Notícias",
-      "UE quer resposta conjunta à crise energética",
-      "https://www.rtp.pt/noticias/mundo/ue-quer-resposta-conjunta-a-crise-energetica_v1772220"
-     ],
-     [
-      "2026-10-16 21:29",
-      "RTP Notícias",
-      "Crise de preços da energia e quadro financeiro plurianual: os temas que marcaram o Conselho Europeu em Bruxelas",
-      "https://www.rtp.pt/noticias/uniao-europeia/crise-de-precos-da-energia-e-quadro-financeiro-plurianual-os-temas-que-marcaram-o-conselho-europeu-em-bruxelas_n1772215"
-     ],
-     [
-      "2026-10-16 20:43",
-      "ECO",
-      "Montenegro nega ter acusado manifestantes de egoísmo",
-      "https://eco.sapo.pt/2026/10/16/montenegro-nega-ter-acusado-manifestantes-de-egoismo/"
-     ],
-     [
-      "2026-10-16 20:17",
-      "RTP Notícias",
-      "Conselho Europeu. Montenegro apoia compras conjuntas de gás e reforço da refinação europeia",
-      "https://www.rtp.pt/noticias/pais/conselho-europeu-montenegro-apoia-compras-conjuntas-de-gas-e-reforco-da-refinacao-europeia_n1772193"
-     ],
-     [
-      "2026-10-16 19:00",
-      "ECO",
-      "“Estamos há demasiados anos à espera das interligações” elétricas à Europa, diz Montenegro",
-      "https://eco.sapo.pt/2026/10/16/estamos-ha-demasiados-anos-a-espera-das-interligacoes-eletricas-a-europa-diz-montenegro/"
-     ],
-     [
-      "2026-10-16 18:19",
-      "Jornal de Negócios",
-      "Montenegro sobre crise energética: \"Esta não é uma altura para hesitações\"",
-      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/montenegro-sobre-crise-energetica-esta-nao-e-uma-altura-para-hesitacoes"
-     ],
-     [
-      "2026-10-16 18:18",
-      "Observador",
-      "18h. PM revela plano europeu para a crise energética",
-      "https://observador.pt/programas/noticiario/as-noticias-das-18h-2162/"
-     ],
-     [
-      "2026-10-16 16:18",
-      "ECO",
-      "“Perdeu o controlo da sala”. António Costa sob pressão dos líderes europeus após cimeira sem avanços",
-      "https://eco.sapo.pt/2026/10/16/perdeu-o-controlo-da-sala-antonio-costa-sob-pressao-dos-lideres-europeus-apos-cimeira-sem-avancos/"
-     ],
-     [
-      "2026-10-16 15:58",
-      "Público",
-      "Grato pelo apoio da UE, Zelensky pede mais 70 mil milhões de euros em 2027",
-      "https://www.publico.pt/2026/10/16/mundo/noticia/grato-apoio-ue-zelensky-pede-70-mil-milhoes-euros-2027-2191631"
-     ],
-     [
-      "2026-10-16 14:24",
-      "Observador",
-      "Meloni defende reforço da vigilância de fronteiras externas",
-      "https://observador.pt/2026/10/16/meloni-e-18-outros-lideres-defendem-alto-nivel-de-vigilancia-nas-fronteiras-externas/"
-     ],
-     [
-      "2026-10-16 13:58",
-      "Observador",
-      "Costa defende não se poder aliviar as sanções à Rússia",
-      "https://observador.pt/2026/10/16/antonio-costa-defende-ao-lado-de-zelenky-que-nao-e-tempo-de-aliviar-sancoes-a-russia/"
-     ],
-     [
-      "2026-10-16 10:17",
-      "RTP Notícias",
-      "Zelensky em Bruxelas. Guerra na Ucrânia domina último dia do Conselho Europeu",
-      "https://www.rtp.pt/noticias/mundo/zelensky-em-bruxelas-guerra-na-ucrania-domina-ultimo-dia-do-conselho-europeu_n1772040"
-     ],
-     [
-      "2026-10-16 09:11",
-      "Observador",
-      "9h. Conselho Europeu. Zelensky agradece apoio da União Europeia e pede prioridade à defesa energética da Ucrânia",
-      "https://observador.pt/programas/noticiario/as-noticias-das-9h-2503/"
-     ],
-     [
-      "2026-10-16 08:12",
-      "Observador",
-      "8h. Rui Rio rejeita acordo entre PSD e Chega",
-      "https://observador.pt/programas/noticiario/as-noticias-das-8h-2548/"
-     ],
-     [
-      "2026-10-16 06:12",
-      "Observador",
-      "6h. Conselho Europeu continua hoje em Bruxelas",
-      "https://observador.pt/programas/noticiario/as-noticias-das-6h-2524/"
-     ],
-     [
-      "2026-10-16 06:12",
-      "Observador",
-      "6h. Líderes dos 27 da União Europeia prosseguem hoje a reunião do Conselho Europeu em Bruxelas",
-      "https://observador.pt/programas/noticiario/as-noticias-das-6h-2524/"
-     ],
-     [
-      "2026-10-15 19:19",
-      "Diário de Notícias",
-      "Conselho Europeu. Ucrânia não estava na agenda do dia, mas teve a atenção dos líderes dos 27",
-      "https://www.dn.pt/internacional/conselho-europeu-ucrnia-no-estava-na-agenda-do-dia-mas-teve-a-ateno-dos-lderes-dos-27"
-     ],
-     [
-      "2026-10-15 15:20",
-      "ECO",
-      "Países da coesão garantem que vão manter-se unidos contra cortes no orçamento",
-      "https://eco.sapo.pt/2026/10/15/paises-da-coesao-garantem-que-vao-manter-se-unidos-contra-cortes-no-orcamento/"
-     ],
-     [
-      "2026-10-15 11:52",
-      "Jornal de Negócios",
-      "António Costa pede resposta coordenada à crise energética na Europa",
-      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-pede-resposta-coordenada-a-crise-energetica-na-europa"
-     ],
-     [
-      "2026-10-15 11:24",
-      "RTP Notícias",
-      "10h Conselho Europeu discute como controlar preços da energia",
-      "https://www.rtp.pt/noticias/noticiario-antena1/10h-conselho-europeu-discute-como-controlar-precos-da-energia_a1_1771821"
-     ],
-     [
-      "2026-10-15 11:11",
-      "Agroportal",
-      "CAP reíune com o comissário da agricultura e envia carta ao primeiro-ministro em vésperas de conselho europeu",
-      "https://www.agroportal.pt/cap-reiune-com-o-comissario-da-agricultura-e-envia-carta-ao-primeiro-ministro-em-vesperas-de-conselho-europeu/"
-     ],
-     [
-      "2026-10-15 10:46",
-      "Jornal Económico",
-      "PM garante que Governo está a resolver problemas na administração interna e SIRESP",
-      "https://jornaleconomico.sapo.pt/noticias/pm-garante-que-governo-esta-a-resolver-problemas-na-administracao-interna-e-siresp/"
-     ],
-     [
-      "2026-10-15 10:15",
-      "RTP Notícias",
-      "09h Conselho Europeu discute preços da energia",
-      "https://www.rtp.pt/noticias/noticiario-antena1/09h-conselho-europeu-discute-precos-da-energia_a1_1771804"
-     ],
-     [
-      "2026-10-15 09:57",
-      "Renascença",
-      "Conselho Europeu já começou. Energia e quadro financeiro plurianual são as prioridades",
-      "https://rr.pt/noticia/amp/mundo/2026/10/15/conselho-europeu-ja-comecou-energia-e-quadro-financeiro-plurianual-sao-as-prioridades/489281/"
-     ],
-     [
-      "2026-10-15 09:20",
-      "Público",
-      "Trump faz acordos com Putin para “evitar derrota excessivamente humilhante nas eleições intercalares”",
-      "https://www.publico.pt/2026/10/15/mundo/noticia/trump-faz-acordos-putin-evitar-derrota-excessivamente-humilhante-eleicoes-intercalares-2191359"
-     ],
-     [
-      "2026-10-15 08:50",
-      "ECO",
-      "Preço dos combustíveis é um “absurdo”, diz Montenegro",
-      "https://eco.sapo.pt/2026/10/15/preco-dos-combustiveis-e-um-absurdo-diz-montenegro/"
-     ],
-     [
-      "2026-10-15 08:37",
-      "Jornal de Negócios",
-      "\"Preço dos combustíveis é um absurdo\", diz Montenegro",
-      "https://www.jornaldenegocios.pt/empresas/energia/detalhe/preco-dos-combustiveis-e-um-absurdo-diz-montenegro"
-     ],
-     [
-      "2026-10-15 08:00",
-      "Jornal de Negócios",
-      "Braço de ferro entre os 27 complica calendário de Costa para orçamento da UE",
-      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/braco-de-ferro-entre-os-27-complica-calendario-de-costa-para-orcamento-da-ue"
-     ],
-     [
-      "2026-10-15 07:14",
-      "ECO",
-      "Com orçamento por fechar, líderes da UE debatem competitividade, energia e migração",
-      "https://eco.sapo.pt/2026/10/15/com-orcamento-por-fechar-lideres-da-ue-debatem-competitividade-energia-e-migracao/"
-     ],
-     [
-      "2026-10-15 06:45",
-      "Jornal de Negócios",
-      "Conselho Europeu, época de resultados e 3 outras coisas que precisa de saber para começar o dia",
-      "https://www.jornaldenegocios.pt/mercados/detalhe/conselho-europeu-epoca-de-resultados-e-3-outras-coisas-que-precisa-de-saber-para-comecar-o-dia"
-     ],
-     [
-      "2026-10-15 05:22",
-      "RTP Notícias",
-      "4h Crise energética será tema no Conselho Europeu até 6ª feira em Bruxelas",
-      "https://www.rtp.pt/noticias/noticiario-antena1/4h-crise-energetica-sera-tema-no-conselho-europeu-ate-6a-feira-em-bruxelas_a1_1771754"
-     ],
-     [
-      "2026-10-14 18:00",
-      "Diário de Notícias",
-      "P&R. Da China à Ucrânia: o que se pode esperar do Conselho Europeu desta semana?",
-      "https://www.dn.pt/internacional/pr-da-china-ucrnia-o-que-se-pode-esperar-do-conselho-europeu-desta-semana"
-     ],
-     [
-      "2026-10-13 15:51",
-      "ECO",
-      "Von der Leyen quer reforçar Frontex e criar mecanismo de emergência para responder a crises migratórias",
-      "https://eco.sapo.pt/2026/10/13/von-der-leyen-quer-reforcar-frontex-e-criar-mecanismo-de-emergencia-para-responder-a-crises-migratorias/"
-     ],
-     [
-      "2026-10-12 17:03",
-      "ECO",
-      "Costa alerta que “falta de habitação acessível” gera “desapontamento com as instituições”",
-      "https://eco.sapo.pt/2026/10/12/na-semana-das-regioes-costa-alerta-que-falta-de-habitacao-acessivel-gera-desapontamento-com-as-instituicoes/"
-     ],
-     [
-      "2026-10-12 16:45",
-      "Jornal Económico",
-      "Costa alerta para repercussões de atraso na aprovação do orçamento da UE",
-      "https://jornaleconomico.sapo.pt/noticias/1451390/"
-     ],
-     [
-      "2026-10-12 16:19",
-      "Observador",
-      "Costa alerta para a importância de aprovar orçamento da UE",
-      "https://observador.pt/2026/10/12/antonio-costa-adverte-para-repercussoes-de-atraso-na-aprovacao-do-orcamento-da-ue/"
-     ],
-     [
-      "2026-10-11 21:18",
-      "RTP Notícias",
-      "Costa será \"principal negociador\" para orçamento da UE após críticas a proposta irlandesa",
-      "https://www.rtp.pt/noticias/mundo/costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa_n1771047"
-     ],
-     [
-      "2026-10-11 19:44",
-      "Observador",
-      "Costa será \"principal negociador\" para orçamento da UE",
-      "https://observador.pt/2026/10/11/costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/"
-     ],
-     [
-      "2026-10-09 15:37",
-      "Notícias ao Minuto",
-      "PSD e PS mantêm apoio a recondução de Costa no Conselho Europeu",
-      "https://www.noticiasaominuto.com/pais/3064297/psd-e-ps-mantem-apoio-a-reconducao-de-costa-mesmo-se-sanchez-perder-eleicoes-espanholas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-10-08 09:30",
-      "Jornal de Negócios",
-      "Bruxelas estuda forma de tributar Apple, Meta e Google sem visar o setor digital",
-      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/bruxelas-estuda-forma-de-tributar-apple-meta-e-google-sem-visar-o-setor-digital"
-     ],
-     [
-      "2026-10-07 08:13",
-      "Observador",
-      "8h. 7 de Outubro. António Costa assinala \"data inesquecível\"",
-      "https://observador.pt/programas/noticiario/as-noticias-das-8h-2541/"
-     ],
-     [
-      "2026-10-06 17:17",
-      "Observador",
-      "Costa em risco de perder braço-direito em Bruxelas",
-      "https://observador.pt/2026/10/06/costa-em-risco-de-perder-braco-direito-em-bruxelas-lourtie-na-calha-para-embaixador-da-ue-junto-das-nacoes-unidas/"
-     ],
-     [
-      "2026-10-06 14:36",
-      "Nascer do SOL",
-      "Montenegro quer António Costa à frente do Conselho Europeu por mais dois anos e meio",
-      "https://sol.iol.pt/politica/noticias/montenegro-quer-antonio-costa-a-frente-do-conselho-europeu-por-mais-dois-anos-e-meio/20261006/6ac4f95d0cf22b9f8904e041"
-     ],
-     [
-      "2026-10-06 13:33",
-      "Dinheiro Vivo",
-      "Montenegro defende continuidade de António Costa na liderança do Conselho Europeu",
-      "https://www.dn.pt/pol%C3%ADtica/montenegro-defende-continuidade-de-antnio-costa-na-liderana-do-conselho-europeu"
-     ],
-     [
-      "2026-10-06 13:25",
-      "CNN Portugal",
-      "Montenegro apoia continuação de Costa no Conselho Europeu",
-      "https://cnnportugal.iol.pt/primeiro-ministro/antonio-costa/montenegro-apoia-continuacao-de-costa-no-conselho-europeu/20261006/6ac4e90ed34e9a786e75b019"
-     ],
-     [
-      "2026-10-06 13:24",
-      "Jornal Económico",
-      "Luís Montenegro apoia continuação de António Costa no Conselho Europeu",
-      "https://jornaleconomico.sapo.pt/noticias/luis-montenegro-apoia-continuacao-de-antonio-costa-no-conselho-europeu/"
-     ],
-     [
-      "2026-10-05 14:15",
-      "RTP Notícias",
-      "António Costa defende aposta da União Europeia em \"verdadeira rede multipolar\"",
-      "https://www.rtp.pt/noticias/mundo/antonio-costa-defende-aposta-da-uniao-europeia-em-verdadeira-rede-multipolar_n1769678"
-     ],
-     [
-      "2026-10-05 12:09",
-      "Observador",
-      "Costa defende aposta da UE em \"verdadeira rede multipolar\"",
-      "https://observador.pt/2026/10/05/antonio-costa-defende-aposta-da-uniao-europeia-em-verdadeira-rede-multipolar/"
-     ],
-     [
-      "2026-10-05 00:10",
-      "Público",
-      "Uma carta ao mundo é enviada a quem?",
-      "https://www.publico.pt/2026/10/05/opiniao/opiniao/carta-mundo-enviada-2189932"
-     ],
-     [
-      "2026-10-02 20:52",
-      "Observador",
-      "Ventura recusa que Costa seja vítima na Operação Influencer",
-      "https://observador.pt/2026/10/02/ventura-recusa-que-costa-seja-vitima-na-operacao-influencer-e-critica-mediatismo-parece-que-e-a-ele-que-temos-de-pedir-desculpa/"
-     ],
-     [
-      "2026-10-02 14:45",
-      "RTP Notícias",
-      "António Costa acusa o Ministério Público de atentado ao Estado de Direito",
-      "https://www.rtp.pt/noticias/pais/antonio-costa-acusa-o-ministerio-publico-de-atentado-ao-estado-de-direito_v1769164"
-     ],
-     [
-      "2026-09-30 15:41",
-      "Observador",
-      "Combustíveis. Conselho Europeu decide medidas em breve",
-      "https://observador.pt/2026/09/30/irao-conselho-europeu-de-outubro-vai-tomar-decisoes-na-resposta-a-crise-dos-combustiveis/"
-     ],
-     [
-      "2026-09-30 15:33",
-      "Público",
-      "Conselho Europeu de Outubro vai tomar decisões na resposta à crise dos combustíveis",
-      "https://www.publico.pt/2026/09/30/azul/noticia/conselho-europeu-outubro-vai-tomar-decisoes-resposta-crise-combustiveis-2189819"
-     ],
-     [
-      "2026-09-30 15:33",
-      "Público",
-      "Conselho Europeu de Outubro vai tomar decisões na resposta à crise dos combustíveis | Energia",
-      "https://www.publico.pt/2026/09/30/azul/noticia/conselho-europeu-outubro-vai-tomar-decisoes-resposta-crise-combustiveis-2189819"
-     ],
-     [
-      "2026-09-30 14:28",
-      "Notícias ao Minuto",
-      "Crise dos combustíveis? Ministra aponta novidades para Conselho Europeu",
-      "https://www.noticiasaominuto.com/pais/3059618/irao-conselho-europeu-de-outubro-vai-tomar-decisoes-na-resposta-a-crise-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-09-30 14:19",
-      "Jornal de Negócios",
-      "Portugal pede a Bruxelas resposta mais proativa à crise energética",
-      "https://www.jornaldenegocios.pt/empresas/energia/detalhe/portugal-pede-a-bruxelas-resposta-mais-proativa-a-crise-energetica"
-     ],
-     [
-      "2026-09-25 23:50",
-      "Jornal Económico",
-      "Centeno pede que se crie estabilidade como a que permitiu que geringonça funcionasse",
-      "https://jornaleconomico.sapo.pt/noticias/centeno-pede-que-se-crie-estabilidade-como-a-que-permitiu-que-geringonca-funcionasse/"
-     ],
-     [
-      "2026-09-25 23:36",
-      "Jornal Económico",
-      "Carneiro elogia Centeno e diz que só o próprio pode decidir se quer ser militante do PS",
-      "https://jornaleconomico.sapo.pt/noticias/carneiro-elogia-centeno-e-diz-que-so-o-proprio-pode-decidir-se-quer-ser-militante-do-ps-2/"
-     ],
-     [
-      "2026-09-25 22:29",
-      "RTP Notícias",
-      "Centeno diz que comparação com Passos \"é despropositada\" e que não gostava de ser PM",
-      "https://www.rtp.pt/noticias/politica/centeno-diz-que-comparacao-com-passos-e-despropositada-e-que-nao-gostava-de-ser-pm_n1767811"
-     ],
-     [
-      "2026-09-24 20:58",
-      "Observador",
-      "Costa na ONU: \"É inaceitável que a Rússia ameace UE\"",
-      "https://observador.pt/2026/09/24/e-inaceitavel-que-nos-ultimos-doze-meses-a-russia-tenha-ameacado-a-seguranca-de-varios-paises-da-ue-critica-costa-na-onu/"
-     ],
-     [
-      "2026-09-24 19:41",
-      "RTP Notícias",
-      "António Costa elogia Guterres e defende caminho do \"multilateralismo\" nas Nações Unidas",
-      "https://www.rtp.pt/noticias/mundo/antonio-costa-elogia-guterres-e-defende-caminho-do-multilateralismo-nas-nacoes-unidas_n1767539"
-     ],
-     [
-      "2026-09-24 19:39",
-      "Observador",
-      "19h. António Costa elogia legado de António Guterres",
-      "https://observador.pt/programas/noticiario/as-noticias-das-19h-2174/"
-     ],
-     [
-      "2026-09-24 16:51",
-      "Açoriano Oriental",
-      "António Costa pede a Teerão que permita navegação em Ormuz e cesse ataques",
-      "http://www.acorianooriental.pt/noticia/antonio-costa-pede-a-teerao-que-permita-navegacao-em-ormuz-e-cesse-ataques-380569"
-     ],
-     [
-      "2026-09-23 11:25",
-      "RTP Notícias",
-      "\"Medidas importantes\" levam Bruxelas a reabrir torneira de fundos de coesão à Hungria",
-      "https://www.rtp.pt/noticias/mundo/medidas-importantes-levam-bruxelas-a-reabrir-torneira-de-fundos-de-coesao-a-hungria_n1767190"
-     ],
-     [
-      "2026-09-22 19:04",
-      "ECO",
-      "Gronelândia: Costa considera acordo com EUA “passo positivo” para cooperação transatlântica",
-      "https://eco.sapo.pt/2026/09/22/gronelandia-costa-considera-acordo-com-eua-passo-positivo-para-cooperacao-transatlantica/"
-     ],
-     [
-      "2026-09-21 12:01",
-      "ECO",
-      "Costa alerta para oposição aos cortes no orçamento da União Europeia",
-      "https://eco.sapo.pt/2026/09/21/costa-alerta-para-oposicao-aos-cortes-no-orcamento-da-uniao-europeia/"
-     ],
-     [
-      "2026-09-21 11:48",
-      "Jornal Económico",
-      "António Costa insiste na procura de novas fontes de recursos próprios para financiar o orçamento",
-      "https://jornaleconomico.sapo.pt/noticias/antonio-costa-insiste-na-procura-de-novas-fontes-de-recursos-proprios-para-financiar-o-orcamento/"
-     ],
-     [
-      "2026-09-20 23:03",
-      "RTP Notícias",
-      "Presidente do Conselho Europeu e líderes do Brasil, Canadá e Quénia lançam iniciativa para reformar ONU",
-      "https://www.rtp.pt/noticias/mundo/presidente-do-conselho-europeu-e-lideres-do-brasil-canada-e-quenia-lancam-iniciativa-para-reformar-onu_n1766690"
-     ],
-     [
-      "2026-09-20 19:45",
-      "ECO",
-      "Costa, Lula, Ruto e Carney querem reformar a ONU",
-      "https://eco.sapo.pt/2026/09/20/costa-lula-ruto-e-carney-querem-reformar-a-onu/"
-     ],
-     [
-      "2026-09-17 17:52",
-      "RTP Notícias",
-      "Costa está a trabalhar com Dublin para um acordo orçamental na UE até fim do ano",
-      "https://www.rtp.pt/noticias/mundo/costa-esta-a-trabalhar-com-dublin-para-um-acordo-orcamental-na-ue-ate-fim-do-ano_n1766076"
-     ],
-     [
-      "2026-09-17 16:45",
-      "Jornal de Negócios",
-      "Costa garante \"apoio unânime\" dos 27 para fechar orçamento europeu até ao final do ano",
-      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/costa-garante-apoio-unanime-dos-27-para-fechar-orcamento-europeu-ate-ao-final-do-ano"
-     ],
-     [
-      "2026-09-17 12:07",
-      "Jornal de Negócios",
-      "Comissão Europeia propõe pagar 261 milhões em ajudas a Portugal por causa das tempestades",
-      "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/comissao-europeia-propoe-pagar-261-milhoes-em-ajudas-a-portugal-por-causa-das-tempestades"
-     ]
-    ]
-   },
+   "novo": "2026-11-16",
    "tituloRegras": true,
    "amalia": {
-    "assunto": "Conselho Europeu extraordinário de novembro",
-    "resumo": "A Secretária de Estado apresenta as conclusões do Conselho Europeu de outubro e antecipa os temas do Conselho extraordinário de novembro.",
+    "assunto": "Conselho Europeu extraordinário de 26 e 27 de novembro",
+    "resumo": "A Secretária de Estado apresenta as conclusões do Conselho Europeu de 15 e 16 de outubro e antecipa os temas do Conselho extraordinário de 26 e 27 de novembro.",
     "uo": [
      "DCIRI"
     ],
-    "justificacao": "A DCIRI é responsável pelas relações internacionais e pela coordenação das posições do Governo em fóruns europeus.",
+    "justificacao": "A DCIRI é responsável pelas relações internacionais e pela coordenação das posições do Governo em fóruns europeus, incluindo o Conselho Europeu.",
     "expressoes": [
      "Conselho Europeu",
-     "Assuntos Europeus",
-     "Secretária de Estado",
+     "Secretária de Estado dos Assuntos Europeus",
+     "Conselho extraordinário",
      "Lei n.º 43/2006"
     ]
    },
-   "expressoes": [
-    "Conselho Europeu",
-    "Secretária de Estado dos Assuntos Europeus"
-   ],
-   "expressoesFixas": true,
-   "varrimento": "2026-11-17-48691-audi-o-com-a-secret-ria-de-estado-dos-assun"
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-16",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "varrimento": "2026-11-17-48711-audi-o-com-a-secret-ria-de-estado-dos-assun"
   },
   {
    "tema": "Orçamento do Estado 2027",
@@ -12011,7 +11265,7 @@
    "data": "2026-11-18",
    "hora": "14h15",
    "interveniente": "",
-   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 66",
+   "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 66 · Sala 6",
    "resumo": "A Comissão de Assuntos Europeus aprecia e vota um parecer sobre a proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia. O debate centra-se na salvaguarda da responsabilização e fiabilidade nos espaços digitais.",
    "ordemTrabalhos": "Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
    "orgao": "Comissão de Assuntos Europeus",
@@ -21188,7 +20442,7 @@
    "data": "2026-11-17",
    "hora": "14h30",
    "interveniente": "",
-   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 9",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 9 · Sala 4",
    "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
    "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
    "orgao": "Comissão de Transparência e Estatuto dos Deputados",
@@ -21227,7 +20481,7 @@
    "data": "2026-11-17",
    "hora": "15h00",
    "interveniente": "",
-   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 59",
+   "tipoLabel": "Comissão de Transparência e Estatuto dos Deputados · Reunião n.º 59 · Sala 4",
    "resumo": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públic",
    "ordemTrabalhos": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho – Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 6 – Deliberação sobre a admissibilidade e distribuição de participações e denúncias enviadas à Comissão (matéria reservada);\n 7 – Outros assuntos.",
    "orgao": "Comissão de Transparência e Estatuto dos Deputados",
@@ -21617,8 +20871,8 @@
    "hora": "15h00",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA",
-   "ordemTrabalhos": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA",
+   "resumo": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA\n16h00 - Associação para a Gestão Colectiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais (GEDIP)",
+   "ordemTrabalhos": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA\n16h00 - Associação para a Gestão Colectiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais (GEDIP)",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "id_ar": 48699,
    "chave": "ar-48699",
@@ -21646,7 +20900,8 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "alterado": "2026-11-16"
   },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",

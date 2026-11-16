@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 16 a 22 de novembro de 2026
 BEGIN:VEVENT
 UID:ar-48685@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261116T143000Z
 DTEND:20261116T163000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -14,7 +14,7 @@ SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
 LOCATION:Assembleia da República · Sala 1
 DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
   · Reunião n.º 22 · Sala 1\nSíntese: Procedimentos no âmbito da dis
- cussão do Orçamento do Estado para 2026\; Proposta de organização da 
+ cussão do Orçamento do Estado para 2027\; Proposta de organização da 
  votação na especialidade (divisão do…\nPágina na AR: https://www.pa
  rlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em d
  ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
@@ -26,43 +26,43 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48695@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261117T140000Z
 DTEND:20261117T160000Z
 SUMMARY:AR · Grupo de Trabalho de Escrutínio de Iniciativas Europeias
-LOCATION:Assembleia da República
-DESCRIPTION:Grupo de Trabalho · Reunião n.º 28\nSíntese: Propostas de 
- deliberação\nEmissões em direto (quando houver): https://canal.parlame
- nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
-  indicativa\; a agenda da AR pode mudar.
+LOCATION:Assembleia da República · Sala 6
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 28 · Sala 6\nSíntese: Pro
+ postas de deliberação\nEmissões em direto (quando houver): https://can
+ al.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nH
+ ora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48691@ar-preview
-DTSTAMP:20261116T081424Z
+UID:ar-48711@ar-preview
+DTSTAMP:20261116T170320Z
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
 SUMMARY:AR · Audição com a Secretária de Estado dos Assuntos Europeus 
  após o Conselho Europeu de 15 e 16 de outubro e…
-LOCATION:Assembleia da República
-DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 65\nGoverno: S
- ecretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15
-  e 16 de outubro e… · Secretária de Estado dos Assuntos Europeus apó
- s o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Euro
- peu extraordinário de 26 e 27 de novembro\, cumprindo o estabelecido nas
-  alíneas a\nSíntese: Grupo de Trabalho – Escrutínio de Iniciativas E
- uropeias\; Nomeação de Deputado autor de parecer no âmbito de iniciati
- vas europeias: a)…\nPágina na AR: https://www.parlamento.pt/sites/com/
- XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): h
- ttps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-p
- review/\nHora de fim indicativa\; a agenda da AR pode mudar.
+LOCATION:Assembleia da República · Sala 1
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 65 · Sala 1\n
+ Governo: Secretária de Estado dos Assuntos Europeus após o Conselho Eur
+ opeu de 15 e 16 de outubro e… · Secretária de Estado dos Assuntos Eur
+ opeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Con
+ selho Europeu extraordinário de 26 e 27 de novembro\, cumprindo o estabe
+ lecido nas alíneas a\nSíntese: Nomeação de Deputado autor de parecer 
+ no âmbito de iniciativas europeias: a) COM(2026)590 - Proposta de REGULA
+ MENTO DO PARLAMENTO EUROPEU E…\nPágina na AR: https://www.parlamento.p
+ t/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quand
+ o houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.gi
+ thub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48673@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261118T100000Z
 DTEND:20261118T120000Z
 SUMMARY:AR · Orçamento do Estado 2027
@@ -78,23 +78,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48700@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261118T141500Z
 DTEND:20261118T161500Z
 SUMMARY:AR · Escrutínio de iniciativa europeia sobre segurança digital
-LOCATION:Assembleia da República
-DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 66\nSíntese: 
- Apreciação e votação de parecer da CAE no âmbito do escrutínio de i
- niciativas europeias\nPágina na AR: https://www.parlamento.pt/sites/com/
- XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando houver): h
- ttps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-p
- review/\nHora de fim indicativa\; a agenda da AR pode mudar.
+LOCATION:Assembleia da República · Sala 6
+DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 66 · Sala 6\n
+ Síntese: Apreciação e votação de parecer da CAE no âmbito do escrut
+ ínio de iniciativas europeias\nPágina na AR: https://www.parlamento.pt/
+ sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando 
+ houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.gith
+ ub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48686@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261118T150000Z
 DTEND:20261118T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -113,7 +113,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48674@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261119T100000Z
 DTEND:20261119T120000Z
 SUMMARY:AR · Debate e Votações do Orçamento do Estado para 2027
@@ -129,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48687@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261119T150000Z
 DTEND:20261119T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -148,7 +148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48675@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261120T100000Z
 DTEND:20261120T120000Z
 SUMMARY:AR · Debate e votação de artigos do Orçamento do Estado para 2
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48688@ar-preview
-DTSTAMP:20261116T081424Z
+DTSTAMP:20261116T170320Z
 DTSTART:20261120T150000Z
 DTEND:20261120T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
