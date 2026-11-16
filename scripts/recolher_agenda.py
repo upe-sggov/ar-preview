@@ -28,10 +28,17 @@ def semana_alvo(hoje=None):
         seg += datetime.timedelta(days=7)
     return seg, seg + datetime.timedelta(days=6)
 
-def descarregar(url):
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (AR Preview; SGGov/DSSD/UPE)'})
-    with urllib.request.urlopen(req, timeout=90) as r:
-        return r.read().decode('utf-8-sig')
+def descarregar(url, tentativas=3):
+    """Os servidores da AR às vezes não respondem (16/11/2026, 7h08): tenta três vezes antes de desistir."""
+    import time
+    for i in range(tentativas):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (AR Preview; SGGov/DSSD/UPE)'})
+            with urllib.request.urlopen(req, timeout=90) as r:
+                return r.read().decode('utf-8-sig')
+        except Exception as e:
+            if i == tentativas - 1: raise
+            print(f'{url[:60]}… sem resposta ({e}); nova tentativa em {20 * (i + 1)} s'); time.sleep(20 * (i + 1))
 
 def obter():
     try:
@@ -97,10 +104,14 @@ def converter_site(lista, cartoes=None):
 
 def obter_tudo():
     """Site da agenda (principal) + dados abertos (recurso e calendarização dos meses seguintes)."""
-    try:
-        site = obter_site(); print(f'agenda.parlamento.pt: {len(site)} registos')
-    except Exception as e:
-        site = None; print('agenda.parlamento.pt indisponível (', e, ') — usam-se só os dados abertos')
+    import time
+    site = None
+    for i in range(3):
+        try:
+            site = obter_site(); print(f'agenda.parlamento.pt: {len(site)} registos'); break
+        except Exception as e:
+            print(f'agenda.parlamento.pt sem resposta ({e})' + (f' — nova tentativa em {30 * (i + 1)} s' if i < 2 else ' — usam-se só os dados abertos'))
+            if i < 2: time.sleep(30 * (i + 1))
     try: abertos = obter()
     except BaseException as e:
         if site is None: raise
@@ -184,7 +195,10 @@ if __name__ == '__main__':
     if '--ficheiro' in args:
         bruto, fonte = json.loads(pathlib.Path(args[args.index('--ficheiro') + 1]).read_text(encoding='utf-8-sig')), 'ficheiro local'
     else:
-        bruto, fonte = obter_tudo()
+        try:
+            bruto, fonte = obter_tudo()
+        except BaseException as e:   # AR sem resposta: fica a última recolha, e o resto da atualização (notícias, página, email) segue
+            print('Agenda da AR indisponível (', e, ') — mantém-se a última recolha.'); sys.exit(0)
     itens = normalizar(bruto, ini, fim)
     futuro = normalizar(bruto, fim + datetime.timedelta(days=1), fim + datetime.timedelta(days=70))   # semanas seguintes (o que a AR já publicou)
     cal = calendarizacao(bruto)
