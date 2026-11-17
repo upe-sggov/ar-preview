@@ -1,54 +1,9 @@
 {
  "inicio": "2026-11-16",
  "fim": "2026-11-22",
- "recolha": "2026-11-16T17:24",
+ "recolha": "2026-11-17T01:47",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48685,
-   "data": "2026-11-16",
-   "hora": "14h30",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 22 · Sala 1",
-   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2027:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
-   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2027:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
-  },
-  {
-   "id_ar": 48693,
-   "data": "2026-11-16",
-   "hora": "10h30",
-   "tema": "Audiências do Grupo Parlamentar do PCP",
-   "orgao": "Audiências do Grupo Parlamentar do PCP",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "10h30 - Gonçalo de Oliveira",
-   "ordemTrabalhos": "10h30 - Gonçalo de Oliveira",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48701,
-   "data": "2026-11-16",
-   "hora": "10h30",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "10h30 - Um grupo de 20 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 30 cidadãos da Associação de Mulheres Internacionais em Portugal, Cascais\n11h00 - Uma delegação da Embaixada da República Dominicana\n11h30 - Um grupo de 26 alunos e professores da Escola Profissional de Ho",
-   "ordemTrabalhos": "10h30 - Um grupo de 20 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 30 cidadãos da Associação de Mulheres Internacionais em Portugal, Cascais\n11h00 - Uma delegação da Embaixada da República Dominicana\n11h30 - Um grupo de 26 alunos e professores da Escola Profissional de Hotelaria e Turismo de Lisboa\n14h30 - Um grupo de 27 alunos e professores da Escola Secundária Manuel Cargaleiro, Amora\n15h00 - Um grupo de 27 alunos e professores da Escola Secundária Manuel Cargaleiro, Amora",
-   "ligacao": ""
-  },
   {
    "id_ar": 48697,
    "data": "2026-11-17",
@@ -165,8 +120,8 @@
     "Comissões Parlamentares"
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 66 · Sala 6",
-   "resumo": "Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Auto",
-   "ordemTrabalhos": "Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
+   "resumo": "Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços D",
+   "ordemTrabalhos": "Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx"
   },
   {
@@ -378,6 +333,51 @@
    "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 20 cidadãos da UNICEF\n11h30 - 13h00 - Um grupo de 26 alunos e profes",
    "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 20 cidadãos da UNICEF\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
    "ligacao": ""
+  },
+  {
+   "id_ar": 48701,
+   "data": "2026-11-16",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "10h30 - Um grupo de 20 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 30 cidadãos da Associação de Mulheres Internacionais em Portugal, Cascais\n11h00 - Uma delegação da Embaixada da República Dominicana\n11h30 - Um grupo de 26 alunos e professores da Escola Profissional de Ho",
+   "ordemTrabalhos": "10h30 - Um grupo de 20 alunos e professores do Colégio Guadalupe, Corroios\n11h00 - Um grupo de 30 cidadãos da Associação de Mulheres Internacionais em Portugal, Cascais\n11h00 - Uma delegação da Embaixada da República Dominicana\n11h30 - Um grupo de 26 alunos e professores da Escola Profissional de Hotelaria e Turismo de Lisboa\n14h30 - Um grupo de 27 alunos e professores da Escola Secundária Manuel Cargaleiro, Amora\n15h00 - Um grupo de 27 alunos e professores da Escola Secundária Manuel Cargaleiro, Amora",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48693,
+   "data": "2026-11-16",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h30 - Gonçalo de Oliveira",
+   "ordemTrabalhos": "10h30 - Gonçalo de Oliveira",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48685,
+   "data": "2026-11-16",
+   "hora": "14h30",
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 22 · Sala 1",
+   "resumo": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2027:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "ordemTrabalhos": "Procedimentos no âmbito da discussão do Orçamento do Estado para 2027:\n Proposta de organização da votação na especialidade (divisão do guião pelos 4 dias)\n Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   }
  ],
  "futuro": [

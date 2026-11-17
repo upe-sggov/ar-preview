@@ -53,11 +53,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -142,19 +142,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -1778,12 +1778,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    }
@@ -1829,11 +1823,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -1918,19 +1912,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -3554,12 +3548,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    }
@@ -3591,7 +3579,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3637,11 +3625,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -3726,19 +3714,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -5362,12 +5350,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    }
@@ -5399,7 +5381,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5433,7 +5415,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5467,7 +5449,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-10-23 16:47",
     "ultimas": [
@@ -5555,7 +5537,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5584,10 +5566,16 @@
     "novos": 1,
     "alterados": 2,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-17",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-16T17:24+00:00",
-  "atualizadoLabel": "16 de novembro, 17h24",
+  "atualizado": "2026-11-17T01:47+00:00",
+  "atualizadoLabel": "17 de novembro, 01h47",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -5766,7 +5754,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 163
+    "encontradas": 160
    },
    "base": {
     "ultima": "2026-11-13 14:09",
@@ -5948,7 +5936,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 284
+    "encontradas": 283
    },
    "base": {
     "ultima": "2026-11-14 20:20",
@@ -6130,7 +6118,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 284
+    "encontradas": 283
    },
    "base": {
     "ultima": "2026-11-14 20:20",
@@ -6312,7 +6300,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 284
+    "encontradas": 283
    },
    "base": {
     "ultima": "2026-11-14 10:01",
@@ -6556,7 +6544,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 284
+    "encontradas": 283
    },
    "base": {
     "ultima": "2026-11-14 10:01",
@@ -6619,11 +6607,11 @@
     }
    ],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -6708,19 +6696,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -8344,12 +8332,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    },
@@ -8388,11 +8370,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati",
    "cobertura": {
-    "n": 163,
+    "n": 160,
     "n7": 10,
-    "n7ant": 6,
+    "n7ant": 5,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-13 14:09",
     "ultimas": [
@@ -9375,24 +9357,6 @@
       "Público",
       "Coesão, regiões ultraperiféricas e competitividade: as prioridades do Governo para negociar orçamento da UE",
       "https://www.publico.pt/2026/09/19/economia/noticia/coesao-regioes-ultraperifericas-competitividade-prioridades-governo-negociar-orcamento-ue-2188541"
-     ],
-     [
-      "2026-09-17 16:59",
-      "Observador",
-      "Costa fecha acordo para orçamento da UE até ao final do ano",
-      "https://observador.pt/2026/09/17/costa-diz-ter-apoio-unanime-para-fechar-acordo-para-o-orcamento-da-uniao-ate-ao-final-do-ano/"
-     ],
-     [
-      "2026-09-17 16:45",
-      "Jornal de Negócios",
-      "Costa garante \"apoio unânime\" dos 27 para fechar orçamento europeu até ao final do ano",
-      "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/costa-garante-apoio-unanime-dos-27-para-fechar-orcamento-europeu-ate-ao-final-do-ano"
-     ],
-     [
-      "2026-09-17 15:09",
-      "Jornal Económico",
-      "CIP queria mais competitividade no discurso do Estado da União",
-      "https://jornaleconomico.sapo.pt/noticias/cip-queria-mais-competitividade-no-discurso-do-estado-da-uniao/"
      ]
     ]
    },
@@ -9460,7 +9424,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -9499,11 +9463,11 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -9588,19 +9552,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -11224,12 +11188,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    },
@@ -11267,7 +11225,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão de Assuntos Europeus · Reunião n.º 66 · Sala 6",
    "resumo": "A Comissão de Assuntos Europeus aprecia e vota um parecer sobre a proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia. O debate centra-se na salvaguarda da responsabilização e fiabilidade nos espaços digitais.",
-   "ordemTrabalhos": "Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
+   "ordemTrabalhos": "Grupo de Trabalho – Escrutínio de Iniciativas Europeias\n Apreciação e votação de parecer da CAE no âmbito do escrutínio de iniciativas europeias:\n COM(2026) 681 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO EU KIDS ACT — Salvaguarda da Responsabilização e da Fiabilidade nos Espaços Digitais da Internet na UE – Relatório da 1.ª CACDLG\n Autor de Parecer: Deputado Jorge Miguel Teixeira (IL)\n Iniciativa sinalizada pela CAE: Prazo de envio – 23/11/2026\n Outros assuntos",
    "orgao": "Comissão de Assuntos Europeus",
    "id_ar": 48700,
    "chave": "ar-48700",
@@ -11313,11 +11271,11 @@
     "Regulamento UE"
    ],
    "cobertura": {
-    "n": 4,
+    "n": 2,
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-09-20 14:59",
     "ultimas": [
@@ -11332,12 +11290,6 @@
       "fonte": "Jornal de Notícias",
       "titulo": "EU KIDS Act: Novas regras para proteger menores nas redes sociais",
       "url": "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143"
-     },
-     {
-      "data": "2026-09-17",
-      "fonte": "Público",
-      "titulo": "EU Kids Act: o que é que Bruxelas quer mudar no acesso de crianças e jovens às redes sociais?",
-      "url": "https://www.publico.pt/2026/09/17/mundo/noticia/kids-act-bruxelas-quer-mudar-acesso-criancas-jovens-redes-sociais-2188388"
      }
     ],
     "todas": [
@@ -11352,22 +11304,11 @@
       "Jornal de Notícias",
       "EU KIDS Act: Novas regras para proteger menores nas redes sociais",
       "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143"
-     ],
-     [
-      "2026-09-17 16:59",
-      "Público",
-      "EU Kids Act: o que é que Bruxelas quer mudar no acesso de crianças e jovens às redes sociais?",
-      "https://www.publico.pt/2026/09/17/mundo/noticia/kids-act-bruxelas-quer-mudar-acesso-criancas-jovens-redes-sociais-2188388"
-     ],
-     [
-      "2026-09-17 10:30",
-      "SAPO Tek",
-      "EU Kids Act: O que vai mudar no acesso das crianças e jovens às redes sociais?",
-      "https://tek.sapo.pt/noticias/internet/artigos/eu-kids-act-o-que-vai-mudar-no-acesso-das-criancas-e-jovens-as-redes-sociais/"
      ]
     ]
    },
-   "varrimento": "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg"
+   "varrimento": "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg",
+   "alterado": "2026-11-17"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -11402,11 +11343,11 @@
     }
    ],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -11491,19 +11432,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -13127,12 +13068,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    },
@@ -13177,11 +13112,11 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -13266,19 +13201,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -14902,12 +14837,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    },
@@ -14970,11 +14899,11 @@
     }
    ],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -15059,19 +14988,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -16695,12 +16624,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    },
@@ -16746,11 +16669,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -16835,19 +16758,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -18471,12 +18394,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    },
@@ -18537,11 +18454,11 @@
     }
    ],
    "cobertura": {
-    "n": 284,
-    "n7": 10,
-    "n7ant": 30,
+    "n": 283,
+    "n7": 7,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -18626,19 +18543,19 @@
       "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4"
      ],
      [
-      "2026-11-09 18:52",
-      "ECO",
-      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
-      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
-     ],
-     [
       "2026-11-09 16:28",
       "Açoriano Oriental",
       "Paulo Moniz entrega propostas de alteração ao OE2027",
       "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898"
      ],
      [
-      "2026-11-09 09:29",
+      "2026-11-09 14:00",
+      "ECO",
+      "Governo diz que medidas do PS levariam a défice de 0,2% do PIB no próximo ano",
+      "https://eco.sapo.pt/2026/11/09/governo-diz-que-medidas-do-ps-levariam-a-defice-de-02-do-pib-no-proximo-ano/"
+     ],
+     [
+      "2026-11-09 09:28",
       "Jornal de Negócios",
       "Centeno acusa o Governo de \"opacidade\" e de ter \"um défice escondido\" no OE 2027",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/centeno-acusa-o-governo-de-opacidade-e-de-ter-um-defice-escondido-no-oe-2027"
@@ -20262,12 +20179,6 @@
       "ECO",
       "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
       "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
-     ],
-     [
-      "2026-09-17 10:49",
-      "Observador",
-      "PCP antevê oposição ao Orçamento do Estado 2027",
-      "https://observador.pt/2026/09/17/pcp-exige-medidas-gerais-contra-subida-do-custo-de-vida-e-anteve-oposicao-ao-orcamento-do-estado-2027/"
      ]
     ]
    },
@@ -20283,40 +20194,6 @@
   }
  ],
  "agenda": [
-  {
-   "tema": "Audiências do Grupo Parlamentar do PCP",
-   "data": "2026-11-16",
-   "hora": "10h30",
-   "interveniente": "",
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "10h30 - Gonçalo de Oliveira",
-   "ordemTrabalhos": "10h30 - Gonçalo de Oliveira",
-   "orgao": "Audiências do Grupo Parlamentar do PCP",
-   "id_ar": 48693,
-   "chave": "ar-48693",
-   "dataLabel": "segunda, 16 nov",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Manhã",
-   "ligacoes": [],
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-16",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-16",
@@ -20344,7 +20221,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20378,6 +20255,40 @@
    }
   },
   {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-11-16",
+   "hora": "10h30",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h30 - Gonçalo de Oliveira",
+   "ordemTrabalhos": "10h30 - Gonçalo de Oliveira",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48693,
+   "chave": "ar-48693",
+   "dataLabel": "segunda, 16 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-17",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-17",
    "hora": "10h00",
@@ -20404,7 +20315,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20469,7 +20380,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20504,11 +20415,11 @@
     }
    ],
    "cobertura": {
-    "n": 5,
+    "n": 4,
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-11-13 13:41",
     "ultimas": [
@@ -20555,12 +20466,6 @@
       "CNN Portugal",
       "Lacerda Sales terá de \"ser acusado nos termos da lei que criminaliza titulares de cargos políticos\"",
       "https://cnnportugal.iol.pt/videos/lacerda-sales-tera-de-ser-acusado-nos-termos-da-lei-que-criminaliza-titulares-de-cargos-politicos/6aba486b0cf299bc2953d810"
-     ],
-     [
-      "2026-09-17 09:00",
-      "Visão",
-      "Melhores do que nós, por favor. Opinião de Pedro Marques Lopes",
-      "https://visao.pt/opiniao/politicamente-correto/2026-09-17-melhores-do-que-nos-por-favor-opiniao-de-pedro-marques-lopes/?utm_source=rss&utm_medium=rss&utm_campaign=melhores-do-que-nos-por-favor-opiniao-de-pedro-marques-lopes"
      ]
     ]
    },
@@ -20593,7 +20498,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20627,7 +20532,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20662,7 +20567,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20696,7 +20601,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-11-01 15:50",
     "ultimas": [
@@ -20798,7 +20703,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20858,7 +20763,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20895,7 +20800,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20930,7 +20835,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20990,7 +20895,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21025,7 +20930,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-16",
+    "ref": "2026-11-17",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [

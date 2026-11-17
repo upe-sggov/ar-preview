@@ -6,17 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48700@ar-preview
-DTSTAMP:20261116T172548Z
+DTSTAMP:20261117T014825Z
 DTSTART:20261118T141500Z
 DTEND:20261118T161500Z
 SUMMARY:AR · Escrutínio de iniciativa europeia sobre segurança digital
 LOCATION:Assembleia da República · Sala 6
 DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 66 · Sala 6\n
- Síntese: Apreciação e votação de parecer da CAE no âmbito do escrut
- ínio de iniciativas europeias\nPágina na AR: https://www.parlamento.pt/
- sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quando 
- houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.gith
- ub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ Síntese: Grupo de Trabalho – Escrutínio de Iniciativas Europeias\; Ap
+ reciação e votação de parecer da CAE no âmbito do escrutínio de ini
+ ciativas…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/4
+ CAE/Paginas/default.aspx\nEmissões em direto (quando houver): https://ca
+ nal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\n
+ Hora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
