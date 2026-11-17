@@ -1,30 +1,9 @@
 {
  "inicio": "2026-11-16",
  "fim": "2026-11-22",
- "recolha": "2026-11-17T01:47",
+ "recolha": "2026-11-17T16:50",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48697,
-   "data": "2026-11-17",
-   "hora": "14h30",
-   "tema": "Comissão de Transparência e Estatuto dos Deputados",
-   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9 · Sala 4",
-   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
-   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
   {
    "id_ar": 48696,
    "data": "2026-11-17",
@@ -236,6 +215,27 @@
    "validado": false
   },
   {
+   "id_ar": 48713,
+   "data": "2026-11-18",
+   "hora": "14h00",
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h00 – Plataforma Saúde em Diálogo\n14h30 – Sociedade Portuguesa de Genética Humana (SPGH)",
+   "ordemTrabalhos": "14h00 – Plataforma Saúde em Diálogo\n14h30 – Sociedade Portuguesa de Genética Humana (SPGH)",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48683,
    "data": "2026-11-18",
    "hora": "14h30",
@@ -246,8 +246,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)",
-   "ordemTrabalhos": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)",
+   "resumo": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)\n17h00 - Peter Jordan",
+   "ordemTrabalhos": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)\n17h00 - Peter Jordan",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -475,6 +475,27 @@
    "validado": false
   },
   {
+   "id_ar": 48714,
+   "data": "2026-11-20",
+   "hora": "16h30",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "16h30 - SOBI Portugal",
+   "ordemTrabalhos": "16h30 - SOBI Portugal",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48706,
    "data": "2026-11-20",
    "hora": "14h30",
@@ -579,6 +600,27 @@
    "criterio": [
     "«orçamento do estado» (transversal)",
     "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48697,
+   "data": "2026-11-17",
+   "hora": "14h30",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9 · Sala 4",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   }

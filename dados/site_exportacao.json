@@ -1,24 +1,5 @@
 [
  {
-  "id": 48697,
-  "title": "Comissão de Transparência e Estatuto dos Deputados",
-  "subtitle": "Reunião n.º 9",
-  "section": "Comissões Parlamentares",
-  "theme": "Comissões Parlamentares",
-  "eventStartDate": "2026-11-17T14:30:00",
-  "eventStartTime": "23:59:00",
-  "eventEndDate": "2026-11-17T00:00:00",
-  "eventEndTime": "23:59:00",
-  "local": "Sala 4",
-  "intranetText": "<p style=\"text-align: justify;\">1 &ndash; Aprecia&ccedil;&atilde;o e vota&ccedil;&atilde;o da ata n.&ordm; 8, correspondente &agrave; reuni&atilde;o de 20 de outubro de 2026;</p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\">2 &ndash; Delibera&ccedil;&atilde;o sobre a admissibilidade de participa&ccedil;&atilde;o(&otilde;es) e den&uacute;ncia(s) enviadas &agrave; Comiss&atilde;o (mat&eacute;ria reservada);</p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\">3 &ndash; Outros assuntos.</p>",
-  "link": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
-  "icon": "https://www.parlamento.pt/sites/COM/Style%20Library/AR/images/comissao_CTED.png",
-  "documents": [],
-  "legDes": "XVII",
-  "selNumero": "2",
-  "reuNumero": "9"
- },
- {
   "id": 48696,
   "title": "Comissão de Transparência e Estatuto dos Deputados",
   "subtitle": "Reunião n.º 59",
@@ -188,6 +169,25 @@
   "legDes": "XVII",
   "selNumero": "2",
   "reuNumero": "30"
+ },
+ {
+  "id": 48713,
+  "title": "Audiências do Grupo Parlamentar do PSD",
+  "subtitle": null,
+  "section": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+  "theme": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+  "eventStartDate": "2026-11-18T00:00:00",
+  "eventStartTime": null,
+  "eventEndDate": "2026-11-18T00:00:00",
+  "eventEndTime": null,
+  "local": null,
+  "intranetText": null,
+  "link": null,
+  "icon": null,
+  "documents": [],
+  "legDes": "XVII",
+  "selNumero": null,
+  "reuNumero": null
  },
  {
   "id": 48683,
@@ -378,6 +378,25 @@
   "legDes": "XVII",
   "selNumero": "2",
   "reuNumero": "147"
+ },
+ {
+  "id": 48714,
+  "title": "Audiências do Grupo Parlamentar do PCP",
+  "subtitle": null,
+  "section": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+  "theme": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+  "eventStartDate": "2026-11-20T00:00:00",
+  "eventStartTime": null,
+  "eventEndDate": "2026-11-20T00:00:00",
+  "eventEndTime": null,
+  "local": null,
+  "intranetText": null,
+  "link": null,
+  "icon": null,
+  "documents": [],
+  "legDes": "XVII",
+  "selNumero": null,
+  "reuNumero": null
  },
  {
   "id": 48706,

@@ -5445,14 +5445,20 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 5,
-    "n7": 0,
+    "n": 6,
+    "n7": 1,
     "n7ant": 0,
     "dias": 60,
     "ref": "2026-11-17",
     "metodo": "palavras",
-    "ultima": "2026-10-23 16:47",
+    "ultima": "2026-11-17 07:04",
     "ultimas": [
+     {
+      "data": "2026-11-17",
+      "fonte": "ECO",
+      "titulo": "Investimento municipal dispara em ano de eleições. Setúbal, Maia e Coimbra lideram subidas",
+      "url": "https://eco.sapo.pt/especiais/investimento-municipal-dispara-em-ano-de-eleicoes-setubal-maia-e-coimbra-lideram-subidas/"
+     },
      {
       "data": "2026-10-23",
       "fonte": "Observador",
@@ -5464,15 +5470,15 @@
       "fonte": "ECO",
       "titulo": "Territórios precisam de planeamento a longo prazo",
       "url": "https://eco.sapo.pt/2026/10/10/territorios-precisam-de-planeamento-a-longo-prazo/"
-     },
-     {
-      "data": "2026-10-06",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "UE quer observar primeiras eleições palestinianas em quase 20 anos",
-      "url": "https://www.noticiasaominuto.com/mundo/3062373/medio-oriente-ue-disponivel-para-observar-eleicoes-legislativas-palestinianas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      }
     ],
     "todas": [
+     [
+      "2026-11-17 07:04",
+      "ECO",
+      "Investimento municipal dispara em ano de eleições. Setúbal, Maia e Coimbra lideram subidas",
+      "https://eco.sapo.pt/especiais/investimento-municipal-dispara-em-ano-de-eleicoes-setubal-maia-e-coimbra-lideram-subidas/"
+     ],
      [
       "2026-10-23 16:47",
       "Observador",
@@ -5572,10 +5578,16 @@
     "novos": 0,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-17",
+    "novos": 2,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-17T01:47+00:00",
-  "atualizadoLabel": "17 de novembro, 01h47",
+  "atualizado": "2026-11-17T16:50+00:00",
+  "atualizadoLabel": "17 de novembro, 16h50",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -6320,34 +6332,10 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-16",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/ue-vai-legislar-redes-sociais-para-jovens-associacoes-pedem-que-direitos-nao-sejam-esquecidos",
-     "sintese": "A Comissão Europeia prepara-se para apresentar o EU Kids Act, mas associações de serviços digitais alertam para potenciais perdas de oportunidades para os jovens se o acesso à Internet for restringido.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-09-17",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/noticias/internet/artigos/eu-kids-act-o-que-vai-mudar-no-acesso-das-criancas-e-jovens-as-redes-sociais/",
-     "sintese": "Ainda em fase de proposta, o EU Kids Act propõe proibir o acesso de crianças e jovens até aos 13 anos às redes sociais em toda a Europa, com plataformas responsabilizadas pela aplicação da medida.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-09-17",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/09/17/mundo/noticia/kids-act-bruxelas-quer-mudar-acesso-criancas-jovens-redes-sociais-2188388",
-     "sintese": "A Comissão Europeia propõe novas regras para proteger menores nas redes sociais, incluindo a proibição de acesso para menores de 13 anos e a responsabilização das plataformas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-09-18",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143",
-     "sintese": "A proposta de regulamento EU Kids Act visa reforçar a proteção de crianças e jovens online, com novas regras para o acesso às redes sociais e a responsabilização das plataformas.",
+     "sintese": "O Jornal de Notícias anuncia a proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia, detalhando novas regras para proteger menores nas redes sociais.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6355,21 +6343,21 @@
      "data": "2026-09-20",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/descodificador/eu-kids-act-vai-alem-da-proibicao-das-redes-sociais-o-que-a-ue-quer-mudar/",
-     "sintese": "A iniciativa EU Kids Act vai além da simples proibição de acesso às redes sociais, com foco na proteção de menores e na responsabilização das plataformas digitais.",
+     "sintese": "O ECO expande a cobertura ao detalhar o que a UE pretende mudar com a EU Kids Act, indo além da simples proibição das redes sociais, com foco em medidas de proteção de crianças online.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
-    "analisadas": 5,
-    "encontradas": 5
+    "analisadas": 2,
+    "encontradas": 2
    },
    "base": {
     "ultima": "2026-09-20 14:59",
-    "em": "2026-11-14"
+    "em": "2026-11-17"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na proposta de regulamento da Comissão Europeia, o EU Kids Act, que visa reforçar a proteção de crianças e jovens online. Inicialmente, a discussão centrava-se na potencial proibição de acesso às redes sociais para menores de 13 anos, com associações a expressarem preocupações sobre a perda de oportunidades para os jovens. Posteriormente, a cobertura evoluiu para detalhar as novas regras e a responsabilização das plataformas, sem gerar polémica. As notícias confirmam que a iniciativa é um tema de debate ativo, com diferentes perspetivas sobre os seus impactos."
+   "enquadramento": "Duas notícias foram publicadas num período de 2 dias, a partir de 18 de setembro de 2026, focando-se na proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia. A primeira notícia, do Jornal de Notícias, anuncia a iniciativa e descreve as novas regras para proteger menores nas redes sociais. A segunda notícia, do ECO, expande a cobertura ao detalhar o que a UE pretende mudar, indo além da simples proibição das redes sociais. Ambas as notícias são relevantes para a matéria em discussão, fornecendo informações sobre as medidas propostas e os seus objetivos."
   },
   "2026-11-23-48689-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -20541,13 +20529,48 @@
    "alterado": "2026-11-13"
   },
   {
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "data": "2026-11-18",
+   "hora": "14h00",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h00 – Plataforma Saúde em Diálogo\n14h30 – Sociedade Portuguesa de Genética Humana (SPGH)",
+   "ordemTrabalhos": "14h00 – Plataforma Saúde em Diálogo\n14h30 – Sociedade Portuguesa de Genética Humana (SPGH)",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "id_ar": 48713,
+   "chave": "ar-48713",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-17",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-17",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Audiências do Grupo Parlamentar do PS",
    "data": "2026-11-18",
    "hora": "14h30",
    "interveniente": "",
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)",
-   "ordemTrabalhos": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)",
+   "resumo": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)\n17h00 - Peter Jordan",
+   "ordemTrabalhos": "14h30 - Comissão de Utentes do Litoral Alentejano\n15h30 - Liga Portuguesa de Ambulâncias (LPA)\n17h00 - Peter Jordan",
    "orgao": "Audiências do Grupo Parlamentar do PS",
    "id_ar": 48683,
    "chave": "ar-48683",
@@ -20572,7 +20595,8 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "alterado": "2026-11-17"
   },
   {
    "tema": "Conferência de Líderes",
@@ -20961,6 +20985,41 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
+   }
+  },
+  {
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "data": "2026-11-20",
+   "hora": "16h30",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "16h30 - SOBI Portugal",
+   "ordemTrabalhos": "16h30 - SOBI Portugal",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "id_ar": 48714,
+   "chave": "ar-48714",
+   "dataLabel": "sexta, 20 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-17",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-17",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
    }
   }
  ]
