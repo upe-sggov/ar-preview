@@ -53,11 +53,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -1766,18 +1766,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    }
@@ -1823,11 +1811,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -3536,18 +3524,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    }
@@ -3579,7 +3555,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3625,11 +3601,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -5338,18 +5314,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    }
@@ -5381,7 +5345,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5415,7 +5379,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5449,7 +5413,7 @@
     "n7": 1,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-11-17 07:04",
     "ultimas": [
@@ -5543,7 +5507,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5584,10 +5548,16 @@
     "novos": 2,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-18",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-17T17:02+00:00",
-  "atualizadoLabel": "17 de novembro, 17h02",
+  "atualizado": "2026-11-18T00:59+00:00",
+  "atualizadoLabel": "18 de novembro, 00h59",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -5948,7 +5918,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 283
+    "encontradas": 281
    },
    "base": {
     "ultima": "2026-11-14 20:20",
@@ -6130,7 +6100,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 283
+    "encontradas": 281
    },
    "base": {
     "ultima": "2026-11-14 20:20",
@@ -6312,7 +6282,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 283
+    "encontradas": 281
    },
    "base": {
     "ultima": "2026-11-14 10:01",
@@ -6532,7 +6502,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 283
+    "encontradas": 281
    },
    "base": {
     "ultima": "2026-11-14 10:01",
@@ -6595,11 +6565,11 @@
     }
    ],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -8308,18 +8278,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    },
@@ -8359,10 +8317,10 @@
    "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati",
    "cobertura": {
     "n": 160,
-    "n7": 10,
-    "n7ant": 5,
+    "n7": 3,
+    "n7ant": 9,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-13 14:09",
     "ultimas": [
@@ -9412,7 +9370,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -9451,11 +9409,11 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -11164,18 +11122,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    },
@@ -11259,11 +11205,11 @@
     "Regulamento UE"
    ],
    "cobertura": {
-    "n": 2,
+    "n": 1,
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-09-20 14:59",
     "ultimas": [
@@ -11272,12 +11218,6 @@
       "fonte": "ECO",
       "titulo": "EU Kids Act vai além da proibição das redes sociais. O que a UE quer mudar?",
       "url": "https://eco.sapo.pt/descodificador/eu-kids-act-vai-alem-da-proibicao-das-redes-sociais-o-que-a-ue-quer-mudar/"
-     },
-     {
-      "data": "2026-09-18",
-      "fonte": "Jornal de Notícias",
-      "titulo": "EU KIDS Act: Novas regras para proteger menores nas redes sociais",
-      "url": "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143"
      }
     ],
     "todas": [
@@ -11286,12 +11226,6 @@
       "ECO",
       "EU Kids Act vai além da proibição das redes sociais. O que a UE quer mudar?",
       "https://eco.sapo.pt/descodificador/eu-kids-act-vai-alem-da-proibicao-das-redes-sociais-o-que-a-ue-quer-mudar/"
-     ],
-     [
-      "2026-09-18 19:38",
-      "Jornal de Notícias",
-      "EU KIDS Act: Novas regras para proteger menores nas redes sociais",
-      "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143"
      ]
     ]
    },
@@ -11331,11 +11265,11 @@
     }
    ],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -13044,18 +12978,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    },
@@ -13100,11 +13022,11 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -14813,18 +14735,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    },
@@ -14887,11 +14797,11 @@
     }
    ],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -16600,18 +16510,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    },
@@ -16657,11 +16555,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -18370,18 +18268,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    },
@@ -18442,11 +18328,11 @@
     }
    ],
    "cobertura": {
-    "n": 283,
-    "n7": 7,
-    "n7ant": 26,
+    "n": 281,
+    "n7": 5,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "expressoes",
     "ultima": "2026-11-14 20:20",
     "ultimas": [
@@ -20155,18 +20041,6 @@
       "Observador",
       "12h. OE 2027. CIP defende aposta no investimento privado",
       "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
-     ],
-     [
-      "2026-09-18 07:00",
-      "Jornal de Negócios",
-      "Subida dos combustíveis pressiona para mais despesa no OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/subida-dos-combustiveis-pressiona-para-mais-despesa-no-oe-2027"
-     ],
-     [
-      "2026-09-18 06:58",
-      "ECO",
-      "Custo de vida desgasta Montenegro e coloca pressão sobre Orçamento do Estado",
-      "https://eco.sapo.pt/2026/09/18/custo-de-vida-desgasta-montenegro-e-coloca-pressao-sobre-orcamento-do-estado/"
      ]
     ]
    },
@@ -20209,7 +20083,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20269,7 +20143,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20303,7 +20177,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20368,7 +20242,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20407,7 +20281,7 @@
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-11-13 13:41",
     "ultimas": [
@@ -20486,7 +20360,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20520,7 +20394,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20556,7 +20430,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20590,7 +20464,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20625,7 +20499,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-11-01 15:50",
     "ultimas": [
@@ -20727,7 +20601,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20787,7 +20661,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20824,7 +20698,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20859,7 +20733,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20898,8 +20772,8 @@
    "hora": "10h00",
    "interveniente": "",
    "tipoLabel": "Assistências ao Plenário",
-   "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 20 cidadãos da UNICEF\n11h30 - 13h00 - Um grupo de 26 alunos e profes",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 20 cidadãos da UNICEF\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
+   "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um g",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
    "orgao": "Assistências à Sessão Plenária",
    "id_ar": 48709,
    "chave": "ar-48709",
@@ -20919,13 +20793,13 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
    },
-   "alterado": "2026-11-13"
+   "alterado": "2026-11-18"
   },
   {
    "tema": "Visitas guiadas ao Palácio de São Bento",
@@ -20954,7 +20828,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -21015,7 +20889,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-17",
+    "ref": "2026-11-18",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
