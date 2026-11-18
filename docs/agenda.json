@@ -53,34 +53,94 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -130,7 +190,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -1811,34 +1871,94 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -1888,7 +2008,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -3601,34 +3721,94 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -3678,7 +3858,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -5554,10 +5734,16 @@
     "novos": 0,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-18",
+    "novos": 4,
+    "alterados": 2,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-18T00:59+00:00",
-  "atualizadoLabel": "18 de novembro, 00h59",
+  "atualizado": "2026-11-18T16:22+00:00",
+  "atualizadoLabel": "18 de novembro, 16h22",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -5756,28 +5942,36 @@
    "tabelas": [],
    "fundo": [
     {
+     "data": "2026-09-23",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/governo-visa-excedente-de-at-05-no-oe-2027-mas-teme-boicote-de-ps-e-chega-com-medidas-do-iva",
+     "sintese": "O Governo visa um excedente de até 0,5% no Orçamento do Estado 2027, mas enfrenta críticas de PS e Chega devido a medidas de IVA.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O líder do PS, Pedro Nuno Santos, mencionou o Orçamento do Estado para 2027, embora a notícia não detalhe posições específicas sobre medidas ou críticas.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "Montenegro sublinha um 'sinal importante' dado pelo PS, indicando um possível compromisso na elaboração do Orçamento.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-01",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "O Orçamento do Estado para 2027 deve promover o investimento, a habitação e a competitividade da construção, de acordo com a CNN Portugal.",
+     "sintese": "O Orçamento 2027 deve promover o investimento, a habitação e a competitividade da construção, segundo a CNN Portugal.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-08",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
-     "sintese": "O Orçamento do Estado para 2027 aposta em estagnação nos beneficiários do Complemento Solidário para Idosos, segundo o Diário de Notícias.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "fonte": "Renascença",
+     "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
+     "sintese": "Miranda Sarmento alerta o PS para a responsabilidade reforçada na gestão do défice, segundo a Renascença.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-08",
@@ -5788,18 +5982,10 @@
      "naturezaLabel": "Relevante"
     },
     {
-     "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "Hugo Soares, líder parlamentar do PSD, manifestou confiança no Orçamento do Estado para 2027 e apelou à responsabilidade na discussão orçamental.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-10-09",
      "fonte": "Agroportal",
      "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "O Orçamento do Estado para 2027 desperdiça uma oportunidade de acelerar a transição ecológica, de acordo com o Agroportal.",
+     "sintese": "O Orçamento 2027 é criticado por desperdiçar a oportunidade de acelerar a transição ecológica, segundo o Agroportal.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -5807,87 +5993,47 @@
      "data": "2026-10-09",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O Orçamento do Estado para 2027 apresenta medidas para os jovens, segundo o Sábado.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O Governo é acusado de não financiar a construção de três novos edifícios hospitalares no Porto, segundo o Sábado.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "O PS criticou a falta de financiamento para a construção de três novos edifícios do Hospital Eduardo Santos Silva, no Orçamento do Estado para 2027, segundo o Healthnews.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "Empresários consideram que o Orçamento 2027 carece de ambição, mas elogiam o equilíbrio das contas, segundo a SIC Notícias.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-12",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "Empresários consideram que falta ambição ao Orçamento do Estado para 2027, mas elogiam o equilíbrio das contas, segundo a SIC Notícias.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O Governo destaca um aumento das transferências para a Madeira no Orçamento 2027, segundo o JM Madeira.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "O Orçamento do Estado para 2027 confirma o salário mínimo nos 970 euros, segundo a JM Madeira.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "Montenegro responde a Ventura sobre onde trabalhou, segundo a CNN Portugal.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-27",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/27/politica/noticia/montenegro-ar-dia-seguro-demarcou-accao-psp-manifestacoes-2192803",
-     "sintese": "O Governo confirma a subida do salário mínimo para 970 euros e afasta uma descida da idade da reforma, segundo a RTP Notícias.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "Do IRC trocado por combustíveis à descida do IRS, partidos propõem alterações ao Orçamento 2027, segundo o Expresso.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-06",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-2027-governo-confirma-salario-minimo-nos-970-euros_v1777515",
-     "sintese": "O deputado do PSD/Açores, Paulo Moniz, apresentou propostas de alteração ao Orçamento do Estado para 2027, segundo o Açoriano Oriental.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-09",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898",
-     "sintese": "O Orçamento do Estado para 2027 precisa de mais crescimento e convergência, segundo o Expresso.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-10",
      "fonte": "Expresso",
-     "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4",
-     "sintese": "O Governo revê metade da subida de despesa prevista e gera dúvidas, segundo o Jornal de Negócios.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-10",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas",
-     "sintese": "A eficiência na saúde mede-se pelos recursos utilizados e pelos resultados obtidos para o cidadão, segundo o Notícias ao Minuto.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-11",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia",
-     "sintese": "O PS quer construir o IC6 até Folhadosa no Orçamento do Estado para 2027, segundo o Notícias ao Minuto.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-11",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/politica/3082639/ps-quer-construir-o-ic6-ate-folhadosa-no-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "A AD realiza sessões em todos os distritos sobre o Orçamento do Estado para 2027, segundo o ECO.",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
+     "sintese": "AD realiza sessões em todos os distritos sobre o Orçamento 2027, segundo o ECO.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -5895,7 +6041,7 @@
      "data": "2026-11-12",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/",
-     "sintese": "A Associação de Condomínios quer IVA a 6% nas obras, segundo o Jornal Económico.",
+     "sintese": "Associação de Condomínios propõe IVA a 6% nas obras e deduções em IRS, segundo o Jornal Económico.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -5903,7 +6049,15 @@
      "data": "2026-11-14",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/",
-     "sintese": "O Chega apresenta 22 medidas específicas para os Açores no âmbito do Orçamento do Estado para 2027, segundo o Açoriano Oriental.",
+     "sintese": "Chega/Açores apresenta 22 propostas para o Orçamento 2027, segundo o Açoriano Oriental.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-14",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Chega apresenta medidas específicas para os Açores no âmbito do Orçamento 2027, segundo o Açoriano Oriental.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -5911,21 +6065,53 @@
      "data": "2026-11-14",
      "fonte": "Açoriano Oriental",
      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068",
-     "sintese": "O Governo confirma a subida do salário mínimo para 970 euros, segundo o Jornal de Negócios.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "Debate e votação na especialidade do Orçamento 2027 começam com mais de 2.800 propostas de alteração, segundo o Observador.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899",
+     "sintese": "Governo garante que propostas da oposição condenariam o país a um procedimento por défice excessivo, segundo o Diário de Notícias.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/",
+     "sintese": "7h. OE 2027. Governo garante estar aberto ao diálogo",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao",
+     "sintese": "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira",
+     "sintese": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 281
+    "encontradas": 291
    },
    "base": {
-    "ultima": "2026-11-14 20:20",
-    "em": "2026-11-15"
+    "ultima": "2026-11-18 14:26",
+    "em": "2026-11-18"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado na proposta de Orçamento do Estado para 2027, com discussões sobre o seu impacto em áreas como o investimento, a habitação, a transição ecológica e as transferências para as regiões autónomas. O Governo anunciou medidas como o aumento do salário mínimo para 970 euros e a previsão de arrecadar 3.796 milhões de euros com um imposto sobre combustíveis. Empresários e partidos políticos expressaram opiniões diversas sobre a ambição e o equilíbrio das contas, enquanto deputados apresentaram propostas de alteração para melhorar o orçamento em áreas específicas. A cobertura evoluiu de anúncios iniciais para debates sobre a eficiência na saúde e a necessidade de mais medidas para tornar o investimento mais atrativo."
+   "enquadramento": "Nos últimos meses, a cobertura mediática tem acompanhado de perto a elaboração e discussão do Orçamento do Estado para 2027, com foco em temas como o investimento, a habitação, a competitividade da construção e a transição ecológica. Várias notícias destacam críticas ao Governo por falta de financiamento para projetos específicos, como o Hospital de Gaia, e questionam a ambição das medidas propostas. Por outro lado, outras notícias apresentam posições favoráveis ao Orçamento, como o anúncio de aumentos de transferências para a Madeira e a abertura do Governo ao diálogo. A discussão na especialidade do Orçamento tem sido marcada por um elevado número de propostas de alteração, evidenciando um debate amplo e diversificado sobre as políticas públicas."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -6100,13 +6286,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 281
+    "encontradas": 291
    },
    "base": {
     "ultima": "2026-11-14 20:20",
     "em": "2026-11-15"
    },
-   "novas": 0,
+   "novas": 8,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre o seu impacto em áreas como o investimento, a habitação, a transição ecológica e as transferências para as regiões autónomas. O Governo confirmou a subida do salário mínimo para 970 euros e reviu as previsões de despesa, enquanto partidos como o PSD, o CDS-PP e o Chega apresentaram propostas específicas para as suas regiões. A cobertura inclui críticas sobre a falta de financiamento para projetos importantes, como o Hospital de Gaia, e elogios ao equilíbrio das contas públicas. A discussão sobre o OE2027 tem sido acompanhada por sessões de esclarecimento em todo o país, com a participação de ministros e dirigentes dos partidos da coligação governamental."
   },
   "2026-11-18-48673-or-amento-do-estado-2027": {
@@ -6282,13 +6468,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 281
+    "encontradas": 291
    },
    "base": {
     "ultima": "2026-11-14 10:01",
     "em": "2026-11-14"
    },
-   "novas": 2,
+   "novas": 10,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado 2027 começou com anúncios governamentais e de parceiros sociais, como a confirmação do salário mínimo e a discussão de prioridades como investimento, habitação e competitividade. Grupos parlamentares e empresários expressaram opiniões sobre a ambição e o equilíbrio das contas, com críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia. Entretanto, foram apresentadas propostas de alteração focadas em habitação, infraestruturas e políticas fiscais, como a redução do IVA para obras em condomínios. O debate evoluiu para incluir perspetivas regionais, como as transferências para a Madeira, e temas transversais como a transição ecológica e a eficiência na saúde."
   },
   "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg": {
@@ -6302,32 +6488,24 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-18",
-     "fonte": "Jornal de Notícias",
-     "url": "https://www.jn.pt/media/artigo/eu-kids-act-novas-regras-para-proteger-menores-nas-redes-sociais/18128143",
-     "sintese": "O Jornal de Notícias anuncia a proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia, detalhando novas regras para proteger menores nas redes sociais.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-09-20",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/descodificador/eu-kids-act-vai-alem-da-proibicao-das-redes-sociais-o-que-a-ue-quer-mudar/",
-     "sintese": "O ECO expande a cobertura ao detalhar o que a UE pretende mudar com a EU Kids Act, indo além da simples proibição das redes sociais, com foco em medidas de proteção de crianças online.",
+     "sintese": "A Comissão de Assuntos Europeus aprecia e vota um parecer sobre a proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia. O debate centra-se na salvaguarda da responsabilização e fiabilidade nos espaços digitais.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
-    "analisadas": 2,
-    "encontradas": 2
+    "analisadas": 1,
+    "encontradas": 1
    },
    "base": {
     "ultima": "2026-09-20 14:59",
-    "em": "2026-11-17"
+    "em": "2026-11-18"
    },
    "novas": 0,
-   "enquadramento": "Duas notícias foram publicadas num período de 2 dias, a partir de 18 de setembro de 2026, focando-se na proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia. A primeira notícia, do Jornal de Notícias, anuncia a iniciativa e descreve as novas regras para proteger menores nas redes sociais. A segunda notícia, do ECO, expande a cobertura ao detalhar o que a UE pretende mudar, indo além da simples proibição das redes sociais. Ambas as notícias são relevantes para a matéria em discussão, fornecendo informações sobre as medidas propostas e os seus objetivos."
+   "enquadramento": "Nos últimos 60 dias, a cobertura mediática tem-se focado na proposta de regulamento EU Kids Act, que visa reforçar a proteção de crianças online na União Europeia. A notícia do ECO de 20 de setembro de 2026 detalha que a iniciativa vai além da simples proibição das redes sociais, propondo medidas para aumentar a responsabilização e fiabilidade nos espaços digitais. Este escrutínio parlamentar, com a Comissão de Assuntos Europeus a apreciar e votar um parecer, demonstra a importância que o tema tem ganho. A discussão centra-se em garantir que as novas regras não comprometam a liberdade de expressão, ao mesmo tempo que protegem os mais jovens. A cobertura tem sido maioritariamente relevante, com foco nas medidas propostas e nos seus potenciais impactos."
   },
   "2026-11-23-48689-comiss-o-de-or-amento-finan-as-e-administra": {
    "titulo": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -6502,13 +6680,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 281
+    "encontradas": 291
    },
    "base": {
     "ultima": "2026-11-14 10:01",
     "em": "2026-11-14"
    },
-   "novas": 2,
+   "novas": 10,
    "enquadramento": "A cobertura mediática acompanhou a elaboração e discussão do Orçamento do Estado para 2027, com notícias que reportaram anúncios governamentais, posições de partidos políticos e críticas de entidades sobre a falta de financiamento para projetos específicos. Inicialmente, a cobertura focou-se em anúncios e intenções do Governo, como a subida do salário mínimo para 970 euros e o aumento das transferências para a Madeira. Posteriormente, surgiram críticas de partidos e entidades sobre a falta de financiamento para projetos como o Hospital de Gaia e a construção de infraestruturas rodoviárias. A discussão sobre o Orçamento do Estado para 2027 evoluiu para incluir propostas de alteração de partidos políticos, como a suspensão das comissões na amortização de crédito e a aplicação da taxa reduzida de IVA nas obras de edifícios. A cobertura mediática manteve-se ativa durante o período, com sessões de diálogo entre o Governo e os partidos políticos, demonstrando a importância do Orçamento do Estado para 2027 na agenda política."
   },
   "2026-11-17-48711-audi-o-com-a-secret-ria-de-estado-dos-assun": {
@@ -6565,34 +6743,94 @@
     }
    ],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -6642,7 +6880,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -9409,34 +9647,94 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -9486,7 +9784,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -11265,34 +11563,94 @@
     }
    ],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -11342,7 +11700,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -12998,7 +13356,7 @@
    "interveniente": "",
    "tipoLabel": "Plenário · Reunião n.º 18 · Plenário",
    "resumo": "Debate na especialidade do Orçamento do Estado para 2027, com intervenções de grupos parlamentares e discussão de artigos remetidos a Plenário.",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
+   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 85 m 47 \n PSD \n 59 m 52 \n  CH \n 49 m 06 \n PS \n 50 m 28 \n IL \n 20 m 19 \n L \n 16 m 11 \n PCP \n 15 m 07 \n CDS-PP \n 11 m 45 \n BE \n 6 m 30 \n PAN \n 5 m 39 \n JPP \n 6 m \n Total \n 326 m 44",
    "orgao": "Plenário",
    "id_ar": 48674,
    "chave": "ar-48674",
@@ -13022,34 +13380,94 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -13099,7 +13517,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -14762,7 +15180,8 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "expressoesFixas": true,
-   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027"
+   "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
+   "alterado": "2026-11-18"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -14797,34 +15216,94 @@
     }
    ],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -14874,7 +15353,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -16555,34 +17034,94 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -16632,7 +17171,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -18328,34 +18867,94 @@
     }
    ],
    "cobertura": {
-    "n": 281,
-    "n7": 5,
+    "n": 291,
+    "n7": 15,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-18",
     "metodo": "expressoes",
-    "ultima": "2026-11-14 20:20",
+    "ultima": "2026-11-18 14:26",
     "ultimas": [
      {
-      "data": "2026-11-14",
-      "fonte": "Açoriano Oriental",
-      "titulo": "OE2027: Chega apresenta 22 medidas específicas para os Açores",
-      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068"
+      "data": "2026-11-18",
+      "fonte": "Jornal de Negócios",
+      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Notícias ao Minuto",
-      "titulo": "Chega/Açores apresenta 22 propostas para o Orçamento do Estado 2027",
-      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+      "data": "2026-11-18",
+      "fonte": "Diário de Notícias",
+      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      },
      {
-      "data": "2026-11-14",
-      "fonte": "Jornal Económico",
-      "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
-      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/"
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 14:26",
+      "Jornal de Negócios",
+      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 12:49",
+      "Diário de Notícias",
+      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
+     ],
+     [
+      "2026-11-18 11:11",
+      "ECO",
+      "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
+      "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+     ],
+     [
+      "2026-11-18 09:49",
+      "ECO",
+      "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
+      "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Observador",
+      "7h. OE 2027. Governo garante estar aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
+     [
+      "2026-11-18 07:17",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "OE2027. Vem aí nova coligação negativa para congelamento das propinas?",
+      "https://eco.sapo.pt/2026/11/18/oe2027-vem-ai-nova-coligacao-negativa-para-congelamento-das-propinas/"
+     ],
+     [
+      "2026-11-18 07:02",
+      "ECO",
+      "Dos profissionais do SNS aos investimentos: o que os partidos querem incluir para a saúde no OE2027",
+      "https://eco.sapo.pt/2026/11/18/dos-profissionais-do-sns-aos-investimentos-o-que-os-partidos-querem-incluir-para-a-saude-no-oe2027/"
+     ],
+     [
+      "2026-11-18 06:58",
+      "RTP Notícias",
+      "OE2027. Debate e votação na especialidade começam com recorde de propostas de alteração",
+      "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899"
+     ],
+     [
+      "2026-11-18 06:17",
+      "Observador",
+      "7h. OE 2027. Ministro da Presidência garante que Governo está aberto ao diálogo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
+     ],
      [
       "2026-11-14 20:20",
       "Açoriano Oriental",
@@ -18405,7 +19004,7 @@
       "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
-      "2026-11-10 08:41",
+      "2026-11-10 08:40",
       "Jornal de Negócios",
       "OE 2027: Governo revê metade da subida de despesa prevista e gera dúvidas",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/oe-2027-governo-reve-metade-da-subida-de-despesa-prevista-e-gera-duvidas"
@@ -20368,6 +20967,246 @@
    }
   },
   {
+   "tema": "Audiência com a Presidente do Tribunal de Contas",
+   "data": "2026-11-17",
+   "hora": "17h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala de Visitas do PAR",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência a Presidente do Tribunal de Contas, para a apresentação da Conta da Assembleia da República.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência a Presidente do Tribunal de Contas, para a apresentação da Conta da Assembleia da República.",
+   "orgao": "Audiência com a Presidente do Tribunal de Contas",
+   "id_ar": 48712,
+   "chave": "ar-48712",
+   "dataLabel": "terça, 17 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-18",
+   "cobertura": {
+    "n": 30,
+    "n7": 0,
+    "n7ant": 1,
+    "dias": 60,
+    "ref": "2026-11-18",
+    "metodo": "palavras",
+    "ultima": "2026-11-09 11:29",
+    "ultimas": [
+     {
+      "data": "2026-11-09",
+      "fonte": "Ambiente Magazine",
+      "titulo": "Opinião: “A Economia Circular precisa de passar da ambição à execução”",
+      "url": "https://www.ambientemagazine.com/opiniao-a-economia-circular-precisa-de-passar-da-ambicao-a-execucao/"
+     },
+     {
+      "data": "2026-10-29",
+      "fonte": "ECO",
+      "titulo": "Fim da fiscalização prévia não acelerou resposta às populações, alerta Tribunal de Contas",
+      "url": "https://eco.sapo.pt/2026/10/29/fim-da-fiscalizacao-previa-nao-acelerou-resposta-as-populacoes-alerta-tribunal-de-contas/"
+     },
+     {
+      "data": "2026-10-23",
+      "fonte": "Sábado",
+      "titulo": "Tribunal de Contas contradiz afirmações da presidente do Metro de Lisboa sobre atrasos na expansão da Linha Vermelha",
+      "url": "https://www.sabado.pt/portugal/detalhe/tribunal-de-contas-contradiz-afirmacoes-da-presidente-do-metro-de-lisboa-sobre-atrasos-na-expansao-da-linha-vermelha"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-09 11:29",
+      "Ambiente Magazine",
+      "Opinião: “A Economia Circular precisa de passar da ambição à execução”",
+      "https://www.ambientemagazine.com/opiniao-a-economia-circular-precisa-de-passar-da-ambicao-a-execucao/"
+     ],
+     [
+      "2026-10-29 12:10",
+      "ECO",
+      "Fim da fiscalização prévia não acelerou resposta às populações, alerta Tribunal de Contas",
+      "https://eco.sapo.pt/2026/10/29/fim-da-fiscalizacao-previa-nao-acelerou-resposta-as-populacoes-alerta-tribunal-de-contas/"
+     ],
+     [
+      "2026-10-23 15:47",
+      "Sábado",
+      "Tribunal de Contas contradiz afirmações da presidente do Metro de Lisboa sobre atrasos na expansão da Linha Vermelha",
+      "https://www.sabado.pt/portugal/detalhe/tribunal-de-contas-contradiz-afirmacoes-da-presidente-do-metro-de-lisboa-sobre-atrasos-na-expansao-da-linha-vermelha"
+     ],
+     [
+      "2026-10-21 17:35",
+      "Jornal Económico",
+      "Tribunal de Contas nega estar há dois anos a travar expansão da Linha Vermelha do Metro de Lisboa",
+      "https://jornaleconomico.sapo.pt/noticias/tribunal-de-contas-nega-estar-ha-dois-anos-a-travar-expansao-da-linha-vermelha-do-metro-de-lisboa/"
+     ],
+     [
+      "2026-10-19 18:11",
+      "RTP Notícias",
+      "Guiné-Bissau. PR de transição exonera PGR e presidente do Tribunal de Contas",
+      "https://www.rtp.pt/noticias/mundo/guine-bissau-pr-de-transicao-exonera-pgr-e-presidente-do-tribunal-de-contas_n1772718"
+     ],
+     [
+      "2026-10-09 14:00",
+      "RTP Notícias",
+      "Reforma das finanças não deve enfraquecer fiscalização da despesa para proteger democracias",
+      "https://www.rtp.pt/noticias/economia/reforma-das-financas-nao-deve-enfraquecer-fiscalizacao-da-despesa-para-proteger-democracias_n1770637"
+     ],
+     [
+      "2026-10-09 12:12",
+      "Executive Digest",
+      "Contratos públicos até 10 milhões sem visto prévio? Presidente do Tribunal de Contas deixa aviso ao Governo",
+      "https://executivedigest.sapo.pt/reforma-das-financas-nao-deve-enfraquecer-fiscalizacao-da-despesa-para-proteger-democracias-tdc/"
+     ],
+     [
+      "2026-10-07 12:56",
+      "RTP Notícias",
+      "CFP defende conclusão da reforma da contabilidade após alerta do TdC",
+      "https://www.rtp.pt/noticias/economia/cfp-defende-conclusao-da-reforma-da-contabilidade-apos-alerta-do-tdc_n1770064"
+     ],
+     [
+      "2026-10-05 12:00",
+      "Jornal de Negócios",
+      "Entrevista na íntegra a Filipa Urbano Calvão, Presidente do Tribunal de Contas",
+      "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/entrevista-na-integra-a-filipa-urbano-calvao-presidente-do-tribunal-de-contas"
+     ],
+     [
+      "2026-10-05 10:00",
+      "Jornal de Negócios",
+      "Filipa Calvão vê risco de sobreposição de funções do TdC com Conselho de Finanças Públicas",
+      "https://www.jornaldenegocios.pt/economia/detalhe/filipa-calvao-ve-risco-de-sobreposicao-de-funcoes-do-tdc-com-conselho-de-financas-publicas"
+     ],
+     [
+      "2026-10-05 08:54",
+      "Jornal de Negócios",
+      "TdC isenta Medina e Manuel Salgado de repor o que a Câmara de Lisboa pagou a Joaquim Morão",
+      "https://www.jornaldenegocios.pt/economia/detalhe/tdc-isenta-medina-e-manuel-salgado-de-repor-o-que-a-camara-de-lisboa-pagou-a-joaquim-morao"
+     ],
+     [
+      "2026-10-04 19:00",
+      "Jornal de Negócios",
+      "“Esta reforma traz alguns riscos para as finanças públicas”, diz Filipa Calvão",
+      "https://www.jornaldenegocios.pt/economia/detalhe/esta-reforma-traz-alguns-riscos-para-as-financas-publicas-diz-filipa-calvao"
+     ],
+     [
+      "2026-10-04 17:00",
+      "Jornal de Negócios",
+      "Filipa Calvão: “Não conseguimos ter uma fotografia exata das contas do Estado”",
+      "https://www.jornaldenegocios.pt/economia/detalhe/filipa-calvao-nao-conseguimos-ter-uma-fotografia-exata-das-contas-do-estado"
+     ],
+     [
+      "2026-10-04 15:14",
+      "RTP Notícias",
+      "Acompanhamento da Administração Pública, presidente do Tribunal de Contas afirma: \"o tribunal não pode sair de cena\"",
+      "https://www.rtp.pt/noticias/economia/acompanhamento-da-administracao-publica-presidente-do-tribunal-de-contas-afirma-o-tribunal-nao-pode-sair-de-cena_v1769141"
+     ],
+     [
+      "2026-10-04 14:14",
+      "Observador",
+      "14h. Seleção. Gonçalo Inácio de fora para o jogo de hoje",
+      "https://observador.pt/programas/noticiario/as-noticias-das-14h-2493/"
+     ],
+     [
+      "2026-10-04 10:47",
+      "Jornal de Negócios",
+      "“O Tribunal de Contas tem poderes para levar a reforma ao Constitucional”",
+      "https://www.jornaldenegocios.pt/economia/detalhe/o-tribunal-de-contas-tem-poderes-para-levar-a-reforma-ao-constitucional"
+     ],
+     [
+      "2026-10-04 10:30",
+      "ECO",
+      "Presidente do Tribunal de Contas admite levar reforma da instituição ao Constitucional",
+      "https://eco.sapo.pt/2026/10/04/presidente-do-tribunal-de-contas-admite-levar-reforma-da-instituicao-ao-constitucional/"
+     ],
+     [
+      "2026-10-04 10:17",
+      "Observador",
+      "10h. Presidente do SC Braga critica saída de CR7 da Seleção",
+      "https://observador.pt/programas/noticiario/as-noticias-das-10h-2486/"
+     ],
+     [
+      "2026-10-03 23:47",
+      "RTP Notícias",
+      "22h Presidente do Tribunal de Contas admite recorrer ao Constitucional por normas que considera contrárias à lei",
+      "https://www.rtp.pt/noticias/noticiario-antena1/22h-presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-por-normas-que-considera-contrarias-a-lei_a1_1769436"
+     ],
+     [
+      "2026-10-03 23:15",
+      "Público",
+      "Presidente do Tribunal de Contas disposta a levar a reforma deste órgão ao Constitucional",
+      "https://www.publico.pt/2026/10/03/politica/noticia/presidente-tribunal-contas-disposta-levar-reforma-orgao-constitucional-2190234"
+     ],
+     [
+      "2026-10-03 23:04",
+      "Jornal de Notícias",
+      "Presidente do Tribunal de Contas admite recorrer ao TC por normas que considere inconstitucionais",
+      "https://www.jn.pt/amp/18133391/presidente-do-tribunal-de-contas-admite-recorrer-ao-tc-por-normas-que-considere-inconstitucionais"
+     ],
+     [
+      "2026-10-03 22:08",
+      "RTP Notícias",
+      "Reforma da Lei de Organização e Processo do Tribunal de Contas: Presidente do Tribunal de Contas admite recorrer ao Constitucional",
+      "https://www.rtp.pt/noticias/conversa-capital/reforma-da-lei-de-organizacao-e-processo-do-tribunal-de-contas-presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional_v1769120"
+     ],
+     [
+      "2026-10-03 22:02",
+      "Observador",
+      "Presidente do Tribunal de Contas ameaça recorrer ao TC",
+      "https://observador.pt/2026/10/03/presidente-do-tribunal-de-contas-ameaca-recorrer-ao-constitucional-para-travar-governo/"
+     ],
+     [
+      "2026-10-03 22:02",
+      "Observador",
+      "Presidente do Tribunal de Contas ameaça recorrer ao Constitucional para travar Governo",
+      "https://observador.pt/2026/10/03/presidente-do-tribunal-de-contas-ameaca-recorrer-ao-constitucional-para-travar-governo/"
+     ],
+     [
+      "2026-10-03 21:48",
+      "RTP Notícias",
+      "21h Presidente do Tribunal de Contas mantém o braço de ferro com o Governo",
+      "https://www.rtp.pt/noticias/noticiario-antena1/21h-presidente-do-tribunal-de-contas-mantem-o-braco-de-ferro-com-o-governo_a1_1769426"
+     ],
+     [
+      "2026-10-03 21:07",
+      "Correio da Manhã",
+      "Presidente do Tribunal de Contas admite recorrer ao Constitucional por normas que considere inconstitucionais",
+      "https://www.cmjornal.pt/economia/amp/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-por-normas-que-considere-inconstitucionais"
+     ],
+     [
+      "2026-10-03 20:05",
+      "Jornal Económico",
+      "Presidente do Tribunal de Contas admite recorrer ao Constitucional contra a reforma que acaba com o visto prévio",
+      "https://jornaleconomico.sapo.pt/noticias/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-contra-a-reforma-que-acaba-com-o-visto-previo/"
+     ],
+     [
+      "2026-10-03 07:12",
+      "Healthnews",
+      "Fraude no SNS chega ao Ministério Público",
+      "https://healthnews.pt/2026/10/03/fraude-no-sns-chega-ao-ministerio-publico/#utm_source=rss&utm_medium=rss&utm_campaign=fraude-no-sns-chega-ao-ministerio-publico"
+     ],
+     [
+      "2026-09-30 16:33",
+      "Observador",
+      "Desconformidade nas contas públicas não é de relativizar",
+      "https://observador.pt/2026/09/30/tdc-pede-para-nao-se-relativizar-desconformidade-da-conta-geral-do-estado/"
+     ],
+     [
+      "2026-09-30 12:47",
+      "Jornal Económico",
+      "TdC alerta para não se relativizar desconformidade da Conta Geral do Estado",
+      "https://jornaleconomico.sapo.pt/noticias/tdc-alerta-para-nao-se-relativizar-desconformidade-da-conta-geral-do-estado/"
+     ]
+    ]
+   }
+  },
+  {
    "tema": "Assistências à Sessão Plenária",
    "data": "2026-11-18",
    "hora": "10h00",
@@ -20401,6 +21240,148 @@
     "todas": []
    },
    "alterado": "2026-11-13"
+  },
+  {
+   "tema": "Reunião Plenária",
+   "data": "2026-11-18",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
+   "resumo": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "ordemTrabalhos": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "orgao": "Reunião Plenária",
+   "id_ar": 48717,
+   "chave": "ar-48717",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-18",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-18",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Conferência de Líderes",
+   "data": "2026-11-18",
+   "hora": "14h00",
+   "interveniente": "",
+   "tipoLabel": "Conferência de Líderes · Reunião n.º 30 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Conferência de Líderes",
+   "id_ar": 48698,
+   "chave": "ar-48698",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Conferência de Líderes"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 8,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-18",
+    "metodo": "palavras",
+    "ultima": "2026-11-01 15:50",
+    "ultimas": [
+     {
+      "data": "2026-11-01",
+      "fonte": "Observador",
+      "titulo": "PCP quer debate de urgência no Parlamento sobre cargas",
+      "url": "https://observador.pt/2026/11/01/pcp-aponta-governo-como-o-maior-fator-de-instabilidade-no-pais-e-quer-debate-de-urgencia-no-parlamento/"
+     },
+     {
+      "data": "2026-10-22",
+      "fonte": "Observador",
+      "titulo": "Rita Matias propõe criação de sala de amamentação na AR",
+      "url": "https://observador.pt/2026/10/22/rita-matias-propoe-criacao-de-sala-de-amamentacao-no-parlamento/"
+     },
+     {
+      "data": "2026-10-07",
+      "fonte": "Jornal Económico",
+      "titulo": "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
+      "url": "https://jornaleconomico.sapo.pt/noticias/parlamento-aprova-audicao-da-ministra-do-trabalho-e-cga-sobre-erro-no-calculo-de-pensoes/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-01 15:50",
+      "Observador",
+      "PCP quer debate de urgência no Parlamento sobre cargas",
+      "https://observador.pt/2026/11/01/pcp-aponta-governo-como-o-maior-fator-de-instabilidade-no-pais-e-quer-debate-de-urgencia-no-parlamento/"
+     ],
+     [
+      "2026-10-22 07:54",
+      "Observador",
+      "Rita Matias propõe criação de sala de amamentação na AR",
+      "https://observador.pt/2026/10/22/rita-matias-propoe-criacao-de-sala-de-amamentacao-no-parlamento/"
+     ],
+     [
+      "2026-10-07 13:46",
+      "Jornal Económico",
+      "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
+      "https://jornaleconomico.sapo.pt/noticias/parlamento-aprova-audicao-da-ministra-do-trabalho-e-cga-sobre-erro-no-calculo-de-pensoes/"
+     ],
+     [
+      "2026-10-07 13:17",
+      "Jornal Económico",
+      "Maioria apoia Aguiar-Branco para limitar a duas as comissões de inquérito parlamentar",
+      "https://jornaleconomico.sapo.pt/noticias/maioria-apoia-aguiar-branco-para-limitar-a-duas-as-comissoes-de-inquerito-parlamentar/"
+     ],
+     [
+      "2026-10-05 17:16",
+      "Público",
+      "Aguiar-Branco defende limite de duas comissões de inquérito a funcionar em simultâneo",
+      "https://www.publico.pt/2026/10/05/politica/noticia/aguiarbranco-defende-limite-duas-comissoes-inquerito-funcionar-simultaneo-2190343"
+     ],
+     [
+      "2026-10-05 17:14",
+      "Observador",
+      "17h. PAR pede duas comissões de inquérito em simultâneo",
+      "https://observador.pt/programas/noticiario/as-noticias-das-17h-2299/"
+     ],
+     [
+      "2026-09-23 14:11",
+      "ECO",
+      "OE2027. Proposta debatida na generalidade em 27 e 28 de outubro, votação final em 24 novembro",
+      "https://eco.sapo.pt/2026/09/23/oe2027-proposta-debatida-na-generalidade-em-27-e-28-de-outubro-votacao-final-em-24-novembro/"
+     ],
+     [
+      "2026-09-23 13:41",
+      "Jornal de Negócios",
+      "Orçamento debatido na generalidade nos dias 27 e 28 de outubro. Votação final em 24 novembro",
+      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/proposta-do-orcamento-debatida-na-generalidade-em-27-e-28-de-outubro-votacao-final-em-24-novembro"
+     ]
+    ]
+   }
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PSD",
@@ -20477,15 +21458,15 @@
    "data": "2026-11-18",
    "hora": "15h00",
    "interveniente": "",
-   "tipoLabel": "Conferência de Líderes · Reunião n.º 30 · Sala 7",
-   "resumo": "",
-   "ordemTrabalhos": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala 7 das Comissões",
+   "resumo": "p.msonormal0, li.msonormal0, div.msonormal0 {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:12.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \np.msochpdefault, li.msochpdefault, div.msochpdefault {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:11.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \nspan.estilocorreioeletr",
+   "ordemTrabalhos": "p.msonormal0, li.msonormal0, div.msonormal0 {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:12.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \np.msochpdefault, li.msochpdefault, div.msochpdefault {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:11.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \nspan.estilocorreioeletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \nspan.EstiloCorreioEletrnico20 {\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião da Conferência de Líderes.",
    "orgao": "Conferência de Líderes",
-   "id_ar": 48698,
-   "chave": "ar-48698",
+   "id_ar": 48715,
+   "chave": "ar-48715",
    "dataLabel": "quarta, 18 nov",
    "tipo": [
-    "Conferência de Líderes"
+    "Agenda do Presidente da Assembleia da República"
    ],
    "uo": [],
    "pertinencia": "Registo",
@@ -20493,7 +21474,13 @@
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "periodo": "Tarde",
-   "ligacoes": [],
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-18",
    "cobertura": {
     "n": 8,
     "n7": 0,
@@ -20635,6 +21622,46 @@
    }
   },
   {
+   "tema": "Sessão Comemorativa do 160.º Aniversário do Clube Militar Naval",
+   "data": "2026-11-18",
+   "hora": "20h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Avenida Defensores de Chaves, Lisboa",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão comemorativa do 160.º aniversário do Clube Militar Naval.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão comemorativa do 160.º aniversário do Clube Militar Naval.",
+   "orgao": "Sessão Comemorativa do 160.º Aniversário do Clube Militar Naval",
+   "id_ar": 48716,
+   "chave": "ar-48716",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-18",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-18",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Assistências à Sessão Plenária",
    "data": "2026-11-19",
    "hora": "10h00",
@@ -20773,7 +21800,7 @@
    "interveniente": "",
    "tipoLabel": "Assistências ao Plenário",
    "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um g",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
    "orgao": "Assistências à Sessão Plenária",
    "id_ar": 48709,
    "chave": "ar-48709",

@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-16",
  "fim": "2026-11-22",
- "recolha": "2026-11-18T00:59",
+ "recolha": "2026-11-18T16:22",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -34,23 +34,23 @@
    "validado": false
   },
   {
-   "id_ar": 48695,
+   "id_ar": 48698,
    "data": "2026-11-18",
    "hora": "14h00",
-   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
-   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "tema": "Conferência de Líderes",
+   "orgao": "Conferência de Líderes",
    "interveniente": "",
    "tipo": [
-    "Grupo de Trabalho"
+    "Conferência de Líderes"
    ],
-   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28 · Sala 6",
-   "resumo": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
-   "ordemTrabalhos": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "tipoLabel": "Conferência de Líderes · Reunião n.º 30 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
    "ligacao": "",
    "uo": [],
-   "pertinencia": "Imediato",
+   "pertinencia": "Registo",
    "criterio": [
-    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -105,27 +105,6 @@
    "validado": false
   },
   {
-   "id_ar": 48698,
-   "data": "2026-11-18",
-   "hora": "15h00",
-   "tema": "Conferência de Líderes",
-   "orgao": "Conferência de Líderes",
-   "interveniente": "",
-   "tipo": [
-    "Conferência de Líderes"
-   ],
-   "tipoLabel": "Conferência de Líderes · Reunião n.º 30 · Sala 7",
-   "resumo": "",
-   "ordemTrabalhos": "",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
    "id_ar": 48713,
    "data": "2026-11-18",
    "hora": "14h00",
@@ -168,27 +147,6 @@
    "validado": false
   },
   {
-   "id_ar": 48703,
-   "data": "2026-11-18",
-   "hora": "15h00",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "15h00 - Um grupo de 23 alunos e professores da Escola Básica de Mação, Santarém\n15h30 - Um grupo de 22 alunos e professores da Escola Básica de Mação, Santarém",
-   "ordemTrabalhos": "15h00 - Um grupo de 23 alunos e professores da Escola Básica de Mação, Santarém\n15h30 - Um grupo de 22 alunos e professores da Escola Básica de Mação, Santarém",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
    "id_ar": 48707,
    "data": "2026-11-18",
    "hora": "10h00",
@@ -221,7 +179,7 @@
    ],
    "tipoLabel": "Plenário · Reunião n.º 18 · Plenário",
    "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 202",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
+   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 85 m 47 \n PSD \n 59 m 52 \n  CH \n 49 m 06 \n PS \n 50 m 28 \n IL \n 20 m 19 \n L \n 16 m 11 \n PCP \n 15 m 07 \n CDS-PP \n 11 m 45 \n BE \n 6 m 30 \n PAN \n 5 m 39 \n JPP \n 6 m \n Total \n 326 m 44",
    "ligacao": "",
    "uo": [
     "DACDP",
@@ -284,27 +242,6 @@
    "pertinencia": "Registo",
    "criterio": [
     "«lusa» (UPE)",
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48704,
-   "data": "2026-11-19",
-   "hora": "16h00",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "16h00 - Um grupo de 28 cidadãos da Junta de Freguesia do Seixo",
-   "ordemTrabalhos": "16h00 - Um grupo de 28 cidadãos da Junta de Freguesia do Seixo",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
@@ -439,7 +376,243 @@
    ],
    "tipoLabel": "Assistências ao Plenário",
    "resumo": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um g",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 22 alunos e professores do Agrupamento de Escolas Fernão do Pó no Bombarral, Leiria\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 25 alunos e professores da Escola Básica e Secundária Alfredo da Silva, Barreiro\n10h00 - 11h15 - Um grupo de 19 alunos e professores da Escola Secundária Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 22 jovens participantes na iniciativa da UNICEF\n10h00 - 11h15 - Um grupo de 25 alunos e professores do Núcleo de Estudantes de Direito da Associação Académica de Coimbra\n11h30 - 13h00 - Um grupo de 26 alunos e professores do Agrupamento de Escolas Agualva Mira Sintra, Cacém\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Colégio Leonardo da Vinci, Braga\n11h30 - 13h00 - Um grupo de 32 alunos e professores do Agrupamento de Escolas de Vale de Ovil, Baião",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48712,
+   "data": "2026-11-17",
+   "hora": "17h00",
+   "tema": "Audiência com a Presidente do Tribunal de Contas",
+   "orgao": "Audiência com a Presidente do Tribunal de Contas",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala de Visitas do PAR",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência a Presidente do Tribunal de Contas, para a apresentação da Conta da Assembleia da República.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência a Presidente do Tribunal de Contas, para a apresentação da Conta da Assembleia da República.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48702,
+   "data": "2026-11-17",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "10h00 - Um grupo de 23 alunos e professores da Escola Básica Nova, Peniche\n10h30 - Um grupo de 22 alunos e professores da Escola Básica Nova, Peniche\n14h30 - Um grupo de 28 alunos e professores do Colégio Colibri, Massamá\n15h00 - Um grupo de 26 alunos e professores do Colégio Colibri, Massamá\n15h30 ",
+   "ordemTrabalhos": "10h00 - Um grupo de 23 alunos e professores da Escola Básica Nova, Peniche\n10h30 - Um grupo de 22 alunos e professores da Escola Básica Nova, Peniche\n14h30 - Um grupo de 28 alunos e professores do Colégio Colibri, Massamá\n15h00 - Um grupo de 26 alunos e professores do Colégio Colibri, Massamá\n15h30 - Um grupo de 24 alunos e professores da Escola Secundária António Damásio, Olivais",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48705,
+   "data": "2026-11-17",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do CH",
+   "orgao": "Audiências do Grupo Parlamentar do CH",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "15h00 – Sindicato do Sector Financeiro",
+   "ordemTrabalhos": "15h00 – Sindicato do Sector Financeiro",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48696,
+   "data": "2026-11-17",
+   "hora": "15h00",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 59 · Sala 4",
+   "resumo": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públic",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata 58, correspondente à reunião da Comissão de 11 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho – Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação do parecer relativo à comunicação do Ministério Público sobre a interpretação do artigo 21.º, n.º 3 do Estatuto dos Deputados (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 5 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado Pedro Delgado Alves (PS);\n 6 – Deliberação sobre a admissibilidade e distribuição de participações e denúncias enviadas à Comissão (matéria reservada);\n 7 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48711,
+   "data": "2026-11-17",
+   "hora": "16h00",
+   "tema": "Comissão de Assuntos Europeus",
+   "orgao": "Comissão de Assuntos Europeus",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 65 · Sala 1",
+   "resumo": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as al",
+   "ordemTrabalhos": "Parte I \n Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Conselho Europeu extraordinário de 26 e 27 de novembro, cumprindo o estabelecido nas alíneas a) e d) do n.º 2 do artigo 4.º da Lei n.º 43/2006, de 25 de agosto, com as alterações introduzidas pela Lei n.º 21/2012, de 17 de maio, Lei n.º 18/2018, de 2 de maio, Lei n.º 64/2020, de 2 de novembro e Lei n.º 44/2023, de 14 de agosto\n Parte II \n Informações\n Nomeação de Deputado autor de parecer no âmbito de iniciativas europeias:\n a) COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos)\n Deputado Autor de Parecer: Cabe ao PSD\n Iniciativa sinalizada pela CAE: Prazo de envio – 12/01/2027\n b) COM(2026)1037 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho\n Deputado Autor de Parecer: Cabe ao CH\n Iniciativa sinalizada pela CAE: Prazo de envio – 15/01/2027\n Fixação da redação final do Projeto de Resolução n.º 1309/XVII/2.ª (CH) – Recomenda ao Governo que crie as condições necessárias para o cumprimento interno do regulamento europeu relativo à análise dos investimentos estrangeiros na União e que revoga o Regulamento (UE) 2019/452.\n Apreciação e votação de pareceres da CAE no âmbito do escrutínio de iniciativas europeias:\n a) COM(2026) 599 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um quadro de medidas nos Estados-Membros para salvaguardar a acessibilidade dos preços e a disponibilidade de habitação (Regulamento Habitação a Preços Acessíveis)\n Autor de Parecer: Deputado Paulo Moniz (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 17/11/2026\n b) COM(2026) 567 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que estabelece um regime de medidas para reforçar o ecossistema de inovação da União e que altera o Regulamento (UE) 2017/1001 (Regulamento Inovação Europeia) – Relatório da 6.ª CECT\n Autor de Parecer: Deputado Ricardo Carvalho (PSD)\n Iniciativa sinalizada pela CAE: Prazo de envio – 19/11/2026\n c) COM(2026) 985 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO que altera o Regulamento (UE) 2019/1149 que institui uma Autoridade Europeia do Trabalho, o Regulamento (UE) 2016/589 relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho e o Regulamento (UE) n.º 1024/2012 relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno, e revoga as Decisões de Execução (UE) 2017/1256, (UE) 2018/170, (UE) 2018/1020 e (UE) 2018/1021 da Comissão – Relatório da 10.ª CTSSI\n Autor de Parecer: Deputado Rui Tavares (L)\n Iniciativa sinalizada pela CAE: Prazo de envio – 20/11/2026\n Outros assuntos",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx",
+   "uo": [
+    "DACDP",
+    "DCIRI"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "«cooperação» (DCIRI)",
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48715,
+   "data": "2026-11-18",
+   "hora": "15h00",
+   "tema": "Conferência de Líderes",
+   "orgao": "Conferência de Líderes",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala 7 das Comissões",
+   "resumo": "p.msonormal0, li.msonormal0, div.msonormal0 {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:12.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \np.msochpdefault, li.msochpdefault, div.msochpdefault {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:11.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \nspan.estilocorreioeletr",
+   "ordemTrabalhos": "p.msonormal0, li.msonormal0, div.msonormal0 {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:12.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \np.msochpdefault, li.msochpdefault, div.msochpdefault {\nmargin-right:0cm;\nmargin-left:0cm;\nfont-size:11.0pt;\nfont-family:\"Aptos\",sans-serif;\n} \nspan.estilocorreioeletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \nspan.EstiloCorreioEletrnico20 {\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião da Conferência de Líderes.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48716,
+   "data": "2026-11-18",
+   "hora": "20h00",
+   "tema": "Sessão Comemorativa do 160.º Aniversário do Clube Militar Naval",
+   "orgao": "Sessão Comemorativa do 160.º Aniversário do Clube Militar Naval",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Avenida Defensores de Chaves, Lisboa",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão comemorativa do 160.º aniversário do Clube Militar Naval.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão comemorativa do 160.º aniversário do Clube Militar Naval.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48717,
+   "data": "2026-11-18",
+   "hora": "10h00",
+   "tema": "Reunião Plenária",
+   "orgao": "Reunião Plenária",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
+   "resumo": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "ordemTrabalhos": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48703,
+   "data": "2026-11-18",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "15h00 - Um grupo de 23 alunos e professores da Escola Básica de Mação, Santarém\n15h30 - Um grupo de 22 alunos e professores da Escola Básica de Mação, Santarém",
+   "ordemTrabalhos": "15h00 - Um grupo de 23 alunos e professores da Escola Básica de Mação, Santarém\n15h30 - Um grupo de 22 alunos e professores da Escola Básica de Mação, Santarém",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48695,
+   "data": "2026-11-18",
+   "hora": "14h00",
+   "tema": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "orgao": "Grupo de Trabalho de Escrutínio de Iniciativas Europeias",
+   "interveniente": "",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 28 · Sala 6",
+   "resumo": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "ordemTrabalhos": "Informações;\n Propostas de deliberação;\n Outros assuntos.",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão acompanhada pela área (apoio da UPE à DCIRI em assuntos europeus) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48704,
+   "data": "2026-11-19",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "16h00 - Um grupo de 28 cidadãos da Junta de Freguesia do Seixo",
+   "ordemTrabalhos": "16h00 - Um grupo de 28 cidadãos da Junta de Freguesia do Seixo",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
