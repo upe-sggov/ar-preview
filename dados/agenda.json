@@ -5742,8 +5742,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-18T16:22+00:00",
-  "atualizadoLabel": "18 de novembro, 16h22",
+  "atualizado": "2026-11-18T16:42+00:00",
+  "atualizadoLabel": "18 de novembro, 16h42",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -6518,18 +6518,18 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-16",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/amp/pais/2026/09/16/orcamento-do-estado-2027-governo-chama-parceiros-sociais-com-proposta-na-agenda/485608/",
-     "sintese": "O Governo anunciou a proposta do Orçamento do Estado para 2027, com foco no investimento, habitação e competitividade da construção, e iniciou diálogo com os parceiros sociais.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "data": "2026-09-23",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/governo-visa-excedente-de-at-05-no-oe-2027-mas-teme-boicote-de-ps-e-chega-com-medidas-do-iva",
+     "sintese": "O Governo visa um excedente de até 0,5% no OE2027, mas enfrenta críticas de PS e Chega devido a medidas de IVA e potenciais impactos negativos no défice.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O primeiro-ministro Montenegro sublinhou o sinal importante dado pelo PS na discussão do Orçamento do Estado para 2027, indicando um esforço de diálogo entre partidos.",
+     "sintese": "Montenegro sublinha o 'sinal importante' dado pelo PS, indicando um esforço de diálogo e convergência em torno do Orçamento.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6537,23 +6537,23 @@
      "data": "2026-10-01",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "O Governo destacou que o Orçamento do Estado para 2027 promoveria o investimento, a habitação e a competitividade da construção, com impacto económico positivo.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
-     "sintese": "O Governo previu arrecadar 3.796 milhões de euros com um imposto sobre combustíveis no Orçamento do Estado para 2027, demonstrando a intenção de aumentar receitas fiscais.",
+     "sintese": "O OE2027 deve promover o investimento, a habitação e a competitividade da construção, com foco em setores estratégicos da economia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-08",
-     "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2190/",
-     "sintese": "O líder parlamentar do PSD, Hugo Soares, manifestou confiança no Orçamento do Estado para 2027, indicando um apoio político ao documento governamental.",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
+     "sintese": "Miranda Sarmento alerta o PS para a sua 'responsabilidade reforçada' no controlo do défice e os efeitos negativos de políticas fiscais menos rigorosas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
+     "sintese": "O Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, uma medida fiscal incluída no OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6561,7 +6561,7 @@
      "data": "2026-10-09",
      "fonte": "Agroportal",
      "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "O Orçamento do Estado para 2027 foi criticado por desperdiçar a oportunidade de acelerar a transição ecológica, com críticas de entidades ambientais e partidos políticos.",
+     "sintese": "O OE2027 é criticado por não acelerar a transição ecológica, apesar de incluir medidas fiscais relacionadas com combustíveis.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -6569,7 +6569,7 @@
      "data": "2026-10-09",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O PS criticou a falta de financiamento para a construção de três novos edifícios do Hospital Eduardo Santos Silva, um projeto estimado em 280 milhões de euros, no Orçamento do Estado para 2027.",
+     "sintese": "O Governo é acusado de não financiar a construção de três novos edifícios do Hospital Eduardo Santos Silva, um projeto de 280 milhões de euros.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -6577,7 +6577,7 @@
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "Empresários expressaram falta de ambição no Orçamento do Estado para 2027, mas elogiaram o equilíbrio das contas públicas, indicando uma avaliação mista do documento governamental.",
+     "sintese": "Empresários consideram que o OE2027 carece de ambição, embora reconheçam o equilíbrio das contas públicas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6585,7 +6585,7 @@
      "data": "2026-10-12",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "O deputado do PSD/Açores, Paulo Moniz, apresentou propostas de alteração ao Orçamento do Estado para 2027, focando-se em áreas fundamentais para a Região Autónoma dos Açores.",
+     "sintese": "O Governo destaca um aumento das transferências para a Madeira no OE2027, respondendo a críticas de partidos regionais.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6593,71 +6593,23 @@
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "Empresários elogiaram o equilíbrio das contas públicas no Orçamento do Estado para 2027, mas criticaram a falta de ambição em relação ao investimento e crescimento económico.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Ventura questiona o primeiro-ministro sobre a ausência de trabalho, recebendo uma resposta sobre a elaboração do Orçamento.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-27",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/27/politica/noticia/montenegro-ar-dia-seguro-demarcou-accao-psp-manifestacoes-2192803",
-     "sintese": "O Governo confirmou a subida do salário mínimo para 970 euros no Orçamento do Estado para 2027, afastando a possibilidade de descida da idade da reforma.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "O Governo apresenta alterações fiscais como a redução do IRS e a troca de IRC por combustíveis, com impacto no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-06",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-2027-governo-confirma-salario-minimo-nos-970-euros_v1777515",
-     "sintese": "Partidos políticos apostaram fortemente na habitação como tema central nas propostas de alteração ao Orçamento do Estado para 2027, com propostas como a suspensão das comissões na amortização de crédito.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-08",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao",
-     "sintese": "O deputado do PSD/Açores, Paulo Moniz, apresentou propostas de alteração ao Orçamento do Estado para 2027, focando-se em áreas fundamentais para a Região Autónoma dos Açores.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-09",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/paulo-moniz-entrega-propostas-de-alteracao-ao-oe2027-381898",
-     "sintese": "Partidos políticos destacaram a necessidade de Portugal crescer mais e convergir economicamente no Orçamento do Estado para 2027, com propostas de investimento e políticas públicas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-10",
      "fonte": "Expresso",
-     "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4",
-     "sintese": "O CFP alertou para a necessidade de rever o Orçamento do Estado para 2027 em Cabo Verde, indicando preocupações com a sustentabilidade das contas públicas.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-10",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Conselho Fiscal de Cabo Verde alertou para a necessidade de uma análise aprofundada do Orçamento do Estado para 2027, indicando preocupações com a sustentabilidade das finanças públicas.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-11",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/oe-2027-na-saude-previsibilidade-tambem-e-eficiencia",
-     "sintese": "A eficiência na saúde foi destacada como um indicador importante a ser considerado no Orçamento do Estado para 2027, com foco na utilização de recursos e resultados para o cidadão.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-11",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/politica/3082639/ps-quer-construir-o-ic6-ate-folhadosa-no-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O PS propôs a construção do IC6 até Folhadosa no Orçamento do Estado para 2027, indicando um investimento rodoviário específico.",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
+     "sintese": "AD e CDS-PP realizam sessões em todos os distritos para discutir o OE2027 com ministros e dirigentes, promovendo um diálogo direto com os cidadãos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6665,7 +6617,7 @@
      "data": "2026-11-12",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/",
-     "sintese": "A Associação de Condomínios solicitou a aplicação da taxa reduzida de IVA nas obras e deduções em sede de IRS para as famílias, como contribuição para o Orçamento do Estado para 2027.",
+     "sintese": "Associação de Condomínios propõe a aplicação da taxa reduzida de IVA às obras em partes comuns e deduções em IRS para famílias, medidas fiscais incluídas no OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6673,7 +6625,55 @@
      "data": "2026-11-14",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/",
-     "sintese": "O PSD e CDS-PP realizaram sessões em todo o país sobre o Orçamento do Estado para 2027, com ministros e dirigentes dos partidos, para recolher contributos e opiniões sobre o documento governamental.",
+     "sintese": "Chega/Açores apresenta 22 propostas para o OE2027, visando áreas fundamentais para os Açorianos e a defesa dos interesses regionais.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-14",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Chega apresenta medidas específicas para os Açores no âmbito do OE2027, abrangendo áreas estratégicas para a região.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-14",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068",
+     "sintese": "Debate e votação na especialidade do OE2027 começam com mais de 2.800 propostas de alteração, evidenciando a complexidade da discussão parlamentar.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899",
+     "sintese": "Governo garante estar aberto ao diálogo e disponível para receber manifestantes pela Habitação do Porto, demonstrando uma postura de negociação.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/",
+     "sintese": "Governo afirma que propostas da oposição poderiam levar o país a um procedimento por défice excessivo, evidenciando a tensão entre partidos.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao",
+     "sintese": "OE2027: Governo diz que propostas da oposição condenariam país a 'procedimento por défice excessivo', reforçando a posição negocial do Executivo.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira",
+     "sintese": "Governo afirma que propostas da oposição condenariam o país a um procedimento por défice excessivo, reforçando a tensão entre partidos e a importância do Orçamento para a estabilidade económica.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
@@ -6683,11 +6683,11 @@
     "encontradas": 291
    },
    "base": {
-    "ultima": "2026-11-14 10:01",
-    "em": "2026-11-14"
+    "ultima": "2026-11-18 14:26",
+    "em": "2026-11-18"
    },
-   "novas": 10,
-   "enquadramento": "A cobertura mediática acompanhou a elaboração e discussão do Orçamento do Estado para 2027, com notícias que reportaram anúncios governamentais, posições de partidos políticos e críticas de entidades sobre a falta de financiamento para projetos específicos. Inicialmente, a cobertura focou-se em anúncios e intenções do Governo, como a subida do salário mínimo para 970 euros e o aumento das transferências para a Madeira. Posteriormente, surgiram críticas de partidos e entidades sobre a falta de financiamento para projetos como o Hospital de Gaia e a construção de infraestruturas rodoviárias. A discussão sobre o Orçamento do Estado para 2027 evoluiu para incluir propostas de alteração de partidos políticos, como a suspensão das comissões na amortização de crédito e a aplicação da taxa reduzida de IVA nas obras de edifícios. A cobertura mediática manteve-se ativa durante o período, com sessões de diálogo entre o Governo e os partidos políticos, demonstrando a importância do Orçamento do Estado para 2027 na agenda política."
+   "novas": 0,
+   "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem acompanhado de perto a sua elaboração e discussão parlamentar, com foco em medidas fiscais, transferências para regiões autónomas, saúde e habitação. As notícias revelam críticas de partidos como o PS e Chega, que questionam a falta de financiamento para projetos específicos, como o Hospital de Gaia, e alertam para potenciais riscos de défice. Por outro lado, o Governo e partidos como a AD e CDS-PP destacam avanços como o aumento de transferências para a Madeira e a abertura ao diálogo. A discussão na especialidade, iniciada a 18 de novembro, evidenciou um elevado número de propostas de alteração, refletindo a complexidade e diversidade de interesses em jogo. A cobertura, embora polarizada, mantém um tom de relevância para a matéria em análise, com ênfase em impactos económicos e sociais."
   },
   "2026-11-17-48711-audi-o-com-a-secret-ria-de-estado-dos-assun": {
    "titulo": "Audição com a Secretária de Estado dos Assuntos Europeus após o Conselho Europeu de 15 e 16 de outubro e…",
