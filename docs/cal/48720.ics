@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48720@ar-preview
+DTSTAMP:20261119T002446Z
+DTSTART:20261119T100000Z
+DTEND:20261119T120000Z
+SUMMARY:AR · Abertura do XX Encontro Anual do Conselho Superior da Magist
+ ratura
+LOCATION:Assembleia da República
+DESCRIPTION:Agenda do Presidente da Assembleia da República · Pavilhão 
+ de Portugal\, Lisboa\nSíntese: span.EstiloCorreioEletrnico17 { font-fami
+ ly:"Aptos"\,sans-serif\; color:windowtext\; }  div.WordSection1 {\nPágin
+ a na AR: https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.a
+ spx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\nA
+ R Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativ
+ a\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

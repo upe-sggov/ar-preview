@@ -1,6 +1,55 @@
 {
- "tentadas": 10,
- "resolvidas": 10,
- "exemplos_falhados": [],
+ "tentadas": 19,
+ "resolvidas": 0,
+ "exemplos_falhados": [
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDVObXlzTTBKV1JiX0Z4XzhxZ29hcXdkSjVzVEJfUktiRnFJeE5fVU9zWFhWT3IxaXN",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  },
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazl",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  },
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGt",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  },
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenJzMmpJc0pXTW44NW5pa1VxdVNDMVdLazdJRGw0T1ZzN1ZyQWZnRXpTbVd1bDVTR0h",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  },
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR2xhMGJrUmRibjlEdFFIU3M4M3VmODBNbVZIakhOaDEyYUZGUlVVd0k1NmZjcFNpQm9",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  },
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWdXd3ltLUs2UHRSU19vWEFPUzJXMEdVaF8xRFV4dl9CTHBJX2o0VmxFVlZGVExvOFl",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  },
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFNYckpiemNuV1E4YjFWNGpVT2x1ekc0YVVTMTZEaF9EZVN6R1RLakpEOVl6YnUzMGJ",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  },
+  {
+   "ligacao": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZ",
+   "do_identificador": "sem resultado",
+   "pelo_google": "HTTPError: HTTP Error 429: Too Many Requests",
+   "seguindo": "sem resultado"
+  }
+ ],
  "pagina_recebida": []
 }

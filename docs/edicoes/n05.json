@@ -53,44 +53,68 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -100,22 +124,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -1814,18 +1850,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    }
@@ -1871,44 +1895,68 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -1918,22 +1966,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -3632,18 +3692,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    }
@@ -3675,7 +3723,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3721,44 +3769,68 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -3768,22 +3840,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -5482,18 +5566,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    }
@@ -5525,11 +5597,875 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
+   }
+  },
+  {
+   "tema": "Conselho de Administração",
+   "data": "2026-11-25",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Conselho de Administração · Reunião n.º 31 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "orgao": "Conselho de Administração",
+   "id_ar": 48721,
+   "chave": "ar-48721",
+   "dataLabel": "quarta, 25 nov",
+   "tipo": [
+    "Conselho de Administração"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 135,
+    "n7": 25,
+    "n7ant": 33,
+    "dias": 60,
+    "ref": "2026-11-19",
+    "metodo": "palavras",
+    "ultima": "2026-11-18 21:32",
+    "ultimas": [
+     {
+      "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "Reforço da participação pública no capital da Galp chumbado",
+      "url": "https://jornaleconomico.sapo.pt/noticias/reforco-da-participacao-publica-no-capital-da-galp-chumbado/"
+     },
+     {
+      "data": "2026-11-18",
+      "fonte": "Observador",
+      "titulo": "Presidente da Visit Azores demite-se e força eleições",
+      "url": "https://observador.pt/2026/11/18/presidente-da-visit-azores-demite-se-e-forca-eleicoes-antecipadas/"
+     },
+     {
+      "data": "2026-11-18",
+      "fonte": "ECO",
+      "titulo": "Presidente da Visit Azores demite-se e força eleições antecipadas",
+      "url": "https://eco.sapo.pt/2026/11/18/presidente-da-visit-azores-demite-se-e-forca-eleicoes-antecipadas/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-18 21:32",
+      "Jornal Económico",
+      "Reforço da participação pública no capital da Galp chumbado",
+      "https://jornaleconomico.sapo.pt/noticias/reforco-da-participacao-publica-no-capital-da-galp-chumbado/"
+     ],
+     [
+      "2026-11-18 19:46",
+      "Observador",
+      "Presidente da Visit Azores demite-se e força eleições",
+      "https://observador.pt/2026/11/18/presidente-da-visit-azores-demite-se-e-forca-eleicoes-antecipadas/"
+     ],
+     [
+      "2026-11-18 19:15",
+      "ECO",
+      "Presidente da Visit Azores demite-se e força eleições antecipadas",
+      "https://eco.sapo.pt/2026/11/18/presidente-da-visit-azores-demite-se-e-forca-eleicoes-antecipadas/"
+     ],
+     [
+      "2026-11-18 17:11",
+      "Açoriano Oriental",
+      "Presidente da Visit Azores apresenta a sua renúncia",
+      "https://www.acorianooriental.pt/noticia/presidente-da-visit-azores-apresenta-a-sua-renuncia-382176"
+     ],
+     [
+      "2026-11-18 10:16",
+      "Açoriano Oriental",
+      "Nuno Leandro de volta à Visit Azores no meio de demissões",
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeml5ejBHWXZDNV9Tc2JDWjdKRFNhQ2F0V0xOWi1tc2dieFI3Z050MDVseTVWcl9MOEpuRnF1TDJ3R0VqOEFPcWxNNTJ3MWY3bTFNR3FKSlhicDFNTlQycVNIQkNteWZHNnMyeW50alF6Sm5ydFJNdlQ0Tno0LVpZdDZlT3pxMzhwQ0RWYnoxUXdIY3ZYanpwdS1veUtPdWNQajkyTUZKa9IBrAFBVV95cUxNeEw3cjlqLXBTNFYzQ0hEQ05tbDlRcmVGUzRNLU83ZG9ZY3VCNWYwRWRzbXhFUk9keTd3YkFNajV5bzdCMkpSd3NVU29lR0VhSW5CeHlOR3ZJck5tVjJIOER6dEJfVWhlOFVKU0o1VHhTUEJVRHV0cGNlc2RzRFlCcGJUazFYdVJyYUMzSjBIRkVqVGFHWVEwU05rRUEwSzZKcGJPMDc3VjdDYU1B?oc=5"
+     ],
+     [
+      "2026-11-18 03:01",
+      "ECO",
+      "Administração da Nvidia recusa novamente readmitir Jensen Huang como CEO",
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUktzWlpXX0RlWHJoejBBa2xrQlRwellIckluREJoOERBTmZteW5TQXhDeXE4bzg1RmRLSTNqRGJWdzByd185bWctYWJrZzVtR2U5T1B2Z0tEQ2JibHpBVi01WnVPWmlsODNPZ090dHVoanoycUJHd1Y2VVd0QVIzNVItS211ZkZwLXRsZVNHS3ZOMkw0XzdFRmMzeHYxYkpzNkpCR2JMOA?oc=5"
+     ],
+     [
+      "2026-11-18 01:01",
+      "SIC Notícias",
+      "Conselho de administração da Nvidia descarta reintegração de Jensen Huang",
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXI2UUR2SHVsRFlwTEtZdDZDY3dpLXJ3OGo1cEM1WVpoMDBkYWR1WGctQkZ6ODkxbjR4aDlnN19iMGtDT0FKMldNWUJOc0JUZUF3SWM3bEQwbm5pQVBnSWg1Q3I3T2ZOZEZkOXJ1NXoxTHR4TUhPY3k5RGRSem1xYjBSbVVTR2tSSU1DSWdldThCMWpTY1BUbWxtbDhyM1RPbl9tSy16NXBsZ3JfT1JEbWxua3d4WGktN1N2M3hZTQ?oc=5"
+     ],
+     [
+      "2026-11-17 23:51",
+      "Notícias ao Minuto",
+      "Conselho de administração da Nvidia rejeita reintegração de Jensen Huang",
+      "https://www.noticiasaominuto.com/tech/3085834/conselho-de-administracao-da-nvidia-rejeita-reintegracao-de-jensen-huang#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-17 22:45",
+      "RTP Notícias",
+      "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
+      "https://www.rtp.pt/noticias/economia/administracao-da-nvidia-mantem-a-porta-fechada-ao-regresso-de-jensen-huang_n1779872"
+     ],
+     [
+      "2026-11-17 22:32",
+      "CNN Portugal",
+      "Conselho de administração da Nvidia confirma que \"não pretende reconduzir\" Jensen Huang",
+      "https://cnnportugal.iol.pt/nvidia/jensen-huang/conselho-de-administracao-da-nvidia-confirma-que-nao-pretende-reconduzir-jensen-huang/20261117/6afcd5ccd34e5a653d73487d"
+     ],
+     [
+      "2026-11-17 20:35",
+      "Público",
+      "IL pede audição do Conselho Geral Independente da RTP sobre escolha da administração",
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxORTYxRjVPaTVCZ1p1Z3plSTJBR05mUTNyRUVBRmlLNW40NmxQTnJySmIxdTIxdG4yTFRzWWtWOXVvbVhVY3pmSWFGZHZLcURwdjdxMXJHQzFsRUpUZzhJYlQ0M3dqVDlDa2JpVDVvNXVQLVZENXBGOTFDNjJsZVl1NW9xUUhVZTVpZGlPejQ0VElrVWQ4ZXVORjdkZS1VdE5ISG53TjN5TDZxeGluYkd1SGFiUXdNV2dkQVA3VlM0NjFjLWgyYnlr?oc=5"
+     ],
+     [
+      "2026-11-17 17:47",
+      "RTP Notícias",
+      "De volta à casa de partida? Jensen Huang disposto a retomar o leme da Nvidia",
+      "https://www.rtp.pt/noticias/economia/de-volta-a-casa-de-partida-jensen-huang-disposto-a-retomar-o-leme-da-nvidia_n1779819"
+     ],
+     [
+      "2026-11-17 16:52",
+      "Observador",
+      "\"Terei todo o gosto\". Huang abre porta ao regresso à Nvidia",
+      "https://observador.pt/2026/11/17/terei-todo-o-gosto-em-regressar-huang-abre-porta-a-nvidia-apos-demissao-por-por-escandalos-extraconjugais/"
+     ],
+     [
+      "2026-11-17 15:24",
+      "ECO",
+      "Iniciativa Liberal pede audição da presidente do CGI da RTP antes de ouvir administração",
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUI5U1J0NUVLQ1ZIT2ZxTUNLNGEwTU9lQ0w5Ym1RRWxXZVlRbUgxSHpyTnRWeXpKYzd1RHFvOWhzNjR3QzRkd2EzbDR0NEQzcjFEMDlkRWJIRlpyYVVIejRfSV9EZDhYTy1VZ3Fxc25QS0lVUHF2OUFPcEtpMDVMQk5CdEtJX3p3Zi1WZHN4R3B2WWJQY1p3VU5QZHRXR1JpNkVEQ09aUUJVem1xZVl5d0VSaWdSRzVxUjl5bA?oc=5"
+     ],
+     [
+      "2026-11-17 08:14",
+      "Healthnews",
+      "Médico legista nomeado para dirigir Hospital Agostinho Neto",
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTBoUFhHYUJEUUZLQS1IeXQzY1kyUXNtX0c1WHFXX0ZtY0JEdWlxT1p2aGtTX25rWjJIVVRXRm50NmI4Zm05UHNVa1VWYndZREJldld1d09fc0ViVmpXTmZiSFdyMUtwcEg5Z1ZmM3pwN0RNWkpyejAzOURIQ2RUeTlod29tRzFOeXA5ZGRYR2NOM2o5TWgyMw?oc=5"
+     ],
+     [
+      "2026-11-16 17:38",
+      "Açoriano Oriental",
+      "CCIPD diz que demissão de três membros na Visit Azores agrava confiança no turismo",
+      "https://www.acorianooriental.pt/noticia/ccipd-diz-que-demissoes-na-visit-azores-agrava-confianca-no-turismo-382121"
+     ],
+     [
+      "2026-11-16 07:37",
+      "Observador",
+      "EUA questionam se Nvidia sabia do contrabando de chips",
+      "https://observador.pt/2026/11/16/secretario-do-tesouro-dos-eua-questiona-se-nvidia-sabia-do-contrabando-de-chips/"
+     ],
+     [
+      "2026-11-16 06:23",
+      "ECO",
+      "Jensen Huang discute regresso à liderança da Nvidia",
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1UxeTZ3R2xRSTFBSGllN3FCVDlMUW9YRzRvcFVVMWVuX1JYX2ZFWGZDcVBOYlI0Q0cxaFpRUldJa1kzQVUwc1dZT0pqNUJCN3EzV19GZmZVcVBrM1d4X0xObFA1QVBHNFYzYzQxUnJWcXJocTlVb0FKX21OVjh1R1RqS1dScVhWaS1r?oc=5"
+     ],
+     [
+      "2026-11-15 12:12",
+      "ECO",
+      "De Jobs a Altman, 11 fundadores que perderam o cargo",
+      "https://eco.sapo.pt/2026/11/15/de-jobs-a-altman-11-fundadores-que-perderam-o-cargo/"
+     ],
+     [
+      "2026-11-13 20:00",
+      "Observador",
+      "Conselho de administração da ULS Aveiro mantém-se em funções",
+      "https://observador.pt/2026/11/13/membros-do-conselho-de-administracao-da-uls-aveiro-mantem-se-em-funcoes/"
+     ],
+     [
+      "2026-11-13 18:56",
+      "Notícias ao Minuto",
+      "Membros do conselho de administração da ULS Aveiro mantêm-se em funções",
+      "https://www.noticiasaominuto.com/pais/3083921/membros-do-conselho-de-administracao-da-uls-aveiro-mantem-se-em-funcoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-13 18:11",
+      "RTP Notícias",
+      "À procura de um novo CEO. Nvidia abordou chefe da Arm, Rene Haas",
+      "https://www.rtp.pt/noticias/mundo/a-procura-de-um-novo-ceo-nvidia-abordou-chefe-da-arm-rene-haas_n1779009"
+     ],
+     [
+      "2026-11-13 16:42",
+      "Notícias ao Minuto",
+      "Lusa e sindicatos retomam negociações para revisão do acordo de empresa",
+      "https://www.noticiasaominuto.com/pais/3083826/lusa-e-sindicatos-retomam-negociacoes-para-revisao-do-acordo-de-empresa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-13 16:37",
+      "ECO",
+      "Lusa e sindicatos retomam negociações para revisão do acordo de empresa",
+      "https://eco.sapo.pt/2026/11/13/lusa-e-sindicatos-retomam-negociacoes-para-revisao-do-acordo-de-empresa/"
+     ],
+     [
+      "2026-11-13 00:10",
+      "Público",
+      "Ex-presidente do Conselho de Administração do CTE – Centro de Formação para a Transição Energética",
+      "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRanFZWVptbHB4WTd3RnpHbzVLbk1jUl91aWFPc3BIaUd4eEg5UGRxcnluU2liN0dpWmdmd19zTjQwWmx5NEVKbUQ4OGM4SjRFaG5XSw?oc=5"
+     ],
+     [
+      "2026-11-12 15:09",
+      "ECO",
+      "Jensen Huang demite-se da liderança da Nvidia",
+      "https://eco.sapo.pt/2026/11/12/jensen-huang-deixa-lideranca-da-nvidia/"
+     ],
+     [
+      "2026-11-12 12:51",
+      "RTP Notícias",
+      "Fundador da Nvidia pode perder o comando da gigante da IA",
+      "https://www.rtp.pt/noticias/mundo/fundador-da-nvidia-pode-perder-o-comando-da-gigante-da-ia_n1778658"
+     ],
+     [
+      "2026-11-12 11:02",
+      "ECO",
+      "Quem vai suceder a Jensen Huang na liderança da Nvidia?",
+      "https://eco.sapo.pt/2026/11/12/quem-vai-suceder-a-jensen-huang-na-lideranca-da-nvidia/"
+     ],
+     [
+      "2026-11-12 06:53",
+      "CNN Portugal",
+      "De antigos executivos da Pepsi-Cola e da NFL a cientistas: quem faz parte do conselho de administração da Nvidia que vai decidir o futuro de Jensen Huang",
+      "https://cnnportugal.iol.pt/nvidia/jensen-huang/de-antigos-executivos-da-pepsi-cola-e-da-nfl-a-cientistas-quem-faz-parte-do-conselho-de-administracao-da-nvidia-que-vai-decidir-o-futuro-de-jensen-huang/20261112/6af560dbd34e5a653d733eb9"
+     ],
+     [
+      "2026-11-12 05:40",
+      "ECO",
+      "Nvidia prepara saída de Jensen Huang e ações afundam mais de 9%",
+      "https://eco.sapo.pt/2026/11/12/nvidia-prepara-saida-de-jensen-huang-e-acoes-afundam-mais-de-9/"
+     ],
+     [
+      "2026-11-11 07:58",
+      "Observador",
+      "Mau tempo. Transtejo Soflusa \"não prevê alteração da oferta\"",
+      "https://observador.pt/programas/resposta-pronta/mau-tempo-transtejo-soflusa-nao-preve-alteracao-da-oferta/"
+     ],
+     [
+      "2026-11-10 13:18",
+      "Diário de Notícias",
+      "Ministra da Saúde demite presidente do Conselho de Administração da ULS de Aveiro",
+      "https://www.dn.pt/sociedade/ministra-da-sade-demite-presidentedo-conselho-de-administraoda-uls-de-aveiro"
+     ],
+     [
+      "2026-11-10 12:23",
+      "Healthnews",
+      "USF do Arco encerrada por danos do mau tempo enquanto Lisboa se prepara para o pior",
+      "https://healthnews.pt/2026/11/10/usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior/#utm_source=rss&utm_medium=rss&utm_campaign=usf-do-arco-encerrada-por-danos-do-mau-tempo-enquanto-lisboa-se-prepara-para-o-pior"
+     ],
+     [
+      "2026-11-10 08:13",
+      "Observador",
+      "8h. Mau tempo. Governo aconselha população a não sair casa",
+      "https://observador.pt/programas/noticiario/as-noticias-das-8h-2573/"
+     ],
+     [
+      "2026-11-09 22:13",
+      "Observador",
+      "22h. Acampada Lisboa decide retirar tendas esta noite",
+      "https://observador.pt/programas/noticiario/as-noticias-das-22h-1894/"
+     ],
+     [
+      "2026-11-09 21:16",
+      "ECO",
+      "Ministra da Saúde vai demitir presidente da ULS do Algarve",
+      "https://eco.sapo.pt/2026/11/09/ministra-da-saude-vai-demitir-presidente-da-uls-do-algarve/"
+     ],
+     [
+      "2026-11-09 21:08",
+      "Diário de Notícias",
+      "Ministra anuncia que vai demitir presidente do Conselho de Administração da ULS do Algarve",
+      "https://www.dn.pt/sociedade/ministra-anuncia-que-vai-demitir-presidente-do-conselho-de-administrao-da-uls-do-algarve"
+     ],
+     [
+      "2026-11-09 21:02",
+      "Sábado",
+      "Ministra da Saúde vai demitir presidente do Conselho da Administração da ULS do Algarve após mortes em Portimão",
+      "https://www.sabado.pt/portugal/detalhe/ministra-da-saude-vai-demitir-presidente-do-conselho-da-administracao-da-uls-do-algarve-apos-mortes-em-portimao"
+     ],
+     [
+      "2026-11-09 20:57",
+      "CNN Portugal",
+      "Ministra da Saúde vai demitir o presidente do Conselho de Administração da ULS do Algarve",
+      "https://cnnportugal.iol.pt/ana-paula-martins/tiago-martins-da-silva/ministra-da-saude-vai-demitir-presidente-do-conselho-de-administracao-da-uls-do-algarve/20261109/6af2340ad34e9ce6f1b43c04"
+     ],
+     [
+      "2026-11-09 20:57",
+      "TSF",
+      "Ministra da Saúde vai demitir presidente do conselho de administração da ULS do Algarve após mortes",
+      "https://www.tsf.pt/amp/18146474/ministra-da-saude-vai-demitir-presidente-do-conselho-de-administracao-da-uls-do-algarve"
+     ],
+     [
+      "2026-11-09 20:53",
+      "Jornal de Notícias",
+      "Ministra da Saúde demite Conselho de Administração da ULS do Algarve",
+      "https://www.jn.pt/nacional/artigo/ministra-da-saude-demite-conselho-de-administracao-da-uls-do-algarve/18146470"
+     ],
+     [
+      "2026-11-09 20:47",
+      "RTP Notícias",
+      "Ministra da Saúde vai demitir presidente do Conselho da Administração da ULS Algarve",
+      "https://www.rtp.pt/noticias/pais/ministra-da-saude-vai-demitir-presidente-do-conselho-da-administracao-da-uls-algarve_n1777956"
+     ],
+     [
+      "2026-11-09 20:45",
+      "SIC Notícias",
+      "Ministra da Saúde vai demitir presidente do conselho de administração da ULS do Algarve",
+      "https://sicnoticias.pt/pais/2026-11-09-ministra-da-saude-vai-demitir-do-presidente-do-conselho-de-administracao-da-uls-do-algarve-a835899c"
+     ],
+     [
+      "2026-11-09 20:14",
+      "Observador",
+      "21h. Ministra da Saúde vai demitir presidente do Conselho de Administração da Unidade Local de Saúde do Algarve",
+      "https://observador.pt/programas/noticiario/as-noticias-das-21h-1812/"
+     ],
+     [
+      "2026-11-09 19:45",
+      "Renascença",
+      "Ministra demite presidente do conselho de administração da ULS do Algarve após mortes no Hospital de Portimão",
+      "https://rr.pt/noticia/pais/2026/11/09/ministra-demite-presidente-do-conselho-de-administracao-da-uls-do-algarve-apos-mortes-no-hospital-de-portimao/492861/"
+     ],
+     [
+      "2026-11-09 19:33",
+      "Correio da Manhã",
+      "Ministra da Saúde vai demitir o presidente do Conselho da Administração da ULS do Algarve após mortes em Portimão",
+      "https://www.cmjornal.pt/sociedade/detalhe/ministra-da-saude-em-entrevista-no-grande-jornal"
+     ],
+     [
+      "2026-11-09 11:16",
+      "CNN Portugal",
+      "Ex-diretor da urgência de Portimão \"enviou dezenas de e-mails ao Conselho de Administração a alertar para a rutura do serviço\"",
+      "https://cnnportugal.iol.pt/videos/ex-diretor-da-urgencia-de-portimao-enviou-dezenas-de-e-mails-ao-conselho-de-administracao-a-alertar-para-a-rutura-do-servico/6af193a80cf2cb2507aa7e27"
+     ],
+     [
+      "2026-11-09 09:45",
+      "SAPO Tek",
+      "Nvidia abre investigação para saber se Jensen Huang foi alvo de espionagem, depois de o CEO admitir infidelidade",
+      "https://tek.sapo.pt/noticias/negocios/artigos/nvidia-abre-investigacao-para-saber-se-jensen-huang-foi-alvo-de-espionagem-depois-de-o-ceo-admitir-infidelidade/"
+     ],
+     [
+      "2026-11-09 09:39",
+      "Jornal de Negócios",
+      "China rejeita acusações de ter feito espionagem ao CEO da Nvidia",
+      "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/china-rejeita-acusacoes-de-espionagem-que-envolvem-o-ceo-da-nvidia"
+     ],
+     [
+      "2026-11-08 23:18",
+      "Observador",
+      "Nvidia investiga CEO por relação com suspeita de espionagem",
+      "https://observador.pt/2026/11/08/nvidia-abre-investigacao-ao-ceo-jensen-huang-por-relacao-com-executiva-suspeita-de-passar-dados-a-china/"
+     ],
+     [
+      "2026-11-08 21:18",
+      "Jornal de Negócios",
+      "Jensen Huang foi mesmo alvo de espionagem? “Board” da Nvidia investiga",
+      "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/jensen-huang-foi-mesmo-alvo-de-espionagem-board-da-nvidia-investiga"
+     ],
+     [
+      "2026-11-08 13:29",
+      "Açoriano Oriental",
+      "Play Racing quer renovar o título de Pedro Câmara em 2027",
+      "https://www.acorianooriental.pt/noticia/play-racing-quer-renovar-o-titulo-de-pedro-camara-em-2027-381872"
+     ],
+     [
+      "2026-11-07 03:17",
+      "Observador",
+      "3h. Agência Lusa está sem diretor de informação",
+      "https://observador.pt/programas/noticiario/as-noticias-das-3h-2489/"
+     ],
+     [
+      "2026-11-06 20:54",
+      "Jornal de Negócios",
+      "Nicolau Santos e Hugo Figueiredo reconduzidos para novo mandato na administração da RTP",
+      "https://www.jornaldenegocios.pt/empresas/detalhe/nicolau-santos-e-hugo-figueiredo-reconduzidos-para-novo-mandato-na-administracao-da-rtp"
+     ],
+     [
+      "2026-11-06 19:14",
+      "RTP Notícias",
+      "CGI reconduz Nicolau Santos como presidente do Conselho de Administração da RTP",
+      "https://www.rtp.pt/noticias/pais/cgi-reconduz-nicolau-santos-como-presidente-do-conselho-de-administracao-da-rtp_n1777496"
+     ],
+     [
+      "2026-11-06 18:24",
+      "ECO",
+      "Armindo Escalda vai ser o novo CEO das seguradoras Aegon Santander",
+      "https://eco.sapo.pt/2026/11/06/armindo-escalda-vai-ser-o-novo-ceo-das-seguradoras-aegon-santander/"
+     ],
+     [
+      "2026-11-06 10:01",
+      "Ambiente Magazine",
+      "Opinião: “Reciclagem: entre os resultados atuais e as metas de 2030, o que falta percorrer?”",
+      "https://www.ambientemagazine.com/opiniao-reciclagem-entre-os-resultados-atuais-e-as-metas-de-2030-o-que-falta-percorrer/"
+     ],
+     [
+      "2026-11-06 09:10",
+      "Jornal Económico",
+      "BPCE muda governo do Novobanco e compra GamaLife por 400 milhões",
+      "https://jornaleconomico.sapo.pt/noticias/bpce-muda-governo-do-novobanco-e-compra-gamalife-por-400-milhoes/"
+     ],
+     [
+      "2026-11-04 18:30",
+      "ECO",
+      "Acordo na Lusa para aumento salarial de 87,50 euros",
+      "https://eco.sapo.pt/2026/11/04/acordo-na-lusa-para-aumento-salarial-de-8750-euros/"
+     ],
+     [
+      "2026-11-04 18:01",
+      "RTP Notícias",
+      "Miguel Stilwell de Andrade vai deixar a liderança da EDP",
+      "https://www.rtp.pt/noticias/economia/miguel-stilwell-de-andrade-vai-deixar-a-lideranca-da-edp_n1776912"
+     ],
+     [
+      "2026-11-04 17:57",
+      "ECO",
+      "Conselho de Redação da Lusa dá parecer negativo a Diana Ramos, a nova diretora",
+      "https://eco.sapo.pt/2026/11/04/conselho-de-redacao-da-lusa-da-parecer-negativo-a-diana-ramos-a-nova-diretora/"
+     ],
+     [
+      "2026-11-04 17:45",
+      "Jornal de Negócios",
+      "Reforço na REN dá dois a três administradores ao Governo",
+      "https://www.jornaldenegocios.pt/empresas/energia/detalhe/reforco-na-ren-da-dois-a-tres-administradores-ao-governo"
+     ],
+     [
+      "2026-11-04 17:09",
+      "ECO",
+      "Aumento da longevidade obriga seguradoras a repensar poupança para a reforma e seguros de vida",
+      "https://eco.sapo.pt/2026/11/04/aumento-da-longevidade-obriga-seguradoras-a-repensar-poupanca-para-a-reforma-e-seguros-de-vida/"
+     ],
+     [
+      "2026-11-04 10:40",
+      "ECO",
+      "Próximo Conselho de Administração deve fazer “reestruturação profunda” da RTP",
+      "https://eco.sapo.pt/2026/11/04/proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp/"
+     ],
+     [
+      "2026-11-04 01:00",
+      "Diário de Notícias da Madeira",
+      "Próximo Conselho de Administração deve fazer \"reestruturação profunda\" da RTP",
+      "https://www.dnoticias.pt/2026/11/3/511520-proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp/"
+     ],
+     [
+      "2026-11-03 23:14",
+      "Observador",
+      "CTT vão vender posição de controlo do Banco CTT",
+      "https://observador.pt/2026/11/03/ctt-avancam-com-venda-de-posicao-de-controlo-do-banco-ctt-apos-manifestacao-de-interesse-nao-solicitada/"
+     ],
+     [
+      "2026-11-03 22:51",
+      "RTP Notícias",
+      "CTT iniciam processo de venda de posição de controlo no Banco CTT",
+      "https://www.rtp.pt/noticias/economia/ctt-iniciam-processo-de-venda-de-posicao-de-controlo-no-banco-ctt_n1776675"
+     ],
+     [
+      "2026-11-03 10:28",
+      "Jornal de Negócios",
+      "Afinal, Portugal Gaspar não vai para a Concorrência. Vai presidir ao Instituto Português da Qualidade",
+      "https://www.jornaldenegocios.pt/economia/detalhe/afinal-portugal-gaspar-nao-vai-para-a-concorrencia-vai-presidir-ao-instituto-portugues-da-qualidade"
+     ],
+     [
+      "2026-10-31 13:20",
+      "Healthnews",
+      "Gestão hospitalar: Brasil destaca modelo colegial português, Portugal questiona nomeação dos gestores",
+      "https://healthnews.pt/2026/10/31/gestao-hospitalar-brasil-destaca-modelo-colegial-portugues-portugal-questiona-nomeacao-dos-gestores/#utm_source=rss&utm_medium=rss&utm_campaign=gestao-hospitalar-brasil-destaca-modelo-colegial-portugues-portugal-questiona-nomeacao-dos-gestores"
+     ],
+     [
+      "2026-10-31 00:12",
+      "RTP Notícias",
+      "Conselho de Redação da Lusa pede a regulador parecer urgente sobre nomeação de nova diretora",
+      "https://www.rtp.pt/noticias/economia/conselho-de-redacao-da-lusa-pede-a-regulador-parecer-urgente-sobre-nomeacao-de-nova-diretora_n1775782"
+     ],
+     [
+      "2026-10-30 19:37",
+      "Jornal de Negócios",
+      "Conselho de Administração da Lusa convida Diana Ramos para diretora de informação",
+      "https://www.jornaldenegocios.pt/empresas/detalhe/conselho-de-administracao-da-lusa-convida-diana-ramos-para-diretora-de-informacao"
+     ],
+     [
+      "2026-10-30 19:09",
+      "RTP Notícias",
+      "Conselho de Administração da Lusa convida Diana Ramos para diretora de informação",
+      "https://www.rtp.pt/noticias/economia/conselho-de-administracao-da-lusa-convida-diana-ramos-para-diretora-de-informacao_n1775729"
+     ],
+     [
+      "2026-10-30 06:41",
+      "Healthnews",
+      "5. Previsibilidade, financiamento e pessoas: o que deve estar no Pacto para a Saúde",
+      "https://healthnews.pt/2026/10/30/5-previsibilidade-financiamento-e-pessoas-o-que-deve-estar-no-pacto-para-a-saude/#utm_source=rss&utm_medium=rss&utm_campaign=5-previsibilidade-financiamento-e-pessoas-o-que-deve-estar-no-pacto-para-a-saude"
+     ],
+     [
+      "2026-10-27 18:33",
+      "Público",
+      "Governo quer ter influência na Galp, mas só 200 milhões de euros asseguram um administrador",
+      "https://www.publico.pt/2026/10/27/economia/noticia/governo-quer-influencia-galp-so-200-milhoes-euros-asseguram-administrador-2192825"
+     ],
+     [
+      "2026-10-27 11:11",
+      "Jornal Económico",
+      "Inteligência artificial está a obrigar a Critical Software a refundar-se",
+      "https://jornaleconomico.sapo.pt/noticias/inteligencia-artificial-esta-a-obrigar-a-critical-software-a-refundar-se/"
+     ],
+     [
+      "2026-10-26 14:47",
+      "Healthnews",
+      "Técnicos de diagnóstico e terapêutica da ULS Amadora/Sintra voltam à greve e concentram-se no Ministério da Saúde",
+      "https://healthnews.pt/2026/10/26/tecnicos-de-diagnostico-e-terapeutica-da-uls-amadora-sintra-voltam-a-greve-e-concentram-se-no-ministerio-da-saude/#utm_source=rss&utm_medium=rss&utm_campaign=tecnicos-de-diagnostico-e-terapeutica-da-uls-amadora-sintra-voltam-a-greve-e-concentram-se-no-ministerio-da-saude"
+     ],
+     [
+      "2026-10-25 16:00",
+      "Jornal de Negócios",
+      "Zuckerberg ameaçou sair da Califórnia por causa de um imposto, mas a Meta compensou-o com ações",
+      "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/zuckerberg-ameacou-sair-da-california-por-causa-de-um-imposto-mas-a-meta-compensou-o-com-acoes"
+     ],
+     [
+      "2026-10-23 12:00",
+      "Jornal Económico",
+      "João de Mello reeleito para conselho de administração do Cefic",
+      "https://jornaleconomico.sapo.pt/noticias/joao-de-mello-reeleito-para-conselho-de-administracao-do-cefic/"
+     ],
+     [
+      "2026-10-23 10:26",
+      "ECO",
+      "Conselho de Redação da Lusa critica “falta de frontalidade” da administração",
+      "https://eco.sapo.pt/2026/10/23/conselho-de-redacao-da-lusa-critica-falta-de-frontalidade-da-administracao/"
+     ],
+     [
+      "2026-10-23 10:20",
+      "Executive Digest",
+      "João de Mello reeleito para o conselho de administração da principal associação química europeia",
+      "https://executivedigest.sapo.pt/joao-de-mello-reeleito-para-o-conselho-de-administracao-da-principal-associacao-quimica-europeia/"
+     ],
+     [
+      "2026-10-22 19:22",
+      "ECO",
+      "Proposta “para já” ou pedido da própria? As duas versões da saída da diretora de informação da Lusa",
+      "https://eco.sapo.pt/2026/10/22/proposta-para-ja-ou-pedido-da-propria-as-duas-versoes-da-saida-da-diretora-de-informacao-da-lusa/"
+     ],
+     [
+      "2026-10-21 17:35",
+      "Jornal Económico",
+      "Tribunal de Contas nega estar há dois anos a travar expansão da Linha Vermelha do Metro de Lisboa",
+      "https://jornaleconomico.sapo.pt/noticias/tribunal-de-contas-nega-estar-ha-dois-anos-a-travar-expansao-da-linha-vermelha-do-metro-de-lisboa/"
+     ],
+     [
+      "2026-10-21 17:03",
+      "Observador",
+      "RTP \"precisa de se transformar, não é para desaparecer\"",
+      "https://observador.pt/2026/10/21/rtp-precisa-de-se-transformar-nao-e-para-desaparecer-leitao-amaro-defende-reestrutracao-da-estacao-televisiva/"
+     ],
+     [
+      "2026-10-20 18:40",
+      "Açoriano Oriental",
+      "Direito de Resposta",
+      "https://www.acorianooriental.pt/noticia/direitos-de-resposta-381306"
+     ],
+     [
+      "2026-10-19 17:31",
+      "RTP Notícias",
+      "Mandato do Conselho de Administração do HDES termina a 31 de outubro",
+      "https://acores.rtp.pt/radio/mandato-do-conselho-de-administracao-do-hdes-termina-a-31-de-outubro/"
+     ],
+     [
+      "2026-10-15 09:51",
+      "Ambiente Magazine",
+      "SENAG: Vimágua defende planeamento antecipado e cooperação para reforçar resiliência do setor",
+      "https://www.ambientemagazine.com/senag-vimagua-defende-planeamento-antecipado-e-cooperacao-para-reforcar-resiliencia-do-setor/"
+     ],
+     [
+      "2026-10-14 17:21",
+      "Açoriano Oriental",
+      "Estado mantém maioria no Conselho de Administração e Lufthansa assume gestão operacional",
+      "https://www.acorianooriental.pt/noticia/estado-mantem-maioria-no-conselho-de-administracao-e-lufthansa-assume-gestao-operacional-381118"
+     ],
+     [
+      "2026-10-14 16:55",
+      "Executive Digest",
+      "TAP: Estado mantém maioria no Conselho de Administração e Lufthansa assume gestão operacional",
+      "https://executivedigest.sapo.pt/tap-estado-mantem-maioria-no-conselho-de-administracao-e-lufthansa-assume-gestao-operacional/"
+     ],
+     [
+      "2026-10-14 15:10",
+      "Correio da Manhã",
+      "Estado mantém maioria no Conselho de Administração da TAP e Lufthansa assume gestão operacional",
+      "https://www.cmjornal.pt/economia/amp/estado-mantem-maioria-no-conselho-de-administracao-da-tap-e-lufthansa-assume-gestao-operacional"
+     ],
+     [
+      "2026-10-14 13:32",
+      "ECO",
+      "Estado fica com a maioria no conselho da TAP e Lufthansa com a gestão diária",
+      "https://eco.sapo.pt/2026/10/14/estado-fica-com-a-maioria-no-conselho-da-tap-e-lufthansa-com-a-gestao-diaria/"
+     ],
+     [
+      "2026-10-14 13:01",
+      "CNN Portugal",
+      "Estado vai mandar no Conselho de Administração, Lufthansa manda na Comissão Executiva",
+      "https://cnnportugal.iol.pt/lufthansa/lufthansa-tap/estado-vai-mandar-no-conselho-de-administracao-lufthansa-manda-na-comissao-executiva/20261014/6acf66ead34e9a786e75c1b7"
+     ],
+     [
+      "2026-10-14 07:31",
+      "Healthnews",
+      "Coimbra tem condições para reforçar a saúde global, defende ULS",
+      "https://healthnews.pt/2026/10/14/coimbra-tem-condicoes-para-reforcar-a-saude-global-defende-uls/#utm_source=rss&utm_medium=rss&utm_campaign=coimbra-tem-condicoes-para-reforcar-a-saude-global-defende-uls"
+     ],
+     [
+      "2026-10-14 07:16",
+      "Jornal de Negócios",
+      "Metro de Lisboa encerrado devido a greve de trabalhadores",
+      "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/metro-de-lisboa-encerrado-devido-a-greve-de-trabalhadores"
+     ],
+     [
+      "2026-10-13 19:52",
+      "Notícias ao Minuto",
+      "Aprovada audição de diretora e Conselho de Administração da Lusa na AR",
+      "https://www.noticiasaominuto.com/politica/3066337/aprovada-audicao-de-diretora-e-conselho-de-administracao-da-lusa-na-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-13 19:42",
+      "Executive Digest",
+      "Aprovada audições de Luísa Meireles e Conselho de Administração da Lusa no parlamento",
+      "https://executivedigest.sapo.pt/aprovada-audicoes-de-luisa-meireles-e-conselho-de-administracao-da-lusa-no-parlamento/"
+     ],
+     [
+      "2026-10-12 13:46",
+      "Observador",
+      "Máximo dos Santos deixa administração do Banco de Portugal",
+      "https://observador.pt/2026/10/12/maximo-dos-santos-deixa-administracao-do-banco-de-portugal-no-final-do-mes/"
+     ],
+     [
+      "2026-10-12 12:48",
+      "Ambiente Magazine",
+      "Opinião: “Uma cidade limpa é uma cidade que cuida”",
+      "https://www.ambientemagazine.com/opiniao-uma-cidade-limpa-e-uma-cidade-que-cuida/"
+     ],
+     [
+      "2026-10-12 11:22",
+      "Açoriano Oriental",
+      "Vogal do Conselho de Administração do HDES apresenta escusa de responsabilidade",
+      "https://www.acorianooriental.pt/noticia/vogal-do-conselho-de-administracao-do-hdes-apresenta-escusa-de-responsabilidade-381020"
+     ],
+     [
+      "2026-10-12 06:49",
+      "ECO",
+      "CEO da PPP do Hospital de Cascais: “Candidatámo-nos” a gerir centro de saúde privado na região",
+      "https://eco.sapo.pt/entrevista/ceo-da-ppp-do-hospital-de-cascais-candidatamo-nos-a-gerir-centro-de-saude-privado-na-regiao/"
+     ],
+     [
+      "2026-10-09 20:24",
+      "Observador",
+      "BE questiona Governo sobre saída da diretora da Lusa",
+      "https://observador.pt/2026/10/09/be-questiona-governo-sobre-saida-da-diretora-de-informacao-da-lusa-e-acusa-administracao-de-interferencia-editorial/"
+     ],
+     [
+      "2026-10-09 16:25",
+      "Observador",
+      "CT da Lusa denuncia ingerência editorial da administração",
+      "https://observador.pt/2026/10/09/trabalhadores-da-lusa-denunciam-a-assembleia-da-republica-e-a-erc-ingerencia-editorial/"
+     ],
+     [
+      "2026-10-09 14:23",
+      "Jornal de Notícias",
+      "Trabalhadores da Lusa denunciam ingerência editorial do Conselho de Administração",
+      "https://www.jn.pt/amp/18135267/trabalhadores-da-lusa-denunciam-ingerencia-editorial-do-conselho-de-administracao"
+     ],
+     [
+      "2026-10-09 12:23",
+      "ECO",
+      "Administração da Lusa vai reformular cláusulas do contrato de delegado internacional",
+      "https://eco.sapo.pt/2026/10/09/administracao-da-lusa-vai-reformular-clausulas-do-contrato-de-delegado-internacional/"
+     ],
+     [
+      "2026-10-08 15:37",
+      "RTP Notícias",
+      "Administração da Lusa agradece \"dedicação\" da DI e anuncia \"em breve\" nova equipa",
+      "https://www.rtp.pt/noticias/economia/administracao-da-lusa-agradece-dedicacao-da-di-e-anuncia-em-breve-nova-equipa_n1770351"
+     ],
+     [
+      "2026-10-08 13:25",
+      "ECO",
+      "Mais uma mudança na LVMH. Dior muda gestão",
+      "https://eco.sapo.pt/2026/10/08/mais-uma-mudanca-na-lvmh-dior-muda-gestao/"
+     ],
+     [
+      "2026-10-07 13:51",
+      "Observador",
+      "Moçambique valida estratégia para acelerar acesso à internet",
+      "https://observador.pt/2026/10/07/mocambique-valida-estrategia-para-acelerar-acesso-a-internet-e-inclusao-digital/"
+     ],
+     [
+      "2026-10-06 22:30",
+      "Observador",
+      "CT da Lusa denuncia interferência editorial em Bruxelas",
+      "https://observador.pt/2026/10/06/lusa-trabalhadores-acusam-administracao-de-interferir-na-linha-editorial-ao-propor-nomes-para-delegacao-de-bruxelas/"
+     ],
+     [
+      "2026-10-06 13:00",
+      "Jornal de Negócios",
+      "Gabriel Bernardino: \"Sabendo qual é o objetivo, entende-se muito melhor quais são os riscos\"",
+      "https://www.jornaldenegocios.pt/mercados/detalhe/gabriel-bernardino-sabendo-qual-e-o-objetivo-entende-se-muito-melhor-quais-sao-os-riscos"
+     ],
+     [
+      "2026-10-06 12:03",
+      "Observador",
+      "Dono do Novo Banco compra 7% do Sabadell por 1.200 milhões",
+      "https://observador.pt/2026/10/06/dono-do-novo-banco-compra-7-do-sabadell-por-1-200-milhoes-de-euros/"
+     ],
+     [
+      "2026-10-06 09:20",
+      "Jornal de Negócios",
+      "Dono do Novo Banco compra 7% do Sabadell e quer lugar no conselho de administração",
+      "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/dono-do-novo-banco-compra-7-do-sabadell-e-quer-lugar-no-conselho-de-administracao"
+     ],
+     [
+      "2026-10-03 22:53",
+      "Jornal Económico",
+      "Vítor Ribeiro substitui Juan Carlos Bonifaz como administrador da Ibersol",
+      "https://jornaleconomico.sapo.pt/noticias/vitor-ribeiro-substitui-juan-carlos-bonifaz-como-administrador-da-ibersol/"
+     ],
+     [
+      "2026-10-02 17:33",
+      "Jornal Económico",
+      "Fidelidade conclui compra de 70% da IMGA e eleva ativos sob gestão para 25 mil milhões",
+      "https://jornaleconomico.sapo.pt/noticias/fidelidade-conclui-compra-de-70-da-imga-e-eleva-ativos-sob-gestao-para-25-mil-milhoes/"
+     ],
+     [
+      "2026-10-01 20:11",
+      "RTP Notícias",
+      "Administração da Sonae propõe Cláudia Azevedo para presidente e João Dolores para CEO",
+      "https://www.rtp.pt/noticias/economia/administracao-da-sonae-propoe-claudia-azevedo-para-presidente-e-joao-dolores-para-ceo_n1768966"
+     ],
+     [
+      "2026-10-01 19:06",
+      "Diário de Notícias",
+      "Sonae. Cláudia Azevedo sucede a Paulo Azevedo como presidente do Conselho de Administração",
+      "http://dinheirovivo.dn.pt/empresas/sonae-prope-cludia-azevedo-para-presidente-do-conselho-de-administrao-e-joo-dolores-para-ceo"
+     ],
+     [
+      "2026-10-01 18:58",
+      "Público",
+      "Cláudia Azevedo substituída por João Dolores na liderança da Sonae",
+      "https://www.publico.pt/2026/10/01/economia/noticia/claudia-azevedo-substituida-joao-dolores-lideranca-sonae-2190014"
+     ],
+     [
+      "2026-10-01 18:52",
+      "Jornal Económico",
+      "João Dolores será o novo CEO da Sonae",
+      "https://jornaleconomico.sapo.pt/noticias/joao-dolores-sera-o-novo-ceo-da-sonae/"
+     ],
+     [
+      "2026-10-01 18:51",
+      "Observador",
+      "João Dolores vai ser o novo CEO da Sonae",
+      "https://observador.pt/2026/10/01/claudia-azevedo-deixa-lideranca-da-sonae-joao-dolores-sera-o-novo-ceo/"
+     ],
+     [
+      "2026-10-01 17:23",
+      "Jornal Económico",
+      "António Domingues deixa o Conselho de Administração do Haitong Bank",
+      "https://jornaleconomico.sapo.pt/noticias/antonio-domingues-deixa-o-conselho-de-administracao-do-haitong-bank/"
+     ],
+     [
+      "2026-10-01 09:31",
+      "Executive Digest",
+      "Bison Bank nomeia novo Conselho de Administração e mantém António Henriques como CEO",
+      "https://executivedigest.sapo.pt/bison-bank-nomeia-novo-conselho-de-administracao-e-mantem-antonio-henriques-como-ceo/"
+     ],
+     [
+      "2026-09-30 16:13",
+      "RTP Notícias",
+      "Presidente da Lusa. Agências noticiosas \"são cada vez mais as primeiras a verificar\"",
+      "https://www.rtp.pt/noticias/economia/presidente-da-lusa-agencias-noticiosas-sao-cada-vez-mais-as-primeiras-a-verificar_n1768671"
+     ],
+     [
+      "2026-09-30 11:04",
+      "ECO",
+      "Presidente da Lusa considera “redutor centrar toda a reflexão exclusivamente nos estatutos”",
+      "https://eco.sapo.pt/2026/09/30/presidente-da-lusa-considera-redutor-centrar-toda-a-reflexao-exclusivamente-nos-estatutos/"
+     ],
+     [
+      "2026-09-30 09:34",
+      "Healthnews",
+      "Tribunal da Relação confirma: reportagens da TVI sobre Alexandre Lourenço “não correspondem à verdade”",
+      "https://healthnews.pt/2026/09/30/tribunal-da-relacao-confirma-reportagens-da-tvi-sobre-alexandre-lourenco-nao-correspondem-a-verdade/#utm_source=rss&utm_medium=rss&utm_campaign=tribunal-da-relacao-confirma-reportagens-da-tvi-sobre-alexandre-lourenco-nao-correspondem-a-verdade"
+     ],
+     [
+      "2026-09-29 20:20",
+      "RTP Notícias",
+      "Presidente da Lusa admite que \"todos os modelos\" de governação \"podem ser melhorados\"",
+      "https://www.rtp.pt/noticias/economia/presidente-da-lusa-admite-que-todos-os-modelos-de-governacao-podem-ser-melhorados_n1768506"
+     ],
+     [
+      "2026-09-29 16:50",
+      "RTP Notícias",
+      "CR da Lusa denuncia \"decisões administrativas que permitem a interferência\" na área editorial",
+      "https://www.rtp.pt/noticias/economia/cr-da-lusa-denuncia-decisoes-administrativas-que-permitem-a-interferencia-na-area-editorial_n1768471"
+     ],
+     [
+      "2026-09-29 16:38",
+      "ECO",
+      "CR da Lusa denuncia “decisões administrativas que permitem a interferência” na área editorial",
+      "https://eco.sapo.pt/2026/09/29/cr-da-lusa-denuncia-decisoes-administrativas-que-permitem-a-interferencia-na-area-editorial/"
+     ],
+     [
+      "2026-09-28 18:25",
+      "ECO",
+      "Confagri pede intervenção do Estado face a aumento de custos do setor agroalimentar",
+      "https://eco.sapo.pt/2026/09/28/confagri-pede-intervencao-do-estado-face-a-aumento-de-custos-do-setor-agroalimentar/"
+     ],
+     [
+      "2026-09-28 18:23",
+      "Jornal de Negócios",
+      "\"Custo com jet fuel é preocupação da TAP e de toda a indústria\", garante \"chairman\"",
+      "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/custo-com-jet-fuel-e-preocupacao-da-tap-e-de-toda-a-industria-garante-chairman"
+     ],
+     [
+      "2026-09-28 14:46",
+      "Jornal de Negócios",
+      "Nvidia reforça em 150 mil milhões de dólares programa de recompra de ações",
+      "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/nvidia-reforca-em-150-mil-milhoes-de-dolares-programa-de-recompra-de-acoes"
+     ],
+     [
+      "2026-09-25 12:20",
+      "Jornal Económico",
+      "Joaquim Saurina assume liderança do WiZink após saída de Iheb Nafaa",
+      "https://jornaleconomico.sapo.pt/noticias/joaquim-saurina-assume-lideranca-do-wizink-apos-saida-de-iheb-nafaa/"
+     ],
+     [
+      "2026-09-24 17:38",
+      "RTP Notícias",
+      "Negociações com administração da Lusa terminam sem acordo dizem sindicatos",
+      "https://www.rtp.pt/noticias/economia/negociacoes-com-administracao-da-lusa-terminam-sem-acordo-dizem-sindicatos_n1767515"
+     ],
+     [
+      "2026-09-23 09:24",
+      "RTP Notícias",
+      "Suspensão da Interrupção Voluntária da Gravidez no Garcia de Orta vai até ao Parlamento",
+      "https://www.rtp.pt/noticias/pais/suspensao-da-interrupcao-voluntaria-da-gravidez-no-garcia-de-orta-vai-ate-ao-parlamento_n1767172"
+     ],
+     [
+      "2026-09-21 20:08",
+      "Jornal Económico",
+      "Pedro Portugal Gaspar sai da AIMA e vai ser ouvido para assumir cargo na AdC",
+      "https://jornaleconomico.sapo.pt/noticias/pedro-portugal-gaspar-sai-da-aima-e-vai-ser-ouvido-para-assumir-cargo-na-adc/"
+     ],
+     [
+      "2026-09-21 18:09",
+      "ECO",
+      "Formação executiva do ISEG tem nova administração que quer reforçar ligação às empresas",
+      "https://eco.sapo.pt/2026/09/21/formacao-executiva-do-iseg-tem-nova-administracao-que-quer-reforcar-ligacao-as-empresas/"
+     ],
+     [
+      "2026-09-21 16:41",
+      "ECO",
+      "Pedro Portugal Gaspar deixa presidência da AIMA. Segue-se a Autoridade da Concorrência",
+      "https://eco.sapo.pt/2026/09/21/pedro-portugal-gaspar-troca-aima-pela-autoridade-da-concorrencia/"
+     ],
+     [
+      "2026-09-20 23:00",
+      "Jornal de Negócios",
+      "Um equívoco esclarecedor",
+      "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/um-equivoco-esclarecedor"
+     ]
+    ]
    }
   },
   {
@@ -5559,7 +6495,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5589,14 +6525,20 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 6,
-    "n7": 1,
+    "n": 7,
+    "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
-    "ultima": "2026-11-17 07:04",
+    "ultima": "2026-11-18 18:29",
     "ultimas": [
+     {
+      "data": "2026-11-18",
+      "fonte": "TSF",
+      "titulo": "Parlamento comemora 50 anos das primeiras eleições autárquicas a 11 de dezembro",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFNYckpiemNuV1E4YjFWNGpVT2x1ekc0YVVTMTZEaF9EZVN6R1RLakpEOVl6YnUzMGJvczVackhaQXU5TGFsVDlTOWlEUG5HZDhUZkV1cURiOFB2ekEzN2VkUUlkdFItRW9lLWR1Nkg1NEIxLUQ0SlM0ZHFjQTNWdU50Q3kwb1hmOThyVDdyNXotU0N4cWprS09rVGRLb19sczByWjFobWpQWUZuWEEtYU5PRnBqalozeDJkNF81UWU?oc=5"
+     },
      {
       "data": "2026-11-17",
       "fonte": "ECO",
@@ -5608,15 +6550,15 @@
       "fonte": "Observador",
       "titulo": "Governo quer criar Código do Poder Local",
       "url": "https://observador.pt/2026/10/23/governo-cria-grupo-de-trabalho-para-codigo-do-poder-local-e-quer-simplificar-legislacao-das-autarquias/"
-     },
-     {
-      "data": "2026-10-10",
-      "fonte": "ECO",
-      "titulo": "Territórios precisam de planeamento a longo prazo",
-      "url": "https://eco.sapo.pt/2026/10/10/territorios-precisam-de-planeamento-a-longo-prazo/"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 18:29",
+      "TSF",
+      "Parlamento comemora 50 anos das primeiras eleições autárquicas a 11 de dezembro",
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFNYckpiemNuV1E4YjFWNGpVT2x1ekc0YVVTMTZEaF9EZVN6R1RLakpEOVl6YnUzMGJvczVackhaQXU5TGFsVDlTOWlEUG5HZDhUZkV1cURiOFB2ekEzN2VkUUlkdFItRW9lLWR1Nkg1NEIxLUQ0SlM0ZHFjQTNWdU50Q3kwb1hmOThyVDdyNXotU0N4cWprS09rVGRLb19sczByWjFobWpQWUZuWEEtYU5PRnBqalozeDJkNF81UWU?oc=5"
+     ],
      [
       "2026-11-17 07:04",
       "ECO",
@@ -5687,7 +6629,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5695,7 +6637,92 @@
    }
   }
  ],
- "calendarizacao": [],
+ "calendarizacao": [
+  {
+   "data": "2026-12-01",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões Parlamentares",
+   "horas": ""
+  },
+  {
+   "data": "2026-12-02",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-12-03",
+   "diaSemana": "Quinta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-12-04",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "10h00"
+  },
+  {
+   "data": "2026-12-07",
+   "diaSemana": "Segunda-feira",
+   "atividade": "Contacto com o Eleitorado",
+   "horas": ""
+  },
+  {
+   "data": "2026-12-08",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões",
+   "horas": ""
+  },
+  {
+   "data": "2026-12-09",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-12-10",
+   "diaSemana": "Quinta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-12-11",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Sessão Plenária Alusiva às Comemorações dos 50 Anos das Primeiras Eleições Autárquicas",
+   "horas": "10h00"
+  },
+  {
+   "data": "2026-12-14",
+   "diaSemana": "Segunda-feira",
+   "atividade": "Contacto com o Eleitorado",
+   "horas": ""
+  },
+  {
+   "data": "2026-12-15",
+   "diaSemana": "Terça-feira",
+   "atividade": "Comissões Parlamentares",
+   "horas": ""
+  },
+  {
+   "data": "2026-12-16",
+   "diaSemana": "Quarta-feira",
+   "atividade": "Conferência de Líderes Reunião Plenária",
+   "horas": "10h00 · 15h00"
+  },
+  {
+   "data": "2026-12-17",
+   "diaSemana": "Quinta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": "15h00"
+  },
+  {
+   "data": "2026-12-18",
+   "diaSemana": "Sexta-feira",
+   "atividade": "Reunião Plenária",
+   "horas": ""
+  }
+ ],
  "edicao": {
   "numero": 5,
   "ano": 2026,
@@ -5740,10 +6767,16 @@
     "novos": 4,
     "alterados": 2,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-19",
+    "novos": 3,
+    "alterados": 1,
+    "retirados": 1
    }
   ],
-  "atualizado": "2026-11-18T16:42+00:00",
-  "atualizadoLabel": "18 de novembro, 16h42",
+  "atualizado": "2026-11-19T00:07+00:00",
+  "atualizadoLabel": "19 de novembro, 00h07",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "13 de novembro"
@@ -5922,7 +6955,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 160
+    "encontradas": 154
    },
    "base": {
     "ultima": "2026-11-13 14:09",
@@ -5942,18 +6975,10 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-23",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/economia/governo-visa-excedente-de-at-05-no-oe-2027-mas-teme-boicote-de-ps-e-chega-com-medidas-do-iva",
-     "sintese": "O Governo visa um excedente de até 0,5% no Orçamento do Estado 2027, mas enfrenta críticas de PS e Chega devido a medidas de IVA.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "Montenegro sublinha um 'sinal importante' dado pelo PS, indicando um possível compromisso na elaboração do Orçamento.",
+     "sintese": "O ECO noticiou que o OE2027 deve promover o investimento, a habitação e a competitividade da construção, conforme destacado pelo Dinheiro Vivo e CNN Portugal.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -5961,7 +6986,7 @@
      "data": "2026-10-01",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "O Orçamento 2027 deve promover o investimento, a habitação e a competitividade da construção, segundo a CNN Portugal.",
+     "sintese": "O Executive Digest reportou que o Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, um aspeto relevante do OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -5969,31 +6994,31 @@
      "data": "2026-10-08",
      "fonte": "Renascença",
      "url": "https://rr.pt/especial/politica/2026/10/08/oe-2027-miranda-sarmento-avisa-ps-que-tem-responsabilidade-reforcada-e-alerta-para-efeito-muito-negativo-de-defice/488342/",
-     "sintese": "Miranda Sarmento alerta o PS para a responsabilidade reforçada na gestão do défice, segundo a Renascença.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "A Renascença noticiou que Miranda Sarmento alertou o PS para a responsabilidade reforçada no défice, uma crítica ao partido.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-08",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
-     "sintese": "O Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis, segundo o Executive Digest.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Agroportal",
-     "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "O Orçamento 2027 é criticado por desperdiçar a oportunidade de acelerar a transição ecológica, segundo o Agroportal.",
+     "sintese": "O Agroportal reportou que o OE2027 desperdiça uma oportunidade para acelerar a transição ecológica, uma crítica à proposta.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-09",
+     "fonte": "Agroportal",
+     "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
+     "sintese": "O Jornal de Negócios destacou que a habitação é um foco na discussão da especialidade do OE2027, um tema relevante.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
      "fonte": "Sábado",
      "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O Governo é acusado de não financiar a construção de três novos edifícios hospitalares no Porto, segundo o Sábado.",
+     "sintese": "O PS de Vila Nova de Gaia acusou o Governo de não prever financiamento para um hospital, uma crítica específica.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
@@ -6001,15 +7026,15 @@
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "Empresários consideram que o Orçamento 2027 carece de ambição, mas elogiam o equilíbrio das contas, segundo a SIC Notícias.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "A SIC Notícias reportou que empresários consideram o OE2027 pouco ambicioso, uma crítica.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-12",
      "fonte": "SIC Notícias",
      "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "O Governo destaca um aumento das transferências para a Madeira no Orçamento 2027, segundo o JM Madeira.",
+     "sintese": "O JM Madeira noticiou um aumento das transferências para a Madeira, um aspeto positivo do OE2027.",
      "natureza": "positivo",
      "naturezaLabel": "Positiva"
     },
@@ -6017,39 +7042,31 @@
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "Montenegro responde a Ventura sobre onde trabalhou, segundo a CNN Portugal.",
+     "sintese": "A TSF reportou o início do debate do OE2027 e as eleições em Israel, um contexto para o debate.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-27",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/27/politica/noticia/montenegro-ar-dia-seguro-demarcou-accao-psp-manifestacoes-2192803",
-     "sintese": "Do IRC trocado por combustíveis à descida do IRS, partidos propõem alterações ao Orçamento 2027, segundo o Expresso.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494",
+     "sintese": "A RTP Notícias confirmou a subida do salário mínimo para 970 euros, uma medida positiva.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
     },
     {
      "data": "2026-11-06",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-2027-governo-confirma-salario-minimo-nos-970-euros_v1777515",
+     "sintese": "O Expresso noticiou que Portugal precisa de crescer mais e convergir, um aspeto relevante.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-10",
      "fonte": "Expresso",
-     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-do-irc-trocado-por-combustiveis-a-descida-do-irs-veja-aqui-algumas-das-mais-duas-mil-alteracoes-que-os-partidos-querem-fazer-ao-oe-2027-257a06b8",
-     "sintese": "AD realiza sessões em todos os distritos sobre o Orçamento 2027, segundo o ECO.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-12",
-     "fonte": "ECO",
-     "url": "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/",
-     "sintese": "Associação de Condomínios propõe IVA a 6% nas obras e deduções em IRS, segundo o Jornal Económico.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-14",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/",
-     "sintese": "Chega/Açores apresenta 22 propostas para o Orçamento 2027, segundo o Açoriano Oriental.",
+     "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4",
+     "sintese": "O Notícias ao Minuto reportou que o Chega apresentou 22 propostas para o OE2027, um aspeto relevante.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6057,7 +7074,7 @@
      "data": "2026-11-14",
      "fonte": "Notícias ao Minuto",
      "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "Chega apresenta medidas específicas para os Açores no âmbito do Orçamento 2027, segundo o Açoriano Oriental.",
+     "sintese": "O Açoriano Oriental noticiou que o Chega apresentou medidas específicas para os Açores, um aspeto relevante.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -6065,53 +7082,69 @@
      "data": "2026-11-14",
      "fonte": "Açoriano Oriental",
      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068",
-     "sintese": "Debate e votação na especialidade do Orçamento 2027 começam com mais de 2.800 propostas de alteração, segundo o Observador.",
+     "sintese": "O ECO reportou que a discussão na especialidade do OE2027 inclui impostos, habitação, pensões e energia, um aspeto relevante.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-18",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/economia/oe2027-debate-e-votacao-na-especialidade-comecam-com-recorde-de-propostas-de-alteracao_n1779899",
-     "sintese": "Governo garante que propostas da oposição condenariam o país a um procedimento por défice excessivo, segundo o Diário de Notícias.",
+     "fonte": "Jornal de Negócios",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5",
+     "sintese": "O Diário de Notícias noticiou que o PS forçou a conversão de um bónus nas pensões numa atualização permanente, um aspeto relevante.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/",
+     "sintese": "O Observador reportou que começou o debate e a votação na especialidade do OE2027, um aspeto relevante.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira",
+     "sintese": "O Público noticiou que o AD alerta para coligações negativas no OE2027, um aspeto relevante.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-18",
      "fonte": "Observador",
-     "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/",
-     "sintese": "7h. OE 2027. Governo garante estar aberto ao diálogo",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5",
+     "sintese": "O Público reportou que o Governo criou uma garantia pública para o pagamento de rendas proposta pelo PS, um aspeto relevante.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-18",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao",
-     "sintese": "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "fonte": "Público",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5",
+     "sintese": "O Jornal de Negócios noticiou que o Governo é obrigado a criar uma garantia pública para o pagamento de rendas, um aspeto relevante.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-18",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira",
-     "sintese": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/",
+     "sintese": "O Público reportou que o CDS-PP e o IL votaram contra a garantia pública para o pagamento de rendas proposta pelo PS, um aspeto relevante.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 291
+    "encontradas": 295
    },
    "base": {
-    "ultima": "2026-11-18 14:26",
-    "em": "2026-11-18"
+    "ultima": "2026-11-18 22:08",
+    "em": "2026-11-19"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos meses, a cobertura mediática tem acompanhado de perto a elaboração e discussão do Orçamento do Estado para 2027, com foco em temas como o investimento, a habitação, a competitividade da construção e a transição ecológica. Várias notícias destacam críticas ao Governo por falta de financiamento para projetos específicos, como o Hospital de Gaia, e questionam a ambição das medidas propostas. Por outro lado, outras notícias apresentam posições favoráveis ao Orçamento, como o anúncio de aumentos de transferências para a Madeira e a abertura do Governo ao diálogo. A discussão na especialidade do Orçamento tem sido marcada por um elevado número de propostas de alteração, evidenciando um debate amplo e diversificado sobre as políticas públicas."
+   "enquadramento": "A cobertura mediática de 60 dias sobre o Orçamento do Estado para 2027 (OE2027) focou-se em vários aspetos, incluindo a discussão de medidas, críticas e propostas de alteração. Inicialmente, o debate centrou-se em temas como investimento, habitação e competitividade da construção, conforme noticiado pelo Dinheiro Vivo e CNN Portugal. Posteriormente, a cobertura evoluiu para incluir críticas específicas, como a falta de financiamento para o Hospital de Gaia, reportada pelo Healthnews. Entretanto, foram apresentadas propostas de alteração por diversos partidos, com o PS a forçar a conversão de um bónus nas pensões numa atualização permanente, conforme noticiado pelo Observador. O Jornal Económico destacou a necessidade de o Governo criar uma garantia pública para o pagamento de rendas, proposta pelo PS, enquanto o Público reportou a oposição do PSD, CDS-PP e IL. A cobertura também incluiu anúncios positivos, como o aumento das transferências para a Madeira, reportado pelo JM Madeira, e a confirmação do salário mínimo nos 970 euros, conforme noticiado pela RTP Notícias."
   },
   "2026-11-24-48677-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
@@ -6286,13 +7319,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 291
+    "encontradas": 295
    },
    "base": {
     "ultima": "2026-11-14 20:20",
     "em": "2026-11-15"
    },
-   "novas": 8,
+   "novas": 15,
    "enquadramento": "Nos últimos meses, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre o seu impacto em áreas como o investimento, a habitação, a transição ecológica e as transferências para as regiões autónomas. O Governo confirmou a subida do salário mínimo para 970 euros e reviu as previsões de despesa, enquanto partidos como o PSD, o CDS-PP e o Chega apresentaram propostas específicas para as suas regiões. A cobertura inclui críticas sobre a falta de financiamento para projetos importantes, como o Hospital de Gaia, e elogios ao equilíbrio das contas públicas. A discussão sobre o OE2027 tem sido acompanhada por sessões de esclarecimento em todo o país, com a participação de ministros e dirigentes dos partidos da coligação governamental."
   },
   "2026-11-18-48673-or-amento-do-estado-2027": {
@@ -6468,13 +7501,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 291
+    "encontradas": 295
    },
    "base": {
     "ultima": "2026-11-14 10:01",
     "em": "2026-11-14"
    },
-   "novas": 10,
+   "novas": 17,
    "enquadramento": "A cobertura mediática sobre o Orçamento do Estado 2027 começou com anúncios governamentais e de parceiros sociais, como a confirmação do salário mínimo e a discussão de prioridades como investimento, habitação e competitividade. Grupos parlamentares e empresários expressaram opiniões sobre a ambição e o equilíbrio das contas, com críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia. Entretanto, foram apresentadas propostas de alteração focadas em habitação, infraestruturas e políticas fiscais, como a redução do IVA para obras em condomínios. O debate evoluiu para incluir perspetivas regionais, como as transferências para a Madeira, e temas transversais como a transição ecológica e a eficiência na saúde."
   },
   "2026-11-18-48700-escrut-nio-de-iniciativa-europeia-sobre-seg": {
@@ -6680,13 +7713,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 291
+    "encontradas": 295
    },
    "base": {
     "ultima": "2026-11-18 14:26",
     "em": "2026-11-18"
    },
-   "novas": 0,
+   "novas": 5,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem acompanhado de perto a sua elaboração e discussão parlamentar, com foco em medidas fiscais, transferências para regiões autónomas, saúde e habitação. As notícias revelam críticas de partidos como o PS e Chega, que questionam a falta de financiamento para projetos específicos, como o Hospital de Gaia, e alertam para potenciais riscos de défice. Por outro lado, o Governo e partidos como a AD e CDS-PP destacam avanços como o aumento de transferências para a Madeira e a abertura ao diálogo. A discussão na especialidade, iniciada a 18 de novembro, evidenciou um elevado número de propostas de alteração, refletindo a complexidade e diversidade de interesses em jogo. A cobertura, embora polarizada, mantém um tom de relevância para a matéria em análise, com ênfase em impactos económicos e sociais."
   },
   "2026-11-17-48711-audi-o-com-a-secret-ria-de-estado-dos-assun": {
@@ -6743,44 +7776,68 @@
     }
    ],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -6790,22 +7847,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -8504,18 +9573,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    },
@@ -8554,11 +9611,11 @@
    "ligacoes": [],
    "varrimento": "2026-11-17-48695-grupo-de-trabalho-de-escrut-nio-de-iniciati",
    "cobertura": {
-    "n": 160,
-    "n7": 3,
-    "n7ant": 9,
+    "n": 154,
+    "n7": 1,
+    "n7ant": 10,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
     "ultima": "2026-11-13 14:09",
     "ultimas": [
@@ -9505,42 +10562,6 @@
       "Jornal Económico",
       "Portugal sem linhas vermelhas absolutas mas com reservas sobre novas receitas da UE",
       "https://jornaleconomico.sapo.pt/noticias/portugal-sem-linhas-vermelhas-absolutas-mas-com-reservas-sobre-novas-receitas-da-ue/"
-     ],
-     [
-      "2026-09-19 15:08",
-      "Jornal de Negócios",
-      "PM quer que próximo Orçamento da UE privilegie coesão e política agrícola comum",
-      "https://www.jornaldenegocios.pt/economia/detalhe/pm-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum"
-     ],
-     [
-      "2026-09-19 14:42",
-      "Sábado",
-      "Montenegro quer que próximo Orçamento da UE privilegie coesão e política agrícola comum",
-      "https://www.sabado.pt/portugal/detalhe/montenegro-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum"
-     ],
-     [
-      "2026-09-19 14:39",
-      "Notícias ao Minuto",
-      "PM quer que próximo Orçamento da UE privilegie coesão e política agrícola",
-      "https://www.noticiasaominuto.com/pais/3054151/pm-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-09-19 14:30",
-      "Público",
-      "Nem “voluntarista nem “pai da austeridade”: a promessa de Luís Montenegro",
-      "https://www.publico.pt/2026/09/19/politica/noticia/voluntarista-pai-austeridade-promessa-luis-montenegro-2188638"
-     ],
-     [
-      "2026-09-19 13:51",
-      "Correio da Manhã",
-      "Primeiro-ministro quer que próximo Orçamento da UE privilegie coesão e política agrícola comum",
-      "https://www.cmjornal.pt/politica/amp/primeiro-ministro-quer-que-proximo-orcamento-da-ue-privilegie-coesao-e-politica-agricola-comum"
-     ],
-     [
-      "2026-09-19 06:08",
-      "Público",
-      "Coesão, regiões ultraperiféricas e competitividade: as prioridades do Governo para negociar orçamento da UE",
-      "https://www.publico.pt/2026/09/19/economia/noticia/coesao-regioes-ultraperifericas-competitividade-prioridades-governo-negociar-orcamento-ue-2188541"
      ]
     ]
    },
@@ -9608,7 +10629,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -9647,44 +10668,68 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -9694,22 +10739,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -11408,18 +12465,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    },
@@ -11507,7 +12552,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
     "ultima": "2026-09-20 14:59",
     "ultimas": [
@@ -11563,44 +12608,68 @@
     }
    ],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -11610,22 +12679,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -13324,18 +14405,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    },
@@ -13380,44 +14449,68 @@
    "periodo": "Manhã",
    "ligacoes": [],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -13427,22 +14520,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -15141,18 +16246,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    },
@@ -15216,44 +16309,68 @@
     }
    ],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -15263,22 +16380,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -16977,18 +18106,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    },
@@ -17034,44 +18151,68 @@
    "ligacoes": [],
    "varrimento": "2026-11-18-48673-or-amento-do-estado-2027",
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -17081,22 +18222,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -18795,18 +19948,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    },
@@ -18867,44 +20008,68 @@
     }
    ],
    "cobertura": {
-    "n": 291,
-    "n7": 15,
-    "n7ant": 25,
+    "n": 295,
+    "n7": 19,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "expressoes",
-    "ultima": "2026-11-18 14:26",
+    "ultima": "2026-11-18 22:08",
     "ultimas": [
      {
       "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     },
+     {
+      "data": "2026-11-18",
       "fonte": "Jornal de Negócios",
-      "titulo": "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "titulo": "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
      },
      {
       "data": "2026-11-18",
-      "fonte": "Diário de Notícias",
-      "titulo": "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
-      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "ECO",
-      "titulo": "Impostos, habitação, pensões e energia: as principais propostas dos partidos para o OE2027",
-      "url": "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
+      "fonte": "Jornal Económico",
+      "titulo": "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
      }
     ],
     "todas": [
      [
-      "2026-11-18 14:26",
+      "2026-11-18 22:08",
+      "Jornal Económico",
+      "OE2027: Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/"
+     ],
+     [
+      "2026-11-18 21:42",
       "Jornal de Negócios",
-      "Governo acusa oposição de \"oportunismo\" na habitação, oposição fala em ridicularização do trabalho parlamentar",
+      "Eventual suplemento de pensões de 2027 será permanente. Aprovada garantia pública ao arrendamento",
       "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-discussao-e-votacao-das-2-800-propostas-de-alteracao-na-especialidade"
+     ],
+     [
+      "2026-11-18 20:06",
+      "Jornal Económico",
+      "OE2027: Aprovada proposta do Chega para RTP assegurar transmissão de touradas",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-aprovada-proposta-do-chega-para-rtp-assegurar-transmissao-de-touradas/"
+     ],
+     [
+      "2026-11-18 18:28",
+      "Público",
+      "AD alerta para “coligações negativas” no OE2027, mas sai “mais descansada” pelo Chega | Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEpOZWYwWDdEc3dITTdOdFRRTktnRUJvVXBDTUx1M2xsNmxEaWtqQl9fNHdhSHhmcTRmcVJkVkw5dUp1SDdvVUtrckpwR09SMWd5MmpnVFhRVG9HS2ZaTnZqSGVGZTlKMU5wai1LN0JLeWpMNEJWX080NDA5VXNmVllRcTItaXFSMlU2SHAtSEtUNE5wMndTLW5qMlhRNk91ZWxXODFhS244VXVFeWtuMURISUlpVGls?oc=5"
+     ],
+     [
+      "2026-11-18 16:20",
+      "Observador",
+      "17h. Começou hoje o debate e a votação na especialidade da proposta do Orçamento do Estado 2027",
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydUdxT0lJbFE0VTNDM1ZzTWJYX2ZfemFwcVFCdEdhLWNVZ0hvWHBEMkM1VmJBUFFDazlHemxvNEU0anRObnZ2amhNbWV6MkpPRXBoamJ3eWZzbHIzdm1jU09OWUo5TjRFek9fSnpGaUdzRTF5QmEw?oc=5"
      ],
      [
       "2026-11-18 12:49",
       "Diário de Notícias",
-      "OE 2027: Governo diz que propostas da oposição condenariam país a \"procedimento por défice excessivo\"",
+      "OE 2027: PS força conversão de eventual bónus nas pensões numa atualização permanente",
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-assembleia-comea-debate-na-especialidade-esta-quarta-feira"
      ],
      [
@@ -18914,22 +20079,34 @@
       "https://eco.sapo.pt/2026/11/18/impostos-habitacao-pensoes-e-energia-as-principais-propostas-dos-partidos-para-o-oe2027/"
      ],
      [
+      "2026-11-18 10:15",
+      "Jornal de Negócios",
+      "OE 2027: Habitação em foco na discussão na especialidade",
+      "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTk5RVl1RW5RQzFkNldqVC11RXo4UjB2ZXhLdVMtTWNHZGhrUDNqT2M1OThYazVvdGlYbFNHSXNzRFN1alMtZW03YjJ4bFVlamJ3OGVfam80N0tJYUhrbDN4MDZIMDN0REZaVGsyT08yaUtUcmEyNjFiakdFclFIZUZvTzlPUmhVWERJcFBfQ3ZSanpPYlhDdkNMV2FDUHZteV9qQjhqOHNFZG1DTnNKR3hSQWp2SVp5V29BbWt4MzBpSjlyQ1VLUC14YjViRzRzQ1dFbFpiQmZmdkpuVUxvZmRUZFE3WW1IbGZ6NFFmU2EzcUJ4SF9mUDE1WUNRUnVMV0ZqVkVYX1A4aS1KVFHSAY4CQVVfeXFMUFU5OUVZdUVuUUMxZDZXalQtdUV6OFIwdmV4S3VTLU1jR2Roa1Azak9jNTk4WGs1b3RpWGxTR0lzc0RTdWpTLWVtN2IyeGxVZWpidzhlX2pvNDdLSWFIa2wzeDA2SDAzdERGWlRrMk9PMmlLVHJhMjYxYmpHRXJRSGVGb085T1JoVVhESXBQX0N2Ump6T2JYQ3ZDTFdhQ1B2bXlfakI4ajhzRWRtQ05zSkd4UkFqdklaeVdvQW1reDMwaUo5ckNVS1AteGI1Ykc0c0NXRWxaYkJmZnZKblVMb2ZkVGRRN1ltSGxmejRRZlNhM3FCeEhfZlAxNVlDUVJ1TFdGalZFWF9QOGktSlRR?oc=5"
+     ],
+     [
       "2026-11-18 09:49",
       "ECO",
       "“Estamos a assistir a um Orçamento de fim de ciclo”, avisa PS. Siga aqui",
       "https://eco.sapo.pt/2026/11/18/maratona-das-propostas-de-alteracao-ao-oe2027-arranca-hoje-siga-aqui/"
      ],
      [
+      "2026-11-18 09:13",
+      "Renascença",
+      "OE 2027 começa discussão na especialidade. O que deve ser aprovado?",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnIwOUlpQXFWWENDT01TcXR4RVdPLW9OeUk1UEl3QkZYS3RxRjFmMnN3MUNFaGtuVGthT2VyLTB1eUtVdVBfSzA1bXlKbkFUQVR5MmJYX09sQ1g4V3J4ZU5sZkl2d2w0UlZEc05VUTJlSEJxYzJTc1MzTXAtUnA0dFc1anhSazhRWldJbDJYQndFajBXS04zVkxrbzlNb0lsWWRaeGNDYXFTM3ZjNlViOTcxam9IMnFHdlk5NXgxY2RMNmhBclE?oc=5"
+     ],
+     [
+      "2026-11-18 07:18",
+      "Jornal de Negócios",
+      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGlIazlUejRidm9YTTBHT1NMQndKSnVtOFhTendHZFh2MnBXSEwyaFVvQWktaFZIemZLZFpSNWFyZ0JuZDhzblAwVjgwMWhXbFBkZHo5WVRJWW1JdmV4Z0psUG5BWm9QSXVTY3pfeV9oSmJocVh5eDN4T2lBVkNWbWVTTG1KZ1NGUDdrRk9KMDZ4UWxHT09jZnNaYTluSEhoTGhvNDZvY2ZJempKYWstRy1hdWlVVHJKSTE2bTc5bUJEQXVGa1ViWEh4NmJ0TjlPYlQ4TC1qX0E0c2JCd1ZpZDd1VE5WU1pKdDFHQUJBMDJ4MUJoUkJ6NVVPWXZ0Yy1tM3BSeEt4eWszUdIBhAJBVV95cUxQNUszM24wcjFXN0VwTnBtVC0tUktGR3ZBbFloX21FcncxSElBZnhERHVEQ05qTGhiWTVRY090b3E2NlBLX00ycndneVdRNnEtVVBUeEpLQlh0aEVFRGs1Mk9JQTRhZkZGaV9ielZDMXdfZFlYQURKU0xhUTc1VE00NzFRbWZsalNYUVRjZVJqM1Vkd1drYTFSem5MS2FpcFdrMndLQmpXOWJWeEZqcHYtbWVTQzRjMkZzeTZjTWJCNHBpUTBfWS1MRW92NzJVZDlEbS1ub2x2STJUeVgzREQycHZyckx2MFdKQll0Uk9DajhHbDVXOWt1Yjd2dVlXZ05ZaDdDWg?oc=5"
+     ],
+     [
       "2026-11-18 07:17",
       "Observador",
       "7h. OE 2027. Governo garante estar aberto ao diálogo",
       "https://observador.pt/programas/noticiario/as-noticias-das-7h-2567/"
-     ],
-     [
-      "2026-11-18 07:17",
-      "Jornal de Negócios",
-      "Arrancam o debate e votação do OE 2027 na especialidade. Feitas 2.800 propostas de alteração",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/arrancam-o-debate-e-votacao-do-oe-2027-na-especialidade-feitas-2-800-propostas-de-alteracao"
      ],
      [
       "2026-11-18 07:02",
@@ -20628,18 +21805,6 @@
       "Jornal de Negócios",
       "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
-     ],
-     [
-      "2026-09-19 12:28",
-      "Observador",
-      "\"OE 2027. \"Não deve desvalorizar o investimento privado\"",
-      "https://observador.pt/programas/explicador/oe-2027-nao-deve-desvalorizar-o-investimento-privado/"
-     ],
-     [
-      "2026-09-19 12:11",
-      "Observador",
-      "12h. OE 2027. CIP defende aposta no investimento privado",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2447/"
      ]
     ]
    },
@@ -20682,7 +21847,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20742,7 +21907,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20776,7 +21941,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -20841,7 +22006,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20880,7 +22045,7 @@
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "2026-11-13 13:41",
     "ultimas": [
@@ -20959,7 +22124,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -20999,7 +22164,7 @@
     "n7": 0,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "2026-11-09 11:29",
     "ultimas": [
@@ -21207,41 +22372,6 @@
    }
   },
   {
-   "tema": "Assistências à Sessão Plenária",
-   "data": "2026-11-18",
-   "hora": "10h00",
-   "interveniente": "",
-   "tipoLabel": "Assistências ao Plenário",
-   "resumo": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada\n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Instituto Superior de Contabilidade e Administração de Coimbra\n10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola B/S Lima de Freitas, Setúbal\n10h00 - 11h15 - Um grupo de 45 alunos e professores da Escola Básica de Mação\n10h00 - 11h15 - Um grupo de 45 Autarcas do concelho de Castro Marim\n10h00 - 11h15 - Um grupo de 10 alunos de Direito, Coimbra\n11h30 - 13h00 - Um grupo de 34 alunos e professores da Escola Secundária de Leal da Câmara, Sintra\n11h30 - 13h00 - Um grupo de 136 alunos e professores da  Escola Secundária de Sertã",
-   "orgao": "Assistências à Sessão Plenária",
-   "id_ar": 48707,
-   "chave": "ar-48707",
-   "dataLabel": "quarta, 18 nov",
-   "tipo": [
-    "Assistências ao Plenário"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Manhã",
-   "ligacoes": [],
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-18",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   },
-   "alterado": "2026-11-13"
-  },
-  {
    "tema": "Reunião Plenária",
    "data": "2026-11-18",
    "hora": "10h00",
@@ -21274,12 +22404,47 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
    }
+  },
+  {
+   "tema": "Assistências à Sessão Plenária",
+   "data": "2026-11-18",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada    \n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Ved",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola Secundária de Cacilhas-Tejo, Almada    \n10h00 - 11h15 - Um grupo de 57 cidadãos da Associação de Reformados Poveiros, Póvoa do Varzim\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Agrupamento de Escolas de São Gonçalo, Torres Vedras\n10h00 - 11h15 - Um grupo de 50 alunos e professores do Instituto Superior de Contabilidade e Administração de Coimbra\n10h00 - 11h15 - Um grupo de 23 alunos e professores da Escola B/S Lima de Freitas, Setúbal\n10h00 - 11h15 - Um grupo de 45 alunos e professores da Escola Básica de Mação\n10h00 - 11h15 - Um grupo de 45 Autarcas do concelho de Castro Marim\n10h00 - 11h15 - Um grupo de 10 alunos de Direito, Coimbra            \n11h30 - 13h00 - Um grupo de 34 alunos e professores da Escola Secundária de Leal da Câmara, Sintra\n11h30 - 13h00 - Um grupo de 136 alunos e professores da  Escola Secundária de Sertã",
+   "orgao": "Assistências à Sessão Plenária",
+   "id_ar": 48707,
+   "chave": "ar-48707",
+   "dataLabel": "quarta, 18 nov",
+   "tipo": [
+    "Assistências ao Plenário"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-19",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   },
+   "alterado": "2026-11-19"
   },
   {
    "tema": "Conferência de Líderes",
@@ -21304,34 +22469,52 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 8,
-    "n7": 0,
+    "n": 11,
+    "n7": 3,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
-    "ultima": "2026-11-01 15:50",
+    "ultima": "2026-11-18 20:07",
     "ultimas": [
      {
-      "data": "2026-11-01",
+      "data": "2026-11-18",
       "fonte": "Observador",
-      "titulo": "PCP quer debate de urgência no Parlamento sobre cargas",
-      "url": "https://observador.pt/2026/11/01/pcp-aponta-governo-como-o-maior-fator-de-instabilidade-no-pais-e-quer-debate-de-urgencia-no-parlamento/"
+      "titulo": "Eleições para fiscalização das \"secretas\" a 18 de dezembro",
+      "url": "https://observador.pt/2026/11/18/parlamento-marca-para-18-de-dezembro-eleicoes-do-cfsirp-e-da-lusa-apos-dois-adiamentos-na-sessao-legislativa/"
      },
      {
-      "data": "2026-10-22",
+      "data": "2026-11-18",
       "fonte": "Observador",
-      "titulo": "Rita Matias propõe criação de sala de amamentação na AR",
-      "url": "https://observador.pt/2026/10/22/rita-matias-propoe-criacao-de-sala-de-amamentacao-no-parlamento/"
+      "titulo": "Debate quinzenal pós-OE com Montenegro a 10 de dezembro",
+      "url": "https://observador.pt/2026/11/18/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro/"
      },
      {
-      "data": "2026-10-07",
-      "fonte": "Jornal Económico",
-      "titulo": "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
-      "url": "https://jornaleconomico.sapo.pt/noticias/parlamento-aprova-audicao-da-ministra-do-trabalho-e-cga-sobre-erro-no-calculo-de-pensoes/"
+      "data": "2026-11-18",
+      "fonte": "Açoriano Oriental",
+      "titulo": "Montenegro tem o seu primeiro debate quinzenal pós-Orçamento a 10 de dezembro",
+      "url": "https://www.acorianooriental.pt/noticia/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro-382185"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 20:07",
+      "Observador",
+      "Eleições para fiscalização das \"secretas\" a 18 de dezembro",
+      "https://observador.pt/2026/11/18/parlamento-marca-para-18-de-dezembro-eleicoes-do-cfsirp-e-da-lusa-apos-dois-adiamentos-na-sessao-legislativa/"
+     ],
+     [
+      "2026-11-18 18:37",
+      "Observador",
+      "Debate quinzenal pós-OE com Montenegro a 10 de dezembro",
+      "https://observador.pt/2026/11/18/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro/"
+     ],
+     [
+      "2026-11-18 18:04",
+      "Açoriano Oriental",
+      "Montenegro tem o seu primeiro debate quinzenal pós-Orçamento a 10 de dezembro",
+      "https://www.acorianooriental.pt/noticia/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro-382185"
+     ],
      [
       "2026-11-01 15:50",
       "Observador",
@@ -21411,7 +22594,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21445,7 +22628,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21482,34 +22665,52 @@
    ],
    "novo": "2026-11-18",
    "cobertura": {
-    "n": 8,
-    "n7": 0,
+    "n": 11,
+    "n7": 3,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
-    "ultima": "2026-11-01 15:50",
+    "ultima": "2026-11-18 20:07",
     "ultimas": [
      {
-      "data": "2026-11-01",
+      "data": "2026-11-18",
       "fonte": "Observador",
-      "titulo": "PCP quer debate de urgência no Parlamento sobre cargas",
-      "url": "https://observador.pt/2026/11/01/pcp-aponta-governo-como-o-maior-fator-de-instabilidade-no-pais-e-quer-debate-de-urgencia-no-parlamento/"
+      "titulo": "Eleições para fiscalização das \"secretas\" a 18 de dezembro",
+      "url": "https://observador.pt/2026/11/18/parlamento-marca-para-18-de-dezembro-eleicoes-do-cfsirp-e-da-lusa-apos-dois-adiamentos-na-sessao-legislativa/"
      },
      {
-      "data": "2026-10-22",
+      "data": "2026-11-18",
       "fonte": "Observador",
-      "titulo": "Rita Matias propõe criação de sala de amamentação na AR",
-      "url": "https://observador.pt/2026/10/22/rita-matias-propoe-criacao-de-sala-de-amamentacao-no-parlamento/"
+      "titulo": "Debate quinzenal pós-OE com Montenegro a 10 de dezembro",
+      "url": "https://observador.pt/2026/11/18/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro/"
      },
      {
-      "data": "2026-10-07",
-      "fonte": "Jornal Económico",
-      "titulo": "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
-      "url": "https://jornaleconomico.sapo.pt/noticias/parlamento-aprova-audicao-da-ministra-do-trabalho-e-cga-sobre-erro-no-calculo-de-pensoes/"
+      "data": "2026-11-18",
+      "fonte": "Açoriano Oriental",
+      "titulo": "Montenegro tem o seu primeiro debate quinzenal pós-Orçamento a 10 de dezembro",
+      "url": "https://www.acorianooriental.pt/noticia/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro-382185"
      }
     ],
     "todas": [
+     [
+      "2026-11-18 20:07",
+      "Observador",
+      "Eleições para fiscalização das \"secretas\" a 18 de dezembro",
+      "https://observador.pt/2026/11/18/parlamento-marca-para-18-de-dezembro-eleicoes-do-cfsirp-e-da-lusa-apos-dois-adiamentos-na-sessao-legislativa/"
+     ],
+     [
+      "2026-11-18 18:37",
+      "Observador",
+      "Debate quinzenal pós-OE com Montenegro a 10 de dezembro",
+      "https://observador.pt/2026/11/18/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro/"
+     ],
+     [
+      "2026-11-18 18:04",
+      "Açoriano Oriental",
+      "Montenegro tem o seu primeiro debate quinzenal pós-Orçamento a 10 de dezembro",
+      "https://www.acorianooriental.pt/noticia/montenegro-tem-o-seu-primeiro-debate-quinzenal-pos-orcamento-a-10-de-dezembro-382185"
+     ],
      [
       "2026-11-01 15:50",
       "Observador",
@@ -21588,7 +22789,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -21654,7 +22855,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21688,7 +22889,219 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Reunião Plenária",
+   "data": "2026-11-19",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
+   "resumo": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "ordemTrabalhos": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "orgao": "Reunião Plenária",
+   "id_ar": 48718,
+   "chave": "ar-48718",
+   "dataLabel": "quinta, 19 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-19",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-19",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Abertura do XX Encontro Anual do Conselho Superior da Magistratura",
+   "data": "2026-11-19",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Pavilhão de Portugal, Lisboa",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de abertura do XX Encontro Anual do Conselho Superior da Magistratura.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de abertura do XX Encontro Anual do Conselho Superior da Magistratura.",
+   "orgao": "Abertura do XX Encontro Anual do Conselho Superior da Magistratura",
+   "id_ar": 48720,
+   "chave": "ar-48720",
+   "dataLabel": "quinta, 19 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-19",
+   "cobertura": {
+    "n": 12,
+    "n7": 7,
+    "n7ant": 2,
+    "dias": 60,
+    "ref": "2026-11-19",
+    "metodo": "palavras",
+    "ultima": "2026-11-16 12:21",
+    "ultimas": [
+     {
+      "data": "2026-11-16",
+      "fonte": "Açoriano Oriental",
+      "titulo": "Vice-líder dos juízes lamenta que colegas com casos mediáticos sejam alvo de descrédito",
+      "url": "https://www.acorianooriental.pt/noticia/vice-lider-dos-juizes-lamenta-que-colegas-com-casos-mediaticos-sejam-alvo-de-descredito-382102"
+     },
+     {
+      "data": "2026-11-15",
+      "fonte": "Público",
+      "titulo": "CSM denuncia acções para descredibilizar juízes de processos mediáticos",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDVObXlzTTBKV1JiX0Z4XzhxZ29hcXdkSjVzVEJfUktiRnFJeE5fVU9zWFhWT3IxaXN6LTAxMlBvYS05TmJkcDl3ZUc1OXktd2E5cDdzU2o1OFFNa0RmYzdLdDY4T2xFZ3dWcEtQeUJfMmpEV0loOWZaMmQ0Tkl6aUpKNnNZYmxPZW55UFlHWkFVMHNnTE05dk82VHhfamhYZ2tqdW1XN1lFVnl5a1JHM0JJT3VUVWVlaUpwa001MGc?oc=5"
+     },
+     {
+      "data": "2026-11-15",
+      "fonte": "TSF",
+      "titulo": "Conselho Superior da Magistratura pede \\\"enorme programa de reabilitação dos tribunais\\\"",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY210LWhnYVp3OFFNZm5vZ3BDYm51TVJRaGRjNnlLM2ZQUlZKeEhkY28wX2pldXRQVG1xSlRwaHRhUXNua1N4d3BOak1jd2ZIclJfRzNITWh6SFpEUDZHTmVzQTJibWItWmkyd1duT3UzVm5BdzhJcjQ4dE15WWgtQVNUcVU2bEZuNzFrWU9jSWhpRlRGa2RXYW42a3J3RV9rSVgyaHVGa05kWVZ3bGpYeE53X3locGs?oc=5"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-16 12:21",
+      "Açoriano Oriental",
+      "Vice-líder dos juízes lamenta que colegas com casos mediáticos sejam alvo de descrédito",
+      "https://www.acorianooriental.pt/noticia/vice-lider-dos-juizes-lamenta-que-colegas-com-casos-mediaticos-sejam-alvo-de-descredito-382102"
+     ],
+     [
+      "2026-11-15 12:46",
+      "Público",
+      "CSM denuncia acções para descredibilizar juízes de processos mediáticos",
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDVObXlzTTBKV1JiX0Z4XzhxZ29hcXdkSjVzVEJfUktiRnFJeE5fVU9zWFhWT3IxaXN6LTAxMlBvYS05TmJkcDl3ZUc1OXktd2E5cDdzU2o1OFFNa0RmYzdLdDY4T2xFZ3dWcEtQeUJfMmpEV0loOWZaMmQ0Tkl6aUpKNnNZYmxPZW55UFlHWkFVMHNnTE05dk82VHhfamhYZ2tqdW1XN1lFVnl5a1JHM0JJT3VUVWVlaUpwa001MGc?oc=5"
+     ],
+     [
+      "2026-11-15 10:54",
+      "TSF",
+      "Conselho Superior da Magistratura pede \\\"enorme programa de reabilitação dos tribunais\\\"",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY210LWhnYVp3OFFNZm5vZ3BDYm51TVJRaGRjNnlLM2ZQUlZKeEhkY28wX2pldXRQVG1xSlRwaHRhUXNua1N4d3BOak1jd2ZIclJfRzNITWh6SFpEUDZHTmVzQTJibWItWmkyd1duT3UzVm5BdzhJcjQ4dE15WWgtQVNUcVU2bEZuNzFrWU9jSWhpRlRGa2RXYW42a3J3RV9rSVgyaHVGa05kWVZ3bGpYeE53X3locGs?oc=5"
+     ],
+     [
+      "2026-11-15 10:54",
+      "TSF",
+      "Conselho Superior da Magistratura pede \"enorme programa de reabilitação dos tribunais\"",
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR2xhMGJrUmRibjlEdFFIU3M4M3VmODBNbVZIakhOaDEyYUZGUlVVd0k1NmZjcFNpQm9Lb1N0U2lEUDlVeVh5UGtMNFBnZF84QWhYbzdDU2twb24wTDVqNDV0ZGRFaEQxeS03XzExaXQxY3k3b3p6aXRQMVlNTkpIVUFRMTBBZXJzVVNlV0FWd2Z3c25IbEE4V3BTOTVVXzE0Um5pV3VnV0ctMFdvNmZtX0x3amJZSVZOWkRrc3MzcWd0aEE2M0tPRg?oc=5"
+     ],
+     [
+      "2026-11-15 09:56",
+      "Renascença",
+      "Vice-líder dos juízes pede \"enorme programa de reabilitação dos tribunais\"",
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenJzMmpJc0pXTW44NW5pa1VxdVNDMVdLazdJRGw0T1ZzN1ZyQWZnRXpTbVd1bDVTR0hDS2dBLXItbFNGU1JGR2k1U3BhZEhiVEhsZkxrMldTLWpBR2ZzanVyZDNSM2JRLXdjU0w1RkJrUXlQRDJjMTBfNzZWZ2V6R0dCSC1JbWF6eDZwNzBUTldzbUZrZ0s0eUJKb2NKOG8tTVRSaEt1VS1xLXdxZ29NdEsyY3N0WnA3SXc?oc=5"
+     ],
+     [
+      "2026-11-15 09:25",
+      "ECO",
+      "Mil juízes e outros profissionais assinalam 50 anos do Conselho da Magistratura",
+      "https://eco.sapo.pt/2026/11/15/mil-juizes-e-outros-profissionais-assinalam-50-anos-do-conselho-da-magistratura/"
+     ],
+     [
+      "2026-11-15 07:37",
+      "RTP Notícias",
+      "Vice-líder dos juízes pede \"enorme programa de reabilitação dos tribunais\"",
+      "https://www.rtp.pt/noticias/pais/vice-lider-dos-juizes-pede-enorme-programa-de-reabilitacao-dos-tribunais_n1779271"
+     ],
+     [
+      "2026-11-11 07:32",
+      "RTP Notícias",
+      "Tribunal de Recurso timorense suspende decisão de transferência de juízes",
+      "https://www.rtp.pt/noticias/mundo/tribunal-de-recurso-timorense-suspende-decisao-de-transferencia-de-juizes_n1778335"
+     ],
+     [
+      "2026-11-11 06:21",
+      "Executive Digest",
+      "Tribunal de Recurso timorense suspende decisão de transferência de juízes",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWdXd3ltLUs2UHRSU19vWEFPUzJXMEdVaF8xRFV4dl9CTHBJX2o0VmxFVlZGVExvOFlLUzlCSFFYXzhuaHN4eFdlMzVWaWQ2SV9ibkFTN0RuLWxrQVo5djE2WmpkaVo4eTE2YTZUQXl3MGZEM2hCTzFGWnVqUHh4dFM5UXZVZmFGbVhHWmhIYnZCVFNCeGFBNWVaaXlURkVOc1paQ0s5VnZRdw?oc=5"
+     ],
+     [
+      "2026-10-19 08:13",
+      "RTP Notícias",
+      "Primeiro-ministro de Timor-Leste reúne-se com presidente do Tribunal de Recurso",
+      "https://www.rtp.pt/noticias/mundo/primeiro-ministro-de-timor-leste-reune-se-com-presidente-do-tribunal-de-recurso_n1772595"
+     ],
+     [
+      "2026-10-14 06:58",
+      "ECO",
+      "Mais de 27 mil processos pendentes há mais de quatro anos nos tribunais. CSM aponta falhas no Citius",
+      "https://eco.sapo.pt/2026/10/14/mais-de-27-mil-processos-pendentes-ha-mais-de-quatro-anos-nos-tribunais-csm-aponta-falhas-no-citius/"
+     ],
+     [
+      "2026-09-30 06:41",
+      "ECO",
+      "Juízes terão formação prioritária de IA, prova digital e cibersegurança",
+      "https://eco.sapo.pt/2026/09/30/juizes-terao-formacao-prioritaria-de-ia-prova-digital-e-ciberseguranca/"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Almoço com os participantes do Curso de Jornalismo Parlamentar",
+   "data": "2026-11-19",
+   "hora": "13h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Residência Oficial do PAR",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, almoça com os participantes do Curso de Jornalismo Parlamentar.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, almoça com os participantes do Curso de Jornalismo Parlamentar.",
+   "orgao": "Almoço com os participantes do Curso de Jornalismo Parlamentar",
+   "id_ar": 48719,
+   "chave": "ar-48719",
+   "dataLabel": "quinta, 19 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-19",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21725,7 +23138,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21791,7 +23204,8 @@
       "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
      ]
     ]
-   }
+   },
+   "retirado": "2026-11-19"
   },
   {
    "tema": "Assistências à Sessão Plenária",
@@ -21820,7 +23234,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -21855,7 +23269,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -21916,7 +23330,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-18",
+    "ref": "2026-11-19",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
