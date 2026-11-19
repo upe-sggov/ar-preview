@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-16",
  "fim": "2026-11-22",
- "recolha": "2026-11-19T00:07",
+ "recolha": "2026-11-19T16:29",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -35,6 +35,21 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   },
   {
+   "id_ar": 48724,
+   "data": "2026-11-19",
+   "hora": "10h30",
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "10h30 – Associação Democracia Plena\n11h00 – Associação Sindical dos Peritos Forenses da Polícia Judiciária (ASPF-PJ)\n11h45 – Plataforma de Operadores TVDE\n14h00 – UNICEF Portugal\n14h00 – Sindicato Independente dos Médicos\n14h30 – Federação Portuguesa de Dadores Benévolos de Sangue (Fepodabes)\n16h45 ",
+   "ordemTrabalhos": "10h30 – Associação Democracia Plena\n11h00 – Associação Sindical dos Peritos Forenses da Polícia Judiciária (ASPF-PJ)\n11h45 – Plataforma de Operadores TVDE\n14h00 – UNICEF Portugal\n14h00 – Sindicato Independente dos Médicos\n14h30 – Federação Portuguesa de Dadores Benévolos de Sangue (Fepodabes)\n16h45 – Associação Portuguesa de Transportadores de Automóveis Descaracterizados (APTAD)",
+   "ligacao": ""
+  },
+  {
    "id_ar": 48699,
    "data": "2026-11-19",
    "hora": "15h00",
@@ -45,8 +60,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA\n16h00 - Associação para a Gestão Colectiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais (GEDIP)",
-   "ordemTrabalhos": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA\n16h00 - Associação para a Gestão Colectiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais (GEDIP)",
+   "resumo": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA\n15h00 - Associação Portuguesa de Anunciantes (APAN)\n16h00 - Associação para a Gestão Colectiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais (GEDIP)",
+   "ordemTrabalhos": "15h00 - Conselho de Redação e Comissão de Trabalhadores da Agência LUSA\n15h00 - Associação Portuguesa de Anunciantes (APAN)\n16h00 - Associação para a Gestão Colectiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais (GEDIP)",
    "ligacao": ""
   },
   {
@@ -75,8 +90,8 @@
     "Plenário"
    ],
    "tipoLabel": "Plenário · Reunião n.º 19 · Plenário",
-   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 202",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
+   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3 - Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
+   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3 - Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 63 m 14 \n PSD \n 31 m 52 \n CH \n 33 m 09 \n PS \n 27 m 26 \n IL \n 15 m 21 \n L \n 7 m 08 \n PCP \n 8 m 55 \n CDS-PP \n 6 m 11 \n BE \n 5 m 23 \n PAN \n 2 m 15 \n JPP \n 2 m 48 \n Total \n 203 m 42",
    "ligacao": ""
   },
   {
@@ -95,9 +110,24 @@
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   },
   {
+   "id_ar": 48726,
+   "data": "2026-11-20",
+   "hora": "14h30",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "14h30 - Associação Portuguesa de Fundos de Investimentos, Pensões e Patrimónios (APFIPP)",
+   "ordemTrabalhos": "14h30 - Associação Portuguesa de Fundos de Investimentos, Pensões e Patrimónios (APFIPP)",
+   "ligacao": ""
+  },
+  {
    "id_ar": 48714,
    "data": "2026-11-20",
-   "hora": "16h30",
+   "hora": "15h30",
    "tema": "Audiências do Grupo Parlamentar do PCP",
    "orgao": "Audiências do Grupo Parlamentar do PCP",
    "interveniente": "",
@@ -105,8 +135,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "16h30 - SOBI Portugal",
-   "ordemTrabalhos": "16h30 - SOBI Portugal",
+   "resumo": "15h30 - Sindicato Independente dos Médicos\n16h30 - SOBI Portugal",
+   "ordemTrabalhos": "15h30 - Sindicato Independente dos Médicos\n16h30 - SOBI Portugal",
    "ligacao": ""
   },
   {
@@ -340,15 +370,15 @@
    "id_ar": 48676,
    "data": "2026-11-23",
    "hora": "10h00",
-   "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "tema": "Plenário — Discussão de normas avocadas",
    "orgao": "Plenário",
    "interveniente": "",
    "tipo": [
     "Plenário"
    ],
    "tipoLabel": "Plenário · Reunião n.º 20 · Plenário",
-   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 202",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
+   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
+   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
    "ligacao": ""
   },
   {
@@ -427,6 +457,96 @@
    "ligacao": ""
   },
   {
+   "id_ar": 48734,
+   "data": "2026-11-27",
+   "hora": "09h30",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "09h30 - Associação de Defesa da Liberdade",
+   "ordemTrabalhos": "09h30 - Associação de Defesa da Liberdade",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48732,
+   "data": "2026-12-03",
+   "hora": "15h00",
+   "tema": "Plenário — Projeto de Lei n.º 804/XVII/2.ª (PSD) Reforça a proteção dos advogados em matéria de parentalidade, doença gr",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 25 · Plenário",
+   "resumo": "ORDEM DO DIA \n 15H00 \n 1 - Projeto de Lei n.º 804/XVII/2.ª (PSD) \n Reforça a proteção dos advogados em matéria de parentalidade, doença grave e gravidez de risco\n Tempos \n GOV \n 6 m \n PSD * ** \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n ",
+   "ordemTrabalhos": "ORDEM DO DIA \n 15H00 \n 1 - Projeto de Lei n.º 804/XVII/2.ª (PSD) \n Reforça a proteção dos advogados em matéria de parentalidade, doença grave e gravidez de risco\n Tempos \n GOV \n 6 m \n PSD * ** \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 2 - Projeto de Lei n.º 170/XVII/1.ª (CH) \n Restringe o consumo de estupefacientes e substâncias psicotrópicas na via pública\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH * ** \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 3 - Projeto de Lei n.º 656/XVII/1.ª (PS) \n Reforça a proteção dos consumidores, a prevenção do jogo compulsivo e o combate ao jogo ilegal online, alterando o Regime Jurídico dos Jogos e Apostas Online\n Projeto de Lei n.º 813/XVII/2.ª (PS) \n Regula as apostas desportivas online e o modelo de financiamento do desporto, alterando o Decreto-Lei n.º 66/2015, de 29 de abril, que aprova o Regime Jurídico dos Jogos e Apostas Online\n Projeto de Resolução n.º 1080/XVII/1.ª (PSD) \n Recomenda ao Governo que promova a revisão do Regime Jurídico dos Jogos e Apostas Online, reforçando os instrumentos de combate ao jogo ilegal, a proteção dos jogadores e a identificação da oferta legalmente autorizada\n Tempos \n GOV \n 6 m \n PSD* \n 6 m \n CH \n 5 m \n PS* **  \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 4 -  Projeto de Lei n.º 812/XVII/2.ª (IL) \n Transparência fiscal nos combustíveis: Afixar os impostos sobre os combustíveis nas gasolineiras\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL* ** \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 5 -  Projeto de Lei n.º 85/XVII/1.ª (L) \n Proteção dos trabalhadores: dispensa do trabalho quem executa atividades ao ar livre em condições meteorológicas extremas \n Projeto de Lei n.º 437/XVII/1.ª (L) \n Cria a falta justificada e garante a proteção social de trabalhadores cujo posto de trabalho esteja abrangido por declaração de calamidade\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L* ** \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 6 - Projeto de Resolução n.º 1235/XVII/2.ª (PCP) \n Aumento do Salário Mínimo Nacional\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP* ** \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48730,
+   "data": "2026-12-04",
+   "hora": "10h00",
+   "tema": "Plenário — Proposta de Lei n.º 87/XVII/1.ª (GOV) Transpõe a Diretiva (UE) 2022/2381, relativa à melhoria do equilíbrio d",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 26 · Plenário",
+   "resumo": "ORDEM DO DIA  \n 10H00 \n 1 -  Proposta de Lei n.º 87/XVII/1.ª (GOV) \n Transpõe a Diretiva (UE) 2022/2381, relativa à melhoria do equilíbrio de género nos cargos dirigentes de empresas cotadas e a outras medidas conexas\n Tempos \n GOV* ** \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n P",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 10H00 \n 1 -  Proposta de Lei n.º 87/XVII/1.ª (GOV) \n Transpõe a Diretiva (UE) 2022/2381, relativa à melhoria do equilíbrio de género nos cargos dirigentes de empresas cotadas e a outras medidas conexas\n Tempos \n GOV* ** \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 2 - Proposta de Lei n.º 80/XVII/1.ª (GOV) \n Proposta de lei que autoriza o Governo a estabelecer um regime de regularização das explorações pecuárias e atividades autónomas ou complementares de gestão de efluentes pecuários, ao abrigo do Novo Regime do Exercício da Atividade Pecuária\n Tempos \n GOV* ** \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 3 - Proposta de Lei n.º 73/XVII/1.ª (GOV) \n Autoriza o Governo a alterar o Decreto-Lei n.º 35/2019, de 11 de março, que estabelece o regime sancionatório aplicável ao exercício da atividade da pesca comercial marítima\n Tempos \n GOV* ** \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 4 - Proposta de Lei n.º 92/XVII/1.ª (GOV) \n Procede à execução parcial do Regulamento (UE) 2024/2809 do Parlamento Europeu e do Conselho, alterando o Código dos Valores Mobiliários\n Tempos \n GOV* ** \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 5 - Proposta de Lei n.º 97/XVII/1.ª (GOV) \n Autoriza o Governo a alterar a Lei do Tribunal Arbitral do Desporto, aprovada em anexo à Lei n.º 74/2013, de 6 de setembro\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 6 - Votações Regimentais",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48723,
+   "data": "2026-12-04",
+   "hora": "16h00",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "16h00 - Federação Nacional dos Professores (FENPROF)",
+   "ordemTrabalhos": "16h00 - Federação Nacional dos Professores (FENPROF)",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48729,
+   "data": "2026-12-09",
+   "hora": "15h00",
+   "tema": "Plenário — 15:00",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 27 · Plenário",
+   "resumo": "ORDEM DO DIA  \n 15:00 \n 1 - Debate com a participação do Governo, sobre o Estado da União, conforme previsto na alínea d) do n.º 1 do artigo 4.º da Lei relativa ao acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia (Lei n.º 43/20",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 15:00 \n 1 - Debate com a participação do Governo, sobre o Estado da União, conforme previsto na alínea d) do n.º 1 do artigo 4.º da Lei relativa ao acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia (Lei n.º 43/2006, de 25 de agosto).\n Debates europeus com o Governo \n (ao abrigo do artigo 225.º do Regimento)\n Intervenção inicial GOV \n 5 m      \n Perguntas dos Partidos \n Respostas do GOV \n Total Ronda \n PSD \n 5 m \n 5 m \n 10 m \n CH \n 4 m 30 \n 4 m 30 \n 9 m \n PS \n 4 m 30 \n 4 m 30 \n 9 m \n IL \n 3 m 30 \n 3 m 30 \n 7 m \n L \n 3 m \n 3 m \n 6 m \n PCP \n 2 m 30 \n 2 m 30 \n 5 m \n CDS-PP \n 2 m 30 \n 2 m 30 \n 5 m \n BE \n 1 m 30 \n 1 m 30 \n 3 m \n PAN \n 1 m 30 \n 1 m 30 \n 3 m \n JPP \n 1 m 30 \n 1 m 30 \n 3 m \n   Total \n 65 m \n Intervenções por ordem decrescente de representatividade, numa ronda única.  \n 2 - Proposta de Resolução n.º 20/XVII/2.ª (GOV) \n Aprova o Acordo sobre a interpretação e a aplicação do Tratado da Carta da Energia, feito em Bruxelas, em 18 de fevereiro de 2026\n Tempos \n GOV* ** \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 3 - Projeto de Resolução n.º 1317/XVII/2.ª (CDS-PP) \n Recomenda ao Governo o reforço da reflexão ética e das garantias que assegurem o primado da Pessoa humana na utilização da inteligência artificial\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP* ** \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 4 - Proposta de Lei n.º 68/XVII/1.ª (ALRAA) \n Altera a Lei Orgânica n.º 2/2013, de 2 de setembro, que aprova a Lei das Finanças das Regiões Autónomas\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 5 - Relatório da Comissão Técnica Independente sobre os Incêndios . \n Debate sobre Relatórios de outras entidades \n (artigo 242.º do Regimento)\n DEBATE \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 31 m \n Nota: Os debates sobre os relatórios da autoria do Governo são abertos e encerrados por este, que dispõe de 6 minutos em cada uma das fases.",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48728,
+   "data": "2026-12-10",
+   "hora": "15h00",
+   "tema": "Plenário — 15:00",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 28 · Plenário",
+   "resumo": "ORDEM DO DIA  \n 15:00 \n 1 - Debate quinzenal com o Primeiro-Ministro, ao abrigo da alínea a) do n.º 2 do artigo 224.º-A do Regimento.\n Debate com o Primeiro-Ministro \n [alínea a) do n.º 2 do art.º 224.º-A do Regimento]\n Intervenção inicial PM \n 10 m      \n Perguntas dos Partidos \n Respostas do PM \n ",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 15:00 \n 1 - Debate quinzenal com o Primeiro-Ministro, ao abrigo da alínea a) do n.º 2 do artigo 224.º-A do Regimento.\n Debate com o Primeiro-Ministro \n [alínea a) do n.º 2 do art.º 224.º-A do Regimento]\n Intervenção inicial PM \n 10 m      \n Perguntas dos Partidos \n Respostas do PM \n Total Ronda \n CH \n 10 m \n 10 m \n 20 m \n PS \n 9 m 30 \n 9 m 30 \n 19 m \n IL \n 6 m \n 6 m \n 12 m \n L \n 5 m \n 5 m \n 10 m \n PCP \n 4 m \n 4 m \n 8 m \n BE \n 2 m \n 2 m \n 4 m \n PAN \n 2 m \n 2 m \n 4 m \n JPP \n 2 m \n 2 m \n 4 m \n CDS-PP \n 3 m 30 \n 3 m 30 \n 7 m \n PSD \n 12 m 30 \n 12 m 30 \n 25 m \n    Total \n 123 m \n Notas: \n Cada GP e os DURP dispõem de um tempo global para efetuar as suas perguntas, podendo dividi-lo nos termos do n.º 3 do artigo 224.º-A, através  de um ou mais Deputados, numa única ronda.\n Cada pergunta é seguida, de imediato, pela resposta do Governo.\n Não há cedência de tempos ao Governo (Súmula CL 8/XVI), exceto do partido que está a colocar perguntas, nessa ronda.\n 2 - Debate preparatório do Conselho Europeu com a participação do Primeiro-Ministro, previsto na alínea a) do n.º 1 do artigo 4.º da Lei relativa ao acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia.\n Debates europeus com o Governo \n (ao abrigo do artigo 225.º do Regimento)\n Intervenção inicial GOV \n 5 m      \n Perguntas dos Partidos \n Respostas do GOV \n Total Ronda \n PSD \n 5 m \n 5 m \n 10 m \n CH \n 4 m 30 \n 4 m 30 \n 9 m \n PS \n 4 m 30 \n 4 m 30 \n 9 m \n IL \n 3 m 30 \n 3 m 30 \n 7 m \n L \n 3 m \n 3 m \n 6 m \n PCP \n 2 m 30 \n 2 m 30 \n 5 m \n CDS-PP \n 2 m 30 \n 2 m 30 \n 5 m \n BE \n 1 m 30 \n 1 m 30 \n 3 m \n PAN \n 1 m 30 \n 1 m 30 \n 3 m \n JPP \n 1 m 30 \n 1 m 30 \n 3 m \n   Total \n 65 m \n Intervenções por ordem decrescente de representatividade, numa ronda única.  \n 3 - Votações Regimentais.",
+   "ligacao": ""
+  },
+  {
    "id_ar": 48710,
    "data": "2026-12-10",
    "hora": "09h30",
@@ -445,15 +565,45 @@
    "id_ar": 48679,
    "data": "2026-12-11",
    "hora": "10h00",
-   "tema": "Plenário — Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas",
+   "tema": "Plenário — 10:00 Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas",
    "orgao": "Plenário",
    "interveniente": "",
    "tipo": [
     "Plenário"
    ],
    "tipoLabel": "Plenário · Reunião n.º 23 · Plenário",
-   "resumo": "Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas \n Tempos: A definir.",
-   "ordemTrabalhos": "Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas \n Tempos: A definir.",
+   "resumo": "ORDEM DO DIA  \n 10:00 \n Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas \n Tempos: A definir.",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 10:00 \n Sessão Plenária alusiva às Comemorações dos 50 anos das Primeiras Eleições Autárquicas \n Tempos: A definir.",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48725,
+   "data": "2026-12-16",
+   "hora": "10h30",
+   "tema": "Conferência de Líderes",
+   "orgao": "Conferência de Líderes",
+   "interveniente": "",
+   "tipo": [
+    "Conferência de Líderes"
+   ],
+   "tipoLabel": "Conferência de Líderes · Reunião n.º 31 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48727,
+   "data": "2026-12-16",
+   "hora": "15h00",
+   "tema": "Plenário — 15:00",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 29 · Plenário",
+   "resumo": "ORDEM DO DIA \n 15:00 \n 1 - Debate setorial com a presença do Ministro das Infraestruturas e Habitação, ao abrigo do Artigo 224.º-B do Regimento.\n Debate setorial com os ministros \n (ao abrigo do artigo 224.º-B do Regimento)\n Intervenção inicial do Ministro \n 10 m     \n Perguntas dos Partidos \n Respo",
+   "ordemTrabalhos": "ORDEM DO DIA \n 15:00 \n 1 - Debate setorial com a presença do Ministro das Infraestruturas e Habitação, ao abrigo do Artigo 224.º-B do Regimento.\n Debate setorial com os ministros \n (ao abrigo do artigo 224.º-B do Regimento)\n Intervenção inicial do Ministro \n 10 m     \n Perguntas dos Partidos \n Respostas do Ministro \n Total Ronda \n PSD * \n 12 m 30 \n 12 m 30 \n 25 m \n CH \n 10 m \n 10 m \n 20 m \n PS \n 9 m 30 \n 9 m 30 \n 19 m \n IL \n 6 m \n 6 m \n 12 m \n L \n 5 m \n 5 m \n 10 m \n PCP \n 4 m \n 4 m \n 8 m \n CDS-PP \n 3 m 30 \n 3 m 30 \n 7 m \n BE \n 2 m \n 2 m \n 4 m \n PAN \n 2 m \n 2 m \n 4 m \n JPP \n 2 m \n 2 m \n 4 m \n    Total \n 123 m \n Notas: \n *Abertura da fase de debate pela pergunta deste partido (alternância prevista no n.º 7 do artigo 224.º-B). Seguem-se os restantes partidos, ordem decrescente de representatividade.\n Cada GP e os DURP dispõem de um tempo global para efetuar as suas perguntas, podendo dividi-lo nos termos do n.º 3 do artigo 224.º-B, através de um ou mais Deputados.\n Cada pergunta é seguida, de imediato, pela resposta do Governo.\n Não há cedência de tempos ao Governo (Súmula CL 8/XVI), exceto do partido que está a colocar perguntas, nessa ronda.",
    "ligacao": ""
   },
   {
@@ -469,6 +619,36 @@
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
    "resumo": "16h00 - Comissão de Cidadãos de negócios Estrangeiros e Comunidades Portuguesas d’os 230",
    "ordemTrabalhos": "16h00 - Comissão de Cidadãos de negócios Estrangeiros e Comunidades Portuguesas d’os 230",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48731,
+   "data": "2026-12-17",
+   "hora": "15h00",
+   "tema": "Plenário — 15:00",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 30 · Plenário",
+   "resumo": "ORDEM DO DIA  \n 15:00 \n 1 - Interpelação ao Governo requerida pelo GP do L, incidindo sobre temática a indicar oportunamente.\n Interpelação ao Governo \n (ao abrigo do art.º 227.º do Regimento)\n ABERTURA \n L \n 10 m \n GOV \n 10 m \n Subtotal \n 20 m \n DEBATE \n GOV \n 17 m 30 \n PSD \n 17 m 30 \n CH \n 14 m 30",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 15:00 \n 1 - Interpelação ao Governo requerida pelo GP do L, incidindo sobre temática a indicar oportunamente.\n Interpelação ao Governo \n (ao abrigo do art.º 227.º do Regimento)\n ABERTURA \n L \n 10 m \n GOV \n 10 m \n Subtotal \n 20 m \n DEBATE \n GOV \n 17 m 30 \n PSD \n 17 m 30 \n CH \n 14 m 30 \n PS \n 14 m \n IL \n 9 m 30 \n L \n 7 m 30 \n PCP \n 6 m \n CDS-PP \n 6 m \n BE \n 3 m \n PAN \n 3 m \n JPP \n 3 m \n Subtotal \n 101 m 30 \n ENCERRAMENTO \n L \n 6 m \n GOV \n 6 m \n Subtotal \n 12 m \n Total \n 133 m 30 \n Nota: \n * Durante o período do debate o partido interpelante tem direito ao tempo máximo.\n Debate: Os pedidos de esclarecimento e as intervenções são feitos por ordem de inscrição, na fase de debate.",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48733,
+   "data": "2026-12-18",
+   "hora": "10h00",
+   "tema": "Plenário — 10:00",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 31 · Plenário",
+   "resumo": "ORDEM DO DIA  \n 10:00 \n 1 - Eleições para entidades externas.   \n 2 - Petição n.º 129/XVI/1.ª     \n Pela manutenção e salvaguarda da ACADEMIA DE AMADORES DE MÚSICA\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n ",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 10:00 \n 1 - Eleições para entidades externas.   \n 2 - Petição n.º 129/XVI/1.ª     \n Pela manutenção e salvaguarda da ACADEMIA DE AMADORES DE MÚSICA\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 3 - Petição n.º 141/XVI/1.ª   \n 8 de janeiro-Dia Nacional da Comunicação\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 4 -   Petição n.º 18/XVII/1.ª \n Reconhecimento do Estado da Palestina\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 5 -  Petição n.º 247/XV/2.ª \n Pela implementação imediata de CED (Captura, Esterilização e Devolução) em matilhas de cães errantes e de uma Estratégia Nacional para os Animais Errantes\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 6 -   Petição n.º 24/XVII/1.ª \n Pelo apuramento de responsabilidades políticas e criminais do caso de maus-tratos a 73 animais em Foz Côa\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 7 -  Petição n.º 14/XVII/1.ª   - Estatuto do Cuidador Informal: Direitos para Todos\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 8 - Petição n.º 106/XVII/1.ª -   Remição de pensão por acidente de trabalho\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 9 -  Votações Regimentais",
    "ligacao": ""
   }
  ],

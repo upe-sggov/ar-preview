@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48730@ar-preview
+DTSTAMP:20261119T164435Z
+DTSTART:20261204T100000Z
+DTEND:20261204T120000Z
+SUMMARY:AR · Plenário — Proposta de Lei n.º 87/XVII/1.ª (GOV) Transp
+ õe a Diretiva (UE) 2022/2381\, relativa à melhoria do equilíbrio d
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 26 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: GOV* **\; * Os autores das iniciativas
+  dispõem de mais 1 minuto cada [artigo 145.º\, n.º 2\, alínea d)]\nEm
+ issões em direto (quando houver): https://canal.parlamento.pt/\nAR Previ
+ ew: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a a
+ genda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

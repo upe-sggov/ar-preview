@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48728@ar-preview
+DTSTAMP:20261119T164435Z
+DTSTART:20261210T150000Z
+DTEND:20261210T170000Z
+SUMMARY:AR · Plenário — 15:00
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 28 · Plenário\nGoverno: Primeiro-
+ Ministro · Primeiro-Ministro\, previsto na alínea a\nSíntese: Debate q
+ uinzenal com o Primeiro-Ministro\, ao abrigo da alínea a) do n.º 2 do a
+ rtigo 224.º-A do Regimento\nEmissões em direto (quando houver): https:/
+ /canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview
+ /\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
