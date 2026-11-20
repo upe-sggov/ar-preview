@@ -729,11 +729,19 @@
   "fim": "2026-11-29",
   "fecho": "2026-11-20",
   "fechoLabel": "20 de novembro de 2026",
-  "alteracoes": [],
-  "atualizado": "2026-11-20T00:30+00:00",
-  "atualizadoLabel": "20 de novembro, 00h30",
+  "alteracoes": [
+   {
+    "data": "2026-11-20",
+    "novos": 5,
+    "alterados": 1,
+    "retirados": 0
+   }
+  ],
+  "atualizado": "2026-11-20T16:02+00:00",
+  "atualizadoLabel": "20 de novembro, 16h02",
   "estado": "Classificação automática",
-  "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números."
+  "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
+  "desdeLabel": "20 de novembro"
  },
  "fichas": {
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
@@ -909,13 +917,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 302
+    "encontradas": 308
    },
    "base": {
     "ultima": "2026-11-19 06:33",
     "em": "2026-11-19"
    },
-   "novas": 2,
+   "novas": 8,
    "enquadramento": "A cobertura mediática do Orçamento do Estado para 2027 (OE2027) tem sido extensa, com foco em temas como habitação, crescimento económico, sustentabilidade e políticas sociais. As notícias destacam a importância do OE2027 para promover o investimento, a competitividade e a transição ecológica, ao mesmo tempo que abordam críticas sobre a falta de financiamento para projetos específicos, como o Hospital de Gaia. O Governo anunciou medidas como o aumento do salário mínimo para 970 euros e a criação de uma garantia pública para o pagamento de rendas, enquanto partidos da oposição, como o PS e o Chega, apresentaram propostas e criticaram algumas decisões orçamentais. A cobertura evoluiu de anúncios iniciais e perspetivas económicas para debates específicos na especialidade, com resultados de votações que indicam divergências entre partidos."
   },
   "2026-12-10-48728-plen-rio-15-00": {
@@ -969,7 +977,7 @@
    "interveniente": "",
    "tipoLabel": "Plenário · Reunião n.º 20 · Plenário",
    "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 120 m \n PSD \n 96 m \n CH \n 80 m \n PS \n 77 m \n IL \n 42 m \n L \n 34 m \n PCP \n 27 m \n CDS-PP \n 23 m \n BE \n 11 m \n PAN \n 11 m \n JPP \n 11 m \n Total \n 532 m",
+   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
    "orgao": "Plenário",
    "id_ar": 48676,
    "chave": "ar-48676",
@@ -1001,34 +1009,70 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 302,
-    "n7": 26,
+    "n": 308,
+    "n7": 32,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-20",
     "metodo": "expressoes",
-    "ultima": "2026-11-19 22:27",
+    "ultima": "2026-11-20 12:58",
     "ultimas": [
      {
-      "data": "2026-11-19",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Aprovado projeto do PS que cria suplemento de agente único de transportes coletivos",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-aprovado-projeto-do-ps-que-cria-suplemento-de-agente-unico-de-transportes-coletivos_n1780322"
-     },
-     {
-      "data": "2026-11-19",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Aprovado o englobamento no IRS dos ganhos nos jogos e apostas online",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/oe-2027-aprovado-o-englobamento-no-irs-dos-ganhos-nos-jogos-e-apostas-online"
-     },
-     {
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "fonte": "ECO",
-      "titulo": "Propostas do PS podem levar excedente do Governo a défice de 0,3% em 2027",
-      "url": "https://eco.sapo.pt/2026/11/19/propostas-do-ps-podem-levar-excedente-do-governo-a-defice-de-03-em-2027/"
+      "titulo": "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "url": "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "Executive Digest",
+      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
+      "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "ECO",
+      "titulo": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
+      "url": "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-20 12:58",
+      "ECO",
+      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+     ],
+     [
+      "2026-11-20 12:23",
+      "Executive Digest",
+      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
+      "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     ],
+     [
+      "2026-11-20 11:09",
+      "ECO",
+      "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
+      "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
+     ],
+     [
+      "2026-11-20 10:07",
+      "Público",
+      "OE 2027: IVA zero e fim da taxa IRS de 10% para senhorios avançam, após confirmação no Parlamento",
+      "https://www.publico.pt/2026/11/20/politica/noticia/partidos-voltam-debater-oe2027-apos-vitorias-ps-iva-zero-irs-rendas-2195660"
+     ],
+     [
+      "2026-11-20 07:40",
+      "Renascença",
+      "Greve na função pública. \"Trabalhadores vão perder dia de salário a lutar\" por alterações no OE 2027",
+      "https://rr.pt/noticia/pais/2026/11/20/greve-na-funcao-publica-trabalhadores-vao-perder-dia-de-salario-a-lutar-por-alteracoes-no-oe-2027/494354/"
+     ],
+     [
+      "2026-11-20 07:27",
+      "Jornal Económico",
+      "OE2027: Protocolo entre bombeiros voluntários, INEM e Proteção Civil revisto para cobrir pagamentos",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-protocolo-entre-bombeiros-voluntarios-inem-e-protecao-civil-revisto-para-cobrir-pagamentos/"
+     ],
      [
       "2026-11-19 22:27",
       "RTP Notícias",
@@ -1192,7 +1236,7 @@
       "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
      ],
      [
-      "2026-11-12 10:32",
+      "2026-11-12 11:52",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -2842,7 +2886,8 @@
       "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
      ]
     ]
-   }
+   },
+   "alterado": "2026-11-20"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -2885,34 +2930,70 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 302,
-    "n7": 26,
+    "n": 308,
+    "n7": 32,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-20",
     "metodo": "expressoes",
-    "ultima": "2026-11-19 22:27",
+    "ultima": "2026-11-20 12:58",
     "ultimas": [
      {
-      "data": "2026-11-19",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Aprovado projeto do PS que cria suplemento de agente único de transportes coletivos",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-aprovado-projeto-do-ps-que-cria-suplemento-de-agente-unico-de-transportes-coletivos_n1780322"
-     },
-     {
-      "data": "2026-11-19",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Aprovado o englobamento no IRS dos ganhos nos jogos e apostas online",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/oe-2027-aprovado-o-englobamento-no-irs-dos-ganhos-nos-jogos-e-apostas-online"
-     },
-     {
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "fonte": "ECO",
-      "titulo": "Propostas do PS podem levar excedente do Governo a défice de 0,3% em 2027",
-      "url": "https://eco.sapo.pt/2026/11/19/propostas-do-ps-podem-levar-excedente-do-governo-a-defice-de-03-em-2027/"
+      "titulo": "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "url": "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "Executive Digest",
+      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
+      "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "ECO",
+      "titulo": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
+      "url": "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-20 12:58",
+      "ECO",
+      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+     ],
+     [
+      "2026-11-20 12:23",
+      "Executive Digest",
+      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
+      "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     ],
+     [
+      "2026-11-20 11:09",
+      "ECO",
+      "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
+      "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
+     ],
+     [
+      "2026-11-20 10:07",
+      "Público",
+      "OE 2027: IVA zero e fim da taxa IRS de 10% para senhorios avançam, após confirmação no Parlamento",
+      "https://www.publico.pt/2026/11/20/politica/noticia/partidos-voltam-debater-oe2027-apos-vitorias-ps-iva-zero-irs-rendas-2195660"
+     ],
+     [
+      "2026-11-20 07:40",
+      "Renascença",
+      "Greve na função pública. \"Trabalhadores vão perder dia de salário a lutar\" por alterações no OE 2027",
+      "https://rr.pt/noticia/pais/2026/11/20/greve-na-funcao-publica-trabalhadores-vao-perder-dia-de-salario-a-lutar-por-alteracoes-no-oe-2027/494354/"
+     ],
+     [
+      "2026-11-20 07:27",
+      "Jornal Económico",
+      "OE2027: Protocolo entre bombeiros voluntários, INEM e Proteção Civil revisto para cobrir pagamentos",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-protocolo-entre-bombeiros-voluntarios-inem-e-protecao-civil-revisto-para-cobrir-pagamentos/"
+     ],
      [
       "2026-11-19 22:27",
       "RTP Notícias",
@@ -3076,7 +3157,7 @@
       "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
      ],
      [
-      "2026-11-12 10:32",
+      "2026-11-12 11:52",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -4767,34 +4848,70 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 302,
-    "n7": 26,
+    "n": 308,
+    "n7": 32,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-20",
     "metodo": "expressoes",
-    "ultima": "2026-11-19 22:27",
+    "ultima": "2026-11-20 12:58",
     "ultimas": [
      {
-      "data": "2026-11-19",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Aprovado projeto do PS que cria suplemento de agente único de transportes coletivos",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-aprovado-projeto-do-ps-que-cria-suplemento-de-agente-unico-de-transportes-coletivos_n1780322"
-     },
-     {
-      "data": "2026-11-19",
-      "fonte": "Jornal de Negócios",
-      "titulo": "OE 2027: Aprovado o englobamento no IRS dos ganhos nos jogos e apostas online",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/oe-2027-aprovado-o-englobamento-no-irs-dos-ganhos-nos-jogos-e-apostas-online"
-     },
-     {
-      "data": "2026-11-19",
+      "data": "2026-11-20",
       "fonte": "ECO",
-      "titulo": "Propostas do PS podem levar excedente do Governo a défice de 0,3% em 2027",
-      "url": "https://eco.sapo.pt/2026/11/19/propostas-do-ps-podem-levar-excedente-do-governo-a-defice-de-03-em-2027/"
+      "titulo": "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "url": "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "Executive Digest",
+      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
+      "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "ECO",
+      "titulo": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
+      "url": "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
      }
     ],
     "todas": [
+     [
+      "2026-11-20 12:58",
+      "ECO",
+      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+     ],
+     [
+      "2026-11-20 12:23",
+      "Executive Digest",
+      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
+      "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     ],
+     [
+      "2026-11-20 11:09",
+      "ECO",
+      "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
+      "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
+     ],
+     [
+      "2026-11-20 10:07",
+      "Público",
+      "OE 2027: IVA zero e fim da taxa IRS de 10% para senhorios avançam, após confirmação no Parlamento",
+      "https://www.publico.pt/2026/11/20/politica/noticia/partidos-voltam-debater-oe2027-apos-vitorias-ps-iva-zero-irs-rendas-2195660"
+     ],
+     [
+      "2026-11-20 07:40",
+      "Renascença",
+      "Greve na função pública. \"Trabalhadores vão perder dia de salário a lutar\" por alterações no OE 2027",
+      "https://rr.pt/noticia/pais/2026/11/20/greve-na-funcao-publica-trabalhadores-vao-perder-dia-de-salario-a-lutar-por-alteracoes-no-oe-2027/494354/"
+     ],
+     [
+      "2026-11-20 07:27",
+      "Jornal Económico",
+      "OE2027: Protocolo entre bombeiros voluntários, INEM e Proteção Civil revisto para cobrir pagamentos",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-protocolo-entre-bombeiros-voluntarios-inem-e-protecao-civil-revisto-para-cobrir-pagamentos/"
+     ],
      [
       "2026-11-19 22:27",
       "RTP Notícias",
@@ -4958,7 +5075,7 @@
       "https://www.acorianooriental.pt/noticia/ps-com-alteracoes-para-apoiar-pescadores-agricultores-e-turismo-dos-acores-381996"
      ],
      [
-      "2026-11-12 10:32",
+      "2026-11-12 11:52",
       "ECO",
       "OE2027. AD realiza a partir de hoje sessões em todos os distritos com ministros e dirigentes",
       "https://eco.sapo.pt/2026/11/12/oe2027-ad-realiza-a-partir-de-hoje-sessoes-em-todos-os-distritos-com-ministros-e-dirigentes/"
@@ -6613,6 +6730,102 @@
  ],
  "agenda": [
   {
+   "tema": "Assistências à Sessão Plenária",
+   "data": "2026-11-23",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy -",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy - Setúbal\n10h00 - 11h15 - Um grupo de 13 cidadãos da Cruz Vermelha de Matosinhos\n10h00 - 11h15 - Um grupo de 13 Autarcas da Câmara e Assembleia Municipal de Espinho\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Agrupamento de Escolas da Marinha Grande Nascente\n11h30 - 13h00 - Um grupo de 30 alunos e professores da Escola Básica e Secundária Dra. Judite Andrade - Sardoal\n11h30 - 13h00 - Um grupo de 60 alunos e professores do Colégio Pedro Arrupe - Lisboa\n11h30 - 13h00 - Um grupo de 56 alunos e professores da Escola Secundária Manuel Cargaleiro - Amora\n11h30 - 13h00 - Um grupo de 32 alunos e professores da Universidade do Minho",
+   "orgao": "Assistências à Sessão Plenária",
+   "id_ar": 48741,
+   "chave": "ar-48741",
+   "dataLabel": "segunda, 23 nov",
+   "tipo": [
+    "Assistências ao Plenário"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-20",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-20",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-23",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - ",
+   "ordemTrabalhos": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - Um grupo de 15 formandos do Centro de Formação Profissional da Industria Têxtil, Vestuário - Lisboa",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48738,
+   "chave": "ar-48738",
+   "dataLabel": "segunda, 23 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-20",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-20",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
+   }
+  },
+  {
    "tema": "Audiências do Grupo Parlamentar do PS",
    "data": "2026-11-23",
    "hora": "15h30",
@@ -6644,6 +6857,102 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
+   }
+  },
+  {
+   "tema": "Assistências à Sessão Plenária",
+   "data": "2026-11-24",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "10h00 - 11h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n10h00 - 11h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n10h00 - 11h15 - Um grupo de 45 alunos e professores do ATEC - Associação De Formação para a I",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n10h00 - 11h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n10h00 - 11h15 - Um grupo de 45 alunos e professores do ATEC - Associação De Formação para a Industria - Palmela\n10h00 - 11h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n10h00 - 11h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n10h00 - 11h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n10h00 - 11h15 - Um grupo de 15 alunos da Região Norte\n10h00 - 11h15 - Um grupo de 13 cidadãos da JSD de Cantanhede\n11h30 - 13h00 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n11h30 - 13h00 - Um grupo de 60 alunos e professores da Escola Secundária Sebastião e Silva - Oeiras\n11h30 - 13h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
+   "orgao": "Assistências à Sessão Plenária",
+   "id_ar": 48742,
+   "chave": "ar-48742",
+   "dataLabel": "terça, 24 nov",
+   "tipo": [
+    "Assistências ao Plenário"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-20",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-20",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-24",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "14h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n15h30 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n16h00 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
+   "ordemTrabalhos": "14h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n15h30 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n16h00 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48739,
+   "chave": "ar-48739",
+   "dataLabel": "terça, 24 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [],
+   "novo": "2026-11-20",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-20",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
    }
   },
   {
@@ -6737,9 +7046,9 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 136,
-    "n7": 21,
-    "n7ant": 34,
+    "n": 139,
+    "n7": 22,
+    "n7ant": 36,
     "dias": 60,
     "ref": "2026-11-20",
     "metodo": "palavras",
@@ -6753,15 +7062,15 @@
      },
      {
       "data": "2026-11-19",
+      "fonte": "ECO",
+      "titulo": "Chineses interessados em investir em fábrica de alumínio em Portugal",
+      "url": "https://eco.sapo.pt/2026/11/19/chineses-interessados-em-investir-em-fabrica-de-aluminio-em-portugal/"
+     },
+     {
+      "data": "2026-11-19",
       "fonte": "Açoriano Oriental",
       "titulo": "Presidente da Visit Azores renuncia ao cargo",
       "url": "https://www.acorianooriental.pt/noticia/presidente-da-visit-azores-renuncia-ao-cargo-382202"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "Jornal Económico",
-      "titulo": "Reforço da participação pública no capital da Galp chumbado",
-      "url": "https://jornaleconomico.sapo.pt/noticias/reforco-da-participacao-publica-no-capital-da-galp-chumbado/"
      }
     ],
     "todas": [
@@ -6770,6 +7079,12 @@
       "Jornal de Negócios",
       "CEO interina da Nvidia antecipa aumentos salariais após saída de Huang. \"Vamos seguir em frente\"",
       "https://www.jornaldenegocios.pt/empresas/detalhe/ceo-interina-da-nvidia-antecipa-aumentos-salariais-apos-saida-de-huang-vamos-seguir-em-frente"
+     ],
+     [
+      "2026-11-19 07:03",
+      "ECO",
+      "Chineses interessados em investir em fábrica de alumínio em Portugal",
+      "https://eco.sapo.pt/2026/11/19/chineses-interessados-em-investir-em-fabrica-de-aluminio-em-portugal/"
      ],
      [
       "2026-11-19 01:01",
@@ -6928,7 +7243,19 @@
       "https://www.publico.pt/autor/arnaldo-frade"
      ],
      [
-      "2026-11-12 15:09",
+      "2026-11-12 19:42",
+      "ECO",
+      "Como Jensen Huang perdeu a Nvidia em três anos e 14 dias",
+      "https://eco.sapo.pt/2026/11/12/como-jensen-huang-perdeu-a-nvidia-em-tres-anos-e-14-dias/"
+     ],
+     [
+      "2026-11-12 17:58",
+      "ECO",
+      "Ativo do dia. Ações da Nvidia afundam com saída de Jensen Huang",
+      "https://eco.sapo.pt/2026/11/12/ativo-do-dia-acoes-da-nvidia-afundam-com-saida-de-jensen-huang/"
+     ],
+     [
+      "2026-11-12 13:58",
       "ECO",
       "Jensen Huang demite-se da liderança da Nvidia",
       "https://eco.sapo.pt/2026/11/12/jensen-huang-deixa-lideranca-da-nvidia/"
@@ -6940,19 +7267,19 @@
       "https://www.rtp.pt/noticias/mundo/fundador-da-nvidia-pode-perder-o-comando-da-gigante-da-ia_n1778658"
      ],
      [
-      "2026-11-12 11:02",
+      "2026-11-12 10:58",
       "ECO",
       "Quem vai suceder a Jensen Huang na liderança da Nvidia?",
       "https://eco.sapo.pt/2026/11/12/quem-vai-suceder-a-jensen-huang-na-lideranca-da-nvidia/"
      ],
      [
-      "2026-11-12 06:53",
+      "2026-11-12 06:46",
       "CNN Portugal",
       "De antigos executivos da Pepsi-Cola e da NFL a cientistas: quem faz parte do conselho de administração da Nvidia que vai decidir o futuro de Jensen Huang",
       "https://cnnportugal.iol.pt/nvidia/jensen-huang/de-antigos-executivos-da-pepsi-cola-e-da-nfl-a-cientistas-quem-faz-parte-do-conselho-de-administracao-da-nvidia-que-vai-decidir-o-futuro-de-jensen-huang/20261112/6af560dbd34e5a653d733eb9"
      ],
      [
-      "2026-11-12 05:40",
+      "2026-11-12 05:39",
       "ECO",
       "Nvidia prepara saída de Jensen Huang e ações afundam mais de 9%",
       "https://eco.sapo.pt/2026/11/12/nvidia-prepara-saida-de-jensen-huang-e-acoes-afundam-mais-de-9/"
@@ -7616,6 +7943,67 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
+   }
+  },
+  {
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "data": "2026-11-27",
+   "hora": "10h30",
+   "interveniente": "",
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "10h30 - Um grupo de 30 cidadãos da UNICEF - Lisboa\n14h30 - Um grupo de 28 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n15h00 - Um grupo de 27 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n16h00 - Um grupo de 30 cidadãos da Associação Vale Grande - Pontinha",
+   "ordemTrabalhos": "10h30 - Um grupo de 30 cidadãos da UNICEF - Lisboa\n14h30 - Um grupo de 28 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n15h00 - Um grupo de 27 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n16h00 - Um grupo de 30 cidadãos da Associação Vale Grande - Pontinha",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "id_ar": 48740,
+   "chave": "ar-48740",
+   "dataLabel": "sexta, 27 nov",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-20",
+   "cobertura": {
+    "n": 2,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-20",
+    "metodo": "palavras",
+    "ultima": "2026-10-05 15:16",
+    "ultimas": [
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     },
+     {
+      "data": "2026-10-05",
+      "fonte": "Observador",
+      "titulo": "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ],
+     [
+      "2026-10-05 15:16",
+      "Observador",
+      "15h. Palácio de São Bento abre portas para visitas livres nas comemorações do 5 de Outubro",
+      "https://observador.pt/programas/noticiario/as-noticias-das-15h-2476/"
+     ]
+    ]
    }
   }
  ]
