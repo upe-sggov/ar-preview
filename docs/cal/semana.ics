@@ -3,183 +3,57 @@ VERSION:2.0
 PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:AR Preview · 16 a 22 de novembro de 2026
+X-WR-CALNAME:AR Preview · 23 a 29 de novembro de 2026
 BEGIN:VEVENT
-UID:ar-48685@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261116T143000Z
-DTEND:20261116T163000Z
+UID:ar-48676@ar-preview
+DTSTAMP:20261120T003205Z
+DTSTART:20261123T100000Z
+DTEND:20261123T120000Z
+SUMMARY:AR · Plenário — Discussão de normas avocadas
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 20 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Votações\; Continuação do debate n
+ a especialidade do Orçamento do Estado para 2027\nEmissões em direto (q
+ uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
+ v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
+ ar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48689@ar-preview
+DTSTAMP:20261120T003205Z
+DTSTART:20261123T150000Z
+DTEND:20261123T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
  ca
-LOCATION:Assembleia da República · Sala 1
+LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
-  · Reunião n.º 22 · Sala 1\nSíntese: Procedimentos no âmbito da dis
- cussão do Orçamento do Estado para 2027\; Proposta de organização da 
- votação na especialidade (divisão do…\nPágina na AR: https://www.pa
- rlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em d
- ireto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://
- upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR 
- pode mudar.
+  · Reunião n.º 148 · Plenário\nSíntese: Conclusão da votação\, n
+ a especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçame
+ nto do Estado para 2027\nPágina na AR: https://www.parlamento.pt/sites/c
+ om/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (quando houve
+ r): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io
+ /ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
  x
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48695@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261117T140000Z
-DTEND:20261117T160000Z
-SUMMARY:AR · Grupo de Trabalho de Escrutínio de Iniciativas Europeias
-LOCATION:Assembleia da República · Sala 6
-DESCRIPTION:Grupo de Trabalho · Reunião n.º 28 · Sala 6\nSíntese: Pro
- postas de deliberação\nEmissões em direto (quando houver): https://can
- al.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nH
- ora de fim indicativa\; a agenda da AR pode mudar.
+UID:ar-48677@ar-preview
+DTSTAMP:20261120T003205Z
+DTSTART:20261124T100000Z
+DTEND:20261124T120000Z
+SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
+ normas avocadas
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 21 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Votações\; Encerramento do debate na
+  especialidade do Orçamento do Estado para 2027\nEmissões em direto (qu
+ ando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov
+ .github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode muda
+ r.
 URL:https://canal.parlamento.pt/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48711@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261117T160000Z
-DTEND:20261117T180000Z
-SUMMARY:AR · Audição com a Secretária de Estado dos Assuntos Europeus 
- após o Conselho Europeu de 15 e 16 de outubro e…
-LOCATION:Assembleia da República · Sala 1
-DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 65 · Sala 1\n
- Governo: Secretária de Estado dos Assuntos Europeus após o Conselho Eur
- opeu de 15 e 16 de outubro e… · Secretária de Estado dos Assuntos Eur
- opeus após o Conselho Europeu de 15 e 16 de outubro e previamente ao Con
- selho Europeu extraordinário de 26 e 27 de novembro\, cumprindo o estabe
- lecido nas alíneas a\nSíntese: Nomeação de Deputado autor de parecer 
- no âmbito de iniciativas europeias: a) COM(2026)590 - Proposta de REGULA
- MENTO DO PARLAMENTO EUROPEU E…\nPágina na AR: https://www.parlamento.p
- t/sites/com/XVIILeg/4CAE/Paginas/default.aspx\nEmissões em direto (quand
- o houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.gi
- thub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48673@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261118T100000Z
-DTEND:20261118T120000Z
-SUMMARY:AR · Orçamento do Estado 2027
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Plenário · Reunião n.º 17 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Debate na especialidade do Orçamento 
- do Estado para 2027\; Proposta de Lei n.º 110/XVII/2.ª (GOV)\nEmissões
-  em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: htt
- ps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda d
- a AR pode mudar.
-URL:https://canal.parlamento.pt/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48700@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261118T141500Z
-DTEND:20261118T161500Z
-SUMMARY:AR · Escrutínio de iniciativa europeia sobre segurança digital
-LOCATION:Assembleia da República · Sala 6
-DESCRIPTION:Comissão de Assuntos Europeus · Reunião n.º 66 · Sala 6\n
- Síntese: Grupo de Trabalho – Escrutínio de Iniciativas Europeias\; Ap
- reciação e votação de parecer da CAE no âmbito do escrutínio de ini
- ciativas…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/4
- CAE/Paginas/default.aspx\nEmissões em direto (quando houver): https://ca
- nal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\n
- Hora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/4CAE/Paginas/default.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48686@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261118T150000Z
-DTEND:20261118T170000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
-  · Reunião n.º 145 · Plenário\nSíntese: Votação\, na especialidad
- e\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado 
- para 2027\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/5CO
- FAP/Paginas/default.aspx\nEmissões em direto (quando houver): https://ca
- nal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\n
- Hora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48674@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261119T100000Z
-DTEND:20261119T120000Z
-SUMMARY:AR · Debate e Votações do Orçamento do Estado para 2027
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Plenário · Reunião n.º 18 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Discussão de artigos remetidos a Plen
- ário e normas avocadas\; Continuação do debate na especialidade do Or
- çamento do Estado para 2027\nEmissões em direto (quando houver): https:
- //canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previe
- w/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://canal.parlamento.pt/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48687@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261119T150000Z
-DTEND:20261119T170000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
-  · Reunião n.º 146 · Plenário\nSíntese: Continuação da votação\
- , na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orç
- amento do Estado para 2027\nPágina na AR: https://www.parlamento.pt/site
- s/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (quando ho
- uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
- .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48675@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261120T100000Z
-DTEND:20261120T120000Z
-SUMMARY:AR · Debate e votação de artigos do Orçamento do Estado para 2
- 027
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Plenário · Reunião n.º 19 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Discussão de artigos remetidos a Plen
- ário e normas avocadas\; Votações\nEmissões em direto (quando houver)
- : https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/a
- r-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://canal.parlamento.pt/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ar-48688@ar-preview
-DTSTAMP:20261119T164739Z
-DTSTART:20261120T150000Z
-DTEND:20261120T170000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
-  · Reunião n.º 147 · Plenário\nSíntese: Continuação da votação\
- , na especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orç
- amento do Estado para 2027\nPágina na AR: https://www.parlamento.pt/site
- s/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (quando ho
- uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
- .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
