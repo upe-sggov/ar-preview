@@ -669,7 +669,7 @@
   {
    "data": "2026-12-08",
    "diaSemana": "Terça-feira",
-   "atividade": "Comissões",
+   "atividade": "Feriado",
    "horas": ""
   },
   {
@@ -706,7 +706,7 @@
    "data": "2026-12-16",
    "diaSemana": "Quarta-feira",
    "atividade": "Conferência de Líderes Reunião Plenária",
-   "horas": "10h00 · 15h00"
+   "horas": "10h30 · 15h00"
   },
   {
    "data": "2026-12-17",
@@ -735,18 +735,24 @@
     "novos": 5,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-20",
+    "novos": 1,
+    "alterados": 0,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-20T16:20+00:00",
-  "atualizadoLabel": "20 de novembro, 16h20",
+  "atualizado": "2026-11-20T23:52+00:00",
+  "atualizadoLabel": "20 de novembro, 23h52",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
  },
  "fichas": {
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
-   "titulo": "Plenário — Discussão de normas avocadas",
-   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 10h00",
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -917,13 +923,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 308
+    "encontradas": 310
    },
    "base": {
     "ultima": "2026-11-20 12:58",
     "em": "2026-11-20"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre medidas específicas, críticas e propostas de diferentes partidos políticos. O debate evoluiu de anúncios iniciais sobre crescimento económico e investimento para críticas sobre financiamento de infraestruturas, como o Hospital de Gaia, e propostas de alterações, como a suspensão da comissão de reembolso antecipado de créditos à habitação. O Governo enfrentou derrotas iniciais na especialidade, com o PS e o Chega a unirem-se em votações relevantes, enquanto o Livre propôs alterações como o englobamento no IRS de ganhos em jogos online. Apesar das críticas, foram aprovadas medidas como o suplemento para agentes únicos de transportes coletivos e medidas específicas para os Açores propostas pelo Chega. O contexto geral inclui a preparação para o debate plenário de normas avocadas e a discussão de temas como a transição ecológica e a habitação."
   },
   "2026-12-10-48728-plen-rio-15-00": {
@@ -1009,45 +1015,57 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 308,
-    "n7": 32,
+    "n": 310,
+    "n7": 34,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-20",
     "metodo": "expressoes",
-    "ultima": "2026-11-20 12:58",
+    "ultima": "2026-11-20 15:21",
     "ultimas": [
      {
       "data": "2026-11-20",
-      "fonte": "ECO",
-      "titulo": "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
-      "url": "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+      "fonte": "Sábado",
+      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
+      "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "Público",
+      "titulo": "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
+      "url": "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
      },
      {
       "data": "2026-11-20",
       "fonte": "Executive Digest",
       "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
       "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
-     },
-     {
-      "data": "2026-11-20",
-      "fonte": "ECO",
-      "titulo": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
-      "url": "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
      }
     ],
     "todas": [
      [
-      "2026-11-20 12:58",
-      "ECO",
-      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
-      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+      "2026-11-20 15:21",
+      "Sábado",
+      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
+      "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+     ],
+     [
+      "2026-11-20 13:40",
+      "Público",
+      "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
+      "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
      ],
      [
       "2026-11-20 12:23",
       "Executive Digest",
       "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
       "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     ],
+     [
+      "2026-11-20 11:28",
+      "ECO",
+      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
      ],
      [
       "2026-11-20 11:09",
@@ -2930,45 +2948,57 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 308,
-    "n7": 32,
+    "n": 310,
+    "n7": 34,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-20",
     "metodo": "expressoes",
-    "ultima": "2026-11-20 12:58",
+    "ultima": "2026-11-20 15:21",
     "ultimas": [
      {
       "data": "2026-11-20",
-      "fonte": "ECO",
-      "titulo": "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
-      "url": "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+      "fonte": "Sábado",
+      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
+      "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "Público",
+      "titulo": "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
+      "url": "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
      },
      {
       "data": "2026-11-20",
       "fonte": "Executive Digest",
       "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
       "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
-     },
-     {
-      "data": "2026-11-20",
-      "fonte": "ECO",
-      "titulo": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
-      "url": "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
      }
     ],
     "todas": [
      [
-      "2026-11-20 12:58",
-      "ECO",
-      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
-      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+      "2026-11-20 15:21",
+      "Sábado",
+      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
+      "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+     ],
+     [
+      "2026-11-20 13:40",
+      "Público",
+      "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
+      "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
      ],
      [
       "2026-11-20 12:23",
       "Executive Digest",
       "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
       "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     ],
+     [
+      "2026-11-20 11:28",
+      "ECO",
+      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
      ],
      [
       "2026-11-20 11:09",
@@ -4848,45 +4878,57 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 308,
-    "n7": 32,
+    "n": 310,
+    "n7": 34,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-20",
     "metodo": "expressoes",
-    "ultima": "2026-11-20 12:58",
+    "ultima": "2026-11-20 15:21",
     "ultimas": [
      {
       "data": "2026-11-20",
-      "fonte": "ECO",
-      "titulo": "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
-      "url": "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+      "fonte": "Sábado",
+      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
+      "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+     },
+     {
+      "data": "2026-11-20",
+      "fonte": "Público",
+      "titulo": "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
+      "url": "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
      },
      {
       "data": "2026-11-20",
       "fonte": "Executive Digest",
       "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
       "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
-     },
-     {
-      "data": "2026-11-20",
-      "fonte": "ECO",
-      "titulo": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
-      "url": "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
      }
     ],
     "todas": [
      [
-      "2026-11-20 12:58",
-      "ECO",
-      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
-      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
+      "2026-11-20 15:21",
+      "Sábado",
+      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
+      "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+     ],
+     [
+      "2026-11-20 13:40",
+      "Público",
+      "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
+      "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
      ],
      [
       "2026-11-20 12:23",
       "Executive Digest",
       "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
       "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+     ],
+     [
+      "2026-11-20 11:28",
+      "ECO",
+      "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
+      "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
      ],
      [
       "2026-11-20 11:09",
@@ -6765,6 +6807,41 @@
    }
   },
   {
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "data": "2026-11-23",
+   "hora": "12h00",
+   "interveniente": "",
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
+   "ordemTrabalhos": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "id_ar": 48743,
+   "chave": "ar-48743",
+   "dataLabel": "segunda, 23 nov",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "novo": "2026-11-20",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-20",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "data": "2026-11-23",
    "hora": "14h30",
@@ -7046,8 +7123,8 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 139,
-    "n7": 22,
+    "n": 138,
+    "n7": 21,
     "n7ant": 36,
     "dias": 60,
     "ref": "2026-11-20",
@@ -7062,15 +7139,15 @@
      },
      {
       "data": "2026-11-19",
-      "fonte": "ECO",
-      "titulo": "Chineses interessados em investir em fábrica de alumínio em Portugal",
-      "url": "https://eco.sapo.pt/2026/11/19/chineses-interessados-em-investir-em-fabrica-de-aluminio-em-portugal/"
-     },
-     {
-      "data": "2026-11-19",
       "fonte": "Açoriano Oriental",
       "titulo": "Presidente da Visit Azores renuncia ao cargo",
       "url": "https://www.acorianooriental.pt/noticia/presidente-da-visit-azores-renuncia-ao-cargo-382202"
+     },
+     {
+      "data": "2026-11-18",
+      "fonte": "Jornal Económico",
+      "titulo": "Reforço da participação pública no capital da Galp chumbado",
+      "url": "https://jornaleconomico.sapo.pt/noticias/reforco-da-participacao-publica-no-capital-da-galp-chumbado/"
      }
     ],
     "todas": [
@@ -7079,12 +7156,6 @@
       "Jornal de Negócios",
       "CEO interina da Nvidia antecipa aumentos salariais após saída de Huang. \"Vamos seguir em frente\"",
       "https://www.jornaldenegocios.pt/empresas/detalhe/ceo-interina-da-nvidia-antecipa-aumentos-salariais-apos-saida-de-huang-vamos-seguir-em-frente"
-     ],
-     [
-      "2026-11-19 07:03",
-      "ECO",
-      "Chineses interessados em investir em fábrica de alumínio em Portugal",
-      "https://eco.sapo.pt/2026/11/19/chineses-interessados-em-investir-em-fabrica-de-aluminio-em-portugal/"
      ],
      [
       "2026-11-19 01:01",

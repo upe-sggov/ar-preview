@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-23",
  "fim": "2026-11-29",
- "recolha": "2026-11-20T16:20",
+ "recolha": "2026-11-20T23:52",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -56,6 +56,27 @@
     "«proposta de lei» (DAPL)",
     "«orçamento do estado» (transversal)",
     "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48743,
+   "data": "2026-11-23",
+   "hora": "12h00",
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
+   "ordemTrabalhos": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -617,7 +638,7 @@
   {
    "data": "2026-12-08",
    "diaSemana": "Terça-feira",
-   "atividade": "Comissões",
+   "atividade": "Feriado",
    "horas": ""
   },
   {
@@ -654,7 +675,7 @@
    "data": "2026-12-16",
    "diaSemana": "Quarta-feira",
    "atividade": "Conferência de Líderes Reunião Plenária",
-   "horas": "10h00 · 15h00"
+   "horas": "10h30 · 15h00"
   },
   {
    "data": "2026-12-17",
