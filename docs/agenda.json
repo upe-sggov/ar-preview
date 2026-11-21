@@ -749,16 +749,16 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-21T15:35+00:00",
-  "atualizadoLabel": "21 de novembro, 15h35",
+  "atualizado": "2026-11-21T22:57+00:00",
+  "atualizadoLabel": "21 de novembro, 22h57",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
  },
  "fichas": {
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
-   "titulo": "Plenário — Discussão de normas avocadas",
-   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 09h00",
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 15h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -929,13 +929,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 313
+    "encontradas": 315
    },
    "base": {
     "ultima": "2026-11-21 03:56",
     "em": "2026-11-21"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre medidas, críticas e propostas de diferentes partidos políticos. O debate começou com a análise de propostas orçamentais e a viabilização do Governo pelo PS, embora com ressalvas sobre estabilidade política. O Governo enfrentou derrotas iniciais na especialidade, com propostas do PS e do Chega a serem aprovadas, enquanto outros partidos expressavam preocupações sobre a irresponsabilidade. O OE2027 tem sido um tema central de debate, com anúncios de medidas específicas para regiões como a Madeira e os Açores, e discussões sobre habitação, pensões e arrendamento. Apesar de algumas críticas, o processo orçamental continua a evoluir com propostas e reações de diferentes bancadas parlamentares."
   },
   "2026-12-10-48728-plen-rio-15-00": {
@@ -1021,34 +1021,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 313,
-    "n7": 35,
+    "n": 315,
+    "n7": 37,
     "n7ant": 14,
     "dias": 60,
     "ref": "2026-11-21",
     "metodo": "expressoes",
-    "ultima": "2026-11-21 03:56",
+    "ultima": "2026-11-21 17:26",
     "ultimas": [
+     {
+      "data": "2026-11-21",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
+     },
+     {
+      "data": "2026-11-21",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+      "url": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
+     },
      {
       "data": "2026-11-21",
       "fonte": "Renascença",
       "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
       "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "SIC Notícias",
-      "titulo": "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
-      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "SIC Notícias",
-      "titulo": "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
-      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
      }
     ],
     "todas": [
+     [
+      "2026-11-21 17:26",
+      "RTP Notícias",
+      "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
+     ],
+     [
+      "2026-11-21 15:53",
+      "RTP Notícias",
+      "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+      "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
+     ],
      [
       "2026-11-21 03:56",
       "Renascença",
@@ -1059,7 +1071,7 @@
       "2026-11-21 00:28",
       "SIC Notícias",
       "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
      ],
      [
       "2026-11-21 00:28",
@@ -2972,34 +2984,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 313,
-    "n7": 35,
+    "n": 315,
+    "n7": 37,
     "n7ant": 14,
     "dias": 60,
     "ref": "2026-11-21",
     "metodo": "expressoes",
-    "ultima": "2026-11-21 03:56",
+    "ultima": "2026-11-21 17:26",
     "ultimas": [
+     {
+      "data": "2026-11-21",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
+     },
+     {
+      "data": "2026-11-21",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+      "url": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
+     },
      {
       "data": "2026-11-21",
       "fonte": "Renascença",
       "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
       "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "SIC Notícias",
-      "titulo": "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
-      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "SIC Notícias",
-      "titulo": "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
-      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
      }
     ],
     "todas": [
+     [
+      "2026-11-21 17:26",
+      "RTP Notícias",
+      "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
+     ],
+     [
+      "2026-11-21 15:53",
+      "RTP Notícias",
+      "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+      "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
+     ],
      [
       "2026-11-21 03:56",
       "Renascença",
@@ -3010,7 +3034,7 @@
       "2026-11-21 00:28",
       "SIC Notícias",
       "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
      ],
      [
       "2026-11-21 00:28",
@@ -4920,34 +4944,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 313,
-    "n7": 35,
+    "n": 315,
+    "n7": 37,
     "n7ant": 14,
     "dias": 60,
     "ref": "2026-11-21",
     "metodo": "expressoes",
-    "ultima": "2026-11-21 03:56",
+    "ultima": "2026-11-21 17:26",
     "ultimas": [
+     {
+      "data": "2026-11-21",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
+     },
+     {
+      "data": "2026-11-21",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+      "url": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
+     },
      {
       "data": "2026-11-21",
       "fonte": "Renascença",
       "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
       "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "SIC Notícias",
-      "titulo": "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
-      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "SIC Notícias",
-      "titulo": "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
-      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
      }
     ],
     "todas": [
+     [
+      "2026-11-21 17:26",
+      "RTP Notícias",
+      "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+      "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
+     ],
+     [
+      "2026-11-21 15:53",
+      "RTP Notícias",
+      "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+      "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
+     ],
      [
       "2026-11-21 03:56",
       "Renascença",
@@ -4958,7 +4994,7 @@
       "2026-11-21 00:28",
       "SIC Notícias",
       "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
-      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
      ],
      [
       "2026-11-21 00:28",
