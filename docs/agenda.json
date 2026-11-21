@@ -44,7 +44,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "2026-10-13 18:30",
     "ultimas": [
@@ -109,7 +109,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -143,7 +143,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -183,7 +183,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -217,7 +217,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -256,7 +256,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -290,7 +290,7 @@
     "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "2026-11-18 18:29",
     "ultimas": [
@@ -386,7 +386,7 @@
     "n7": 4,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "2026-11-18 20:07",
     "ultimas": [
@@ -514,7 +514,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -552,7 +552,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -589,7 +589,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -627,7 +627,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -741,10 +741,16 @@
     "novos": 1,
     "alterados": 0,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-21",
+    "novos": 0,
+    "alterados": 2,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-20T23:52+00:00",
-  "atualizadoLabel": "20 de novembro, 23h52",
+  "atualizado": "2026-11-21T15:15+00:00",
+  "atualizadoLabel": "21 de novembro, 15h15",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
@@ -752,7 +758,7 @@
  "fichas": {
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
    "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 10h00",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 15h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -923,13 +929,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 310
+    "encontradas": 313
    },
    "base": {
     "ultima": "2026-11-20 12:58",
     "em": "2026-11-20"
    },
-   "novas": 2,
+   "novas": 5,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre medidas específicas, críticas e propostas de diferentes partidos políticos. O debate evoluiu de anúncios iniciais sobre crescimento económico e investimento para críticas sobre financiamento de infraestruturas, como o Hospital de Gaia, e propostas de alterações, como a suspensão da comissão de reembolso antecipado de créditos à habitação. O Governo enfrentou derrotas iniciais na especialidade, com o PS e o Chega a unirem-se em votações relevantes, enquanto o Livre propôs alterações como o englobamento no IRS de ganhos em jogos online. Apesar das críticas, foram aprovadas medidas como o suplemento para agentes únicos de transportes coletivos e medidas específicas para os Açores propostas pelo Chega. O contexto geral inclui a preparação para o debate plenário de normas avocadas e a discussão de temas como a transição ecológica e a habitação."
   },
   "2026-12-10-48728-plen-rio-15-00": {
@@ -979,11 +985,11 @@
   {
    "tema": "Plenário — Discussão de normas avocadas",
    "data": "2026-11-23",
-   "hora": "10h00",
+   "hora": "09h00",
    "interveniente": "",
    "tipoLabel": "Plenário · Reunião n.º 20 · Plenário",
-   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
+   "resumo": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
+   "ordemTrabalhos": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
    "orgao": "Plenário",
    "id_ar": 48676,
    "chave": "ar-48676",
@@ -1015,36 +1021,60 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 310,
-    "n7": 34,
-    "n7ant": 13,
+    "n": 313,
+    "n7": 35,
+    "n7ant": 14,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "expressoes",
-    "ultima": "2026-11-20 15:21",
+    "ultima": "2026-11-21 03:56",
     "ultimas": [
      {
-      "data": "2026-11-20",
-      "fonte": "Sábado",
-      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
-      "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+      "data": "2026-11-21",
+      "fonte": "Renascença",
+      "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
+      "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
      },
      {
-      "data": "2026-11-20",
-      "fonte": "Público",
-      "titulo": "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
-      "url": "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
+      "data": "2026-11-21",
+      "fonte": "SIC Notícias",
+      "titulo": "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
+      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
      },
      {
-      "data": "2026-11-20",
-      "fonte": "Executive Digest",
-      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
-      "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+      "data": "2026-11-21",
+      "fonte": "SIC Notícias",
+      "titulo": "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
+      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
      }
     ],
     "todas": [
      [
-      "2026-11-20 15:21",
+      "2026-11-21 03:56",
+      "Renascença",
+      "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
+      "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
+     ],
+     [
+      "2026-11-21 00:28",
+      "SIC Notícias",
+      "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
+     ],
+     [
+      "2026-11-21 00:28",
+      "SIC Notícias",
+      "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
+     ],
+     [
+      "2026-11-20 18:01",
+      "Público",
+      "OE 2027: sete medidas da oposição aprovadas à revelia da AD",
+      "https://www.publico.pt/2026/11/19/politica/noticia/pensoes-habitacao-funcao-publica-medidas-oposicao-aprovadas-revelia-ad-2195500"
+     ],
+     [
+      "2026-11-20 15:19",
       "Sábado",
       "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
       "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
@@ -2896,16 +2926,10 @@
       "ECO",
       "Apesar das medidas, economistas confiam em contas públicas equilibradas este ano",
       "https://eco.sapo.pt/2026/09/22/apesar-das-medidas-economistas-confiam-em-contas-publicas-equilibradas-este-ano/"
-     ],
-     [
-      "2026-09-21 08:00",
-      "Jornal de Negócios",
-      "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
-      "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
      ]
     ]
    },
-   "alterado": "2026-11-20"
+   "alterado": "2026-11-21"
   },
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
@@ -2948,36 +2972,60 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 310,
-    "n7": 34,
-    "n7ant": 13,
+    "n": 313,
+    "n7": 35,
+    "n7ant": 14,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "expressoes",
-    "ultima": "2026-11-20 15:21",
+    "ultima": "2026-11-21 03:56",
     "ultimas": [
      {
-      "data": "2026-11-20",
-      "fonte": "Sábado",
-      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
-      "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+      "data": "2026-11-21",
+      "fonte": "Renascença",
+      "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
+      "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
      },
      {
-      "data": "2026-11-20",
-      "fonte": "Público",
-      "titulo": "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
-      "url": "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
+      "data": "2026-11-21",
+      "fonte": "SIC Notícias",
+      "titulo": "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
+      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
      },
      {
-      "data": "2026-11-20",
-      "fonte": "Executive Digest",
-      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
-      "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+      "data": "2026-11-21",
+      "fonte": "SIC Notícias",
+      "titulo": "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
+      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
      }
     ],
     "todas": [
      [
-      "2026-11-20 15:21",
+      "2026-11-21 03:56",
+      "Renascença",
+      "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
+      "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
+     ],
+     [
+      "2026-11-21 00:28",
+      "SIC Notícias",
+      "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
+     ],
+     [
+      "2026-11-21 00:28",
+      "SIC Notícias",
+      "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
+     ],
+     [
+      "2026-11-20 18:01",
+      "Público",
+      "OE 2027: sete medidas da oposição aprovadas à revelia da AD",
+      "https://www.publico.pt/2026/11/19/politica/noticia/pensoes-habitacao-funcao-publica-medidas-oposicao-aprovadas-revelia-ad-2195500"
+     ],
+     [
+      "2026-11-20 15:19",
       "Sábado",
       "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
       "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
@@ -4829,12 +4877,6 @@
       "ECO",
       "Apesar das medidas, economistas confiam em contas públicas equilibradas este ano",
       "https://eco.sapo.pt/2026/09/22/apesar-das-medidas-economistas-confiam-em-contas-publicas-equilibradas-este-ano/"
-     ],
-     [
-      "2026-09-21 08:00",
-      "Jornal de Negócios",
-      "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
-      "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
      ]
     ]
    }
@@ -4842,11 +4884,11 @@
   {
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "data": "2026-11-24",
-   "hora": "10h00",
+   "hora": "15h00",
    "interveniente": "",
    "tipoLabel": "Plenário · Reunião n.º 21 · Plenário",
-   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
+   "resumo": "ORDEM DO DIA \n 15H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
+   "ordemTrabalhos": "ORDEM DO DIA \n 15H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
    "orgao": "Plenário",
    "id_ar": 48677,
    "chave": "ar-48677",
@@ -4878,36 +4920,60 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 310,
-    "n7": 34,
-    "n7ant": 13,
+    "n": 313,
+    "n7": 35,
+    "n7ant": 14,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "expressoes",
-    "ultima": "2026-11-20 15:21",
+    "ultima": "2026-11-21 03:56",
     "ultimas": [
      {
-      "data": "2026-11-20",
-      "fonte": "Sábado",
-      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
-      "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+      "data": "2026-11-21",
+      "fonte": "Renascença",
+      "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
+      "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
      },
      {
-      "data": "2026-11-20",
-      "fonte": "Público",
-      "titulo": "Montenegro acusa oposição de aprovar medidas “à la carte”, mas afasta crise política | Orçamento do Estado 2027",
-      "url": "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
+      "data": "2026-11-21",
+      "fonte": "SIC Notícias",
+      "titulo": "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
+      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
      },
      {
-      "data": "2026-11-20",
-      "fonte": "Executive Digest",
-      "titulo": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
-      "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
+      "data": "2026-11-21",
+      "fonte": "SIC Notícias",
+      "titulo": "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
+      "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
      }
     ],
     "todas": [
      [
-      "2026-11-20 15:21",
+      "2026-11-21 03:56",
+      "Renascença",
+      "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
+      "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
+     ],
+     [
+      "2026-11-21 00:28",
+      "SIC Notícias",
+      "OE 2027: medidas do PS e Chega vão trazer de volta o défice?",
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574"
+     ],
+     [
+      "2026-11-21 00:28",
+      "SIC Notícias",
+      "OE 2027: As medidas do PS e do Chega vão trazer de volta o défice?",
+      "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-as-medidas-do-ps-e-do-chega-vao-trazer-de-volta-o-defice--c12f2574"
+     ],
+     [
+      "2026-11-20 18:01",
+      "Público",
+      "OE 2027: sete medidas da oposição aprovadas à revelia da AD",
+      "https://www.publico.pt/2026/11/19/politica/noticia/pensoes-habitacao-funcao-publica-medidas-oposicao-aprovadas-revelia-ad-2195500"
+     ],
+     [
+      "2026-11-20 15:19",
       "Sábado",
       "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
       "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
@@ -6759,15 +6825,10 @@
       "ECO",
       "Apesar das medidas, economistas confiam em contas públicas equilibradas este ano",
       "https://eco.sapo.pt/2026/09/22/apesar-das-medidas-economistas-confiam-em-contas-publicas-equilibradas-este-ano/"
-     ],
-     [
-      "2026-09-21 08:00",
-      "Jornal de Negócios",
-      "Barómetro: Apoio à viabilização do OE 2027 sai reforçado em setembro",
-      "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-apoio-a-viabilizacao-do-oe-2027-sai-reforcado-em-setembro"
      ]
     ]
-   }
+   },
+   "alterado": "2026-11-21"
   }
  ],
  "agenda": [
@@ -6799,7 +6860,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6834,7 +6895,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6869,7 +6930,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -6929,7 +6990,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6964,7 +7025,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6999,7 +7060,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7059,7 +7120,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7093,7 +7154,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7123,14 +7184,20 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 138,
-    "n7": 21,
-    "n7ant": 36,
+    "n": 135,
+    "n7": 22,
+    "n7ant": 34,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
-    "ultima": "2026-11-19 18:56",
+    "ultima": "2026-11-21 00:23",
     "ultimas": [
+     {
+      "data": "2026-11-21",
+      "fonte": "RTP Notícias",
+      "titulo": "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
+      "url": "https://www.rtp.pt/noticias/mundo/trump-exorta-nvidia-a-dar-uma-segunda-oportunidade-a-jensen-huang_n1780691"
+     },
      {
       "data": "2026-11-19",
       "fonte": "Jornal de Negócios",
@@ -7142,15 +7209,15 @@
       "fonte": "Açoriano Oriental",
       "titulo": "Presidente da Visit Azores renuncia ao cargo",
       "url": "https://www.acorianooriental.pt/noticia/presidente-da-visit-azores-renuncia-ao-cargo-382202"
-     },
-     {
-      "data": "2026-11-18",
-      "fonte": "Jornal Económico",
-      "titulo": "Reforço da participação pública no capital da Galp chumbado",
-      "url": "https://jornaleconomico.sapo.pt/noticias/reforco-da-participacao-publica-no-capital-da-galp-chumbado/"
      }
     ],
     "todas": [
+     [
+      "2026-11-21 00:23",
+      "RTP Notícias",
+      "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
+      "https://www.rtp.pt/noticias/mundo/trump-exorta-nvidia-a-dar-uma-segunda-oportunidade-a-jensen-huang_n1780691"
+     ],
      [
       "2026-11-19 18:56",
       "Jornal de Negócios",
@@ -7294,12 +7361,6 @@
       "RTP Notícias",
       "À procura de um novo CEO. Nvidia abordou chefe da Arm, Rene Haas",
       "https://www.rtp.pt/noticias/mundo/a-procura-de-um-novo-ceo-nvidia-abordou-chefe-da-arm-rene-haas_n1779009"
-     ],
-     [
-      "2026-11-13 16:42",
-      "Notícias ao Minuto",
-      "Lusa e sindicatos retomam negociações para revisão do acordo de empresa",
-      "https://www.noticiasaominuto.com/pais/3083826/lusa-e-sindicatos-retomam-negociacoes-para-revisao-do-acordo-de-empresa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
       "2026-11-13 16:37",
@@ -7960,24 +8021,6 @@
       "RTP Notícias",
       "Suspensão da Interrupção Voluntária da Gravidez no Garcia de Orta vai até ao Parlamento",
       "https://www.rtp.pt/noticias/pais/suspensao-da-interrupcao-voluntaria-da-gravidez-no-garcia-de-orta-vai-ate-ao-parlamento_n1767172"
-     ],
-     [
-      "2026-09-21 20:08",
-      "Jornal Económico",
-      "Pedro Portugal Gaspar sai da AIMA e vai ser ouvido para assumir cargo na AdC",
-      "https://jornaleconomico.sapo.pt/noticias/pedro-portugal-gaspar-sai-da-aima-e-vai-ser-ouvido-para-assumir-cargo-na-adc/"
-     ],
-     [
-      "2026-09-21 18:09",
-      "ECO",
-      "Formação executiva do ISEG tem nova administração que quer reforçar ligação às empresas",
-      "https://eco.sapo.pt/2026/09/21/formacao-executiva-do-iseg-tem-nova-administracao-que-quer-reforcar-ligacao-as-empresas/"
-     ],
-     [
-      "2026-09-21 16:41",
-      "ECO",
-      "Pedro Portugal Gaspar deixa presidência da AIMA. Segue-se a Autoridade da Concorrência",
-      "https://eco.sapo.pt/2026/09/21/pedro-portugal-gaspar-troca-aima-pela-autoridade-da-concorrencia/"
      ]
     ]
    }
@@ -8009,7 +8052,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -8044,7 +8087,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-20",
+    "ref": "2026-11-21",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [

@@ -1,13 +1,13 @@
 {
  "inicio": "2026-11-23",
  "fim": "2026-11-29",
- "recolha": "2026-11-20T23:52",
+ "recolha": "2026-11-21T15:15",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
    "id_ar": 48676,
    "data": "2026-11-23",
-   "hora": "10h00",
+   "hora": "09h00",
    "tema": "Plenário — Discussão de normas avocadas",
    "orgao": "Plenário",
    "interveniente": "",
@@ -15,8 +15,8 @@
     "Plenário"
    ],
    "tipoLabel": "Plenário · Reunião n.º 20 · Plenário",
-   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
+   "resumo": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
+   "ordemTrabalhos": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
    "ligacao": "",
    "uo": [
     "DACDP",
@@ -146,7 +146,7 @@
   {
    "id_ar": 48677,
    "data": "2026-11-24",
-   "hora": "10h00",
+   "hora": "15h00",
    "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "orgao": "Plenário",
    "interveniente": "",
@@ -154,8 +154,8 @@
     "Plenário"
    ],
    "tipoLabel": "Plenário · Reunião n.º 21 · Plenário",
-   "resumo": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
-   "ordemTrabalhos": "ORDEM DO DIA \n 10H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
+   "resumo": "ORDEM DO DIA \n 15H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
+   "ordemTrabalhos": "ORDEM DO DIA \n 15H00 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
    "ligacao": "",
    "uo": [
     "DACDP",
