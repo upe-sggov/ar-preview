@@ -749,16 +749,16 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-21T15:15+00:00",
-  "atualizadoLabel": "21 de novembro, 15h15",
+  "atualizado": "2026-11-21T15:35+00:00",
+  "atualizadoLabel": "21 de novembro, 15h35",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
  },
  "fichas": {
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
-   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 15h00",
+   "titulo": "Plenário — Discussão de normas avocadas",
+   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 09h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -770,31 +770,39 @@
      "data": "2026-09-30",
      "fonte": "Dinheiro Vivo",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
-     "sintese": "O líder do PSD, Luís Montenegro, sublinhou um 'sinal importante' dado pelo PS relativamente ao Orçamento do Estado para 2027, indicando um possível compromisso ou abertura para negociações.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O líder parlamentar do PS afirmou que a viabilização do OE2027 não é uma carta branca, justificando a decisão precoce com o tema da estabilidade política, enquanto José Manuel Pureira acusou o Governo de ter tiques de autoritarismo.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
-     "data": "2026-10-01",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/m2/opiniao/oe-2027-deve-promover-o-investimento-a-habitacao-e-a-competitividade-da-construcao/",
-     "sintese": "O Orçamento do Estado para 2027 foi apresentado com o objetivo de promover o investimento, a habitação e a competitividade da construção, conforme destacado por fontes governamentais.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/economia/complemento-solidrio-para-idosos-oe-2027-aposta-em-estagnao-nos-beneficirios",
-     "sintese": "O Orçamento do Estado para 2027 inclui uma aposta na estagnação dos beneficiários do Complemento Solidário para Idosos, conforme noticiado.",
+     "data": "2026-10-03",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2461/",
+     "sintese": "O PS justificou a viabilização do OE2027 com a estabilidade política, enquanto Pureira criticou o Governo.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-08",
-     "fonte": "Jornal Económico",
-     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-presidente-da-cip-pede-medidas-para-tornar-o-investimento-mais-atrativo/",
-     "sintese": "O presidente da CIP apelou a medidas para tornar o investimento público e privado mais atrativo durante a discussão do Orçamento do Estado para 2027.",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
+     "sintese": "O Estado prevê arrecadar 3.796 milhões de euros com um imposto sobre combustíveis no OE2027.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-o-que-preve-o-governo-para-a-habitacao-no-oe-2027-onde-a-palavra-e-mencionada-167-vezes-4f404c34?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-o-que-preve-o-governo-para-a-habitacao-no-oe-2027-onde-a-palavra-e-mencionada-167-vezes-4f404c34",
+     "sintese": "O Orçamento do Estado 2027 prevê medidas para a habitação, com a palavra 'habitação' mencionada 167 vezes.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "O Chega reuniu o seu Conselho Nacional para analisar o OE2027, com propostas específicas para a habitação e a idade da reforma.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -802,71 +810,47 @@
      "data": "2026-10-09",
      "fonte": "Agroportal",
      "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
-     "sintese": "A proposta de Orçamento do Estado para 2027 foi criticada por desperdiçar a oportunidade de acelerar a transição ecológica, de acordo com um especialista.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
-    },
-    {
-     "data": "2026-10-09",
-     "fonte": "Sábado",
-     "url": "https://www.sabado.pt/video/detalhe/quais-as-medidas-do-oe-2027-para-os-jovens",
-     "sintese": "O PS criticou a falta de financiamento para a construção de três novos edifícios do Hospital Eduardo Santos Silva, um projeto estimado em 280 milhões de euros.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "O Chega apresentou 22 medidas específicas para os Açores no âmbito do OE2027, abrangendo áreas fundamentais para os açorianos.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-11",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
-     "sintese": "Empresários expressaram falta de ambição no Orçamento do Estado para 2027, mas elogiaram o equilíbrio das contas públicas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O PS criticou a ausência de financiamento para a construção de três novos edifícios do Hospital Eduardo Santos Silva, um projeto estimado em 280 milhões de euros.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-12",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-10-12-video-empresarios-dizem-que-falta-ambicao-ao-oe-2027-mas-elogiam-equilibrio-das-contas-269a685f",
-     "sintese": "Empresários dizem que falta ambição ao OE 2027, mas elogiam equilíbrio das contas",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/noticias/Or%C3%A7amento-do-Estado-2027-medidas?pagina=2",
+     "sintese": "O Chega apresentou propostas orçamentais para a habitação, que não estão desligadas da lei das rendas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-23",
      "fonte": "JM Madeira",
      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
-     "sintese": "Pedro Coelho destacou o aumento das transferências do Estado para a Madeira no Orçamento do Estado para 2027.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "sintese": "O Chega reuniu o seu Conselho Nacional para analisar o OE2027 e marcar a convenção.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-27",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494",
-     "sintese": "Arranque do debate do OE 2027 e eleições legislativas em Israel",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "O Chega apresentou propostas orçamentais para a Madeira, abrangendo áreas fundamentais para os interesses estratégicos da Região.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-06",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
-     "sintese": "O líder do Chega, Pedro Coelho, destacou o aumento das transferências do Estado para a Madeira no Orçamento do Estado para 2027.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-10",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/opiniao/2026-11-10-oe-2027-portugal-precisa-de-crescer-mais-e-de-convergir-ea4c6bc4",
-     "sintese": "O Orçamento do Estado para 2027 foi descrito como uma oportunidade para Portugal crescer mais e convergir economicamente.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-14",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/politica/3084265/chegaacores-apresenta-22-propostas-para-o-orcamento-do-estado-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Chega apresentou 22 propostas específicas para o Orçamento do Estado para 2027, abrangendo áreas fundamentais para os Açorianos.",
+     "sintese": "O Chega propôs congelar a idade da reforma no próximo ano, com o partido a apresentar 600 alterações ao OE.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -874,15 +858,15 @@
      "data": "2026-11-14",
      "fonte": "Açoriano Oriental",
      "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068",
-     "sintese": "O Chega apresentou 22 medidas específicas para os Açores no âmbito do Orçamento do Estado para 2027.",
+     "sintese": "O Chega apresentou 22 medidas específicas para os Açores no âmbito do OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-18",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/11/18/economia/noticia/aprovada-suspensao-comissao-reembolso-antecipado-creditos-habitacao-2195472",
-     "sintese": "A suspensão da comissão de reembolso antecipado de créditos à habitação foi aprovada no âmbito do Orçamento do Estado para 2027.",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/",
+     "sintese": "O Chega propôs a criação de um projeto de lei para a habitação, com propostas orçamentais que não estão desligadas da lei das rendas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -890,7 +874,7 @@
      "data": "2026-11-18",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/18/governo-sofre-derrota-nas-pensoes-e-no-arrendamento-ao-primeiro-dia-de-votacoes-do-oe2027/",
-     "sintese": "O Governo sofreu derrotas nas primeiras votações da especialidade do Orçamento do Estado para 2027, com o PS e o Chega a unirem-se em votações relevantes.",
+     "sintese": "O Chega apresentou 22 medidas específicas para os Açores no âmbito do OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -898,7 +882,7 @@
      "data": "2026-11-19",
      "fonte": "Jornal de Negócios",
      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/oe-2027-aprovado-o-englobamento-no-irs-dos-ganhos-nos-jogos-e-apostas-online",
-     "sintese": "O Governo aprovou a iniciativa do Livre para englobar os ganhos em jogos e apostas online no IRS.",
+     "sintese": "O Governo da AD sofreu derrotas na votação na especialidade do OE2027, com impacto para as contas públicas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -906,25 +890,41 @@
      "data": "2026-11-19",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/economia/oe2027-aprovado-projeto-do-ps-que-cria-suplemento-de-agente-unico-de-transportes-coletivos_n1780322",
-     "sintese": "O Orçamento do Estado para 2027 financiará um suplemento de 25% para agentes únicos nos transportes públicos.",
+     "sintese": "O Governo sofreu derrotas nas pensões e no arrendamento ao primeiro dia de votações do OE2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-20",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme",
+     "sintese": "O Governo da AD acusou a oposição de irresponsabilidade, mas mantém-se firme no processo orçamental.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-20",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/11/19/politica/noticia/pensoes-habitacao-funcao-publica-medidas-oposicao-aprovadas-revelia-ad-2195500",
+     "sintese": "A oposição aprovou sete medidas do OE2027 à revelia da AD.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-21",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574",
+     "sintese": "A oposição aprovou medidas do OE2027 que podem trazer de volta o défice.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-21",
      "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/pais/2026/11/20/greve-na-funcao-publica-trabalhadores-vao-perder-dia-de-salario-a-lutar-por-alteracoes-no-oe-2027/494354/",
-     "sintese": "Os trabalhadores da função pública vão perder um dia de salário devido a uma greve relacionada com alterações no Orçamento do Estado para 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-20",
-     "fonte": "Executive Digest",
-     "url": "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/",
-     "sintese": "O líder do PSD acusou a oposição de irresponsabilidade, enquanto o Governo manteve-se firme na defesa do Orçamento do Estado para 2027.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas",
+     "sintese": "Passos Coelho afirmou que não aceitaria que fosse o Parlamento a governar.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
@@ -932,11 +932,11 @@
     "encontradas": 313
    },
    "base": {
-    "ultima": "2026-11-20 12:58",
-    "em": "2026-11-20"
+    "ultima": "2026-11-21 03:56",
+    "em": "2026-11-21"
    },
-   "novas": 5,
-   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre medidas específicas, críticas e propostas de diferentes partidos políticos. O debate evoluiu de anúncios iniciais sobre crescimento económico e investimento para críticas sobre financiamento de infraestruturas, como o Hospital de Gaia, e propostas de alterações, como a suspensão da comissão de reembolso antecipado de créditos à habitação. O Governo enfrentou derrotas iniciais na especialidade, com o PS e o Chega a unirem-se em votações relevantes, enquanto o Livre propôs alterações como o englobamento no IRS de ganhos em jogos online. Apesar das críticas, foram aprovadas medidas como o suplemento para agentes únicos de transportes coletivos e medidas específicas para os Açores propostas pelo Chega. O contexto geral inclui a preparação para o debate plenário de normas avocadas e a discussão de temas como a transição ecológica e a habitação."
+   "novas": 0,
+   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre medidas, críticas e propostas de diferentes partidos políticos. O debate começou com a análise de propostas orçamentais e a viabilização do Governo pelo PS, embora com ressalvas sobre estabilidade política. O Governo enfrentou derrotas iniciais na especialidade, com propostas do PS e do Chega a serem aprovadas, enquanto outros partidos expressavam preocupações sobre a irresponsabilidade. O OE2027 tem sido um tema central de debate, com anúncios de medidas específicas para regiões como a Madeira e os Açores, e discussões sobre habitação, pensões e arrendamento. Apesar de algumas críticas, o processo orçamental continua a evoluir com propostas e reações de diferentes bancadas parlamentares."
   },
   "2026-12-10-48728-plen-rio-15-00": {
    "titulo": "Plenário — 15:00",
