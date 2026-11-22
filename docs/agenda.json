@@ -749,16 +749,16 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-22T15:38+00:00",
-  "atualizadoLabel": "22 de novembro, 15h38",
+  "atualizado": "2026-11-22T23:28+00:00",
+  "atualizadoLabel": "22 de novembro, 23h28",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
  },
  "fichas": {
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
-   "titulo": "Plenário — Discussão de normas avocadas",
-   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 09h00",
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 15h00",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -929,13 +929,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 316
+    "encontradas": 317
    },
    "base": {
     "ultima": "2026-11-22 13:36",
     "em": "2026-11-22"
    },
-   "novas": 0,
+   "novas": 1,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre habitação, investimento, competitividade e medidas sociais. O debate evoluiu de anúncios iniciais e prioridades políticas para críticas específicas sobre financiamento e propostas orçamentais. Oposição e partidos apresentaram alterações e expressaram preocupações sobre a falta de ambição e a gestão de contas públicas. Apesar de algumas vitórias políticas, como a aprovação de medidas no IRS, a cobertura manteve-se crítica e focada em potenciais falhas e problemas."
   },
   "2026-12-10-48728-plen-rio-15-00": {
@@ -1021,14 +1021,20 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 316,
-    "n7": 39,
+    "n": 317,
+    "n7": 40,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-22",
     "metodo": "expressoes",
-    "ultima": "2026-11-22 13:36",
+    "ultima": "2026-11-22 17:07",
     "ultimas": [
+     {
+      "data": "2026-11-22",
+      "fonte": "ECO",
+      "titulo": "ECO da Semana: OE2027, proposta de Costa para UE e a Black Friday",
+      "url": "https://eco.sapo.pt/2026/11/22/eco-da-semana-oe2027-proposta-de-costa-para-ue-e-a-black-friday/"
+     },
      {
       "data": "2026-11-22",
       "fonte": "Público",
@@ -1040,15 +1046,15 @@
       "fonte": "RTP Notícias",
       "titulo": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
       "url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
      }
     ],
     "todas": [
+     [
+      "2026-11-22 17:07",
+      "ECO",
+      "ECO da Semana: OE2027, proposta de Costa para UE e a Black Friday",
+      "https://eco.sapo.pt/2026/11/22/eco-da-semana-oe2027-proposta-de-costa-para-ue-e-a-black-friday/"
+     ],
      [
       "2026-11-22 13:36",
       "Público",
@@ -2990,14 +2996,20 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 316,
-    "n7": 39,
+    "n": 317,
+    "n7": 40,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-22",
     "metodo": "expressoes",
-    "ultima": "2026-11-22 13:36",
+    "ultima": "2026-11-22 17:07",
     "ultimas": [
+     {
+      "data": "2026-11-22",
+      "fonte": "ECO",
+      "titulo": "ECO da Semana: OE2027, proposta de Costa para UE e a Black Friday",
+      "url": "https://eco.sapo.pt/2026/11/22/eco-da-semana-oe2027-proposta-de-costa-para-ue-e-a-black-friday/"
+     },
      {
       "data": "2026-11-22",
       "fonte": "Público",
@@ -3009,15 +3021,15 @@
       "fonte": "RTP Notícias",
       "titulo": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
       "url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
      }
     ],
     "todas": [
+     [
+      "2026-11-22 17:07",
+      "ECO",
+      "ECO da Semana: OE2027, proposta de Costa para UE e a Black Friday",
+      "https://eco.sapo.pt/2026/11/22/eco-da-semana-oe2027-proposta-de-costa-para-ue-e-a-black-friday/"
+     ],
      [
       "2026-11-22 13:36",
       "Público",
@@ -4956,14 +4968,20 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 316,
-    "n7": 39,
+    "n": 317,
+    "n7": 40,
     "n7ant": 13,
     "dias": 60,
     "ref": "2026-11-22",
     "metodo": "expressoes",
-    "ultima": "2026-11-22 13:36",
+    "ultima": "2026-11-22 17:07",
     "ultimas": [
+     {
+      "data": "2026-11-22",
+      "fonte": "ECO",
+      "titulo": "ECO da Semana: OE2027, proposta de Costa para UE e a Black Friday",
+      "url": "https://eco.sapo.pt/2026/11/22/eco-da-semana-oe2027-proposta-de-costa-para-ue-e-a-black-friday/"
+     },
      {
       "data": "2026-11-22",
       "fonte": "Público",
@@ -4975,15 +4993,15 @@
       "fonte": "RTP Notícias",
       "titulo": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
       "url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
      }
     ],
     "todas": [
+     [
+      "2026-11-22 17:07",
+      "ECO",
+      "ECO da Semana: OE2027, proposta de Costa para UE e a Black Friday",
+      "https://eco.sapo.pt/2026/11/22/eco-da-semana-oe2027-proposta-de-costa-para-ue-e-a-black-friday/"
+     ],
      [
       "2026-11-22 13:36",
       "Público",
