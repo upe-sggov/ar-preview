@@ -44,7 +44,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "2026-10-13 18:30",
     "ultimas": [
@@ -109,7 +109,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -143,7 +143,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -183,7 +183,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -217,7 +217,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -256,7 +256,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -290,7 +290,7 @@
     "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "2026-11-18 18:29",
     "ultimas": [
@@ -386,7 +386,7 @@
     "n7": 4,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "2026-11-18 20:07",
     "ultimas": [
@@ -514,7 +514,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -552,7 +552,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -589,7 +589,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -627,7 +627,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -749,8 +749,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-21T22:57+00:00",
-  "atualizadoLabel": "21 de novembro, 22h57",
+  "atualizado": "2026-11-22T15:12+00:00",
+  "atualizadoLabel": "22 de novembro, 15h12",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
@@ -929,13 +929,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 315
+    "encontradas": 316
    },
    "base": {
     "ultima": "2026-11-21 03:56",
     "em": "2026-11-21"
    },
-   "novas": 2,
+   "novas": 4,
    "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente no Orçamento do Estado para 2027, com discussões sobre medidas, críticas e propostas de diferentes partidos políticos. O debate começou com a análise de propostas orçamentais e a viabilização do Governo pelo PS, embora com ressalvas sobre estabilidade política. O Governo enfrentou derrotas iniciais na especialidade, com propostas do PS e do Chega a serem aprovadas, enquanto outros partidos expressavam preocupações sobre a irresponsabilidade. O OE2027 tem sido um tema central de debate, com anúncios de medidas específicas para regiões como a Madeira e os Açores, e discussões sobre habitação, pensões e arrendamento. Apesar de algumas críticas, o processo orçamental continua a evoluir com propostas e reações de diferentes bancadas parlamentares."
   },
   "2026-12-10-48728-plen-rio-15-00": {
@@ -1021,34 +1021,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 315,
-    "n7": 37,
-    "n7ant": 14,
+    "n": 316,
+    "n7": 39,
+    "n7ant": 13,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "expressoes",
-    "ultima": "2026-11-21 17:26",
+    "ultima": "2026-11-22 13:36",
     "ultimas": [
+     {
+      "data": "2026-11-22",
+      "fonte": "Público",
+      "titulo": "PSD, PS e Chega trocam acusações sobre responsabilidade e preocupação social | Orçamento do Estado 2027",
+      "url": "https://www.publico.pt/2026/11/22/politica/noticia/hugo-soares-ps-viciado-impostos-chega-viciado-ps-2195878"
+     },
+     {
+      "data": "2026-11-22",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
+     },
      {
       "data": "2026-11-21",
       "fonte": "RTP Notícias",
       "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
       "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "Renascença",
-      "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
-      "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
      }
     ],
     "todas": [
+     [
+      "2026-11-22 13:36",
+      "Público",
+      "PSD, PS e Chega trocam acusações sobre responsabilidade e preocupação social | Orçamento do Estado 2027",
+      "https://www.publico.pt/2026/11/22/politica/noticia/hugo-soares-ps-viciado-impostos-chega-viciado-ps-2195878"
+     ],
+     [
+      "2026-11-22 12:16",
+      "RTP Notícias",
+      "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
+     ],
      [
       "2026-11-21 17:26",
       "RTP Notícias",
@@ -2932,12 +2944,6 @@
       "Renascença",
       "Orçamento do Estado 2027: votação na generalidade a 28 de outubro no Parlamento",
       "https://rr.pt/noticia/politica/2026/09/23/orcamento-do-estado-2027-votacao-na-generalidade-a-28-de-outubro-no-parlamento/486511/"
-     ],
-     [
-      "2026-09-22 14:07",
-      "ECO",
-      "Apesar das medidas, economistas confiam em contas públicas equilibradas este ano",
-      "https://eco.sapo.pt/2026/09/22/apesar-das-medidas-economistas-confiam-em-contas-publicas-equilibradas-este-ano/"
      ]
     ]
    },
@@ -2984,34 +2990,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 315,
-    "n7": 37,
-    "n7ant": 14,
+    "n": 316,
+    "n7": 39,
+    "n7ant": 13,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "expressoes",
-    "ultima": "2026-11-21 17:26",
+    "ultima": "2026-11-22 13:36",
     "ultimas": [
+     {
+      "data": "2026-11-22",
+      "fonte": "Público",
+      "titulo": "PSD, PS e Chega trocam acusações sobre responsabilidade e preocupação social | Orçamento do Estado 2027",
+      "url": "https://www.publico.pt/2026/11/22/politica/noticia/hugo-soares-ps-viciado-impostos-chega-viciado-ps-2195878"
+     },
+     {
+      "data": "2026-11-22",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
+     },
      {
       "data": "2026-11-21",
       "fonte": "RTP Notícias",
       "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
       "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "Renascença",
-      "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
-      "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
      }
     ],
     "todas": [
+     [
+      "2026-11-22 13:36",
+      "Público",
+      "PSD, PS e Chega trocam acusações sobre responsabilidade e preocupação social | Orçamento do Estado 2027",
+      "https://www.publico.pt/2026/11/22/politica/noticia/hugo-soares-ps-viciado-impostos-chega-viciado-ps-2195878"
+     ],
+     [
+      "2026-11-22 12:16",
+      "RTP Notícias",
+      "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
+     ],
      [
       "2026-11-21 17:26",
       "RTP Notícias",
@@ -4895,12 +4913,6 @@
       "Renascença",
       "Orçamento do Estado 2027: votação na generalidade a 28 de outubro no Parlamento",
       "https://rr.pt/noticia/politica/2026/09/23/orcamento-do-estado-2027-votacao-na-generalidade-a-28-de-outubro-no-parlamento/486511/"
-     ],
-     [
-      "2026-09-22 14:07",
-      "ECO",
-      "Apesar das medidas, economistas confiam em contas públicas equilibradas este ano",
-      "https://eco.sapo.pt/2026/09/22/apesar-das-medidas-economistas-confiam-em-contas-publicas-equilibradas-este-ano/"
      ]
     ]
    }
@@ -4944,34 +4956,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 315,
-    "n7": 37,
-    "n7ant": 14,
+    "n": 316,
+    "n7": 39,
+    "n7ant": 13,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "expressoes",
-    "ultima": "2026-11-21 17:26",
+    "ultima": "2026-11-22 13:36",
     "ultimas": [
+     {
+      "data": "2026-11-22",
+      "fonte": "Público",
+      "titulo": "PSD, PS e Chega trocam acusações sobre responsabilidade e preocupação social | Orçamento do Estado 2027",
+      "url": "https://www.publico.pt/2026/11/22/politica/noticia/hugo-soares-ps-viciado-impostos-chega-viciado-ps-2195878"
+     },
+     {
+      "data": "2026-11-22",
+      "fonte": "RTP Notícias",
+      "titulo": "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
+     },
      {
       "data": "2026-11-21",
       "fonte": "RTP Notícias",
       "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
       "url": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
-      "url": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783"
-     },
-     {
-      "data": "2026-11-21",
-      "fonte": "Renascença",
-      "titulo": "OE 2027. Passos Coelho diz que não aceitaria que fosse o Parlamento a governar",
-      "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas"
      }
     ],
     "todas": [
+     [
+      "2026-11-22 13:36",
+      "Público",
+      "PSD, PS e Chega trocam acusações sobre responsabilidade e preocupação social | Orçamento do Estado 2027",
+      "https://www.publico.pt/2026/11/22/politica/noticia/hugo-soares-ps-viciado-impostos-chega-viciado-ps-2195878"
+     ],
+     [
+      "2026-11-22 12:16",
+      "RTP Notícias",
+      "OE2027. PSD acusa oposição de \"ingerência no poder executivo\" e rejeita postura de vitimização",
+      "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893"
+     ],
      [
       "2026-11-21 17:26",
       "RTP Notícias",
@@ -6855,12 +6879,6 @@
       "Renascença",
       "Orçamento do Estado 2027: votação na generalidade a 28 de outubro no Parlamento",
       "https://rr.pt/noticia/politica/2026/09/23/orcamento-do-estado-2027-votacao-na-generalidade-a-28-de-outubro-no-parlamento/486511/"
-     ],
-     [
-      "2026-09-22 14:07",
-      "ECO",
-      "Apesar das medidas, economistas confiam em contas públicas equilibradas este ano",
-      "https://eco.sapo.pt/2026/09/22/apesar-das-medidas-economistas-confiam-em-contas-publicas-equilibradas-este-ano/"
      ]
     ]
    },
@@ -6896,7 +6914,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6931,7 +6949,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6966,7 +6984,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7026,7 +7044,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7061,7 +7079,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7096,7 +7114,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -7156,7 +7174,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7190,7 +7208,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -7220,34 +7238,46 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 135,
-    "n7": 22,
-    "n7ant": 34,
+    "n": 137,
+    "n7": 23,
+    "n7ant": 32,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
-    "ultima": "2026-11-21 00:23",
+    "ultima": "2026-11-22 13:17",
     "ultimas": [
+     {
+      "data": "2026-11-22",
+      "fonte": "ECO",
+      "titulo": "Tranquilidade Angola muda liderança e define estratégia até 2029",
+      "url": "https://eco.sapo.pt/2026/11/22/tranquilidade-angola-muda-lideranca-e-define-estrategia-ate-2029/"
+     },
+     {
+      "data": "2026-11-21",
+      "fonte": "Lusa",
+      "titulo": "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
+      "url": "https://www.lusa.pt/economia/article/2026-11-21/48168591/trump-exorta-nvidia-a-dar-uma-segunda-oportunidade-a-jensen-huang"
+     },
      {
       "data": "2026-11-21",
       "fonte": "RTP Notícias",
       "titulo": "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
       "url": "https://www.rtp.pt/noticias/mundo/trump-exorta-nvidia-a-dar-uma-segunda-oportunidade-a-jensen-huang_n1780691"
-     },
-     {
-      "data": "2026-11-19",
-      "fonte": "Jornal de Negócios",
-      "titulo": "CEO interina da Nvidia antecipa aumentos salariais após saída de Huang. \"Vamos seguir em frente\"",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ceo-interina-da-nvidia-antecipa-aumentos-salariais-apos-saida-de-huang-vamos-seguir-em-frente"
-     },
-     {
-      "data": "2026-11-19",
-      "fonte": "Açoriano Oriental",
-      "titulo": "Presidente da Visit Azores renuncia ao cargo",
-      "url": "https://www.acorianooriental.pt/noticia/presidente-da-visit-azores-renuncia-ao-cargo-382202"
      }
     ],
     "todas": [
+     [
+      "2026-11-22 13:17",
+      "ECO",
+      "Tranquilidade Angola muda liderança e define estratégia até 2029",
+      "https://eco.sapo.pt/2026/11/22/tranquilidade-angola-muda-lideranca-e-define-estrategia-ate-2029/"
+     ],
+     [
+      "2026-11-21 09:41",
+      "Lusa",
+      "Trump exorta Nvidia a dar uma 'segunda oportunidade' a Jensen Huang",
+      "https://www.lusa.pt/economia/article/2026-11-21/48168591/trump-exorta-nvidia-a-dar-uma-segunda-oportunidade-a-jensen-huang"
+     ],
      [
       "2026-11-21 00:23",
       "RTP Notícias",
@@ -8088,7 +8118,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -8123,7 +8153,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-21",
+    "ref": "2026-11-22",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
