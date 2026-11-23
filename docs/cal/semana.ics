@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 23 a 29 de novembro de 2026
 BEGIN:VEVENT
 UID:ar-48676@ar-preview
-DTSTAMP:20261122T232911Z
+DTSTAMP:20261123T120727Z
 DTSTART:20261123T090000Z
 DTEND:20261123T110000Z
 SUMMARY:AR · Plenário — Discussão de normas avocadas
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48689@ar-preview
-DTSTAMP:20261122T232911Z
+DTSTAMP:20261123T120727Z
 DTSTART:20261123T150000Z
 DTEND:20261123T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -41,7 +41,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48677@ar-preview
-DTSTAMP:20261122T232911Z
+DTSTAMP:20261123T120727Z
 DTSTART:20261124T150000Z
 DTEND:20261124T170000Z
 SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
@@ -54,6 +54,22 @@ DESCRIPTION:Plenário · Reunião n.º 21 · Plenário\nGoverno: Governo (
  .github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode muda
  r.
 URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48744@ar-preview
+DTSTAMP:20261123T120727Z
+DTSTART:20261126T150000Z
+DTEND:20261126T170000Z
+SUMMARY:AR · Audiência com Stefan Löfven\, Presidente do PES e anterior
+  primeiro-ministro da Suécia entre 2014 e 2021…
+LOCATION:Assembleia da República · Sala 7
+DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 1
+ 3 · Sala 7\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/6
+ CECT/Paginas/default.aspx\nEmissões em direto (quando houver): https://c
+ anal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\
+ nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

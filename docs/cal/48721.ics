@@ -6,15 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48721@ar-preview
-DTSTAMP:20261122T232911Z
+DTSTAMP:20261123T120727Z
 DTSTART:20261125T143000Z
 DTEND:20261125T163000Z
 SUMMARY:AR · Conselho de Administração
 LOCATION:Assembleia da República · Sala 7
-DESCRIPTION:Conselho de Administração · Reunião n.º 31 · Sala 7\nEmi
- ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
- w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
- enda da AR pode mudar.
+DESCRIPTION:Conselho de Administração · Reunião n.º 31 · Sala 7\nSí
+ ntese: Apreciação da Ata 30/XVII/2ª Sessão (10 novembro)\; Informaç
+ ão 402/DC/2026 - Aquisição de Fardamento Outono/Inverno para AOP's - F
+ eminino\nEmissões em direto (quando houver): https://canal.parlamento.pt
+ /\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indic
+ ativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
