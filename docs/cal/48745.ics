@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48745@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261202T150000Z
+DTEND:20261202T170000Z
+SUMMARY:AR · Plenário — Fixação da Ordem do Dia\, requerida pela IL\
+ , sobre tema a indicar oportunamente.
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 24 · Plenário\nEmissões em diret
+ o (quando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-
+ sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode
+  mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

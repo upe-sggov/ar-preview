@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 23 a 29 de novembro de 2026
 BEGIN:VEVENT
 UID:ar-48676@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261123T090000Z
 DTEND:20261123T110000Z
 SUMMARY:AR · Plenário — Discussão de normas avocadas
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48689@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261123T133000Z
 DTEND:20261123T153000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -40,10 +40,28 @@ URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48748@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261124T110000Z
+DTEND:20261124T130000Z
+SUMMARY:AR · Audiência com RELX-Elsevier
+LOCATION:Assembleia da República · Sala 3
+DESCRIPTION:Comissão da Reforma do Estado e Poder Local · Reunião n.º 
+ 4 · Sala 3\nSíntese: Audiência com RELX-Elsevier no âmbito da impleme
+ ntação de sistemas de inteligência artificial seguros\, transparentes 
+ e responsáveis\, para…\nPágina na AR: https://www.parlamento.pt/sites
+ /com/XVIILeg/13CREPL/Paginas/default.aspx\nEmissões em direto (quando ho
+ uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
+ .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48677@ar-preview
-DTSTAMP:20261123T143026Z
-DTSTART:20261124T150000Z
-DTEND:20261124T170000Z
+DTSTAMP:20261123T193002Z
+DTSTART:20261124T143000Z
+DTEND:20261124T163000Z
 SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
  normas avocadas
 LOCATION:Assembleia da República · Sala das Sessões
@@ -58,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48744@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261126T150000Z
 DTEND:20261126T170000Z
 SUMMARY:AR · Audiência com Stefan Löfven\, Presidente do PES e anterior

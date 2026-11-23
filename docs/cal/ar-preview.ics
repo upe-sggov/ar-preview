@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-CALDESC:Matérias Imediato e Vigilância da agenda da Assembleia da República (AR Preview). Atualização automática.
 BEGIN:VEVENT
 UID:ar-48669@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261109T160000Z
 DTEND:20261109T180000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
@@ -29,7 +29,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48672@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261110T083000Z
 DTEND:20261110T103000Z
 SUMMARY:AR · Escrutínio de Iniciativas Europeias
@@ -43,7 +43,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48666@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261110T090000Z
 DTEND:20261110T110000Z
 SUMMARY:AR · Audição com a Vice-Presidente Executiva da Comissão Europ
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48670@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:AR · Intervenção de Luís Neves na Polícia Judiciária
@@ -80,7 +80,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48685@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261116T143000Z
 DTEND:20261116T163000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -100,7 +100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48695@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261117T140000Z
 DTEND:20261117T160000Z
 SUMMARY:AR · Grupo de Trabalho de Escrutínio de Iniciativas Europeias
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48711@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
 SUMMARY:AR · Audição com a Secretária de Estado dos Assuntos Europeus 
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48673@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261118T100000Z
 DTEND:20261118T120000Z
 SUMMARY:AR · Orçamento do Estado 2027
@@ -152,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48700@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261118T141500Z
 DTEND:20261118T161500Z
 SUMMARY:AR · Escrutínio de iniciativa europeia sobre segurança digital
@@ -169,7 +169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48686@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261118T150000Z
 DTEND:20261118T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -188,7 +188,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48674@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261119T100000Z
 DTEND:20261119T120000Z
 SUMMARY:AR · Debate e Votações do Orçamento do Estado para 2027
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48687@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261119T150000Z
 DTEND:20261119T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -223,7 +223,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48675@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261120T100000Z
 DTEND:20261120T120000Z
 SUMMARY:AR · Debate e votação de artigos do Orçamento do Estado para 2
@@ -239,7 +239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48688@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261120T150000Z
 DTEND:20261120T170000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -258,7 +258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48676@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261123T090000Z
 DTEND:20261123T110000Z
 SUMMARY:AR · Plenário — Discussão de normas avocadas
@@ -274,7 +274,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48689@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261123T133000Z
 DTEND:20261123T153000Z
 SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
@@ -292,10 +292,28 @@ URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48748@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261124T110000Z
+DTEND:20261124T130000Z
+SUMMARY:AR · Audiência com RELX-Elsevier
+LOCATION:Assembleia da República · Sala 3
+DESCRIPTION:Comissão da Reforma do Estado e Poder Local · Reunião n.º 
+ 4 · Sala 3\nSíntese: Audiência com RELX-Elsevier no âmbito da impleme
+ ntação de sistemas de inteligência artificial seguros\, transparentes 
+ e responsáveis\, para…\nPágina na AR: https://www.parlamento.pt/sites
+ /com/XVIILeg/13CREPL/Paginas/default.aspx\nEmissões em direto (quando ho
+ uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
+ .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48677@ar-preview
-DTSTAMP:20261123T143026Z
-DTSTART:20261124T150000Z
-DTEND:20261124T170000Z
+DTSTAMP:20261123T193002Z
+DTSTART:20261124T143000Z
+DTEND:20261124T163000Z
 SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
  normas avocadas
 LOCATION:Assembleia da República · Sala das Sessões
@@ -310,7 +328,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48744@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261126T150000Z
 DTEND:20261126T170000Z
 SUMMARY:AR · Audiência com Stefan Löfven\, Presidente do PES e anterior
@@ -325,8 +343,48 @@ URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48747@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
+ s e Garantias
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades 
+ e Garantias · Reunião n.º 111\nGoverno: Ministro da Defesa · Ministro
+  da Administração Interna e ao Diretor Nacional da Polícia de Seguran
+ ça Pública e mais 1 membro do Governo\nSíntese: Distribuição de inic
+ iativas legislativas: nomeação de relatores e deliberação sobre consu
+ ltas a promover\nPágina na AR: https://www.parlamento.pt/sites/com/XVIIL
+ eg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver): htt
+ ps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pre
+ view/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48749@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Comissão de Cultura\, Comunicação\, Juventude e Desporto
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Cultura\, Comunicação\, Juventude e Desporto ·
+  Reunião n.º 58\nGoverno: Ministra da Cultura\, Juventude e Desporto\nS
+ íntese: Audição regimental da Senhora Ministra da Cultura\, Juventude 
+ e Desporto ao abrigo do n.º 5 do artigo 104.º do Regimento da Assemblei
+ a da…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/12CCC
+ JD/Paginas/default.aspx\nEmissões em direto (quando houver): https://can
+ al.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nH
+ ora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48732@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261203T150000Z
 DTEND:20261203T170000Z
 SUMMARY:AR · Plenário — Projeto de Resolução n.º 1317/XVII/2.ª (CD
@@ -343,7 +401,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48730@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261204T100000Z
 DTEND:20261204T120000Z
 SUMMARY:AR · Plenário — Proposta de Lei n.º 87/XVII/1.ª (GOV) Transp
@@ -360,7 +418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48729@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261209T150000Z
 DTEND:20261209T170000Z
 SUMMARY:AR · Plenário — 15:00
@@ -376,7 +434,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48728@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261210T150000Z
 DTEND:20261210T170000Z
 SUMMARY:AR · Plenário — 15:00
@@ -392,7 +450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48727@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261216T150000Z
 DTEND:20261216T170000Z
 SUMMARY:AR · Plenário — 15:00
@@ -407,7 +465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48731@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261217T150000Z
 DTEND:20261217T170000Z
 SUMMARY:AR · Plenário — 15:00
@@ -423,7 +481,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48733@ar-preview
-DTSTAMP:20261123T143026Z
+DTSTAMP:20261123T193002Z
 DTSTART:20261218T100000Z
 DTEND:20261218T120000Z
 SUMMARY:AR · Plenário — 10:00

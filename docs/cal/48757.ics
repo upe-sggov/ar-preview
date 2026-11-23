@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48757@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261203T140000Z
+DTEND:20261203T160000Z
+SUMMARY:AR · Grupo de Trabalho - Audição de Peticionários e Audiência
+ s
+LOCATION:Assembleia da República
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 23\nSíntese: Audição dos
+  primeiros subscritores da Petição n.º 205/XVII/1.ª – Pela obrigaç
+ ão do cumprimento dos prazos legais para decisão dos processos…\nEmis
+ sões em direto (quando houver): https://canal.parlamento.pt/\nAR Preview
+ : https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a age
+ nda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

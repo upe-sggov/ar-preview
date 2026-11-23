@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48746@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:AR · Grupo de Trabalho - Audição de Peticionários e Audiência
+ s
+LOCATION:Assembleia da República
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 24\nSíntese: Audição do 
+ primeiro subscritor da Petição n.º 220/XVII/1.ª – Nacionalidade Por
+ tuguesa - Regime de Transição Lei Orgânica n.º 1/2026\, de 18…\nEmi
+ ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
+ w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
+ enda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

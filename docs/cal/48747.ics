@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48747@ar-preview
+DTSTAMP:20261123T193002Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
+ s e Garantias
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades 
+ e Garantias · Reunião n.º 111\nGoverno: Ministro da Defesa · Ministro
+  da Administração Interna e ao Diretor Nacional da Polícia de Seguran
+ ça Pública e mais 1 membro do Governo\nSíntese: Distribuição de inic
+ iativas legislativas: nomeação de relatores e deliberação sobre consu
+ ltas a promover\nPágina na AR: https://www.parlamento.pt/sites/com/XVIIL
+ eg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver): htt
+ ps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pre
+ view/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
