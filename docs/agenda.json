@@ -715,10 +715,16 @@
     "novos": 1,
     "alterados": 3,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-23",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-23T11:52+00:00",
-  "atualizadoLabel": "23 de novembro, 11h52",
+  "atualizado": "2026-11-23T14:19+00:00",
+  "atualizadoLabel": "23 de novembro, 14h19",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
@@ -959,34 +965,18 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-09-28",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/2026/9/28/506971-seleccao-portuguesa-abandona-oslo-e-monta-estagio-na-suecia/",
-     "sintese": "A seleção portuguesa abandonou Oslo e estabeleceu um estágio na Suécia, embora não esteja diretamente relacionada com a audiência agendada.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-06",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/mundo/2026/10/06/suecia-vai-enviar-sistemas-patriot-para-a-polonia/488057/?utm_source=cxultimas",
-     "sintese": "A Suécia enviará sistemas Patriot para a Polónia, um evento de segurança internacional, não relacionado com a audiência.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-10-16",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/article/47956957/su%C3%A9cia-entrega-a-kiev-47-me-em-ajuda-civil-urgente",
-     "sintese": "A Suécia entrega ajuda civil urgente a Kiev, um evento humanitário, não relacionado com a audiência.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "data": "2026-10-15",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/10/15/culturaipsilon/noticia/livrarias-luke-kemp-gigantes-pes-barro-estreia-chigozie-obioma-portugal-2191550",
+     "sintese": "Portugal e a Suécia foram comparados em termos de valores europeus, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-22",
      "fonte": "Expresso",
      "url": "https://expresso.pt/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71",
-     "sintese": "Portugal e Suécia comparam valores europeus, um tema de debate político, não diretamente relacionado com a audiência.",
+     "sintese": "Portugal e a Suécia foram comparados em termos de valores europeus, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -994,23 +984,15 @@
      "data": "2026-11-17",
      "fonte": "Observador",
      "url": "https://observador.pt/opiniao/o-algoritmo-tem-pes-de-barro/",
-     "sintese": "O 'O algoritmo tem pés de barro' discute a soberania digital, um tema relacionado com a cooperação tecnológica, mas não diretamente relacionado com a audiência.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-18",
-     "fonte": "La Vanguardia",
-     "url": "https://www.lavanguardia.com/internacional/20261118/11687313/suecia-comunica-exembajador-afganistan-deportacion-estados-unidos.html",
-     "sintese": "A França, Alemanha e Suécia criticam a proposta de orçamento da UE, um tema de debate político, não diretamente relacionado com a audiência.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O artigo 'O algoritmo tem pés de barro' discutiu a soberania digital e a redundância física, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-19",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/mundo/cooperacao-estrategica-cacas-de-franca-e-suecia-ensaiam-dissuasao-nuclear_n1780293",
-     "sintese": "A França, Alemanha e Suécia criticam a proposta de orçamento da UE, um tema de debate político, não diretamente relacionado com a audiência.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -1018,7 +1000,7 @@
      "data": "2026-11-20",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/mundo/artigo/suecia-confirma-que-ativou-cacas-para-defender-espaco-aereo-polaco/18150428",
-     "sintese": "Caças de França e Suécia ensaiam dissuasão nuclear, um evento de segurança internacional, fora do âmbito da audiência.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -1026,7 +1008,7 @@
      "data": "2026-11-21",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/21/franca-alexanha-e-suecia-criticam-proposta-de-orcamento-da-ue/",
-     "sintese": "A Suécia confirma a ativação de caças para defender o espaço aéreo polaco, um evento de segurança, fora do âmbito da audiência.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -1034,13 +1016,13 @@
      "data": "2026-11-21",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/frana-alemanha-e-sucia-criticam-proposta-de-oramento-de-antnio-costa-para-a-ue",
-     "sintese": "A França, Alemanha e Suécia criticam a proposta de orçamento da UE, um tema de debate político, não diretamente relacionado com a audiência.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
-    "analisadas": 10,
+    "analisadas": 7,
     "encontradas": 173
    },
    "base": {
@@ -1048,7 +1030,7 @@
     "em": "2026-11-23"
    },
    "novas": 0,
-   "enquadramento": "A cobertura noticiosa, embora abrangente, não reporta diretamente sobre a audiência com Stefan Löfven. As notícias abrangem temas diversos, como a cooperação internacional, eventos desportivos, questões políticas e tecnológicas, e desenvolvimentos económicos. A Suécia é mencionada em vários contextos, incluindo ajuda humanitária, cooperação militar e política europeia, mas não há menção específica à audiência agendada. A cobertura reflete uma perspetiva geral sobre as relações bilaterais entre Portugal e a Suécia, mas não detalha aspetos relacionados com a cooperação económica ou políticas de coesão territorial."
+   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em desenvolvimentos políticos e diplomáticos entre Portugal e a Suécia, incluindo a cooperação em ajuda humanitária, defesa e políticas europeias. Houve também menções a eventos culturais e desportivos, como a participação de futebolistas portuguesas em competições suecas e a entrega de sistemas de defesa. A cobertura evoluiu de temas gerais para incluir discussões sobre a cooperação económica e políticas de coesão territorial, culminando na audiência com o antigo primeiro-ministro sueco. Nenhuma notícia levantou críticas diretas à matéria em questão."
   }
  },
  "destaques": [
@@ -3004,7 +2986,7 @@
   {
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
    "data": "2026-11-23",
-   "hora": "15h00",
+   "hora": "13h30",
    "interveniente": "",
    "tipoLabel": "Comissão de Orçamento, Finanças e Administração Pública · Reunião n.º 148 · Plenário",
    "resumo": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
@@ -8261,7 +8243,7 @@
    "interveniente": "",
    "tipoLabel": "Assistências ao Plenário",
    "resumo": "15h00 - 16h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palm",
-   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede\n16h30 - 18h00 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n16h30 - 18h00 - Um grupo de 60 alunos e professores da Escola Secundária Sebastião e Silva - Oeiras\n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
+   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede\n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
    "orgao": "Assistências à Sessão Plenária",
    "id_ar": 48742,
    "chave": "ar-48742",

@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-23",
  "fim": "2026-11-29",
- "recolha": "2026-11-23T11:52",
+ "recolha": "2026-11-23T14:19",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -36,7 +36,7 @@
   {
    "id_ar": 48689,
    "data": "2026-11-23",
-   "hora": "15h00",
+   "hora": "13h30",
    "tema": "Comissão de Orçamento, Finanças e Administração Pública",
    "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
    "interveniente": "",
@@ -226,7 +226,7 @@
    ],
    "tipoLabel": "Assistências ao Plenário",
    "resumo": "15h00 - 16h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palm",
-   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede\n16h30 - 18h00 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n16h30 - 18h00 - Um grupo de 60 alunos e professores da Escola Secundária Sebastião e Silva - Oeiras\n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
+   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 32 alunos e professores da Escola Básica e Secundária do Monte da Caparica\n15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede\n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
