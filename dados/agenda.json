@@ -51,7 +51,6 @@
     "Orçamento do Estado 2027",
     "Proposta de Lei n.º 110/XVII"
    ],
-   "expressoesFixas": true,
    "cobertura": {
     "n": 317,
     "n7": 44,
@@ -1984,7 +1983,8 @@
       "https://www.dn.pt/pol%C3%ADtica/oe-2027-bugalho-diz-que-chumbo-do-ps-seria-o-mesmo-que-fazer-o-pino-a-roda-e-o-mortal-retaguarda"
      ]
     ]
-   }
+   },
+   "varrimento": "2026-12-02-48747-comiss-o-de-assuntos-constitucionais-direit"
   },
   {
    "tema": "Comissão de Cultura, Comunicação, Juventude e Desporto",
@@ -3107,16 +3107,16 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-23T19:10+00:00",
-  "atualizadoLabel": "23 de novembro, 19h10",
+  "atualizado": "2026-11-23T19:30+00:00",
+  "atualizadoLabel": "23 de novembro, 19h30",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
  },
  "fichas": {
   "2026-11-23-48676-plen-rio-discuss-o-de-artigos-remetidos-a-p": {
-   "titulo": "Plenário — Discussão de normas avocadas",
-   "meta": "Plenário · Reunião n.º 20 · Plenário · segunda, 23 nov, 09h00",
+   "titulo": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
+   "meta": "Plenário · Reunião n.º 21 · Plenário · terça, 24 nov, 14h30",
    "nivel": "completa",
    "origem": "amalia",
    "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
@@ -3349,34 +3349,10 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-10-06",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/mundo/2026/10/06/suecia-vai-enviar-sistemas-patriot-para-a-polonia/488057/?utm_source=cxultimas",
-     "sintese": "A Suécia enviou sistemas Patriot para a Polónia, indicando cooperação militar, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-08",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/videos/os-seus-pes-podem-revelar-problemas-cardiacos-que-sinais-deve-ter-em-atencao/6ac753b30cf299bc2953ed86",
-     "sintese": "A Suécia entregou ajuda civil urgente a Kiev, demonstrando apoio humanitário, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-10-15",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/15/culturaipsilon/noticia/livrarias-luke-kemp-gigantes-pes-barro-estreia-chigozie-obioma-portugal-2191550",
-     "sintese": "Portugal e a Suécia discutiram diferenças nos valores europeus, indicando um diálogo político, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-16",
-     "fonte": "Lusa",
-     "url": "https://www.lusa.pt/article/47956957/su%C3%A9cia-entrega-a-kiev-47-me-em-ajuda-civil-urgente",
-     "sintese": "A Suécia entregou ajuda civil urgente a Kiev, demonstrando apoio humanitário, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "sintese": "Portugal e a Suécia foram comparados em termos de valores europeus, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3384,7 +3360,7 @@
      "data": "2026-10-22",
      "fonte": "Expresso",
      "url": "https://expresso.pt/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71",
-     "sintese": "Portugal e a Suécia discutiram diferenças nos valores europeus, indicando um diálogo político, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "sintese": "Portugal e a Suécia foram comparados em termos de valores europeus, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3392,31 +3368,15 @@
      "data": "2026-11-17",
      "fonte": "Observador",
      "url": "https://observador.pt/opiniao/o-algoritmo-tem-pes-de-barro/",
-     "sintese": "O artigo discute a soberania digital e a redundância física, indicando preocupações sobre a infraestrutura digital, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "sintese": "O artigo 'O algoritmo tem pés de barro' discutiu a soberania digital e a redundância física, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-17",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/mundo/3085832/presidente-do-congresso-da-suecia-alarga-prazo-para-formar-governo-mas-limite-e-o-natal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O presidente do Congresso da Suécia prolongou o prazo para formar Governo, indicando desenvolvimentos políticos, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-18",
-     "fonte": "La Vanguardia",
-     "url": "https://www.lavanguardia.com/internacional/20261118/11687313/suecia-comunica-exembajador-afganistan-deportacion-estados-unidos.html",
-     "sintese": "A Suécia confirmou a ativação de caças para defender o espaço aéreo polaco, indicando cooperação militar, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-19",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/mundo/cooperacao-estrategica-cacas-de-franca-e-suecia-ensaiam-dissuasao-nuclear_n1780293",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, indicando preocupações políticas, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3424,7 +3384,7 @@
      "data": "2026-11-20",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/mundo/artigo/suecia-confirma-que-ativou-cacas-para-defender-espaco-aereo-polaco/18150428",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, indicando preocupações políticas, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3432,7 +3392,7 @@
      "data": "2026-11-21",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/21/franca-alexanha-e-suecia-criticam-proposta-de-orcamento-da-ue/",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, indicando preocupações políticas, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3440,13 +3400,13 @@
      "data": "2026-11-21",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/frana-alemanha-e-sucia-criticam-proposta-de-oramento-de-antnio-costa-para-a-ue",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, indicando preocupações políticas, mas não diretamente relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
-    "analisadas": 12,
+    "analisadas": 7,
     "encontradas": 173
    },
    "base": {
@@ -3454,7 +3414,7 @@
     "em": "2026-11-23"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em desenvolvimentos políticos e diplomáticos entre Portugal e a Suécia, incluindo a cooperação em ajuda humanitária, defesa e políticas europeias. A cobertura evoluiu de discussões sobre ajuda civil e exercícios de defesa para incluir críticas a propostas orçamentais da UE. Embora nenhuma notícia diretamente aborde a audiência com o antigo primeiro-ministro sueco, a cobertura fornece contexto sobre a cooperação bilateral e a política europeia."
+   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em desenvolvimentos políticos e diplomáticos entre Portugal e a Suécia, incluindo a cooperação em ajuda humanitária, defesa e políticas europeias. Houve também menções a eventos culturais e desportivos, como a participação de futebolistas portuguesas em competições suecas e a entrega de sistemas de defesa. A cobertura evoluiu de temas gerais para incluir discussões sobre a cooperação económica e políticas de coesão territorial, culminando na audiência com o antigo primeiro-ministro sueco. Nenhuma notícia levantou críticas diretas à matéria em questão."
   },
   "2026-11-24-48748-audi-ncia-com-relx-elsevier": {
    "titulo": "Audiência com RELX-Elsevier",
@@ -3476,6 +3436,188 @@
    },
    "novas": 0,
    "enquadramento": "Sem notícias sobre esta matéria nos órgãos de comunicação social acompanhados pelo Radar de Notícias nos últimos 60 dias (expressões usadas: RELX-Elsevier). A ficha é refeita automaticamente quando surgirem notícias."
+  },
+  "2026-12-02-48747-comiss-o-de-assuntos-constitucionais-direit": {
+   "titulo": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+   "meta": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias · Reunião n.º 111 · quarta, 2 dez, 10h00",
+   "nivel": "completa",
+   "origem": "amalia",
+   "gerado_por": "Radar de Notícias — amostra lida e classificada pelo Amália",
+   "atencao": [],
+   "blocos": [],
+   "tabelas": [],
+   "fundo": [
+    {
+     "data": "2026-09-30",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/oe-2027-montenegro-sublinha-sinal-importante-dado-pelo-ps",
+     "sintese": "OE 2027. Montenegro sublinha 'sinal importante' dado pelo PS — O líder do PSD, Luís Montenegro, reconheceu a viabilização do Orçamento do Estado para 2027 pelo PS como um 'sinal importante' de estabilidade política, embora não tenha detalhado as condições ou implicações.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-03",
+     "fonte": "Observador",
+     "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2461/",
+     "sintese": "PS diz que viabilização não é carta branca — A líder parlamentar do PS, Ana Gomes, justificou a decisão de viabilizar o OE2027 com a necessidade de estabilidade política, mas enfatizou que não se trata de uma aprovação incondicional ou de uma aliança formal com o Governo.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/oe-2027-estado-preve-arrecadar-3-796-me-com-imposto-sobre-combustiveis/",
+     "sintese": "Estado prevê arrecadar 3.796 ME com imposto sobre combustíveis — O Orçamento do Estado para 2027 inclui uma proposta de imposto sobre combustíveis que visa arrecadar 3.796 milhões de euros, com o objetivo de financiar medidas ambientais e de transição energética.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-08",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-o-que-preve-o-governo-para-a-habitacao-no-oe-2027-onde-a-palavra-e-mencionada-167-vezes-4f404c34?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/orcamento-do-estado/orcamento-do-estado-2027/2026-10-08-o-que-preve-o-governo-para-a-habitacao-no-oe-2027-onde-a-palavra-e-mencionada-167-vezes-4f404c34",
+     "sintese": "O que prevê o Governo para a habitação no OE 2027, onde a palavra é mencionada 167 vezes — O Orçamento do Estado para 2027 dedica uma atenção significativa à habitação, com 167 menções à palavra 'habitação' em propostas e medidas relacionadas com financiamento, construção e políticas de arrendamento.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/null/3063921/chega-reune-conselho-nacional-para-marcar-convencao-e-analisar-oe-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Chega reúne Conselho Nacional para marcar convenção e analisar OE 2027 — O partido Chega convocou o seu Conselho Nacional para discutir e analisar o Orçamento do Estado para 2027, com o objetivo de definir a sua estratégia e propostas para o debate parlamentar.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-09",
+     "fonte": "Agroportal",
+     "url": "https://www.agroportal.pt/proposta-de-orcamento-do-estado-2027-desperdica-oportunidade-de-acelerar-a-transicao-ecologica/",
+     "sintese": "Proposta de Orçamento do Estado 2027 desperdiça oportunidade de acelerar a transição ecológica — Críticos do Orçamento do Estado para 2027 argumentam que a proposta não aproveita plenamente as oportunidades para acelerar a transição ecológica e a sustentabilidade ambiental, com medidas insuficientes em áreas como energias renováveis e eficiência energética.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Healthnews",
+     "url": "https://healthnews.pt/2026/10/11/hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027/#utm_source=rss&utm_medium=rss&utm_campaign=hospital-de-gaia-ps-critica-governo-por-ausencia-de-financiamento-no-oe2027",
+     "sintese": "Hospital de Gaia: PS critica Governo por ausência de financiamento no OE2027 — O PS de Vila Nova de Gaia acusou o Governo de não prever financiamento no Orçamento do Estado para 2027 para a construção de três novos edifícios do Hospital Eduardo Santos Silva, um projeto estimado em 280 milhões de euros.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-12",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/noticias/Or%C3%A7amento-do-Estado-2027-medidas?pagina=2",
+     "sintese": "Orçamento do Estado 2027 medidas — O debate sobre o Orçamento do Estado para 2027 começou com a discussão de várias medidas propostas pelo Governo, incluindo alterações fiscais, políticas sociais e investimentos em infraestruturas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-23",
+     "fonte": "JM Madeira",
+     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30007742/pedro-coelho-destaca-aumento-das-transferencias-do-estado-para-a-madeira-no-oe-2027.html",
+     "sintese": "Pedro Coelho destaca aumento das transferências do Estado para a Madeira no OE 2027 — O deputado do PSD, Pedro Coelho, destacou o aumento das transferências do Estado para a Madeira no Orçamento do Estado para 2027, como um resultado positivo para a região e para a coesão territorial.",
+     "natureza": "positivo",
+     "naturezaLabel": "Positiva"
+    },
+    {
+     "data": "2026-10-27",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/programa/cafe-duplo-jose-manuel-pureza-e-teresa-leal-coelho?ep=18141494",
+     "sintese": "Arranque do debate do OE 2027 e eleições legislativas em Israel — O início do debate parlamentar sobre o Orçamento do Estado para 2027 coincidiu com a cobertura das eleições legislativas em Israel, com os dois eventos a serem mencionados em conjunto nos meios de comunicação social.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-06",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
+     "sintese": "Chega quer congelar idade da reforma no próximo ano — O partido Chega propôs o congelamento da idade da reforma no próximo ano, como uma medida para aliviar a pressão sobre as pensões e melhorar a sustentabilidade do sistema de segurança social.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-14",
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/oe2027-chega-apresenta-22-medidas-especificas-para-os-acores-382068",
+     "sintese": "Chega apresenta 22 medidas específicas para os Açores — O grupo parlamentar do Chega na Assembleia da República apresentou 22 medidas para os Açores no âmbito do Orçamento do Estado para 2027, abrangendo áreas como infraestruturas, saúde e apoio ao setor agrícola.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "Jornal Económico",
+     "url": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-obrigado-a-criar-garantia-publica-para-pagamento-de-rendas-proposta-pelo-ps/",
+     "sintese": "Governo obrigado a criar garantia pública para pagamento de rendas proposta pelo PS — O PS propôs uma garantia pública para o pagamento de rendas, visando responder à crise habitacional, e o Governo foi obrigado a considerar a proposta, embora com oposição de PSD, CDS-PP e IL.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/18/governo-sofre-derrota-nas-pensoes-e-no-arrendamento-ao-primeiro-dia-de-votacoes-do-oe2027/",
+     "sintese": "Governo sofre derrota nas pensões e no arrendamento ao primeiro dia de votações do OE2027 — O Governo sofreu derrotas nas votações na especialidade do Orçamento do Estado para 2027, com propostas do PS e do Chega sobre pensões e arrendamento a serem aprovadas contra os votos do Governo.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-19",
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/empresas/detalhe/oe-2027-aprovado-o-englobamento-no-irs-dos-ganhos-nos-jogos-e-apostas-online",
+     "sintese": "Aprovado o englobamento no IRS dos ganhos nos jogos e apostas online — A iniciativa do Livre para englobar os ganhos nos jogos e apostas online no IRS foi aprovada, com votos favoráveis de todas as bancadas exceto IL e Chega.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-20",
+     "fonte": "Sábado",
+     "url": "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme",
+     "sintese": "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo 'mantém-se firme' — O primeiro-ministro, Luís Montenegro, acusou a oposição de irresponsabilidade no debate sobre o Orçamento do Estado para 2027, enquanto o Governo mantém a sua posição sobre as medidas e prioridades.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-21",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/programas/linhas-vermelhas/2026-11-21-video-oe-2027-medidas-do-ps-e-chega-vao-trazer-de-volta-o-defice--c12f2574",
+     "sintese": "OE 2027: medidas do PS e Chega vão trazer de volta o défice? — O debate sobre o impacto das medidas propostas pelo PS e pelo Chega nas contas públicas tem levantado a questão de se o défice poderá ser reativado, apesar dos esforços do Governo para manter a disciplina orçamental.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-21",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/noticia/politica/2026/11/21/oe-2027-passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/494504/?utm_source=cxultimas",
+     "sintese": "Passos Coelho diz que não aceitaria que fosse o Parlamento a governar — O antigo primeiro-ministro, Pedro Passos Coelho, expressou a sua preocupação com a possibilidade de o Parlamento assumir funções executivas, argumentando que isso poderia comprometer a estabilidade e a eficácia da governação.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-22",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/politica/oe2027-psd-acusa-oposicao-de-ingerencia-no-poder-executivo-e-rejeita-postura-de-vitimizacao_n1780893",
+     "sintese": "PSD acusa oposição de 'ingerência no poder executivo' e rejeita postura de vitimização — O secretário-geral do PSD, Hugo Soares, acusou o PS e o Chega de ingerência no poder executivo e rejeitou a postura de vitimização adotada pela oposição.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-23",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/11/23/politica/noticia/oe2027-montenegro-acusa-oposicao-bloquear-pais-critica-ziguezagues-2195949",
+     "sintese": "OE2027: Montenegro acusa oposição de 'bloquear' o país e critica 'ziguezagues' — O primeiro-ministro, Luís Montenegro, acusou a oposição de bloquear o país com as suas propostas e criticou os 'ziguezagues' nas negociações e decisões sobre o Orçamento do Estado para 2027.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    }
+   ],
+   "amostra": {
+    "analisadas": 20,
+    "encontradas": 317
+   },
+   "base": {
+    "ultima": "2026-11-23 17:20",
+    "em": "2026-11-23"
+   },
+   "novas": 0,
+   "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado no Orçamento do Estado para 2027, com discussões sobre as suas medidas, propostas e potenciais impactos. O PS e o Chega uniram-se para votar contra algumas propostas governamentais, como a garantia pública para o pagamento de rendas, indicando uma oposição forte. O Governo, liderado por Montenegro, acusou a oposição de irresponsabilidade e de bloquear o país, enquanto a oposição retalia com acusações de autoritarismo e inércia. O debate sobre o OE2027 tem sido marcado por críticas e acusações mútuas, com o PS e o Chega a apresentarem propostas específicas sobre habitação e outras áreas. A cobertura evoluiu de anúncios de medidas para discussões sobre a sua viabilidade e impacto, com o foco na estabilidade política e na gestão das contas públicas."
   }
  },
  "destaques": [
