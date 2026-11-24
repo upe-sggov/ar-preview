@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48761@ar-preview
+DTSTAMP:20261124T190945Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:AR · Grupo de Trabalho para a Implementação da Lei n.º 5-A 202
+ 6\, de 28 de janeiro - Representação de Interesses
+LOCATION:Assembleia da República
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 17\nSíntese: Ponto da situ
+ ação da atualização da plataforma\; Identificação da lista de entid
+ ades a inscrever oficiosamente\nEmissões em direto (quando houver): http
+ s://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-prev
+ iew/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

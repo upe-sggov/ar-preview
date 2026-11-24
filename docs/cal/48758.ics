@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48758@ar-preview
+DTSTAMP:20261124T190945Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:AR · Grupo de Trabalho para a análise e acompanhamento das inici
+ ativas no âmbito do Código do Direito de Autor e Direitos Conexos que i
+ ncidem na reprodução de partituras musicais
+LOCATION:Assembleia da República
+DESCRIPTION:Grupo de Trabalho · Reunião n.º 13\nSíntese: Audição da 
+ Subinspetora-Geral da Inspeção-Geral das Atividades Culturais\, Sara Me
+ dina sobre as iniciativas no âmbito do Código do Direito…\nEmissões 
+ em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: http
+ s://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da
+  AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

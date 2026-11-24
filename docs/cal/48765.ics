@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48765@ar-preview
+DTSTAMP:20261124T190945Z
+DTSTART:20261125T150000Z
+DTEND:20261125T170000Z
+SUMMARY:AR · Comissão de Educação e Ciência
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Educação e Ciência · Reunião n.º 9\nSíntes
+ e: Lançamento do livro\; “O Conhecimento Científico como Pilar da Dec
+ isão Política – Cafés de Ciência no Parlamento”\nPágina na AR: h
+ ttps://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx\nEmi
+ ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
+ w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
+ enda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
