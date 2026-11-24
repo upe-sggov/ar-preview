@@ -1,114 +1,9 @@
 {
  "inicio": "2026-11-23",
  "fim": "2026-11-29",
- "recolha": "2026-11-23T19:30",
+ "recolha": "2026-11-24T03:54",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48676,
-   "data": "2026-11-23",
-   "hora": "09h00",
-   "tema": "Plenário — Discussão de normas avocadas",
-   "orgao": "Plenário",
-   "interveniente": "",
-   "tipo": [
-    "Plenário"
-   ],
-   "tipoLabel": "Plenário · Reunião n.º 20 · Plenário",
-   "resumo": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
-   "ordemTrabalhos": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48689,
-   "data": "2026-11-23",
-   "hora": "13h30",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 148 · Plenário",
-   "resumo": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
-  },
-  {
-   "id_ar": 48743,
-   "data": "2026-11-23",
-   "hora": "12h00",
-   "tema": "Audiências do Grupo Parlamentar do PSD",
-   "orgao": "Audiências do Grupo Parlamentar do PSD",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
-   "ordemTrabalhos": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48750,
-   "data": "2026-11-23",
-   "hora": "11h00",
-   "tema": "Audiências do Grupo Parlamentar do CH",
-   "orgao": "Audiências do Grupo Parlamentar do CH",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "11h00 - Quintajense Futebol Clube",
-   "ordemTrabalhos": "11h00 - Quintajense Futebol Clube",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48648,
-   "data": "2026-11-23",
-   "hora": "15h30",
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "15h30 - Tabaqueira",
-   "ordemTrabalhos": "15h30 - Tabaqueira",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48738,
-   "data": "2026-11-23",
-   "hora": "14h30",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - ",
-   "ordemTrabalhos": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - Um grupo de 15 formandos do Centro de Formação Profissional da Industria Têxtil, Vestuário - Lisboa",
-   "ligacao": ""
-  },
-  {
-   "id_ar": 48741,
-   "data": "2026-11-23",
-   "hora": "10h00",
-   "tema": "Assistências à Sessão Plenária",
-   "orgao": "Assistências à Sessão Plenária",
-   "interveniente": "",
-   "tipo": [
-    "Assistências ao Plenário"
-   ],
-   "tipoLabel": "Assistências ao Plenário",
-   "resumo": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy -",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy - Setúbal\n10h00 - 11h15 - Um grupo de 13 cidadãos da Cruz Vermelha de Matosinhos\n10h00 - 11h15 - Um grupo de 13 Autarcas da Câmara e Assembleia Municipal de Espinho\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Agrupamento de Escolas da Marinha Grande Nascente\n11h30 - 13h00 - Um grupo de 30 alunos e professores da Escola Básica e Secundária Dra. Judite Andrade - Sardoal\n11h30 - 13h00 - Um grupo de 60 alunos e professores do Colégio Pedro Arrupe - Lisboa\n11h30 - 13h00 - Um grupo de 56 alunos e professores da Escola Secundária Manuel Cargaleiro - Amora\n11h30 - 13h00 - Um grupo de 32 alunos e professores da Universidade do Minho",
-   "ligacao": ""
-  },
   {
    "id_ar": 48748,
    "data": "2026-11-24",
@@ -288,6 +183,111 @@
    "resumo": "10h30 - Um grupo de 30 cidadãos da UNICEF - Lisboa\n14h30 - Um grupo de 28 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n15h00 - Um grupo de 27 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n16h00 - Um grupo de 30 cidadãos da Associação Vale Grande - Pontinha",
    "ordemTrabalhos": "10h30 - Um grupo de 30 cidadãos da UNICEF - Lisboa\n14h30 - Um grupo de 28 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n15h00 - Um grupo de 27 alunos e professores do Agrupamento de Escolas do Lumiar - Lisboa\n16h00 - Um grupo de 30 cidadãos da Associação Vale Grande - Pontinha",
    "ligacao": ""
+  },
+  {
+   "id_ar": 48738,
+   "data": "2026-11-23",
+   "hora": "",
+   "tema": "Visitas guiadas ao Palácio de São Bento",
+   "orgao": "Visitas guiadas ao Palácio de São Bento",
+   "interveniente": "",
+   "tipo": [
+    "Visitas ao Palácio de S. Bento"
+   ],
+   "tipoLabel": "Visitas ao Palácio de S. Bento",
+   "resumo": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - ",
+   "ordemTrabalhos": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - Um grupo de 15 formandos do Centro de Formação Profissional da Industria Têxtil, Vestuário - Lisboa",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48741,
+   "data": "2026-11-23",
+   "hora": "",
+   "tema": "Assistências à Sessão Plenária",
+   "orgao": "Assistências à Sessão Plenária",
+   "interveniente": "",
+   "tipo": [
+    "Assistências ao Plenário"
+   ],
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha        \n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation A",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha        \n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy - Setúbal\n10h00 - 11h15 - Um grupo de 13 cidadãos da Cruz Vermelha de Matosinhos    \n10h00 - 11h15 - Um grupo de 13 Autarcas da Câmara e Assembleia Municipal de Espinho        \n11h30 - 13h00 - Um grupo de 50 alunos e professores do Agrupamento de Escolas da Marinha Grande Nascente\n11h30 - 13h00 - Um grupo de 30 alunos e professores da Escola Básica e Secundária Dra. Judite Andrade - Sardoal    \n11h30 - 13h00 - Um grupo de 60 alunos e professores do Colégio Pedro Arrupe - Lisboa\n11h30 - 13h00 - Um grupo de 56 alunos e professores da Escola Secundária Manuel Cargaleiro - Amora\n11h30 - 13h00 - Um grupo de 32 alunos e professores da Universidade do Minho",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48743,
+   "data": "2026-11-23",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PSD",
+   "orgao": "Audiências do Grupo Parlamentar do PSD",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
+   "ordemTrabalhos": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48750,
+   "data": "2026-11-23",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do CH",
+   "orgao": "Audiências do Grupo Parlamentar do CH",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "11h00 - Quintajense Futebol Clube",
+   "ordemTrabalhos": "11h00 - Quintajense Futebol Clube",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48648,
+   "data": "2026-11-23",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do PS",
+   "orgao": "Audiências do Grupo Parlamentar do PS",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "15h30 - Tabaqueira",
+   "ordemTrabalhos": "15h30 - Tabaqueira",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48676,
+   "data": "2026-11-23",
+   "hora": "09h00",
+   "tema": "Plenário — Discussão de normas avocadas",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 20 · Plenário",
+   "resumo": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
+   "ordemTrabalhos": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
+   "ligacao": ""
+  },
+  {
+   "id_ar": 48689,
+   "data": "2026-11-23",
+   "hora": "13h30",
+   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
+   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 148 · Plenário",
+   "resumo": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ordemTrabalhos": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx"
   }
  ],
  "futuro": [

@@ -44,6 +44,7 @@
      "url": "https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.aspx"
     }
    ],
+   "varrimento": "2026-12-02-48747-comiss-o-de-assuntos-constitucionais-direit",
    "expressoes": [
     "OE 2027",
     "OE2027",
@@ -52,11 +53,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 317,
+    "n": 314,
     "n7": 44,
-    "n7ant": 10,
+    "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "expressoes",
     "ultima": "2026-11-23 17:20",
     "ultimas": [
@@ -1963,28 +1964,9 @@
       "Diário de Notícias",
       "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
       "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
-     ],
-     [
-      "2026-09-24 18:25",
-      "Jornal de Negócios",
-      "Nazaré Costa Cabral pede \"cautela e responsabilidade\" a \"todos os atores políticos\" para o OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/nazare-costa-cabral-pede-cautela-e-responsabilidade-a-todos-os-atores-politicos-para-o-oe-2027"
-     ],
-     [
-      "2026-09-24 17:14",
-      "Jornal Económico",
-      "Reserve a data: OE2027 em debate no Jornal Económico",
-      "https://jornaleconomico.sapo.pt/noticias/reserve-a-data-oe2027-em-debate-no-jornal-economico/"
-     ],
-     [
-      "2026-09-24 11:31",
-      "Diário de Notícias",
-      "OE 2027: Bugalho diz que chumbo do PS seria o mesmo que fazer \"o pino, a roda e o mortal à retaguarda\"",
-      "https://www.dn.pt/pol%C3%ADtica/oe-2027-bugalho-diz-que-chumbo-do-ps-seria-o-mesmo-que-fazer-o-pino-a-roda-e-o-mortal-retaguarda"
      ]
     ]
-   },
-   "varrimento": "2026-12-02-48747-comiss-o-de-assuntos-constitucionais-direit"
+   }
   },
   {
    "tema": "Comissão de Cultura, Comunicação, Juventude e Desporto",
@@ -2025,7 +2007,7 @@
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "2026-11-19 09:23",
     "ultimas": [
@@ -2181,7 +2163,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2215,7 +2197,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2249,7 +2231,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2286,7 +2268,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2320,7 +2302,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2359,7 +2341,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2393,7 +2375,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2427,7 +2409,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2461,7 +2443,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2501,7 +2483,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2535,7 +2517,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2569,7 +2551,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2608,7 +2590,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2639,10 +2621,10 @@
    "ligacoes": [],
    "cobertura": {
     "n": 7,
-    "n7": 2,
-    "n7ant": 0,
+    "n7": 1,
+    "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "2026-11-18 18:29",
     "ultimas": [
@@ -2738,7 +2720,7 @@
     "n7": 4,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "2026-11-18 20:07",
     "ultimas": [
@@ -2854,7 +2836,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2892,7 +2874,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2929,7 +2911,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2967,7 +2949,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3105,10 +3087,16 @@
     "novos": 4,
     "alterados": 3,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-24",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-23T19:30+00:00",
-  "atualizadoLabel": "23 de novembro, 19h30",
+  "atualizado": "2026-11-24T03:54+00:00",
+  "atualizadoLabel": "24 de novembro, 03h54",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
@@ -3287,7 +3275,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 317
+    "encontradas": 314
    },
    "base": {
     "ultima": "2026-11-23 17:20",
@@ -3349,34 +3337,66 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-10-15",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/15/culturaipsilon/noticia/livrarias-luke-kemp-gigantes-pes-barro-estreia-chigozie-obioma-portugal-2191550",
-     "sintese": "Portugal e a Suécia foram comparados em termos de valores europeus, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-10-22",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71",
-     "sintese": "Portugal e a Suécia foram comparados em termos de valores europeus, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-17",
-     "fonte": "Observador",
-     "url": "https://observador.pt/opiniao/o-algoritmo-tem-pes-de-barro/",
-     "sintese": "O artigo 'O algoritmo tem pés de barro' discutiu a soberania digital e a redundância física, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
+     "data": "2026-09-28",
+     "fonte": "Diário de Notícias da Madeira",
+     "url": "https://www.dnoticias.pt/2026/9/28/506971-seleccao-portuguesa-abandona-oslo-e-monta-estagio-na-suecia/",
+     "sintese": "A seleção portuguesa abandona Oslo e instala-se para um estágio na Suécia, embora a notícia não detalhe o propósito específico do estágio.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-16",
+     "fonte": "Lusa",
+     "url": "https://www.lusa.pt/article/47956957/su%C3%A9cia-entrega-a-kiev-47-me-em-ajuda-civil-urgente",
+     "sintese": "A Suécia entrega ajuda civil urgente a Kiev, demonstrando um envolvimento em questões internacionais, mas não diretamente relacionado com a audiência.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-07",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/vidas/detalhe/festa-dos-50-anos-da-princesa-victoria-gera-polemica-na-suecia",
+     "sintese": "A polémica em torno da festa da princesa Victoria na Suécia não tem relação com a audiência ou cooperação.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-14",
+     "fonte": "SAPO Tek",
+     "url": "https://tek.sapo.pt/noticias/computadores/artigos/atlas-troca-os-pes-por-rodas-e-transforma-se-num-robot-capaz-de-patinar-e-fazer-piruetas/",
+     "sintese": "Um artigo sobre um robot que troca os pés por rodas demonstra inovação tecnológica, mas não está relacionado com a audiência.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-18",
+     "fonte": "La Vanguardia",
+     "url": "https://www.lavanguardia.com/internacional/20261118/11687313/suecia-comunica-exembajador-afganistan-deportacion-estados-unidos.html",
+     "sintese": "A Suécia comunica a deportação de um embaixador afegão, um evento diplomático que não está diretamente relacionado com a audiência.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-19",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/mundo/3086950/franca-e-suecia-realizam-primeiro-exercicio-de-dissuasao-nuclear-conjunta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "França e a Suécia realizam um exercício de dissuasão nuclear conjunto, um evento de segurança internacional que não está diretamente relacionado com a audiência.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-19",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/mundo/cooperacao-estrategica-cacas-de-franca-e-suecia-ensaiam-dissuasao-nuclear_n1780293",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
+     "sintese": "Caças de França e Suécia ensaiam dissuasão nuclear, um evento de segurança internacional que não está diretamente relacionado com a audiência.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-20",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/20/suecia-confirma-que-ativou-cacas-para-defender-espaco-aereo-polaco/",
+     "sintese": "A Suécia ativa caças para defender o espaço aéreo polaco, um evento de segurança internacional que não está diretamente relacionado com a audiência.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3384,7 +3404,7 @@
      "data": "2026-11-20",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/mundo/artigo/suecia-confirma-que-ativou-cacas-para-defender-espaco-aereo-polaco/18150428",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
+     "sintese": "A Suécia confirma a ativação de caças para defender o espaço aéreo polaco, um evento de segurança internacional que não está diretamente relacionado com a audiência.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3392,29 +3412,37 @@
      "data": "2026-11-21",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/21/franca-alexanha-e-suecia-criticam-proposta-de-orcamento-da-ue/",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "França, Alemanha e Suécia criticam a proposta de orçamento da UE, um evento político que não está diretamente relacionado com a audiência.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-21",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/frana-alemanha-e-sucia-criticam-proposta-de-oramento-de-antnio-costa-para-a-ue",
-     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação entre Portugal e a Suécia.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "França, Alemanha e Suécia criticam a proposta de orçamento da UE, um evento político que não está diretamente relacionado com a audiência.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-22",
+     "fonte": "El País",
+     "url": "https://elpais.com/icon/2026-11-22/chavales-de-15-anos-en-un-bmw-a-30-por-hora-por-que-suecia-esta-llena-de-coches-que-son-legalmente-tractores.html",
+     "sintese": "A Suécia e outros países criticam o orçamento da UE, um evento político que não está diretamente relacionado com a audiência.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     }
    ],
    "amostra": {
-    "analisadas": 7,
-    "encontradas": 173
+    "analisadas": 12,
+    "encontradas": 172
    },
    "base": {
     "ultima": "2026-11-23 05:04",
-    "em": "2026-11-23"
+    "em": "2026-11-24"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em desenvolvimentos políticos e diplomáticos entre Portugal e a Suécia, incluindo a cooperação em ajuda humanitária, defesa e políticas europeias. Houve também menções a eventos culturais e desportivos, como a participação de futebolistas portuguesas em competições suecas e a entrega de sistemas de defesa. A cobertura evoluiu de temas gerais para incluir discussões sobre a cooperação económica e políticas de coesão territorial, culminando na audiência com o antigo primeiro-ministro sueco. Nenhuma notícia levantou críticas diretas à matéria em questão."
+   "enquadramento": "A cobertura noticiosa de 60 dias revela um interesse crescente na Suécia, com notícias que vão desde a cooperação económica e política até eventos diplomáticos e de segurança. A audiência com o antigo primeiro-ministro sueco, Stefan Löfven, é um ponto central, enquadrando-se como uma iniciativa de cooperação económica e territorial entre Portugal e a Suécia. Outras notícias destacam a ajuda civil da Suécia a Kiev, exercícios de dissuasão nuclear conjuntos e a crítica de França, Alemanha e Suécia ao orçamento da UE, indicando um envolvimento ativo da Suécia em questões internacionais. A cobertura evolui de temas gerais como futebol e tecnologia para se focar em relações bilaterais e cooperação estratégica."
   },
   "2026-11-24-48748-audi-ncia-com-relx-elsevier": {
    "titulo": "Audiência com RELX-Elsevier",
@@ -3610,7 +3638,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 317
+    "encontradas": 314
    },
    "base": {
     "ultima": "2026-11-23 17:20",
@@ -3660,11 +3688,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 317,
+    "n": 314,
     "n7": 44,
-    "n7ant": 10,
+    "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "expressoes",
     "ultima": "2026-11-23 17:20",
     "ultimas": [
@@ -5571,24 +5599,6 @@
       "Diário de Notícias",
       "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
       "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
-     ],
-     [
-      "2026-09-24 18:25",
-      "Jornal de Negócios",
-      "Nazaré Costa Cabral pede \"cautela e responsabilidade\" a \"todos os atores políticos\" para o OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/nazare-costa-cabral-pede-cautela-e-responsabilidade-a-todos-os-atores-politicos-para-o-oe-2027"
-     ],
-     [
-      "2026-09-24 17:14",
-      "Jornal Económico",
-      "Reserve a data: OE2027 em debate no Jornal Económico",
-      "https://jornaleconomico.sapo.pt/noticias/reserve-a-data-oe2027-em-debate-no-jornal-economico/"
-     ],
-     [
-      "2026-09-24 11:31",
-      "Diário de Notícias",
-      "OE 2027: Bugalho diz que chumbo do PS seria o mesmo que fazer \"o pino, a roda e o mortal à retaguarda\"",
-      "https://www.dn.pt/pol%C3%ADtica/oe-2027-bugalho-diz-que-chumbo-do-ps-seria-o-mesmo-que-fazer-o-pino-a-roda-e-o-mortal-retaguarda"
      ]
     ]
    },
@@ -5635,11 +5645,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 317,
+    "n": 314,
     "n7": 44,
-    "n7ant": 10,
+    "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "expressoes",
     "ultima": "2026-11-23 17:20",
     "ultimas": [
@@ -7546,24 +7556,6 @@
       "Diário de Notícias",
       "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
       "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
-     ],
-     [
-      "2026-09-24 18:25",
-      "Jornal de Negócios",
-      "Nazaré Costa Cabral pede \"cautela e responsabilidade\" a \"todos os atores políticos\" para o OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/nazare-costa-cabral-pede-cautela-e-responsabilidade-a-todos-os-atores-politicos-para-o-oe-2027"
-     ],
-     [
-      "2026-09-24 17:14",
-      "Jornal Económico",
-      "Reserve a data: OE2027 em debate no Jornal Económico",
-      "https://jornaleconomico.sapo.pt/noticias/reserve-a-data-oe2027-em-debate-no-jornal-economico/"
-     ],
-     [
-      "2026-09-24 11:31",
-      "Diário de Notícias",
-      "OE 2027: Bugalho diz que chumbo do PS seria o mesmo que fazer \"o pino, a roda e o mortal à retaguarda\"",
-      "https://www.dn.pt/pol%C3%ADtica/oe-2027-bugalho-diz-que-chumbo-do-ps-seria-o-mesmo-que-fazer-o-pino-a-roda-e-o-mortal-retaguarda"
      ]
     ]
    }
@@ -7624,7 +7616,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -7671,11 +7663,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 317,
+    "n": 314,
     "n7": 44,
-    "n7ant": 10,
+    "n7ant": 7,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "expressoes",
     "ultima": "2026-11-23 17:20",
     "ultimas": [
@@ -9582,24 +9574,6 @@
       "Diário de Notícias",
       "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
       "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
-     ],
-     [
-      "2026-09-24 18:25",
-      "Jornal de Negócios",
-      "Nazaré Costa Cabral pede \"cautela e responsabilidade\" a \"todos os atores políticos\" para o OE 2027",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/nazare-costa-cabral-pede-cautela-e-responsabilidade-a-todos-os-atores-politicos-para-o-oe-2027"
-     ],
-     [
-      "2026-09-24 17:14",
-      "Jornal Económico",
-      "Reserve a data: OE2027 em debate no Jornal Económico",
-      "https://jornaleconomico.sapo.pt/noticias/reserve-a-data-oe2027-em-debate-no-jornal-economico/"
-     ],
-     [
-      "2026-09-24 11:31",
-      "Diário de Notícias",
-      "OE 2027: Bugalho diz que chumbo do PS seria o mesmo que fazer \"o pino, a roda e o mortal à retaguarda\"",
-      "https://www.dn.pt/pol%C3%ADtica/oe-2027-bugalho-diz-que-chumbo-do-ps-seria-o-mesmo-que-fazer-o-pino-a-roda-e-o-mortal-retaguarda"
      ]
     ]
    },
@@ -9660,11 +9634,11 @@
     "Comissão de Economia"
    ],
    "cobertura": {
-    "n": 173,
-    "n7": 26,
-    "n7ant": 14,
+    "n": 172,
+    "n7": 19,
+    "n7ant": 18,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "expressoes",
     "ultima": "2026-11-23 05:04",
     "ultimas": [
@@ -10719,12 +10693,6 @@
       "La Vanguardia",
       "Cazas de Finlandia y Suecia interceptan aviones de guerra rusos sobre el Báltico",
       "https://www.lavanguardia.com/internacional/20260925/11643649/cazas-finlandia-suecia-interceptan-aviones-guerra-rusos-sobre-baltico.html"
-     ],
-     [
-      "2026-09-24 23:31",
-      "Notícias ao Minuto",
-      "Legislativas na Suécia com número recorde de contestações dos resultados",
-      "https://www.noticiasaominuto.com/mundo/3057037/eleicoes-legislativas-na-suecia-com-numero-recorde-de-contestacoes-dos-resultados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ]
     ]
    },
@@ -10738,8 +10706,8 @@
    "hora": "10h00",
    "interveniente": "",
    "tipoLabel": "Assistências ao Plenário",
-   "resumo": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy -",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha\n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy - Setúbal\n10h00 - 11h15 - Um grupo de 13 cidadãos da Cruz Vermelha de Matosinhos\n10h00 - 11h15 - Um grupo de 13 Autarcas da Câmara e Assembleia Municipal de Espinho\n11h30 - 13h00 - Um grupo de 50 alunos e professores do Agrupamento de Escolas da Marinha Grande Nascente\n11h30 - 13h00 - Um grupo de 30 alunos e professores da Escola Básica e Secundária Dra. Judite Andrade - Sardoal\n11h30 - 13h00 - Um grupo de 60 alunos e professores do Colégio Pedro Arrupe - Lisboa\n11h30 - 13h00 - Um grupo de 56 alunos e professores da Escola Secundária Manuel Cargaleiro - Amora\n11h30 - 13h00 - Um grupo de 32 alunos e professores da Universidade do Minho",
+   "resumo": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha        \n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation A",
+   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha        \n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy - Setúbal\n10h00 - 11h15 - Um grupo de 13 cidadãos da Cruz Vermelha de Matosinhos    \n10h00 - 11h15 - Um grupo de 13 Autarcas da Câmara e Assembleia Municipal de Espinho        \n11h30 - 13h00 - Um grupo de 50 alunos e professores do Agrupamento de Escolas da Marinha Grande Nascente\n11h30 - 13h00 - Um grupo de 30 alunos e professores da Escola Básica e Secundária Dra. Judite Andrade - Sardoal    \n11h30 - 13h00 - Um grupo de 60 alunos e professores do Colégio Pedro Arrupe - Lisboa\n11h30 - 13h00 - Um grupo de 56 alunos e professores da Escola Secundária Manuel Cargaleiro - Amora\n11h30 - 13h00 - Um grupo de 32 alunos e professores da Universidade do Minho",
    "orgao": "Assistências à Sessão Plenária",
    "id_ar": 48741,
    "chave": "ar-48741",
@@ -10760,12 +10728,13 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
-   }
+   },
+   "alterado": "2026-11-24"
   },
   {
    "tema": "Audiências do Grupo Parlamentar do CH",
@@ -10795,7 +10764,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -10830,7 +10799,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -10865,7 +10834,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -10925,7 +10894,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -10960,7 +10929,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11022,7 +10991,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11057,7 +11026,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11091,7 +11060,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11126,7 +11095,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11156,11 +11125,11 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 144,
-    "n7": 28,
-    "n7ant": 20,
+    "n": 143,
+    "n7": 20,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "2026-11-23 16:41",
     "ultimas": [
@@ -12041,12 +12010,6 @@
       "Jornal Económico",
       "Joaquim Saurina assume liderança do WiZink após saída de Iheb Nafaa",
       "https://jornaleconomico.sapo.pt/noticias/joaquim-saurina-assume-lideranca-do-wizink-apos-saida-de-iheb-nafaa/"
-     ],
-     [
-      "2026-09-24 17:38",
-      "RTP Notícias",
-      "Negociações com administração da Lusa terminam sem acordo dizem sindicatos",
-      "https://www.rtp.pt/noticias/economia/negociacoes-com-administracao-da-lusa-terminam-sem-acordo-dizem-sindicatos_n1767515"
      ]
     ]
    },
@@ -12080,7 +12043,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12114,7 +12077,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12149,7 +12112,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-23",
+    "ref": "2026-11-24",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
