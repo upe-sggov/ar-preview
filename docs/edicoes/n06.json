@@ -3336,10 +3336,16 @@
     "novos": 2,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-24",
+    "novos": 0,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-24T18:48+00:00",
-  "atualizadoLabel": "24 de novembro, 18h48",
+  "atualizado": "2026-11-24T19:10+00:00",
+  "atualizadoLabel": "24 de novembro, 19h10",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
@@ -10182,7 +10188,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão de Economia e Coesão Territorial · Reunião n.º 13 · Sala 7",
    "resumo": "Audiência com o antigo primeiro-ministro sueco para discutir cooperação económica e políticas de coesão territorial entre Portugal e a Suécia. Debate sobre boas práticas e desafios comuns em desenvolvimento regional e competitividade.",
-   "ordemTrabalhos": "Audiência com Stefan Löfven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 \n Delegação: \n Stefan Lofven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021;\n Johan Pehrson, Embaixador do Reino da Suécia em Portugal;\n Faraz Divani, Chefe de Missão Adjunto da Embaixada do Reino da Suécia em Portugal;\n Dra. Anna Bergström.",
+   "ordemTrabalhos": "Audiência com Stefan Löfven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 \n Delegação: \n Stefan Lofven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 ;\n Johan Pehrson, Embaixador do Reino da Suécia em Portugal ;\n Faraz Divani, Chefe de Missão Adjunto da Embaixada do Reino da Suécia em Portugal;\n Dra. Anna Bergström.",
    "orgao": "Comissão de Economia e Coesão Territorial",
    "id_ar": 48744,
    "chave": "ar-48744",
@@ -11298,7 +11304,8 @@
      ]
     ]
    },
-   "varrimento": "2026-11-26-48744-audi-ncia-com-stefan-l-fven-presidente-do-p"
+   "varrimento": "2026-11-26-48744-audi-ncia-com-stefan-l-fven-presidente-do-p",
+   "alterado": "2026-11-24"
   }
  ],
  "agenda": [
