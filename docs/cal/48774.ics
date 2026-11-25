@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48774@ar-preview
+DTSTAMP:20261125T181058Z
+DTSTART:20261202T110000Z
+DTEND:20261202T130000Z
+SUMMARY:AR · Comissão de Defesa Nacional
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Defesa Nacional · Reunião n.º 51\nSíntese: Au
+ dição do Chefe do Estado-Maior da Força Aérea e Autoridade Aeronáuti
+ ca Nacional\, General Sérgio da Costa Pereira no âmbito do plano de…\
+ nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/3CDN/Paginas/
+ default.aspx\nEmissões em direto (quando houver): https://canal.parlamen
+ to.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim 
+ indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/3CDN/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

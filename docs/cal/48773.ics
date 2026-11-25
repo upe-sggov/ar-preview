@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48773@ar-preview
+DTSTAMP:20261125T181058Z
+DTSTART:20261203T140000Z
+DTEND:20261203T160000Z
+SUMMARY:AR · Comissão de Cultura\, Comunicação\, Juventude e Desporto
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Cultura\, Comunicação\, Juventude e Desporto ·
+  Reunião n.º 59\nSíntese: Apreciação e votação das atas de 21 e 22
+  de outubro de 2026 e 2 e 3 de novembro de 2026\nPágina na AR: https://w
+ ww.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.aspx\nEmissõe
+ s em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: ht
+ tps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda 
+ da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
