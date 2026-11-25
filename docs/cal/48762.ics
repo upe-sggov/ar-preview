@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48762@ar-preview
+DTSTAMP:20261125T021917Z
+DTSTART:20261124T170000Z
+DTEND:20261124T190000Z
+SUMMARY:AR · Sessão de Proclamação do Vintage Confraria 2024
+LOCATION:Assembleia da República
+DESCRIPTION:Agenda do Presidente da Assembleia da República · Refeitóri
+ o dos Monges\nSíntese: span.EstiloCorreioEletrnico17 { font-family:"Apto
+ s"\,sans-serif\; color:windowtext\; }  div.WordSection1 {\nPágina na AR:
+  https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx\nEmi
+ ssões em direto (quando houver): https://canal.parlamento.pt/\nAR Previe
+ w: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a ag
+ enda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

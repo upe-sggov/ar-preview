@@ -1,146 +1,9 @@
 {
  "inicio": "2026-11-23",
  "fim": "2026-11-29",
- "recolha": "2026-11-24T19:10",
+ "recolha": "2026-11-25T02:08",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48748,
-   "data": "2026-11-24",
-   "hora": "11h00",
-   "tema": "Comissão da Reforma do Estado e Poder Local",
-   "orgao": "Comissão da Reforma do Estado e Poder Local",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 4 · Sala 3",
-   "resumo": "Audiência com RELX-Elsevier no âmbito da implementação de sistemas de inteligência artificial seguros, transparentes e responsáveis, para melhorar os serviços aos cidadãos, gerar valor para a sociedade e fortalecer o sistema científico e de investigação.",
-   "ordemTrabalhos": "Audiência com RELX-Elsevier no âmbito da implementação de sistemas de inteligência artificial seguros, transparentes e responsáveis, para melhorar os serviços aos cidadãos, gerar valor para a sociedade e fortalecer o sistema científico e de investigação.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx",
-   "uo": [
-    "Transversal"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«reforma do estado» (transversal)",
-    "comissão da área de cliente com pedidos à UPE (Ministro Adjunto e da Reforma do Estado; Secretário de Estado para a Digitalização) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48677,
-   "data": "2026-11-24",
-   "hora": "14h30",
-   "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "orgao": "Plenário",
-   "interveniente": "",
-   "tipo": [
-    "Plenário"
-   ],
-   "tipoLabel": "Plenário · Reunião n.º 21 · Plenário",
-   "resumo": "ORDEM DO DIA \n 14H30 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
-   "ordemTrabalhos": "ORDEM DO DIA \n 14H30 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
-   "ligacao": "",
-   "uo": [
-    "DACDP",
-    "DAPL",
-    "Transversal",
-    "UPE"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)",
-    "Plenário: «orçamento do estado» → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48759,
-   "data": "2026-11-24",
-   "hora": "12h00",
-   "tema": "Audiências do Grupo Parlamentar do PSD",
-   "orgao": "Audiências do Grupo Parlamentar do PSD",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "12h00 – Associação All4Integrity",
-   "ordemTrabalhos": "12h00 – Associação All4Integrity",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48735,
-   "data": "2026-11-24",
-   "hora": "16h00",
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "16h00 - Plataforma Sindical dos 5 Sindicatos de Enfermagem (SITEU)",
-   "ordemTrabalhos": "16h00 - Plataforma Sindical dos 5 Sindicatos de Enfermagem (SITEU)",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48739,
-   "data": "2026-11-24",
-   "hora": "10h30",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "10h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n11h00 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n11h30 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
-   "ordemTrabalhos": "10h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n11h00 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n11h30 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48742,
-   "data": "2026-11-24",
-   "hora": "15h00",
-   "tema": "Assistências à Sessão Plenária",
-   "orgao": "Assistências à Sessão Plenária",
-   "interveniente": "",
-   "tipo": [
-    "Assistências ao Plenário"
-   ],
-   "tipoLabel": "Assistências ao Plenário",
-   "resumo": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 ",
-   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede\n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
   {
    "id_ar": 48678,
    "data": "2026-11-25",
@@ -310,8 +173,50 @@
    "validado": false
   },
   {
-   "id_ar": 48738,
-   "data": "2026-11-23",
+   "id_ar": 48762,
+   "data": "2026-11-24",
+   "hora": "17h00",
+   "tema": "Sessão de Proclamação do Vintage Confraria 2024",
+   "orgao": "Sessão de Proclamação do Vintage Confraria 2024",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Refeitório dos Monges",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de proclamação do ano de 2024 como ano vintage do vinho do Porto. Trata-se de uma iniciativa da Confrari",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de proclamação do ano de 2024 como ano vintage do vinho do Porto. Trata-se de uma iniciativa da Confraria do Vinho do Porto.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48763,
+   "data": "2026-11-24",
+   "hora": "14h30",
+   "tema": "Reunião Plenária",
+   "orgao": "Reunião Plenária",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
+   "resumo": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "ordemTrabalhos": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48739,
+   "data": "2026-11-24",
    "hora": "",
    "tema": "Visitas guiadas ao Palácio de São Bento",
    "orgao": "Visitas guiadas ao Palácio de São Bento",
@@ -320,8 +225,8 @@
     "Visitas ao Palácio de S. Bento"
    ],
    "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - ",
-   "ordemTrabalhos": "14h30 - Um grupo do GPA Portugal - Coreia do Sul\n14h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h00 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n15h30 - Um grupo de 30 alunos e professores do Colégio Campo de Flores - Lazarim\n16h00 - Um grupo de 15 formandos do Centro de Formação Profissional da Industria Têxtil, Vestuário - Lisboa",
+   "resumo": "10h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n11h00 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n11h30 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
+   "ordemTrabalhos": "10h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n11h00 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n11h30 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -331,29 +236,8 @@
    "validado": false
   },
   {
-   "id_ar": 48741,
-   "data": "2026-11-23",
-   "hora": "",
-   "tema": "Assistências à Sessão Plenária",
-   "orgao": "Assistências à Sessão Plenária",
-   "interveniente": "",
-   "tipo": [
-    "Assistências ao Plenário"
-   ],
-   "tipoLabel": "Assistências ao Plenário",
-   "resumo": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha        \n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation A",
-   "ordemTrabalhos": "10h00 - 11h15 - Um grupo de 104 alunos e professores do Agrupamento de Escolas de Gândara-Mar - Tocha        \n10h00 - 11h15 - Um grupo de 65 alunos e professores do Agrupamento de Escolas Prof. Reynaldo dos Santos - V. F. Xira\n10h00 - 11h15 - Um grupo de 13 alunos e professores do Brave Generation Academy - Setúbal\n10h00 - 11h15 - Um grupo de 13 cidadãos da Cruz Vermelha de Matosinhos    \n10h00 - 11h15 - Um grupo de 13 Autarcas da Câmara e Assembleia Municipal de Espinho        \n11h30 - 13h00 - Um grupo de 50 alunos e professores do Agrupamento de Escolas da Marinha Grande Nascente\n11h30 - 13h00 - Um grupo de 30 alunos e professores da Escola Básica e Secundária Dra. Judite Andrade - Sardoal    \n11h30 - 13h00 - Um grupo de 60 alunos e professores do Colégio Pedro Arrupe - Lisboa\n11h30 - 13h00 - Um grupo de 56 alunos e professores da Escola Secundária Manuel Cargaleiro - Amora\n11h30 - 13h00 - Um grupo de 32 alunos e professores da Universidade do Minho",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48743,
-   "data": "2026-11-23",
+   "id_ar": 48759,
+   "data": "2026-11-24",
    "hora": "",
    "tema": "Audiências do Grupo Parlamentar do PSD",
    "orgao": "Audiências do Grupo Parlamentar do PSD",
@@ -362,8 +246,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
-   "ordemTrabalhos": "12h00 – Associação Portuguesa das Sociedades Concessionárias de Autoestradas ou Pontes com Portagens (APCAP)\n12h00 – RELX-Elsevier\n15h00 – Câmara Municipal de Moura e Cooperativa Agrícola de Moura e Barrancos",
+   "resumo": "12h00 – Associação All4Integrity",
+   "ordemTrabalhos": "12h00 – Associação All4Integrity",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -373,18 +257,18 @@
    "validado": false
   },
   {
-   "id_ar": 48750,
-   "data": "2026-11-23",
+   "id_ar": 48742,
+   "data": "2026-11-24",
    "hora": "",
-   "tema": "Audiências do Grupo Parlamentar do CH",
-   "orgao": "Audiências do Grupo Parlamentar do CH",
+   "tema": "Assistências à Sessão Plenária",
+   "orgao": "Assistências à Sessão Plenária",
    "interveniente": "",
    "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+    "Assistências ao Plenário"
    ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "11h00 - Quintajense Futebol Clube",
-   "ordemTrabalhos": "11h00 - Quintajense Futebol Clube",
+   "tipoLabel": "Assistências ao Plenário",
+   "resumo": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro  \n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h0",
+   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro  \n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede   \n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -394,8 +278,8 @@
    "validado": false
   },
   {
-   "id_ar": 48648,
-   "data": "2026-11-23",
+   "id_ar": 48735,
+   "data": "2026-11-24",
    "hora": "",
    "tema": "Audiências do Grupo Parlamentar do PS",
    "orgao": "Audiências do Grupo Parlamentar do PS",
@@ -404,8 +288,8 @@
     "Grupos Parlamentares / Partidos / DURP / Ninsc"
    ],
    "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "15h30 - Tabaqueira",
-   "ordemTrabalhos": "15h30 - Tabaqueira",
+   "resumo": "16h00 - Plataforma Sindical dos 5 Sindicatos de Enfermagem (SITEU)",
+   "ordemTrabalhos": "16h00 - Plataforma Sindical dos 5 Sindicatos de Enfermagem (SITEU)",
    "ligacao": "",
    "uo": [],
    "pertinencia": "Registo",
@@ -415,18 +299,42 @@
    "validado": false
   },
   {
-   "id_ar": 48676,
-   "data": "2026-11-23",
-   "hora": "09h00",
-   "tema": "Plenário — Discussão de normas avocadas",
+   "id_ar": 48748,
+   "data": "2026-11-24",
+   "hora": "11h00",
+   "tema": "Comissão da Reforma do Estado e Poder Local",
+   "orgao": "Comissão da Reforma do Estado e Poder Local",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 4 · Sala 3",
+   "resumo": "Audiência com RELX-Elsevier no âmbito da implementação de sistemas de inteligência artificial seguros, transparentes e responsáveis, para melhorar os serviços aos cidadãos, gerar valor para a sociedade e fortalecer o sistema científico e de investigação.",
+   "ordemTrabalhos": "Audiência com RELX-Elsevier no âmbito da implementação de sistemas de inteligência artificial seguros, transparentes e responsáveis, para melhorar os serviços aos cidadãos, gerar valor para a sociedade e fortalecer o sistema científico e de investigação.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx",
+   "uo": [
+    "Transversal"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«reforma do estado» (transversal)",
+    "comissão da área de cliente com pedidos à UPE (Ministro Adjunto e da Reforma do Estado; Secretário de Estado para a Digitalização) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48677,
+   "data": "2026-11-24",
+   "hora": "14h30",
+   "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
    "orgao": "Plenário",
    "interveniente": "",
    "tipo": [
     "Plenário"
    ],
-   "tipoLabel": "Plenário · Reunião n.º 20 · Plenário",
-   "resumo": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GO",
-   "ordemTrabalhos": "ORDEM DO DIA \n 09H00 \n 1 - Discussão de normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Continuação do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n GOV \n 30 m \n PSD \n 21 m 36 \n CH \n 18 m \n PS \n 12 m 57 \n IL \n 13 m 14 \n L \n 3 m 14 \n PCP \n 3 m 42 \n CDS-PP \n 6 m 11 \n BE \n 3 m 08 \n PAN \n 0 m 35 \n JPP \n 2 m 48 \n Total \n 115 m 25",
+   "tipoLabel": "Plenário · Reunião n.º 21 · Plenário",
+   "resumo": "ORDEM DO DIA \n 14H30 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
+   "ordemTrabalhos": "ORDEM DO DIA \n 14H30 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
    "ligacao": "",
    "uo": [
     "DACDP",
@@ -444,28 +352,86 @@
    "validado": false
   },
   {
-   "id_ar": 48689,
-   "data": "2026-11-23",
-   "hora": "13h30",
-   "tema": "Comissão de Orçamento, Finanças e Administração Pública",
-   "orgao": "Comissão de Orçamento, Finanças e Administração Pública",
+   "id_ar": 48767,
+   "data": "2026-11-25",
+   "hora": "19h00",
+   "tema": "Homenagem a Eça de Queiroz",
+   "orgao": "Homenagem a Eça de Queiroz",
    "interveniente": "",
    "tipo": [
-    "Comissões Parlamentares"
+    "Agenda do Presidente da Assembleia da República"
    ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 148 · Plenário",
-   "resumo": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ordemTrabalhos": "Conclusão da votação, na especialidade, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçamento do Estado para 2027.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx",
-   "uo": [
-    "DAPL",
-    "Transversal"
-   ],
-   "pertinencia": "Imediato",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Grémio Literário, Lisboa",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n}  \n O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa numa homenagem a Eça de Queiroz, nos 181 anos do seu nascimento.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n}  \n O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa numa homenagem a Eça de Queiroz, nos 181 anos do seu nascimento.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
    "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (transversal)",
-    "assunto acompanhado pela área: Orçamento do Estado para 2027 — levantamento das propostas de alteração (DACDP, com apoio da UPE) → Imediato"
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48768,
+   "data": "2026-11-25",
+   "hora": "16h00",
+   "tema": "Audiência com o Embaixador de França",
+   "orgao": "Audiência com o Embaixador de França",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala de Visitas do PAR",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador de França.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador de França.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48769,
+   "data": "2026-11-25",
+   "hora": "15h30",
+   "tema": "Audiência com o Embaixador da Geórgia",
+   "orgao": "Audiência com o Embaixador da Geórgia",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala de Visitas do PAR",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador da Geórgia.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador da Geórgia.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48770,
+   "data": "2026-11-25",
+   "hora": "11h00",
+   "tema": "Sessão Solene comemorativa do 51º aniversário do 25 de novembro",
+   "orgao": "Sessão Solene comemorativa do 51º aniversário do 25 de novembro",
+   "interveniente": "",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à Sessão Solene comemorativa do 51º aniversário do 25 de novembro.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à Sessão Solene comemorativa do 51º aniversário do 25 de novembro.",
+   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   }
@@ -1053,27 +1019,6 @@
    "criterio": [
     "«processo legislativo» (DAPL)",
     "presença de membro do Governo → Vigilância"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48756,
-   "data": "2026-12-04",
-   "hora": "",
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "14h00 - Sindicato Independente e Solidário dos Trabalhadores do Estado e Regime Público (SISTERP)",
-   "ordemTrabalhos": "14h00 - Sindicato Independente e Solidário dos Trabalhadores do Estado e Regime Público (SISTERP)",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   }

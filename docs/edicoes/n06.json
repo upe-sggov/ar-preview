@@ -53,11 +53,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 339,
-    "n7": 69,
-    "n7ant": 7,
+    "n": 338,
+    "n7": 49,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "expressoes",
     "ultima": "2026-11-24 16:09",
     "ultimas": [
@@ -2108,12 +2108,6 @@
       "SIC Notícias",
       "OE 2027: Livre diz que \"dificilmente acompanhará\" proposta do Governo",
       "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4"
-     ],
-     [
-      "2026-09-25 10:01",
-      "Diário de Notícias",
-      "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
-      "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
      ]
     ]
    }
@@ -2154,7 +2148,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2188,7 +2182,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2222,7 +2216,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2256,7 +2250,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2292,7 +2286,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2326,7 +2320,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2360,7 +2354,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2394,7 +2388,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2431,7 +2425,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2465,7 +2459,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2504,7 +2498,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2538,7 +2532,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2572,41 +2566,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
-    "metodo": "palavras",
-    "ultima": "",
-    "ultimas": [],
-    "todas": []
-   }
-  },
-  {
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "data": "2026-12-04",
-   "hora": "",
-   "interveniente": "",
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "14h00 - Sindicato Independente e Solidário dos Trabalhadores do Estado e Regime Público (SISTERP)",
-   "ordemTrabalhos": "14h00 - Sindicato Independente e Solidário dos Trabalhadores do Estado e Regime Público (SISTERP)",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "id_ar": 48756,
-   "chave": "ar-48756",
-   "dataLabel": "sexta, 4 dez",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Tarde",
-   "ligacoes": [],
-   "cobertura": {
-    "n": 0,
-    "n7": 0,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2646,7 +2606,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2680,7 +2640,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2714,7 +2674,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2753,7 +2713,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2787,7 +2747,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2818,10 +2778,10 @@
    "ligacoes": [],
    "cobertura": {
     "n": 8,
-    "n7": 2,
-    "n7ant": 1,
+    "n7": 1,
+    "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "2026-11-24 07:10",
     "ultimas": [
@@ -2923,7 +2883,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2954,10 +2914,10 @@
    "ligacoes": [],
    "cobertura": {
     "n": 10,
-    "n7": 4,
-    "n7ant": 0,
+    "n7": 0,
+    "n7ant": 4,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "2026-11-18 20:07",
     "ultimas": [
@@ -3073,7 +3033,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3111,7 +3071,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3148,7 +3108,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3186,7 +3146,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3342,10 +3302,16 @@
     "novos": 0,
     "alterados": 1,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-25",
+    "novos": 6,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-24T19:10+00:00",
-  "atualizadoLabel": "24 de novembro, 19h10",
+  "atualizado": "2026-11-25T02:08+00:00",
+  "atualizadoLabel": "25 de novembro, 02h08",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
@@ -3524,7 +3490,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 339
+    "encontradas": 338
    },
    "base": {
     "ultima": "2026-11-23 17:20",
@@ -3584,17 +3550,50 @@
    "atencao": [],
    "blocos": [],
    "tabelas": [],
-   "fundo": [],
+   "fundo": [
+    {
+     "data": "2026-11-19",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/mundo/cooperacao-estrategica-cacas-de-franca-e-suecia-ensaiam-dissuasao-nuclear_n1780293",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-21",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/21/franca-alexanha-e-suecia-criticam-proposta-de-orcamento-da-ue/",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-21",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/frana-alemanha-e-sucia-criticam-proposta-de-oramento-de-antnio-costa-para-a-ue",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-22",
+     "fonte": "El País",
+     "url": "https://elpais.com/icon/2026-11-22/chavales-de-15-anos-en-un-bmw-a-30-por-hora-por-que-suecia-esta-llena-de-coches-que-son-legalmente-tractores.html",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, mas a notícia não está relacionada com a cooperação económica ou políticas de coesão territorial.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    }
+   ],
    "amostra": {
-    "analisadas": 0,
-    "encontradas": 173
+    "analisadas": 4,
+    "encontradas": 169
    },
    "base": {
     "ultima": "2026-11-24 09:00",
-    "em": "2026-11-24"
+    "em": "2026-11-25"
    },
    "novas": 0,
-   "enquadramento": "A cobertura noticiosa dos últimos 60 dias centra-se principalmente em eventos políticos e diplomáticos envolvendo a Suécia, com destaque para a cooperação com a UE, exercícios militares conjuntos e questões de segurança. Embora nenhuma notícia seja diretamente relevante para a audiência com Stefan Löfven, a cobertura inclui referências a posições políticas e acordos bilaterais. Não se detetam polémicas ou críticas diretas relacionadas com a cooperação económica ou políticas de coesão territorial entre Portugal e a Suécia."
+   "enquadramento": "Nos últimos 60 dias, a cobertura noticiosa focou-se principalmente em desenvolvimentos políticos e diplomáticos envolvendo a Suécia, incluindo a entrega de ajuda civil, exercícios de dissuasão nuclear conjunta com a França e a crítica de países como a França e a Alemanha relativamente ao orçamento da UE. Houve também menções a eventos desportivos, culturais e de segurança, mas nenhuma notícia abordou diretamente a cooperação económica ou as políticas de coesão territorial entre Portugal e a Suécia. A cobertura evoluiu de temas gerais de política internacional para incluir detalhes específicos sobre a posição da Suécia em questões europeias e de segurança."
   },
   "2026-11-24-48748-audi-ncia-com-relx-elsevier": {
    "titulo": "Audiência com RELX-Elsevier",
@@ -3790,7 +3789,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 339
+    "encontradas": 338
    },
    "base": {
     "ultima": "2026-11-24 16:09",
@@ -3840,11 +3839,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 339,
-    "n7": 69,
-    "n7ant": 7,
+    "n": 338,
+    "n7": 49,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "expressoes",
     "ultima": "2026-11-24 16:09",
     "ultimas": [
@@ -5895,12 +5894,6 @@
       "SIC Notícias",
       "OE 2027: Livre diz que \"dificilmente acompanhará\" proposta do Governo",
       "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4"
-     ],
-     [
-      "2026-09-25 10:01",
-      "Diário de Notícias",
-      "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
-      "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
      ]
     ]
    },
@@ -5947,11 +5940,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 339,
-    "n7": 69,
-    "n7ant": 7,
+    "n": 338,
+    "n7": 49,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "expressoes",
     "ultima": "2026-11-24 16:09",
     "ultimas": [
@@ -8002,12 +7995,6 @@
       "SIC Notícias",
       "OE 2027: Livre diz que \"dificilmente acompanhará\" proposta do Governo",
       "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4"
-     ],
-     [
-      "2026-09-25 10:01",
-      "Diário de Notícias",
-      "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
-      "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
      ]
     ]
    }
@@ -8068,7 +8055,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -8115,11 +8102,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 339,
-    "n7": 69,
-    "n7ant": 7,
+    "n": 338,
+    "n7": 49,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "expressoes",
     "ultima": "2026-11-24 16:09",
     "ultimas": [
@@ -10170,12 +10157,6 @@
       "SIC Notícias",
       "OE 2027: Livre diz que \"dificilmente acompanhará\" proposta do Governo",
       "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4"
-     ],
-     [
-      "2026-09-25 10:01",
-      "Diário de Notícias",
-      "Centros de Elevado Desempenho na obstetrícia aguardam aval das Finanças e OE 2027 para avançarem",
-      "https://www.dn.pt/sociedade/centros-de-elevado-desempenho-na-obstetrcia-aguardam-aval-das-finanas-e-oe-2027-para-avanarem"
      ]
     ]
    },
@@ -10236,11 +10217,11 @@
     "Comissão de Economia"
    ],
    "cobertura": {
-    "n": 173,
-    "n7": 20,
+    "n": 169,
+    "n7": 18,
     "n7ant": 18,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "expressoes",
     "ultima": "2026-11-24 09:00",
     "ultimas": [
@@ -11277,30 +11258,6 @@
       "Notícias ao Minuto",
       "Liga das Nações. Seleção abandona Oslo e monta estágio na Suécia",
       "https://www.noticiasaominuto.com/desporto/3058162/liga-nacoes-selecao-portuguesa-abandona-oslo-e-monta-estagio-na-suecia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-09-25 11:45",
-      "Notícias ao Minuto",
-      "Suécia e Finlândia realizaram missão de reconhecimento de aviões russos",
-      "https://www.noticiasaominuto.com/mundo/3057212/suecia-e-finlandia-realizaram-missao-de-reconhecimento-de-avioes-russos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-09-25 11:41",
-      "Dinheiro Vivo",
-      "Suécia e Finlândia mobilizam aviões de combate para missão de reconhecimento de aeronaves russas",
-      "https://www.dn.pt/internacional/sucia-e-finlndia-mobilizam-avies-de-combate-para-misso-de-reconhecimento-de-aeronaves-russas"
-     ],
-     [
-      "2026-09-25 10:31",
-      "El País",
-      "Cazas de Finlandia y Suecia interceptan a un escuadrón de aviones rusos en el Báltico",
-      "https://elpais.com/internacional/2026-09-25/cazas-de-finlandia-y-suecia-interceptan-a-un-escuadron-de-aviones-rusos-en-el-baltico.html"
-     ],
-     [
-      "2026-09-25 10:08",
-      "La Vanguardia",
-      "Cazas de Finlandia y Suecia interceptan aviones de guerra rusos sobre el Báltico",
-      "https://www.lavanguardia.com/internacional/20260925/11643649/cazas-finlandia-suecia-interceptan-aviones-guerra-rusos-sobre-baltico.html"
      ]
     ]
    },
@@ -11337,7 +11294,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11373,7 +11330,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11408,7 +11365,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11443,7 +11400,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11503,7 +11460,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11538,7 +11495,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11600,7 +11557,47 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Reunião Plenária",
+   "data": "2026-11-24",
+   "hora": "14h30",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
+   "resumo": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "ordemTrabalhos": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
+   "orgao": "Reunião Plenária",
+   "id_ar": 48763,
+   "chave": "ar-48763",
+   "dataLabel": "terça, 24 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-25",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11613,8 +11610,8 @@
    "hora": "15h00",
    "interveniente": "",
    "tipoLabel": "Assistências ao Plenário",
-   "resumo": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 ",
-   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro\n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede\n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
+   "resumo": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro  \n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h0",
+   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro  \n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede   \n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
    "orgao": "Assistências à Sessão Plenária",
    "id_ar": 48742,
    "chave": "ar-48742",
@@ -11635,13 +11632,13 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
    },
-   "alterado": "2026-11-23"
+   "alterado": "2026-11-25"
   },
   {
    "tema": "Audiências do Grupo Parlamentar do PS",
@@ -11670,7 +11667,47 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Sessão de Proclamação do Vintage Confraria 2024",
+   "data": "2026-11-24",
+   "hora": "17h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Refeitório dos Monges",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de proclamação do ano de 2024 como ano vintage do vinho do Porto. Trata-se de uma iniciativa da Confrari",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de proclamação do ano de 2024 como ano vintage do vinho do Porto. Trata-se de uma iniciativa da Confraria do Vinho do Porto.",
+   "orgao": "Sessão de Proclamação do Vintage Confraria 2024",
+   "id_ar": 48762,
+   "chave": "ar-48762",
+   "dataLabel": "terça, 24 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-25",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11704,13 +11741,53 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
    },
    "alterado": "2026-11-24"
+  },
+  {
+   "tema": "Sessão Solene comemorativa do 51º aniversário do 25 de novembro",
+   "data": "2026-11-25",
+   "hora": "11h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à Sessão Solene comemorativa do 51º aniversário do 25 de novembro.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à Sessão Solene comemorativa do 51º aniversário do 25 de novembro.",
+   "orgao": "Sessão Solene comemorativa do 51º aniversário do 25 de novembro",
+   "id_ar": 48770,
+   "chave": "ar-48770",
+   "dataLabel": "quarta, 25 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-25",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-25",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
   },
   {
    "tema": "Audiências do Grupo Parlamentar do CH",
@@ -11740,7 +11817,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11770,11 +11847,11 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 143,
-    "n7": 20,
-    "n7ant": 25,
+    "n": 142,
+    "n7": 13,
+    "n7ant": 31,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "2026-11-23 15:49",
     "ultimas": [
@@ -12649,12 +12726,6 @@
       "Jornal de Negócios",
       "Nvidia reforça em 150 mil milhões de dólares programa de recompra de ações",
       "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/nvidia-reforca-em-150-mil-milhoes-de-dolares-programa-de-recompra-de-acoes"
-     ],
-     [
-      "2026-09-25 12:20",
-      "Jornal Económico",
-      "Joaquim Saurina assume liderança do WiZink após saída de Iheb Nafaa",
-      "https://jornaleconomico.sapo.pt/noticias/joaquim-saurina-assume-lideranca-do-wizink-apos-saida-de-iheb-nafaa/"
      ]
     ]
    },
@@ -12693,7 +12764,127 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Audiência com o Embaixador da Geórgia",
+   "data": "2026-11-25",
+   "hora": "15h30",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala de Visitas do PAR",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador da Geórgia.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador da Geórgia.",
+   "orgao": "Audiência com o Embaixador da Geórgia",
+   "id_ar": 48769,
+   "chave": "ar-48769",
+   "dataLabel": "quarta, 25 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-25",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-25",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Audiência com o Embaixador de França",
+   "data": "2026-11-25",
+   "hora": "16h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala de Visitas do PAR",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador de França.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe em audiência o Embaixador de França.",
+   "orgao": "Audiência com o Embaixador de França",
+   "id_ar": 48768,
+   "chave": "ar-48768",
+   "dataLabel": "quarta, 25 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-25",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-25",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Homenagem a Eça de Queiroz",
+   "data": "2026-11-25",
+   "hora": "19h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Grémio Literário, Lisboa",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n}  \n O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa numa homenagem a Eça de Queiroz, nos 181 anos do seu nascimento.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n}  \n O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa numa homenagem a Eça de Queiroz, nos 181 anos do seu nascimento.",
+   "orgao": "Homenagem a Eça de Queiroz",
+   "id_ar": 48767,
+   "chave": "ar-48767",
+   "dataLabel": "quarta, 25 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-25",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12728,7 +12919,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12762,7 +12953,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12797,7 +12988,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-24",
+    "ref": "2026-11-25",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
