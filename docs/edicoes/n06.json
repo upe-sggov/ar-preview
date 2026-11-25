@@ -2299,6 +2299,7 @@
      "url": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx"
     }
    ],
+   "varrimento": "2026-12-02-48776-comiss-o-de-ambiente-e-energia",
    "cobertura": {
     "n": 0,
     "n7": 0,
@@ -2309,8 +2310,7 @@
     "ultima": "",
     "ultimas": [],
     "todas": []
-   },
-   "varrimento": "2026-12-02-48776-comiss-o-de-ambiente-e-energia"
+   }
   },
   {
    "tema": "Grupo de Trabalho para a Implementação da Lei n.º 5-A 2026, de 28 de janeiro - Representação de Interesses",
@@ -3552,8 +3552,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-25T17:55+00:00",
-  "atualizadoLabel": "25 de novembro, 17h55",
+  "atualizado": "2026-11-25T18:11+00:00",
+  "atualizadoLabel": "25 de novembro, 18h11",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
