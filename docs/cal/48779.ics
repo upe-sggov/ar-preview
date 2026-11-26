@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48779@ar-preview
+DTSTAMP:20261126T180103Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:AR · Audição do primeiro peticionário da Petição n.º 213/XV
+ II/1.ª – Pela Revisão dos Critérios de Elegibilidade…
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 2
+ 4\nSíntese: Daniel Pereira Ferreira Gonçalves– primeiro peticionário
+ \nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Pagina
+ s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
+ ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
+ m indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

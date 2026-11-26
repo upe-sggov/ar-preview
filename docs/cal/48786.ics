@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48786@ar-preview
+DTSTAMP:20261126T180103Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Comissão de Agricultura e Pescas
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Agricultura e Pescas · Reunião n.º 74\nSíntes
+ e: Votação do Plano de Atividades para a 2.ª Sessão Legislativa com a
+ s propostas apresentadas pelos grupos parlamentares\nPágina na AR: https
+ ://www.parlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.aspx\nEmiss
+ ões em direto (quando houver): https://canal.parlamento.pt/\nAR Preview:
+  https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agen
+ da da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.asp
+ x
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

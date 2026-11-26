@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48781@ar-preview
+DTSTAMP:20261126T180103Z
+DTSTART:20261203T170000Z
+DTEND:20261203T190000Z
+SUMMARY:AR · Comissão Parlamentar de Inquérito ao Instituto Nacional de
+  Emergência Médica\, I.P.
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito ao Instituto Nacional de E
+ mergência Médica\, I.P. · Reunião n.º 43\nGoverno: Ministra da Saúd
+ e\nSíntese: Discussão e votação do requerimento apresentado pelos Dep
+ utados do grupo parlamentar do PS para audição\nEmissões em direto (qu
+ ando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov
+ .github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode muda
+ r.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

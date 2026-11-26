@@ -1,7 +1,7 @@
 {
  "inicio": "2026-11-23",
  "fim": "2026-11-29",
- "recolha": "2026-11-26T01:43",
+ "recolha": "2026-11-26T17:40",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
   {
@@ -16,12 +16,33 @@
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 13 · Sala 7",
    "resumo": "Audiência com Stefan Löfven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 \n Delegação: \n Stefan Lofven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 ;\n Johan Pehrson, Embaixador do Reino da Suécia em Portugal ;\n Faraz Divani, Chefe de Missã",
-   "ordemTrabalhos": "Audiência com Stefan Löfven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 \n Delegação: \n Stefan Lofven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 ;\n Johan Pehrson, Embaixador do Reino da Suécia em Portugal ;\n Faraz Divani, Chefe de Missão Adjunto da Embaixada do Reino da Suécia em Portugal;\n Dra. Anna Bergström.",
+   "ordemTrabalhos": "Audiência com Stefan Löfven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 \n Delegação: \n Stefan Lofven, Presidente do PES e anterior primeiro-ministro da Suécia entre 2014 e 2021 ;\n Johan Pehrson, Embaixador do Reino da Suécia em Portugal ;\n Faraz Divani, Chefe de Missão Adjunto da Embaixada do Reino da Suécia em Portugal;\n Anna Bergström, assessora;\n Victoria Cedermark, assessora de comunicação.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
    "uo": [],
    "pertinencia": "Imediato",
    "criterio": [
     "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48782,
+   "data": "2026-11-26",
+   "hora": "16h30",
+   "tema": "Conferência de Líderes",
+   "orgao": "Conferência de Líderes",
+   "interveniente": "",
+   "tipo": [
+    "Conferência de Líderes"
+   ],
+   "tipoLabel": "Conferência de Líderes · Reunião n.º 31 · Sala 7",
+   "resumo": "",
+   "ordemTrabalhos": "",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -294,7 +315,7 @@
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 111",
    "resumo": "1. Distribuição de iniciativas legislativas: nomeação de relatores e deliberação sobre consultas a promover;\n 2. Distribuição de iniciativas europeias;\n 3. Discussão e votação dos relatórios sobre as seguintes iniciativas legislativas:\n a) Projeto de Lei 704/XVII/1 (CH) – Criação do Estatuto do Argu",
-   "ordemTrabalhos": "1. Distribuição de iniciativas legislativas: nomeação de relatores e deliberação sobre consultas a promover;\n 2. Distribuição de iniciativas europeias;\n 3. Discussão e votação dos relatórios sobre as seguintes iniciativas legislativas:\n a) Projeto de Lei 704/XVII/1 (CH) – Criação do Estatuto do Arguido Colaborador;\n Relator: Deputado Rui Rocha (IL)\n b) Projeto de Lei 720/XVII/1 (PCP) – Gestão democrática do Sistema de Assistência na Doença da GNR e PSP (Sexta alteração ao Decreto-lei n.º 158/2005, de 20 de setembro);\n Relator: Deputado Paulo Muacho (L)\n c) Projeto de Lei 731/XVII/1 (CH)  – Institui a prioridade das crianças de nacionalidade portuguesa ou filhos de portugueses e os filhos de cidadãos de Estados-Membros da UE no processo de matrícula e renovação de matrícula nos estabelecimentos de ensino;\n Relator: Deputado João Pinho de Almeida (CDS-PP)\n d) Projeto de Lei 804/XVII/2 (PSD) – Reforça a proteção dos advogados em matéria de parentalidade, doença grave e gravidez de risco ; Projeto de Lei 805/XVII/2 (PS) – Altera o Código de Processo Civil e o Código de Processo Penal, reforçando os direitos dos Advogados em caso de doença grave ou exercício dos direitos de parentalidade, bem como à 3ª alteração ao Decreto-Lei n.º 131/2009, de 1 de junho, na sua redação em vigor  e Projeto de Lei 820/XVII/2 (PCP) – Regula as relações de trabalho no exercício profissional da advocacia e reforça a proteção social dos advogados na parentalidade, na doença, na gravidez de risco e no luto, procede à terceira alteração ao Decreto-Lei n.º 131/2009, de 1 de junho, e altera o Código de Processo Civil ;\nRelatora: Deputada Idalina Durães (CH)\n e) Projeto de Lei 811/XVII/2 (PAN)  – Prevê a inibição de conduzir e a subtração de pontos por abandono de animais mediante utilização de veículo;\n Relator: Deputado Cristóvão Norte (PSD)\n 4. Discussão, nos termos dos n. os 1 e 2 do artigo 128.º do RAR, dos seguintes Projetos de Resolução:\n a) Projeto de Resolução 1305 XVII 2 (JPP) - Recomenda ao Governo que promova a revisão das regras sobre atos dilatórios no processo penal para salvaguardar as garantias de defesa ;\n b) Projeto de Resolução 1286 XVII 2 (CH) - Recomenda ao Governo que incentive a proteção e valorização dos técnicos de migração da AIMA, I. P., e inicie a negociação de uma carreira especial ;\n  5. Apreciação e votação dos pareceres sobre:\n a) a constitucionalidade da Proposta de Lei n.º 91/XVII/1.ª (GOV) – Pela majoração do financiamento da Universidade da Madeira e da Universidade dos Açores e acesso a apoios europeus, através da alteração à Lei n.º 37/2003, de 22 de agosto, que estabelece as bases do financiamento do ensino superior \nRelator: Deputado Cristóvão Norte;\n b) o sentido e alcance do artigo 102.º, n.º 4 do RAR na sequência de audições de titulares de administração local e outros, aprovadas na Comissão de Ambiente e Energia\nRelatora: Deputada Inês de Sousa Real (PAN);\n c) sobre o pedido da Comissão de Defesa Nacional de pronúncia da CACDLG sobre a admissibilidade da Petição n.º 219/XVII/1.ª - Escrutínio parlamentar urgente ao Ministro da Defesa sobre o negócio das fragatas italianas, incluindo reprimenda pública e pedido de desculpas pela utilização indevida do cargo em ação judicial sobre matéria pública , do ponto de vista da eventual inconstitucionalidade do objeto, ou de parte do objeto\nRelatora: Deputada Nuna Menezes (PSD);\n 6. Apreciação e votação dos seguintes requerimentos:\n a) Apresentado pelo GP do L para realização, com caráter de urgência, de audições ao Ministro da Administração Interna e ao Diretor Nacional da Polícia de Segurança Pública, sobre a ofensiva policial nas manifestações pelo direito à habitação, em Lisboa e no Porto;\n b) Apresentado pelo GP do BE para realização, com carácter de urgência, da audição do Ministro da Administração Interna e do Diretor Nacional da Polícia de Segurança Pública, sobre as intervenções policiais relativas às acampadas pela habitação no Porto e em Lisboa, bem como sobre a interpretação dada pelo Governo à sentença do Tribunal Administrativo de Círculo de Lisboa de 1 de novembro de 2026;\n 7. Admissão e distribuição de petições;\n 8. Discussão e votação de relatórios finais de petições, designadamente da Petição n.º 118 XVII 1.ª - Revisão e atualização do Regime Remuneratório dos Militares da Guarda Nacional Republicana (Decreto-Lei n.º 298/2009, de 14 de outubro)\n Relator: Deputado Rui Rocha (IL);\n 9. Anúncio de projetos de voto e discussão e votação, nos termos dos n.ºs 7, 8 e 10 do artigo 75.º do RAR, dos seguintes Projetos de Voto:\n a) 782/XVII/2 (CDS-PP) - Pela actuação da Polícia de Segurança Pública na reposição da legalidade e na defesa da ordem pública, na Praça D. João I, no Porto ; 781/XVII/2 (BE) - De solidariedade com os manifestantes em defesa do direito da habitação na Praça D. João I, no Porto ; 788/XVII/2 (L) - De solidariedade com os manifestantes pelo direito à habitação na sequência da ofensiva policial na Praça D. João I, no Porto; \n b) 807/XVII/2 (PSD) – De saudação aos agentes de proteção civil e forças de segurança envolvidas no apoio às tempestades ;\n c) 826/XVII/2 (CDS-PP) - De congratulação pelo 135.º aniversário da Associação Humanitária dos Bombeiros Voluntários de Sabrosa ;\n d) 827/XVII/2 (PSD) - De saudação pelo Dia Internacional para a Eliminação da Violência contra as Mulheres ;\n 10. Apreciação da competência para a concretização do Projeto de Resolução n.º 1200/XVII/1.ª (JPP) – Institui o programa \"Parlamento Sénior\" na Assembleia da República, em face do entendimento da 10.ª Comissão de que deve ser a CACDLG a promover tal Programa;\n 11. Apreciação e votação das atas n.ºs 102 a 110/XVII/2.ª (correspondentes às reuniões da Comissão de outubro e novembro de 2026);\n 12. Outros assuntos.",
+   "ordemTrabalhos": "1. Distribuição de iniciativas legislativas: nomeação de relatores e deliberação sobre consultas a promover;\n 2. Distribuição de iniciativas europeias;\n 3. Discussão e votação dos relatórios sobre as seguintes iniciativas legislativas:\n a) Projeto de Lei 704/XVII/1 (CH) – Criação do Estatuto do Arguido Colaborador;\n Relator: Deputado Rui Rocha (IL)\n b) Projeto de Lei 720/XVII/1 (PCP) – Gestão democrática do Sistema de Assistência na Doença da GNR e PSP (Sexta alteração ao Decreto-lei n.º 158/2005, de 20 de setembro);\n Relator: Deputado Paulo Muacho (L)\n c) Projeto de Lei 731/XVII/1 (CH)  – Institui a prioridade das crianças de nacionalidade portuguesa ou filhos de portugueses e os filhos de cidadãos de Estados-Membros da UE no processo de matrícula e renovação de matrícula nos estabelecimentos de ensino;\n Relator: Deputado João Pinho de Almeida (CDS-PP)\n d) Projeto de Lei 811/XVII/2 (PAN)  – Prevê a inibição de conduzir e a subtração de pontos por abandono de animais mediante utilização de veículo;\n Relator: Deputado Cristóvão Norte (PSD)\n 4. Discussão, nos termos dos n. os 1 e 2 do artigo 128.º do RAR, dos seguintes Projetos de Resolução:\n a) Projeto de Resolução 1305 XVII 2 (JPP) - Recomenda ao Governo que promova a revisão das regras sobre atos dilatórios no processo penal para salvaguardar as garantias de defesa ;\n b) Projeto de Resolução 1286 XVII 2 (CH) - Recomenda ao Governo que incentive a proteção e valorização dos técnicos de migração da AIMA, I. P., e inicie a negociação de uma carreira especial ;\n  5. Apreciação e votação dos pareceres sobre:\n a) a constitucionalidade da Proposta de Lei n.º 91/XVII/1.ª (GOV) – Pela majoração do financiamento da Universidade da Madeira e da Universidade dos Açores e acesso a apoios europeus, através da alteração à Lei n.º 37/2003, de 22 de agosto, que estabelece as bases do financiamento do ensino superior \nRelator: Deputado Cristóvão Norte;\n b) o sentido e alcance do artigo 102.º, n.º 4 do RAR na sequência de audições de titulares de administração local e outros, aprovadas na Comissão de Ambiente e Energia\nRelatora: Deputada Inês de Sousa Real (PAN);\n c) sobre o pedido da Comissão de Defesa Nacional de pronúncia da CACDLG sobre a admissibilidade da Petição n.º 219/XVII/1.ª - Escrutínio parlamentar urgente ao Ministro da Defesa sobre o negócio das fragatas italianas, incluindo reprimenda pública e pedido de desculpas pela utilização indevida do cargo em ação judicial sobre matéria pública , do ponto de vista da eventual inconstitucionalidade do objeto, ou de parte do objeto\nRelatora: Deputada Nuna Menezes (PSD);\n 6. Apreciação e votação dos seguintes requerimentos:\n a) Apresentado pelo GP do L para realização, com caráter de urgência, de audições ao Ministro da Administração Interna e ao Diretor Nacional da Polícia de Segurança Pública, sobre a ofensiva policial nas manifestações pelo direito à habitação, em Lisboa e no Porto;\n b) Apresentado pelo GP do BE para realização, com carácter de urgência, da audição do Ministro da Administração Interna e do Diretor Nacional da Polícia de Segurança Pública, sobre as intervenções policiais relativas às acampadas pela habitação no Porto e em Lisboa, bem como sobre a interpretação dada pelo Governo à sentença do Tribunal Administrativo de Círculo de Lisboa de 1 de novembro de 2026;\n 7. Admissão e distribuição de petições;\n 8. Discussão e votação de relatórios finais de petições, designadamente da Petição n.º 118 XVII 1.ª - Revisão e atualização do Regime Remuneratório dos Militares da Guarda Nacional Republicana (Decreto-Lei n.º 298/2009, de 14 de outubro)\n Relator: Deputado Rui Rocha (IL);\n 9. Anúncio de projetos de voto e discussão e votação, nos termos dos n.ºs 7, 8 e 10 do artigo 75.º do RAR, dos seguintes Projetos de Voto:\n a) 782/XVII/2 (CDS-PP) - Pela actuação da Polícia de Segurança Pública na reposição da legalidade e na defesa da ordem pública, na Praça D. João I, no Porto ; 781/XVII/2 (BE) - De solidariedade com os manifestantes em defesa do direito da habitação na Praça D. João I, no Porto ; 788/XVII/2 (L) - De solidariedade com os manifestantes pelo direito à habitação na sequência da ofensiva policial na Praça D. João I, no Porto; \n b) 807/XVII/2 (PSD) – De saudação aos agentes de proteção civil e forças de segurança envolvidas no apoio às tempestades ;\n c) 826/XVII/2 (CDS-PP) - De congratulação pelo 135.º aniversário da Associação Humanitária dos Bombeiros Voluntários de Sabrosa ;\n d) 827/XVII/2 (PSD) - De saudação pelo Dia Internacional para a Eliminação da Violência contra as Mulheres ;\n 10. Apreciação da competência para a concretização do Projeto de Resolução n.º 1200/XVII/1.ª (JPP) – Institui o programa \"Parlamento Sénior\" na Assembleia da República, em face do entendimento da 10.ª Comissão de que deve ser a CACDLG a promover tal Programa;\n 11. Apreciação e votação das atas n.ºs 102 a 110/XVII/2.ª (correspondentes às reuniões da Comissão de outubro e novembro de 2026);\n 12. Outros assuntos.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.aspx",
    "uo": [
     "DAPL"
@@ -332,6 +353,33 @@
    "validado": false
   },
   {
+   "id_ar": 48786,
+   "data": "2026-12-02",
+   "hora": "10h00",
+   "tema": "Comissão de Agricultura e Pescas",
+   "orgao": "Comissão de Agricultura e Pescas",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 74",
+   "resumo": "Informações.\n Votação do Plano de Atividades para a 2.ª Sessão Legislativa com as propostas apresentadas pelos grupos parlamentares.\n Discussão e votação do relatório referente à Proposta de Lei n.º 93/XVII/1.ª (ALRAM) – Quinta alteração à Lei n.º 54/2005, de 15 de novembro, que estabelece a titular",
+   "ordemTrabalhos": "Informações.\n Votação do Plano de Atividades para a 2.ª Sessão Legislativa com as propostas apresentadas pelos grupos parlamentares.\n Discussão e votação do relatório referente à Proposta de Lei n.º 93/XVII/1.ª (ALRAM) – Quinta alteração à Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos. Relator: Deputado Filipe Sousa (JPP).\n Fixação da redação final do texto relativo ao Projeto de Resolução n.º 1184/XVII/1.ª (CH) – Pela atualização do diagnóstico e reforço da rede de Centros de Recolha Oficial de animais de companhia.\n Fixação da redação final relativo à fusão entre o texto de substituição do Projeto de Lei n.º 528/XVII/1.ª (PAN) – Regula a contenção e treino de animais de companhia, vedando a comercialização e utilização de “coleiras de choque” e de “coleiras estranguladoras'', procedendo à décima alteração ao Decreto-Lei n.º 276/2001, de 17 de outubro e o texto de substituição do Projeto de Lei n.º 581/XVII/1.ª (PAN) – Regula o acorrentamento e o alojamento permanente em varandas e espaços afins, e prevê a implementação do Plano Nacional de Desacorrentamento.\n Discussão e votação do Projeto de Voto n.º 794/XVII/2.ª (PSD) – De saudação pelo Dia Mundial da Alimentação.\n Apreciação da nota de admissibilidade da Petição n.º 245/XVII/2.ª – Controle ÉTICO de javalis; 5082 assinaturas; Cabe ao GP do CH.\n Discussão e votação na especialidade do Projeto de Lei n.º 236/XVII/1.ª (JPP) – Uso exclusivo de aguardente vínica com origem e produção na RDD na beneficiação do Vinho do Porto e do Moscatel do Douro, alterando o Decreto-Lei n.º 106/2025, de 15 de setembro (e propostas de alteração apresentadas pelo GP do PSD).\n Petição para conhecimento:\n– Petição n.º 260/XVII/2.ª – Redução do IVA dos Serviços Médico Veterinários para 6%: por cuidados de saúde veterinários acessíveis para todos – 8042 assinaturas (Baixou à Comissão de Orçamento, Finanças e Administração Pública, com conhecimento à Comissão de Agricultura e Pescas).\n Informação sobre iniciativas europeias:\n– COM/2026/0960 – CARTA RETIFICATIVA N.º 1 AO PROJETO DE ORÇAMENTO GERAL PARA O EXERCÍCIO DE 2027 Ajustamentos das necessidades estimadas para as despesas agrícolas. Outros ajustamentos e atualizações técnicas;\n– COM/2026/0547 – Proposta de REGULAMENTO DO CONSELHO relativo à repartição das possibilidades de pesca previstas no Protocolo de Aplicação do Acordo de Parceria no domínio da Pesca Sustentável entre a União Europeia e a República da Maurícia (2026-2030);\n– COM/2026/0545 – Proposta de DECISÃO DO CONSELHO relativa à celebração do Acordo de Parceria no domínio da Pesca Sustentável entre a União Europeia e a República da Maurícia e do seu protocolo de aplicação (2026-2030);\n– COM/2026/0589 – RELATÓRIO DA COMISSÃO AO PARLAMENTO EUROPEU E AO CONSELHO sobre o exercício da delegação de poderes conferida à Comissão nos termos do Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas, em conformidade com o artigo 83.º, n.º 2, do mesmo regulamento;\n– COM/2026/0562 – Proposta de DECISÃO DO CONSELHO relativa à posição a tomar em nome da União Europeia no âmbito do Conselho dos Membros do Conselho Oleícola Internacional no respeitante à norma comercial aplicável aos azeites e aos óleos de bagaço de azeitona e a dois métodos de análise;\n– COM/2026/0537 – Proposta de DECISÃO DO CONSELHO relativa à posição a adotar, em nome da União Europeia, no âmbito do Comité Misto do EEE, sobre a alteração do anexo II (Regulamentação técnica, normas, ensaios e certificação) e do Protocolo n.º 37 (que contém a lista prevista no artigo 101.º) do Acordo EEE (Diretiva Mel);\n– COM/2026/0715 – RELATÓRIO DA COMISSÃO AO PARLAMENTO EUROPEU, AO CONSELHO, AO COMITÉ ECONÓMICO E SOCIAL EUROPEU E AO COMITÉ DAS REGIÕES sobre a simplificação, a aplicação e a execução;\n– COM/2026/0613 – Proposta de REGULAMENTO DO CONSELHO que altera o Regulamento (UE) 2021/2283 relativo à abertura e ao modo de gestão de contingentes pautais autónomos da União para determinados produtos agrícolas e industriais;\n– COM/2026/0612 – Proposta de REGULAMENTO DO CONSELHO que altera o Regulamento (UE) 2021/2278 que suspende os direitos da pauta aduaneira comum referidos no artigo 56.º, n.º 2, alínea c), do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho para certos produtos agrícolas e industriais.\n Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/7CAPes/Paginas/default.aspx",
+   "uo": [
+    "DAPL",
+    "DCIRI"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«proposta de lei» (DAPL)",
+    "«diretiva» (DAPL)",
+    "«união europeia» (DCIRI)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48774,
    "data": "2026-12-02",
    "hora": "11h00",
@@ -353,6 +401,53 @@
    "validado": false
   },
   {
+   "id_ar": 48780,
+   "data": "2026-12-02",
+   "hora": "11h00",
+   "tema": "Comissão de Economia e Coesão Territorial",
+   "orgao": "Comissão de Economia e Coesão Territorial",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 56",
+   "resumo": "Parte I \n Audiência com a Direção da Comissão de Concorrência da ICC Portugal.\n Delegação: \n Joaquim Caimoto Duarte, Presidente da Comissão de Concorrência da ICC Portugal;\n Sara M. Rodrigues, Vice-Presidente da Comissão de Concorrência da ICC Portugal;\n Parte II \n Informações gerais;\n Apreciação e ",
+   "ordemTrabalhos": "Parte I \n Audiência com a Direção da Comissão de Concorrência da ICC Portugal.\n Delegação: \n Joaquim Caimoto Duarte, Presidente da Comissão de Concorrência da ICC Portugal;\n Sara M. Rodrigues, Vice-Presidente da Comissão de Concorrência da ICC Portugal;\n Parte II \n Informações gerais;\n Apreciação e votação das atas das reuniões n. os 67, 68, 69, 70 e 71 de 21 e 29 de outubro e 5, 9 e 10 de novembro, respetivamente;\n Anúncio e distribuição de iniciativas: nomeação de relatores e deliberação sobre consultas a promover:\n Projeto de Lei n.º 812/XVII/2.ª (IL) - Transparência fiscal nos combustíveis: Afixar os impostos sobre os combustíveis nas gasolineiras; \n Anúncio e distribuição de iniciativas europeias e nomeação de relatores:\n Baixou para escrutínio da Comissão a iniciativa europeia n.º COM(2026)590 - Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo aos contratos públicos e às concessões, que revoga as Diretivas 2014/23/UE, 2014/24/UE e 2014/25/UE e altera os Regulamentos (CE) n.º 1370/2007, (UE) 2023/1542, (UE) 2024/1157, (UE) 2024/1252, (UE) 2024/1735, (UE) 2024/1781, (UE) 2024/2847, (UE) 2024/3110 e (UE) 2025/40 e as Diretivas 2008/98/CE, (UE) 2019/882, (UE) 2022/2381, (UE) 2023/1791 e (UE) 2024/1760 (Regulamento Contratos Públicos); \n Deputado Relator: GP PSD;\n Apreciação e votação do requerimento apresentado pelo Grupo Parlamentar do L, para uma audição, com carácter de urgência, do Conselho de Administração da ESTAMO “sobre a execução e revisão do contrato de concessão do Quartel da Graça”;\n Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48785,
+   "data": "2026-12-02",
+   "hora": "11h00",
+   "tema": "Comissão da Reforma do Estado e Poder Local",
+   "orgao": "Comissão da Reforma do Estado e Poder Local",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 64",
+   "resumo": "Parte I – 11h00 \n 1. Audição da Presidente da Comunidade Intermunicipal do Alentejo Litoral, Clarisse Campos, a requerimento do PS e a requerimento do CH , no âmbito das «consequências das cheias e o processo de recuperação no concelho» e «para análise do processo de recuperação após as cheias e da ",
+   "ordemTrabalhos": "Parte I – 11h00 \n 1. Audição da Presidente da Comunidade Intermunicipal do Alentejo Litoral, Clarisse Campos, a requerimento do PS e a requerimento do CH , no âmbito das «consequências das cheias e o processo de recuperação no concelho» e «para análise do processo de recuperação após as cheias e da atribuição de apoios às populações em Alcácer do Sal».\n Parte II – 12h30 \n 2. Apreciação e votação das atas n.º 56, 57, 58, 59, 60, 61, 62 e 63, referentes às reuniões dos dias 07, 13, 14, 21, 29 e 30 de outubro e 04 de novembro;\n 3. Votação do Projeto de Voto n.º 775/XVII/2.ª (PSD, CDS-PP) - «De saudação pelo centenário da emancipação Concelhia de São João da Madeira»;\n 4. Votação do Projeto de Voto n.º 785/XVII/2.ª (PS) - «De saudação pelo centenário da emancipação concelhia de São João da Madeira»;\n 5. Votação do Projeto de Voto n.º 797/XVII/2.ª (PS) - «De saudação pelo Centenário da Criação do Concelho da Murtosa»;\n 6. Votação do Projeto de Voto n.º 798/XVII/2.ª (PS) - «De saudação pelo Centenário da Criação da Freguesia da Torreira»;\n 7. Votação do Projeto de Voto n.º 802/XVII/2.ª (PSD, CDS-PP) - «De saudação pelo centenário da criação da Freguesia da Torreira»;\n 8. Votação do Projeto de Voto n.º 803/XVII/2.ª (PSD, CDS-PP) - «De saudação pelo centenário do Concelho da Murtosa»;\n 9. Deliberação sobre a admissibilidade da petição:\n Petição n.º 2613/XVII/2.ª - «Em defesa do Mercado de Natal no Rossio»\n 10. Informação de baixa à Comissão do Projeto de Lei n.º 821/XVII/2.ª (PSD) - «Alteração da denominação da freguesia de «Aves», no município de Santo Tirso, para «Vila das Aves»\n Indicação de relator cabe ao GP L;\n 11. Informação de baixa à Comissão do Projeto de Lei n.º 822/XVII/2.ª (PSD) - «Alteração da denominação da freguesia de «Dornelas», no município de Boticas, para «Couto de Dornelas»\n Indicação de relator cabe ao GP IL;\n 12. Informação da distribuição pela Comissão de Assuntos Europeus da iniciativa COM(2026)1037 - «Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à digitalização da gestão de processos no domínio do regresso, da readmissão e da reintegração, e que altera os Regulamentos (UE) 2018/1726, (UE) 2018/1860, (UE) 2019/817 e (UE) 2019/818 do Parlamento Europeu e do Conselho»\n Indicação de relator cabe ao GP L;\n (Prazo para envio do relatório à CAE 11 de dezembro)\n 13. Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx",
+   "uo": [
+    "DACDP",
+    "Transversal"
+   ],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "«assuntos europeus» (DACDP)",
+    "«reforma do estado» (transversal)",
+    "comissão da área de cliente com pedidos à UPE (Ministro Adjunto e da Reforma do Estado; Secretário de Estado para a Digitalização) → Imediato"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48776,
    "data": "2026-12-02",
    "hora": "14h00",
@@ -370,6 +465,90 @@
    "pertinencia": "Imediato",
    "criterio": [
     "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48779,
+   "data": "2026-12-02",
+   "hora": "14h00",
+   "tema": "Comissão de Economia e Coesão Territorial",
+   "orgao": "Comissão de Economia e Coesão Territorial",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 24",
+   "resumo": "Audição do primeiro peticionário da Petição n.º 213/XVII/1.ª – Pela Revisão dos Critérios de Elegibilidade dos Fundos Comunitários (Portugal 2030) para o Poder Local em Territórios de Baixa Densidade: O Direito das Freguesias de Promover Habitação e Fixação de População .\n Relator: Deputado Armando ",
+   "ordemTrabalhos": "Audição do primeiro peticionário da Petição n.º 213/XVII/1.ª – Pela Revisão dos Critérios de Elegibilidade dos Fundos Comunitários (Portugal 2030) para o Poder Local em Territórios de Baixa Densidade: O Direito das Freguesias de Promover Habitação e Fixação de População .\n Relator: Deputado Armando Mourisco (PS)\n Daniel Pereira Ferreira Gonçalves– primeiro peticionário",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão da área de cliente com pedidos à UPE (Secretário de Estado da Economia; Secretário de Estado do Turismo, Comércio e Serviços) → Imediato"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48784,
+   "data": "2026-12-02",
+   "hora": "14h00",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9",
+   "resumo": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata n.º 8, correspondente à reunião de 20 de outubro de 2026;\n 2 – Deliberação sobre a admissibilidade de participação(ões) e denúncia(s) enviadas à Comissão (matéria reservada);\n 3 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48787,
+   "data": "2026-12-02",
+   "hora": "14h00",
+   "tema": "Grupo de Trabalho - Audiências",
+   "orgao": "Grupo de Trabalho - Audiências",
+   "interveniente": "",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 23",
+   "resumo": "Apresentação da Associação e da profissão dos licenciados em Ortóptica/ Ortóptica e Ciências da Visão, bem como a sua perspetiva sobre os cuidados de saúde visual em Portugal.",
+   "ordemTrabalhos": "Apresentação da Associação e da profissão dos licenciados em Ortóptica/ Ortóptica e Ciências da Visão, bem como a sua perspetiva sobre os cuidados de saúde visual em Portugal.",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48778,
+   "data": "2026-12-02",
+   "hora": "14h00",
+   "tema": "Grupo de Trabalho - Inclusão e Direitos das Pessoas com Deficiência",
+   "orgao": "Grupo de Trabalho - Inclusão e Direitos das Pessoas com Deficiência",
+   "interveniente": "",
+   "tipo": [
+    "Grupo de Trabalho"
+   ],
+   "tipoLabel": "Grupo de Trabalho · Reunião n.º 17",
+   "resumo": "Audiência do Movimento Cidadão Diferente (MCD) , para apresentação de duas propostas legislativas: revisão da comparticipação das famílias nos Centros de Atividades e Capacitação para a Inclusão (CACI) e eliminação da redução da componente base da Prestação Social para a Inclusão (PSI) aplicável aos",
+   "ordemTrabalhos": "Audiência do Movimento Cidadão Diferente (MCD) , para apresentação de duas propostas legislativas: revisão da comparticipação das famílias nos Centros de Atividades e Capacitação para a Inclusão (CACI) e eliminação da redução da componente base da Prestação Social para a Inclusão (PSI) aplicável aos menores de 18 anos.\n - Miguel Azevedo - Presidente da Direção \n - Manuel Carvalho - Vice-Presidente da Direção",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
    ],
    "validado": false
   },
@@ -408,6 +587,27 @@
    "resumo": "Ponto da situação da atualização da plataforma;\n Identificação da lista de entidades a inscrever oficiosamente ;\n Resolução de questões interpretativas/de aplicação recebidas ;\n Planeamento de sessões de apresentação e aviso a emitir acerca da entrada em funcionamento faseada;\n Outros assuntos.",
    "ordemTrabalhos": "Ponto da situação da atualização da plataforma;\n Identificação da lista de entidades a inscrever oficiosamente ;\n Resolução de questões interpretativas/de aplicação recebidas ;\n Planeamento de sessões de apresentação e aviso a emitir acerca da entrada em funcionamento faseada;\n Outros assuntos.",
    "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48783,
+   "data": "2026-12-02",
+   "hora": "14h30",
+   "tema": "Comissão de Transparência e Estatuto dos Deputados",
+   "orgao": "Comissão de Transparência e Estatuto dos Deputados",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 60",
+   "resumo": "1 – Apreciação e votação da ata 59, correspondente à reunião da Comissão de 17 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públic",
+   "ordemTrabalhos": "1 – Apreciação e votação da ata 59, correspondente à reunião da Comissão de 17 de novembro de 2026;\n 2 – Apreciação e votação do relatório sobre o Projeto de Lei 746/XVII/2.ª (BE) - Reforça a eficácia da fiscalização das obrigações declarativas dos titulares de cargos políticos e altos cargos públicos e resolve o vazio de competência sobre as obrigações anteriores à entrada em funcionamento da Entidade para a Transparência, procedendo à sexta alteração à Lei n.º 52/2019, de 31 de julho – Relator: Deputado Rodrigo Alves Taxa (CH);\n 3 – Apreciação e votação de parecer(es) sobre levantamento de imunidade parlamentar (matéria reservada) - Autor do parecer: Deputado José Barreira Soares (CH);\n 4 – Apreciação e votação do relatório sobre a aplicação do Código de Conduta dos Deputados à Assembleia da República (matéria reservada) - Relator: Deputado Rui Rocha (IL);\n 5 – Deliberação sobre a admissibilidade e distribuição de participações e denúncias enviadas à Comissão (matéria reservada);\n 6 – Outros assuntos.",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/15CTED/Paginas/default.aspx",
    "uo": [],
    "pertinencia": "Registo",
    "criterio": [
@@ -460,6 +660,30 @@
    "validado": false
   },
   {
+   "id_ar": 48788,
+   "data": "2026-12-02",
+   "hora": "18h00",
+   "tema": "Audiências do Grupo Parlamentar do PCP",
+   "orgao": "Audiências do Grupo Parlamentar do PCP",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "18h00 - Comissão de Redação e Comissão de Trabalhadores da LUSA",
+   "ordemTrabalhos": "18h00 - Comissão de Redação e Comissão de Trabalhadores da LUSA",
+   "ligacao": "",
+   "uo": [
+    "UPE"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«lusa» (UPE)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
    "id_ar": 48773,
    "data": "2026-12-03",
    "hora": "14h00",
@@ -471,7 +695,7 @@
    ],
    "tipoLabel": "Comissões Parlamentares · Reunião n.º 59",
    "resumo": "Informações:\n Apreciação e votação das atas de 21 e 22 de outubro de 2026 e 2 e 3 de novembro de 2026.\n Projeto de resolução n.º 1338/XVII (2.ª) (PSD) - Recomenda ao Governo que promova um enquadramento adequado dos jogos eletrónicos:\n Discussão em Plenário ou em Comissão?\n Fixação da redação final ",
-   "ordemTrabalhos": "Informações:\n Apreciação e votação das atas de 21 e 22 de outubro de 2026 e 2 e 3 de novembro de 2026.\n Projeto de resolução n.º 1338/XVII (2.ª) (PSD) - Recomenda ao Governo que promova um enquadramento adequado dos jogos eletrónicos:\n Discussão em Plenário ou em Comissão?\n Fixação da redação final do projeto de resolução n.º 906/XVII (1.ª) (CH) - Recomenda ao Governo que assegure a independência editorial, a autonomia institucional, a transparência financeira e o escrutínio parlamentar da Lusa – Agência de Notícias de Portugal, S.A.\n Apreciação e votação do orçamento da Comissão.\n Apreciação e votação do requerimento apresentado pelo Grupo Parlamentar da IL, solicitando a audição da Presidente do Conselho Geral Independente da RTP, Ana Margarida Carvalho, sobre o processo de escolha do Conselho de Administração da RTP para o novo mandato.\n Apreciação e votação do relatório da proposta de lei n.º 104XVII (1.ª) - Estabelece o regime jurídico do associativismo jovem:\n Deputado Relator: Alfredo Maia (PCP)\n Apreciação e votação na especialidade:\n Projeto de resolução n.º 1209/XVII (1.ª) (CH) - Recomenda ao Governo a realização de uma auditoria abrangente à RTP e o acompanhamento reforçado do aumento de capital de 20 milhões de euros\n Projeto de resolução n.º 1250/XVII (2.ª) (PS) - Pela defesa, valorização e sustentabilidade do serviço público de rádio e de televisão\n Projeto de resolução n.º 1267/XVII (2.ª) (PSD) - Pela sustentabilidade, modernização e adequação do serviço público de media.\n Discussão, nos termos do artigo 128.º do Regimento da Assembleia da República, do Projeto de resolução n.º 1205/XVII (1.ª) (CH) - Recomenda ao Governo a aprovação de uma Estratégia Nacional de Combate à Pirataria Digital de Conteúdos Audiovisuais, Desportivos e Jornalísticos\n Discussão, nos termos do artigo 128.º do Regimento da Assembleia da República, do Projeto de resolução n.º 1203XVII (1.ª) (CH) - Recomenda ao Governo a criação do Museu Nacional dos Descobrimentos e da Expansão Portuguesa\n Discussão, nos termos do artigo 128.º do Regimento da Assembleia a República, do Projeto de resolução n.º 1237/XVII (2.ª) (CH) - Recomenda ao Governo a aprovação de um programa nacional de salvaguarda do vitral histórico português\n Apreciação e votação do relatório final da petição n.º 235XVII (2.ª) - Honras de Panteão Nacional a Luísa Todi - A cantora de todas as centúrias:\n Deputada Relatora: Joana Seabra (PSD)\n Votação do texto de fusão:\n Projeto de voto n.º 789/XVII (2.ª) (IL) - De congratulação pela conquista do título de Campeão do Mundo de Omnium por Iúri Leitão nos Campeonatos do Mundo de Ciclismo de Pista de 2026\n Projeto de voto n.º 799/XVII (2.ª) (PS) - De saudação a Iúri Leitão pela conquista do título de Campeão do Mundo de Omnium e à prestação portuguesa nos Campeonatos do Mundo de Ciclismo de Pista de 2026\n Projeto de voto n.º 817/XVII (2.ª) (CH) - De congratulação pela conquista do título de campeão mundial de omnium por Iúri Leitão\n Votação do projeto de voto n.º 793/XVII (2.ª) (PSD) - De saudação pelo 90.º aniversário do Rancho Folclórico «Os Campinos» de Vila Chã de Ourique.\n Votação do projeto de voto n.º 795/XVII (2.ª) (PSD) - De congratulação pelos 50 anos da Associação Desportiva Flaviense.\n Votação do projeto de voto n,º 804/XVII (2.ª) (PSD) - De saudação ao surfista mirense Guilherme Caetano pela conquista do Turismo do Centro Award 2026.\n Votação do Projeto de voto n.º 806/XVII (2.ª) (IL) - De congratulação pela conquista do título de Campeão do Mundo de Tumbling por Vasco Peso e pelos resultados alcançados pela Seleção Nacional de Trampolins no Campeonato do Mundo de 2026.\n Votação do projeto de voto n.º 812/XVII (2.ª) (CH) - De congratulação pela conquista do vice-campeonato mundial de freestyle skate por Francisco Patrone.\n Votação do projeto de voto n.º 813/XVII (2.ª) ( CH) - De congratulação pela conquista de 31 medalhas e cinco recordes mundiais pela seleção portuguesa no Campeonato do Mundo de Natação para Atletas com Síndrome de Down.\n Votação do projeto de voto n.º 814/XVII (2.ª ) (CH) - De congratulação pelo título mundial de Nuno Mendes e pela medalha de bronze de Maria Mendes no Campeonato do Mundo de Kickboxing.\n Votação do projeto de voto n.º 815/XVII (2.ª) (CH) - De saudação pela conquista do título de campeão mundial Youth A de XTERRA por Dinis Cabral.\n Votação do projeto de voto n.º 816/XVII (2.ª) (CH) - De congratulação pela conquista do título de campeão mundial de kickboxing da Glory por Miguel Trindade.\n Votação do projeto de voto n.º 818/XVII (2.ª) (PS) – De saudação pelo centenário do Sport Marítimo Murtoense.\n Votação do projeto de voto n.º 820/XVII (2.ª) (CH) - De saudação pelo centenário do Centro Recreativo Amadores de Música «Os Leões».\n Votação do projeto de voto n.º 821/XVII (2.ª) (CH) - De congratulação à Sociedade Musical de Pevidém pelo 1.º Prémio no XXV Certamen Internacional de Bandas de Música Villa de Aranda .\n Votação do projeto de voto n.º 822/XVII (2.ª) (PS) - De saudação ao músico Dino D’Santiago pela conquista do Grammy Latino.\n Votação do projeto de voto n.º 824/XVII (2.ª) (PSD) - De saudação pelo 75.º aniversário do Rancho Típico de Pombal.\n Votação do projeto de voto n.º 825XVII (2.ª) (JPP) - De congratulação ao treinador Leonardo Jardim pela conquista do Campeonato Brasileiro de Futebol de 2026 e pelo seu percurso desportivo internacional.",
+   "ordemTrabalhos": "Informações:\n Apreciação e votação das atas de 21 e 22 de outubro de 2026 e 2 e 3 de novembro de 2026.\n Projeto de resolução n.º 1338/XVII (2.ª) (PSD) - Recomenda ao Governo que promova um enquadramento adequado dos jogos eletrónicos:\n Discussão em Plenário ou em Comissão?\n Fixação da redação final do projeto de resolução n.º 906/XVII (1.ª) (CH) - Recomenda ao Governo que assegure a independência editorial, a autonomia institucional, a transparência financeira e o escrutínio parlamentar da Lusa – Agência de Notícias de Portugal, S.A.\n Apreciação e votação do orçamento da Comissão.\n Apreciação e votação do requerimento apresentado pelo Grupo Parlamentar da IL, solicitando a audição da Presidente do Conselho Geral Independente da RTP, Ana Margarida Carvalho, sobre o processo de escolha do Conselho de Administração da RTP para o novo mandato.\n Apreciação e votação do relatório da proposta de lei n.º 104XVII (1.ª) - Estabelece o regime jurídico do associativismo jovem:\n Deputado Relator: Alfredo Maia (PCP)\n Apreciação e votação na especialidade:\n Projeto de resolução n.º 1209/XVII (1.ª) (CH) - Recomenda ao Governo a realização de uma auditoria abrangente à RTP e o acompanhamento reforçado do aumento de capital de 20 milhões de euros\n Projeto de resolução n.º 1250/XVII (2.ª) (PS) - Pela defesa, valorização e sustentabilidade do serviço público de rádio e de televisão\n Projeto de resolução n.º 1267/XVII (2.ª) (PSD) - Pela sustentabilidade, modernização e adequação do serviço público de media.\n Discussão, nos termos do artigo 128.º do Regimento da Assembleia da República, do Projeto de resolução n.º 1205/XVII (1.ª) (CH) - Recomenda ao Governo a aprovação de uma Estratégia Nacional de Combate à Pirataria Digital de Conteúdos Audiovisuais, Desportivos e Jornalísticos\n Discussão, nos termos do artigo 128.º do Regimento da Assembleia a República, do Projeto de resolução n.º 1237/XVII (2.ª) (CH) - Recomenda ao Governo a aprovação de um programa nacional de salvaguarda do vitral histórico português\n Votação do texto de fusão:\n Projeto de voto n.º 789/XVII (2.ª) (IL) - De congratulação pela conquista do título de Campeão do Mundo de Omnium por Iúri Leitão nos Campeonatos do Mundo de Ciclismo de Pista de 2026\n Projeto de voto n.º 799/XVII (2.ª) (PS) - De saudação a Iúri Leitão pela conquista do título de Campeão do Mundo de Omnium e à prestação portuguesa nos Campeonatos do Mundo de Ciclismo de Pista de 2026\n Projeto de voto n.º 817/XVII (2.ª) (CH) - De congratulação pela conquista do título de campeão mundial de omnium por Iúri Leitão\n Votação do projeto de voto n.º 793/XVII (2.ª) (PSD) - De saudação pelo 90.º aniversário do Rancho Folclórico «Os Campinos» de Vila Chã de Ourique.\n Votação do projeto de voto n.º 795/XVII (2.ª) (PSD) - De congratulação pelos 50 anos da Associação Desportiva Flaviense.\n Votação do projeto de voto n,º 804/XVII (2.ª) (PSD) - De saudação ao surfista mirense Guilherme Caetano pela conquista do Turismo do Centro Award 2026.\n Votação do Projeto de voto n.º 806/XVII (2.ª) (IL) - De congratulação pela conquista do título de Campeão do Mundo de Tumbling por Vasco Peso e pelos resultados alcançados pela Seleção Nacional de Trampolins no Campeonato do Mundo de 2026.\n Votação do projeto de voto n.º 812/XVII (2.ª) (CH) - De congratulação pela conquista do vice-campeonato mundial de freestyle skate por Francisco Patrone.\n Votação do projeto de voto n.º 813/XVII (2.ª) ( CH) - De congratulação pela conquista de 31 medalhas e cinco recordes mundiais pela seleção portuguesa no Campeonato do Mundo de Natação para Atletas com Síndrome de Down.\n Votação do projeto de voto n.º 814/XVII (2.ª ) (CH) - De congratulação pelo título mundial de Nuno Mendes e pela medalha de bronze de Maria Mendes no Campeonato do Mundo de Kickboxing.\n Votação do projeto de voto n.º 815/XVII (2.ª) (CH) - De saudação pela conquista do título de campeão mundial Youth A de XTERRA por Dinis Cabral.\n Votação do projeto de voto n.º 816/XVII (2.ª) (CH) - De congratulação pela conquista do título de campeão mundial de kickboxing da Glory por Miguel Trindade.\n Votação do projeto de voto n.º 818/XVII (2.ª) (PS) – De saudação pelo centenário do Sport Marítimo Murtoense.\n Votação do projeto de voto n.º 820/XVII (2.ª) (CH) - De saudação pelo centenário do Centro Recreativo Amadores de Música «Os Leões».\n Votação do projeto de voto n.º 821/XVII (2.ª) (CH) - De congratulação à Sociedade Musical de Pevidém pelo 1.º Prémio no XXV Certamen Internacional de Bandas de Música Villa de Aranda .\n Votação do projeto de voto n.º 822/XVII (2.ª) (PS) - De saudação ao músico Dino D’Santiago pela conquista do Grammy Latino.\n Votação do projeto de voto n.º 824/XVII (2.ª) (PSD) - De saudação pelo 75.º aniversário do Rancho Típico de Pombal.\n Votação do projeto de voto n.º 825XVII (2.ª) (JPP) - De congratulação ao treinador Leonardo Jardim pela conquista do Campeonato Brasileiro de Futebol de 2026 e pelo seu percurso desportivo internacional.\n Outros assuntos.",
    "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.aspx",
    "uo": [
     "DAPL",
@@ -483,6 +707,27 @@
     "«lusa» (UPE)",
     "«rtp» (UPE)",
     "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48777,
+   "data": "2026-12-03",
+   "hora": "14h00",
+   "tema": "Comissão de Ambiente e Energia",
+   "orgao": "Comissão de Ambiente e Energia",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 4",
+   "resumo": "Audição de Peticionários (Relator: Deputado Pedro Roque (GP PSD)): Petição n.º 200/XVI/1 - Querem Tirar-nos a praia de Albarquel! Areia e Tudo (12639 assinaturas)",
+   "ordemTrabalhos": "Audição de Peticionários (Relator: Deputado Pedro Roque (GP PSD)): Petição n.º 200/XVI/1 - Querem Tirar-nos a praia de Albarquel! Areia e Tudo (12639 assinaturas)",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Imediato",
+   "criterio": [
+    "comissão da área de cliente com pedidos à UPE (Ministra do Ambiente e Energia) → Imediato"
    ],
    "validado": false
   },
@@ -528,6 +773,29 @@
    "criterio": [
     "presença de membro do Governo → Vigilância",
     "dossier acompanhado: Jogo e apostas online (UPE-2026-026) → Vigilância"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48781,
+   "data": "2026-12-03",
+   "hora": "17h00",
+   "tema": "Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, I.P.",
+   "orgao": "Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, I.P.",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 43",
+   "resumo": "Parte I \n Apreciação e votação da ata n.º 42, referente à reunião do dia 8 de setembro;\n Discussão e votação do requerimento apresentado pelos Deputados do grupo parlamentar do PS para audição da Ministra da Saúde;\n Apreciação e votação do requerimento apresentado por Ana Sofia Sousa Santos para rea",
+   "ordemTrabalhos": "Parte I \n Apreciação e votação da ata n.º 42, referente à reunião do dia 8 de setembro;\n Discussão e votação do requerimento apresentado pelos Deputados do grupo parlamentar do PS para audição da Ministra da Saúde;\n Apreciação e votação do requerimento apresentado por Ana Sofia Sousa Santos para realização da sua audição sem captação de imagem;\n Outros assuntos.\n Parte II \n Audições, ao abrigo do n.º 1 do artigo 16.º do Regime Jurídico dos Inquéritos Parlamentares de:\n - António Carlos Caeiro Carapeto , na qualidade de Inspetor-Geral das Atividades em Saúde (IGAS), desde setembro de 2020.\n - Sérgio Dias Janeiro , na qualidade de Presidente do Conselho Diretivo do INEM, de julho de 2024 a novembro de 2025;",
+   "ligacao": "",
+   "uo": [
+    "DACDP"
+   ],
+   "pertinencia": "Vigilância",
+   "criterio": [
+    "presença de membro do Governo → Vigilância"
    ],
    "validado": false
   },
@@ -674,7 +942,7 @@
    ],
    "tipoLabel": "Plenário · Reunião n.º 26 · Plenário",
    "resumo": "ORDEM DO DIA  \n 15:00 \n 1 - Debate com a participação do Governo, sobre o Estado da União, conforme previsto na alínea d) do n.º 1 do artigo 4.º da Lei relativa ao acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia (Lei n.º 43/20",
-   "ordemTrabalhos": "ORDEM DO DIA  \n 15:00 \n 1 - Debate com a participação do Governo, sobre o Estado da União, conforme previsto na alínea d) do n.º 1 do artigo 4.º da Lei relativa ao acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia (Lei n.º 43/2006, de 25 de agosto).\n Debates europeus com o Governo \n (ao abrigo do artigo 225.º do Regimento)\n Intervenção inicial GOV \n 5 m      \n Perguntas dos Partidos \n Respostas do GOV \n Total Ronda \n PSD \n 5 m \n 5 m \n 10 m \n CH \n 4 m 30 \n 4 m 30 \n 9 m \n PS \n 4 m 30 \n 4 m 30 \n 9 m \n IL \n 3 m 30 \n 3 m 30 \n 7 m \n L \n 3 m \n 3 m \n 6 m \n PCP \n 2 m 30 \n 2 m 30 \n 5 m \n CDS-PP \n 2 m 30 \n 2 m 30 \n 5 m \n BE \n 1 m 30 \n 1 m 30 \n 3 m \n PAN \n 1 m 30 \n 1 m 30 \n 3 m \n JPP \n 1 m 30 \n 1 m 30 \n 3 m \n   Total \n 65 m \n Intervenções por ordem decrescente de representatividade, numa ronda única.  \n 2 - Proposta de Resolução n.º 20/XVII/2.ª (GOV) \n Aprova o Acordo sobre a interpretação e a aplicação do Tratado da Carta da Energia, feito em Bruxelas, em 18 de fevereiro de 2026\n Tempos \n GOV* ** \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 3 -  Projeto de Lei n.º 804/XVII/2.ª (PSD) \n Reforça a proteção dos advogados em matéria de parentalidade, doença grave e gravidez de risco\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP* ** \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 4 - Proposta de Lei n.º 68/XVII/1.ª (ALRAA) \n Altera a Lei Orgânica n.º 2/2013, de 2 de setembro, que aprova a Lei das Finanças das Regiões Autónomas\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 5 - Relatório da Comissão Técnica Independente sobre os Incêndios . \n Debate sobre Relatórios de outras entidades \n (artigo 242.º do Regimento)\n DEBATE \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 31 m \n Nota: Os debates sobre os relatórios da autoria do Governo são abertos e encerrados por este, que dispõe de 6 minutos em cada uma das fases.",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 15:00 \n 1 - Debate com a participação do Governo, sobre o Estado da União, conforme previsto na alínea d) do n.º 1 do artigo 4.º da Lei relativa ao acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia (Lei n.º 43/2006, de 25 de agosto).\n Debates europeus com o Governo \n (ao abrigo do artigo 225.º do Regimento)\n Intervenção inicial GOV \n 5 m      \n Perguntas dos Partidos \n Respostas do GOV \n Total Ronda \n PSD \n 5 m \n 5 m \n 10 m \n CH \n 4 m 30 \n 4 m 30 \n 9 m \n PS \n 4 m 30 \n 4 m 30 \n 9 m \n IL \n 3 m 30 \n 3 m 30 \n 7 m \n L \n 3 m \n 3 m \n 6 m \n PCP \n 2 m 30 \n 2 m 30 \n 5 m \n CDS-PP \n 2 m 30 \n 2 m 30 \n 5 m \n BE \n 1 m 30 \n 1 m 30 \n 3 m \n PAN \n 1 m 30 \n 1 m 30 \n 3 m \n JPP \n 1 m 30 \n 1 m 30 \n 3 m \n   Total \n 65 m \n Intervenções por ordem decrescente de representatividade, numa ronda única.  \n 2 - Proposta de Resolução n.º 20/XVII/2.ª (GOV) \n Aprova o Acordo sobre a interpretação e a aplicação do Tratado da Carta da Energia, feito em Bruxelas, em 18 de fevereiro de 2026\n Tempos \n GOV* ** \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 3 - Projeto de Lei n.º 804/XVII/2.ª (PSD) \n Reforça a proteção dos advogados em matéria de parentalidade, doença grave e gravidez de risco\n Projeto de Lei n.º 824/XVII/2.ª (JPP) \n Estabelece o direito de opção entre a CPAS e o regime de Segurança Social dos trabalhadores independentes e altera o Regulamento da CPAS\n Projeto de Lei n.º 805/XVII/2.ª (PS) \n Altera o Código de Processo Civil e o Código de Processo Penal, reforçando os direitos dos Advogados em caso de doença grave ou exercício dos direitos de parentalidade, bem como à 3ª alteração ao Decreto-Lei n.º 131/2009, de 1 de junho, na sua redação em vigor\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP* ** \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 4 - Proposta de Lei n.º 68/XVII/1.ª (ALRAA) \n Altera a Lei Orgânica n.º 2/2013, de 2 de setembro, que aprova a Lei das Finanças das Regiões Autónomas\n Tempos \n GOV \n 6 m \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 37 m \n Notas: \n * Os autores das iniciativas dispõem de mais 1 minuto cada [artigo 145.º, n.º 2, alínea d)]. \n ** O autor do agendamento dispõe de um período adicional de 2 minutos para o encerramento [artigo 145.º, n.º 2, alínea e)]. \n Intervenção do proponente e dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição. \n 5 - Relatório da Comissão Técnica Independente sobre os Incêndios . \n Debate sobre Relatórios de outras entidades \n (artigo 242.º do Regimento)\n DEBATE \n PSD \n 6 m \n CH \n 5 m \n PS \n 5 m \n IL \n 3 m \n L \n 3 m \n PCP \n 3 m \n CDS-PP \n 3 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 31 m \n Nota: Os debates sobre os relatórios da autoria do Governo são abertos e encerrados por este, que dispõe de 6 minutos em cada uma das fases.",
    "ligacao": "",
    "uo": [
     "DACDP",
@@ -850,7 +1118,7 @@
    "tipo": [
     "Conferência de Líderes"
    ],
-   "tipoLabel": "Conferência de Líderes · Reunião n.º 31 · Sala 7",
+   "tipoLabel": "Conferência de Líderes · Reunião n.º 32 · Sala 7",
    "resumo": "",
    "ordemTrabalhos": "",
    "ligacao": "",
@@ -944,7 +1212,7 @@
    ],
    "tipoLabel": "Plenário · Reunião n.º 31 · Plenário",
    "resumo": "ORDEM DO DIA  \n 10:00 \n 1 - Eleições para entidades externas.   \n 2 - Petição n.º 129/XVI/1.ª     \n Pela manutenção e salvaguarda da ACADEMIA DE AMADORES DE MÚSICA\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n ",
-   "ordemTrabalhos": "ORDEM DO DIA  \n 10:00 \n 1 - Eleições para entidades externas.   \n 2 - Petição n.º 129/XVI/1.ª     \n Pela manutenção e salvaguarda da ACADEMIA DE AMADORES DE MÚSICA\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 3 - Petição n.º 141/XVI/1.ª   \n 8 de janeiro-Dia Nacional da Comunicação\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 4 -   Petição n.º 18/XVII/1.ª \n Reconhecimento do Estado da Palestina\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 5 -  Petição n.º 247/XV/2.ª \n Pela implementação imediata de CED (Captura, Esterilização e Devolução) em matilhas de cães errantes e de uma Estratégia Nacional para os Animais Errantes\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 6 -   Petição n.º 24/XVII/1.ª \n Pelo apuramento de responsabilidades políticas e criminais do caso de maus-tratos a 73 animais em Foz Côa\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 7 -  Petição n.º 14/XVII/1.ª   - Estatuto do Cuidador Informal: Direitos para Todos\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 8 - Petição n.º 106/XVII/1.ª -   Remição de pensão por acidente de trabalho\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 9 -  Votações Regimentais",
+   "ordemTrabalhos": "ORDEM DO DIA  \n 10:00 \n 1 - Eleições para entidades externas.   \n 2 - Petição n.º 129/XVI/1.ª     \n Pela manutenção e salvaguarda da ACADEMIA DE AMADORES DE MÚSICA\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 3 - Petição n.º 141/XVI/1.ª   \n 8 de janeiro-Dia Nacional da Comunicação\n Projeto de Resolução n.º 389/XVII/1.ª (CH) \n Consagração do Dia Nacional da Comunicação\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 4 -   Petição n.º 18/XVII/1.ª \n Reconhecimento do Estado da Palestina\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 5 -  Petição n.º 247/XV/2.ª \n Pela implementação imediata de CED (Captura, Esterilização e Devolução) em matilhas de cães errantes e de uma Estratégia Nacional para os Animais Errantes\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 6 -   Petição n.º 24/XVII/1.ª \n Pelo apuramento de responsabilidades políticas e criminais do caso de maus-tratos a 73 animais em Foz Côa\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 7 -  Petição n.º 14/XVII/1.ª   \n Estatuto do Cuidador Informal: Direitos para Todos\n Projeto de Resolução n.º 1013/XVII/1.ª (CH) \n Recomenda ao Governo a adoção de medidas urgentes de dignificação, proteção social e justiça contributiva dos cuidadores informais\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 8 -  Petição n.º 106/VI/1.ª \n Solicita que o Curso Superior de Educação pela Arte ministrado pelo Conservatório Nacional seja considerado como habilitação própria e não habilitação suficiente.\n DEBATE \n Tempos \n GOV \n 3 m \n PSD \n 3 m \n CH \n 2 m 30 \n PS \n 2 m 30 \n IL \n 2 m \n L \n 2 m \n PCP \n 2 m \n CDS-PP \n 2 m \n BE \n 1 m \n PAN \n 1 m \n JPP \n 1 m \n Total \n 22 m \n Notas: \n * Os autores das iniciativas que sejam agendadas por arrastamento com a petição dispõem de mais 1 minuto cada.\n O formato é idêntico ao do processo legislativo.\n Intervenção dos autores dos arrastamentos. Os pedidos de esclarecimento ocorrem imediatamente após a intervenção que os gera. Tanto estes como as intervenções subsequentes respeitam a ordem de inscrição.\n 9 -  Votações Regimentais",
    "ligacao": "",
    "uo": [
     "DACDP",

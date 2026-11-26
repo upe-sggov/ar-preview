@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48780@ar-preview
+DTSTAMP:20261126T180103Z
+DTSTART:20261202T110000Z
+DTEND:20261202T130000Z
+SUMMARY:AR · Audiência com a Direção da Comissão de Concorrência da 
+ ICC Portugal
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 5
+ 6\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Pagin
+ as/default.aspx\nEmissões em direto (quando houver): https://canal.parla
+ mento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de f
+ im indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
