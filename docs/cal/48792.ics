@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48792@ar-preview
+DTSTAMP:20261126T180230Z
+DTSTART:20261202T113000Z
+DTEND:20261202T133000Z
+SUMMARY:AR · Comissão de Trabalho\, Segurança Social e Inclusão
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Trabalho\, Segurança Social e Inclusão · Reuni
+ ão n.º 78\nGoverno: Ministra do Trabalho\, Solidariedade e Segurança S
+ ocial\, Prof\nSíntese: Apreciação e votação das atas das reuniões n
+ .ºs 73\, 74\, 75\, 76 e 77\, respetivamente\, de 20\, 21 e 26 de outubro
+  e de 5 e 6 de novembro de…\nPágina na AR: https://www.parlamento.pt/s
+ ites/com/XVIILeg/10CTSSI/Paginas/default.aspx\nEmissões em direto (quand
+ o houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.gi
+ thub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48789@ar-preview
+DTSTAMP:20261126T180230Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Comissão de Saúde
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Saúde · Reunião n.º 68\nGoverno: Ministra da 
+ Saúde «sobre a situação dos serviços de urgência na Unidade Local d
+ e Saúde do Algarve\, em particular das mortes ocorridas no Hospital de P
+ ortimão» · Ministra da Saúde e do Presidente do Conselho de Administr
+ ação da Unidade Local de Saúde do Algarve\, «sobre o funcionamento do
+  Serviço de Urgência do Hospital de Portimão»\nSíntese: Audição do
+  Conselho Nacional de Procriação Medicamente Assistida no âmbito da ap
+ reciação do Projeto de Lei n.º 623/XVII/1.ª (PSD) - «Aprova…\nPág
+ ina na AR: https://www.parlamento.pt/sites/com/XVIILeg/9CS/Paginas/defaul
+ t.aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/
+ \nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indica
+ tiva\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/9CS/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

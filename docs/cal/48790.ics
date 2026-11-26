@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48790@ar-preview
+DTSTAMP:20261126T180230Z
+DTSTART:20261202T134500Z
+DTEND:20261202T154500Z
+SUMMARY:AR · Comissão de Educação e Ciência
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Educação e Ciência · Reunião n.º 30\nSínte
+ se: Reunião com José Bravo Nico\, docente da Universidade de Évora e D
+ iretor do Curso de Licenciatura em Ciências da Educação e uma delagaç
+ ão de…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/8CE
+ C/Paginas/default.aspx\nEmissões em direto (quando houver): https://cana
+ l.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHo
+ ra de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
