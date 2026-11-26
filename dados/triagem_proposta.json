@@ -1,93 +1,9 @@
 {
  "inicio": "2026-11-23",
  "fim": "2026-11-29",
- "recolha": "2026-11-25T18:11",
+ "recolha": "2026-11-26T01:43",
  "fonte": "Agenda Parlamentar da Assembleia da República — agenda.parlamento.pt (exportação JSON), completada pelos dados abertos; calendarização: dados abertos",
  "itens": [
-  {
-   "id_ar": 48678,
-   "data": "2026-11-25",
-   "hora": "11h00",
-   "tema": "Plenário — 11:00 Sessão Solene Evocativa do 25 de novembro de 1975",
-   "orgao": "Plenário",
-   "interveniente": "",
-   "tipo": [
-    "Plenário"
-   ],
-   "tipoLabel": "Plenário · Reunião n.º 22 · Plenário",
-   "resumo": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
-   "ordemTrabalhos": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48721,
-   "data": "2026-11-25",
-   "hora": "14h30",
-   "tema": "Conselho de Administração",
-   "orgao": "Conselho de Administração",
-   "interveniente": "",
-   "tipo": [
-    "Conselho de Administração"
-   ],
-   "tipoLabel": "Conselho de Administração · Reunião n.º 31 · Sala 7",
-   "resumo": "1 - Informações\n 2 - Apreciação da Ata 30/XVII/2ª Sessão (10 novembro)  \n 3 - Informação 402/DC/2026 - Aquisição de Fardamento Outono/Inverno para AOP's - Feminino\n 4 - Informação 401/DC/2026 - Aquisição de sistema de arquivamento Alto Backup Storage para o Canal Parlamento\n 5 - Informação 409/DC/20",
-   "ordemTrabalhos": "1 - Informações\n 2 - Apreciação da Ata 30/XVII/2ª Sessão (10 novembro)  \n 3 - Informação 402/DC/2026 - Aquisição de Fardamento Outono/Inverno para AOP's - Feminino\n 4 - Informação 401/DC/2026 - Aquisição de sistema de arquivamento Alto Backup Storage para o Canal Parlamento\n 5 - Informação 409/DC/2026 - Aquisição de Serviços de apoio em regime de Outsourcing para a equipa de Sistemas\n 6 - Informação 279/DC/2026 - Aquisição de serviços de correspondência postal com os “CTT - Correios de Portugal, SA” - Triénio 2027/2029\n 7 - Informação 415/DC/2026 - Aquisição de serviços especializados para a conceção e materialização da Exposição António Barbosa de Melo\n 8 - Informação 414/DC/2026 - Aquisição serviços impressão “Constituição da República Portuguesa” c/ caixas de acondicionamento, “Casa da Democracia”, “É Liberdade” e produção e catálogo da exposição “A Palavra é o Lugar”\n 9 - Informação 368/DC/2026 - Aluguer de cinco estações de comunicações do sistema automático de deteção de incêndios (SADI)\n 10 - Informação 398/DC/2026 - Fornecimento do serviço de internet, rede Wifi , telefones IP, comunicações móveis e televisão nas instalações da Associação de Ex-Deputados da AR (AEDAR)\n 11 - Informação 411/DC/2026 - Prestação de serviços de Concessão de exploração do restaurante do Novo Edifício da Assembleia da República, pelo período de 36 meses (Fev 2027 a fev 2030)\n 12 - Informação 412/DC/2026 - Manifestação de necessidades: aquisição de serviços na área da mediação de seguros\n 13 - Tribunal de Contas | Relatório Auditoria à Certificação de Contas da Assembleia da República 2025\n 14 - Informação 10/DERP/2026 - Fardamento | Proposta de alteração ao Regulamento\n 15 - Informação 81/BIB/2026 - Proposta de novo Regulamento da Biblioteca Passos Manuel\n 16 - Informação 102/DGF/2026 - 9.ª alteração orçamental ao OAR/2026\n 17 - Informação 393/DC/2026 - Fornecimento de Switches de acesso para bastidores de comunicações\n 18 - Informação 361/DC/2026 - Aquisição de subscrição para software de suporte remoto\n 19 - Informação 416/DC/2026 - Manifestação de necessidades: aquisição de serviços de agenciamento de viagens e alojamentos, para assegurar a continuidade das deslocações em serviço da Assembleia da República\n 20 - Outros assuntos\n 21 - Aprovação da Ata em minuta para imediata produção de efeitos das deliberações",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48765,
-   "data": "2026-11-25",
-   "hora": "15h00",
-   "tema": "Comissão de Educação e Ciência",
-   "orgao": "Comissão de Educação e Ciência",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9",
-   "resumo": "Lançamento do livro\n “O Conhecimento Científico como Pilar da Decisão Política – Cafés de Ciência no Parlamento” \n Biblioteca Passos Manuel - Assembleia da República",
-   "ordemTrabalhos": "Lançamento do livro\n “O Conhecimento Científico como Pilar da Decisão Política – Cafés de Ciência no Parlamento” \n Biblioteca Passos Manuel - Assembleia da República",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48751,
-   "data": "2026-11-25",
-   "hora": "13h00",
-   "tema": "Audiências do Grupo Parlamentar do CH",
-   "orgao": "Audiências do Grupo Parlamentar do CH",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "13h00 - Associação Leão e Sol dos Iranianos em Portugal",
-   "ordemTrabalhos": "13h00 - Associação Leão e Sol dos Iranianos em Portugal",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
   {
    "id_ar": 48744,
    "data": "2026-11-26",
@@ -197,185 +113,6 @@
    "validado": false
   },
   {
-   "id_ar": 48762,
-   "data": "2026-11-24",
-   "hora": "17h00",
-   "tema": "Sessão de Proclamação do Vintage Confraria 2024",
-   "orgao": "Sessão de Proclamação do Vintage Confraria 2024",
-   "interveniente": "",
-   "tipo": [
-    "Agenda do Presidente da Assembleia da República"
-   ],
-   "tipoLabel": "Agenda do Presidente da Assembleia da República · Refeitório dos Monges",
-   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de proclamação do ano de 2024 como ano vintage do vinho do Porto. Trata-se de uma iniciativa da Confrari",
-   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa na sessão de proclamação do ano de 2024 como ano vintage do vinho do Porto. Trata-se de uma iniciativa da Confraria do Vinho do Porto.",
-   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48763,
-   "data": "2026-11-24",
-   "hora": "14h30",
-   "tema": "Reunião Plenária",
-   "orgao": "Reunião Plenária",
-   "interveniente": "",
-   "tipo": [
-    "Agenda do Presidente da Assembleia da República"
-   ],
-   "tipoLabel": "Agenda do Presidente da Assembleia da República · Sala das Sessões",
-   "resumo": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
-   "ordemTrabalhos": "O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à reunião Plenária.",
-   "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48739,
-   "data": "2026-11-24",
-   "hora": "",
-   "tema": "Visitas guiadas ao Palácio de São Bento",
-   "orgao": "Visitas guiadas ao Palácio de São Bento",
-   "interveniente": "",
-   "tipo": [
-    "Visitas ao Palácio de S. Bento"
-   ],
-   "tipoLabel": "Visitas ao Palácio de S. Bento",
-   "resumo": "10h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n11h00 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n11h30 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
-   "ordemTrabalhos": "10h30 - Um grupo de 30 cidadãos do Extranjeiro em Lisboa\n11h00 - Um grupo de 25 alunos e professores da Associação de Estudantes da Faculdade de Direito da Universidade Nova de Lisboa\n11h30 - Um grupo de 14 Enfermeiros do Serviço de Urgência do Hospital de Viseu",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48759,
-   "data": "2026-11-24",
-   "hora": "",
-   "tema": "Audiências do Grupo Parlamentar do PSD",
-   "orgao": "Audiências do Grupo Parlamentar do PSD",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "12h00 – Associação All4Integrity",
-   "ordemTrabalhos": "12h00 – Associação All4Integrity",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48742,
-   "data": "2026-11-24",
-   "hora": "",
-   "tema": "Assistências à Sessão Plenária",
-   "orgao": "Assistências à Sessão Plenária",
-   "interveniente": "",
-   "tipo": [
-    "Assistências ao Plenário"
-   ],
-   "tipoLabel": "Assistências ao Plenário",
-   "resumo": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro  \n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h0",
-   "ordemTrabalhos": "15h00 - 16h15 - Um grupo de 80 alunos e professores do Agrupamento de Escolas de Santo André - Barreiro  \n15h00 - 16h15 - Um grupo de 30 alunos e professores do St. Peters International School - Palmela\n15h00 - 16h15 - Um grupo de 43 alunos e professores da Escola Secundária de Castelo de Paiva\n15h00 - 16h15 - Um grupo de 12 cidadãos da JSD de Rio Maior\n15h00 - 16h15 - Um grupo de 15 alunos da Região Norte\n15h00 - 16h15 - Um grupo de 59 alunos e professores da Academia Sénior do Município de Braga\n15h00 - 16h15 - Um grupo de 13 cidadãos da JSD de Cantanhede   \n16h30 - 18h00 - Um grupo de 14 alunos e professores do Agrupamento de Escolas de Benfica - Lisboa",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48735,
-   "data": "2026-11-24",
-   "hora": "",
-   "tema": "Audiências do Grupo Parlamentar do PS",
-   "orgao": "Audiências do Grupo Parlamentar do PS",
-   "interveniente": "",
-   "tipo": [
-    "Grupos Parlamentares / Partidos / DURP / Ninsc"
-   ],
-   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
-   "resumo": "16h00 - Plataforma Sindical dos 5 Sindicatos de Enfermagem (SITEU)",
-   "ordemTrabalhos": "16h00 - Plataforma Sindical dos 5 Sindicatos de Enfermagem (SITEU)",
-   "ligacao": "",
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48748,
-   "data": "2026-11-24",
-   "hora": "11h00",
-   "tema": "Comissão da Reforma do Estado e Poder Local",
-   "orgao": "Comissão da Reforma do Estado e Poder Local",
-   "interveniente": "",
-   "tipo": [
-    "Comissões Parlamentares"
-   ],
-   "tipoLabel": "Comissões Parlamentares · Reunião n.º 4 · Sala 3",
-   "resumo": "Audiência com RELX-Elsevier no âmbito da implementação de sistemas de inteligência artificial seguros, transparentes e responsáveis, para melhorar os serviços aos cidadãos, gerar valor para a sociedade e fortalecer o sistema científico e de investigação.",
-   "ordemTrabalhos": "Audiência com RELX-Elsevier no âmbito da implementação de sistemas de inteligência artificial seguros, transparentes e responsáveis, para melhorar os serviços aos cidadãos, gerar valor para a sociedade e fortalecer o sistema científico e de investigação.",
-   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.aspx",
-   "uo": [
-    "Transversal"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«reforma do estado» (transversal)",
-    "comissão da área de cliente com pedidos à UPE (Ministro Adjunto e da Reforma do Estado; Secretário de Estado para a Digitalização) → Imediato"
-   ],
-   "validado": false
-  },
-  {
-   "id_ar": 48677,
-   "data": "2026-11-24",
-   "hora": "14h30",
-   "tema": "Plenário — Discussão de artigos remetidos a Plenário e normas avocadas",
-   "orgao": "Plenário",
-   "interveniente": "",
-   "tipo": [
-    "Plenário"
-   ],
-   "tipoLabel": "Plenário · Reunião n.º 21 · Plenário",
-   "resumo": "ORDEM DO DIA \n 14H30 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 20",
-   "ordemTrabalhos": "ORDEM DO DIA \n 14H30 \n 1 - Discussão de artigos remetidos a Plenário e normas avocadas \n Tempos \n 5 minutos ao Governo, a cada GP e DURP \n 2 - Votações \n 3- Encerramento do debate na especialidade do Orçamento do Estado para 2027 \n Proposta de Lei n.º 110/XVII/2.ª (GOV) \n Orçamento do Estado para 2027\n Debate na Especialidade \n ENCERRAMENTO \n JPP \n 3 m \n PAN \n 3 m \n BE \n 3 m \n CDS-PP \n 6 m \n PCP \n 6 m 30 \n L \n 7 m 30 \n IL \n 8 m 30 \n PS \n 12 m 30 \n CH \n 13 m 30 \n PSD \n 16 m \n GOV \n 30 m \n Total \n 109 m 30 \n 4 - Votações",
-   "ligacao": "",
-   "uo": [
-    "DACDP",
-    "DAPL",
-    "Transversal",
-    "UPE"
-   ],
-   "pertinencia": "Imediato",
-   "criterio": [
-    "«proposta de lei» (DAPL)",
-    "«orçamento do estado» (UPE)",
-    "«orçamento do estado» (transversal)",
-    "Plenário: «orçamento do estado» → Imediato"
-   ],
-   "validado": false
-  },
-  {
    "id_ar": 48767,
    "data": "2026-11-25",
    "hora": "19h00",
@@ -452,6 +189,90 @@
    "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à Sessão Solene comemorativa do 51º aniversário do 25 de novembro.",
    "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, preside à Sessão Solene comemorativa do 51º aniversário do 25 de novembro.",
    "ligacao": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48751,
+   "data": "2026-11-25",
+   "hora": "",
+   "tema": "Audiências do Grupo Parlamentar do CH",
+   "orgao": "Audiências do Grupo Parlamentar do CH",
+   "interveniente": "",
+   "tipo": [
+    "Grupos Parlamentares / Partidos / DURP / Ninsc"
+   ],
+   "tipoLabel": "Grupos Parlamentares / Partidos / DURP / Ninsc",
+   "resumo": "13h00 - Associação Leão e Sol dos Iranianos em Portugal",
+   "ordemTrabalhos": "13h00 - Associação Leão e Sol dos Iranianos em Portugal",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48678,
+   "data": "2026-11-25",
+   "hora": "11h00",
+   "tema": "Plenário — 11:00 Sessão Solene Evocativa do 25 de novembro de 1975",
+   "orgao": "Plenário",
+   "interveniente": "",
+   "tipo": [
+    "Plenário"
+   ],
+   "tipoLabel": "Plenário · Reunião n.º 22 · Plenário",
+   "resumo": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
+   "ordemTrabalhos": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48721,
+   "data": "2026-11-25",
+   "hora": "14h30",
+   "tema": "Conselho de Administração",
+   "orgao": "Conselho de Administração",
+   "interveniente": "",
+   "tipo": [
+    "Conselho de Administração"
+   ],
+   "tipoLabel": "Conselho de Administração · Reunião n.º 31 · Sala 7",
+   "resumo": "1 - Informações\n 2 - Apreciação da Ata 30/XVII/2ª Sessão (10 novembro)  \n 3 - Informação 402/DC/2026 - Aquisição de Fardamento Outono/Inverno para AOP's - Feminino\n 4 - Informação 401/DC/2026 - Aquisição de sistema de arquivamento Alto Backup Storage para o Canal Parlamento\n 5 - Informação 409/DC/20",
+   "ordemTrabalhos": "1 - Informações\n 2 - Apreciação da Ata 30/XVII/2ª Sessão (10 novembro)  \n 3 - Informação 402/DC/2026 - Aquisição de Fardamento Outono/Inverno para AOP's - Feminino\n 4 - Informação 401/DC/2026 - Aquisição de sistema de arquivamento Alto Backup Storage para o Canal Parlamento\n 5 - Informação 409/DC/2026 - Aquisição de Serviços de apoio em regime de Outsourcing para a equipa de Sistemas\n 6 - Informação 279/DC/2026 - Aquisição de serviços de correspondência postal com os “CTT - Correios de Portugal, SA” - Triénio 2027/2029\n 7 - Informação 415/DC/2026 - Aquisição de serviços especializados para a conceção e materialização da Exposição António Barbosa de Melo\n 8 - Informação 414/DC/2026 - Aquisição serviços impressão “Constituição da República Portuguesa” c/ caixas de acondicionamento, “Casa da Democracia”, “É Liberdade” e produção e catálogo da exposição “A Palavra é o Lugar”\n 9 - Informação 368/DC/2026 - Aluguer de cinco estações de comunicações do sistema automático de deteção de incêndios (SADI)\n 10 - Informação 398/DC/2026 - Fornecimento do serviço de internet, rede Wifi , telefones IP, comunicações móveis e televisão nas instalações da Associação de Ex-Deputados da AR (AEDAR)\n 11 - Informação 411/DC/2026 - Prestação de serviços de Concessão de exploração do restaurante do Novo Edifício da Assembleia da República, pelo período de 36 meses (Fev 2027 a fev 2030)\n 12 - Informação 412/DC/2026 - Manifestação de necessidades: aquisição de serviços na área da mediação de seguros\n 13 - Tribunal de Contas | Relatório Auditoria à Certificação de Contas da Assembleia da República 2025\n 14 - Informação 10/DERP/2026 - Fardamento | Proposta de alteração ao Regulamento\n 15 - Informação 81/BIB/2026 - Proposta de novo Regulamento da Biblioteca Passos Manuel\n 16 - Informação 102/DGF/2026 - 9.ª alteração orçamental ao OAR/2026\n 17 - Informação 393/DC/2026 - Fornecimento de Switches de acesso para bastidores de comunicações\n 18 - Informação 361/DC/2026 - Aquisição de subscrição para software de suporte remoto\n 19 - Informação 416/DC/2026 - Manifestação de necessidades: aquisição de serviços de agenciamento de viagens e alojamentos, para assegurar a continuidade das deslocações em serviço da Assembleia da República\n 20 - Outros assuntos\n 21 - Aprovação da Ata em minuta para imediata produção de efeitos das deliberações",
+   "ligacao": "",
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "validado": false
+  },
+  {
+   "id_ar": 48765,
+   "data": "2026-11-25",
+   "hora": "15h00",
+   "tema": "Comissão de Educação e Ciência",
+   "orgao": "Comissão de Educação e Ciência",
+   "interveniente": "",
+   "tipo": [
+    "Comissões Parlamentares"
+   ],
+   "tipoLabel": "Comissões Parlamentares · Reunião n.º 9",
+   "resumo": "Lançamento do livro\n “O Conhecimento Científico como Pilar da Decisão Política – Cafés de Ciência no Parlamento” \n Biblioteca Passos Manuel - Assembleia da República",
+   "ordemTrabalhos": "Lançamento do livro\n “O Conhecimento Científico como Pilar da Decisão Política – Cafés de Ciência no Parlamento” \n Biblioteca Passos Manuel - Assembleia da República",
+   "ligacao": "https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx",
    "uo": [],
    "pertinencia": "Registo",
    "criterio": [

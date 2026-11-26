@@ -54,10 +54,10 @@
    ],
    "cobertura": {
     "n": 351,
-    "n7": 62,
-    "n7ant": 25,
+    "n7": 59,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "expressoes",
     "ultima": "2026-11-25 13:34",
     "ultimas": [
@@ -2226,7 +2226,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2265,7 +2265,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2305,7 +2305,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2339,7 +2339,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2373,7 +2373,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2407,7 +2407,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2443,7 +2443,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2477,7 +2477,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2522,7 +2522,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2556,7 +2556,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2590,7 +2590,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2627,7 +2627,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2661,7 +2661,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2700,7 +2700,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2734,7 +2734,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2768,7 +2768,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2808,7 +2808,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2842,7 +2842,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2876,7 +2876,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2915,7 +2915,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2949,7 +2949,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -2983,7 +2983,7 @@
     "n7": 1,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "2026-11-24 07:10",
     "ultimas": [
@@ -3085,7 +3085,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3119,7 +3119,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3153,7 +3153,7 @@
     "n7": 0,
     "n7ant": 4,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "2026-11-18 20:07",
     "ultimas": [
@@ -3269,7 +3269,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3307,7 +3307,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3344,7 +3344,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3382,7 +3382,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -3552,8 +3552,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-25T18:11+00:00",
-  "atualizadoLabel": "25 de novembro, 18h11",
+  "atualizado": "2026-11-26T01:43+00:00",
+  "atualizadoLabel": "26 de novembro, 01h43",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "20 de novembro"
@@ -3794,34 +3794,106 @@
    "tabelas": [],
    "fundo": [
     {
+     "data": "2026-09-28",
+     "fonte": "Diário de Notícias da Madeira",
+     "url": "https://www.dnoticias.pt/2026/9/28/506971-seleccao-portuguesa-abandona-oslo-e-monta-estagio-na-suecia/",
+     "sintese": "A seleção portuguesa abandonou Oslo e instalou um estágio na Suécia, embora a notícia não esteja diretamente relacionada com a audiência agendada.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-04",
+     "fonte": "El País",
+     "url": "https://elpais.com/deportes/futbol/2026-10-04/felicia-schroder-la-delantera-que-vivia-en-una-isla-sin-coches-en-suecia-y-marca-un-gol-cada-28-minutos-en-la-liga-f.html",
+     "sintese": "A futebolista do Madrid, Felicia Schröder, natural de uma ilha sueca sem carros, marcou golos na Liga F, destacando a cultura desportiva da Suécia.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-06",
+     "fonte": "La Vanguardia",
+     "url": "https://www.lavanguardia.com/cultura/20261006/11652581/esculturas-clasicas-coleccion-reina-cristina-suecia-lucen-nunca-prado.html",
+     "sintese": "Esculturas da coleção da rainha Cristina da Suécia foram exibidas no Prado, realçando o património cultural sueco.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-11",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/bola-branca/noticia/amp/benfica/2026/10/11/benfica-derrota-vitoria-ao-ritmo-do-tango-de-prestianni-e-pelos-pes-de-sudakov/488753/",
+     "sintese": "O Benfica derrotou o Vitória num jogo, embora não esteja diretamente relacionado com a cooperação entre Portugal e a Suécia.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-10-14",
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/betis-fc-porto/resultado/este-fc-porto-nao-sabe-servir-em-jantares-de-gala-e-ainda-leva-pistolas-para-dar-tiros-nos-pes/20261014/6acfebe7d34e53c759c765e5",
+     "sintese": "O FC Porto não participou num jantar de gala e levou pistolas para um jogo, indicando problemas de segurança, mas não relacionados com a audiência.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
      "data": "2026-10-16",
      "fonte": "Lusa",
      "url": "https://www.lusa.pt/article/47956957/su%C3%A9cia-entrega-a-kiev-47-me-em-ajuda-civil-urgente",
-     "sintese": "Notícia sobre ajuda humanitária à Ucrânia, com menção à Suécia, mas não diretamente relacionada com a audiência.",
+     "sintese": "A Suécia entregou 47 milhões de euros em ajuda civil urgente a Kiev, demonstrando apoio à Ucrânia, mas não diretamente relacionado com a cooperação bilateral.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-22",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/uniao-europeia/2026-10-22-dois-cantos-da-europa-1bfa3f71",
+     "sintese": "Portugal e a Suécia compararam valores europeus, discutindo políticas e diferenças culturais, embora não diretamente relacionado com a audiência.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-10-26",
+     "fonte": "Executive Digest",
+     "url": "https://executivedigest.sapo.pt/suecia-proibe-funcionarios-publicos-de-usar-chatgpt-e-claude-no-trabalho-mas-ha-uma-excecao/",
+     "sintese": "A Suécia proibiu funcionários públicos de usar ChatGPT e Claude, abordando a ética da IA, mas não relacionado com a cooperação económica.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-02",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/mundo/2026-11-02-ataque-informatico-a-supermercados-na-belgica-e-suecia-altera-refrigeracao-de-congeladores-345ee594?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/2026-11-02-ataque-informatico-a-supermercados-na-belgica-e-suecia-altera-refrigeracao-de-congeladores-345ee594",
+     "sintese": "Um ataque informático afetou supermercados na Bélgica e na Suécia, alterando a refrigeração de congeladores, indicando riscos cibernéticos, mas não relacionado com a audiência.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-07",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/vidas/detalhe/festa-dos-50-anos-da-princesa-victoria-gera-polemica-na-suecia",
+     "sintese": "A festa dos 50 anos da princesa Vitória gerou polémica na Suécia, mas não está relacionada com a cooperação bilateral.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-14",
      "fonte": "SAPO Tek",
      "url": "https://tek.sapo.pt/noticias/computadores/artigos/atlas-troca-os-pes-por-rodas-e-transforma-se-num-robot-capaz-de-patinar-e-fazer-piruetas/",
-     "sintese": "Reportagem sobre exercício de dissuasão nuclear entre França e Suécia, sem relação direta com a audiência.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-19",
-     "fonte": "Correio da Manhã",
-     "url": "https://www.cmjornal.pt/mundo/amp/franca-e-suecia-realizam-primeiro-exercicio-de-dissuasao-nuclear-conjunta",
-     "sintese": "Reportagem sobre exercício de dissuasão nuclear entre França e Suécia, sem relação direta com a audiência.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Atlas, um robot, transformou-se num robot com rodas, demonstrando avanços tecnológicos, mas não relacionado com a audiência.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-19",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/mundo/cooperacao-estrategica-cacas-de-franca-e-suecia-ensaiam-dissuasao-nuclear_n1780293",
-     "sintese": "Artigo sobre cooperação estratégica entre França e Suécia, sem relação direta com a audiência.",
+     "sintese": "Caças de França e Suécia realizaram exercícios de dissuasão nuclear, demonstrando cooperação militar, mas não diretamente relacionado com a audiência.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-20",
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/20/suecia-confirma-que-ativou-cacas-para-defender-espaco-aereo-polaco/",
+     "sintese": "A Suécia ativou caças para defender o espaço aéreo polaco, demonstrando cooperação de segurança, mas não diretamente relacionado com a audiência.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -3829,45 +3901,69 @@
      "data": "2026-11-20",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/mundo/artigo/suecia-confirma-que-ativou-cacas-para-defender-espaco-aereo-polaco/18150428",
-     "sintese": "Notícia sobre Suécia a confirmar defesa do espaço aéreo polaco, sem relação direta com a audiência.",
+     "sintese": "A Suécia confirmou a ativação de caças para defender o espaço aéreo polaco, reforçando a cooperação de segurança, mas não diretamente relacionado com a audiência.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-21",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/21/franca-alexanha-e-suecia-criticam-proposta-de-orcamento-da-ue/",
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, indicando tensões políticas, mas não diretamente relacionado com a audiência.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-21",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/frana-alemanha-e-sucia-criticam-proposta-de-oramento-de-antnio-costa-para-a-ue",
-     "sintese": "Artigo sobre críticas de França, Alemanha e Suécia ao orçamento da UE, sem relação direta com a audiência.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "A França, a Alemanha e a Suécia criticaram a proposta de orçamento da UE, reforçando as divergências políticas, mas não diretamente relacionado com a audiência.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-22",
      "fonte": "El País",
      "url": "https://elpais.com/icon/2026-11-22/chavales-de-15-anos-en-un-bmw-a-30-por-hora-por-que-suecia-esta-llena-de-coches-que-son-legalmente-tractores.html",
-     "sintese": "Artigo sobre um fenómeno cultural na Suécia relacionado com regras de condução, sem relação direta com a audiência.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "A Suécia ativou caças para defender o espaço aéreo polaco, demonstrando cooperação de segurança, mas não diretamente relacionado com a audiência.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-24",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/11/24/mundo/noticia/apos-dois-chumbos-parlamento-restam-suecia-apenas-duas-votacoes-tentar-formar-governo-2196173",
-     "sintese": "Notícia sobre dificuldades na formação de governo na Suécia, sem relação direta com a audiência.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Após dois chumbos no Parlamento, restam à Suécia apenas duas votações para tentar formar governo",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-24",
+     "fonte": "TSF",
+     "url": "https://www.tsf.pt/politica/artigo/governo-pode-arrastar-com-os-pes-execucao-de-normas-do-orcamento-mas-arrisca-responsabilizacao-politica/18151943",
+     "sintese": "Governo pode \"arrastar com os pés\" execução de normas do Orçamento, mas arrisca responsabilização política",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-25",
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/desporto/3089783/fenomenal-nba-aos-pes-de-neemias-queta-apos-show-nos-boston-celtics#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "\"Fenomenal\". NBA aos pés de Neemias Queta após 'show' nos Boston Celtics",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
-    "analisadas": 8,
+    "analisadas": 20,
     "encontradas": 173
    },
    "base": {
     "ultima": "2026-11-25 06:51",
-    "em": "2026-11-25"
+    "em": "2026-11-26"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos 60 dias, a cobertura mediática focou-se principalmente em desenvolvimentos políticos e diplomáticos entre Portugal e a Suécia, com ênfase na cooperação económica e em questões de política externa. Embora nenhuma das notícias seja diretamente relevante para a audiência com o antigo primeiro-ministro sueco, a cobertura inclui discussões sobre ajuda humanitária, exercícios militares conjuntos e posições políticas sobre a União Europeia. A maioria das notícias apresenta um tom neutro ou factual, com algumas referências a eventos desportivos e culturais. Não foram reportadas críticas ou polémicas específicas relacionadas com a cooperação económica ou políticas de coesão territorial."
+   "enquadramento": "A cobertura noticiosa abrange principalmente desenvolvimentos políticos e diplomáticos entre Portugal e a Suécia, com foco em cooperação económica, políticas de coesão territorial e eventos relacionados com a governação. A maioria das notícias destaca acordos bilaterais, iniciativas de ajuda e discussões sobre políticas europeias, embora algumas abordem contextos regionais ou culturais. Não há relatos de críticas ou problemas específicos relacionados com a audiência agendada."
   },
   "2026-11-24-48748-audi-ncia-com-relx-elsevier": {
    "titulo": "Audiência com RELX-Elsevier",
@@ -4135,10 +4231,10 @@
    ],
    "cobertura": {
     "n": 351,
-    "n7": 62,
-    "n7ant": 25,
+    "n7": 59,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "expressoes",
     "ultima": "2026-11-25 13:34",
     "ultimas": [
@@ -6314,10 +6410,10 @@
    ],
    "cobertura": {
     "n": 351,
-    "n7": 62,
-    "n7ant": 25,
+    "n7": 59,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "expressoes",
     "ultima": "2026-11-25 13:34",
     "ultimas": [
@@ -8506,7 +8602,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -8554,10 +8650,10 @@
    ],
    "cobertura": {
     "n": 351,
-    "n7": 62,
-    "n7ant": 25,
+    "n7": 59,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "expressoes",
     "ultima": "2026-11-25 13:34",
     "ultimas": [
@@ -10747,10 +10843,10 @@
    ],
    "cobertura": {
     "n": 173,
-    "n7": 22,
-    "n7ant": 18,
+    "n7": 16,
+    "n7ant": 22,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "expressoes",
     "ultima": "2026-11-25 06:51",
     "ultimas": [
@@ -11847,7 +11943,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11883,7 +11979,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11918,7 +12014,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11953,7 +12049,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -12013,7 +12109,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12048,7 +12144,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -12110,7 +12206,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12150,7 +12246,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12185,7 +12281,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12220,7 +12316,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12260,61 +12356,12 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
    }
-  },
-  {
-   "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
-   "data": "2026-11-25",
-   "hora": "11h00",
-   "interveniente": "",
-   "tipoLabel": "Plenário · Reunião n.º 22 · Plenário",
-   "resumo": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
-   "ordemTrabalhos": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
-   "orgao": "Plenário",
-   "id_ar": 48678,
-   "chave": "ar-48678",
-   "dataLabel": "quarta, 25 nov",
-   "tipo": [
-    "Plenário"
-   ],
-   "uo": [],
-   "pertinencia": "Registo",
-   "criterio": [
-    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
-   ],
-   "periodo": "Manhã",
-   "ligacoes": [],
-   "cobertura": {
-    "n": 1,
-    "n7": 1,
-    "n7ant": 0,
-    "dias": 60,
-    "ref": "2026-11-25",
-    "metodo": "palavras",
-    "ultima": "2026-11-25 14:18",
-    "ultimas": [
-     {
-      "data": "2026-11-25",
-      "fonte": "Observador",
-      "titulo": "14h. PNS. Aguiar Branco é \"um incendiário extremista\"",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2544/"
-     }
-    ],
-    "todas": [
-     [
-      "2026-11-25 14:18",
-      "Observador",
-      "14h. PNS. Aguiar Branco é \"um incendiário extremista\"",
-      "https://observador.pt/programas/noticiario/as-noticias-das-14h-2544/"
-     ]
-    ]
-   },
-   "alterado": "2026-11-24"
   },
   {
    "tema": "Sessão Solene comemorativa do 51º aniversário do 25 de novembro",
@@ -12349,12 +12396,61 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
     "todas": []
    }
+  },
+  {
+   "tema": "Plenário — Sessão Solene Evocativa do 25 de novembro de 1975",
+   "data": "2026-11-25",
+   "hora": "11h00",
+   "interveniente": "",
+   "tipoLabel": "Plenário · Reunião n.º 22 · Plenário",
+   "resumo": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
+   "ordemTrabalhos": "ORDEM DO DIA \n 11:00 \n Sessão Solene Evocativa do 25 de novembro de 1975 \n Tempos: 2m30s para cada DURP e 5m30s para cada Grupo Parlamentar, por ordem crescente de Representação Parlamentar.",
+   "orgao": "Plenário",
+   "id_ar": 48678,
+   "chave": "ar-48678",
+   "dataLabel": "quarta, 25 nov",
+   "tipo": [
+    "Plenário"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [],
+   "cobertura": {
+    "n": 1,
+    "n7": 1,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-26",
+    "metodo": "palavras",
+    "ultima": "2026-11-25 14:18",
+    "ultimas": [
+     {
+      "data": "2026-11-25",
+      "fonte": "Observador",
+      "titulo": "14h. PNS. Aguiar Branco é \"um incendiário extremista\"",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2544/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-25 14:18",
+      "Observador",
+      "14h. PNS. Aguiar Branco é \"um incendiário extremista\"",
+      "https://observador.pt/programas/noticiario/as-noticias-das-14h-2544/"
+     ]
+    ]
+   },
+   "alterado": "2026-11-24"
   },
   {
    "tema": "Audiências do Grupo Parlamentar do CH",
@@ -12384,7 +12480,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12415,10 +12511,10 @@
    "ligacoes": [],
    "cobertura": {
     "n": 142,
-    "n7": 13,
-    "n7ant": 31,
+    "n7": 11,
+    "n7ant": 26,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "2026-11-23 15:49",
     "ultimas": [
@@ -13331,7 +13427,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13371,7 +13467,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13411,7 +13507,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13451,7 +13547,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13486,7 +13582,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13524,7 +13620,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13558,7 +13654,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -13593,7 +13689,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-25",
+    "ref": "2026-11-26",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
