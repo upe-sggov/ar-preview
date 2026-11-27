@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview · 30 de novembro a 6 de dezembro de 2026
 BEGIN:VEVENT
 UID:ar-48747@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T100000Z
 DTEND:20261202T120000Z
 SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
@@ -26,8 +26,27 @@ URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48801@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Regime fiscal para pensionistas emigrantes
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
+  · Reunião n.º 149\nSíntese: Discussão e votação do Projeto de Lei
+  n.º 295/XVII/1.ª (PS) – Estabelece um regime fiscal de apoio ao regr
+ esso de pensionistas emigrantes…\nPágina na AR: https://www.parlamento
+ .pt/sites/com/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (q
+ uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
+ v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
+ ar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
+ x
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48749@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T100000Z
 DTEND:20261202T120000Z
 SUMMARY:AR · Ministra da Cultura\, Juventude e Desporto: Audição da Min
@@ -48,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48789@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T100000Z
 DTEND:20261202T120000Z
 SUMMARY:AR · Ministra da Saúde «sobre a situação dos serviços de urg
@@ -73,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48785@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T110000Z
 DTEND:20261202T130000Z
 SUMMARY:AR · Recuperação pós-cheias e atribuição de apoios
@@ -91,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48780@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T110000Z
 DTEND:20261202T130000Z
 SUMMARY:AR · Audiência com a Direção da Comissão de Concorrência da 
@@ -107,7 +126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48791@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T110000Z
 DTEND:20261202T130000Z
 SUMMARY:AR · Ministro da Educação\, João de Deus Pinheiro: 40 anos da 
@@ -126,7 +145,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48792@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T113000Z
 DTEND:20261202T133000Z
 SUMMARY:AR · Ministra do Trabalho\, Solidariedade e Segurança Social\, P
@@ -146,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48776@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T140000Z
 DTEND:20261202T160000Z
 SUMMARY:AR · Alterações Climáticas e Ambiente
@@ -164,7 +183,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48779@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T140000Z
 DTEND:20261202T160000Z
 SUMMARY:AR · Audição do primeiro peticionário da Petição n.º 213/XV
@@ -181,7 +200,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48745@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261202T150000Z
 DTEND:20261202T170000Z
 SUMMARY:AR · Alterações à designação dos membros dos órgãos de adm
@@ -197,8 +216,59 @@ URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48820@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:AR · Incêndios Rurais
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito aos Negócios dos Incêndi
+ os Rurais · Reunião n.º 53\nSíntese: Discussão e votação das atas 
+ das reuniões n.ºs 30 e 31\, respetivamente de 24 e 25 de junho\nEmissõ
+ es em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: h
+ ttps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda
+  da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48819@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:AR · Classificação digital dos exames nacionais 2025-2026
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito relativa às decisões\, c
+ ontratações e responsabilidades na conceção e execução da classific
+ ação digital dos exames nacionais de 2025 e 2026 · Reunião n.º 3\nS
+ íntese: Após Plenário\; Deliberação sobre a metodologia para a reali
+ zação das audições aprovadas\nEmissões em direto (quando houver): ht
+ tps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pr
+ eview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48802@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:AR · Intervenção de Luís Neves na Polícia Judiciária
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito para avaliação da interv
+ enção de Luís Neves enquanto diretor da Polícia Judiciária durante t
+ odos os seus mandatos (2018-2026) e eventual responsabilidade de membros 
+ do Governo que o nomearam e tutelaram · Reunião n.º 4\nSíntese: Desig
+ nação de relator\, nos termos do artigo 10.º do Regime Jurídico dos I
+ nquéritos Parlamentares\nEmissões em direto (quando houver): https://ca
+ nal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\n
+ Hora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48777@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261203T140000Z
 DTEND:20261203T160000Z
 SUMMARY:AR · Audição de Peticionários (Relator: Deputado Pedro Roque (
@@ -214,8 +284,28 @@ URL:https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.as
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48803@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261203T140000Z
+DTEND:20261203T160000Z
+SUMMARY:AR · Ministro da Educação\, Ciência e Inovação\, Fernando Al
+ exandre: Programa FCT-Tenure e Aliança Ciência
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Educação e Ciência · Reunião n.º 60\nGovern
+ o: Ministro da Educação\, Ciência e Inovação\, Fernando Alexandre ·
+  Secretária de Estado da Ciência e Inovação\, Helena Canhão\nSíntes
+ e: Discussão e votação do Projeto de Voto da Comissão de Educação e
+  Ciência\, alternativo ao Projeto de Voto n.º 796/XVII/2 (PSD) - De…\
+ nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/
+ default.aspx\nEmissões em direto (quando houver): https://canal.parlamen
+ to.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim 
+ indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48732@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261203T150000Z
 DTEND:20261203T170000Z
 SUMMARY:AR · IVA dos alimentos e pensões
@@ -231,7 +321,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ar-48781@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261203T170000Z
 DTEND:20261203T190000Z
 SUMMARY:AR · Ministra da Saúde: Instituto Nacional de Emergência Médic
@@ -248,8 +338,24 @@ URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ar-48821@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261203T170000Z
+DTEND:20261203T190000Z
+SUMMARY:AR · Incêndios Rurais
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito aos Negócios dos Incêndi
+ os Rurais · Reunião n.º 54\nSíntese: Audição\, ao abrigo do artigo 
+ 16.º do Regime Jurídico dos Inquéritos Parlamentares\, do Tenente-Gene
+ ral Piloto-Aviador António Carlos da…\nEmissões em direto (quando hou
+ ver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.
+ io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ar-48730@ar-preview
-DTSTAMP:20261127T023458Z
+DTSTAMP:20261127T181525Z
 DTSTART:20261204T100000Z
 DTEND:20261204T120000Z
 SUMMARY:AR · Equilíbrio de género em cargos dirigentes

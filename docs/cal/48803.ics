@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48803@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261203T140000Z
+DTEND:20261203T160000Z
+SUMMARY:AR · Ministro da Educação\, Ciência e Inovação\, Fernando Al
+ exandre: Programa FCT-Tenure e Aliança Ciência
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Educação e Ciência · Reunião n.º 60\nGovern
+ o: Ministro da Educação\, Ciência e Inovação\, Fernando Alexandre ·
+  Secretária de Estado da Ciência e Inovação\, Helena Canhão\nSíntes
+ e: Discussão e votação do Projeto de Voto da Comissão de Educação e
+  Ciência\, alternativo ao Projeto de Voto n.º 796/XVII/2 (PSD) - De…\
+ nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/
+ default.aspx\nEmissões em direto (quando houver): https://canal.parlamen
+ to.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim 
+ indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48819@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:AR · Classificação digital dos exames nacionais 2025-2026
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito relativa às decisões\, c
+ ontratações e responsabilidades na conceção e execução da classific
+ ação digital dos exames nacionais de 2025 e 2026 · Reunião n.º 3\nS
+ íntese: Após Plenário\; Deliberação sobre a metodologia para a reali
+ zação das audições aprovadas\nEmissões em direto (quando houver): ht
+ tps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pr
+ eview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48821@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261203T170000Z
+DTEND:20261203T190000Z
+SUMMARY:AR · Incêndios Rurais
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito aos Negócios dos Incêndi
+ os Rurais · Reunião n.º 54\nSíntese: Audição\, ao abrigo do artigo 
+ 16.º do Regime Jurídico dos Inquéritos Parlamentares\, do Tenente-Gene
+ ral Piloto-Aviador António Carlos da…\nEmissões em direto (quando hou
+ ver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.
+ io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

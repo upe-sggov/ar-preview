@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48820@ar-preview
+DTSTAMP:20261127T181525Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:AR · Incêndios Rurais
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito aos Negócios dos Incêndi
+ os Rurais · Reunião n.º 53\nSíntese: Discussão e votação das atas 
+ das reuniões n.ºs 30 e 31\, respetivamente de 24 e 25 de junho\nEmissõ
+ es em direto (quando houver): https://canal.parlamento.pt/\nAR Preview: h
+ ttps://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda
+  da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
