@@ -1,5 +1,12 @@
 [
  {
+  "numero": 7,
+  "estado": "Classificação automática",
+  "semana": "30 de novembro a 6 de dezembro de 2026",
+  "inicio": "2026-11-30",
+  "ficheiro": "n07.html"
+ },
+ {
   "numero": 6,
   "estado": "Classificação automática",
   "semana": "23 a 29 de novembro de 2026",

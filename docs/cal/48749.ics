@@ -6,19 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48749@ar-preview
-DTSTAMP:20261126T180230Z
+DTSTAMP:20261127T023457Z
 DTSTART:20261202T100000Z
 DTEND:20261202T120000Z
-SUMMARY:AR · Comissão de Cultura\, Comunicação\, Juventude e Desporto
+SUMMARY:AR · Ministra da Cultura\, Juventude e Desporto: Audição da Min
+ istra da Cultura e Juventude e Desporto
 LOCATION:Assembleia da República
 DESCRIPTION:Comissão de Cultura\, Comunicação\, Juventude e Desporto ·
-  Reunião n.º 58\nGoverno: Ministra da Cultura\, Juventude e Desporto\nS
- íntese: Audição regimental da Senhora Ministra da Cultura\, Juventude 
- e Desporto ao abrigo do n.º 5 do artigo 104.º do Regimento da Assemblei
- a da…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/12CCC
- JD/Paginas/default.aspx\nEmissões em direto (quando houver): https://can
- al.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nH
- ora de fim indicativa\; a agenda da AR pode mudar.
+  Reunião n.º 58\nGoverno: Ministra da Cultura\, Juventude e Desporto ·
+  Ministra da Cultura e Juventude e Desporto\nSíntese: Audição regiment
+ al da Senhora Ministra da Cultura\, Juventude e Desporto ao abrigo do n.
+ º 5 do artigo 104.º do Regimento da Assembleia da…\nPágina na AR: ht
+ tps://www.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.aspx\nE
+ missões em direto (quando houver): https://canal.parlamento.pt/\nAR Prev
+ iew: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a 
+ agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.as
  px
 TRANSP:TRANSPARENT

@@ -6,18 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48730@ar-preview
-DTSTAMP:20261126T180230Z
+DTSTAMP:20261127T023457Z
 DTSTART:20261204T100000Z
 DTEND:20261204T120000Z
-SUMMARY:AR · Plenário — Proposta de Lei n.º 87/XVII/1.ª (GOV) Transp
- õe a Diretiva (UE) 2022/2381\, relativa à melhoria do equilíbrio d
+SUMMARY:AR · Equilíbrio de género em cargos dirigentes
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 25 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: GOV* **\; * Os autores das iniciativas
-  dispõem de mais 1 minuto cada [artigo 145.º\, n.º 2\, alínea d)]\nEm
- issões em direto (quando houver): https://canal.parlamento.pt/\nAR Previ
- ew: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a a
- genda da AR pode mudar.
+ intervenção prevista)\nSíntese: Proposta de Lei n.º 87/XVII/1.ª (GOV
+ )\; Transpõe a Diretiva (UE) 2022/2381\, relativa à melhoria do equilí
+ brio de género nos cargos…\nEmissões em direto (quando houver): https
+ ://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previ
+ ew/\nHora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

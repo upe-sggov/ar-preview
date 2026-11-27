@@ -6,17 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:AR Preview
 BEGIN:VEVENT
 UID:ar-48745@ar-preview
-DTSTAMP:20261126T180230Z
+DTSTAMP:20261127T023457Z
 DTSTART:20261202T150000Z
 DTEND:20261202T170000Z
-SUMMARY:AR · Plenário — Fixação da Ordem do Dia\, requerida pela IL
+SUMMARY:AR · Alterações à designação dos membros dos órgãos de adm
+ inistração do SNS
 LOCATION:Assembleia da República · Sala das Sessões
 DESCRIPTION:Plenário · Reunião n.º 23 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Projeto de Lei n.º 823/XVII/2.ª (IL)
- \; Novas regras de designação dos membros dos órgãos de administraç
- ão dos estabelecimentos de saúde do…\nEmissões em direto (quando hou
- ver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.
- io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ intervenção prevista)\nSíntese: Fixação da Ordem do Dia\, requerida 
+ pela IL\; Projeto de Lei n.º 823/XVII/2.ª (IL)\nEmissões em direto (qu
+ ando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov
+ .github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode muda
+ r.
 URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT

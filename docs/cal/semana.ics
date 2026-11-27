@@ -3,71 +3,193 @@ VERSION:2.0
 PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:AR Preview · 23 a 29 de novembro de 2026
+X-WR-CALNAME:AR Preview · 30 de novembro a 6 de dezembro de 2026
 BEGIN:VEVENT
-UID:ar-48676@ar-preview
-DTSTAMP:20261126T180230Z
-DTSTART:20261123T090000Z
-DTEND:20261123T110000Z
-SUMMARY:AR · Plenário — Discussão de normas avocadas
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Plenário · Reunião n.º 20 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Votações\; Continuação do debate n
- a especialidade do Orçamento do Estado para 2027\nEmissões em direto (q
- uando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggo
- v.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mud
- ar.
-URL:https://canal.parlamento.pt/
+UID:ar-48747@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Comissão de Assuntos Constitucionais\, Direitos\, Liberdade
+ s e Garantias
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Assuntos Constitucionais\, Direitos\, Liberdades 
+ e Garantias · Reunião n.º 111\nGoverno: Ministro da Defesa · Ministro
+  da Administração Interna e ao Diretor Nacional da Polícia de Seguran
+ ça Pública e mais 1 membro do Governo\nSíntese: Distribuição de inic
+ iativas legislativas: nomeação de relatores e deliberação sobre consu
+ ltas a promover\nPágina na AR: https://www.parlamento.pt/sites/com/XVIIL
+ eg/1CACDLG/Paginas/default.aspx\nEmissões em direto (quando houver): htt
+ ps://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-pre
+ view/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG/Paginas/default.as
+ px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48689@ar-preview
-DTSTAMP:20261126T180230Z
-DTSTART:20261123T133000Z
-DTEND:20261123T153000Z
-SUMMARY:AR · Comissão de Orçamento\, Finanças e Administração Públi
- ca
-LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Comissão de Orçamento\, Finanças e Administração Pública
-  · Reunião n.º 148 · Plenário\nSíntese: Conclusão da votação\, n
- a especialidade\, da Proposta de Lei n.º 110/XVII/2.ª (GOV) – Orçame
- nto do Estado para 2027\nPágina na AR: https://www.parlamento.pt/sites/c
- om/XVIILeg/5COFAP/Paginas/default.aspx\nEmissões em direto (quando houve
- r): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io
- /ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/5COFAP/Paginas/default.asp
- x
+UID:ar-48749@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Ministra da Cultura\, Juventude e Desporto: Audição da Min
+ istra da Cultura e Juventude e Desporto
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Cultura\, Comunicação\, Juventude e Desporto ·
+  Reunião n.º 58\nGoverno: Ministra da Cultura\, Juventude e Desporto ·
+  Ministra da Cultura e Juventude e Desporto\nSíntese: Audição regiment
+ al da Senhora Ministra da Cultura\, Juventude e Desporto ao abrigo do n.
+ º 5 do artigo 104.º do Regimento da Assembleia da…\nPágina na AR: ht
+ tps://www.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.aspx\nE
+ missões em direto (quando houver): https://canal.parlamento.pt/\nAR Prev
+ iew: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a 
+ agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/12CCCJD/Paginas/default.as
+ px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48748@ar-preview
-DTSTAMP:20261126T180230Z
-DTSTART:20261124T110000Z
-DTEND:20261124T130000Z
-SUMMARY:AR · Audiência com RELX-Elsevier
-LOCATION:Assembleia da República · Sala 3
+UID:ar-48789@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T100000Z
+DTEND:20261202T120000Z
+SUMMARY:AR · Ministra da Saúde «sobre a situação dos serviços de urg
+ ência na Unidade Local de Saúde do Algarve\, em particular das mortes o
+ corridas no Hospital de Portimão»: Procriação Medicamente Assistida e
+  Nutrição Infantil
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Saúde · Reunião n.º 68\nGoverno: Ministra da 
+ Saúde «sobre a situação dos serviços de urgência na Unidade Local d
+ e Saúde do Algarve\, em particular das mortes ocorridas no Hospital de P
+ ortimão» · Ministra da Saúde e do Presidente do Conselho de Administr
+ ação da Unidade Local de Saúde do Algarve\, «sobre o funcionamento do
+  Serviço de Urgência do Hospital de Portimão»\nSíntese: Audição do
+  Conselho Nacional de Procriação Medicamente Assistida no âmbito da ap
+ reciação do Projeto de Lei n.º 623/XVII/1.ª (PSD) - «Aprova…\nPág
+ ina na AR: https://www.parlamento.pt/sites/com/XVIILeg/9CS/Paginas/defaul
+ t.aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/
+ \nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indica
+ tiva\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/9CS/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48785@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T110000Z
+DTEND:20261202T130000Z
+SUMMARY:AR · Recuperação pós-cheias e atribuição de apoios
+LOCATION:Assembleia da República
 DESCRIPTION:Comissão da Reforma do Estado e Poder Local · Reunião n.º 
- 4 · Sala 3\nSíntese: Audiência com RELX-Elsevier no âmbito da impleme
- ntação de sistemas de inteligência artificial seguros\, transparentes 
- e responsáveis\, para…\nPágina na AR: https://www.parlamento.pt/sites
- /com/XVIILeg/13CREPL/Paginas/default.aspx\nEmissões em direto (quando ho
- uver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github
- .io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+ 64\nSíntese: Parte I – 11h00\; Audição da Presidente da Comunidade I
+ ntermunicipal do Alentejo Litoral\, Clarisse Campos\, a requerimento do P
+ S e a…\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/13CR
+ EPL/Paginas/default.aspx\nEmissões em direto (quando houver): https://ca
+ nal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\n
+ Hora de fim indicativa\; a agenda da AR pode mudar.
 URL:https://www.parlamento.pt/sites/com/XVIILeg/13CREPL/Paginas/default.as
  px
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48677@ar-preview
-DTSTAMP:20261126T180230Z
-DTSTART:20261124T143000Z
-DTEND:20261124T163000Z
-SUMMARY:AR · Plenário — Discussão de artigos remetidos a Plenário e 
- normas avocadas
+UID:ar-48780@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T110000Z
+DTEND:20261202T130000Z
+SUMMARY:AR · Audiência com a Direção da Comissão de Concorrência da 
+ ICC Portugal
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 5
+ 6\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Pagin
+ as/default.aspx\nEmissões em direto (quando houver): https://canal.parla
+ mento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de f
+ im indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48791@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T110000Z
+DTEND:20261202T130000Z
+SUMMARY:AR · Ministro da Educação\, João de Deus Pinheiro: 40 anos da 
+ Lei de Bases do Sistema Educativo
+LOCATION:Assembleia da República · Sala Senado
+DESCRIPTION:Comissão de Educação e Ciência · Reunião n.º 10 · Sala
+  Senado\nGoverno: Ministro da Educação\, João de Deus Pinheiro · Secr
+ etário de Estado Adjunto e da Educação\, Alexandre Homem Cristo\nSínt
+ ese: PROGRAMA\; A Escola vem ao Parlamento\nPágina na AR: https://www.pa
+ rlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx\nEmissões em dir
+ eto (quando houver): https://canal.parlamento.pt/\nAR Preview: https://up
+ e-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR po
+ de mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/8CEC/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48792@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T113000Z
+DTEND:20261202T133000Z
+SUMMARY:AR · Ministra do Trabalho\, Solidariedade e Segurança Social\, P
+ rof: Proteção Social e Trabalho em Condições Extremas
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Trabalho\, Segurança Social e Inclusão · Reuni
+ ão n.º 78\nGoverno: Ministra do Trabalho\, Solidariedade e Segurança S
+ ocial\, Prof\nSíntese: Apreciação e votação das atas das reuniões n
+ .ºs 73\, 74\, 75\, 76 e 77\, respetivamente\, de 20\, 21 e 26 de outubro
+  e de 5 e 6 de novembro de…\nPágina na AR: https://www.parlamento.pt/s
+ ites/com/XVIILeg/10CTSSI/Paginas/default.aspx\nEmissões em direto (quand
+ o houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov.gi
+ thub.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/10CTSSI/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48776@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:AR · Alterações Climáticas e Ambiente
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Ambiente e Energia · Reunião n.º 63\nSíntese:
+  Discussão e votação dos relatórios referentes às seguintes iniciati
+ vas legislativas\; Projeto de Lei n.º 151/XVII/1.ª (PAN) - Atribui aos
+ …\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/P
+ aginas/default.aspx\nEmissões em direto (quando houver): https://canal.p
+ arlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora 
+ de fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48779@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:AR · Audição do primeiro peticionário da Petição n.º 213/XV
+ II/1.ª – Pela Revisão dos Critérios de Elegibilidade…
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 2
+ 4\nSíntese: Daniel Pereira Ferreira Gonçalves– primeiro peticionário
+ \nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Pagina
+ s/default.aspx\nEmissões em direto (quando houver): https://canal.parlam
+ ento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fi
+ m indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48745@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261202T150000Z
+DTEND:20261202T170000Z
+SUMMARY:AR · Alterações à designação dos membros dos órgãos de adm
+ inistração do SNS
 LOCATION:Assembleia da República · Sala das Sessões
-DESCRIPTION:Plenário · Reunião n.º 21 · Plenário\nGoverno: Governo (
- intervenção prevista)\nSíntese: Votações\; Encerramento do debate na
-  especialidade do Orçamento do Estado para 2027\nEmissões em direto (qu
+DESCRIPTION:Plenário · Reunião n.º 23 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Fixação da Ordem do Dia\, requerida 
+ pela IL\; Projeto de Lei n.º 823/XVII/2.ª (IL)\nEmissões em direto (qu
  ando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov
  .github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode muda
  r.
@@ -75,19 +197,70 @@ URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ar-48744@ar-preview
-DTSTAMP:20261126T180230Z
-DTSTART:20261126T150000Z
-DTEND:20261126T170000Z
-SUMMARY:AR · Audiência com Stefan Löfven\, Presidente do PES e anterior
-  primeiro-ministro da Suécia entre 2014 e 2021…
-LOCATION:Assembleia da República · Sala 7
-DESCRIPTION:Comissão de Economia e Coesão Territorial · Reunião n.º 1
- 3 · Sala 7\nPágina na AR: https://www.parlamento.pt/sites/com/XVIILeg/6
- CECT/Paginas/default.aspx\nEmissões em direto (quando houver): https://c
- anal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\
- nHora de fim indicativa\; a agenda da AR pode mudar.
-URL:https://www.parlamento.pt/sites/com/XVIILeg/6CECT/Paginas/default.aspx
+UID:ar-48777@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261203T140000Z
+DTEND:20261203T160000Z
+SUMMARY:AR · Audição de Peticionários (Relator: Deputado Pedro Roque (
+ GP PSD)): Petição n.º 200/XVI/1 - Querem Tirar-nos a…
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão de Ambiente e Energia · Reunião n.º 4\nPágina na
+  AR: https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.
+ aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/\n
+ AR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indicati
+ va\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/com/XVIILeg/11CAEne/Paginas/default.as
+ px
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48732@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261203T150000Z
+DTEND:20261203T170000Z
+SUMMARY:AR · IVA dos alimentos e pensões
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 24 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Debate de Urgência a pedido do GP do 
+ CH\, incidindo sobre o tema\, “O incumprimento gravíssimo do governo\,
+  anunciado pelo Sr.…\nEmissões em direto (quando houver): https://cana
+ l.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHo
+ ra de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48781@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261203T170000Z
+DTEND:20261203T190000Z
+SUMMARY:AR · Ministra da Saúde: Instituto Nacional de Emergência Médic
+ a\, I.P.
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Parlamentar de Inquérito ao Instituto Nacional de E
+ mergência Médica\, I.P. · Reunião n.º 43\nGoverno: Ministra da Saúd
+ e\nSíntese: Discussão e votação do requerimento apresentado pelos Dep
+ utados do grupo parlamentar do PS para audição\nEmissões em direto (qu
+ ando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-sggov
+ .github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode muda
+ r.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ar-48730@ar-preview
+DTSTAMP:20261127T023458Z
+DTSTART:20261204T100000Z
+DTEND:20261204T120000Z
+SUMMARY:AR · Equilíbrio de género em cargos dirigentes
+LOCATION:Assembleia da República · Sala das Sessões
+DESCRIPTION:Plenário · Reunião n.º 25 · Plenário\nGoverno: Governo (
+ intervenção prevista)\nSíntese: Proposta de Lei n.º 87/XVII/1.ª (GOV
+ )\; Transpõe a Diretiva (UE) 2022/2381\, relativa à melhoria do equilí
+ brio de género nos cargos…\nEmissões em direto (quando houver): https
+ ://canal.parlamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-previ
+ ew/\nHora de fim indicativa\; a agenda da AR pode mudar.
+URL:https://canal.parlamento.pt/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48793@ar-preview
+DTSTAMP:20261127T023457Z
+DTSTART:20261203T133000Z
+DTEND:20261203T153000Z
+SUMMARY:AR · Comissão Eventual para a Resiliência Nacional\, Prevençã
+ o de Catástrofes Naturais e Acompanhamento do Portugal Transformação\,
+  Recuperação e Resiliência (PTRR)
+LOCATION:Assembleia da República
+DESCRIPTION:Comissão Eventual para a Resiliência Nacional\, Prevenção 
+ de Catástrofes Naturais e Acompanhamento do Portugal Transformação\, R
+ ecuperação e Resiliência (PTRR) · Reunião n.º 18\nSíntese: I Parte
+  - 13h30\; Apreciação e votação das atas n.os 7\, 11\, 16 e 17\nEmiss
+ ões em direto (quando houver): https://canal.parlamento.pt/\nAR Preview:
+  https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\; a agen
+ da da AR pode mudar.
+URL:https://canal.parlamento.pt/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
