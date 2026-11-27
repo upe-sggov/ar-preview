@@ -831,10 +831,16 @@
     "novos": 13,
     "alterados": 5,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-27",
+    "novos": 0,
+    "alterados": 2,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-27T17:24+00:00",
-  "atualizadoLabel": "27 de novembro, 17h24",
+  "atualizado": "2026-11-27T18:16+00:00",
+  "atualizadoLabel": "27 de novembro, 18h16",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "27 de novembro"
@@ -2107,7 +2113,7 @@
      "data": "2026-10-07",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/07/politica/noticia/comissoes-inquerito-exames-nacionais-luis-neves-instaladas-dias-14-2190542",
-     "sintese": "A CPI a Luís Neves foi instalada e o seu presidente, André Ventura, denunciou bloqueios ao processo de constituição.",
+     "sintese": "O Chega, liderado por André Ventura, assume a liderança da CPI a Luís Neves e denuncia bloqueios ao processo de constituição da comissão.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2115,7 +2121,7 @@
      "data": "2026-10-14",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/ventura-assume-lideranca-da-cpi-a-luis-neves-e-denuncia-bloqueios_v1771728",
-     "sintese": "Ventura assume a liderança da CPI a Luís Neves e admite condicionamentos ao longo do processo.",
+     "sintese": "Ventura preside à CPI a Luís Neves e deverá responder a questões dos deputados, admitindo ter sentido condicionamentos ao longo do processo.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2123,7 +2129,7 @@
      "data": "2026-10-23",
      "fonte": "Observador",
      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1795/",
-     "sintese": "O Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves, incluindo a ministra da Justiça.",
+     "sintese": "O Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves, incluindo a ministra da Justiça Rita Alarcão Júdice.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2131,7 +2137,7 @@
      "data": "2026-10-27",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/10/27/cpi-a-luis-neves-aprova-audicao-de-montenegro-costa-e-ventura-mas-rejeita-a-de-marcelo/",
-     "sintese": "A CPI a Luís Neves aprovou a audição de Luís Montenegro, António Costa e André Ventura, mas rejeitou a de Marcelo Rebelo de Sousa.",
+     "sintese": "A CPI a Luís Neves aprova a audição de Luís Montenegro, António Costa e André Ventura, mas rejeita a de Marcelo Rebelo de Sousa.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2139,13 +2145,37 @@
      "data": "2026-11-24",
      "fonte": "SAPO Tek",
      "url": "https://tek.sapo.pt/noticias/artigos/construcao-do-space-hub-em-santa-maria-avanca-em-2027-futura-base-espacial-da-forca-aerea-levanta-duvidas-e-criticas/",
-     "sintese": "A CPI a Luís Neves discute a possibilidade de audições adicionais, incluindo um alto oficial militar.",
+     "sintese": "A CPI a Luís Neves suspende os trabalhos até 26 de novembro.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-25",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/mundo/europa/2026-11-25-forca-aerea-real-britanica-reforca-protecao-de-aeronaves-face-a-possiveis-ameacas-russas-a1b8b0c7",
+     "sintese": "A construção do Space Hub em Santa Maria avança em 2027, levantando dúvidas e críticas.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-26",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/opo-de-aeroporto-de-santarm-em-risco-devido-a-plataforma-logstica",
+     "sintese": "A Força Aérea Real britânica transfere aeronaves para hangares devido a possíveis ameaças de drones russos.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-27",
+     "fonte": "Renascença",
+     "url": "https://rr.pt/noticia/mundo/2026/11/27/nuvem-da-forca-aerea-dos-eua-alvo-de-ataque-informatico/495366/",
+     "sintese": "A opção de aeroporto de Santarém está em risco devido a uma plataforma logística.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
-    "analisadas": 5,
+    "analisadas": 8,
     "encontradas": 319
    },
    "base": {
@@ -2153,7 +2183,7 @@
     "em": "2026-11-27"
    },
    "novas": 0,
-   "enquadramento": "A comissão parlamentar discute as atas das audições anteriores e agenda uma nova audição com um alto oficial militar. A CPI a Luís Neves, liderada por André Ventura, tem estado ativa, com pedidos de audição de figuras políticas e a aprovação de algumas audições."
+   "enquadramento": "A comissão parlamentar discute as atas das audições anteriores e agenda uma nova audição com um alto oficial militar. A CPI a Luís Neves, liderada por André Ventura, está a investigar os mandatos de Luís Neves à frente da Polícia Judiciária."
   },
   "2026-12-02-48819-classifica-o-digital-dos-exames-nacionais-2": {
    "titulo": "Classificação digital dos exames nacionais 2025-2026",
@@ -2499,23 +2529,23 @@
      "data": "2026-10-07",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/10/07/politica/noticia/comissoes-inquerito-exames-nacionais-luis-neves-instaladas-dias-14-2190542",
-     "sintese": "A CPI aos mandatos de Luís Neves à frente da PJ foi instalada no dia 14, com o presidente do Chega, André Ventura, a assumir a liderança e a denunciar bloqueios ao longo do processo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "A CPI aos exames e a Luís Neves instalada no dia 14, Ventura quer audições rapidamente. O líder do Chega, André Ventura, assume a presidência da comissão e denuncia bloqueios no processo de constituição.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-14",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/ventura-assume-lideranca-da-cpi-a-luis-neves-e-denuncia-bloqueios_v1771728",
      "sintese": "Ventura assume liderança da CPI a Luís Neves e denuncia bloqueios — André Ventura preside a Comissão Parlamentar de Inquérito a Luís Neves e deverá ser um dos deputados a responder às questões. O presidente do Chega admite ter sentido condicionamentos ao longo todo o processo de constituição da CPI.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-23",
      "fonte": "Observador",
      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1795/",
-     "sintese": "Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves — O partido Chega propõe ouvir mais de 50 pessoas na comissão parlamentar de inquérito aos mandatos de Luís Neves à frente da PJ.",
+     "sintese": "Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves — Além de António Costa, o Chega quer ouvir a atual ministra da Justiça, Rita Alarcão Júdice, entre outros.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2523,7 +2553,7 @@
      "data": "2026-10-27",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/10/27/cpi-a-luis-neves-aprova-audicao-de-montenegro-costa-e-ventura-mas-rejeita-a-de-marcelo/",
-     "sintese": "CPI a Luís Neves aprova audição de Montenegro, Costa e Ventura, mas rejeita a de Marcelo — A comissão parlamentar de inquérito aos mandatos de Luís Neves à frente da PJ aprovou a audição de Luís Montenegro e António Costa, bem como do líder do Chega, André Ventura. Já o pedido para ouvir Marcelo Rebelo de Sousa foi rejeitado. Os trabalhos ficam suspensos até 26 de nov.",
+     "sintese": "CPI a Luís Neves aprova audição de Montenegro, Costa e Ventura, mas rejeita a de Marcelo — A comissão parlamentar de inquérito aos mandatos de Luís Neves à frente da Polícia Judiciária (PJ) aprovou a audição de Luís Montenegro e António Costa, bem como do líder do Chega, André Ventura. Já o pedido para ouvir Marcelo Rebelo de Sousa foi rejeitado. Os trabalhos ficam suspensos até 26 de nov.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
@@ -2537,7 +2567,7 @@
     "em": "2026-11-27"
    },
    "novas": 0,
-   "enquadramento": "A comissão parlamentar de inquérito a Luís Neves à frente da Polícia Judiciária (PJ) está a ouvir figuras políticas como Luís Montenegro, António Costa e André Ventura, enquanto a audição de Marcelo Rebelo de Sousa foi rejeitada. O processo de constituição da CPI foi marcado por bloqueios, conforme denunciado pelo presidente do Chega."
+   "enquadramento": "A Comissão Parlamentar de Inquérito a Luís Neves, liderada por André Ventura, está a investigar a gestão de recursos e operações durante os incêndios rurais, com o objetivo de apurar responsabilidades e falhas na resposta a estes eventos. A comissão aprovou a audição de figuras relevantes, como Luís Montenegro, António Costa e André Ventura, para obter esclarecimentos sobre a atuação governamental."
   }
  },
  "destaques": [
@@ -12236,7 +12266,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão Parlamentar de Inquérito aos Negócios dos Incêndios Rurais · Reunião n.º 53",
    "resumo": "A comissão parlamentar discute as atas das audições anteriores e agenda uma nova audição com um alto oficial militar.",
-   "ordemTrabalhos": "I Parte \n 17h00 \n 1. Discussão e votação das atas das reuniões n.ºs 30 e 31, respetivamente de 24 e 25 de junho.\n 2. Outros assuntos.   \n II Parte \n 17h10 \n Audição, ao abrigo do artigo 16.º do Regime Jurídico dos Inquéritos Parlamentares, do Tenente-General Fernando Lourenço da Costa, na qualidade de Comandante da Logística da Força Aérea (a confirmar)",
+   "ordemTrabalhos": "I Parte \n 17h00 \n 1. Discussão e votação das atas das reuniões n.ºs 30 e 31, respetivamente de 24 e 25 de junho.\n 2. Outros assuntos.   \n II Parte \n 17h10 \n Audição, ao abrigo do artigo 16.º do Regime Jurídico dos Inquéritos Parlamentares, do Tenente-General Fernando Lourenço da Costa, na qualidade de Comandante da Logística da Força Aérea.",
    "orgao": "Comissão Parlamentar de Inquérito aos Negócios dos Incêndios Rurais",
    "id_ar": 48820,
    "chave": "ar-48820",
@@ -14219,7 +14249,8 @@
      ]
     ]
    },
-   "varrimento": "2026-12-02-48820-inc-ndios-rurais"
+   "varrimento": "2026-12-02-48820-inc-ndios-rurais",
+   "alterado": "2026-11-27"
   },
   {
    "tema": "Classificação digital dos exames nacionais 2025-2026",
@@ -16896,7 +16927,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão Parlamentar de Inquérito aos Negócios dos Incêndios Rurais · Reunião n.º 54",
    "resumo": "Audição do antigo comandante da Logística da Força Aérea sobre a gestão de recursos e operações durante os incêndios rurais. A comissão pretende apurar responsabilidades e falhas na resposta a estes eventos.",
-   "ordemTrabalhos": "Audição, ao abrigo do artigo 16.º do Regime Jurídico dos Inquéritos Parlamentares, do Tenente-General Piloto-Aviador António Carlos da Costa Nascimento, na qualidade de Anterior Comandante da Logística da Força Aérea. (a confirmar)",
+   "ordemTrabalhos": "Audição, ao abrigo do artigo 16.º do Regime Jurídico dos Inquéritos Parlamentares, do Tenente-General Piloto-Aviador António Carlos da Costa Nascimento, na qualidade de Anterior Comandante da Logística da Força Aérea.",
    "orgao": "Comissão Parlamentar de Inquérito aos Negócios dos Incêndios Rurais",
    "id_ar": 48821,
    "chave": "ar-48821",
@@ -18912,7 +18943,8 @@
      ]
     ]
    },
-   "varrimento": "2026-12-03-48821-inc-ndios-rurais"
+   "varrimento": "2026-12-03-48821-inc-ndios-rurais",
+   "alterado": "2026-11-27"
   },
   {
    "tema": "Grupo de Trabalho - Audição de Peticionários e Audiências",
