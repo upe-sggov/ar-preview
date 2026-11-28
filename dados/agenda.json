@@ -47,7 +47,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -81,7 +81,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -115,7 +115,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -154,7 +154,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -188,7 +188,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -222,7 +222,7 @@
     "n7": 2,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-26 18:58",
     "ultimas": [
@@ -330,7 +330,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -364,7 +364,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -398,7 +398,7 @@
     "n7": 17,
     "n7ant": 3,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-26 18:39",
     "ultimas": [
@@ -610,7 +610,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -648,7 +648,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -685,7 +685,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -723,7 +723,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -837,10 +837,16 @@
     "novos": 0,
     "alterados": 2,
     "retirados": 0
+   },
+   {
+    "data": "2026-11-28",
+    "novos": 8,
+    "alterados": 1,
+    "retirados": 0
    }
   ],
-  "atualizado": "2026-11-27T18:16+00:00",
-  "atualizadoLabel": "27 de novembro, 18h16",
+  "atualizado": "2026-11-28T01:17+00:00",
+  "atualizadoLabel": "28 de novembro, 01h17",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "27 de novembro"
@@ -1019,7 +1025,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 366
+    "encontradas": 365
    },
    "base": {
     "ultima": "2026-11-27 11:30",
@@ -1243,7 +1249,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 151
+    "encontradas": 150
    },
    "base": {
     "ultima": "2026-11-26 11:17",
@@ -1446,7 +1452,7 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1162
+    "encontradas": 1155
    },
    "base": {
     "ultima": "2026-11-27 16:20",
@@ -2176,7 +2182,7 @@
    ],
    "amostra": {
     "analisadas": 8,
-    "encontradas": 319
+    "encontradas": 313
    },
    "base": {
     "ultima": "2026-11-27 11:44",
@@ -2342,7 +2348,7 @@
    ],
    "amostra": {
     "analisadas": 18,
-    "encontradas": 100
+    "encontradas": 98
    },
    "base": {
     "ultima": "2026-11-26 01:36",
@@ -2420,7 +2426,7 @@
    ],
    "amostra": {
     "analisadas": 7,
-    "encontradas": 143
+    "encontradas": 142
    },
    "base": {
     "ultima": "2026-11-27 09:50",
@@ -2560,14 +2566,14 @@
    ],
    "amostra": {
     "analisadas": 4,
-    "encontradas": 324
+    "encontradas": 318
    },
    "base": {
     "ultima": "2026-11-27 11:44",
-    "em": "2026-11-27"
+    "em": "2026-11-28"
    },
    "novas": 0,
-   "enquadramento": "A Comissão Parlamentar de Inquérito a Luís Neves, liderada por André Ventura, está a investigar a gestão de recursos e operações durante os incêndios rurais, com o objetivo de apurar responsabilidades e falhas na resposta a estes eventos. A comissão aprovou a audição de figuras relevantes, como Luís Montenegro, António Costa e André Ventura, para obter esclarecimentos sobre a atuação governamental."
+   "enquadramento": "A Comissão Parlamentar de Inquérito a Luís Neves, liderada por André Ventura, está a investigar a gestão de recursos e operações durante os incêndios rurais, com o objetivo de apurar responsabilidades e falhas na resposta a estes eventos. A audição do antigo comandante da Logística da Força Aérea, agendada para 3 de dezembro, é um dos momentos centrais desta investigação."
   }
  },
  "destaques": [
@@ -2610,11 +2616,11 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 366,
-    "n7": 64,
-    "n7ant": 36,
+    "n": 365,
+    "n7": 59,
+    "n7ant": 38,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-27 11:30",
     "ultimas": [
@@ -4827,12 +4833,6 @@
       "Observador",
       "4h. OE 2027. Negociações continuam com críticas da oposição",
       "https://observador.pt/programas/noticiario/as-noticias-das-4h-2415/"
-     ],
-     [
-      "2026-09-28 15:48",
-      "SIC Notícias",
-      "OE 2027: Livre diz que \"dificilmente acompanhará\" proposta do Governo",
-      "https://sicnoticias.pt/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/especiais/orcamento-do-estado/2026-09-28-oe-2027-livre-diz-que-dificilmente-acompanhara-proposta-do-governo-464d52c4"
      ]
     ]
    },
@@ -4896,7 +4896,7 @@
     "n7": 10,
     "n7ant": 3,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-27 16:16",
     "ultimas": [
@@ -5196,7 +5196,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -5252,7 +5252,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -5306,11 +5306,11 @@
    ],
    "varrimento": "2026-12-02-48776-comiss-o-de-ambiente-e-energia",
    "cobertura": {
-    "n": 151,
-    "n7": 10,
-    "n7ant": 24,
+    "n": 150,
+    "n7": 7,
+    "n7ant": 25,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-27 11:20",
     "ultimas": [
@@ -6233,12 +6233,6 @@
       "Ambiente Magazine",
       "“Para se adaptar às alterações climáticas, o setor agrícola também vai mudar aquilo que produz e onde produz”",
       "https://www.ambientemagazine.com/para-se-adaptar-as-alteracoes-climaticas-o-setor-agricola-tambem-vai-mudar-aquilo-que-produz-e-onde-produz/"
-     ],
-     [
-      "2026-09-28 12:06",
-      "JM Madeira",
-      "ARM garante água para regadio mas alerta para os desafios das alterações climáticas",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30005950/arm-garante-agua-para-regadio-mas-alerta-para-os-desafios-das-alteracoes-climaticas.html"
      ]
     ]
    },
@@ -6300,7 +6294,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -6354,11 +6348,11 @@
    ],
    "varrimento": "2026-12-03-48777-audi-o-de-peticion-rios-relator-deputado-pe",
    "cobertura": {
-    "n": 1162,
-    "n7": 164,
-    "n7ant": 116,
+    "n": 1155,
+    "n7": 144,
+    "n7ant": 132,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-27 16:20",
     "ultimas": [
@@ -8829,7 +8823,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -8863,6 +8857,387 @@
    }
   },
   {
+   "tema": "Encontro com o Presidente da Assembleia Nacional de Angola",
+   "data": "2026-11-30",
+   "hora": "10h30",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Assembleia Nacional, Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa num encontro com o Presidente da Assembleia Nacional de Angola, Adão de Almeida.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa num encontro com o Presidente da Assembleia Nacional de Angola, Adão de Almeida.",
+   "orgao": "Encontro com o Presidente da Assembleia Nacional de Angola",
+   "id_ar": 48806,
+   "chave": "ar-48806",
+   "dataLabel": "segunda, 30 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 8,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "2026-10-20 00:16",
+    "ultimas": [
+     {
+      "data": "2026-10-20",
+      "fonte": "Jornal Económico",
+      "titulo": "Presidente italiano condena violência nos distúrbios e manifesta total solidariedade com polícias",
+      "url": "https://jornaleconomico.sapo.pt/noticias/presidente-italiano-condena-violencia-nos-disturbios-e-manifesta-total-solidariedade-com-policias/"
+     },
+     {
+      "data": "2026-10-15",
+      "fonte": "RTP Notícias",
+      "titulo": "Presidente fez fotografia real do estado da nação angolana diz MPLA",
+      "url": "https://www.rtp.pt/noticias/mundo/presidente-fez-fotografia-real-do-estado-da-nacao-angolana-diz-mpla_n1771936"
+     },
+     {
+      "data": "2026-10-15",
+      "fonte": "Observador",
+      "titulo": "Oposição e Governo em novas negociações na Venezuela",
+      "url": "https://observador.pt/2026/10/15/arranca-novo-ciclo-de-negociacoes-entre-governo-e-oposicao-na-venezuela/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-10-20 00:16",
+      "Jornal Económico",
+      "Presidente italiano condena violência nos distúrbios e manifesta total solidariedade com polícias",
+      "https://jornaleconomico.sapo.pt/noticias/presidente-italiano-condena-violencia-nos-disturbios-e-manifesta-total-solidariedade-com-policias/"
+     ],
+     [
+      "2026-10-15 22:12",
+      "RTP Notícias",
+      "Presidente fez fotografia real do estado da nação angolana diz MPLA",
+      "https://www.rtp.pt/noticias/mundo/presidente-fez-fotografia-real-do-estado-da-nacao-angolana-diz-mpla_n1771936"
+     ],
+     [
+      "2026-10-15 11:40",
+      "Observador",
+      "Oposição e Governo em novas negociações na Venezuela",
+      "https://observador.pt/2026/10/15/arranca-novo-ciclo-de-negociacoes-entre-governo-e-oposicao-na-venezuela/"
+     ],
+     [
+      "2026-10-14 19:54",
+      "RTP Notícias",
+      "Washington levanta sanções ao presidente do parlamento venezuelano",
+      "https://www.rtp.pt/noticias/mundo/washington-levanta-sancoes-ao-presidente-do-parlamento-venezuelano_n1771679"
+     ],
+     [
+      "2026-10-06 23:03",
+      "RTP Notícias",
+      "Guiné-Bissau. Não há condições para eleições a 06 de dezembro diz Simões Pereira",
+      "https://www.rtp.pt/noticias/lusa/guine-bissau-nao-ha-condicoes-para-eleicoes-a-06-de-dezembro-diz-simoes-pereira_n1769973"
+     ],
+     [
+      "2026-10-06 21:12",
+      "Expresso",
+      "Presidente da Assembleia Nacional Popular da Guiné-Bissau considera que \"não há condições\" para eleições em dezembro",
+      "https://expresso.pt/guine-bissau/2026-10-06-presidente-da-assembleia-nacional-popular-da-guine-bissau-considera-que-nao-ha-condicoes-para-eleicoes-em-dezembro-8d10312c"
+     ],
+     [
+      "2026-10-06 17:37",
+      "Jornal de Negócios",
+      "Primeiro-ministro francês acusa esquerda radical de querer lançar país no caos",
+      "https://www.jornaldenegocios.pt/economia/europa/detalhe/primeiro-ministro-frances-acusa-esquerda-radical-de-querer-lancar-pais-no-caos"
+     ],
+     [
+      "2026-10-05 21:15",
+      "Público",
+      "Movimento cívico quer Serviço Nacional de Cidadania e fim do dia da Defesa Nacional",
+      "https://www.publico.pt/2026/10/05/politica/noticia/movimento-civico-quer-servico-nacional-cidadania-fim-dia-defesa-nacional-2190362"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Assinatura do Protocolo de Cooperação entre a Assembleia Nacional de Angola e a Assembleia da República",
+   "data": "2026-11-30",
+   "hora": "12h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Salão Nobre da Assembleia Nacional, Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, assina, com o Presidente da Assembleia Nacional de Angola, um novo Protocolo de Cooperação entre os dois Parlamentos. Interv",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, assina, com o Presidente da Assembleia Nacional de Angola, um novo Protocolo de Cooperação entre os dois Parlamentos. Intervêm na cerimónia os dois Presidentes.",
+   "orgao": "Assinatura do Protocolo de Cooperação entre a Assembleia Nacional de Angola e a Assembleia da República",
+   "id_ar": 48805,
+   "chave": "ar-48805",
+   "dataLabel": "segunda, 30 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [
+    "DCIRI"
+   ],
+   "pertinencia": "Registo",
+   "criterio": [
+    "«cooperação» (DCIRI)",
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 15,
+    "n7": 1,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "2026-11-24 18:45",
+    "ultimas": [
+     {
+      "data": "2026-11-24",
+      "fonte": "ECO",
+      "titulo": "Feira de municípios vai promover investimento e partilhar os melhores projetos",
+      "url": "https://eco.sapo.pt/2026/11/24/feira-de-municipios-vai-promover-investimento-e-partilhar-os-melhores-projetos/"
+     },
+     {
+      "data": "2026-11-14",
+      "fonte": "Jornal Económico",
+      "titulo": "“Temos de olhar para a reabilitação como a solução”, diz associação dos condomínios",
+      "url": "https://jornaleconomico.sapo.pt/noticias/temos-de-olhar-para-a-reabilitacao-como-a-solucao-diz-associacao-dos-condominios/"
+     },
+     {
+      "data": "2026-11-11",
+      "fonte": "Jornal Económico",
+      "titulo": "AEP, SGS e Conselho Islâmico promovem certificação Halal",
+      "url": "https://jornaleconomico.sapo.pt/noticias/aep-sgs-e-conselho-islamico-promovem-certificacao-halal/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-24 18:45",
+      "ECO",
+      "Feira de municípios vai promover investimento e partilhar os melhores projetos",
+      "https://eco.sapo.pt/2026/11/24/feira-de-municipios-vai-promover-investimento-e-partilhar-os-melhores-projetos/"
+     ],
+     [
+      "2026-11-14 18:57",
+      "Jornal Económico",
+      "“Temos de olhar para a reabilitação como a solução”, diz associação dos condomínios",
+      "https://jornaleconomico.sapo.pt/noticias/temos-de-olhar-para-a-reabilitacao-como-a-solucao-diz-associacao-dos-condominios/"
+     ],
+     [
+      "2026-11-11 13:10",
+      "Jornal Económico",
+      "AEP, SGS e Conselho Islâmico promovem certificação Halal",
+      "https://jornaleconomico.sapo.pt/noticias/aep-sgs-e-conselho-islamico-promovem-certificacao-halal/"
+     ],
+     [
+      "2026-11-09 11:50",
+      "Observador",
+      "Parlamentos de Portugal e Moçambique alargam cooperação",
+      "https://observador.pt/2026/11/09/parlamentos-de-portugal-e-mocambique-alargam-cooperacao-institucional-e-tecnologica/"
+     ],
+     [
+      "2026-11-08 03:15",
+      "Observador",
+      "3h. Aguiar Branco pede mais cooperação com Moçambique",
+      "https://observador.pt/programas/noticiario/as-noticias-das-3h-2490/"
+     ],
+     [
+      "2026-11-07 17:45",
+      "Observador",
+      "\"É nos parlamentos que se obtêm os consensos\"",
+      "https://observador.pt/2026/11/07/aguiar-branco-diz-que-parlamentos-sao-o-local-certo-para-encontrar-solucoes-e-consensos/"
+     ],
+     [
+      "2026-11-05 16:14",
+      "ECO",
+      "Ministro da Defesa relativiza ataque informático a telemóvel. “Ninguém está imune a intrusões”",
+      "https://eco.sapo.pt/2026/11/05/ministro-da-defesa-relativiza-ataque-informatico-a-telemovel-ninguem-esta-imune-a-intrusoes/"
+     ],
+     [
+      "2026-11-04 12:22",
+      "ECO",
+      "Municípios querem um ano de suspensão das novas regras dos pagamentos em atraso",
+      "https://eco.sapo.pt/2026/11/04/municipios-querem-um-ano-de-suspensao-das-novas-regras-dos-pagamentos-em-atraso/"
+     ],
+     [
+      "2026-10-19 12:30",
+      "Healthnews",
+      "PSD quer ampliação do Hospital de Santo André reconhecida como prioridade nacional",
+      "https://healthnews.pt/2026/10/19/psd-quer-ampliacao-do-hospital-de-santo-andre-reconhecida-como-prioridade-nacional/#utm_source=rss&utm_medium=rss&utm_campaign=psd-quer-ampliacao-do-hospital-de-santo-andre-reconhecida-como-prioridade-nacional"
+     ],
+     [
+      "2026-10-16 14:27",
+      "ECO",
+      "Direita une-se e aprova propostas de PSD/CDS-PP e Chega sobre acesso de estrangeiros não residentes ao SNS",
+      "https://eco.sapo.pt/2026/10/16/direita-une-se-e-aprova-propostas-de-psd-cds-pp-e-chega-sobre-acesso-de-estrangeiros-nao-residentes-ao-sns/"
+     ],
+     [
+      "2026-10-15 22:12",
+      "RTP Notícias",
+      "Presidente fez fotografia real do estado da nação angolana diz MPLA",
+      "https://www.rtp.pt/noticias/mundo/presidente-fez-fotografia-real-do-estado-da-nacao-angolana-diz-mpla_n1771936"
+     ],
+     [
+      "2026-10-09 17:08",
+      "Jornal Económico",
+      "Ordem dos Farmacêuticos critica proposta que fica “aquém” do potencial do setor",
+      "https://jornaleconomico.sapo.pt/noticias/ordem-dos-farmaceuticos-critica-proposta-que-fica-aquem-do-potencial-do-setor/"
+     ],
+     [
+      "2026-10-08 16:42",
+      "Jornal Económico",
+      "OE2027: Verba para promoção da lusofonia desce 2,38% para 41 milhões de euros",
+      "https://jornaleconomico.sapo.pt/noticias/oe2027-verba-para-promocao-da-lusofonia-desce-238-para-41-milhoes-de-euros/"
+     ],
+     [
+      "2026-10-05 21:15",
+      "Público",
+      "Movimento cívico quer Serviço Nacional de Cidadania e fim do dia da Defesa Nacional",
+      "https://www.publico.pt/2026/10/05/politica/noticia/movimento-civico-quer-servico-nacional-cidadania-fim-dia-defesa-nacional-2190362"
+     ],
+     [
+      "2026-09-29 12:48",
+      "ECO",
+      "ANAM quer criar Dia Nacional do Poder Local",
+      "https://eco.sapo.pt/2026/09/29/anam-quer-criar-dia-nacional-do-poder-local/"
+     ]
+    ]
+   }
+  },
+  {
+   "tema": "Visita à Escola Portuguesa de Luanda",
+   "data": "2026-11-30",
+   "hora": "15h30",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Escola Portuguesa de Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita a Escola Portuguesa de Luanda.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita a Escola Portuguesa de Luanda.",
+   "orgao": "Visita à Escola Portuguesa de Luanda",
+   "id_ar": 48804,
+   "chave": "ar-48804",
+   "dataLabel": "segunda, 30 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Receção com a comunidade portuguesa",
+   "data": "2026-11-30",
+   "hora": "19h30",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Residência Oficial do Embaixador de Portugal, Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa numa receção com membros da comunidade portuguesa em Angola.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, participa numa receção com membros da comunidade portuguesa em Angola.",
+   "orgao": "Receção com a comunidade portuguesa",
+   "id_ar": 48811,
+   "chave": "ar-48811",
+   "dataLabel": "segunda, 30 nov",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visita ao Memorial às Vítimas dos Conflitos Políticos",
+   "data": "2026-12-01",
+   "hora": "10h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita o Memorial às Vítimas dos Conflitos Políticos.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita o Memorial às Vítimas dos Conflitos Políticos.",
+   "orgao": "Visita ao Memorial às Vítimas dos Conflitos Políticos",
+   "id_ar": 48810,
+   "chave": "ar-48810",
+   "dataLabel": "terça, 1 dez",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
    "tema": "Comissão de Infraestruturas, Mobilidade e Habitação",
    "data": "2026-12-02",
    "hora": "09h00",
@@ -8891,11 +9266,11 @@
    ],
    "novo": "2026-11-27",
    "cobertura": {
-    "n": 1234,
-    "n7": 175,
-    "n7ant": 122,
+    "n": 1227,
+    "n7": 154,
+    "n7ant": 139,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-27 16:20",
     "ultimas": [
@@ -11323,6 +11698,114 @@
    }
   },
   {
+   "tema": "Doutoramento Honoris Causa pela Universidade Óscar Ribas",
+   "data": "2026-12-02",
+   "hora": "09h00",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Universidade Óscar Ribas, Talatona, Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \nspan.SpellE {\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe o grau de Doutor Honoris Causa pela Universidade Óscar Ribas.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \nspan.SpellE {\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, recebe o grau de Doutor Honoris Causa pela Universidade Óscar Ribas.",
+   "orgao": "Doutoramento Honoris Causa pela Universidade Óscar Ribas",
+   "id_ar": 48809,
+   "chave": "ar-48809",
+   "dataLabel": "quarta, 2 dez",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Manhã",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 8,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "2026-11-06 15:44",
+    "ultimas": [
+     {
+      "data": "2026-11-06",
+      "fonte": "Observador",
+      "titulo": "Guterres: mandatos passam, mas luta pela paz continua",
+      "url": "https://observador.pt/2026/11/06/guterres-diz-que-mandatos-passam-mas-luta-pela-paz-justica-e-dignidade-continua/"
+     },
+     {
+      "data": "2026-11-06",
+      "fonte": "Executive Digest",
+      "titulo": "PR diz que honoris causa da Universidade de Salamanca a Guterres é \"honra para Portugal\"",
+      "url": "https://executivedigest.sapo.pt/pr-diz-que-honoris-causa-da-universidade-de-salamanca-a-guterres-e-honra-para-portugal/"
+     },
+     {
+      "data": "2026-11-06",
+      "fonte": "Observador",
+      "titulo": "Salamanca. Guterres recebe doutoramento honoris causa",
+      "url": "https://observador.pt/2026/11/06/guterres-recebe-doutoramento-honoris-causa-da-universidade-de-salamanca/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-06 15:44",
+      "Observador",
+      "Guterres: mandatos passam, mas luta pela paz continua",
+      "https://observador.pt/2026/11/06/guterres-diz-que-mandatos-passam-mas-luta-pela-paz-justica-e-dignidade-continua/"
+     ],
+     [
+      "2026-11-06 13:56",
+      "Executive Digest",
+      "PR diz que honoris causa da Universidade de Salamanca a Guterres é \"honra para Portugal\"",
+      "https://executivedigest.sapo.pt/pr-diz-que-honoris-causa-da-universidade-de-salamanca-a-guterres-e-honra-para-portugal/"
+     ],
+     [
+      "2026-11-06 08:13",
+      "Observador",
+      "Salamanca. Guterres recebe doutoramento honoris causa",
+      "https://observador.pt/2026/11/06/guterres-recebe-doutoramento-honoris-causa-da-universidade-de-salamanca/"
+     ],
+     [
+      "2026-11-06 07:13",
+      "RTP Notícias",
+      "Guterres recebe doutoramento honoris causa da Universidade de Salamanca",
+      "https://www.rtp.pt/noticias/mundo/guterres-recebe-doutoramento-honoris-causa-da-universidade-de-salamanca_n1777282"
+     ],
+     [
+      "2026-10-14 17:44",
+      "Notícias ao Minuto",
+      "Universidade do Porto atribui doutoramento honoris causa a Marion Nestle",
+      "https://www.noticiasaominuto.com/pais/3066879/universidade-do-porto-atribui-doutoramento-honoris-causa-a-marion-nestle#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-08 11:21",
+      "Observador",
+      "Coimbra atribui Honoris Causa a Artur Santos Silva",
+      "https://observador.pt/2026/10/08/universidade-de-coimbra-atribui-honoris-causa-a-artur-santos-silva/"
+     ],
+     [
+      "2026-10-08 10:03",
+      "Notícias ao Minuto",
+      "Universidade de Coimbra atribui Honoris Causa a Artur Santos Silva",
+      "https://www.noticiasaominuto.com/pais/3063284/universidade-de-coimbra-atribui-honoris-causa-a-artur-santos-silva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-10-08 09:39",
+      "Jornal Económico",
+      "Universidade de Coimbra distingue Artur Santos Silva",
+      "https://jornaleconomico.sapo.pt/noticias/universidade-de-coimbra-distingue-artur-santos-silva/"
+     ]
+    ]
+   }
+  },
+  {
    "tema": "Ministra da Cultura, Juventude e Desporto: Audição da Ministra da Cultura e Juventude e Desporto",
    "data": "2026-12-02",
    "hora": "10h00",
@@ -11358,7 +11841,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11420,7 +11903,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11464,7 +11947,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-10-17 07:18",
     "ultimas": [
@@ -11545,7 +12028,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -11610,7 +12093,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11651,7 +12134,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11679,7 +12162,7 @@
    "interveniente": "",
    "tipoLabel": "Comissão de Trabalho, Segurança Social e Inclusão · Reunião n.º 78",
    "resumo": "A Comissão discute a aprovação de medidas legislativas para proteger trabalhadores em condições meteorológicas extremas e garantir direitos sociais em situações de calamidade. São debatidos relatórios sobre projetos de lei, resoluções e uma petição relacionada com pensões bancárias.",
-   "ordemTrabalhos": "Apreciação e votação das atas das reuniões n.ºs 73, 74, 75, 76 e 77, respetivamente, de 20, 21 e 26 de outubro e de 5 e 6 de novembro de 2026;\n Comunicação de baixa à Comissão e distribuição de iniciativas - designação do Deputado relator e deliberação sobre a submissão a apreciação pública e eventuais consultas a realizar;\n Discussão e votação dos relatórios sobre as seguintes iniciativas legislativas:\n - Projeto de Lei n.º 85/XVII/1.ª (L) - Proteção dos trabalhadores: dispensa do trabalho quem executa atividades ao ar livre em condições meteorológicas extremas ;\n Relator: Deputado Francisco José Martins (PSD)\n - Projeto de Lei n.º 437/XVII/1.ª (L) - Cria a falta justificada e garante a proteção social de trabalhadores cujo posto de trabalho esteja abrangido por declaração de calamidade ;\n Relatora : Deputada Sandra Pereira (PSD)\n Fixação da redação final, nos termos do artigo 156.º do RAR, dos textos relativos às seguintes iniciativas:\nA) Projeto de Lei n.º 176/XVII/1.ª (Cidadãos) — Alargamento da Licença Parental Inicial ;\nB)  Projeto de Resolução n.º 1179/XVII/1.ª (PS) — Recomenda ao Governo a prorrogação dos apoios destinados à manutenção do emprego e à recuperação das empresas afetadas pelas tempestades que assolaram a Região Centro ;\nC) Projeto de Resolução n.º 1282/XVII/2.ª (JPP) — Recomenda ao Governo que permita o acompanhamento simultâneo dos filhos com doença oncológica por ambos os progenitores;\nD) Projeto de Resolução n.º 1283/XVII/2.ª (JPP) — Recomenda ao Governo que promova o teletrabalho sempre que possível para reduzir os encargos com combustíveis ;\n Discussão, nos termos do artigo 128.º do RAR, do Projeto de Resolução n.º 1314/XVII/2.ª (BE) – Recomenda ao Governo que permita a ambos os progenitores acompanhar em simultâneo o filho com doença oncológica e garanta o pagamento efetivo do subsídio a 100% ;\n Deliberação sobre a admissibilidade da Petição n.º 259/XVII/2.ª — Abaixo-assinado «Em Defesa das Pensões dos Bancários» - Petição para uma intervenção legislativa sobre o acerto das pensões de reforma , da iniciativa do Sindicato Nacional dos Quadros e Técnicos Bancários, com 20.994 assinaturas;\n Relator: Grupo Parlamentar do PSD\n Discussão e votação dos seguintes requerimentos:\n A) - Requerimento apresentado pelo Grupo Parlamentar do CH para nova audição urgente do Presidente do Conselho Diretivo da Caixa Geral de Aposentações para apuramento de responsabilidades na redução de pensões já atribuídas;\n- Requerimento apresentado pelo Deputado Único Representante do BE para audição, com carácter de urgência , do Presidente do Conselho Diretivo da Caixa Geral de Aposentações, I. P., sobre a redução de pensões de aposentação já fixadas em resolução final com fundamento no limite de 40 anos previsto na alínea b) do n.º 1 do artigo 5.º da Lei n.º 60/2005, de 29 de dezembro; \nB) - Requerimento apresentado pelo Grupo Parlamentar do CH para audição urgente da Ministra do Trabalho, Solidariedade e Segurança Social, Prof. Doutora Maria do Rosário Palma Ramalho, para prestar esclarecimentos sobre a insuficiência de respostas de acolhimento residencial e as medidas previstas para garantir a proteção das crianças e jovens que permanecem internados em unidades hospitalares por motivos exclusivamente sociais;\n        8. Outros assuntos",
+   "ordemTrabalhos": "Apreciação e votação das atas das reuniões n.ºs 73, 74, 75, 76 e 77, respetivamente, de 20, 21 e 26 de outubro e de 5 e 6 de novembro de 2026;\n Comunicação de baixa à Comissão e distribuição de iniciativas - designação do Deputado relator e deliberação sobre a submissão a apreciação pública e eventuais consultas a realizar;\n Discussão e votação dos relatórios sobre as seguintes iniciativas legislativas:\n - Projeto de Lei n.º 85/XVII/1.ª (L) - Proteção dos trabalhadores: dispensa do trabalho quem executa atividades ao ar livre em condições meteorológicas extremas ;\n Relator: Deputado Francisco José Martins (PSD)\n - Projeto de Lei n.º 437/XVII/1.ª (L) - Cria a falta justificada e garante a proteção social de trabalhadores cujo posto de trabalho esteja abrangido por declaração de calamidade ;\n Relatora : Deputada Sandra Pereira (PSD)\n Fixação da redação final, nos termos do artigo 156.º do RAR, dos textos relativos às seguintes iniciativas:\nA) Projeto de Lei n.º 176/XVII/1.ª (Cidadãos) — Alargamento da Licença Parental Inicial ;\nB)  Projeto de Resolução n.º 1179/XVII/1.ª (PS) — Recomenda ao Governo a prorrogação dos apoios destinados à manutenção do emprego e à recuperação das empresas afetadas pelas tempestades que assolaram a Região Centro ;\nC) Projeto de Resolução n.º 1282/XVII/2.ª (JPP) — Recomenda ao Governo que permita o acompanhamento simultâneo dos filhos com doença oncológica por ambos os progenitores;\nD) Projeto de Resolução n.º 1283/XVII/2.ª (JPP) — Recomenda ao Governo que promova o teletrabalho sempre que possível para reduzir os encargos com combustíveis ;\n Discussão, nos termos do artigo 128.º do RAR, do Projeto de Resolução n.º 1314/XVII/2.ª (BE) – Recomenda ao Governo que permita a ambos os progenitores acompanhar em simultâneo o filho com doença oncológica e garanta o pagamento efetivo do subsídio a 100% ;\n Discussão e votação, nos termos dos n.ºs 8 e 9 do artigo 75.º do RAR, do Projeto de Voto n.º 809/XVII/2.ª (PSD) – De saudação pelo 50.º Aniversário do CEERIA – Centro de Educação Especial, Reabilitação e Integração de Alcobaça e do Projeto de Voto n.º 823/XVII/2.ª (CDS-PP) - De Saudação ao CEERIA – Centro de Educação Especial, Reabilitação e Integração de Alcobaça pelo seu 50.º Aniversário ;\n Deliberação sobre a admissibilidade da Petição n.º 259/XVII/2.ª — Abaixo-assinado «Em Defesa das Pensões dos Bancários» - Petição para uma intervenção legislativa sobre o acerto das pensões de reforma , da iniciativa do S\nindicato Nacional dos Quadros e Técnicos Bancários, com 20.994 assinaturas;\n Relator: Grupo Parlamentar do PSD\n Discussão e votação dos seguintes requerimentos: \nA) Requerimento apresentado pelo Grupo Parlamentar do CH para nova audição urgente do Presidente do Conselho Diretivo da Caixa Geral de Aposentações para apuramento de responsabilidades na redução de pensões já atribuídas;\nRequerimento apresentado pelo Deputado Único Representante do BE para audição, com carácter de urgência , do Presidente do Conselho Diretivo da Caixa Geral de Aposentações, I. P., sobre a redução de pensões de aposentação já fixadas em resolução final com fundamento no limite de 40 anos previsto na alínea b) do n.º 1 do artigo 5.º da Lei n.º 60/2005, de 29 de dezembro; \nB) Requerimento apresentado pelo Grupo Parlamentar do CH para audição urgente da Ministra do Trabalho, Solidariedade e Segurança Social, Prof. Doutora Maria do Rosário Palma Ramalho, para prestar esclarecimentos sobre a insuficiência de respostas de acolhimento residencial e as medidas previstas para garantir a proteção das crianças e jovens que permanecem internados em unidades hospitalares por motivos exclusivamente sociais;\n Outros assuntos",
    "orgao": "Comissão de Trabalho, Segurança Social e Inclusão",
    "id_ar": 48792,
    "chave": "ar-48792",
@@ -11709,7 +12192,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-10-22 09:30",
     "ultimas": [
@@ -11754,7 +12237,8 @@
      "Caixa Geral de Aposentações"
     ]
    },
-   "varrimento": "2026-12-02-48792-ministra-do-trabalho-solidariedade-e-segura"
+   "varrimento": "2026-12-02-48792-ministra-do-trabalho-solidariedade-e-segura",
+   "alterado": "2026-11-28"
   },
   {
    "tema": "Comissão de Educação e Ciência",
@@ -11788,7 +12272,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-02 10:50",
     "ultimas": [
@@ -11871,7 +12355,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11905,7 +12389,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11939,7 +12423,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -11973,7 +12457,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12007,7 +12491,7 @@
     "n7": 2,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-24 19:04",
     "ultimas": [
@@ -12067,7 +12551,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12102,11 +12586,11 @@
     }
    ],
    "cobertura": {
-    "n": 6,
+    "n": 5,
     "n7": 1,
     "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-24 14:05",
     "ultimas": [
@@ -12159,12 +12643,6 @@
       "TSF",
       "Movimento pela habitação \"não subscreve vídeos que possam pôr em causa a integridade física dos titulares de cargos políticos\"",
       "https://www.tsf.pt/amp/18137970/movimento-pela-habitacao-nao-subscreve-videos-que-possam-por-em-causa-a-integridade-fisica-dos-titulares-de-cargos-politicos"
-     ],
-     [
-      "2026-09-28 12:32",
-      "CNN Portugal",
-      "Lacerda Sales terá de \"ser acusado nos termos da lei que criminaliza titulares de cargos políticos\"",
-      "https://cnnportugal.iol.pt/videos/lacerda-sales-tera-de-ser-acusado-nos-termos-da-lei-que-criminaliza-titulares-de-cargos-politicos/6aba486b0cf299bc2953d810"
      ]
     ]
    }
@@ -12198,7 +12676,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -12252,7 +12730,47 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "",
+    "ultimas": [],
+    "todas": []
+   }
+  },
+  {
+   "tema": "Visita ao Museu Nacional de História Militar",
+   "data": "2026-12-02",
+   "hora": "16h30",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Fortaleza de São Miguel, Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita o Museu Nacional de História Militar.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita o Museu Nacional de História Militar.",
+   "orgao": "Visita ao Museu Nacional de História Militar",
+   "id_ar": 48808,
+   "chave": "ar-48808",
+   "dataLabel": "quarta, 2 dez",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 0,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -12305,11 +12823,11 @@
     "Tenente-General"
    ],
    "cobertura": {
-    "n": 319,
+    "n": 313,
     "n7": 18,
-    "n7ant": 35,
+    "n7ant": 30,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-27 11:44",
     "ultimas": [
@@ -14210,42 +14728,6 @@
       "Diário de Notícias",
       "Chega declara vitória ao retardador sobre relatório da CPI das Gémeas",
       "https://www.dn.pt/pol%C3%ADtica/chega-declara-vitria-ao-retardador-sobre-relatrio-da-cpi-das-gmeas"
-     ],
-     [
-      "2026-09-28 22:35",
-      "Observador",
-      "PS defende Sales, Marcelo afasta filho, Ventura ganha fôlego",
-      "https://observador.pt/especiais/ps-defende-sales-ventura-ganha-folego-e-marcelo-mantem-castigo-ao-filho-o-impacto-da-acusacao-no-caso-das-gemeas/"
-     ],
-     [
-      "2026-09-28 21:31",
-      "RTP Notícias",
-      "Caso das Gémeas. CPI já apontava suspeitas sobre os arguidos",
-      "https://www.rtp.pt/noticias/politica/caso-das-gemeas-cpi-ja-apontava-suspeitas-sobre-os-arguidos_v1768297"
-     ],
-     [
-      "2026-09-28 18:55",
-      "RTP Notícias",
-      "Drone russo atinge posto fronteiriço junto à Polónia",
-      "https://www.rtp.pt/noticias/mundo/drone-russo-atinge-posto-fronteirico-junto-a-polonia_n1768265"
-     ],
-     [
-      "2026-09-28 18:34",
-      "Observador",
-      "Caso Gémeas. \"Nunca ficou provado intervenção da Casa Civil\"",
-      "https://observador.pt/programas/explicador/caso-gemeas-nunca-ficou-provado-intervencao-da-casa-civil/"
-     ],
-     [
-      "2026-09-28 16:13",
-      "Observador",
-      "16h. Caso Gémeas. Ventura diz que acusação dá razão ao Chega",
-      "https://observador.pt/programas/noticiario/as-noticias-das-16h-2373/"
-     ],
-     [
-      "2026-09-28 08:46",
-      "TSF",
-      "CPI a Luís Neves pode ter \"problemas graves\": \"Vão pedir coisas mirabolantes e não estará lá ninguém para impedir\"",
-      "https://www.tsf.pt/amp/18131263/cpi-a-luis-neves-pode-ter-problemas-graves-vao-pedir-coisas-mirabolantes-e-nao-estara-la-ninguem-para-impedir"
      ]
     ]
    },
@@ -14297,11 +14779,11 @@
     "Exames nacionais"
    ],
    "cobertura": {
-    "n": 100,
+    "n": 98,
     "n7": 3,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-26 01:36",
     "ultimas": [
@@ -14912,22 +15394,94 @@
       "Correio da Manhã",
       "Mecanismo de recurso para falhas na leitura dos códigos QR dos exames nacionais também falhou",
       "https://www.cmjornal.pt/sociedade/amp/mecanismo-de-recurso-para-falhas-na-leitura-dos-codigos-qr-dos-exames-nacionais-tambem-falhou"
-     ],
-     [
-      "2026-09-28 12:02",
-      "Observador",
-      "12h. Caso das gémeas: MP encerra inquérito e acusa 4 pessoas",
-      "https://observador.pt/programas/noticiario/as-noticias-das-12h-2456/"
-     ],
-     [
-      "2026-09-28 11:37",
-      "Healthnews",
-      "Caso das gémeas: Ministério Público acusa quatro arguidos",
-      "https://healthnews.pt/2026/09/28/caso-das-gemeas-ministerio-publico-acusa-quatro-arguidos/#utm_source=rss&utm_medium=rss&utm_campaign=caso-das-gemeas-ministerio-publico-acusa-quatro-arguidos"
      ]
     ]
    },
    "varrimento": "2026-12-02-48819-classifica-o-digital-dos-exames-nacionais-2"
+  },
+  {
+   "tema": "Visita à exposição “30 anos do Centro Cultural Português”",
+   "data": "2026-12-02",
+   "hora": "17h30",
+   "interveniente": "",
+   "tipoLabel": "Agenda do Presidente da Assembleia da República · Luanda",
+   "resumo": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita a exposição “30 anos do Centro Cultural Português”.",
+   "ordemTrabalhos": "span.EstiloCorreioEletrnico17 {\nfont-family:\"Aptos\",sans-serif;\ncolor:windowtext;\n} \ndiv.WordSection1 {\n} \n} O Presidente da Assembleia da República, José Pedro Aguiar-Branco, visita a exposição “30 anos do Centro Cultural Português”.",
+   "orgao": "Visita à exposição “30 anos do Centro Cultural Português”",
+   "id_ar": 48807,
+   "chave": "ar-48807",
+   "dataLabel": "quarta, 2 dez",
+   "tipo": [
+    "Agenda do Presidente da Assembleia da República"
+   ],
+   "uo": [],
+   "pertinencia": "Registo",
+   "criterio": [
+    "sem cliente, membro do Governo nem dossier acompanhado → Registo"
+   ],
+   "periodo": "Tarde",
+   "ligacoes": [
+    {
+     "titulo": "Agenda parlamentar",
+     "url": "https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx"
+    }
+   ],
+   "novo": "2026-11-28",
+   "cobertura": {
+    "n": 4,
+    "n7": 0,
+    "n7ant": 0,
+    "dias": 60,
+    "ref": "2026-11-28",
+    "metodo": "palavras",
+    "ultima": "2026-11-01 10:11",
+    "ultimas": [
+     {
+      "data": "2026-11-01",
+      "fonte": "RTP Notícias",
+      "titulo": "Exposição em Díli com 30 obras da literatura portuguesa abre discussão sobre o livro em falta",
+      "url": "https://www.rtp.pt/noticias/cultura/exposicao-em-dili-com-30-obras-da-literatura-portuguesa-abre-discussao-sobre-o-livro-em-falta_n1775992"
+     },
+     {
+      "data": "2026-10-15",
+      "fonte": "Observador",
+      "titulo": "Mafalda Veiga e 40 anos de fado marcam Sintra",
+      "url": "https://observador.pt/programas/agenda-cultural-sintrense/mafalda-veiga-e-40-anos-de-fado-marcam-sintra/"
+     },
+     {
+      "data": "2026-10-07",
+      "fonte": "Jornal Económico",
+      "titulo": "IPCG leva debate sobre Competitividade, Inovação e Regulação na Europa ao CCB",
+      "url": "https://jornaleconomico.sapo.pt/noticias/ipcg-leva-debate-sobre-competitividade-inovacao-e-regulacao-na-europa-ao-ccb/"
+     }
+    ],
+    "todas": [
+     [
+      "2026-11-01 10:11",
+      "RTP Notícias",
+      "Exposição em Díli com 30 obras da literatura portuguesa abre discussão sobre o livro em falta",
+      "https://www.rtp.pt/noticias/cultura/exposicao-em-dili-com-30-obras-da-literatura-portuguesa-abre-discussao-sobre-o-livro-em-falta_n1775992"
+     ],
+     [
+      "2026-10-15 06:48",
+      "Observador",
+      "Mafalda Veiga e 40 anos de fado marcam Sintra",
+      "https://observador.pt/programas/agenda-cultural-sintrense/mafalda-veiga-e-40-anos-de-fado-marcam-sintra/"
+     ],
+     [
+      "2026-10-07 00:28",
+      "Jornal Económico",
+      "IPCG leva debate sobre Competitividade, Inovação e Regulação na Europa ao CCB",
+      "https://jornaleconomico.sapo.pt/noticias/ipcg-leva-debate-sobre-competitividade-inovacao-e-regulacao-na-europa-ao-ccb/"
+     ],
+     [
+      "2026-09-30 15:21",
+      "Jornal Económico",
+      "Papel da Lusa é insubstituível, diz ministro da Presidência",
+      "https://jornaleconomico.sapo.pt/noticias/papel-da-lusa-e-insubstituivel-diz-ministro-da-presidencia/"
+     ]
+    ]
+   }
   },
   {
    "tema": "Intervenção de Luís Neves na Polícia Judiciária",
@@ -14973,11 +15527,11 @@
     "Luís Neves"
    ],
    "cobertura": {
-    "n": 143,
-    "n7": 10,
-    "n7ant": 10,
+    "n": 142,
+    "n7": 9,
+    "n7ant": 11,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-27 09:50",
     "ultimas": [
@@ -15852,12 +16406,6 @@
       "Público",
       "Família detida por homicídio no Bairro da Serafina fica em prisão preventiva",
       "https://www.publico.pt/2026/09/29/local/noticia/familia-detida-homicidio-bairro-serafina-fica-prisao-preventiva-2189635"
-     ],
-     [
-      "2026-09-28 19:26",
-      "Observador",
-      "Acusados por branqueamento em esquema CEO Fraud",
-      "https://observador.pt/2026/09/28/mp-acusa-pessoa-e-empresa-por-branqueamento-e-falsificacao-ligados-a-esquema-ceo-fraud-com-origem-no-estrangeiro/"
      ]
     ]
    },
@@ -15893,7 +16441,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -15928,7 +16476,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -15988,7 +16536,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16019,10 +16567,10 @@
    "ligacoes": [],
    "cobertura": {
     "n": 40,
-    "n7": 4,
+    "n7": 3,
     "n7ant": 9,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-27 14:19",
     "ultimas": [
@@ -16327,7 +16875,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16385,7 +16933,7 @@
     "n7": 1,
     "n7ant": 2,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-11-27 15:33",
     "ultimas": [
@@ -16554,7 +17102,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16588,7 +17136,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -16624,10 +17172,10 @@
    "ligacoes": [],
    "cobertura": {
     "n": 22,
-    "n7": 18,
-    "n7ant": 0,
+    "n7": 17,
+    "n7ant": 1,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-27 15:48",
     "ultimas": [
@@ -16834,7 +17382,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-10-31 06:35",
     "ultimas": [
@@ -16969,11 +17517,11 @@
     "Incêndios Rurais"
    ],
    "cobertura": {
-    "n": 324,
+    "n": 318,
     "n7": 17,
-    "n7ant": 34,
+    "n7ant": 29,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "2026-11-27 11:44",
     "ultimas": [
@@ -18904,42 +19452,6 @@
       "Diário de Notícias",
       "Chega declara vitória ao retardador sobre relatório da CPI das Gémeas",
       "https://www.dn.pt/pol%C3%ADtica/chega-declara-vitria-ao-retardador-sobre-relatrio-da-cpi-das-gmeas"
-     ],
-     [
-      "2026-09-28 22:35",
-      "Observador",
-      "PS defende Sales, Marcelo afasta filho, Ventura ganha fôlego",
-      "https://observador.pt/especiais/ps-defende-sales-ventura-ganha-folego-e-marcelo-mantem-castigo-ao-filho-o-impacto-da-acusacao-no-caso-das-gemeas/"
-     ],
-     [
-      "2026-09-28 21:31",
-      "RTP Notícias",
-      "Caso das Gémeas. CPI já apontava suspeitas sobre os arguidos",
-      "https://www.rtp.pt/noticias/politica/caso-das-gemeas-cpi-ja-apontava-suspeitas-sobre-os-arguidos_v1768297"
-     ],
-     [
-      "2026-09-28 18:55",
-      "RTP Notícias",
-      "Drone russo atinge posto fronteiriço junto à Polónia",
-      "https://www.rtp.pt/noticias/mundo/drone-russo-atinge-posto-fronteirico-junto-a-polonia_n1768265"
-     ],
-     [
-      "2026-09-28 18:34",
-      "Observador",
-      "Caso Gémeas. \"Nunca ficou provado intervenção da Casa Civil\"",
-      "https://observador.pt/programas/explicador/caso-gemeas-nunca-ficou-provado-intervencao-da-casa-civil/"
-     ],
-     [
-      "2026-09-28 16:13",
-      "Observador",
-      "16h. Caso Gémeas. Ventura diz que acusação dá razão ao Chega",
-      "https://observador.pt/programas/noticiario/as-noticias-das-16h-2373/"
-     ],
-     [
-      "2026-09-28 08:46",
-      "TSF",
-      "CPI a Luís Neves pode ter \"problemas graves\": \"Vão pedir coisas mirabolantes e não estará lá ninguém para impedir\"",
-      "https://www.tsf.pt/amp/18131263/cpi-a-luis-neves-pode-ter-problemas-graves-vao-pedir-coisas-mirabolantes-e-nao-estara-la-ninguem-para-impedir"
      ]
     ]
    },
@@ -18973,7 +19485,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -19012,7 +19524,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "expressoes",
     "ultima": "",
     "ultimas": [],
@@ -19064,7 +19576,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -19098,7 +19610,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],
@@ -19133,7 +19645,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "2026-10-05 15:16",
     "ultimas": [
@@ -19193,7 +19705,7 @@
     "n7": 0,
     "n7ant": 0,
     "dias": 60,
-    "ref": "2026-11-27",
+    "ref": "2026-11-28",
     "metodo": "palavras",
     "ultima": "",
     "ultimas": [],

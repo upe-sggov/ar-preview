@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48805@ar-preview
+DTSTAMP:20261128T012413Z
+DTSTART:20261130T120000Z
+DTEND:20261130T140000Z
+SUMMARY:AR · Assinatura do Protocolo de Cooperação entre a Assembleia N
+ acional de Angola e a Assembleia da República
+LOCATION:Assembleia da República
+DESCRIPTION:Agenda do Presidente da Assembleia da República · Salão Nob
+ re da Assembleia Nacional\, Luanda\nSíntese: span.EstiloCorreioEletrnico
+ 17 { font-family:"Aptos"\,sans-serif\; color:windowtext\; }  div.WordSect
+ ion1 {\nPágina na AR: https://www.parlamento.pt/sites/PARXVIL/Agenda/Pag
+ inas/default.aspx\nEmissões em direto (quando houver): https://canal.par
+ lamento.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de
+  fim indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,6 +1,12 @@
 ﻿chave;data;hora;tema;uo;pertinencia;expressoes;noticias_60d;estado;revisto
 ar-48812;2026-11-30;10h30;Visitas guiadas ao Palácio de São Bento;;Registo;;2;novo;
+ar-48806;2026-11-30;10h30;Encontro com o Presidente da Assembleia Nacional de Angola;;Registo;;;novo;
+ar-48805;2026-11-30;12h00;Assinatura do Protocolo de Cooperação entre a Assembleia Nacional de Angola e a Assembleia da República;DCIRI;Registo;;;novo;
+ar-48804;2026-11-30;15h30;Visita à Escola Portuguesa de Luanda;;Registo;;;novo;
+ar-48811;2026-11-30;19h30;Receção com a comunidade portuguesa;;Registo;;;novo;
+ar-48810;2026-12-01;10h00;Visita ao Memorial às Vítimas dos Conflitos Políticos;;Registo;;;novo;
 ar-48800;2026-12-02;09h00;Comissão de Infraestruturas, Mobilidade e Habitação;;Registo;;1234;novo;
+ar-48809;2026-12-02;09h00;Doutoramento Honoris Causa pela Universidade Óscar Ribas;;Registo;;;novo;
 ar-48747;2026-12-02;10h00;Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias;DAPL;Imediato;OE 2027|OE2027|Orçamento do Estado para 2027|Orçamento do Estado 2027|Proposta de Lei n.º 110/XVII;366;alterado;
 ar-48749;2026-12-02;10h00;Ministra da Cultura, Juventude e Desporto: Audição da Ministra da Cultura e Juventude e Desporto;DACDP,UPE;Vigilância;;0;;
 ar-48786;2026-12-02;10h00;Comissão de Agricultura e Pescas;DAPL,DCIRI;Registo;;0;alterado;
@@ -11,7 +17,7 @@ ar-48774;2026-12-02;11h00;Comissão de Defesa Nacional;;Registo;;0;;
 ar-48791;2026-12-02;11h00;Ministro da Educação, João de Deus Pinheiro: 40 anos da Lei de Bases do Sistema Educativo;DACDP;Vigilância;;0;;
 ar-48785;2026-12-02;11h00;Recuperação pós-cheias e atribuição de apoios;DACDP,Transversal;Imediato;;0;;
 ar-48780;2026-12-02;11h00;Audiência com a Direção da Comissão de Concorrência da ICC Portugal;;Imediato;ICC Portugal|Comissão de Concorrência;0;;
-ar-48792;2026-12-02;11h30;Ministra do Trabalho, Solidariedade e Segurança Social, Prof: Proteção Social e Trabalho em Condições Extremas;DACDP,UPE;Vigilância;;2;;
+ar-48792;2026-12-02;11h30;Ministra do Trabalho, Solidariedade e Segurança Social, Prof: Proteção Social e Trabalho em Condições Extremas;DACDP,UPE;Vigilância;;2;alterado;
 ar-48790;2026-12-02;13h45;Comissão de Educação e Ciência;;Registo;;4;;
 ar-48776;2026-12-02;14h00;Alterações Climáticas e Ambiente;;Imediato;Alterações Climáticas|Vigilantes da Natureza|Estratégia Nacional de Adaptação|Estratégia 2030;151;alterado;
 ar-48784;2026-12-02;14h00;Comissão de Transparência e Estatuto dos Deputados;;Registo;;0;;
@@ -24,8 +30,10 @@ ar-48758;2026-12-02;14h00;Grupo de Trabalho para a análise e acompanhamento das
 ar-48783;2026-12-02;14h30;Comissão de Transparência e Estatuto dos Deputados;;Registo;;6;;
 ar-48745;2026-12-02;15h00;Alterações à designação dos membros dos órgãos de administração do SNS;DACDP;Vigilância;SNS|Decreto-Lei 52/2022|Decreto-Lei 71/2007;0;;
 ar-48816;2026-12-02;15h00;Assistências à Sessão Plenária;;Registo;;0;novo;
+ar-48808;2026-12-02;16h30;Visita ao Museu Nacional de História Militar;;Registo;;;novo;
 ar-48820;2026-12-02;17h00;Incêndios Rurais;DACDP;Vigilância;CPI|Força Aérea|Logística|Tenente-General;319;novo;
 ar-48819;2026-12-02;17h00;Classificação digital dos exames nacionais 2025-2026;DACDP;Vigilância;Comissão Parlamentar de Inquérito|Procuradoria-Geral da República|Regime Jurídico dos Inquéritos Parlamentares|Exames nacionais;100;novo;
+ar-48807;2026-12-02;17h30;Visita à exposição “30 anos do Centro Cultural Português”;;Registo;;;novo;
 ar-48802;2026-12-02;18h00;Intervenção de Luís Neves na Polícia Judiciária;DACDP;Vigilância;Comissão de Inquérito Parlamentar|Polícia Judiciária|Luís Neves;143;novo;
 ar-48788;2026-12-02;18h00;Audiências do Grupo Parlamentar do PCP;UPE;Registo;;0;;
 ar-48814;2026-12-03;10h30;Visitas guiadas ao Palácio de São Bento;;Registo;;2;novo;

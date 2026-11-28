@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48810@ar-preview
+DTSTAMP:20261128T012413Z
+DTSTART:20261201T100000Z
+DTEND:20261201T120000Z
+SUMMARY:AR · Visita ao Memorial às Vítimas dos Conflitos Políticos
+LOCATION:Assembleia da República
+DESCRIPTION:Agenda do Presidente da Assembleia da República · Luanda\nS
+ íntese: span.EstiloCorreioEletrnico17 { font-family:"Aptos"\,sans-serif\
+ ; color:windowtext\; }  div.WordSection1 {\nPágina na AR: https://www.pa
+ rlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx\nEmissões em diret
+ o (quando houver): https://canal.parlamento.pt/\nAR Preview: https://upe-
+ sggov.github.io/ar-preview/\nHora de fim indicativa\; a agenda da AR pode
+  mudar.
+URL:https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

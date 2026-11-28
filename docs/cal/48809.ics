@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48809@ar-preview
+DTSTAMP:20261128T012413Z
+DTSTART:20261202T090000Z
+DTEND:20261202T110000Z
+SUMMARY:AR · Doutoramento Honoris Causa pela Universidade Óscar Ribas
+LOCATION:Assembleia da República
+DESCRIPTION:Agenda do Presidente da Assembleia da República · Universida
+ de Óscar Ribas\, Talatona\, Luanda\nSíntese: span.EstiloCorreioEletrnic
+ o17 { font-family:"Aptos"\,sans-serif\; color:windowtext\; }  span.SpellE
+  {\nPágina na AR: https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas
+ /default.aspx\nEmissões em direto (quando houver): https://canal.parlame
+ nto.pt/\nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim
+  indicativa\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

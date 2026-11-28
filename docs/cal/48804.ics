@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48804@ar-preview
+DTSTAMP:20261128T012413Z
+DTSTART:20261130T153000Z
+DTEND:20261130T173000Z
+SUMMARY:AR · Visita à Escola Portuguesa de Luanda
+LOCATION:Assembleia da República
+DESCRIPTION:Agenda do Presidente da Assembleia da República · Escola Por
+ tuguesa de Luanda\nSíntese: span.EstiloCorreioEletrnico17 { font-family:
+ "Aptos"\,sans-serif\; color:windowtext\; }  div.WordSection1 {\nPágina n
+ a AR: https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+ \nEmissões em direto (quando houver): https://canal.parlamento.pt/\nAR P
+ review: https://upe-sggov.github.io/ar-preview/\nHora de fim indicativa\;
+  a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

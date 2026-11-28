@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SGGov Suporte à Decisão//AR Preview//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AR Preview
+BEGIN:VEVENT
+UID:ar-48808@ar-preview
+DTSTAMP:20261128T012413Z
+DTSTART:20261202T163000Z
+DTEND:20261202T183000Z
+SUMMARY:AR · Visita ao Museu Nacional de História Militar
+LOCATION:Assembleia da República
+DESCRIPTION:Agenda do Presidente da Assembleia da República · Fortaleza 
+ de São Miguel\, Luanda\nSíntese: span.EstiloCorreioEletrnico17 { font-f
+ amily:"Aptos"\,sans-serif\; color:windowtext\; }  div.WordSection1 {\nPá
+ gina na AR: https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/defaul
+ t.aspx\nEmissões em direto (quando houver): https://canal.parlamento.pt/
+ \nAR Preview: https://upe-sggov.github.io/ar-preview/\nHora de fim indica
+ tiva\; a agenda da AR pode mudar.
+URL:https://www.parlamento.pt/sites/PARXVIL/Agenda/Paginas/default.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
