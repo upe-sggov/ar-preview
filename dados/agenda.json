@@ -845,8 +845,8 @@
     "retirados": 0
    }
   ],
-  "atualizado": "2026-11-28T01:17+00:00",
-  "atualizadoLabel": "28 de novembro, 01h17",
+  "atualizado": "2026-11-28T16:06+00:00",
+  "atualizadoLabel": "28 de novembro, 16h06",
   "estado": "Classificação automática",
   "aviso": "A prioridade de cada matéria segue os critérios descritos no botão «i». As fichas de fundo mediático reúnem notícias do Radar de Notícias, com síntese e natureza atribuídas automaticamente pelo Amália, sem verificação de números.",
   "desdeLabel": "27 de novembro"
@@ -1025,13 +1025,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 365
+    "encontradas": 368
    },
    "base": {
     "ultima": "2026-11-27 11:30",
     "em": "2026-11-27"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Nos últimos dias, a cobertura mediática tem-se focado na discussão e votação do Orçamento do Estado para 2027 (OE2027), com o Parlamento a iniciar o debate na generalidade. O PSD e o CDS-PP, partidos que sustentam o Governo de Luís Montenegro, votaram contra algumas propostas, enquanto o Chega propôs medidas específicas para os Açores. O PS absteve-se na votação final global, permitindo a aprovação do OE2027. O debate tem sido marcado por críticas de partidos da oposição, como o Chega, que antecipa problemas de défice, e por acusações de interferência entre o Governo e o Parlamento. A cobertura evoluiu de anúncios iniciais do OE2027 para a discussão de alterações propostas e a votação final, com foco nas implicações económicas e políticas."
   },
   "2026-12-02-48785-comiss-o-da-reforma-do-estado-e-poder-local": {
@@ -1249,13 +1249,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 150
+    "encontradas": 151
    },
    "base": {
     "ultima": "2026-11-26 11:17",
     "em": "2026-11-27"
    },
-   "novas": 1,
+   "novas": 2,
    "enquadramento": "A cobertura mediática das alterações climáticas e do ambiente tem vindo a aumentar nos últimos meses, com 150 notícias publicadas num período de 60 dias. Os temas abordados incluem a adaptação da agricultura às alterações climáticas, os impactos económicos e ecológicos, a vulnerabilidade de espécies como a lampreia e o sável, e a importância da preparação para eventos climáticos extremos. A COP31, realizada em novembro de 2026, serviu como um ponto de convergência para discussões sobre a ação climática global, embora sem um acordo político abrangente. As notícias destacam tanto os desafios colocados pelas alterações climáticas como as iniciativas para mitigar os seus efeitos, incluindo a reutilização de água, a redução de voos noturnos e a proteção de espécies ameaçadas. A cobertura evoluiu de uma perspetiva mais geral para uma análise mais específica de medidas legislativas e políticas ambientais, refletindo a crescente urgência e complexidade da crise climática."
   },
   "2026-12-02-48779-audi-o-do-primeiro-peticion-rio-da-peti-o-n": {
@@ -1293,173 +1293,173 @@
      "data": "2026-09-30",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/psd-e-chega-chegam-a-acordo-para-alterar-na-especialidade-proposta-do-governo-sobre-novo-regime-do-arrendamento-urbano/",
-     "sintese": "O PSD e o Chega chegaram a um acordo para alterar a proposta do Governo sobre o novo regime do arrendamento urbano, com o PSD a comprometer-se a levar as alterações à especialidade.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "PSD e Chega chegam a acordo para alterar na especialidade proposta do Governo sobre novo regime do arrendamento urbano, tendo o Governo apresentado na Assembleia da República proposta para alterar a legislação em matéria de arrendamento urbano.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-01",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/politica/amp/psd-e-chega-assinam-acordo-para-mudancas-no-arrendamento",
-     "sintese": "O PSD e o Chega assinaram um acordo para mudanças no arrendamento, após negociações sobre a proposta do Governo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "PSD e Chega assinam acordo para mudanças no arrendamento, com foco em alterações legislativas e aperfeiçoamento.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-05",
      "fonte": "Executive Digest",
      "url": "https://executivedigest.sapo.pt/05-outubro-chega-diz-que-discurso-de-seguro-foi-mais-do-mesmo-ao-apelar-para-uniao-de-psd-e-ps/",
-     "sintese": "O Chega criticou o discurso de Seguro, acusando-o de apelar à união entre o PSD e o PS.",
+     "sintese": "Chega critica discurso de Seguro, acusando-o de apelar à união de PSD e PS.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-13",
-     "fonte": "Açoriano Oriental",
-     "url": "https://www.acorianooriental.pt/noticia/paulo-silveira-destaca-promocao-do-queijo-de-sao-jorge-381079",
-     "sintese": "O JPP criticou a espera superior a cinco anos por cuidados de saúde na Madeira, responsabilizando o Governo Regional PSD/CDS.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "fonte": "JM Madeira",
+     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30006994/psd-questiona-interesses-do-jpp-na-ligacao-ferry.html",
+     "sintese": "PSD questiona interesses do JPP na ligação ferry, sem ligação direta à petição.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-18",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/18/jpp-critica-espera-superior-a-cinco-anos-por-cuidados-de-saude-na-madeira/#utm_source=rss&utm_medium=rss&utm_campaign=jpp-critica-espera-superior-a-cinco-anos-por-cuidados-de-saude-na-madeira",
-     "sintese": "O PS acusou o PSD de 'desculpas de mau pagador' e o Chega de 'ziguezagues constantes' em relação à habitação.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "sintese": "JPP critica espera superior a cinco anos por cuidados de saúde na Madeira, responsabilizando o Governo Regional PSD/CDS.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-20",
      "fonte": "TSF",
      "url": "https://www.tsf.pt/amp/18139209/habitacao-ps-acusa-psd-de-desculpas-de-mau-pagador-e-chega-de-ziguezagues-constantes",
-     "sintese": "O vice do PSD recusou mexer no direito à manifestação, afirmando que está perfeitamente atual.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "PS acusa PSD de 'desculpas de mau pagador' e Chega de 'ziguezagues constantes' em relação à habitação.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-10-29",
      "fonte": "Renascença",
      "url": "https://rr.pt/especial/hora-da-verdade/2026/10/29/vice-do-psd-recusa-mexer-no-direito-a-manifestacao-esta-perfeitamente-atual/491297/",
-     "sintese": "O Ministro da Economia culpou o preço dos combustíveis pelos resultados do PSD nas sondagens.",
+     "sintese": "Vice do PSD recusa mexer no direito à manifestação, afirmando que está perfeitamente atual.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-01",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/economia/2026-11-01-video-ministro-da-economia-culpa-preco-dos-combustiveis-por-resultado-do-psd-nas-sondagens-eb769780?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/economia/2026-11-01-video-ministro-da-economia-culpa-preco-dos-combustiveis-por-resultado-do-psd-nas-sondagens-eb769780",
-     "sintese": "O PSD quer apurar responsabilidades sobre um prédio em risco de ruir.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "Jornal de Negócios",
+     "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-jorge-moreira-da-silva-volta-a-condenar-intervencao-policial",
+     "sintese": "PSD condena intervenção policial em protestos pacíficos, classificando-a como injustificável.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-06",
      "fonte": "Jornal de Notícias",
      "url": "https://www.jn.pt/pais/artigo/psd-quer-que-se-apurem-responsabilidades-sobre-predio-em-risco-de-ruir/18145565",
-     "sintese": "O Chega excluiu o PSD das legislativas e apontou dois modelos de civilização entre o Chega e o PS.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
-     "data": "2026-11-08",
-     "fonte": "Jornal de Negócios",
-     "url": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-exclui-psd-das-legislativas-e-aponta-dois-modelos-de-civilizacao-entre-chega-e-ps",
-     "sintese": "Isaltino criou um partido para travar o Chega, afirmando que este já não é o seu PSD.",
+     "sintese": "PSD quer apurar responsabilidades sobre prédio em risco de ruir, sem ligação direta à petição.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-12",
-     "fonte": "Expresso",
-     "url": "https://expresso.pt/politica/2026-11-12-um-novo-partido-e-irreversivel-diz-isaltino-morais-d8822f12",
-     "sintese": "O PSD alterou o seu voto para aprovar propostas do Chega e do PAN sobre habitação.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "Açoriano Oriental",
+     "url": "https://www.acorianooriental.pt/noticia/lider-do-psd-acores-apela-a-responsabilidade-da-oposicao-no-orcamento-2027-381995",
+     "sintese": "PSD/Açores apela ao sentido de responsabilidade da oposição para aprovar o Orçamento 2027, sem relação direta com a petição.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-18",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-psd-altera-voto-e-aprova-propostas-do-chega-e-do-pan-sobre-habitao",
-     "sintese": "O Chega acusou a Comissão Europeia de impedir um acordo entre o PSD e o Chega.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "OE2027: PSD altera voto e aprova propostas do Chega e do PAN sobre habitação, com foco em alterações legislativas.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-21",
-     "fonte": "Notícias ao Minuto",
-     "url": "https://www.noticiasaominuto.com/pais/3088126/chegaconvencao-tanger-acusa-comissao-europeia-de-impedir-acordo-psd-chega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-     "sintese": "O Chega criticou o Governo e o PSD, considerando-os os piores parceiros na Assembleia.",
+     "fonte": "Expresso",
+     "url": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-21-psd-acusa-ps-e-chega-de-desfigurarem-orcamento-resultado-sera-pior-ensino-e-mais-impostos-para-700-mil-a6e97d9d",
+     "sintese": "PSD acusa PS e Chega de 'desfigurarem' Orçamento, prevendo consequências negativas para o ensino e impostos.",
      "natureza": "critica",
      "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-22",
-     "fonte": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/videos/o-governo-e-o-psd-estao-a-cometer-erros-gigantescos-o-chega-e-o-pior-dos-parceiros-na-assembleia/6b0378c20cf2c0fc744b72c6",
-     "sintese": "O Governo e o PSD foram criticados por erros gigantescos, com o Chega a ser apontado como o pior parceiro.",
-     "natureza": "critica",
-     "naturezaLabel": "Crítica"
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-11-22-o-estudo-que-passos-fez-foi-saber-o-melhor-momento-para-substituir-ferreira-leite-como-lider-do-psd.-agora-esta-a-tentar-fazer-o-mesmo-682c672a",
+     "sintese": "PSD comenta estudo sobre movimentação de partidos políticos, sem ligação direta à petição.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-23",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/11/23/investimento-minimo-em-investigacao-cientifica-para-vistos-gold-baixa-para-250-mil-euros/",
-     "sintese": "O investimento mínimo em investigação científica para 'vistos gold' foi reduzido de 500 mil para 250 mil euros, segundo uma proposta do PSD e CDS-PP.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "PSD critica intervenção policial, defendendo direitos humanos e tolerância.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-23",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/economia/investimento-minimo-em-investigacao-cientifica-para-vistos-gold-baixa-para-250-mil-euros_n1781182",
-     "sintese": "O investimento mínimo para 'vistos gold' foi reduzido para 250 mil euros, conforme proposta do PSD e CDS-PP.",
+     "sintese": "PSD e CDS-PP propõem redução do investimento mínimo em investigação científica para 'vistos gold', com foco em alterações legislativas.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-11-24",
-     "fonte": "Observador",
-     "url": "https://observador.pt/opiniao/passos-coelho/",
-     "sintese": "O investimento mínimo em investigação científica para 'vistos gold' foi reduzido para 250 mil euros, segundo proposta do PSD e CDS-PP.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/videos/aquilo-que-o-ps-fez-nesta-negociacao-orcamental-sera-devolvido-em-dobro-pelo-psd-e-pelo-chega/6b060bdb0cf294b9345eb97a",
+     "sintese": "PS acusa PSD de 'desculpas de mau pagador' e Chega de 'ziguezagues constantes' em relação à habitação.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
     },
     {
      "data": "2026-11-25",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/11/26/opiniao/opiniao/problema-tres-corpos-aplicado-parlamento-portugues-2196256?ref=opiniao",
-     "sintese": "Passos Coelho foi apresentado como a solução para o PSD e para o País nas próximas legislativas, garantindo estabilidade política e governabilidade.",
+     "sintese": "PSD comenta estratégia de negociação orçamental, prevendo consequências negativas.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-26",
-     "fonte": "Diário de Notícias da Madeira",
-     "url": "https://www.dnoticias.pt/2026/11/26/514447-livre-queria-antecipar-debate-quinzenal-mas-diz-que-psd-se-opos/",
-     "sintese": "O PSD destacou o contributo do 25 de Novembro para a consolidação da democracia.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "fonte": "Notícias ao Minuto",
+     "url": "https://www.noticiasaominuto.com/pais/3090922/oe2027-livre-queria-antecipar-debate-quinzenal-mas-diz-que-psd-se-opos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+     "sintese": "Livre quer antecipar debate quinzenal sobre Orçamento, sem relação direta com a petição.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-27",
-     "fonte": "JM Madeira",
-     "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010287/psd-destaca-contributo-do-25-de-novembro-para-a-consolidacao-da-democracia.html",
-     "sintese": "O PSD destacou o contributo do 25 de Novembro para a consolidação da democracia.",
-     "natureza": "positivo",
-     "naturezaLabel": "Positiva"
+     "fonte": "Observador",
+     "url": "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/",
+     "sintese": "PSD acusa Chega de 'truque' para desviar atenção de impostos sobre rendas e norma inconstitucional.",
+     "natureza": "critica",
+     "naturezaLabel": "Crítica"
+    },
+    {
+     "data": "2026-11-28",
+     "fonte": "Diário de Notícias da Madeira",
+     "url": "https://www.dnoticias.pt/2026/11/28/514610-psd-defende-irs-minimo-para-reforcar-rendimento-disponivel-das-familias/",
+     "sintese": "PSD defende IRS mínimo para reforçar rendimento disponível das famílias, sem relação direta com a petição.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 1155
+    "encontradas": 1173
    },
    "base": {
-    "ultima": "2026-11-27 16:20",
-    "em": "2026-11-27"
+    "ultima": "2026-11-28 14:54",
+    "em": "2026-11-28"
    },
    "novas": 0,
-   "enquadramento": "Nos últimos seis meses, a cobertura mediática focou-se principalmente em questões políticas e de governação, incluindo negociações entre o PSD e o Chega, críticas ao PS e ao Chega, e discussões sobre políticas de habitação e investimento. A Petição n.º 200/XVI/1, relativa à preservação da praia de Albarquel, não foi diretamente mencionada em qualquer das notícias fornecidas. A cobertura evoluiu de discussões sobre alterações legislativas e políticas de habitação para debates sobre a estabilidade política e a governação."
+   "enquadramento": "Nos últimos seis meses, a cobertura mediática focou-se principalmente em debates políticos e medidas governamentais, com algumas referências indiretas à preservação ambiental. Embora a Petição n.º 200/XVI/1 sobre a praia de Albarquel tenha sido apresentada com 12639 assinaturas, não houve notícias específicas sobre a audição de peticionários ou a sua discussão na Assembleia da República. As notícias 1, 2, 6, 10 e 18 mencionam questões ambientais, mas não diretamente relacionadas com a remoção de areia ou a preservação da praia de Albarquel. A cobertura evoluiu com discussões sobre políticas de habitação, alterações legislativas e responsabilidades governamentais, mas não inclui atualizações sobre a petição específica."
   },
   "2026-12-10-48728-plen-rio-15-00": {
    "titulo": "Plenário — 15:00",
@@ -1815,13 +1815,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 22
+    "encontradas": 24
    },
    "base": {
     "ultima": "2026-11-27 15:48",
     "em": "2026-11-27"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "Durante 60 dias, a cobertura mediática focou-se na recusa do Governo em implementar medidas aprovadas no Orçamento de Estado para 2027, nomeadamente a redução do IVA dos alimentos e a atualização das pensões. As notícias detalham declarações do Primeiro-Ministro Luís Montenegro, que afirmou que o Governo não iria executar certas medidas aprovadas pelo Parlamento, como o IVA zero sobre bens alimentares essenciais e a alteração do IRS sobre rendas moderadas. A cobertura evoluiu de uma discussão sobre a viabilidade destas medidas para um debate sobre a legitimidade do Governo para não as executar, com críticas da oposição e questões levantadas por constitucionalistas. O debate na Assembleia da República, agendado para 3 de dezembro, visa apurar responsabilidades e exigir explicações sobre a falta de execução destas medidas."
   },
   "2026-12-03-48781-ministra-da-sa-de-instituto-nacional-de-eme": {
@@ -1838,9 +1838,9 @@
      "data": "2026-09-30",
      "fonte": "Observador",
      "url": "https://observador.pt/2026/09/30/idosa-de-92-anos-morreu-afogada-numa-piscina-interior-de-um-lar-em-mogadouro/",
-     "sintese": "O INEM e os bombeiros de Mogadouro intervieram num incidente de afogamento de uma idosa de 92 anos num lar, após o alerta ser dado às 9h08. As circunstâncias do incidente são desconhecidas.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Uma idosa de 92 anos morreu afogada numa piscina de um lar em Mogadouro, onde o INEM e bombeiros intervieram após o alerta das 9h08.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-07",
@@ -1854,7 +1854,7 @@
      "data": "2026-10-23",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/10/23/orcamento-do-inem-aumenta-30-com-novos-seguros-obrigatorios/",
-     "sintese": "O orçamento do INEM aumenta 30% em 2027, para 330,9 milhões de euros, com novas receitas provenientes do alargamento da obrigatoriedade de contratação de seguros.",
+     "sintese": "O orçamento do INEM aumenta 30% com novos seguros obrigatórios, prevendo um reforço financeiro de 330,9 milhões de euros em 2027.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -1862,23 +1862,23 @@
      "data": "2026-10-29",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/especiais/kit-de-emergencia-para-combater-o-aumento-do-custo-de-vida/",
-     "sintese": "O INEM registou mais de 6.700 casos suspeitos de AVC este ano, uma média de 26 situações por dia, números que têm vindo a aumentar desde 2024.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "Em setembro, os combustíveis ficaram 15,3% mais caros, segundo o INE, e o custo de vida é um tema de preocupação.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-29",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/inem-regista-uma-media-de-26-casos-suspeitos-de-avc-por-dia-este-ano_n1775224",
-     "sintese": "Em setembro, os combustíveis ficaram 15,3% mais caros, segundo o INE, e o INEM registou um aumento no número de casos suspeitos de AVC.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
+     "sintese": "O INEM registou mais de 6.700 casos suspeitos de AVC este ano, uma média de 26 situações por dia, desde janeiro.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
     },
     {
      "data": "2026-10-30",
      "fonte": "Healthnews",
      "url": "https://healthnews.pt/2026/10/30/avc-inem-sinalizou-mais-de-6-700-suspeitas-desde-janeiro/#utm_source=rss&utm_medium=rss&utm_campaign=avc-inem-sinalizou-mais-de-6-700-suspeitas-desde-janeiro",
-     "sintese": "O INEM registou 6.714 casos suspeitos de AVC entre janeiro e 15 de outubro, uma média de 26 por dia, com Lisboa e Porto a concentrarem o maior número de ativações da Via Verde.",
+     "sintese": "O INEM registou 6.714 casos suspeitos de AVC entre 1 de janeiro e 15 de outubro, uma média de 26 por dia, com Lisboa e Porto como principais centros de ativação da Via Verde.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -1889,18 +1889,26 @@
      "sintese": "O INEM deverá receber 313 milhões de euros de receitas de seguros em 2027, mais 117,5 milhões do que os 195,5 milhões de euros de execução estimada para 2026.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-20",
+     "fonte": "ECO",
+     "url": "https://eco.sapo.pt/2026/11/20/protecao-civil-alerta-para-chuva-e-ventos-fortes-sobretudo-no-norte-e-centro/",
+     "sintese": "A Proteção Civil alerta para chuva e ventos fortes no Norte e Centro, podendo provocar cheias, embora não diretamente relacionada com o INEM.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
-    "analisadas": 7,
-    "encontradas": 7
+    "analisadas": 8,
+    "encontradas": 8
    },
    "base": {
-    "ultima": "2026-10-31 06:35",
-    "em": "2026-11-27"
+    "ultima": "2026-11-20 19:56",
+    "em": "2026-11-28"
    },
    "novas": 0,
-   "enquadramento": "O INEM, I.P. interveveu em 1 incidente de afogamento de uma idosa de 92 anos num lar, enquanto o Parlamento tem em curso duas comissões de inquérito sobre o instituto. O orçamento do INEM deverá aumentar 30% em 2027, com novas receitas provenientes de seguros obrigatórios."
+   "enquadramento": "O INEM, I.P. interveveu em incidentes de emergência médica, como a afogamento de uma idosa num lar em Mogadouro. O instituto regista uma média de 26 casos suspeitos de AVC por dia e deverá receber receitas de seguros de 313 milhões de euros em 2027."
   },
   "2026-12-04-48730-equil-brio-de-g-nero-em-cargos-dirigentes": {
    "titulo": "Equilíbrio de género em cargos dirigentes",
@@ -2096,13 +2104,13 @@
    ],
    "amostra": {
     "analisadas": 20,
-    "encontradas": 39
+    "encontradas": 41
    },
    "base": {
     "ultima": "2026-11-27 16:16",
     "em": "2026-11-27"
    },
-   "novas": 0,
+   "novas": 2,
    "enquadramento": "A cobertura noticiosa de 60 dias revelou um foco crescente em alterações fiscais, particularmente no IRS, com destaque para a promulgação de um diploma que reduz as taxas para os primeiros seis escalões de rendimento pelo Presidente da República, António José Seguro. Este diploma, noticiado a 20 de outubro de 2026, representa uma medida relevante diretamente relacionada com a matéria em discussão na Assembleia da República. Outras notícias, como a discussão de projetos de lei sobre capacetes para trotinetes e bicicletas elétricas, ou a apresentação de medidas para advogados em caso de doença, luto ou parentalidade, foram consideradas fora do âmbito desta matéria. A cobertura não incluiu quaisquer notícias que criticassem diretamente o regime fiscal para pensionistas emigrantes, mas a discussão de projetos de lei relevantes no IRS demonstra um interesse contínuo em alterações fiscais que poderiam afetar este grupo."
   },
   "2026-12-02-48820-inc-ndios-rurais": {
@@ -2116,80 +2124,64 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-10-07",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/07/politica/noticia/comissoes-inquerito-exames-nacionais-luis-neves-instaladas-dias-14-2190542",
-     "sintese": "O Chega, liderado por André Ventura, assume a liderança da CPI a Luís Neves e denuncia bloqueios ao processo de constituição da comissão.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
      "data": "2026-10-14",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/pais/ventura-assume-lideranca-da-cpi-a-luis-neves-e-denuncia-bloqueios_v1771728",
-     "sintese": "Ventura preside à CPI a Luís Neves e deverá responder a questões dos deputados, admitindo ter sentido condicionamentos ao longo do processo.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/incio-da-cpi-a-lus-neves-ventura-e-aguiar-branco-divergem-sobre-bloqueios-e-livre-quer-ouvir-lder-do-chega",
+     "sintese": "A divergência entre Ventura e Aguiar-Branco sobre bloqueios e a CPI a Luís Neves são mencionados.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-23",
      "fonte": "Observador",
      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1795/",
-     "sintese": "O Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves, incluindo a ministra da Justiça Rita Alarcão Júdice.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O Chega propõe ouvir mais de 50 pessoas na CPI a Luís Neves, incluindo a ministra da Justiça.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-27",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/10/27/cpi-a-luis-neves-aprova-audicao-de-montenegro-costa-e-ventura-mas-rejeita-a-de-marcelo/",
-     "sintese": "A CPI a Luís Neves aprova a audição de Luís Montenegro, António Costa e André Ventura, mas rejeita a de Marcelo Rebelo de Sousa.",
+     "sintese": "A CPI a Luís Neves aprova a audição de Montenegro, Costa e Ventura, mas rejeita a de Marcelo.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-24",
-     "fonte": "SAPO Tek",
-     "url": "https://tek.sapo.pt/noticias/artigos/construcao-do-space-hub-em-santa-maria-avanca-em-2027-futura-base-espacial-da-forca-aerea-levanta-duvidas-e-criticas/",
-     "sintese": "A CPI a Luís Neves suspende os trabalhos até 26 de novembro.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-25",
-     "fonte": "SIC Notícias",
-     "url": "https://sicnoticias.pt/mundo/europa/2026-11-25-forca-aerea-real-britanica-reforca-protecao-de-aeronaves-face-a-possiveis-ameacas-russas-a1b8b0c7",
-     "sintese": "A construção do Space Hub em Santa Maria avança em 2027, levantando dúvidas e críticas.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-26",
      "fonte": "Diário de Notícias",
      "url": "https://www.dn.pt/economia/opo-de-aeroporto-de-santarm-em-risco-devido-a-plataforma-logstica",
-     "sintese": "A Força Aérea Real britânica transfere aeronaves para hangares devido a possíveis ameaças de drones russos.",
+     "sintese": "A opção de aeroporto de Santarém é mencionada num contexto de plataforma logística.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-11-27",
-     "fonte": "Renascença",
-     "url": "https://rr.pt/noticia/mundo/2026/11/27/nuvem-da-forca-aerea-dos-eua-alvo-de-ataque-informatico/495366/",
-     "sintese": "A opção de aeroporto de Santarém está em risco devido a uma plataforma logística.",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/11/27/enter/noticia/hackers-invadem-principal-plataforma-computacao-nuvem-forca-aerea-eua-2196542",
+     "sintese": "Hackers invadem a plataforma de computação na nuvem da Força Aérea dos EUA.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-28",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/mundo/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana_n1782183",
+     "sintese": "Ciberataque atinge a infraestrutura digital da Força Aérea norte-americana.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
-    "analisadas": 8,
-    "encontradas": 313
+    "analisadas": 6,
+    "encontradas": 323
    },
    "base": {
-    "ultima": "2026-11-27 11:44",
-    "em": "2026-11-27"
+    "ultima": "2026-11-28 11:51",
+    "em": "2026-11-28"
    },
    "novas": 0,
-   "enquadramento": "A comissão parlamentar discute as atas das audições anteriores e agenda uma nova audição com um alto oficial militar. A CPI a Luís Neves, liderada por André Ventura, está a investigar os mandatos de Luís Neves à frente da Polícia Judiciária."
+   "enquadramento": "Em 60 dias, foram noticiados eventos diversos, incluindo a discussão de temas de transportes, uma comissão de inquérito sobre a Polícia Judiciária e a segurança da Força Aérea. Não existe informação específica sobre incêndios rurais nesta amostra."
   },
   "2026-12-02-48819-classifica-o-digital-dos-exames-nacionais-2": {
    "titulo": "Classificação digital dos exames nacionais 2025-2026",
@@ -2371,7 +2363,7 @@
      "data": "2026-10-14",
      "fonte": "Expresso",
      "url": "https://expresso.pt/justica/2026-10-14-bancos-carregosa-e-banco-angolano-de-investimento-alvos-de-buscas-da-policia-judiciaria-e-da-autoridade-tributaria-1e88b946?utm_source=expresso&utm_medium=content&utm_campaign=WEB&utm_content=/justica/2026-10-14-bancos-carregosa-e-banco-angolano-de-investimento-alvos-de-buscas-da-policia-judiciaria-e-da-autoridade-tributaria-1e88b946",
-     "sintese": "A Polícia Judiciária realizou buscas em bancos Carregosa e Banco Angolano de Investimento, no âmbito de investigações criminais, demonstrando a sua atuação em operações de combate à criminalidade financeira.",
+     "sintese": "A Polícia Judiciária realizou buscas em bancos Carregosa e Banco Angolano de Investimento, e a Autoridade Tributária participou nas operações.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2379,7 +2371,7 @@
      "data": "2026-10-20",
      "fonte": "Jornal Económico",
      "url": "https://jornaleconomico.sapo.pt/noticias/policia-judiciaria-e-um-pilar-da-democracia-diz-presidente-na-celebracao-do-81o-aniversario/",
-     "sintese": "O Presidente da República elogiou a Polícia Judiciária, destacando a sua evolução e adaptação às novas formas de criminalidade, reforçando a sua importância para a democracia.",
+     "sintese": "O Presidente da República elogiou a Polícia Judiciária, afirmando que soube evoluir e adaptar-se às transformações da sociedade.",
      "natureza": "positivo",
      "naturezaLabel": "Positiva"
     },
@@ -2387,15 +2379,7 @@
      "data": "2026-11-04",
      "fonte": "Público",
      "url": "https://www.publico.pt/2026/11/04/sociedade/noticia/alvaro-pires-afastado-cargo-director-financeiro-policia-judiciaria-2193694",
-     "sintese": "Álvaro Pires foi afastado do cargo de diretor financeiro da Polícia Judiciária, indicando uma mudança na gestão interna da instituição.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
-    },
-    {
-     "data": "2026-11-21",
-     "fonte": "Diário de Notícias",
-     "url": "https://www.dn.pt/sociedade/polcia-judiciria-detm-assistente-tcnico-do-laboratrio-de-polcia-cientfica",
-     "sintese": "A Polícia Judiciária deteve um assistente técnico do Laboratório de Polícia Científica, no âmbito de uma investigação criminal, demonstrando a sua capacidade de investigação e recolha de provas.",
+     "sintese": "Álvaro Pires foi afastado do cargo de diretor financeiro da Polícia Judiciária.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2403,7 +2387,7 @@
      "data": "2026-11-23",
      "fonte": "CNN Portugal",
      "url": "https://cnnportugal.iol.pt/crime/pj/tecnico-de-laboratorio-da-policia-judiciaria-detido-esta-indiciado-por-mais-de-200-crimes/20261123/6b048a1c0cf2c0fc744b747f",
-     "sintese": "Um técnico de laboratório da Polícia Judiciária foi indiciado por mais de 200 crimes, evidenciando a complexidade e gravidade das investigações conduzidas pela instituição.",
+     "sintese": "Um técnico de laboratório da Polícia Judiciária foi detido e indiciado por mais de 200 crimes.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2411,7 +2395,7 @@
      "data": "2026-11-26",
      "fonte": "Correio da Manhã",
      "url": "https://www.cmjornal.pt/portugal/detalhe/policia-judiciaria-investiga-morte-de-bebe-em-tanque",
-     "sintese": "A Polícia Judiciária investigou a morte de um bebé num tanque, demonstrando a sua atuação em casos de investigação criminal complexos e sensíveis.",
+     "sintese": "A Polícia Judiciária investiga a morte de um bebé num tanque.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     },
@@ -2419,21 +2403,29 @@
      "data": "2026-11-27",
      "fonte": "RTP Notícias",
      "url": "https://www.rtp.pt/noticias/pais/homem-de-22-anos-detido-em-viseu-por-coacao-sexual-e-pornografia-de-menores_n1782008",
-     "sintese": "A Polícia Judiciária deteve um homem de 22 anos em Viseu por coação sexual e pornografia de menores, evidenciando a sua atuação no combate a crimes contra menores.",
+     "sintese": "Um homem de 22 anos foi detido em Viseu por coação sexual e pornografia de menores.",
+     "natureza": "relevante",
+     "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-28",
+     "fonte": "Correio da Manhã",
+     "url": "https://www.cmjornal.pt/portugal/amp/111-elementos-sairam-da-psp-para-a-policia-judiciaria-em-cinco-anos",
+     "sintese": "111 elementos da PSP saíram para a Polícia Judiciária em cinco anos.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
     }
    ],
    "amostra": {
     "analisadas": 7,
-    "encontradas": 142
+    "encontradas": 145
    },
    "base": {
-    "ultima": "2026-11-27 09:50",
-    "em": "2026-11-27"
+    "ultima": "2026-11-28 00:30",
+    "em": "2026-11-28"
    },
    "novas": 0,
-   "enquadramento": "A Polícia Judiciária esteve envolvida em várias operações de investigação, incluindo buscas a bancos e detenções relacionadas com crimes financeiros e de pornografia de menores. A atuação da Polícia Judiciária foi também elogiada pelo Presidente da República."
+   "enquadramento": "A Polícia Judiciária esteve envolvida em várias operações, incluindo buscas a bancos e investigações de crimes graves, e a sua atuação foi elogiada pelo Presidente da República. A comissão parlamentar investiga a atuação de Luís Neves como diretor da Polícia Judiciária entre 2018 e 2026."
   },
   "2026-12-03-48803-ministro-da-educa-o-ci-ncia-e-inova-o-ferna": {
    "titulo": "Ministro da Educação, Ciência e Inovação, Fernando Alexandre: Programa FCT-Tenure e Aliança Ciência",
@@ -2532,18 +2524,10 @@
    "tabelas": [],
    "fundo": [
     {
-     "data": "2026-10-07",
-     "fonte": "Público",
-     "url": "https://www.publico.pt/2026/10/07/politica/noticia/comissoes-inquerito-exames-nacionais-luis-neves-instaladas-dias-14-2190542",
-     "sintese": "A CPI aos exames e a Luís Neves instalada no dia 14, Ventura quer audições rapidamente. O líder do Chega, André Ventura, assume a presidência da comissão e denuncia bloqueios no processo de constituição.",
-     "natureza": "contexto",
-     "naturezaLabel": "Contextual"
-    },
-    {
      "data": "2026-10-14",
-     "fonte": "RTP Notícias",
-     "url": "https://www.rtp.pt/noticias/pais/ventura-assume-lideranca-da-cpi-a-luis-neves-e-denuncia-bloqueios_v1771728",
-     "sintese": "Ventura assume liderança da CPI a Luís Neves e denuncia bloqueios — André Ventura preside a Comissão Parlamentar de Inquérito a Luís Neves e deverá ser um dos deputados a responder às questões. O presidente do Chega admite ter sentido condicionamentos ao longo todo o processo de constituição da CPI.",
+     "fonte": "Dinheiro Vivo",
+     "url": "https://www.dn.pt/pol%C3%ADtica/incio-da-cpi-a-lus-neves-ventura-e-aguiar-branco-divergem-sobre-bloqueios-e-livre-quer-ouvir-lder-do-chega",
+     "sintese": "A divergência entre Ventura e Aguiar-Branco sobre bloqueios e a CPI a Luís Neves é mencionada, mas não está relacionada com incêndios rurais.",
      "natureza": "contexto",
      "naturezaLabel": "Contextual"
     },
@@ -2551,29 +2535,61 @@
      "data": "2026-10-23",
      "fonte": "Observador",
      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1795/",
-     "sintese": "Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves — Além de António Costa, o Chega quer ouvir a atual ministra da Justiça, Rita Alarcão Júdice, entre outros.",
-     "natureza": "relevante",
-     "naturezaLabel": "Relevante"
+     "sintese": "O Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves, mas não há menção direta a incêndios rurais.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     },
     {
      "data": "2026-10-27",
      "fonte": "ECO",
      "url": "https://eco.sapo.pt/2026/10/27/cpi-a-luis-neves-aprova-audicao-de-montenegro-costa-e-ventura-mas-rejeita-a-de-marcelo/",
-     "sintese": "CPI a Luís Neves aprova audição de Montenegro, Costa e Ventura, mas rejeita a de Marcelo — A comissão parlamentar de inquérito aos mandatos de Luís Neves à frente da Polícia Judiciária (PJ) aprovou a audição de Luís Montenegro e António Costa, bem como do líder do Chega, André Ventura. Já o pedido para ouvir Marcelo Rebelo de Sousa foi rejeitado. Os trabalhos ficam suspensos até 26 de nov.",
+     "sintese": "A CPI a Luís Neves aprova a audição de Montenegro, Costa e Ventura, mas não há menção direta a incêndios rurais.",
      "natureza": "relevante",
      "naturezaLabel": "Relevante"
+    },
+    {
+     "data": "2026-11-25",
+     "fonte": "SIC Notícias",
+     "url": "https://sicnoticias.pt/mundo/europa/2026-11-25-forca-aerea-real-britanica-reforca-protecao-de-aeronaves-face-a-possiveis-ameacas-russas-a1b8b0c7",
+     "sintese": "A Força Aérea Real britânica transfere aeronaves para hangares devido a possíveis ameaças de drones russos, não estando relacionada com incêndios rurais.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-26",
+     "fonte": "Diário de Notícias",
+     "url": "https://www.dn.pt/economia/opo-de-aeroporto-de-santarm-em-risco-devido-a-plataforma-logstica",
+     "sintese": "A opção de aeroporto de Santarém está em risco devido a uma plataforma logística, não estando relacionada com incêndios rurais.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-27",
+     "fonte": "Público",
+     "url": "https://www.publico.pt/2026/11/27/enter/noticia/hackers-invadem-principal-plataforma-computacao-nuvem-forca-aerea-eua-2196542",
+     "sintese": "Hackers invadem a principal plataforma de computação na 'nuvem' da Força Aérea dos EUA, não estando relacionada com incêndios rurais.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
+    },
+    {
+     "data": "2026-11-28",
+     "fonte": "RTP Notícias",
+     "url": "https://www.rtp.pt/noticias/mundo/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana_n1782183",
+     "sintese": "Ciberataque atinge a infraestrutura digital da Força Aérea norte-americana, não estando relacionada com incêndios rurais.",
+     "natureza": "contexto",
+     "naturezaLabel": "Contextual"
     }
    ],
    "amostra": {
-    "analisadas": 4,
-    "encontradas": 318
+    "analisadas": 7,
+    "encontradas": 328
    },
    "base": {
-    "ultima": "2026-11-27 11:44",
+    "ultima": "2026-11-28 11:51",
     "em": "2026-11-28"
    },
    "novas": 0,
-   "enquadramento": "A Comissão Parlamentar de Inquérito a Luís Neves, liderada por André Ventura, está a investigar a gestão de recursos e operações durante os incêndios rurais, com o objetivo de apurar responsabilidades e falhas na resposta a estes eventos. A audição do antigo comandante da Logística da Força Aérea, agendada para 3 de dezembro, é um dos momentos centrais desta investigação."
+   "enquadramento": "Durante 60 dias, foram noticiados eventos relacionados com a Força Aérea, incluindo a transferência de aeronaves devido a ameaças de drones russos, a opção de aeroporto de Santarém em risco devido a uma plataforma logística e ciberataques à infraestrutura digital da Força Aérea norte-americana. A comissão parlamentar de inquérito aos mandatos de Luís Neves à frente da Polícia Judiciária (PJ) também esteve em foco, com audições de figuras políticas."
   }
  },
  "destaques": [
@@ -2616,34 +2632,46 @@
     "Proposta de Lei n.º 110/XVII"
    ],
    "cobertura": {
-    "n": 365,
-    "n7": 59,
-    "n7ant": 38,
+    "n": 368,
+    "n7": 61,
+    "n7ant": 39,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "expressoes",
-    "ultima": "2026-11-27 11:30",
+    "ultima": "2026-11-28 15:17",
     "ultimas": [
+     {
+      "data": "2026-11-28",
+      "fonte": "RTP Notícias",
+      "titulo": "Mariana Leitão critica Governo por falta de liderança do país",
+      "url": "https://www.rtp.pt/noticias/politica/mariana-leitao-critica-governo-por-falta-de-lideranca-do-pais_n1782226"
+     },
+     {
+      "data": "2026-11-28",
+      "fonte": "Observador",
+      "titulo": "2h. OE 2027. Ventura diz que não vai adensar crise política",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2482/"
+     },
      {
       "data": "2026-11-27",
       "fonte": "Jornal de Negócios",
       "titulo": "Luís Leon: \"Um país não morre por um ou dois meses de duodécimos”",
       "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/luis-leon-um-pais-nao-morre-por-um-ou-dois-meses-de-duodecimos"
-     },
-     {
-      "data": "2026-11-26",
-      "fonte": "ECO",
-      "titulo": "Moção de confiança, detalhes regimentais e Constitucional: o conflito institucional em três ‘takes’",
-      "url": "https://eco.sapo.pt/2026/11/26/mocao-de-confianca-detalhes-regimentais-e-constitucional-o-conflito-institucional-em-tres-takes/"
-     },
-     {
-      "data": "2026-11-26",
-      "fonte": "TSF",
-      "titulo": "Pedro Neto: OE 2027",
-      "url": "https://www.tsf.pt/programa/tem-a-palavra?ep=18152647"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 15:17",
+      "RTP Notícias",
+      "Mariana Leitão critica Governo por falta de liderança do país",
+      "https://www.rtp.pt/noticias/politica/mariana-leitao-critica-governo-por-falta-de-lideranca-do-pais_n1782226"
+     ],
+     [
+      "2026-11-28 02:14",
+      "Observador",
+      "2h. OE 2027. Ventura diz que não vai adensar crise política",
+      "https://observador.pt/programas/noticiario/as-noticias-das-2h-2482/"
+     ],
      [
       "2026-11-27 11:30",
       "Jornal de Negócios",
@@ -3031,14 +3059,14 @@
      [
       "2026-11-20 18:01",
       "Público",
-      "OE 2027: sete medidas da oposição aprovadas à revelia da AD",
+      "OE 2027: Sete medidas da oposição aprovadas à revelia da AD",
       "https://www.publico.pt/2026/11/19/politica/noticia/pensoes-habitacao-funcao-publica-medidas-oposicao-aprovadas-revelia-ad-2195500"
      ],
      [
-      "2026-11-20 15:19",
-      "Sábado",
-      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas Governo \"mantém-se firme\"",
-      "https://www.sabado.pt/portugal/detalhe/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme"
+      "2026-11-20 16:41",
+      "ECO",
+      "Parlamento aprova congelamento das propinas do ensino superior contra a vontade do Governo",
+      "https://eco.sapo.pt/2026/11/20/parlamento-aprova-congelamento-das-propinas-do-ensino-superior-contra-a-vontade-do-governo/"
      ],
      [
       "2026-11-20 13:40",
@@ -3047,22 +3075,16 @@
       "https://www.publico.pt/2026/11/20/politica/noticia/montenegro-acusa-oposicao-aprovar-medidas-carte-afasta-crise-politica-2195693"
      ],
      [
-      "2026-11-20 12:23",
-      "Executive Digest",
-      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
-      "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
-     ],
-     [
-      "2026-11-20 11:28",
+      "2026-11-20 12:58",
       "ECO",
       "“Aqueles que veem nisto um caminho para uma crise política estão a ver mal o assunto”, afirma Montenegro",
       "https://eco.sapo.pt/2026/11/20/aqueles-que-veem-nisto-um-caminho-para-uma-crise-politica-estao-a-ver-mal-o-assunto-afirma-montenegro/"
      ],
      [
-      "2026-11-20 11:09",
-      "ECO",
-      "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
-      "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
+      "2026-11-20 12:23",
+      "Executive Digest",
+      "OE 2027: Montenegro acusa oposição de irresponsabilidade mas governo \"mantém-se firme\"",
+      "https://executivedigest.sapo.pt/oe-2027-montenegro-acusa-oposicao-de-irresponsabilidade-mas-governo-mantem-se-firme/"
      ],
      [
       "2026-11-20 10:07",
@@ -3074,13 +3096,25 @@
       "2026-11-20 07:40",
       "Renascença",
       "Greve na função pública. \"Trabalhadores vão perder dia de salário a lutar\" por alterações no OE 2027",
-      "https://rr.pt/noticia/pais/2026/11/20/greve-na-funcao-publica-trabalhadores-vao-perder-dia-de-salario-a-lutar-por-alteracoes-no-oe-2027/494354/"
+      "https://rr.pt/noticia/pais/2026/11/20/greve-na-funcao-publica-trabalhadores-vao-perder-dia-de-salario-a-lutar-por-alteracoes-no-oe-2027/494354/?utm_source=cxultimas"
      ],
      [
       "2026-11-20 07:27",
       "Jornal Económico",
       "OE2027: Protocolo entre bombeiros voluntários, INEM e Proteção Civil revisto para cobrir pagamentos",
       "https://jornaleconomico.sapo.pt/noticias/oe2027-protocolo-entre-bombeiros-voluntarios-inem-e-protecao-civil-revisto-para-cobrir-pagamentos/"
+     ],
+     [
+      "2026-11-20 02:07",
+      "ECO",
+      "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
+      "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/"
+     ],
+     [
+      "2026-11-20 01:12",
+      "ECO",
+      "PS e Chega aprovam IVA Zero. Benefícios fiscais das rendas moderadas caem",
+      "https://eco.sapo.pt/2026/11/20/ps-e-chega-aprovam-iva-zero-beneficios-fiscais-das-rendas-moderadas-caem/"
      ],
      [
       "2026-11-19 22:27",
@@ -4892,39 +4926,57 @@
     "Código do IRS"
    ],
    "cobertura": {
-    "n": 39,
-    "n7": 10,
-    "n7ant": 3,
+    "n": 41,
+    "n7": 13,
+    "n7ant": 2,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "expressoes",
-    "ultima": "2026-11-27 16:16",
+    "ultima": "2026-11-27 22:14",
     "ultimas": [
+     {
+      "data": "2026-11-27",
+      "fonte": "Observador",
+      "titulo": "22h. IVA Zero. PS não vai apoiar o projeto de lei do Chega",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1906/"
+     },
+     {
+      "data": "2026-11-27",
+      "fonte": "Notícias ao Minuto",
+      "titulo": "Depois do Chega, JPP apresenta projeto de lei para aplicar IVA zero",
+      "url": "https://www.noticiasaominuto.com/economia/3091485/jpp-avanca-com-projeto-para-fixar-alimentos-com-iva-zero-e-recupera-lista-de-governo-de-costa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     },
      {
       "data": "2026-11-27",
       "fonte": "Observador",
       "titulo": "16h. IVA Zero. Chega apresenta projeto de lei",
       "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2428/"
-     },
-     {
-      "data": "2026-11-27",
-      "fonte": "ECO",
-      "titulo": "Chega entrega projeto de lei para aplicar ‘IVA zero’ ao mesmo cabaz alimentar de 2023",
-      "url": "https://eco.sapo.pt/2026/11/27/chega-apresenta-projeto-de-lei-para-aplicar-iva-zero-ao-mesmo-cabaz-alimentar-de-2023/"
-     },
-     {
-      "data": "2026-11-27",
-      "fonte": "Jornal de Negócios",
-      "titulo": "Chega avança com projeto de lei para aplicar IVA zero ao mesmo cabaz alimentar de 2023",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/chega-avanca-com-projeto-de-lei-para-aplicar-iva-zero-ao-mesmo-cabaz-alimentar-de-2023"
      }
     ],
     "todas": [
+     [
+      "2026-11-27 22:14",
+      "Observador",
+      "22h. IVA Zero. PS não vai apoiar o projeto de lei do Chega",
+      "https://observador.pt/programas/noticiario/as-noticias-das-22h-1906/"
+     ],
+     [
+      "2026-11-27 18:12",
+      "Notícias ao Minuto",
+      "Depois do Chega, JPP apresenta projeto de lei para aplicar IVA zero",
+      "https://www.noticiasaominuto.com/economia/3091485/jpp-avanca-com-projeto-para-fixar-alimentos-com-iva-zero-e-recupera-lista-de-governo-de-costa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-27 16:16",
       "Observador",
       "16h. IVA Zero. Chega apresenta projeto de lei",
       "https://observador.pt/programas/noticiario/as-noticias-das-16h-2428/"
+     ],
+     [
+      "2026-11-27 15:52",
+      "Expresso",
+      "Chega apresenta projeto de lei para aplicar IVA zero ao mesmo cabaz alimentar de 2023",
+      "https://expresso.pt/partidos-politicos/2026-11-27-chega-apresenta-projeto-de-lei-para-aplicar-iva-zero-ao-mesmo-cabaz-alimentar-de-2023-90bd9520"
      ],
      [
       "2026-11-27 15:48",
@@ -4991,12 +5043,6 @@
       "RTP Notícias",
       "Senado dos EUA aprova lei para facilitar realização de grandes projetos energéticos",
       "https://www.rtp.pt/noticias/economia/senado-dos-eua-aprova-lei-para-facilitar-realizacao-de-grandes-projetos-energeticos_n1780389"
-     ],
-     [
-      "2026-11-20 05:29",
-      "Correio da Manhã",
-      "Senado dos EUA aprova lei para facilitar realização de grandes projetos energéticos",
-      "https://www.cmjornal.pt/mundo/amp/senado-dos-eua-aprova-lei-para-facilitar-realizacao-de-grandes-projetos-energeticos"
      ],
      [
       "2026-11-10 08:01",
@@ -5306,14 +5352,20 @@
    ],
    "varrimento": "2026-12-02-48776-comiss-o-de-ambiente-e-energia",
    "cobertura": {
-    "n": 150,
-    "n7": 7,
+    "n": 151,
+    "n7": 8,
     "n7ant": 25,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "expressoes",
-    "ultima": "2026-11-27 11:20",
+    "ultima": "2026-11-28 08:00",
     "ultimas": [
+     {
+      "data": "2026-11-28",
+      "fonte": "SIC Notícias",
+      "titulo": "Alterações climáticas deixam crias de ouriço-cacheiro sem condições para sobreviver ao inverno",
+      "url": "https://sicnoticias.pt/especiais/alteracoes-climaticas/2026-11-28-video-alteracoes-climaticas-deixam-crias-de-ourico-cacheiro-sem-condicoes-para-sobreviver-ao-inverno-e9536156?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/especiais/alteracoes-climaticas/2026-11-28-video-alteracoes-climaticas-deixam-crias-de-ourico-cacheiro-sem-condicoes-para-sobreviver-ao-inverno-e9536156"
+     },
      {
       "data": "2026-11-27",
       "fonte": "Ambiente Magazine",
@@ -5325,15 +5377,15 @@
       "fonte": "Agroportal",
       "titulo": "Alterações climáticas, pressões sobre as margens e rastreabilidade: GS1 Portugal lança Comunidade Local Hortofrutícola para apoiar o setor",
       "url": "https://www.agroportal.pt/alteracoes-climaticas-pressoes-sobre-as-margens-e-rastreabilidade-gs1-portugal-lanca-comunidade-local-hortofruticola-para-apoiar-o-setor/"
-     },
-     {
-      "data": "2026-11-24",
-      "fonte": "Healthnews",
-      "titulo": "CPSA quer saúde integrada na adaptação às alterações climáticas",
-      "url": "https://healthnews.pt/2026/11/24/cpsa-quer-saude-integrada-na-adaptacao-as-alteracoes-climaticas/"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 08:00",
+      "SIC Notícias",
+      "Alterações climáticas deixam crias de ouriço-cacheiro sem condições para sobreviver ao inverno",
+      "https://sicnoticias.pt/especiais/alteracoes-climaticas/2026-11-28-video-alteracoes-climaticas-deixam-crias-de-ourico-cacheiro-sem-condicoes-para-sobreviver-ao-inverno-e9536156?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/especiais/alteracoes-climaticas/2026-11-28-video-alteracoes-climaticas-deixam-crias-de-ourico-cacheiro-sem-condicoes-para-sobreviver-ao-inverno-e9536156"
+     ],
      [
       "2026-11-27 11:20",
       "Ambiente Magazine",
@@ -6348,39 +6400,159 @@
    ],
    "varrimento": "2026-12-03-48777-audi-o-de-peticion-rios-relator-deputado-pe",
    "cobertura": {
-    "n": 1155,
-    "n7": 144,
-    "n7ant": 132,
+    "n": 1173,
+    "n7": 164,
+    "n7ant": 130,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "palavras",
-    "ultima": "2026-11-27 16:20",
+    "ultima": "2026-11-28 14:54",
     "ultimas": [
      {
-      "data": "2026-11-27",
+      "data": "2026-11-28",
+      "fonte": "Diário de Notícias da Madeira",
+      "titulo": "PSD defende IRS mínimo para reforçar rendimento disponível das famílias",
+      "url": "https://www.dnoticias.pt/2026/11/28/514610-psd-defende-irs-minimo-para-reforcar-rendimento-disponivel-das-familias/"
+     },
+     {
+      "data": "2026-11-28",
       "fonte": "JM Madeira",
-      "titulo": "PSD destaca contributo do 25 de Novembro para a consolidação da democracia",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010287/psd-destaca-contributo-do-25-de-novembro-para-a-consolidacao-da-democracia.html"
+      "titulo": "PSD sublinha IRS mínimo para aumentar rendimentos",
+      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010332/psd-sublinha-irs-minimo-para-aumentar-rendimentos.html"
      },
      {
-      "data": "2026-11-27",
-      "fonte": "Observador",
-      "titulo": "Arouca diminui orçamento municipal com vista a \"equilíbrio\"",
-      "url": "https://observador.pt/2026/11/27/arouca-diminui-orcamento-municipal-para-396-milhoes-de-euros-com-vista-a-equilibrio/"
-     },
-     {
-      "data": "2026-11-27",
-      "fonte": "Observador",
-      "titulo": "Luís Montenegro revela \"tiques totalitários\"?",
-      "url": "https://observador.pt/programas/explicador/luis-montenegro-revela-tiques-totalitarios/"
+      "data": "2026-11-28",
+      "fonte": "JM Madeira",
+      "titulo": "Francisco Gomes acusa PS e PSD de \"destruírem a habitação\"",
+      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010331/francisco-gomes-acusa-ps-e-psd-de-destruirem-a-habitacao.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 14:54",
+      "Diário de Notícias da Madeira",
+      "PSD defende IRS mínimo para reforçar rendimento disponível das famílias",
+      "https://www.dnoticias.pt/2026/11/28/514610-psd-defende-irs-minimo-para-reforcar-rendimento-disponivel-das-familias/"
+     ],
+     [
+      "2026-11-28 14:45",
+      "JM Madeira",
+      "PSD sublinha IRS mínimo para aumentar rendimentos",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010332/psd-sublinha-irs-minimo-para-aumentar-rendimentos.html"
+     ],
+     [
+      "2026-11-28 14:19",
+      "JM Madeira",
+      "Francisco Gomes acusa PS e PSD de \"destruírem a habitação\"",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010331/francisco-gomes-acusa-ps-e-psd-de-destruirem-a-habitacao.html"
+     ],
+     [
+      "2026-11-28 13:02",
+      "JM Madeira",
+      "Mobilidade Aérea: JPP vai confrontar primeiro-ministro após chumbo do PSD/CDS e abstenção do PS",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010325/mobilidade-aerea-jpp-vai-confrontar-primeiro-ministro-apos-chumbo-do-psd-cds-e-abstencao-do-ps.html"
+     ],
+     [
+      "2026-11-28 12:32",
+      "Observador",
+      "Eleições Espanha. \"Viragem à direita dará mais estabilidade\"",
+      "https://observador.pt/programas/explicador/eleicoes-espanha-viragem-a-direita-dara-mais-estabilidade/"
+     ],
+     [
+      "2026-11-28 09:54",
+      "Diário de Notícias da Madeira",
+      "Francisco Gomes acusa PSD e PS de serem responsáveis pela crise habitacional e critica Montenegro por copiar propostas do CHEGA",
+      "https://www.dnoticias.pt/2026/11/28/514591-francisco-gomes-acusa-psd-e-ps-de-serem-responsaveis-pela-crise-habitacional-e-critica-montenegro-por-copiar-propostas-do-chega/"
+     ],
+     [
+      "2026-11-28 09:13",
+      "Observador",
+      "9h.Hugo Soares acusa Ventura de lançar \"truque\" das reformas",
+      "https://observador.pt/programas/noticiario/as-noticias-das-9h-2545/"
+     ],
+     [
+      "2026-11-28 07:12",
+      "Observador",
+      "7h. Líder parlamentar do PSD volta a afastar crise política",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2577/"
+     ],
+     [
+      "2026-11-28 07:00",
+      "SIC Notícias",
+      "Henrique Raposo: \"PSD e PS acham que para conterem o Chega têm que imitá-lo\"",
+      "https://sicnoticias.pt/curtas/2026-11-28-video-henrique-raposo-psd-e-ps-acham-que-para-conterem-o-chega-tem-que-imita-lo-40d368c0"
+     ],
+     [
+      "2026-11-28 03:25",
+      "RTP Notícias",
+      "3h IVA Zero: PSD desdramatiza impasse entre parlamento e Governo",
+      "https://www.rtp.pt/noticias/noticiario-antena1/3h-iva-zero-psd-desdramatiza-impasse-entre-parlamento-e-governo_a1_1782187"
+     ],
+     [
+      "2026-11-28 03:12",
+      "Observador",
+      "3h. Hugo Soares diz que Ventura quer esconder \"trapalhada\"",
+      "https://observador.pt/programas/noticiario/as-noticias-das-3h-2509/"
+     ],
+     [
+      "2026-11-28 01:20",
+      "RTP Notícias",
+      "01h PSD nega crise: instituições a funcionar,\"governo a governar\"",
+      "https://www.rtp.pt/noticias/noticiario-antena1/01h-psd-nega-crise-instituicoes-a-funcionargoverno-a-governar_a1_1782177"
+     ],
+     [
+      "2026-11-27 23:25",
+      "Observador",
+      "PSD acusa Chega de \"truque\" para tapar erros no OE",
+      "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/"
+     ],
+     [
+      "2026-11-27 22:58",
+      "CNN Portugal",
+      "PSD acusa André Ventura de criar \"truques\" para esconder “trapalhadas\" do Orçamento de Estado",
+      "https://cnnportugal.iol.pt/psd/hugo-soares/psd-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-de-estado/20261127/6b0a0b1b0cf2c0fc744b7ebe"
+     ],
+     [
+      "2026-11-27 21:57",
+      "Observador",
+      "OE. Propostas aprovadas respondem a exigências de paliativos",
+      "https://observador.pt/2026/11/27/oe2027-propostas-aprovadas-respondem-a-reivindicacoes-antigas-dos-cuidados-paliativos/"
+     ],
+     [
+      "2026-11-27 21:12",
+      "Notícias ao Minuto",
+      "Marco de Canaveses aprova orçamento de 67,7 milhões. PSD votou contra",
+      "https://www.noticiasaominuto.com/pais/3091564/marco-de-canaveses-aprova-orcamento-de-67-7-milhoes-com-voto-contra-do-psd#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-27 20:08",
+      "Jornal Económico",
+      "Câmara de Famalicão aprova por maioria orçamento de 224 milhões para 2027",
+      "https://jornaleconomico.sapo.pt/noticias/camara-de-famalicao-aprova-por-maioria-orcamento-de-224-milhoes-para-2027/"
+     ],
+     [
+      "2026-11-27 19:47",
+      "Notícias ao Minuto",
+      "Câmara de Esposende aprova orçamento de 63 milhões com abstenção do PSD",
+      "https://www.noticiasaominuto.com/pais/3091525/camara-de-esposende-aprova-orcamento-de-63-milhoes-com-abstencao-do-psd#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-27 16:20",
       "JM Madeira",
       "PSD destaca contributo do 25 de Novembro para a consolidação da democracia",
       "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010287/psd-destaca-contributo-do-25-de-novembro-para-a-consolidacao-da-democracia.html"
+     ],
+     [
+      "2026-11-27 16:12",
+      "Diário de Notícias da Madeira",
+      "Deputados do PSD visitam museu de militar madeirense que integrou coluna de Salgueiro Maia",
+      "https://www.dnoticias.pt/2026/11/27/514535-deputados-do-psd-visitam-museu-de-militar-madeirense-que-integrou-coluna-de-salgueiro-maia/"
+     ],
+     [
+      "2026-11-27 12:38",
+      "JM Madeira",
+      "Chega acusa PSD de tratar a Região como uma “monarquia”",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010257/chega-acusa-psd-de-tratar-a-regiao-como-uma-monarquia.html"
      ],
      [
       "2026-11-27 12:25",
@@ -7361,7 +7533,7 @@
       "https://executivedigest.sapo.pt/oe2027-psd-acusa-ps-e-chega-de-fomentarem-ambiente-de-crise-e-defende-estabilidade/"
      ],
      [
-      "2026-11-20 23:08",
+      "2026-11-21 00:08",
       "Observador",
       "O novo partido de Isaltino: muito barulho por nada",
       "https://observador.pt/opiniao/o-novo-partido-de-isaltino-muito-barulho-por-nada/"
@@ -7391,6 +7563,12 @@
       "https://www.publico.pt/2026/11/20/sociedade/noticia/aprovada-proposta-psd-incluir-vacina-zona-programa-nacional-vacinacao-2195730"
      ],
      [
+      "2026-11-20 18:56",
+      "Observador",
+      "Orçamento. PSD acusa PS e Chega de \"nova geringonça\"",
+      "https://observador.pt/programas/explicador/orcamento-psd-acusa-ps-e-chega-de-nova-geringonca/"
+     ],
+     [
       "2026-11-20 18:32",
       "Diário de Notícias da Madeira",
       "Chega acusa PSD de “brincar com os madeirenses” nos impostos",
@@ -7403,22 +7581,10 @@
       "https://www.rtp.pt/noticias/economia/ventura-denuncia-falta-de-condicoes-no-parlamento-para-melhorar-a-vida-das-pessoas_n1780605"
      ],
      [
-      "2026-11-20 17:56",
-      "Observador",
-      "Orçamento. PSD acusa PS e Chega de \"nova geringonça\"",
-      "https://observador.pt/programas/explicador/orcamento-psd-acusa-ps-e-chega-de-nova-geringonca/"
-     ],
-     [
       "2026-11-20 17:44",
       "RTP Notícias",
       "Aprovada proposta da IL para programa único de apoio ao arrendamento",
       "https://www.rtp.pt/noticias/economia/aprovada-proposta-da-il-para-programa-unico-de-apoio-ao-arrendamento_n1780598"
-     ],
-     [
-      "2026-11-20 17:10",
-      "Notícias ao Minuto",
-      "Aprovada proposta da IL para programa único de apoio ao arrendamento",
-      "https://www.noticiasaominuto.com/pais/3087659/oe2027-aprovada-proposta-da-il-para-programa-unico-de-apoio-ao-arrendamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
       "2026-11-20 16:46",
@@ -7481,12 +7647,6 @@
       "https://www.acorianooriental.pt/noticia/votacoes-de-madrugada-terminam-com-ps-e-chega-juntos-no-iva-zero-e-no-fim-das-rendas-moderadas-382252"
      ],
      [
-      "2026-11-20 11:01",
-      "Açoriano Oriental",
-      "Comparticipação aos Açores para operadores de transporte interilhas atualizada à inflação",
-      "https://www.acorianooriental.pt/noticia/comparticipacao-aos-acores-para-operadores-de-transporte-interilhas-atualizada-a-inflacao-382250"
-     ],
-     [
       "2026-11-20 10:31",
       "Diário de Notícias",
       "Isaltino Morais desafia o centrão. Há espaço para um novo partido ao lado de PSD e PS?",
@@ -7508,7 +7668,7 @@
       "2026-11-20 06:00",
       "Renascença",
       "Rita Matias e um futuro acordo com o PSD: \"Parece-me impossível com Montenegro\"",
-      "https://rr.pt/especial/sao-bento-a-sexta/2026/11/20/rita-matias-e-um-futuro-acordo-com-o-psd-parece-me-impossivel-com-montenegro/494289/"
+      "https://rr.pt/noticia/amp/sao-bento-a-sexta/2026/11/20/rita-matias-e-um-futuro-acordo-com-o-psd-parece-me-impossivel-com-montenegro/494289/"
      ],
      [
       "2026-11-20 00:26",
@@ -8667,114 +8827,6 @@
       "Público",
       "Baixar ISP, descer idade da reforma e fim das propinas: as prioridades dos partidos",
       "https://www.publico.pt/2026/11/06/politica/noticia/baixar-isp-descer-idade-reforma-fim-propinas-prioridades-partidos-2194086"
-     ],
-     [
-      "2026-11-06 19:01",
-      "Observador",
-      "Habitação. Porque não há consenso entre os partidos?",
-      "https://observador.pt/programas/explicador/habitacao-porque-nao-ha-consenso-entre-os-partidos/"
-     ],
-     [
-      "2026-11-06 19:00",
-      "Jornal de Negócios",
-      "PSD e CDS propõem 10 milhões de euros para pôr geradores solares e baterias nas freguesias",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/psd-e-cds-propoem-10-milhoes-de-euros-para-por-geradores-solares-e-baterias-nas-freguesias"
-     ],
-     [
-      "2026-11-06 18:14",
-      "Observador",
-      "Amadora mantém taxa mínima de IMI nos prédios urbanos",
-      "https://observador.pt/2026/11/06/amadora-mantem-taxa-minima-de-imi-nos-predios-urbanos-e-baixa-participacao-no-irs-para-325/"
-     ],
-     [
-      "2026-11-06 18:13",
-      "Observador",
-      "Isaltino Morais: \"Os moderados não têm onde votar\"",
-      "https://observador.pt/2026/11/06/isaltino-morais-admite-contribuir-para-criar-novo-partido-de-centro-os-moderados-nao-tem-onde-votar/"
-     ],
-     [
-      "2026-11-06 17:26",
-      "Nascer do SOL",
-      "Isaltino Morais admite criar novo partido e já tem interessados do PS, PSD e CDS",
-      "https://sol.iol.pt/politica/noticias/isaltino-morais-admite-criar-novo-partido-e-ja-tem-interessados-do-ps-psd-e-cds/20261106/6aee0dd00cf235b99ef4ffc7"
-     ],
-     [
-      "2026-11-06 17:23",
-      "Observador",
-      "PSD/Madeira apresenta proposta de revisão constitucional",
-      "https://observador.pt/2026/11/06/psd-da-madeira-apresenta-proposta-de-revisao-constitucional-que-inclui-sistema-fiscal-proprio/"
-     ],
-     [
-      "2026-11-06 16:53",
-      "Notícias ao Minuto",
-      "Isaltino abordado por pessoas do PS, PSD e CDS para novo partido",
-      "https://www.noticiasaominuto.com/politica/3079995/isaltino-morais-novo-partido-no-centro-politico-pode-surgir-em-2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-11-06 16:32",
-      "Notícias ao Minuto",
-      "PSD/Madeira propõe revisão constitucional com sistema fiscal próprio",
-      "https://www.noticiasaominuto.com/politica/3079937/psdmadeira-propoe-revisao-constitucional-com-sistema-fiscal-proprio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-11-06 16:24",
-      "Diário de Notícias",
-      "OE2027: PSD/CDS estende garantia pública jovem à autoconstrução e admite novo “bónus” nas pensões",
-      "https://www.dn.pt/pol%C3%ADtica/oe2027-psdcds-estende-garantia-pblica-jovem-autoconstruo-e-admite-novo-bnus-nas-penses"
-     ],
-     [
-      "2026-11-06 16:24",
-      "Açoriano Oriental",
-      "PSD/Madeira apresenta proposta de revisão constitucional que inclui sistema fiscal próprio",
-      "https://www.acorianooriental.pt/noticia/psd-madeira-apresenta-proposta-de-revisao-constitucional-que-inclui-sistema-fiscal-proprio-381818"
-     ],
-     [
-      "2026-11-06 16:09",
-      "Notícias ao Minuto",
-      "PSD/CDS querem licença simultânea para pais de crianças com cancro",
-      "https://www.noticiasaominuto.com/politica/3079952/oe2027-psd-e-cds-querem-dar-licenca-em-simultaneo-para-pais-de-criancas-com-doenca-oncologica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-11-06 16:06",
-      "TSF",
-      "PSD questiona se PS quer colocar em causa apoios às rendas e redução do IVA da construção",
-      "https://www.tsf.pt/economia/artigo/psd-questiona-se-ps-quer-colocar-em-causa-apoios-as-rendas-e-reducao-do-iva-da-construcao/18145429"
-     ],
-     [
-      "2026-11-06 15:36",
-      "Expresso",
-      "PSD e CDS avançam com cobrança coerciva por vandalismo em património nacional",
-      "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-06-psd-e-cds-avancam-com-cobranca-coerciva-por-vandalismo-em-patrimonio-nacional-720f342c"
-     ],
-     [
-      "2026-11-06 15:23",
-      "Notícias ao Minuto",
-      "PSD/CDS alarga garantia jovem à autoconstrução e admite bónus nas pensões",
-      "https://www.noticiasaominuto.com/politica/3079908/psdcds-estende-garantia-jovem-a-autoconstrucao-e-bonus-pensoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-11-06 15:18",
-      "Correio da Manhã",
-      "PSD e CDS querem dar licença em simultâneo para pais de crianças com doença oncológica",
-      "https://www.cmjornal.pt/politica/detalhe/psd-e-cds-querem-dar-licenca-em-simultaneo-para-pais-de-criancas-com-doenca-oncologica"
-     ],
-     [
-      "2026-11-06 15:17",
-      "Jornal de Negócios",
-      "OE 2027: AD volta a prometer bónus das pensões se houver margem. PS quer torná-lo permanente",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe2027-ad-volta-a-prometer-bonus-das-pensoes-se-houver-margem-ps-quer-torna-lo-permanente"
-     ],
-     [
-      "2026-11-06 15:15",
-      "Lusa",
-      "PSD/CDS estende garantia pública jovem à autoconstrução e admite novo “bónus” nas pensões em 2027",
-      "https://www.lusa.pt/national/article/2026-11-06/48081920/psd-cds-estende-garantia-p%C3%BAblica-jovem-%C3%A0-autoconstru%C3%A7%C3%A3o-e-admite-novo-b%C3%B3nus-nas-pens%C3%B5es-em-2027"
-     ],
-     [
-      "2026-11-06 15:14",
-      "Diário de Notícias",
-      "Habitação: PSD e CDS avançam com cobrança coerciva por vandalismo em património nacional",
-      "https://www.dn.pt/pol%C3%ADtica/habitao-psd-e-cds-avanam-com-cobrana-coerciva-por-vandalismo-em-patrimnio-nacional"
      ]
     ]
    },
@@ -9266,39 +9318,165 @@
    ],
    "novo": "2026-11-27",
    "cobertura": {
-    "n": 1227,
-    "n7": 154,
-    "n7ant": 139,
+    "n": 1246,
+    "n7": 175,
+    "n7ant": 137,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "palavras",
-    "ultima": "2026-11-27 16:20",
+    "ultima": "2026-11-28 14:54",
     "ultimas": [
      {
-      "data": "2026-11-27",
+      "data": "2026-11-28",
+      "fonte": "Diário de Notícias da Madeira",
+      "titulo": "PSD defende IRS mínimo para reforçar rendimento disponível das famílias",
+      "url": "https://www.dnoticias.pt/2026/11/28/514610-psd-defende-irs-minimo-para-reforcar-rendimento-disponivel-das-familias/"
+     },
+     {
+      "data": "2026-11-28",
       "fonte": "JM Madeira",
-      "titulo": "PSD destaca contributo do 25 de Novembro para a consolidação da democracia",
-      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010287/psd-destaca-contributo-do-25-de-novembro-para-a-consolidacao-da-democracia.html"
+      "titulo": "PSD sublinha IRS mínimo para aumentar rendimentos",
+      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010332/psd-sublinha-irs-minimo-para-aumentar-rendimentos.html"
      },
      {
-      "data": "2026-11-27",
-      "fonte": "Observador",
-      "titulo": "Arouca diminui orçamento municipal com vista a \"equilíbrio\"",
-      "url": "https://observador.pt/2026/11/27/arouca-diminui-orcamento-municipal-para-396-milhoes-de-euros-com-vista-a-equilibrio/"
-     },
-     {
-      "data": "2026-11-27",
-      "fonte": "Observador",
-      "titulo": "Luís Montenegro revela \"tiques totalitários\"?",
-      "url": "https://observador.pt/programas/explicador/luis-montenegro-revela-tiques-totalitarios/"
+      "data": "2026-11-28",
+      "fonte": "JM Madeira",
+      "titulo": "Francisco Gomes acusa PS e PSD de \"destruírem a habitação\"",
+      "url": "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010331/francisco-gomes-acusa-ps-e-psd-de-destruirem-a-habitacao.html"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 14:54",
+      "Diário de Notícias da Madeira",
+      "PSD defende IRS mínimo para reforçar rendimento disponível das famílias",
+      "https://www.dnoticias.pt/2026/11/28/514610-psd-defende-irs-minimo-para-reforcar-rendimento-disponivel-das-familias/"
+     ],
+     [
+      "2026-11-28 14:45",
+      "JM Madeira",
+      "PSD sublinha IRS mínimo para aumentar rendimentos",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010332/psd-sublinha-irs-minimo-para-aumentar-rendimentos.html"
+     ],
+     [
+      "2026-11-28 14:19",
+      "JM Madeira",
+      "Francisco Gomes acusa PS e PSD de \"destruírem a habitação\"",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010331/francisco-gomes-acusa-ps-e-psd-de-destruirem-a-habitacao.html"
+     ],
+     [
+      "2026-11-28 13:02",
+      "JM Madeira",
+      "Mobilidade Aérea: JPP vai confrontar primeiro-ministro após chumbo do PSD/CDS e abstenção do PS",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010325/mobilidade-aerea-jpp-vai-confrontar-primeiro-ministro-apos-chumbo-do-psd-cds-e-abstencao-do-ps.html"
+     ],
+     [
+      "2026-11-28 12:32",
+      "Observador",
+      "Eleições Espanha. \"Viragem à direita dará mais estabilidade\"",
+      "https://observador.pt/programas/explicador/eleicoes-espanha-viragem-a-direita-dara-mais-estabilidade/"
+     ],
+     [
+      "2026-11-28 09:54",
+      "Diário de Notícias da Madeira",
+      "Francisco Gomes acusa PSD e PS de serem responsáveis pela crise habitacional e critica Montenegro por copiar propostas do CHEGA",
+      "https://www.dnoticias.pt/2026/11/28/514591-francisco-gomes-acusa-psd-e-ps-de-serem-responsaveis-pela-crise-habitacional-e-critica-montenegro-por-copiar-propostas-do-chega/"
+     ],
+     [
+      "2026-11-28 09:13",
+      "Observador",
+      "9h.Hugo Soares acusa Ventura de lançar \"truque\" das reformas",
+      "https://observador.pt/programas/noticiario/as-noticias-das-9h-2545/"
+     ],
+     [
+      "2026-11-28 07:12",
+      "Observador",
+      "7h. Líder parlamentar do PSD volta a afastar crise política",
+      "https://observador.pt/programas/noticiario/as-noticias-das-7h-2577/"
+     ],
+     [
+      "2026-11-28 07:00",
+      "SIC Notícias",
+      "Henrique Raposo: \"PSD e PS acham que para conterem o Chega têm que imitá-lo\"",
+      "https://sicnoticias.pt/curtas/2026-11-28-video-henrique-raposo-psd-e-ps-acham-que-para-conterem-o-chega-tem-que-imita-lo-40d368c0"
+     ],
+     [
+      "2026-11-28 03:25",
+      "RTP Notícias",
+      "3h IVA Zero: PSD desdramatiza impasse entre parlamento e Governo",
+      "https://www.rtp.pt/noticias/noticiario-antena1/3h-iva-zero-psd-desdramatiza-impasse-entre-parlamento-e-governo_a1_1782187"
+     ],
+     [
+      "2026-11-28 03:12",
+      "Observador",
+      "3h. Hugo Soares diz que Ventura quer esconder \"trapalhada\"",
+      "https://observador.pt/programas/noticiario/as-noticias-das-3h-2509/"
+     ],
+     [
+      "2026-11-28 01:20",
+      "RTP Notícias",
+      "01h PSD nega crise: instituições a funcionar,\"governo a governar\"",
+      "https://www.rtp.pt/noticias/noticiario-antena1/01h-psd-nega-crise-instituicoes-a-funcionargoverno-a-governar_a1_1782177"
+     ],
+     [
+      "2026-11-27 23:25",
+      "Observador",
+      "PSD acusa Chega de \"truque\" para tapar erros no OE",
+      "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/"
+     ],
+     [
+      "2026-11-27 22:58",
+      "CNN Portugal",
+      "PSD acusa André Ventura de criar \"truques\" para esconder “trapalhadas\" do Orçamento de Estado",
+      "https://cnnportugal.iol.pt/psd/hugo-soares/psd-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-de-estado/20261127/6b0a0b1b0cf2c0fc744b7ebe"
+     ],
+     [
+      "2026-11-27 22:57",
+      "Jornal Económico",
+      "Viseu Dão Lafões abre representação permanente em Bruxelas para acompanhar decisões europeias",
+      "https://jornaleconomico.sapo.pt/noticias/viseu-dao-lafoes-abre-representacao-permanente-em-bruxelas-para-acompanhar-decisoes-europeias/"
+     ],
+     [
+      "2026-11-27 21:57",
+      "Observador",
+      "OE. Propostas aprovadas respondem a exigências de paliativos",
+      "https://observador.pt/2026/11/27/oe2027-propostas-aprovadas-respondem-a-reivindicacoes-antigas-dos-cuidados-paliativos/"
+     ],
+     [
+      "2026-11-27 21:12",
+      "Notícias ao Minuto",
+      "Marco de Canaveses aprova orçamento de 67,7 milhões. PSD votou contra",
+      "https://www.noticiasaominuto.com/pais/3091564/marco-de-canaveses-aprova-orcamento-de-67-7-milhoes-com-voto-contra-do-psd#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
+     [
+      "2026-11-27 20:08",
+      "Jornal Económico",
+      "Câmara de Famalicão aprova por maioria orçamento de 224 milhões para 2027",
+      "https://jornaleconomico.sapo.pt/noticias/camara-de-famalicao-aprova-por-maioria-orcamento-de-224-milhoes-para-2027/"
+     ],
+     [
+      "2026-11-27 19:47",
+      "Notícias ao Minuto",
+      "Câmara de Esposende aprova orçamento de 63 milhões com abstenção do PSD",
+      "https://www.noticiasaominuto.com/pais/3091525/camara-de-esposende-aprova-orcamento-de-63-milhoes-com-abstencao-do-psd#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
+     ],
      [
       "2026-11-27 16:20",
       "JM Madeira",
       "PSD destaca contributo do 25 de Novembro para a consolidação da democracia",
       "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010287/psd-destaca-contributo-do-25-de-novembro-para-a-consolidacao-da-democracia.html"
+     ],
+     [
+      "2026-11-27 16:12",
+      "Diário de Notícias da Madeira",
+      "Deputados do PSD visitam museu de militar madeirense que integrou coluna de Salgueiro Maia",
+      "https://www.dnoticias.pt/2026/11/27/514535-deputados-do-psd-visitam-museu-de-militar-madeirense-que-integrou-coluna-de-salgueiro-maia/"
+     ],
+     [
+      "2026-11-27 12:38",
+      "JM Madeira",
+      "Chega acusa PSD de tratar a Região como uma “monarquia”",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30010257/chega-acusa-psd-de-tratar-a-regiao-como-uma-monarquia.html"
      ],
      [
       "2026-11-27 12:25",
@@ -10345,7 +10523,7 @@
       "https://executivedigest.sapo.pt/oe2027-psd-acusa-ps-e-chega-de-fomentarem-ambiente-de-crise-e-defende-estabilidade/"
      ],
      [
-      "2026-11-20 23:08",
+      "2026-11-21 00:08",
       "Observador",
       "O novo partido de Isaltino: muito barulho por nada",
       "https://observador.pt/opiniao/o-novo-partido-de-isaltino-muito-barulho-por-nada/"
@@ -10375,6 +10553,12 @@
       "https://www.publico.pt/2026/11/20/sociedade/noticia/aprovada-proposta-psd-incluir-vacina-zona-programa-nacional-vacinacao-2195730"
      ],
      [
+      "2026-11-20 18:56",
+      "Observador",
+      "Orçamento. PSD acusa PS e Chega de \"nova geringonça\"",
+      "https://observador.pt/programas/explicador/orcamento-psd-acusa-ps-e-chega-de-nova-geringonca/"
+     ],
+     [
       "2026-11-20 18:32",
       "Diário de Notícias da Madeira",
       "Chega acusa PSD de “brincar com os madeirenses” nos impostos",
@@ -10387,22 +10571,10 @@
       "https://www.rtp.pt/noticias/economia/ventura-denuncia-falta-de-condicoes-no-parlamento-para-melhorar-a-vida-das-pessoas_n1780605"
      ],
      [
-      "2026-11-20 17:56",
-      "Observador",
-      "Orçamento. PSD acusa PS e Chega de \"nova geringonça\"",
-      "https://observador.pt/programas/explicador/orcamento-psd-acusa-ps-e-chega-de-nova-geringonca/"
-     ],
-     [
       "2026-11-20 17:44",
       "RTP Notícias",
       "Aprovada proposta da IL para programa único de apoio ao arrendamento",
       "https://www.rtp.pt/noticias/economia/aprovada-proposta-da-il-para-programa-unico-de-apoio-ao-arrendamento_n1780598"
-     ],
-     [
-      "2026-11-20 17:10",
-      "Notícias ao Minuto",
-      "Aprovada proposta da IL para programa único de apoio ao arrendamento",
-      "https://www.noticiasaominuto.com/pais/3087659/oe2027-aprovada-proposta-da-il-para-programa-unico-de-apoio-ao-arrendamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
       "2026-11-20 16:46",
@@ -10465,12 +10637,6 @@
       "https://www.acorianooriental.pt/noticia/votacoes-de-madrugada-terminam-com-ps-e-chega-juntos-no-iva-zero-e-no-fim-das-rendas-moderadas-382252"
      ],
      [
-      "2026-11-20 11:01",
-      "Açoriano Oriental",
-      "Comparticipação aos Açores para operadores de transporte interilhas atualizada à inflação",
-      "https://www.acorianooriental.pt/noticia/comparticipacao-aos-acores-para-operadores-de-transporte-interilhas-atualizada-a-inflacao-382250"
-     ],
-     [
       "2026-11-20 10:31",
       "Diário de Notícias",
       "Isaltino Morais desafia o centrão. Há espaço para um novo partido ao lado de PSD e PS?",
@@ -10492,7 +10658,7 @@
       "2026-11-20 06:00",
       "Renascença",
       "Rita Matias e um futuro acordo com o PSD: \"Parece-me impossível com Montenegro\"",
-      "https://rr.pt/especial/sao-bento-a-sexta/2026/11/20/rita-matias-e-um-futuro-acordo-com-o-psd-parece-me-impossivel-com-montenegro/494289/"
+      "https://rr.pt/noticia/amp/sao-bento-a-sexta/2026/11/20/rita-matias-e-um-futuro-acordo-com-o-psd-parece-me-impossivel-com-montenegro/494289/"
      ],
      [
       "2026-11-20 00:26",
@@ -11579,120 +11745,6 @@
       "Observador",
       "PS e PSD vão unir-se para combater Chega? — Debate",
       "https://observador.pt/programas/contra-corrente/ps-e-psd-vao-unir-se-para-combater-chega-debate/"
-     ],
-     [
-      "2026-11-09 12:51",
-      "JM Madeira",
-      "PSD saúda Outubro Rosa e Novembro Azul e homenageia quem enfrenta a doença oncológica",
-      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008900/psd-sauda-outubro-rosa-e-novembro-azul-e-homenageia-quem-enfrenta-a-doenca-oncologica.html"
-     ],
-     [
-      "2026-11-09 12:50",
-      "Diário de Notícias da Madeira",
-      "PSD homenageia quem enfrenta a doença oncológica",
-      "https://www.dnoticias.pt/2026/11/9/512214-psd-homenageia-quem-enfrenta-a-doenca-oncologica/"
-     ],
-     [
-      "2026-11-09 08:37",
-      "Observador",
-      "Haja paciência: continuam as sonsices da \"Acampada\"",
-      "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/haja-paciencia-continuam-as-sonsices-da-acampada/"
-     ],
-     [
-      "2026-11-09 08:33",
-      "Observador",
-      "“Bloco central” está de regresso ou a atracção pelo abismo",
-      "https://observador.pt/programas/contra-corrente/bloco-central-esta-de-regresso-ou-a-atraccao-pelo-abismo/"
-     ],
-     [
-      "2026-11-09 08:05",
-      "Observador",
-      "Tempestade pode resolver braço de ferro no Rossio?",
-      "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/tempestade-pode-resolver-braco-de-ferro-no-rossio/"
-     ],
-     [
-      "2026-11-09 00:30",
-      "Correio da Manhã",
-      "Sebastião Bugalho afasta hipótese de liderar PSD",
-      "https://www.cmjornal.pt/politica/detalhe/sebastiao-bugalho-afasta-hipotese-de-liderar-psd"
-     ],
-     [
-      "2026-11-09 00:16",
-      "Observador",
-      "00h. Ventura vê corrida entre Chega e PS nas legislativas",
-      "https://observador.pt/programas/noticiario/as-noticias-das-00h-2469/"
-     ],
-     [
-      "2026-11-08 22:23",
-      "Jornal de Negócios",
-      "Ventura \"exclui\" PSD das legislativas e aponta dois modelos de civilização entre Chega e PS",
-      "https://www.jornaldenegocios.pt/economia/detalhe/ventura-exclui-psd-das-legislativas-e-aponta-dois-modelos-de-civilizacao-entre-chega-e-ps"
-     ],
-     [
-      "2026-11-08 21:40",
-      "Jornal de Negócios",
-      "OE 2027: Partidos apostam forte na habitação",
-      "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-partidos-apostam-forte-na-habitacao"
-     ],
-     [
-      "2026-11-08 21:13",
-      "Observador",
-      "Ventura exclui PSD da vitória nas próximas legislativas",
-      "https://observador.pt/2026/11/08/ventura-diz-que-a-luta-pela-vitoria-nas-proximas-legislativas-sera-entre-o-chega-e-o-ps/"
-     ],
-     [
-      "2026-11-08 20:22",
-      "ECO",
-      "Ventura ‘exclui’ PSD das legislativas e aponta dois modelos de civilização entre Chega e PS",
-      "https://eco.sapo.pt/2026/11/08/ventura-exclui-psd-das-legislativas-e-aponta-dois-modelos-de-civilizacao-entre-chega-e-ps/"
-     ],
-     [
-      "2026-11-08 20:11",
-      "Notícias ao Minuto",
-      "Ventura exclui PSD das legislativas e aponta dois modelos de civilização",
-      "https://www.noticiasaominuto.com/politica/3080689/ventura-exclui-psd-das-legislativas-e-aponta-dois-modelos-de-civilizacao-entre-chega-e-ps-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
-     ],
-     [
-      "2026-11-08 19:43",
-      "Correio da Manhã",
-      "Ventura 'exclui' PSD das legislativas e aponta dois modelos de civilização entre Chega e PS",
-      "https://www.cmjornal.pt/politica/detalhe/ventura-exclui-psd-das-legislativas-e-aponta-dois-modelos-de-civilizacao-entre-chega-e-ps"
-     ],
-     [
-      "2026-11-08 16:53",
-      "Jornal Económico",
-      "PS e Chega pedem ao Governo da República que pague 23 milhões de euros aos agricultores açorianos",
-      "https://jornaleconomico.sapo.pt/noticias/ps-e-chega-pedem-ao-governo-da-republica-que-pague-23-milhoes-de-euros-aos-agricultores-acorianos/"
-     ],
-     [
-      "2026-11-08 16:10",
-      "Público",
-      "Carneiro usa palavras de Cavaco para acusar Governo de incompetência na habitação",
-      "https://www.publico.pt/2026/11/08/politica/noticia/carneiro-usa-palavras-cavaco-acusar-governo-incompetencia-habitacao-2194208"
-     ],
-     [
-      "2026-11-08 00:21",
-      "Observador",
-      "A democracia são escolhas além de diálogo",
-      "https://observador.pt/opiniao/a-democracia-sao-escolhas-alem-de-dialogo/"
-     ],
-     [
-      "2026-11-08 00:06",
-      "Observador",
-      "PSD: Qual será o teu futuro?",
-      "https://observador.pt/opiniao/psd-refem-do-chega-ou-senhor-do-seu-destino/"
-     ],
-     [
-      "2026-11-07 23:23",
-      "Observador",
-      "Chega só revela sentido de voto após discussão do Orçamento",
-      "https://observador.pt/2026/11/07/chega-acores-so-revela-sentido-de-voto-apos-discussao-do-orcamento-em-plenario/"
-     ],
-     [
-      "2026-11-07 23:06",
-      "Observador",
-      "PSD: Refém do Chega ou senhor do seu destino?",
-      "https://observador.pt/opiniao/psd-refem-do-chega-ou-senhor-do-seu-destino/"
      ]
     ]
    }
@@ -12823,34 +12875,88 @@
     "Tenente-General"
    ],
    "cobertura": {
-    "n": 313,
-    "n7": 18,
+    "n": 323,
+    "n7": 28,
     "n7ant": 30,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "expressoes",
-    "ultima": "2026-11-27 11:44",
+    "ultima": "2026-11-28 11:51",
     "ultimas": [
      {
-      "data": "2026-11-27",
-      "fonte": "Renascença",
-      "titulo": "\"Nuvem\" da Força Aérea dos EUA alvo de ataque informático",
-      "url": "https://rr.pt/noticia/mundo/2026/11/27/nuvem-da-forca-aerea-dos-eua-alvo-de-ataque-informatico/495366/"
+      "data": "2026-11-28",
+      "fonte": "Diário de Notícias",
+      "titulo": "força aérea norte-americana",
+      "url": "https://www.dn.pt/topic/fora-area-norte-americana"
      },
      {
-      "data": "2026-11-27",
-      "fonte": "Ambiente Magazine",
-      "titulo": "Pingo Doce reforça frota com 8 veículos pesados elétricos para avançar na descarbonização da distribuição",
-      "url": "https://www.ambientemagazine.com/pingo-doce-reforca-frota-com-8-veiculos-pesados-eletricos-para-avancar-na-descarbonizacao-da-distribuicao/"
+      "data": "2026-11-28",
+      "fonte": "Diário de Notícias",
+      "titulo": "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "url": "https://www.dn.pt/internacional/ciberataque-atinge-infraestrutura-digital-da-fora-area-norte-americana"
      },
      {
-      "data": "2026-11-27",
-      "fonte": "ECO",
-      "titulo": "Retalho e logística abrem cerca de seis mil postos de trabalho até ao final do ano",
-      "url": "https://eco.sapo.pt/2026/11/27/retalho-e-logistica-abrem-cerca-de-seis-mil-postos-de-trabalho-ate-ao-final-do-ano/"
+      "data": "2026-11-28",
+      "fonte": "RTP Notícias",
+      "titulo": "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "url": "https://www.rtp.pt/noticias/mundo/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana_n1782183"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 11:51",
+      "Diário de Notícias",
+      "força aérea norte-americana",
+      "https://www.dn.pt/topic/fora-area-norte-americana"
+     ],
+     [
+      "2026-11-28 11:51",
+      "Diário de Notícias",
+      "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "https://www.dn.pt/internacional/ciberataque-atinge-infraestrutura-digital-da-fora-area-norte-americana"
+     ],
+     [
+      "2026-11-28 08:30",
+      "RTP Notícias",
+      "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "https://www.rtp.pt/noticias/mundo/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana_n1782183"
+     ],
+     [
+      "2026-11-28 08:17",
+      "SIC Notícias",
+      "Ciberataques nos EUA: piratas informáticos conseguiram infiltrar-se na infraestrutura digital da Força Aérea",
+      "https://sicnoticias.pt/mundo/eua/2026-11-28-ciberataques-nos-eua-piratas-informaticos-conseguiram-infiltrar-se-na-infraestrutura-digital-da-forca-aerea-0dc98126"
+     ],
+     [
+      "2026-11-28 08:17",
+      "SIC Notícias",
+      "Ciberataques nos EUA: piratas informáticos conseguiu infiltrar-se na infraestrutura digital da Força Aérea",
+      "https://sicnoticias.pt/mundo/eua/2026-11-28-ciberataques-nos-eua-piratas-informaticos-conseguiu-infiltrar-se-na-infraestrutura-digital-da-forca-aerea-0dc98126?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/mundo/eua/2026-11-28-ciberataques-nos-eua-piratas-informaticos-conseguiu-infiltrar-se-na-infraestrutura-digital-da-forca-aerea-0dc98126"
+     ],
+     [
+      "2026-11-28 01:44",
+      "Executive Digest",
+      "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "https://executivedigest.sapo.pt/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana/"
+     ],
+     [
+      "2026-11-27 19:11",
+      "Público",
+      "Hackers invadem principal plataforma de computação na “nuvem” da Força Aérea dos EUA",
+      "https://www.publico.pt/2026/11/27/enter/noticia/hackers-invadem-principal-plataforma-computacao-nuvem-forca-aerea-eua-2196542"
+     ],
+     [
+      "2026-11-27 17:39",
+      "Sábado",
+      "Piratas informáticos acederam à principal plataforma de computação da Força Aérea dos EUA",
+      "https://www.sabado.pt/mundo/detalhe/piratas-informaticos-acederam-a-principal-plataforma-de-computacao-da-forca-aerea-dos-eua"
+     ],
+     [
+      "2026-11-27 13:58",
+      "Correio da Manhã",
+      "Plataforma de dados da Força Aérea dos EUA alvo de ataque informático",
+      "https://www.cmjornal.pt/mundo/amp/plataforma-de-dados-da-forca-aerea-dos-eua-alvo-de-ataque-informatico"
+     ],
      [
       "2026-11-27 11:44",
       "Renascença",
@@ -12876,10 +12982,16 @@
       "https://www.dn.pt/economia/opo-de-aeroporto-de-santarm-em-risco-devido-a-plataforma-logstica"
      ],
      [
-      "2026-11-26 19:12",
+      "2026-11-26 17:18",
       "ECO",
       "Zelensky alerta para iminência de grande ataque russo à rede elétrica",
       "https://eco.sapo.pt/2026/11/26/zelensky-alerta-para-iminencia-de-grande-ataque-russo-a-rede-eletrica/"
+     ],
+     [
+      "2026-11-26 16:57",
+      "Notícias ao Minuto",
+      "Zelensky alerta para iminência de grande ataque russo à rede elétrica",
+      "https://www.noticiasaominuto.com/mundo/3090804/zelensky-alerta-para-iminencia-de-grande-ataque-russo-a-rede-eletrica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
       "2026-11-26 16:16",
@@ -15527,14 +15639,20 @@
     "Luís Neves"
    ],
    "cobertura": {
-    "n": 142,
-    "n7": 9,
-    "n7ant": 11,
+    "n": 145,
+    "n7": 11,
+    "n7ant": 12,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "expressoes",
-    "ultima": "2026-11-27 09:50",
+    "ultima": "2026-11-28 00:30",
     "ultimas": [
+     {
+      "data": "2026-11-28",
+      "fonte": "Correio da Manhã",
+      "titulo": "Saíram 111 elementos da PSP para a Polícia Judiciária em cinco anos",
+      "url": "https://www.cmjornal.pt/portugal/amp/111-elementos-sairam-da-psp-para-a-policia-judiciaria-em-cinco-anos"
+     },
      {
       "data": "2026-11-27",
       "fonte": "RTP Notícias",
@@ -15546,15 +15664,15 @@
       "fonte": "Correio da Manhã",
       "titulo": "Homem encontrado morto dentro de autocaravana em Santo Tirso",
       "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20261127-100907-homem-encontrado-morto-dentro-de-autocaravana-em-santo-tirso"
-     },
-     {
-      "data": "2026-11-26",
-      "fonte": "RTP Notícias",
-      "titulo": "Operação Matrioska. PJ detém cinco suspeitos da morte de cidadão russo",
-      "url": "https://www.rtp.pt/noticias/pais/operacao-matrioska-pj-detem-cinco-suspeitos-da-morte-de-cidadao-russo_v1781914"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 00:30",
+      "Correio da Manhã",
+      "Saíram 111 elementos da PSP para a Polícia Judiciária em cinco anos",
+      "https://www.cmjornal.pt/portugal/amp/111-elementos-sairam-da-psp-para-a-policia-judiciaria-em-cinco-anos"
+     ],
      [
       "2026-11-27 09:50",
       "RTP Notícias",
@@ -15566,6 +15684,12 @@
       "Correio da Manhã",
       "Homem encontrado morto dentro de autocaravana em Santo Tirso",
       "https://www.cmjornal.pt/cmtv/videos/detalhe/20261127-100907-homem-encontrado-morto-dentro-de-autocaravana-em-santo-tirso"
+     ],
+     [
+      "2026-11-27 08:13",
+      "Correio da Manhã",
+      "Homem de 22 anos detido em Viseu por coação sexual e pornografia de menores",
+      "https://www.cmjornal.pt/portugal/detalhe/homem-de-22-anos-detido-em-viseu-por-coacao-sexual-e-pornografia-de-menores"
      ],
      [
       "2026-11-26 21:25",
@@ -15614,6 +15738,12 @@
       "Diário de Notícias",
       "Polícia Judiciária detém assistente técnico do Laboratório de Polícia Científica",
       "https://www.dn.pt/sociedade/polcia-judiciria-detm-assistente-tcnico-do-laboratrio-de-polcia-cientfica"
+     ],
+     [
+      "2026-11-20 12:42",
+      "Público",
+      "Especialista da PJ detido por suspeitas de roubo e venda de armas apreendidas | Polícia Judiciária",
+      "https://www.publico.pt/2026/11/20/sociedade/noticia/especialista-pj-detido-suspeitas-roubo-venda-armas-apreendidas-2195690"
      ],
      [
       "2026-11-20 11:00",
@@ -16572,7 +16702,7 @@
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "palavras",
-    "ultima": "2026-11-27 14:19",
+    "ultima": "2026-11-27 12:28",
     "ultimas": [
      {
       "data": "2026-11-27",
@@ -16595,7 +16725,7 @@
     ],
     "todas": [
      [
-      "2026-11-27 14:19",
+      "2026-11-27 12:28",
       "ECO",
       "Relatório final do PRR já foi entregue. Mandato de Dominguinhos termina a 28 de dezembro",
       "https://eco.sapo.pt/2026/11/27/relatorio-final-do-prr-ja-foi-entregue-mandato-de-dominguinhos-termina-a-28-de-dezembro/"
@@ -16631,7 +16761,7 @@
       "https://www.rtp.pt/noticias/economia/bruxelas-aprova-ultimo-pagamento-do-prr-a-portugal-no-valor-de-4-7-mil-milhoes-de-euros_n1780577"
      ],
      [
-      "2026-11-20 07:35",
+      "2026-11-20 07:33",
       "ECO",
       "Mandato de Pedro Dominguinhos termina no final do ano",
       "https://eco.sapo.pt/2026/11/20/mandato-de-pedro-dominguinhos-termina-no-final-do-ano/"
@@ -17171,34 +17301,46 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 22,
-    "n7": 17,
+    "n": 24,
+    "n7": 19,
     "n7ant": 1,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "expressoes",
-    "ultima": "2026-11-27 15:48",
+    "ultima": "2026-11-28 13:56",
     "ultimas": [
+     {
+      "data": "2026-11-28",
+      "fonte": "Público",
+      "titulo": "IVA Zero: Carneiro não esclarece como vota cabaz do Chega e fica a aguardar decisão de Belém",
+      "url": "https://www.publico.pt/2026/11/28/politica/noticia/iva-zero-carneiro-nao-esclarece-vota-cabaz-chega-fica-aguardar-decisao-belem-2196661"
+     },
+     {
+      "data": "2026-11-27",
+      "fonte": "ECO",
+      "titulo": "Melão incluído, melancia de fora. Veja a lista dos alimentos com ‘IVA zero’ que o Chega quer recuperar",
+      "url": "https://eco.sapo.pt/2026/11/27/melao-incluido-melancia-de-fora-veja-a-lista-dos-alimentos-com-iva-zero-que-o-chega-quer-recuperar/"
+     },
      {
       "data": "2026-11-27",
       "fonte": "ECO",
       "titulo": "Chega entrega projeto de lei para aplicar ‘IVA zero’ ao mesmo cabaz alimentar de 2023",
       "url": "https://eco.sapo.pt/2026/11/27/chega-apresenta-projeto-de-lei-para-aplicar-iva-zero-ao-mesmo-cabaz-alimentar-de-2023/"
-     },
-     {
-      "data": "2026-11-27",
-      "fonte": "Jornal Económico",
-      "titulo": "Constitucionalistas divergem sobre legitimidade do Governo para não executar medidas",
-      "url": "https://jornaleconomico.sapo.pt/noticias/constitucionalistas-divergem-sobre-legitimidade-do-governo-para-nao-executar-medidas/"
-     },
-     {
-      "data": "2026-11-26",
-      "fonte": "RTP Notícias",
-      "titulo": "OE2027. Debate de urgência requerido pelo Chega marcado para 3 de dezembro",
-      "url": "https://www.rtp.pt/noticias/politica/oe2027-debate-de-urgencia-requerido-pelo-chega-marcado-para-3-de-dezembro_e1781811"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 13:56",
+      "Público",
+      "IVA Zero: Carneiro não esclarece como vota cabaz do Chega e fica a aguardar decisão de Belém",
+      "https://www.publico.pt/2026/11/28/politica/noticia/iva-zero-carneiro-nao-esclarece-vota-cabaz-chega-fica-aguardar-decisao-belem-2196661"
+     ],
+     [
+      "2026-11-27 18:58",
+      "ECO",
+      "Melão incluído, melancia de fora. Veja a lista dos alimentos com ‘IVA zero’ que o Chega quer recuperar",
+      "https://eco.sapo.pt/2026/11/27/melao-incluido-melancia-de-fora-veja-a-lista-dos-alimentos-com-iva-zero-que-o-chega-quer-recuperar/"
+     ],
      [
       "2026-11-27 15:48",
       "ECO",
@@ -17378,14 +17520,20 @@
    "periodo": "Tarde",
    "ligacoes": [],
    "cobertura": {
-    "n": 7,
+    "n": 8,
     "n7": 0,
-    "n7ant": 0,
+    "n7ant": 1,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "palavras",
-    "ultima": "2026-10-31 06:35",
+    "ultima": "2026-11-20 19:56",
     "ultimas": [
+     {
+      "data": "2026-11-20",
+      "fonte": "ECO",
+      "titulo": "Proteção Civil alerta para chuva e ventos fortes sobretudo no Norte e Centro",
+      "url": "https://eco.sapo.pt/2026/11/20/protecao-civil-alerta-para-chuva-e-ventos-fortes-sobretudo-no-norte-e-centro/"
+     },
      {
       "data": "2026-10-31",
       "fonte": "Healthnews",
@@ -17397,15 +17545,15 @@
       "fonte": "Healthnews",
       "titulo": "AVC: INEM sinalizou mais de 6.700 suspeitas desde janeiro",
       "url": "https://healthnews.pt/2026/10/30/avc-inem-sinalizou-mais-de-6-700-suspeitas-desde-janeiro/#utm_source=rss&utm_medium=rss&utm_campaign=avc-inem-sinalizou-mais-de-6-700-suspeitas-desde-janeiro"
-     },
-     {
-      "data": "2026-10-29",
-      "fonte": "RTP Notícias",
-      "titulo": "INEM regista uma média de 26 casos suspeitos de AVC por dia este ano",
-      "url": "https://www.rtp.pt/noticias/pais/inem-regista-uma-media-de-26-casos-suspeitos-de-avc-por-dia-este-ano_n1775224"
      }
     ],
     "todas": [
+     [
+      "2026-11-20 19:56",
+      "ECO",
+      "Proteção Civil alerta para chuva e ventos fortes sobretudo no Norte e Centro",
+      "https://eco.sapo.pt/2026/11/20/protecao-civil-alerta-para-chuva-e-ventos-fortes-sobretudo-no-norte-e-centro/"
+     ],
      [
       "2026-10-31 06:35",
       "Healthnews",
@@ -17517,34 +17665,88 @@
     "Incêndios Rurais"
    ],
    "cobertura": {
-    "n": 318,
-    "n7": 17,
+    "n": 328,
+    "n7": 27,
     "n7ant": 29,
     "dias": 60,
     "ref": "2026-11-28",
     "metodo": "expressoes",
-    "ultima": "2026-11-27 11:44",
+    "ultima": "2026-11-28 11:51",
     "ultimas": [
      {
-      "data": "2026-11-27",
-      "fonte": "Renascença",
-      "titulo": "\"Nuvem\" da Força Aérea dos EUA alvo de ataque informático",
-      "url": "https://rr.pt/noticia/mundo/2026/11/27/nuvem-da-forca-aerea-dos-eua-alvo-de-ataque-informatico/495366/"
+      "data": "2026-11-28",
+      "fonte": "Diário de Notícias",
+      "titulo": "força aérea norte-americana",
+      "url": "https://www.dn.pt/topic/fora-area-norte-americana"
      },
      {
-      "data": "2026-11-27",
-      "fonte": "Ambiente Magazine",
-      "titulo": "Pingo Doce reforça frota com 8 veículos pesados elétricos para avançar na descarbonização da distribuição",
-      "url": "https://www.ambientemagazine.com/pingo-doce-reforca-frota-com-8-veiculos-pesados-eletricos-para-avancar-na-descarbonizacao-da-distribuicao/"
+      "data": "2026-11-28",
+      "fonte": "Diário de Notícias",
+      "titulo": "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "url": "https://www.dn.pt/internacional/ciberataque-atinge-infraestrutura-digital-da-fora-area-norte-americana"
      },
      {
-      "data": "2026-11-27",
-      "fonte": "ECO",
-      "titulo": "Retalho e logística abrem cerca de seis mil postos de trabalho até ao final do ano",
-      "url": "https://eco.sapo.pt/2026/11/27/retalho-e-logistica-abrem-cerca-de-seis-mil-postos-de-trabalho-ate-ao-final-do-ano/"
+      "data": "2026-11-28",
+      "fonte": "RTP Notícias",
+      "titulo": "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "url": "https://www.rtp.pt/noticias/mundo/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana_n1782183"
      }
     ],
     "todas": [
+     [
+      "2026-11-28 11:51",
+      "Diário de Notícias",
+      "força aérea norte-americana",
+      "https://www.dn.pt/topic/fora-area-norte-americana"
+     ],
+     [
+      "2026-11-28 11:51",
+      "Diário de Notícias",
+      "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "https://www.dn.pt/internacional/ciberataque-atinge-infraestrutura-digital-da-fora-area-norte-americana"
+     ],
+     [
+      "2026-11-28 08:30",
+      "RTP Notícias",
+      "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "https://www.rtp.pt/noticias/mundo/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana_n1782183"
+     ],
+     [
+      "2026-11-28 08:17",
+      "SIC Notícias",
+      "Ciberataques nos EUA: piratas informáticos conseguiram infiltrar-se na infraestrutura digital da Força Aérea",
+      "https://sicnoticias.pt/mundo/eua/2026-11-28-ciberataques-nos-eua-piratas-informaticos-conseguiram-infiltrar-se-na-infraestrutura-digital-da-forca-aerea-0dc98126"
+     ],
+     [
+      "2026-11-28 08:17",
+      "SIC Notícias",
+      "Ciberataques nos EUA: piratas informáticos conseguiu infiltrar-se na infraestrutura digital da Força Aérea",
+      "https://sicnoticias.pt/mundo/eua/2026-11-28-ciberataques-nos-eua-piratas-informaticos-conseguiu-infiltrar-se-na-infraestrutura-digital-da-forca-aerea-0dc98126?utm_source=sicnot&utm_medium=category&utm_campaign=WEB&utm_content=/mundo/eua/2026-11-28-ciberataques-nos-eua-piratas-informaticos-conseguiu-infiltrar-se-na-infraestrutura-digital-da-forca-aerea-0dc98126"
+     ],
+     [
+      "2026-11-28 01:44",
+      "Executive Digest",
+      "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
+      "https://executivedigest.sapo.pt/ciberataque-atinge-infraestrutura-digital-da-forca-aerea-norte-americana/"
+     ],
+     [
+      "2026-11-27 19:11",
+      "Público",
+      "Hackers invadem principal plataforma de computação na “nuvem” da Força Aérea dos EUA",
+      "https://www.publico.pt/2026/11/27/enter/noticia/hackers-invadem-principal-plataforma-computacao-nuvem-forca-aerea-eua-2196542"
+     ],
+     [
+      "2026-11-27 17:39",
+      "Sábado",
+      "Piratas informáticos acederam à principal plataforma de computação da Força Aérea dos EUA",
+      "https://www.sabado.pt/mundo/detalhe/piratas-informaticos-acederam-a-principal-plataforma-de-computacao-da-forca-aerea-dos-eua"
+     ],
+     [
+      "2026-11-27 13:58",
+      "Correio da Manhã",
+      "Plataforma de dados da Força Aérea dos EUA alvo de ataque informático",
+      "https://www.cmjornal.pt/mundo/amp/plataforma-de-dados-da-forca-aerea-dos-eua-alvo-de-ataque-informatico"
+     ],
      [
       "2026-11-27 11:44",
       "Renascença",
@@ -17570,10 +17772,16 @@
       "https://www.dn.pt/economia/opo-de-aeroporto-de-santarm-em-risco-devido-a-plataforma-logstica"
      ],
      [
-      "2026-11-26 19:12",
+      "2026-11-26 17:18",
       "ECO",
       "Zelensky alerta para iminência de grande ataque russo à rede elétrica",
       "https://eco.sapo.pt/2026/11/26/zelensky-alerta-para-iminencia-de-grande-ataque-russo-a-rede-eletrica/"
+     ],
+     [
+      "2026-11-26 16:57",
+      "Notícias ao Minuto",
+      "Zelensky alerta para iminência de grande ataque russo à rede elétrica",
+      "https://www.noticiasaominuto.com/mundo/3090804/zelensky-alerta-para-iminencia-de-grande-ataque-russo-a-rede-eletrica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed"
      ],
      [
       "2026-11-26 16:16",
